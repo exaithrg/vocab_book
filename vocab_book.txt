@@ -107,3 +107,316 @@ CET4 TEM4
 6. (PHRASE) You can use in the circumstances or under the circumstances before or after a statement to indicate that you have considered the conditions affecting the situation before making the statement. 在那种情况下
    ≫   In the circumstances, Paisley's plans looked highly appropriate.  在那种情况下，佩斯利的计划看起来非常合适。
 
+========================================================================
+contemporary    [美 kən'tɛmpərɛri / 英 kən'temp(ə)r(ər)ɪ]
+n. 同时代的人；同时期的东西
+adj. 当代的；同时代的；属于同一时期的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Contemporary things are modern and relate to the present time. 当代的
+   ≫   She writes a lot of contemporary music for people like Whitney Houston.  她为惠特尼·休斯敦等人创作大量当代音乐作品。
+2. (ADJ) Contemporary people or things were alive or happened at the same time as something else you are talking about. 同时代的
+   ≫   ...drawing upon official records and the reports of contemporary witnesses.  …借助官方记录以及当时目击者的证言。
+3. (N-COUNT) Someone's contemporary is a person who is or was alive at the same time as them. 同时代的人
+   ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+paradigm    [美 'pærə'daɪm / 英 'pærədaɪm]
+n. 范例；词形变化表
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A paradigm is a model for something that explains it or shows how it can be produced. 范例
+   ≫   ...a new paradigm of production.  …一种新的生产范例。
+
+========================================================================
+alleviation    [美 ə,livɪ'eʃən / 英 ə,liːvɪ'eɪʃən]
+n. 缓和；镇痛物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For example, when we cache the code for a cause such as world peace or poverty alleviation, we use the code in Listing 8. 例如，当我们为特定的内容（比如世界和平或减少贫困）而进行代码缓存时，我们需要使用清单 8 中的代码。
+≫   It is in the common interest of regional countries and shared aspiration of all peoples to have alleviation rather than tension, dialogue than confrontation and peace than war. 要缓和不要紧张，要对话不要对抗，要和平不要战争，符合本地区国家的共同利益，也是各国人民的共同愿望。
+≫   Without a recovery, he said, all other national goals will not be achieved, whether they be the projection of U.S. strength abroad or the alleviation of poverty in developing countries. 他说，在经济没有复苏的情况下，其它一切国家政策目标都无法实现，不论是在海外显示美国的力量还是在发展中国家减少贫穷。
+
+========================================================================
+aforementioned    [美 ə,fɔr'mɛnʃənd / 英 əfɔː'menʃənd]
+adj. 上述的；前面提及的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [det ADJ, usu 'the' ADJ n] If you refer to the aforementioned person or subject, you mean the person or subject that has already been mentioned. 此前提及的
+   ≫   This is the draft of a declaration that will be issued at the end of the aforementioned U.N. conference.  这是将在上述联合国会议结束时发布的宣言的草稿。
+
+========================================================================
+dissertation    [美 'dɪsɚ'teʃən / 英 ,dɪsə'teɪʃ(ə)n]
+n. 论文，专题；学术演讲
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dissertation is a long formal piece of writing on a particular subject, especially for an advanced university degree. (学位) 论文
+   ≫   He is currently writing a dissertation on the Somali civil war.  他正在写一篇关于索马里内战的论文。
+
+========================================================================
+dissertation    [美 'dɪsɚ'teʃən / 英 ,dɪsə'teɪʃ(ə)n]
+n. 论文，专题；学术演讲
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dissertation is a long formal piece of writing on a particular subject, especially for an advanced university degree. (学位) 论文
+   ≫   He is currently writing a dissertation on the Somali civil war.  他正在写一篇关于索马里内战的论文。
+
+========================================================================
+demonstrates    ['demənstreit]
+示范
+论证
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+the old idea of bandwidth-demanding write-update coherence protocols adapted for modern multi-chiplet systems significantly improves their performance
+旧的带宽要求高的写更新一致性协议的想法适用于现代多芯片系统显着提高了它们的性能
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+prototyping platform
+原型平台
+
+========================================================================
+emerging    [ɪ'mɝdʒɪŋ]
+adj. 新兴的；出现的；形成的
+v. 形成；浮现；显露（emerge的ing形式）；由…中脱出
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To emerge means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen. (从视线以外的地方) 出现; 出来
+   ≫   Richard was waiting outside the door as she emerged.  当她出现的时候，理查德正等候在门外。
+   ≫   She then emerged from the courthouse to thank her supporters.  于是她从法院大楼出来向支持者们表示感谢。
+2. (V-I) If you emerge from a difficult or bad experience, you come to the end of it. 摆脱
+   ≫   There is growing evidence that the economy is at last emerging from recession.  有越来越多的迹象表明经济将最终摆脱萧条。
+3. (V-T/V-I) If a fact or result emerges from a period of thought, discussion, or investigation, it becomes known as a result of it. 显露 (事实、结果)
+   ≫   ...the growing corruption that has emerged in the past few years.  …过去几年中暴露出来的日趋严重的腐败。
+   ≫   It soon emerged that neither the July nor August mortgage payment had been collected.  很快显示的是7月和8月的抵押款都没有被收取。
+4. [journalism] If someone or something emerges as a particular thing, they become recognized as that thing. 立足成为
+   ≫   Vietnam has emerged as the world's third-biggest rice exporter.  越南已立足成为世界第三大稻米出口国。
+5. [journalism] When something such as an organization or an industry emerges, it comes into existence. 兴起
+   ≫   ...the new republic that emerged in October 1917.  …1917年10月成立的新共和国。
+
+========================================================================
+prohibitively    [prəu'hibitivli]
+adv. 禁止地；过高地；过分地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Shipping our television to the UK was out of the question—not only would it have been prohibitively expensive, it was unlikely to work here anyway. 把我们的电视运到英国是绝对不可能的，不仅仅因为高昂的运输费用，还因为在这里它根本不能工作。
+≫   Such special-purpose code maximizes the efficiency of the computations, but it would be prohibitively time consuming to write by hand. 这个定制化代码最大化了计算的性能，但是写这段代码是一件费时又让人生畏的工作。
+≫   As the hotels downtown were prohibitively expensive, residence clubs were among the most attractive options for these students. 由于市区的酒店都极度昂贵，住宅俱乐部就是对这些学生最有吸引力的选择。
+
+========================================================================
+prohibitively expensive
+价格过高：指价格非常昂贵，以至于大多数人都无法承受。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Meat and butter were prohibitively expensive. 肉和奶油都贵得买不起。《柯林斯英汉双解大词典》
+≫   Now, new technology makes it easier, faster, and cheaper to identify and serve targeted micro-markets in ways that were physically impossible or prohibitively expensive in the past. 现在，新技术使识别和服务目标微市场变得更容易、更快捷、更便宜；这在过去是不可能实现的，或者是代价非常昂贵的。
+≫   Car insurance can be prohibitively expensive for young drivers. 汽车保险费有时高得让年轻开车人承受不起。《牛津词典》
+
+========================================================================
+concurrent    [美 kən'kɝənt / 英 kən'kʌr(ə)nt]
+adj. 并发的；一致的；同时发生的
+n. [数] 共点；同时发生的事件
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Concurrent events or situations happen at the same time. 同时发生的
+   ≫   Galerie St. Etienne is holding three concurrent exhibitions.  圣·艾蒂安美术馆在同时举办3场展览。
+   ≫   He will actually be serving three concurrent five-year sentences.  实际上他要同期服3个5年的刑期。
+2. [ADV with v] concurrently 同时发生地
+   ≫   He was jailed for 33 months to run concurrently with a sentence he is already serving for burglary.  他被关进监狱33个月，与因入室行窃已经在服的刑期同期执行。
+
+========================================================================
+regime    [美 re'ʒim / 英 reɪ'ʒiːm]
+n. 政权，政体；社会制度；管理体制
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to a government or system of running a country as a regime, you are critical of it because you think it is not democratic and uses unacceptable methods. 统治
+   ≫   ...the collapse of the Fascist regime at the end of the war.  …战争结束时法西斯统治的崩溃。
+2. (N-COUNT) A regime is the way that something such as an institution, company, or economy is run, especially when it involves tough or severe action. (机构、公司或经济等的) 管理方式
+   ≫   The authorities moved him to the less rigid regime of an open prison.  当局把他移送到管理相对宽松的不设防监狱。
+3. (N-COUNT) A regime is a set of rules about food, exercise, or beauty that some people follow in order to stay healthy or attractive. 养生法
+   ≫   He has a new fitness regime to strengthen his back.  他有一套新的健康养生法来加强他的背部力量。
+
+========================================================================
+residing    [ri'zaid]
+属于
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone resides somewhere, they live there or are staying there. 居住
+   ≫   Margaret resides with her invalid mother in a Seattle suburb.  玛格丽特和她有病的妈妈住在西雅图郊区。
+2. [no cont] If a quality resides in something, the thing has that quality. 存在
+   ≫   Happiness does not reside in strength or money.  幸福不存在于力量或金钱之中。
+
+========================================================================
+reside on
+居住在：指在某个地方定居或居住。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In your topology, you may have multiple nodes residing on separate machines. 在您的拓朴中，可能将多个节点分别驻留在不同的计算机上。
+≫   Thus, the data is actually residing on the remote AIX machine in an encrypted form. 因此，数据实际上以加密的形式驻留在远程AIX机器上。
+≫   Notice that the load test clients are not residing on the application servers themselves. 请注意负载测试客户机没有驻留在应用程序服务器上。
+
+========================================================================
+substantially    [英 səb'stænʃ(ə)lɪ / 美 səb'stænʃəli]
+adv. 实质上；大体上；充分地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something changes substantially or is substantially different, it changes a lot or is very different. 很大程度地
+   ≫   The percentage of girls in engineering has increased substantially.  工科女生的比例已经大大增长了。
+
+========================================================================
+restricts    [ri'strikt]
+约束
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you restrict something, you put a limit on it in order to reduce it or prevent it from becoming too great. 限制
+   ≫   There is talk of raising the admission requirements to restrict the number of students on campus.  有提高录取条件来限制校园里学生数量的说法。
+2. (N-UNCOUNT) restriction 限制
+   ≫   Since the costs of science were rising faster than inflation, some restriction on funding was necessary.  既然科学成本上涨快于通货膨胀，资助上的一些限制是必要的。
+3. (V-T) To restrict the movement or actions of someone or something means to prevent them from moving or acting freely. 限制
+   ≫   The government imprisoned dissidents, forbade travel, and restricted the press.  政府关押了持不同政见者，禁止了出游，限制了新闻自由。
+4. (N-UNCOUNT) restriction 限制
+   ≫   ...the justification for this restriction of individual liberty.  …对限制个人自由的辩护。
+5. (V-T) If you restrict someone or their activities to one thing, they can only do, have, or deal with that thing. If you restrict them to one place, they cannot go anywhere else. 限制 (在某范围)
+   ≫   For the first two weeks, patients are restricted to the grounds.  最初两周病人们被限制在院内活动。
+6. (V-T) If you restrict something to a particular group, only that group can do it or have it. If you restrict something to a particular place, it is allowed only in that place. 限定
+   ≫   Trustees had decided to restrict university entry to about 30 percent of applicants.  董事们已经决定把大学入学率限定在申请人数的30％左右。
+
+========================================================================
+Confident Adaptive Language Modeling
+自信的自适应语言建模
+
+========================================================================
+drastic    [美 'dræstɪk / 英 'dræstɪk; 'drɑː-]
+adj. 激烈的；猛烈的
+n. 烈性泻药
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you have to take drastic action in order to solve a problem, you have to do something extreme to solve it. 极端的
+   ≫   Drastic measures are needed to clean up the profession.  需要采取极端的措施来整顿这个行业。
+2. (ADJ) A drastic change is a very great change. 剧烈的
+   ≫   Foreign food aid has led to a drastic reduction in the numbers of people dying of starvation.  外国的食品援助使得因饥饿而死亡的人数大幅下降。
+3. [ADV with v] drastically 剧烈地
+   ≫   As a result, services have been drastically reduced.  结果，服务被大大减少了。
+
+========================================================================
+drastic increase
+剧烈增长，飞速上涨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Drastic increase or decrease in weight. 体重发生急剧增加或减少的现象。
+≫   A drastic increase in transactions that affect systems across the entire grid. 在事务方面惊人的增长，通过整个电网影响系统。
+≫   Therewon't be a drastic increase of survival rate of all cancer patients. 所有癌症病人的存活率不会大量增加。
+
+========================================================================
+drastic increase in the models’ size
+模型尺寸急剧增加
+
+========================================================================
+composed of
+由……组成：表示某物是由若干部分或成分组成的。
+
+========================================================================
+In practice, however, the series of generations made by LLMs is composed of varying levels of difficulty
+然而，在实践中，法学硕士所做的一系列世代是由不同的难度组成的
+
+========================================================================
+full capacity
+满负荷：指设备或系统在最大工作能力下的运行状态。
+
+========================================================================
+continuations    [kən,tɪnjʊ'eʃən]
+n. 延续部分；（书籍的）附录；（文学作品的）续集（continuation的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The continuation of something is the fact that it continues, instead of stopping. 持续
+   ≫   It's the coalition forces who are to blame for the continuation of the war.  是联军应对战争的持续负责。
+2. (N-COUNT) Something that is a continuation of something else is closely connected with it or forms part of it. 延续
+   ≫   This chapter is a continuation of Chapter 8.  本章是第8章的延续。
+
+========================================================================
+trivial    [英 'trɪvɪəl / 美 'trɪvɪəl]
+adj. 不重要的，琐碎的；琐细的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as trivial, you think that it is unimportant and not serious. 无关紧要的
+   ≫   The director tried to wave aside these issues as trivial details that could be settled later.  那位主任对这些问题置之不理，视它们为可以后解决的无关紧要的细节。
+
+========================================================================
+efficacy    [美 'ɛfɪkəsi / 英 'efɪkəsɪ]
+n. 功效，效力
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you talk about the efficacy of something, you are talking about its effectiveness and its ability to do what it is supposed to. 功效
+   ≫   Recent medical studies confirm the efficacy of a healthier lifestyle.  近来的医学研究证实了更健康的生活方式的功效。
+
+========================================================================
+demonstrate    [美 'dɛmən'stret / 英 'demənstreɪt]
+vt. 证明；展示；论证
+vi. 示威
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+empirical experiments
+经验试验
+
+========================================================================
+diverse    [美 daɪ'vɝs / 英 daɪ'vɜːs; 'daɪvɜːs]
+adj. 不同的；多种多样的；变化多的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a group of things is diverse, it is made up of a wide variety of things. 各种各样的
+   ≫   The building houses a wide and diverse variety of antiques.  这栋楼里摆放着大量各式各样的古董。
+2. (ADJ) Diverse people or things are very different from each other. 不同的
+   ≫   Albert Jones' new style will inevitably put him in touch with a much more diverse and perhaps younger audience.  艾伯特·琼斯的新风格无疑将使他接触更多形形色色的、或许更年轻的观众。
+
+========================================================================
+comprises
+v．包含，包括：由某些部分、元素或成员组成。
+★★ CET4 TEM4 comprising,comprised,comprises
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that something comprises or is comprised of a number of things or people, you mean it has them as its parts or members. 包含; 由…组成 [正式]
+   ≫   The special cabinet committee comprises Mr. Brown, Mr. Mandelson, and Mr. Straw.  这一特殊内阁委员会包括布朗先生、曼德尔森先生和斯特劳先生。
+   ≫   The task force is comprised of congressional leaders, cabinet heads and administration officials.  该任务队由国会领导人、内阁首脑和行政官员构成。
+
+========================================================================
+Not found :(
+
+========================================================================
+computing resource utilization
+计算资源利用率
+
+========================================================================
+spatial    [英 'speɪʃ(ə)l / 美 'speʃl]
+adj. 空间的；存在于空间的；受空间条件限制的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Spatial is used to describe things relating to areas. 空间的
+   ≫   ...the spatial distribution of black employment and population in South Africa.  …南非黑人就业和人口的空间分布。
+2. [ADJ n] Your spatial ability is your ability to see and understand the relationships between shapes, spaces, and areas. 感悟空间的 (能力)
+   ≫   His manual dexterity and fine spatial skills were wasted on routine tasks.  他的手巧和很好的感悟空间的技能被浪费在日常事务中了。
+
