@@ -989,3 +989,59 @@ n. 罗琳（女子名）
 ≫   Rowling: No. I can’t tell you. 罗琳：不行，我不能告诉你。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+synergy    [美 'sɪnɚdʒi / 英 'sɪnədʒɪ]
+n. 协同；协同作用；增效
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] If there is synergy between two or more organizations or groups, they are more successful when they work together than when they work separately. 协同作用
+   ≫   Of course, there's quite obviously a lot of synergy between the two companies.  当然，这两家公司之间显然有许多的协同作用。
+
+========================================================================
+appliance    [美 ə'plaɪəns / 英 ə'plaɪəns]
+n. 器具；器械；装置
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] An appliance is a device or machine in your home that you use to do a job such as cleaning or cooking. Appliances are often electrical. (常为用电的) 家用器械
+   ≫   He could also learn to use the vacuum cleaner, the washing machine and other household appliances.  他还能学习使用吸尘器、洗衣机和其他家用电器。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+resiliency    [美 rɪ'zɪlɪjənsi / 英 rɪ'zɪlɪənsɪ]
+n. 弹性；跳回
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The simplest question to consider in your application is if grid resiliency is even an issue in your application. 在应用程序中要考虑的最简单的问题是，网格弹性是否是应用程序中的一个问题。
+≫   A critical principle of caching is that you trade memory for other things -- better response times, and/or increased resiliency, and/or reduced contention in costs in other systems. 缓存的一个关键原则是用内存换取其他性能，比如更好的响应时间和/或增加的弹性，和/或其他系统中降低的成本占用。
+≫   In a follow-on article, I will review availability, resiliency, and even mobility aspects. 在后续的一篇文章中，我将讨论可用性、弹性和移动性问题。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：672
+pareto optimal
+帕累托最优：在经济学中，指一种资源分配状态，当无法通过重新分配资源使某些人更好而不使其他人更差时，该状态被认为是帕累托最优的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Pareto    [pɑ'rɛtɔ]
+n. 帕雷托（意大利经济学家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is the basis for the Pareto diagram, one of the key tools used in total quality control and Six Sigma. 它是帕雷托图表的基础，是一个用在全面质量控制和六标准差中的关键工具。
+≫   Pareto later carried out surveys on a number of other countries and found to his surprise that a similar distribution applied. 后来帕雷托在一些国家实施了调查，令他惊奇的是，相似的分布同样在其它事物上体现出来。
+≫   This is a simple example of a Pareto diagram using sample data showing the relative frequency of causes for errors on websites. 这是一个简单的帕雷托图表的例子，用抽样资料显示引起网络错误原因的相对频率。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5050
+quantitative biology
+[生物] 定量生物学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A theory began to form in his mind that would provide a quantitative framework for some of the most fundamental problems in biology. 在他的心中一个将为生物学中最基本的一些问题提供定量框架的理论开始形成。
+≫   Study of mechanism of medicine actions, by quantitative analysis of cultured cardiac myocyte, is one of the cutting edge researches in myocyte dynamics and molecular biology. 通过对离体培养的心肌细胞特征参数的定量分析，从细胞力学和分子生物学的角度研究药物的作用机理，是目前生物医学工程学科的前沿性课题。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5094
+University of Minnesota
+明尼苏达大学：位于美国明尼苏达州双城区的一所公立大学。
+
