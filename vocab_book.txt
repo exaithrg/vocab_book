@@ -420,3 +420,488 @@ CET6+ TEM8
 2. [ADJ n] Your spatial ability is your ability to see and understand the relationships between shapes, spaces, and areas. 感悟空间的 (能力)
    ≫   His manual dexterity and fine spatial skills were wasted on routine tasks.  他的手巧和很好的感悟空间的技能被浪费在日常事务中了。
 
+========================================================================
+pragmatic    [美 præg'mætɪk / 英 præg'mætɪk]
+adj. 实际的；实用主义的；国事的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A pragmatic way of dealing with something is based on practical considerations, rather than theoretical ones. A pragmatic person deals with things in a practical way. 务实的
+   ≫   Robin took a pragmatic look at her situation.  罗宾从务实的角度看待她的状况。
+2. (ADV) pragmatically 务实地
+   ≫   "I can't ever see us doing anything else," stated Brian pragmatically.  “我看不出我们还能做别的什么事情，” 布赖恩务实地说。
+
+========================================================================
+monolithic    [英 mɒnə'lɪθɪk / 美 ,mɑnə'lɪθɪk]
+adj. 整体的；巨石的，庞大的；完全统一的
+n. 单块集成电路，单片电路
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的
+   ≫   ...an authoritarian and monolithic system.  …大一统的独裁体制。
+2. [表不满] If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的
+   ≫   ...a huge monolithic concrete building.  …一座巨大而平庸的混凝土建筑。
+
+========================================================================
+heterogeneous    [美 'hɛtərə'dʒinɪəs / 英 ,het(ə)rə(ʊ)'dʒiːnɪəs; -'dʒen-]
+adj. [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A heterogeneous group consists of many different types of things or people. 由很多种类组成的
+   ≫   ...a rather heterogeneous collection of studies from diverse origins.  …来自各种不同渠道的一系列种类繁多的研究。
+
+========================================================================
+roadmap    ['rod,mæp]
+n. 路标（等于road map）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This roadmap should be captured in an Administration and Maintenance Plan. 应该能够从管理和维护计划中获得该路标。
+≫   The strategy or roadmap should be shared across the organization to help focus the teams on the objectives and background reasons for the change program. 为了帮助将注意力集中在变化计划的对象和背景原因上，策略或是路标在组织中应当被分享。
+≫   The article parts will all have a similar organization. Each will begin with a roadmap through the article like the one below, with links to those parts that are currently available. 这个系列文章的每一篇都有相似的组织形式 ，每篇文章都以一个路标开始，就像下面的一样，每一个链接会连到相应的文章部分。
+
+========================================================================
+decouple    [美 diːˈkʌpl / 英 diːˈkʌpl]
+vt. 减弱震波；使分离
+n. [电] 去耦
+decoupling,decoupled,decouples
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If two countries, organizations, or ideas that were connected in some way are decoupled, the connection between them is ended. 分离 [正式]
+   ≫   ...a conception which decouples culture and politics.  ...一种分离文化与政治的观念。
+   ≫   The issue threatened to decouple Europe from the United States.  这个问题威胁到欧洲从美国分离出来。
+
+========================================================================
+persistently    [英 pə'sistəntli /  pə'sistəntli]
+adv. 坚持地；固执地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) If something happens persistently, it happens again and again or for a long time. 反复地; 一直
+   ≫   The allegations have been persistently denied by ministers.  这些说法一次次地被部长们否认。
+2. [ADV with v] If someone does something persistently, they do it with determination even though it is difficult or other people are against it. 坚定地
+   ≫   Rachel gently but persistently imposed her will on Doug.  雷切尔温和而坚定地将她的意志强加在道格身上。
+
+========================================================================
+primitives    ['prɪmətɪv]
+n. [计] 基元（primitive的复数）；原始事物；基本体
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Primitive means belonging to a society in which people live in a very simple way, usually without industries or a writing system. 原始的 (社会)
+   ≫   ...studies of primitive societies.  …对原始社会的研究。
+2. (ADJ) Primitive means belonging to a very early period in the development of an animal or plant. 原始的 (动物、植物)
+   ≫   ...primitive whales.  …原始鲸。
+   ≫   Primitive humans needed to be able to react like this to escape from dangerous animals.  原始人们需要能够像这样反应以逃脱危险的动物。
+3. (ADJ) If you describe something as primitive, you mean that it is very simple in style or very old-fashioned. 简陋的; 旧式的
+   ≫   The conditions are primitive by any standards.  这些条件以任何标准衡量都是简陋的。
+
+========================================================================
+transceivers    [træns'si:və; trænz-; trɑ:n-]
+n. [通信] 收发器（transceiver的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a device which transmits and receives radio or electronic signals 收发器
+
+========================================================================
+NIC    [ɛn aɪ si]
+abbr. 网络信息中心（Network Information Center）；网路界面卡（Network Interface Card）；全国工业理事会（National Industrial Council）；航行情报中心（Navigation Information Center）
+n. (Nic)人名；(罗)尼克
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) newly industrialized country 新兴工业国
+
+========================================================================
+attainable    [美 ə'tenəbl / 英 ə'teɪnəbl]
+adj. 可得到的；可达到的；可到达的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is attainable can be achieved. 可达到的
+   ≫   It is unrealistic to believe perfection is an attainable goal.  相信可以达到完美是不现实的。
+
+========================================================================
+expressiveness    [ɪk'sprɛsɪvnɪs]
+n. 善于表现；表情丰富
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Moreover, it offers the expressiveness which helps to “simplify complex tasks”. 此外，它更具表现力，这有助于“简化复杂任务”。
+≫   If these issues are not handled well, the benefits of generic types can easily be outweighed by decreases in expressiveness and robustness. 如果这些问题处理得不当，那么可表达性和健壮性的降低会轻易地抵消泛型类型的好处。
+≫   This approach has many advantages over the other two, allowing us to keep the expressiveness of the second approach and the same degree of static checking as in the first. 与另外两种方法相比，该方法有许多优点，它允许我们保持第二种方法的可表达性以及与第一种方法中相同的静态检查程度。
+
+========================================================================
+Not found :(
+
+========================================================================
+fabric    [美 'fæbrɪk / 英 'fæbrɪk]
+n. 织物；布；组织；构造；建筑物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Fabric is cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads. Fabrics are used for making things such as clothes, curtains, and sheets. 织物
+   ≫   ...small squares of red cotton fabric.  …几小块方形红棉布。
+2. (N-SING) The fabric of a society or system is its basic structure, with all the customs and beliefs that make it work successfully. (社会或系统的) 结构
+   ≫   The fabric of society has been deeply damaged by the previous regime.  社会结构已被上届执政者严重地破坏了。
+
+========================================================================
+computation capacity
+计算能力
+
+========================================================================
+aggregate    [美 'æɡrɪɡət; (for v.) æɡrɪˌɡet / 英 'ægrɪgət; (for v.) ˈægrɪgeɪt]
+vi. 集合；聚集；合计
+vt. 集合；聚集；合计
+n. 合计；集合体；总计
+adj. 聚合的；集合的；合计的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] An aggregate amount or score is made up of several smaller amounts or scores added together. 合计的
+   ≫   The rate of growth of GNP will depend upon the rate of growth of aggregate demand.  国民生产总值的增长率将依赖于总需求的增长率。
+
+========================================================================
+confines    ['kɑnfaɪnz]
+n. 范围；界限；疆界（confine的复数）
+v. 限制；禁闭（confine的三单形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To confine something to a particular place or group means to prevent it from spreading beyond that place or group. 将 (某事物) 控制 (在某地范围内)
+   ≫   Health officials have successfully confined the epidemic to the Tabatinga area.  卫生官员们已经成功地将该传染病控制在塔巴廷加地区。
+2. (V-T) If you confine somebody or something, you prevent them from leaving or escaping. 监禁
+   ≫   He was confined in an internment camp in Utah.  他被监禁在犹他州的一个拘留营里。
+   ≫   They decided not to let their new dog run loose, confining it to a fenced enclosure during the day.  他们决定不让他们的新狗乱跑，白天把它关在有围栏的围圈里。
+3. (V-T) If you confine yourself or your activities to something, you do only that thing and are involved with nothing else. 将 (自己或自己的活动) 局限于
+   ≫   He did not confine himself to the one language.  他没把自己局限于这一门语言。
+
+========================================================================
+intersection    [美 ,ɪntɚ'sɛkʃən / 英 ɪntə'sekʃ(ə)n]
+n. 交叉；十字路口；交集；交叉点
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An intersection is a place where roads or other lines meet or cross. 道路交叉口; 交点
+   ≫   We crossed at a busy intersection.  我们穿过了一个繁忙的道路交叉口。
+
+========================================================================
+confines the devices to the intersection
+将设备限制在十字路口
+
+========================================================================
+articulated    [美 ɑr'tɪkjuletɪd / 英 ɑː'tɪkjʊleɪtɪd]
+adj. 铰接式的；清晰的；组织缜密的；有关节的
+v. 铰接（articulate的过去分词）；明确地表达；使相互连贯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An articulated vehicle, especially a bus, is made in two or more sections that are joined together by metal bars, so that the vehicle can turn more easily. 铰接式的 (车辆)
+
+========================================================================
+viz.    [viz]
+adv. 即，也就是
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The school offers two modules in Teaching English as a Foreign Language, viz. Principles and Methods of Language Teaching and Applied Linguistics. 该校提供两个模块用于英语作为外语的教学，即语言教学的原理方法和应用语言学。《柯林斯英汉双解大词典》
+≫   The Course bean will have two properties defined viz. Course bean将有两个属性，分别用于定义viz。
+≫   It also includes descriptions of representations, viz., the XML documents in this example. 它还包含了表示的描述，即示例中的XML文档。
+
+========================================================================
+viz    [vɪz]
+abbr. 即；也就是（videlicet）
+n. (Viz)人名；(匈)维兹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The fourth constraint, viz., that hypermedia be the engine of application state serves two purposes. 第四个约束，即“超媒体即应用状态引擎”，有两个用途。
+≫   As we will see in the next section, this example does not take advantage of one of the key constraints of REST, viz., that hypermedia be the engine of application state. 因为我们将在后续小节看到，这个示例并没有利用REST的关键约束之一，即“超媒体即应用状态引擎”。
+≫   By looking at the HTTP method used, and the request/response headers, an intermediate entity such as a proxy or cache can decipher which part of the protocol (viz., HTTP) is being used and how. 通过检查使用的HTTP方法和请求/响应报头，像代理或缓存这样的中间实体就能够破译哪部分协议（即HTTP）正在被使用以及它们是如何被使用的。
+
+========================================================================
+infringements    [in'frindʒmənt]
+侵犯
+违反（infringement的名词复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An infringement is an action or situation that interferes with your rights and the freedom you are entitled to. (对他人权利或自由等的) 侵犯
+   ≫   ...infringement of privacy.  …对隐私的侵犯。
+2. (N-VAR) An infringement of a law or rule is the act of breaking it or disobeying it. 违反
+   ≫   There might have been an infringement of the rules.  也许有违反规章制度的情况。
+
+========================================================================
+epoch    [美 'ɛpək / 英 'iːpɒk; 'epɒk]
+n. [地质] 世；新纪元；新时代；时间上的一点
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you refer to a long period of time as an epoch, you mean that important events or great changes took place during it. 时代
+   ≫   The birth of Christ was the beginning of a major epoch of world history.  基督的诞生是世界历史一个重要时代的开始。
+
+========================================================================
+one epoch
+一个时代
+
+========================================================================
+scoreboard    [美 'skɔr'bɔrd / 英 'skɔːbɔːd]
+n. 记分板，记分牌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A scoreboard is a large board, for example, at a sports arena or stadium, which shows the score in a game or competition. 记分牌
+   ≫   The figures flash up on the scoreboard.  数字在记分牌上闪亮。
+
+========================================================================
+tackle    [美 'tækl / 英 'tæk(ə)l]
+n. 滑车；装备；用具；扭倒
+vt. 处理；抓住；固定；与…交涉
+vi. 扭倒；拦截抢球
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you tackle a difficult problem or task, you deal with it in a very determined or efficient way. 处理
+   ≫   The first reason to tackle these problems is to save children's lives.  解决这些问题的首要原因是为了挽救孩子们的生命。
+2. (V-T) If you tackle someone in a game such as American football or rugby, you knock them to the ground. If you tackle someone in soccer or hockey, you try to take the ball away from them. (美式或英式橄榄球比赛中) 擒抱摔倒; (足球运动或曲棍球运动中) 抢断
+   ≫   Foley tackled the quarterback.  福利擒住并摔倒了四分卫。
+3. (N-COUNT) Tackle is also a noun. 擒抱撞倒; 抢断
+   ≫   ...a tackle by fullback Brian Burrows.  …后卫布赖恩•伯罗斯的阻截。
+4. (V-T) If you tackle someone about a particular matter, you speak to them honestly about it, usually in order to get it changed or done. 坦率地与某人交谈
+   ≫   I tackled him about how anyone could live amidst so much poverty.  我坦率地与他谈论哪有人能在如此的极度贫困中生活。
+5. (V-T) If you tackle someone, you attack them and fight them. 攻击
+   ≫   Two security guards tackled and apprehended a man suspected of robbing 17 banks.  两名保安与一名涉嫌抢劫17家银行的男子搏斗并逮捕了他。
+6. (N-UNCOUNT) Tackle is the equipment that you need for a sport or activity, especially fishing. (尤指钓鱼等活动的) 器具
+   ≫   ...fishing tackle.  …渔具。
+
+========================================================================
+cryptocurrency    [美 ˈkrɪptoʊkɜːrənsi / 英 ˈkrɪptəʊkʌrənsi]
+n. （公共网络的，而非政府发行的）加密电子货币（使用加密法确保付款安全支付及收取）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Within the last year, the number of transactions with Bitcoin has grown 94%, within the last 1,5 years, the cryptocurrency quotations have grown 225%. 去年一年中比特币交易数量上升了94％， 过去1年半的时间i，虚拟货币已增至225%。
+
+========================================================================
+texure sampling
+texure抽样
+
+========================================================================
+texture    [英 'tekstʃə / 美 'tɛkstʃɚ]
+n. 质地；纹理；结构；本质，实质
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The texture of something is the way that it feels when you touch it, for example, how smooth or rough it is. 手感
+   ≫   It is used in moisturizers to give them a wonderfully silky texture.  它被用于各种保湿霜中，使之产生丝般的美妙手感。
+2. (N-VAR) The texture of something, especially food or soil, is its structure, for example, whether it is light with lots of holes, or very heavy and solid. (尤指食品、土壤等的) 结构
+   ≫   Matured over 18 months, this cheese has an open, crumbly texture with a strong flavour.  这种奶酪18个月后发酵成熟，气孔多，组织松脆，味道浓郁。
+
+========================================================================
+texure sampling
+texure抽样
+
+========================================================================
+excelling    [ik'sɛliŋ]
+n. 胜过（优于）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If someone excels in something or excels at it, they are very good at doing it. (在某方面) 擅长
+   ≫   Mary was a better rider than either of them and she excelled at outdoor sports.  玛丽比他们俩骑得都好，她擅长户外运动。
+   ≫   Academically he began to excel.  他开始在学术上脱颖而出。
+
+========================================================================
+facilitates    [fə'siliteit]
+v. 促进；帮助；使…容易（facilitate的第三人称单数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+   ≫   The new airport will facilitate the development of tourism.  新机场将促进旅游业的发展。
+
+========================================================================
+seamlessly    [英 'si:mlisli /  'si:mlisli]
+adv. 无缝地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Let's face it, you and others work for months to ensure the design you create deploys seamlessly to the organization. 让我们面对它：您和其他人工作数月以确保您创建的设计无缝地部署到组织中。
+≫   When something obstructs progress on their highest-priority task, they should seamlessly move on to the task with the next highest priority, then return to first one later. 当最高优先级的任务阻碍了测试进展时，他们应该无缝地进入拥有次高优先级的任务，然后再回到第一个任务。
+≫   You can upload the files or link to them if they are too large to make copies; those files can then be passed seamlessly to the appropriate tools that are recommended in the flows. 您可以上传这些文件或者链接到它们（如果它们太大而无法建立副本）；然后，可以将这些文件无缝地传递给在流程中推荐的合适的工具。
+
+========================================================================
+acronyms    ['ækrəunim]
+首字母缩略词（acronym的复数）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An acronym is a word composed of the first letters of the words in a phrase, especially when this is used as a name. An example of an acronym is NATO which is made up of the first letters of the "North Atlantic Treaty Organization." 首字母缩略词
+
+========================================================================
+Pareto    [pɑ'rɛtɔ]
+n. 帕雷托（意大利经济学家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is the basis for the Pareto diagram, one of the key tools used in total quality control and Six Sigma. 它是帕雷托图表的基础，是一个用在全面质量控制和六标准差中的关键工具。
+≫   Pareto later carried out surveys on a number of other countries and found to his surprise that a similar distribution applied. 后来帕雷托在一些国家实施了调查，令他惊奇的是，相似的分布同样在其它事物上体现出来。
+≫   This is a simple example of a Pareto diagram using sample data showing the relative frequency of causes for errors on websites. 这是一个简单的帕雷托图表的例子，用抽样资料显示引起网络错误原因的相对频率。
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Pareto    [pɑ'rɛtɔ]
+n. 帕雷托（意大利经济学家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is the basis for the Pareto diagram, one of the key tools used in total quality control and Six Sigma. 它是帕雷托图表的基础，是一个用在全面质量控制和六标准差中的关键工具。
+≫   Pareto later carried out surveys on a number of other countries and found to his surprise that a similar distribution applied. 后来帕雷托在一些国家实施了调查，令他惊奇的是，相似的分布同样在其它事物上体现出来。
+≫   This is a simple example of a Pareto diagram using sample data showing the relative frequency of causes for errors on websites. 这是一个简单的帕雷托图表的例子，用抽样资料显示引起网络错误原因的相对频率。
+
+========================================================================
+optimal    [美 'ɑptəml / 英 'ɒptɪm(ə)l]
+adj. 最佳的；最理想的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you find yourself waiting to be great, yearning for the optimal time when you can “afford” to do more, then you are saying at some level, if you can’t help everyone, you help no one. 如果你发现自己等着变得伟大,渴望着最佳时间当你可以“负担得起”去做更多事情的时候, 那么在一定程度上说，如果你不能帮助每个人，你对谁都没有好处。
+≫   Why do we need optimal sleep? 我们为什么需要最佳的睡眠？
+≫   You can do this anywhere, but on the grass is optimal. 你可以在任何地方练习，不过草地是最佳的选择。
+
+========================================================================
+hello world
+你好，世界：一个用于展示编程语言基本语法和结构的示例程序。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   theboldlife – Hello World. Happy Monday. @theboldlife – 你好世界，星期一快乐。
+≫   The original message printed is "HeLlO WoRlD". 最初打印的消息是“HeLlO WoRlD”。
+≫   Suppose you create a "Hello world" shell script. 假设您创建一个“Hello world”的shell脚本。
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+scalar    [美 skelɚ / 英 'skeɪlə]
+adj. 标量的；数量的；梯状的，分等级的
+n. [数] 标量；[数] 数量
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a quantity, such as time or temperature, that has magnitude but not direction 标量 → compare , ,
+2. (ADJ) having magnitude but not direction 标量的
+
+========================================================================
+unencumbered    [美 ,ʌnɪn'kʌmbɚd / 英 ʌnɪn'kʌmbəd; -en-]
+adj. 没有阻碍的；没有负担的；不受妨碍的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) not burdened, impeded, or hampered 无负担的; 无阻碍的
+
+========================================================================
+Not found :(
+
+========================================================================
+infrastructure    [美 'ɪnfrə'strʌktʃɚ / 英 'ɪnfrəstrʌktʃə]
+n. 基础设施；公共建设；下部构造
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The infrastructure of a country, society, or organization consists of the basic facilities such as transportation, communications, power supplies, and buildings, which enable it to function. (国家、社会、组织赖以行使职能的) 基础设施
+   ≫   ...improvements in the country's infrastructure.  …国家基础设施的改善。
+
+========================================================================
+identify    [美 aɪ'dɛntɪfaɪ / 英 aɪ'dentɪfaɪ]
+vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you can identify someone or something, you are able to recognize them or distinguish them from others. 识别
+   ≫   There are a number of distinguishing characteristics by which you can identify a Hollywood epic.  通过其诸多与众不同的特点,你可以识别出好莱坞的史诗影片。
+2. (V-T) If you identify someone or something, you name them or say who or what they are. 确认
+   ≫   Police have already identified 10 murder suspects.  警方已经确认了10名谋杀嫌疑犯。
+3. (V-T) If you identify something, you discover or notice its existence. 发现; 察觉
+   ≫   Scientists claim to have identified chemicals produced by certain plants which have powerful cancer-fighting properties.  科学家们声称已经发现某些植物产生的化学物质有强大的抗癌功能。
+4. (V-T) If a particular thing identifies someone or something, it makes them easy to recognize, by making them different in some way. 是…的标志; 使易于辨认
+   ≫   She wore a little nurse's hat on her head to identify her.  她头上戴了一顶小护士帽，这使她易于辨认。
+5. (V-I) If you identify with someone or something, you feel that you understand them or their feelings and ideas. 理解; 认同
+   ≫   She would only play a role if she could identify with the character.  她只愿扮演自己认同的人物角色。
+6. (V-T) If you identify one person or thing with another, you think that they are closely associated or involved in some way. 认为…密切相关
+   ≫   Moore really hates to play the sweet, passive women that audiences have identified her with.  穆尔非常讨厌饰演观众已将她定型的温柔可爱、逆来顺受的女性角色。
+
+========================================================================
+deficiency    [美 dɪ'fɪʃənsi / 英 dɪ'fɪʃ(ə)nsɪ]
+n. 缺陷，缺点；缺乏；不足的数额
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Deficiencyin something, especially something that your body needs, is not having enough of it. 缺乏; 不足
+   ≫   They did blood tests on him for signs of vitamin deficiency.  他们给他做了血检看是否有缺乏维生素的迹象。
+2. [正式] A deficiency that someone or something has is a weakness or imperfection in them. 缺点; 缺陷
+   ≫   The most serious deficiency in NATO's air defence is the lack of an identification system to distinguish friend from foe.  北约防空的最大缺陷就是缺乏能够辨认敌友的识别系统。
+
+========================================================================
+inability    [美 ,ɪnə'bɪləti / 英 ɪnə'bɪlɪtɪ]
+n. 无能力；无才能
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you refer to someone's inability to do something, you are referring to the fact that they are unable to do it. 无力
+   ≫   Her inability to concentrate could cause an accident.  她无法集中注意力可能会导致意外。
+
+========================================================================
+exploit    [美 ɛksplɔɪt; ɪkˈsplɔɪt / 英 ˈeksplɔɪt;ɪkˈsplɔɪt]
+vt. 开发，开拓；剥削；开采
+n. 勋绩；功绩
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+Not found :(
+
+========================================================================
+spilling    [美 spɪl]
+v. 溢漏，泄漏（spill的现在分词）；跌下
+n. 溢出物；散落
+n. (Spilling)人名；(德)施皮林
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If a liquid spills or if you spill it, it accidentally flows over the edge of a container. 无意洒落; 意外溢出
+   ≫   Seventy thousand tons of oil spilled from the tanker.  7万吨油从油轮漏出。
+   ≫   He always spilled the drinks.  他总是不小心把饮料给洒了。
+2. (N-COUNT) A spill is an amount of liquid that has spilled from a container. 洒落的液体
+   ≫   She wiped a spill of milkshake off the counter.  她擦掉柜台上洒落的奶昔。
+3. (N) a splinter of wood or strip of twisted paper with which pipes, fires, etc, are lit (点烟、点火用的)木头碎片或废纸
+4. (V-T/V-I) If the contents of a bag, box, or other container spill or are spilled, they come out of the container onto a surface. 使散落; 散落
+   ≫   A number of bags had split and were spilling their contents.  许多包裂开了，里面的东西正在散落出来。
+5. (V-I) If people or things spill out of a place, they come out of it in large numbers. 涌出
+   ≫   Tears began to spill out of the boy's eyes.  泪水开始从男孩的眼里涌出。
+
+========================================================================
+round-robin    ['raund'rɔbin]
+n. [计] 循环；循环赛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu N n] A round-robin is a sports competition in which each player or team plays against every other player or team. 循环赛
+   ≫   They beat Canada 4-1 in their last round-robin match at Nagoya in Japan.  在上一次在日本名古屋举行的循环赛中，他们以4比1战胜了加拿大。
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+heterogeneous    [美 'hɛtərə'dʒinɪəs / 英 ,het(ə)rə(ʊ)'dʒiːnɪəs; -'dʒen-]
+adj. [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A heterogeneous group consists of many different types of things or people. 由很多种类组成的
+   ≫   ...a rather heterogeneous collection of studies from diverse origins.  …来自各种不同渠道的一系列种类繁多的研究。
+
+========================================================================
+Not found :(
+
+========================================================================
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：654
+Arxiv
+n．Arxiv是一个在线存储库，用于存储科学论文的预印本，以便研究人员在同行评审过程中共享和访问。它涵盖了物理学、数学、计算机科学、生物学、金融和统计学等领域。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The work appears in the online forum the Physics arXiv. 这项发现已刊登在物理arXiv的网络论坛上。
+≫   However, their analysis, published last Friday on the arXiv preprint server, implies that more-precise data could confirm the existence of a multiverse. 尽管如此，刊登在上周五《arXiv》预印数据库中的分析，预示着更准确的数据将能证明多重宇宙的存在。
+≫   "Our observations on a typical Saturday night indicate that as many as 20-30% of Chatroulette users are minors, " they say in a paper published today on the arXiv. “据我们调查，仅平时的周末的晚上就有近20%-30%的在线用户都是未成年人”他们今天在arXiv上边发表文章如是说。
+
