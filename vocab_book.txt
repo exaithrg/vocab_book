@@ -30,3 +30,15 @@ n. 协同增效效应；合并效果（synergy的复数）
 1. [商业] If there is synergy between two or more organizations or groups, they are more successful when they work together than when they work separately. 协同作用
    ≫   Of course, there's quite obviously a lot of synergy between the two companies.  当然，这两家公司之间显然有许多的协同作用。
 
+========================================================================
+Neural Radiation Field Rendering
+神经辐射场渲染
+
+========================================================================
+Neural Radiance Fields
+神经辐射场
+
+========================================================================
+spatial modeling
+空间建模：指使用数学和计算机技术来模拟和分析物理空间中的现象和过程。
+
