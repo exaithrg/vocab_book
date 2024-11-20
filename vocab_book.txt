@@ -42,3 +42,68 @@ Neural Radiance Fields
 spatial modeling
 空间建模：指使用数学和计算机技术来模拟和分析物理空间中的现象和过程。
 
+========================================================================
+scene reconstruction
+场景重建：一种通过计算机技术和图像处理技术，对现实世界中的场景进行虚拟再现的过程。
+
+========================================================================
+obstacles    ['ɔbstəkl]
+n. 障碍；障碍物（obstacle的复数形式）；阻碍
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An obstacle is an object that makes it difficult for you to go where you want to go, because it is in your way. 障碍物
+   ≫   Most competition cars will only roll over if they hit an obstacle.  多数赛车在撞到障碍物时都会翻车。
+2. (N-COUNT) You can refer to anything that makes it difficult for you to do something as an obstacle. 障碍
+   ≫   Overcrowding remains a large obstacle to improving conditions.  过度拥挤仍然是改善条件的一大障碍。
+
+========================================================================
+multilayer perceptron
+多层感知机：一种具有至少一个隐藏层的神经网络，其神经元使用非线性激活函数（例如sigmoid）。
+
+========================================================================
+perceptron    [pɚ'sɛptrɑn]
+n. 感知器，[计] 感知机（模拟人类视神经控制系统的图形识别机）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A perceptron utilizes weights in a different and perhaps more intuitive way. 感知器以一种不同的而且可能更为直观的方式来使用权重。
+≫   A neural net that uses this rule is known as a perceptron, and this rule is called the perceptron learning rule. 一个使用这个规则的神经网络称为 感知器，并且这个规则被称为 感知器学习规则。
+≫   The perceptron training rule is based on the idea that weight modification is best determined by some fraction of the difference between target and output. 感知器培训规则是基于这样一种思路 ― 权系数的调整是由目标和输出的差分方程表达式决定。
+
+========================================================================
+grid occupancy
+网格占用
+
+========================================================================
+early termination computation unit
+提前终止计算单元
+
+========================================================================
+occupancy    [美 'ɑkjəpənsi / 英 'ɒkjəpənsɪ]
+n. 居住；占有；占用
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Occupancy is the act of using a room, building, or area of land, usually for a fixed period of time. 占用
+   ≫   Hotel occupancy has been as low as 40%.  酒店入住率已低至40%。
+
+========================================================================
+render synthetic data
+渲染合成数据
+
+========================================================================
+circumstances    ['sə:kəmstəns]
+n. 情况（circumstance的复数）；环境；情形
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The circumstances of a particular situation are the conditions which affect what happens. 情形
+   ≫   Recent opinion polls show that 60 percent favour abortion under certain circumstances.  最近的民意调查显示60%的人赞同特定情况下的流产。
+   ≫   The strategy was too dangerous in the explosive circumstances of the times.  在当时爆炸性的形势下，这一战略太危险了。
+2. (N-PLURAL) The circumstances of an event are the way it happened or the causes of it. 详情; 原委
+   ≫   I'm making inquiries about the circumstances of Mary Dean's murder.  我正在调查玛丽·迪安谋杀案的原委。
+3. (N-PLURAL) Your circumstances are the conditions of your life, especially the amount of money that you have. 境况 (尤指经济状况)
+   ≫   ...help and support for the single mother, whatever her circumstances.  …提供给单身母亲的帮助和支持，无论她们的境况如何。
+4. (N-UNCOUNT) Events and situations which cannot be controlled are sometimes referred to as circumstance. 命运; 客观环境
+   ≫   There are those, you know, who, by circumstance, end up homeless.  你知道，有些人由于命运的原因最终变得无家可归。
+5. [强调] You can emphasize that something must not or will not happen by saying that it must not or will not happen under any circumstances. 在任何情况下
+   ≫   Racism is wholly unacceptable under any circumstances.  在任何情况下种族主义都是完全不能被接受的。
+6. (PHRASE) You can use in the circumstances or under the circumstances before or after a statement to indicate that you have considered the conditions affecting the situation before making the statement. 在那种情况下
+   ≫   In the circumstances, Paisley's plans looked highly appropriate.  在那种情况下，佩斯利的计划看起来非常合适。
+
