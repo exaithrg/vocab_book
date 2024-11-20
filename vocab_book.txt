@@ -1,115 +1,25 @@
-hello    [美 həˈlo / 英 həˈləʊ]
-int. 喂；哈罗
-n. 表示问候， 惊奇或唤起注意时的用语
-n. (Hello)人名；(法)埃洛
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [套语] You say "Hello" to someone when you meet them. 你好 (打招呼用语)
-   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
-2. (N-COUNT) Hello is also a noun. 招呼
-   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
-3. [套语] You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
-   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
-4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
-   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
-
-hi    [美 haɪ / 英 haɪ]
-int. 嗨！（表示问候或用以唤起注意）
-n. (Hi)人名；(柬)希
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [套语] In informal situations, you say "hi" to greet someone. 嗨 (非正式场合中用于打招呼)
-   ≫   "Hi, Liz," she said shyly.  “嗨，利兹，”她羞涩地说。
-2. (INTERJ) an expression used to attract attention 嘿; 喂; 用于引起注意
-
+========================================================================
 Attention Is All You Need
 注意力就是你所需的一切
 
 ========================================================================
-hello    [美 həˈlo / 英 həˈləʊ]
-int. 喂；哈罗
-n. 表示问候， 惊奇或唤起注意时的用语
-n. (Hello)人名；(法)埃洛
-CET4 TEM4
+attention    [美 əˈtenʃ(ə)n / 英 əˈtenʃ(ə)n]
+n. 注意；注意力；照料；兴趣；立正；殷勤，关心
+★★★★ CET4 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [套语] You say "Hello" to someone when you meet them. 你好 (打招呼用语)
-   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
-2. (N-COUNT) Hello is also a noun. 招呼
-   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
-3. [套语] You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
-   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
-4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
-   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
-
-========================================================================
-hi    [美 haɪ / 英 haɪ]
-int. 嗨！（表示问候或用以唤起注意）
-n. (Hi)人名；(柬)希
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [套语] In informal situations, you say "hi" to greet someone. 嗨 (非正式场合中用于打招呼)
-   ≫   "Hi, Liz," she said shyly.  “嗨，利兹，”她羞涩地说。
-2. (INTERJ) an expression used to attract attention 嘿; 喂; 用于引起注意
-
-========================================================================
-what    [美 hwɒt; hwɑt / 英 wɒt]
-pron. 什么；多么；多少
-adj. 什么；多么；何等
-adv. 到什么程度，在哪一方面
-int. 什么；多么
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (QUEST) You use what in questions when you ask for specific information about something that you do not know. 什么 (用于疑问句，就所不知道的事询问具体信息)
-   ≫   What do you want?  你要什么？
-   ≫   What did she tell you, anyway?  她到底对你说了什么？
-   ≫   "Has something happened?"—"It certainly has."—"What?"  “发生了什么事吗？”—“是的。”—“是什么事？”
-2. (DET) What is also a determiner. 什么
-   ≫   What time is it?  现在几点钟？
-   ≫   What crimes are the defendants being charged with?  被告被控何罪？
-   ≫   "The heater works."—"What heater?"  “加热器可以用。” —“什么加热器？”
-3. (CONJ) You use what after certain words, especially verbs and adjectives, when you are referring to a situation that is unknown or has not been specified. 什么 (用在某些词后，尤其是动词和形容词后，指未知或不确定的情形)
-   ≫   You can imagine what it would be like driving a car into a brick wall at 30 miles an hour.  你可以想像以每小时30英里的速度，开车向一面砖墙撞去会是什么样子。
-   ≫   I want to know what happened to Norman.  我想知道诺曼出什么事了。
-4. (DET) What is also a determiner. 什么
-   ≫   I didn't know what college I wanted to go to.  我不知道我想上什么样的大学。
-   ≫   I didn't know what else to say.  我不知道还能再说点什么。
-5. [强调] You use what at the beginning of a clause in structures where you are changing the order of the information to give special emphasis to something. 用于某些从句之首，表示强调
-   ≫   What precisely triggered off yesterday's riot is still unclear.  具体是什么引发了昨天的暴乱仍然不清楚。
-   ≫   What I wanted, more than anything, was a few days' rest.  我最想要的是休息几天。
-6. (CONJ) You use what in expressions such as what is called and what amounts to when you are giving a description of something. …那样的
-   ≫   She had been in what doctors described as an irreversible vegetative state for five years.  她陷入医生们所说的一种不可逆转的植物人状态已达5年之久。
-7. (CONJ) You use what to indicate that you are talking about the whole of an amount that is available to you. 所有的 (指所能获得的全部)
-   ≫   He drinks what is left in his glass as if it were water.  他把杯子里所剩下的全部喝光，好像那是水一样。
-8. (DET) What is also a determiner. 所有的
-   ≫   They had used what money they had.  他们用尽了所有的钱。
-9. [口语] You say "What?" to tell someone who has indicated that they want to speak to you that you have heard them and are inviting them to continue. 什么？ (表示听到对方的话，请对方继续说下去)
-   ≫   "Dad?"—"What?"—"Can I have the car tonight?"  “爸爸？”—“什么？”—“我今晚可以用车吗？”
-10. [口语] You say "What?" when you ask someone to repeat the thing that they have just said because you did not hear or understand it properly. "What?" is more informal and less polite than expressions such as "Pardon?" and "Excuse me?" 什么 (表示没听清楚或没听明白而请别人重复刚说过的话，没有)(pardon)(和)(excuse me##excuse)(正式和礼貌)
-   ≫   "They could paint this place," she said. "What?" he asked.  “他们可以把这个地方油漆一下，”她说。“什么？”他问。
-11. [情感] You say "What" to express surprise. 表示吃惊
-   ≫   "Adolphus Kelling, I arrest you on a charge of trafficking in narcotics."—"What?"  阿道弗斯·克林，我现在以贩毒的罪名逮捕你。”—“什么？”
-12. [强调] You use what in exclamations to emphasize an opinion or reaction. 多么 (用于感叹句，强调某种看法或反应)
-   ≫   What a horrible thing to do.  做这样的事多可怕！
-13. (DET) What is also a determiner. 多么
-   ≫   What pretty hair she has, nice and thick.  她的头发多漂亮啊，好看又浓密。
-14. [ADV n] You use what to indicate that you are making a guess about something such as an amount or value. 嗯 (表示对数量或价值等的猜测)
-   ≫   It's, what, eleven years or more since he's seen her.  自从他上次见到她，已经有，嗯，11年甚至更久了。
-15. (CONVENTION) You say guess what or do you know what to introduce a piece of information that is surprising, that is not generally known, or that you want to emphasize. 你知道吗 (用于讲述让人吃惊的、不为人知的消息，或表示强调)
-   ≫   Guess what? I'm going to dinner at Mrs. Chang's tonight.  你知道吗？我今晚要去常太太家吃晚饭啦。
-16. [强调] In conversation, you say or what? after a question as a way of stating an opinion forcefully and showing that you expect other people to agree. 不然又是什么 (用于问句末尾，更有力地陈述观点，并期待别人同意自己的看法)
-   ≫   Look at that moon. Is that beautiful or what?  看那月亮。很美，不是吗？
-17. [情感] You say so what? or what of it? to indicate that the previous remark seems unimportant, uninteresting, or irrelevant to you. 那又怎么样呢 (表示别人刚说的话对自己不重要、没意思或不相干)
-   ≫   "What if there is no kerosene this winter?" said Al.—"So what?" she said. "We still have electricity."  “今年冬天如果没有煤油可怎么办呢？”阿尔说。—“那又怎么样？”她说。“我们还有电呢。”
-   ≫   "You're talking to yourself."—"Well, what of it?"  “你在自言自语。”—“呵，那又怎么样？”
-18. (PHRASE) You say "Tell you what" to introduce a suggestion or offer. 你听我说 (表示提出建议)
-   ≫   Tell you what, let's stay here another day.  你听我说，咱们在这儿再住一天吧。
-19. (PHRASE) You use what about at the beginning of a question when you make a suggestion, offer, or request. …怎么样 (用于问句句首，表示提建议或要求)
-   ≫   What about going out with me tomorrow?  明天和我一块出去怎么样？
-20. (PHRASE) You use what about or what of when you introduce a new topic or a point that seems relevant to a previous remark. …又怎么样 (用于引入与刚说过的话相关的新话题或观点)
-   ≫   Now you've talked about work on daffodils, what about other commercially important flowers, like roses?  既然你谈到了种植水仙，那么其他有重要商业价值的花卉，如玫瑰，又怎么样呢？
-21. (PHRASE) You say what about a particular person or thing when you ask someone to explain why they have asked you about that person or thing. …怎么了 (用于请别人解释提问的原因)
-   ≫   "This thing with the Corbett woman."—"Oh, yeah. What about her?"  “与那个姓科比特的女人有关的那件事。”—“噢，是啊，她怎么了？”
-22. (PHRASE) You say what if at the beginning of a question when you ask about the consequences of something happening, especially something undesirable. 如果…怎样 (用于疑问句之首，询问某事尤其是不希望发生的事的后果)
-   ≫   What if this doesn't work out?  如果这行不通怎么办呢？
-23. what's more →see
+1. (N-UNCOUNT) If you give someone or something your attention, you look at it, listen to it, or think about it carefully. 注意力
+   ≫   You have my undivided attention.  我全部的注意力都在你身上。
+   ≫   Later he turned his attention to the desperate state of housing in the city.  后来他把注意力转向了该市极为严重的住房状况。
+2. (N-UNCOUNT) Attention is great interest that is shown in someone or something, particularly by the general public. (尤指公众的) 关注
+   ≫   Volume Two, subtitled "The Lawyers," will also attract considerable attention.  副标题为《律师》的第2卷也将会引起极大的关注。
+3. (N-UNCOUNT) If someone or something is getting attention, they are being dealt with or cared for. 照料
+   ≫   Each year more than two million household injuries need medical attention.  每年有二百多万起在家受伤、需要医疗救治的案例。
+4. (N-UNCOUNT) If you bring something to someone's attention or draw their attention to it, you tell them about it or make them notice it. (引起某人) 注意
+   ≫   If we don't keep bringing this to the attention of the people, nothing will be done.  如果我们无法让公众保持对此事的关注，那就将一事无成。
+5. (PHRASE) If someone or something attracts your attention or catches your attention, you suddenly notice them. 突然引起某人的注意
+   ≫   A faint aroma of coffee attracted his attention.  一股淡淡的咖啡香味吸引了他的注意。
+6. (PHRASE) If you pay attention to someone, you watch them, listen to them, or take notice of them. If you pay no attention to someone, you behave as if you are not aware of them or as if they are not important. 注意
+   ≫   More than ever before, the food industry is paying attention to young consumers.  现在，食品业比以往任何时候都更加关注年轻的消费者。
+7. (PHRASE) When people stand at attention, they stand straight with their feet together and their arms at their sides. 立正
+   ≫   Soldiers in full combat gear stood at attention.  全副武装的士兵们立正站着。
 
