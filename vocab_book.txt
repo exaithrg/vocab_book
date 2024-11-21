@@ -1356,3 +1356,1279 @@ n. 俄罗斯方块（一种早期的益智游戏）
 ≫   Now the term refers to any activity that begins to shadow a person’s thoughts, and Achor believes a negative Tetris Effect is experienced by most workers. 现在这个术语指的是任何开始带给人们思想阴影的东西。 阿克尔相信，消极的“俄罗斯方块效应”正是大多数工作者们所经历过的。
 ≫   The game was so straightforward and simple that anybody could pick it up, yet as play progressed Tetris became more and more challenging. 这款游戏如此直接、简单，每个人都能很快上手，不过，随着游戏的进行，俄罗斯方块会变得越来越富有挑战。
 
+========================================================================
+subsequent    [美 'sʌbsɪkwənt / 英 'sʌbsɪkw(ə)nt]
+adj. 后来的，随后的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use subsequent to describe something that happened or existed after the time or event that has just been referred to. 随后的
+   ≫   ...the increase of population in subsequent years.  …随后几年中的人口增长。
+2. (ADV) subsequently 后来
+   ≫   He subsequently worked on Boeing's 747, 767 and 737 jetliner programmes.  他后来从事了波音747、767 和 737喷气式飞机的项目。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11680
+warp scheduling
+经调度
+
+========================================================================
+warp    [英 wɔːp / 美 wɔrp]
+n. 弯曲，歪曲；偏见；乖戾
+vt. 使变形；使有偏见；曲解
+vi. 变歪，变弯；曲解
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something warps or is warped, it becomes damaged by bending or curving, often because of the effect of heat or water. (尤指因受潮、受热而) 翘曲
+   ≫   Left out in the heat of the sun, tapes easily warp or get stuck in their cases.  放在太阳底下暴晒后，磁带容易翘曲变形或卡带。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11820
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11891
+multiple batches of threads
+多批线程
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12101
+synchronously    ['siŋkrənəsli]
+adv. 同步地；同时地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It can be used synchronously or asynchronously. 它可以在同步或者异步的情况下使用。
+≫   Requests processed synchronously are blocking calls. 同步处理的请求会阻塞调用。
+≫   It can do this either synchronously or asynchronously. 它既可以同步完成，也可以异步完成。
+
+========================================================================
+asynchronous    [英 ə'sɪŋkrənəs; eɪ- / 美 e'sɪŋkrənəs]
+adj. [电] 异步的；不同时的；不同期的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   However, if you have lots of asynchronous work, this can be an issue. 但是，如果您具有很多异步操作时，这可能就是一个问题了。
+≫   For example, you might have a synchronous replica on another machine in the same data center, and an asynchronous replica on a machine in another data center. 例如，您可以在同一个数据中心的另一台机器上选择同步复制，而在另一个数据中心的机器上选择异步复制。
+≫   A recipe construct can invoke another recipe construct in an asynchronous manner—that is, a recipe construct can start the execution of another recipe construct in a separate thread of execution. 配方构造可以用异步方式调用另一个配方构造 — 就是说，一个配方构造可以在单独的执行线程中启动另一个配方构造的执行。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12253
+has to be built around these long wait times
+要在漫长的等待时间里建造吗
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12324
+built around
+围绕……构建：指在某个核心概念、主题或目标周围创建或组织事物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He instructed that a wall be built around the city. 他下令在城的周围筑一道城墙。《牛津词典》
+≫   He instructed that a wall should be built around the city. 他下令在城的周围筑一道城墙。《牛津词典》
+≫   They are too often built around consuming natural resources. 它们大多是建立在消耗自然资源基础上的。
+
+========================================================================
+dedicated    [美 'dɛdə'ketɪd / 英 'dedɪkeɪtɪd]
+adj. 专用的；专注的；献身的
+v. 以…奉献；把…用于（dedicate的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use dedicated to describe someone who enjoys a particular activity very much and spends a lot of time doing it. 投入的
+   ≫   Her great-grandfather had clearly been a dedicated and stoical traveller.  她的曾祖父显然曾是一个很投入的、坚忍的旅行者。
+2. (ADJ) You use dedicated to describe something that is made, built, or designed for one particular purpose or thing. 专用的
+   ≫   Such areas should also be served by dedicated cycle routes.  这些地区也应该可由自行车专用路线到达。
+   ≫   ...the world's first museum dedicated to ecology.  …世界上第一家专门的生态博物馆。
+3. → see also
+
+========================================================================
+converge    [美 kən'vɝdʒ / 英 kən'vɜːdʒ]
+vt. 使汇聚
+vi. 聚集；靠拢；收敛
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If people or vehicles converge on a place, they move toward it from different directions. (人或车辆等) 聚集
+   ≫   Hundreds of tractors will converge on the capital.  成百上千的拖拉机将向首都聚集。
+2. [正式] If roads or lines converge, they meet or join at a particular place. (道路、江河等) 会合
+   ≫   As they flow south, the five rivers converge.  这5条河向南流，最终汇合在一起。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13086
+for the sake of
+为了……的利益/目的/原因
+
+========================================================================
+for the sake of
+为了；为了…的利益
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They roped her on to us for the sake of safety. 为了安全，他们用绳子把她和我们相互系在一起。
+≫   She called on us merely for the sake of courtesy. 她来访只是为了礼貌。
+≫   Furthermore, their marriages and their procreations will be, he tells us, for the sake of the city. 更甚之，他们的婚姻与繁殖后代将会是，如他所说的只是为了这座城市。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13208
+naive assumption
+天真的假设：基于不完整或不准确的信息所做出的过于简单或过于乐观的假设。
+
+========================================================================
+naive    [美 naɪ'iv / 英 naɪ'iːv; nɑː'iːv]
+adj. 天真的,幼稚的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone as naive, you think they lack experience and so expect things to be easy or people to be honest or kind. 幼稚的
+   ≫   It's naive to think that teachers are always tolerant.  认为老师总是很宽容是幼稚的。
+   ≫   Their view was that he had been politically naive.  他们的看法是，他在政治上曾是幼稚的。
+2. (ADV) naively 幼稚地
+   ≫   ...naively applying Western solutions to Eastern problems.  …幼稚地用西方的办法来解决东方的问题。
+
+========================================================================
+assumption    [美 ə'sʌmpʃən / 英 ə'sʌm(p)ʃ(ə)n]
+n. 假定；设想；担任；采取
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you make an assumption that something is true or will happen, you accept that it is true or will happen, often without any real proof. 假设
+   ≫   You would be making an assumption that's not based on any fact that you could report.  你会做出不以你能报道的任何事实为依据的一种假设。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+consumption    [美 kən'sʌmpʃən / 英 kən'sʌm(p)ʃ(ə)n]
+n. 消费；消耗；肺痨
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The consumption of fuel or natural resources is the act of using them or the amount used. 消耗
+   ≫   The laws have led to a reduction in fuel consumption in the U.S.  这些法律已导致美国燃料消耗的降低。
+2. [正式] The consumption of food or drink is the act of eating or drinking something, or the amount eaten or drunk. 食用; 饮用
+   ≫   Most of the wine was unfit for human consumption.  大多数酒都是不适合人类饮用的。
+3. (N-UNCOUNT) Consumption is the act of buying and using things. 消费
+   ≫   They were prepared to put people out of work and reduce consumption by strangling the whole economy.  他们准备让人们失业、降低消费，由此来遏制整个经济。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13450
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13496
+individual threads
+各个线程
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13553
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13593
+branch divergence
+分支散度
+
+========================================================================
+divergence    [美 dəˈvɜrdʒəns; daɪˈvɜrdʒəns / 英 daɪ'vɜːdʒ(ə)ns]
+n. 分歧
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A divergence is a difference between two or more things, attitudes, or opinions. 分歧; 差异
+   ≫   There's a substantial divergence of opinion within the party.  党内意见严重分歧。
+
+========================================================================
+mnemonic    [美 nɪ'mɑnɪk / 英 nɪ'mɒnɪk]
+adj. 记忆的；助记的；记忆术的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N n] A mnemonic is a word, short poem, or sentence that is intended to help you remember things such as scientific rules or spelling rules. For example, "i before e, except after c" is a mnemonic to help people remember how to spell words like "believe" and "receive." 助记符号; 助记口诀
+   ≫   ...mnemonic devices.  ...助记工具。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+semantics    [美 sə'mæntɪks / 英 sɪ'mæntɪks]
+n. [语] 语义学；语义论
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Semantics is the branch of linguistics that deals with the meanings of words and sentences. 语义学
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：661
+ubuntu    [美 ʊˈbʊntuː / 英 ʊˈbʊntuː]
+n. 班图精神，社团关爱精神；人的本质，人性；同情心
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) humanity or fellow feeling; kindness 人性; 善心 [South African]
+
+========================================================================
+PLA    [,pi ɛl 'e]
+abbr. 中国人民解放军（Chinese People's Liberation Army）；原生质树脂活动（plasma resin activity）
+n. (Pla)人名；(柬)波拉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) Port of London Authority 伦敦港口管理局
+
+========================================================================
+≫  未找到守护进程，正在启动...
+cpc
+abbr. 中国共产党（Communist Party of China）；卡片编程计算器（Card Programmed Calculator）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Adhering to the ownership structure dominated by public ownership lays the foundation for CPC and its government to safeguard worker’s rights. 坚持公有制为主导的的所有制结构，这是中国共产党及其政府维护工人利益的基础。
+≫   He said that BJP is willing to carry out closer cooperation with CPC and contribute more to enhancing the friendship between the two countries and peoples. 他表示，印度人民党愿与中国共产党建立更加密切的合作，为增进两国和两国人民之间的友谊多做贡献。
+≫   The performance not only showcases local landscapes and customs, but also the spirit and optimism of locals under the guidance of both CPC and the central government. 表演不但展示了当地的风景和习俗，而且还展现了中国共产党和中央政府领导下当地人的精神和乐观。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+CCP
+abbr. 中国共产党（Chinese Communist Party）；临界压缩压力（Critical Compression Pressure）；合同更改建议（Contract Change Proposal）
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：789
+CCCP
+abbr. 共产党中央委员会（Central Committee of Communist Party）；苏维埃社会主义共和国联盟；碳酰氰基-对-氯苯腙；解码器安装包（Combined Community Codec Pack）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The identification of purify implies that CCCP was respectively uniform on molecular weight and polarity. 纯度鉴定表明，CCCP在分子量大小和极性上都较为均一。
+≫   The energy resistance inhibiter, such as CCCP, can intensify bacterial ingestion to fluoroquinolone drugs. CCCP等能量抑制剂可加强细菌对氟喹诺酮类药物的摄取量。
+≫   CCCP and State council regards enhance the national health care system reform remarked the China health sector reform entering a new historical period. 新医改方案的公布实旋，标志着中国医约卫生体制改革已进入了崭新的历史阶段。
+
+========================================================================
+USSR    [,ju: es es 'a:(r)]
+abbr. 苏维埃社会主义共和国联盟（Union of Soviet Socialist Republics）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This was all to show the USSR that the site was actually decommissioned. 这一切都是为了向苏联表明，发射井确实已经被销毁了。
+≫   But his critics say he risks turning into a parody of Soviet leader Leonid Brezhnev who ruled the USSR from 1964 until his death in 1982. 但是他的批评者认为普京是在拙劣地模仿从1964年直到1982年去世一直统治前苏联的领导人勃列日涅夫。
+≫   Proletarian, be aware of the raid to the USSR planned by the carrion crows! 无产者们，要看到由吃腐肉的乌鸦计划的突袭苏联行动！
+
+========================================================================
+✘  请输入有效查询字符或参数
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：900
+fluoroquinolone
+氟喹诺酮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Aim To synthesize new fluoroquinolone analogues as antibacterial compounds. 目的合成新型含氟喹诺酮类抗菌化合物。
+≫   The energy resistance inhibiter, such as CCCP, can intensify bacterial ingestion to fluoroquinolone drugs. CCCP等能量抑制剂可加强细菌对氟喹诺酮类药物的摄取量。
+≫   Objective: To study the security of fluoroquinolone antibiotics and those underlying mechanisms of the exacerbation of myasthenia gravis (MG) following them. 目的：探讨喹诺酮类抗生素对重症肌无力(MG)治疗的安全性及其引起肌无力加重反应的可能机制。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：937
+loratadine
+n. 氯雷他定（药名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   OBJECTIVE: to preparation loratadine tablets and to establish a methods of quality for it. 目的：制备氯雷他定片并建立其质量控制方法。
+≫   Results Arachidonic acid-induced ear edema was reduced by mizolastine, but loratadine and cetirizine were not. 结果咪唑斯汀可抑制花生四烯酸诱导的小鼠耳部水肿，但氯雷他定和西替利嗪均不能；
+≫   Efficacy and Safety of Mizolastine Sustained Release Tablets Comparison with Loratadine Tablets in Patients with Urticaria; 目的比较咪唑斯汀缓释片与氯雷他定片治疗荨麻疹的有效性与安全性。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：972
+Covid    [美 ˈkoʊvɪd]
+n. 冠状病毒病
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   COVID-19 is spreading wildly in India. 新冠肺炎疫情正在印度蔓延。
+≫   In spring 2020, COVID-19 started spreading. 2020年春天，新型冠状病毒肺炎开始传播。
+≫   Even COVID-19 didn't influence her business. 即使是新冠肺炎疫情也没有影响到她的生意。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1005
+COVID-19
+abbr. 2019冠状病毒病，新型冠状病毒感染（coronavirus disease 2019）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   COVID-19 is spreading wildly in India. 新冠肺炎疫情正在印度蔓延。
+≫   In spring 2020, COVID-19 started spreading. 2020年春天，新型冠状病毒肺炎开始传播。
+≫   Even COVID-19 didn't influence her business. 即使是新冠肺炎疫情也没有影响到她的生意。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1042
+titin
+肌联蛋白
+粗丝联接蛋白
+n. （Titin）人名；（塞）蒂廷；（法）蒂坦
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Background - Titin is a giant protein crucial for the assembly and elasticity of the sarcomere. 肌联蛋白是一种巨型蛋白，对肌小节的组成和弹性有重要作用。
+
+========================================================================
+protein    [美 'protin / 英 'prəʊtiːn]
+n. 蛋白质；朊
+adj. 蛋白质的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Protein is a substance found in food and drink such as meat, eggs, and milk. You need protein in order to grow and be healthy. 蛋白质
+   ≫   Fish was a major source of protein for the working man.  鱼曾是劳动者获取蛋白质的主要来源。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1114
+protein titin
+蛋白质的肌
+
+========================================================================
+pronounce    [美 prə'naʊns / 英 prə'naʊns]
+vt. 发音；宣判；断言
+vi. 发音；作出判断
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To pronounce a word means to say it using particular sounds. 发 (某字或词的) 音
+   ≫   Have I pronounced your name correctly?  我把你的名字读对了吗？
+2. [正式] If you pronounce something to be true, you state that it is the case. 宣布
+   ≫   A specialist has now pronounced him fully fit.  一位专家已宣布他完全康复了。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+etymology    [英 ,etɪ'mɒlədʒɪ / 美 ,ɛtɪ'mɑlədʒi]
+n. 语源，[语] 语源学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Etymology is the study of the origins and historical development of words. 词源学
+2. (N-COUNT) The etymology of a particular word is its history. 词源
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1206
+methionyl
+甲硫氨酰基
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The present invention is directed to an improved process for producing methionine in which the by-product methionyl-methionine is quickly converted to the product methionine by a hydrolysis reaction. 本发明是针对改进生产工艺，其中蛋氨酸副产品甲硫蛋氨酸迅速改造的水解反应，产品蛋氨酸。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1240
+A fictional dish of food
+一种虚构的食物
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1274
+pneumonoultramicroscopicsilicovolcanoconiosis    [英 ˌnjuːmənəʊˌʌltrəˌmaɪkrə(ʊ)ˈskɒpɪkˌsɪlɪkəʊvɒlˌkeɪnəʊˌkəʊnɪˈəʊsɪʃ; njʊˌməʊnəʊ-]
+矽肺病，肺尘病，硅酸盐沉着病
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What's the longest word in the world besides pneumonoultramicroscopicsilicovolcanoconiosis? 除了“矽肺病”之外，世界上最长的单词是什么？
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1311
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1345
+supercalifragilisticexpialidocious    [美 ˌsʊpəˌkælɪˌfrædʒɪˌlɪstɪkˌekspɪˌælɪˈdoʊʃəs / 英 ˌsuːpəkalɪfrɑːdʒɪlɪstɪkˌekspɪɑːlɪˈdəʊʃəs]
+adj. <非正式>非常好，超级酷毙宇宙世界霹雳无敌棒（源于儿童电影《欢乐满人间》）
+n. （Supercalifragilisticexpialidocious）《人见人爱，花见花开，车见车爆胎》（1964年美国电影《欢乐满人间》的插曲）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1384
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1425
+Pseudopseudohypoparathyroidism
+n. <医>假性假甲状旁腺功能减退症
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1458
+antidisestablishmentarianism    [英 ˌæntɪdɪsɪˌstæblɪʃm(ə)nˈteərɪənɪz(ə)m]
+n. 反废除英国国教主义，反政教分离学说
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Just select the video format you want and it'll be done faster than you can say "Antidisestablishmentarianism". 只需选择您想要的视频格式，它会在你想要发牢骚之前就飞速的将格式转换好。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1492
+honorificabilitudinitatibus
+不胜光荣（出现在大文豪莎士比亚的剧本《空爱一场》里）
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1531
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1564
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1596
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1629
+schmaltz    [美 ʃmɔːlts / 英 ʃmɔːlts]
+n. 鹅油
+n. 极端流于感伤的音乐；伤感主义
+n. (Schmaltz)人名；(德)施马尔茨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you describe a song, movie, or book as schmaltz, you do not like it because it is too sentimental. 流于感伤的(音乐、电影或书籍)作品 [表不满]
+
+========================================================================
+leprechauns    ['leprəkɔ:n]
+n. （爱尔兰）矮妖（leprechaun的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In Irish folklore, a leprechaun is an imaginary creature that looks like a little old man. (爱尔兰)小老头精灵
+   ≫   You could search forever in Ireland, but you'd never find a leprechaun.  你在爱尔兰无休止地找也不会找到一个小老头精灵。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1689
+Sometimes, you get to the end of the rainbow and the leprechauns went and booby-trapped it.
+有时候，你走到彩虹的尽头，小矮妖就会在那里设下陷阱。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1775
+Love can touch us one time, and last for a lifetime.
+爱可以触动我们一次，却可以持续一生。
+
+========================================================================
+dion    [英 'daiən /  'daiən]
+n. 聚脂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I asked my Irish friend, Dion, what would happen if his life fell apart. What’s his Plan B? 我问我的爱尔兰朋友迪昂如果他的生活变得支离破碎他会怎么执行B计划？
+≫   From Céline Dion, the sixth time was the charm, but her hope to expand her family was an arduous year-long journey. 从席琳迪翁来说，第六次是魔幻的，但是她扩大家庭规模的愿望是一个耗时一年的艰巨旅程。
+≫   As well as the credit at Walmart , the couple also met Celine Dion who told them about the four-night honeymoon at Caesar's Palace and front row seats at her concert. 除了这张由奥普拉提供的巨额超市卡，流行天后席琳? 迪翁告诉这对夫妇，他们还将获得在凯撒宫殿的四夜蜜月游，以及她的演唱会前排门票。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1888
+Paramount Pictures, Inc.
+派拉蒙电影公司
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1925
+iron man    [美 ˈaɪərn mæn]
+（钢）铁人；钢铁侠；铁甲奇侠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an event at a surf carnival in which contestants compete at swimming, surfing, running, etc 铁人赛; 冲浪嘉年华的一项竞赛，参赛者须参加游泳、冲浪、跑步等比赛项目
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2004
+Captain America    [美 ˈkæptɪn əˈmerɪkə]
+n. 美国队长
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The new Captain America is black. 最近新问世的“美国队长”是黑人。
+≫   Does Captain America have a sister? 美国队长有妹妹吗？
+≫   The movie "Captain America" was so cool! 那部《美国队长》电影真是棒呆了！
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2053
+Not found :(
+
+========================================================================
+Apache    [美 əˈpætʃɪ / 英 əˈpætʃɪ]
+n. 阿帕切族（美洲印第安部族）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a Parisian gangster or ruffian (巴黎的)痞子
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2120
+irak    [美 ɪˈræk / 英 ɪˈrɑːk]
+n. （Irak）（美）依拉克（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Bush Presidential Centre in Dallas is for instance Platinum LEED-certified, but at the same time hosts an exhibition that celebrates the American invasion of Irak and Afghanistan. 例如最近达拉斯的乔治•w•布什中心获得LEED白金认证，但同时主办了一个美国入侵伊拉克和阿富汗的展览。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2151
+伊拉克
+n. Iraq
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Jordan reopened its border with Iraq. 约旦重新开放了与伊拉克的边界。《柯林斯英汉双解大词典》
+≫   I have no idea how he got into Iraq. 我不知道他是怎么进入伊拉克的。《柯林斯英汉双解大词典》
+≫   Iraq's population is roughly half Shi'ite. 伊拉克人口大约半数是什叶派教徒。《柯林斯英汉双解大词典》
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2182
+柯林斯
+n. Collins
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This material has been extracted from "Collins Good Wood Handbook." 该资料摘自《柯林斯良木手册》。《柯林斯英汉双解大词典》
+≫   Collins was in a foul mood even before the interviews began. 柯林斯甚至在面试开始之前就处于暴躁情绪。《柯林斯英汉双解大词典》
+≫   Last year Collins wrote a moving ballad which highlighted the plight of the homeless. 去年柯林斯写了一首感人的叙事诗，突出描写了无家可归者的苦境。《柯林斯英汉双解大词典》
+
+========================================================================
+Collins    [英 'kɔlinz /  'kɔlinz]
+n. 柯林斯（姓氏名）；柯林斯酒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a tall fizzy iced drink made with gin, vodka, rum, etc, mixed with fruit juice, soda water, and sugar 柯林斯酒; 冰冻果子酒
+
+========================================================================
+goblins    ['ɡɔblin]
+n. 地精（goblin的复数）；小妖；哥布林
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In fairy stories, a goblin is a small, ugly creature which usually enjoys causing trouble. (童话中爱生事的)小丑怪
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2280
+圣女
+n. saintess
+misc. holy virgin
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Joan of Arc was burnt at the stake. 圣女贞德被处以火刑。《牛津词典》
+≫   In his version, a group of actors are rehearsing a play about Joan of Arc. 按他说，一群演员正在排练一出关于圣女贞德的戏。《柯林斯英汉双解大词典》
+≫   Joan of Arc was finally canonized by Pope Benedict XV in 1920. 圣女贞德最终在1920年被教皇本笃十五世追封为圣徒。《柯林斯英汉双解大词典》
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2318
+saintess    [美 ˈseɪntɪs / 英 ˈseɪntes]
+n. 圣女；女圣人；女圣徒
+
+========================================================================
+stake    [美 stek / 英 steɪk]
+n. 桩，棍子；赌注；火刑；奖金
+vt. 资助，支持；系…于桩上；把…押下打赌
+vi. 打赌
+n. (Stake)人名；(瑞典)斯塔克
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) If something is at stake, it is being risked and might be lost or damaged if you are not successful. 得失难料
+   ≫   The tension was naturally high for a game with so much at stake.  一场成败如此难料的比赛紧张度自然很高。
+2. (N-PLURAL) The stakes involved in a contest or a risky action are the things that can be gained or lost. (竞赛、冒险行为中的) 赌注
+   ≫   The game was usually played for high stakes between two large groups.  这种游戏通常是两大组人为赢得大的赌注而进行的。
+3. (V-T) If you stake something such as your money or your reputation on the result of something, you risk your money or reputation on it. 以 (金钱、名誉等) 下赌注
+   ≫   He has staked his political future on an election victory.  他已把他的政治前途赌在了一次选举获胜上。
+4. (N-COUNT) If you have a stake in something such as a business, it matters to you, for example because you own part of it or because its success or failure will affect you. (商业等中的) 利害关系
+   ≫   He was eager to return to a more entrepreneurial role in which he had a big financial stake in his own efforts.  他渴望回到更具企业家性质的角色，这样他的努力就跟自己有大的金融利害关系。
+5. (N-PLURAL) You can use stakes to refer to something that is like a contest. For example, you can refer to the choosing of a leader as the leadership stakes. 争夺赛
+   ≫   We are lagging behind in the childcare stakes.  我们在儿童保育竞赛中正落在后面。
+6. (N-COUNT) A stake is a pointed wooden post which is pushed into the ground, for example in order to support a young tree. 桩
+   ≫   His arms were tied to wooden stakes to hold him flat.  他的双臂被绑在木桩上以便使他平躺着。
+7. (PHRASE) If you stake a claim, you say that something is yours or that you have a right to it. 提出所有权要求
+   ≫   Jane is determined to stake her claim as an actress.  简决心提出她作为一名女演员的应有权利。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2564
+Bruce Lee
+李小龙（男子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Bruce Lee established himself as an international superstar in Kungfu movies. 李小龙成为公认的功夫电影方面的国际超级巨星。
+≫   Ghaffar Pourazar, born in Iran, said he has been a big fan of Bruce Lee since he was a child and is full of interest in China. 出生于伊朗的加法·帕拉萨尔说，他从小就是李小龙的超级粉丝，对中国充满了兴趣。
+≫   In the same year, a CGI Bruce Lee appeared in a Chinese language ad for a whisky brand, which offended many fans because Lee was widely known not to drink alcohol at all. 同年，一个威士忌品牌把一张电脑合成的李小龙照片用在了其中文广告里，这一举动冒犯了许多粉丝，毕竟大家都知道李小龙可是滴酒不沾的人。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2600
+kungfu    [美 ˌkʌŋˈfuː / 英 ˌkʌŋˈfuː]
+功夫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That's not real kungfu. 这不是真正的功夫。
+≫   They learn Chinese kungfu and the Chinese culture. 他们学习中国功夫和中国文化。
+≫   Now Carrie can perform Chinese Kungfu very well. 现在凯莉很擅长中国功夫。
+
+========================================================================
+nemo    [美 'nimo / 英 'niːməʊ]
+n. 现场转播节目
+n. (Nemo)人名；(法)内莫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In 2005, in response to such a plea, Cisco bought a California start-up, Nemo Systems, for $12 million. 在2005年，思科应要求以一千二百万美元收购了加州的一家创业阶段公司Nemo Systems。
+≫   Nemo had designed a novel way of using standard memory chips to store data in Cisco’s routers, which needed more costly specialized memory. Nemo设计了一种在思科的路由器中使用标准记忆芯片来储存数据的方法，而这原来需要更为昂贵的专用芯片。
+≫   While Mr. Hooper feels that he scored on the Nemo acquisition, picking winners isn’t easy, and he warns that buyers of technology must beware. 尽管Hooper认为对Nemo的收购是成功的，挑选成功者却并不容易，他也提醒技术购买者们必须要小心谨慎。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+demo    [美 'dɛmo / 英 'deməʊ]
+n. 演示；样本唱片；示威；民主党员
+n. (Demo)人名；(意、阿尔巴)德莫
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] A demo is a CD or tape with a sample of someone's music recorded on it. 试样唱片
+   ≫   He arranged for Reba to record her first demo tape.  他安排里巴录制了她的首张样带。
+2. [非正式] A demo is a demonstration of something. 演示物
+   ≫   Download free demos of our newest products and upgrades.  下载我们最新产品的免费演示版和升级版。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+demonstrate    [美 'dɛmən'stret / 英 'demənstreɪt]
+vt. 证明；展示；论证
+vi. 示威
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+demonstration    [美 ,dɛmən'streʃən / 英 demən'streɪʃ(ə)n]
+n. 示范；证明；示威游行
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A demonstration is a march or gathering which people take part in to show their opposition to something or their support for something. 示威游行; 示威集会
+   ≫   Riot police used tear gas to break up the demonstration.  防暴警察使用了催泪瓦斯驱散示威游行。
+2. (N-COUNT) A demonstration of something is a talk by someone who shows you how to do it or how it works. 展示
+   ≫   ...a cooking demonstration.  …一次烹调展示。
+3. (N-COUNT) A demonstration of a fact or situation is a clear proof of it. 证明
+   ≫   It was an unprecedented demonstration of people power by the citizens of Moscow.  这是莫斯科市民对人民力量史无前例的证明。
+4. (N-COUNT) A demonstration of a quality or feeling is an expression of it. (品质、感情的) 展现
+   ≫   There's been no public demonstration of opposition to the president.  还没有反对总统的公开展现。
+
+========================================================================
+hello    [美 həˈlo / 英 həˈləʊ]
+int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [套语] You say "Hello" to someone when you meet them. 你好 (打招呼用语)
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. [套语] You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6754
+Not found :(
+
+========================================================================
+ruby    [美 'rubi / 英 'ruːbɪ]
+n. 红宝石；红宝石色
+adj. 红宝石色的
+vt. 使带红宝石色
+n. (Ruby)人名；(法)吕比；(英、西、德、匈、瑞典)鲁比
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ruby is a dark red jewel. 红宝石
+   ≫   ...a ruby and diamond ring.  …一枚红宝石钻戒。
+2. (COLOR) Something that is ruby is dark red in colour. 深红色 (的)
+   ≫   ...a glass of ruby-red Cabernet Sauvignon.  …一杯深红色的赤霞珠红葡萄酒。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6860
+绿宝石
+n. emerald ; beryl
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Her bracelet was set with emeralds. 她的手镯上镶有绿宝石。《牛津词典》
+≫   The crown was set with precious jewels—diamonds, rubies and emeralds. 王冠上镶嵌着稀世珍宝—有钻石、红宝石、绿宝石。《牛津词典》
+≫   He had rubies and emeralds and diamonds stuck all over him. 他身上戴满了红宝石、绿宝石和钻石。
+
+========================================================================
+emerald    [美 'ɛmərəld / 英 'em(ə)r(ə)ld]
+n. 绿宝石；[宝] 祖母绿；翠绿色
+adj. 翠绿色的
+n. (Emerald)人名；(英)埃默拉尔德(女子教名)
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An emerald is a precious stone that is clear and bright green. 翡翠
+2. (COLOR) Something that is emerald is bright green in colour. 翠绿色的
+   ≫   ...an emerald valley.  …一个翠绿的山谷。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+jewels    ['dʒu:əl]
+n. 珠宝；[宝] 宝石（jewel的复数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A jewel is a precious stone used to decorate valuable things that you wear, such as rings or necklaces. 宝石
+   ≫   ...a golden box containing precious jewels.  …一个装着贵重宝石的金盒子。
+2. (N-COUNT) If you describe something or someone as a jewel, you mean that they are better, more beautiful, or more special than other similar things or than other people. 宝贝 (指宝贵的物或难能可贵的人)
+   ≫   ...a small jewel of a theatre.  …剧场的一个小宝贝。
+3. (PHRASE) If you refer to an achievement or thing as the jewel in someone's crown, you mean that it is considered to be their greatest achievement or the thing they can be most proud of. 最耀眼的成就; 最得意之物
+   ≫   His achievement is astonishing and this book is the jewel in his crown.  他成就斐然，这本书是他的最得意之作。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6997
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7041
+CET-4
+abbr. 大学英语4级考试（College English Test-4）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Is CET-4 difficult to pass? 大学英语四级很难通过吗？
+≫   This is a distraction we do not need.(CET-4, 2004.6 我们不需要这种干扰。
+≫   Now, appointments are scheduled to the half-hour. CET-4, 2002.12. 现在，任何预约服务只需提前半个小时就行。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7085
+CET-6
+abbr. 大学英语6级考试（College English Test Band-6）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In fact, they do much to undermine it. CET-6, 1999.1. 事实上，他们做了很多损害教学的事情。
+≫   This is a passive way of looking at things. (CET-6, 1991.6 这是一种消极看待事物的态度。
+≫   Congress has already taken some modest steps. CET-6, 2004.6. 国会已采取了一些有节制的措施。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7131
+GMAT    [美 ˈdʒiːmæt / 英 ˈdʒiːmæt]
+abbr. 格林尼治天文平时（Greenwich mean astronomical time）；研究生管理专业入学考试（Graduate Management Admissions Test）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This might sound small, but to undo the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been necessary. 这数字听起来可能很小，但要想消除这种下降的影响，考生需要比正常情况下多获得30分的 GMAT 分数。
+≫   Next, do everything you can to get a high GMAT math score. 接下来，尽你所能，在研究生管理科学入学考试中获得高分。
+≫   Also, all graduate students must have GRE or GMAT scores sent to us by the testing center. 还有，所有的研究生必需要有GRE或是GMAT的成绩，由考试中心寄给我们。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7177
+GRE
+abbr. 美国研究生入学考试（graduate record examination）；地面雷达设备（ground radar equipment）
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7225
+IELTS    [美 ˈaɪelts / 英 ˈaɪelts]
+abbr. 雅思（The International English Language Testing System）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   IELTS is very hot at the moment. 雅思目前很热门。
+≫   What is IELTS useful for? 雅思考试的用途是什么？
+≫   Are there any IELTS materials for sale? 是否有雅思考试的资料？
+
+========================================================================
+TOEFL    ['təufəl]
+abbr. 托福考试（Test of English as a Foreign Language）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) TOEFL is an English language examination which is often taken by foreign students who want to study at universities in English-speaking countries. TOEFL is an abbreviation of "Test of English as a Foreign Language." 托福考试; Test of English as a Foreign Language的缩写
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7322
+Not found :(
+
+========================================================================
+frisk    [美 frɪsk / 英 frɪsk]
+vi. 蹦跳；欢跃
+n. 搜身；快乐；蹦跳；快乐的时刻
+vt. 轻摇
+n. (Frisk)人名；(瑞典)弗里斯克
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone frisks you, they search you, usually with their hands in order to see if you are hiding a weapon or something else such as drugs in your clothes. (用手对某人)搜身
+   ≫   Drago pushed him up against the wall and frisked him.  德拉戈一把将他推向墙壁并搜了身。
+
+========================================================================
+dragon    [美 'dræɡən / 英 'dræg(ə)n]
+n. 龙；凶暴的人，凶恶的人；严厉而有警觉性的女人
+n. (Dragon)人名；(匈)德劳贡；(英、法、芬、罗、匈)德拉贡
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In stories and legends, a dragon is an animal like a big lizard. It has wings and claws, and breathes out fire. 龙
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：740
+多拉贡
+贡多拉 gondola ; Dora ; Gondolier ; Kondoura
+贡多拉按摩 Gondola Massage
+贡多拉船夫 GONDOLIER
+贡多拉酒店 Gondola Hotel ; Hotel Gondola
+利斯贡多拉 Lys Gondola
+贡多拉意大利餐厅 Gondola Veneziana
+白马村贡多拉酒店 Hakuba Gondola Hotel
+威尼斯贡多拉小舟 Venice gondolas
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These gondolas always weigh the same, whether or not they are carrying boats. 这些贡多拉的重量总是一样的，不管它们是否运载船只。
+≫   You can visit the most interesting places in the city by walks or by the famous gondolas. 你可以步行或乘坐著名的贡多拉船参观这座城市最有趣的地方。
+≫   Two hydraulic steel gates are raised, so as to seal the gondola off from the water in the canal basin. 两个液压钢制闸门抬高，以将贡多拉与运河盆地里的水隔离开。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1631
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+cookies    [美 'kʊkiz / 英 'kʊkiz]
+n. 饼干
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] A cookie is a small sweet cake. 小甜饼干
+2. [计算机] A cookie is a piece of computer software which enables a website you have visited to recognize you if you visit it again. 再次访问某一网站时，能令网站识别访问人的计算机软件
+
+========================================================================
+≫  未找到守护进程，正在启动...
+chocolate    [美 ˈtʃɑkələt / 英 'tʃɒk(ə)lət]
+n. 巧克力，巧克力糖；巧克力色
+adj. 巧克力色的；巧克力口味的
+n. (Chocolate)人名；(葡)绍科拉特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Chocolate is a sweet, hard food made from cacao. It is usually brown in colour and is eaten as a sweet. 巧克力
+   ≫   ...a bar of chocolate.  …一条巧克力。
+   ≫   Do you want some chocolate?  你想吃点巧克力吗？
+2. (N-UNCOUNT) Chocolate or hot chocolate is a drink made from a powder containing chocolate. It is usually made with hot milk. 巧克力热饮
+   ≫   ...a small cafeteria where the visitors can buy tea, coffee and chocolate.  …一家小规模的自助快餐店，在那里游客们可以买到茶、咖啡和巧克力热饮。
+3. (N-COUNT) Chocolates are small sweets or nuts covered with a layer of chocolate. They are usually sold in a box. 巧克力糖
+   ≫   ...a box of chocolates.  …一盒巧克力糖。
+4. (COLOR) Chocolate is used to describe things that are dark brown in colour. 深褐色
+   ≫   The curtains and the bedspread were chocolate velvet.  窗帘和床罩是深褐色的天鹅绒。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1782
+Not found :(
+
+========================================================================
+enclosed    [ɪn'klozd]
+adj. 被附上的；与世隔绝的
+v. 附上（enclose的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] An enclosed community of monks or nuns does not have any contact with the outside world. 与世隔绝的
+   ≫   ...monks and nuns from enclosed orders.  ...与世隔绝的修道士和修女。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1907
+I have enclosed the deed to that place
+我已附上那地方的契据
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1956
+Stardew Valley
+《星露谷物语》：是一款由ConcernedApe开发的模拟类角色扮演游戏，玩家在游戏中扮演主角，远离办公室工作的烦扰，在一个名叫星露谷的地方重新开始打理祖父留下的荒废牧场。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2005
+southern coast
+南海岸：指某个国家或地区的南部海岸线。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+carpenter    [美 ˈkɑːrpəntər / 英 ˈkɑːpəntə(r)]
+n. 木匠，木工
+vi. 当木匠，做木匠工作
+vt. 制作
+n. (Carpenter)人名；(英、葡、法)卡彭特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A carpenter is a person whose job is making and repairing wooden things. 木匠
+
+========================================================================
+≫  未找到守护进程，正在启动...
+mayer    [meiə]
+n. 迈尔（热容量单位）
+n. (Mayer)人名；(英)迈耶；(西、法)马耶尔；(德、意、罗、捷、瑞典、芬)迈尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mayer, for example, notes that women have more opportunities in Silicon Valley because there’s no entrenched hierarchy there. 例如，迈尔解释说，在硅谷女人拥有更多的机会，因为那里没有根深蒂固的官僚结构。
+≫   Cameron – who has previously dated Justin Timberlake and John Mayer – has remained tightlipped about her love life, however, preferring to state she is “in love with life”. 卡梅隆之前的交往对象包括歌手贾斯汀和约翰-迈尔，对于感情生活守口如瓶的她称目前正“幸福地享受着生活”。
+≫   The company settled upon “packing” images together by understanding their aspect ratio to create “a cohesive page while you scroll,” said Marissa Mayer, VP of search products and user experience. 公司通过解析图片的宽高比来建立“当你卷动时的粘合页面”，以便把“打包”的图片放在一起。 产品搜索和客户体验的副总裁玛丽萨.迈尔说到。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2153
+tidying things up for your arrival
+为你的到来收拾东西
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1217
+undertrained    [英 ʌndəˈtreɪnd]
+adj. 训练不够的，练习不够的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Undertrained or overzealous yoga instructors who try to push students too deeply into these postures may endanger their participants' safety. 素质不高或者过于热心的瑜伽老师如果强迫学员将体式做到位可能威胁到练习者的安全。
+≫   Like most municipal police in Mexico, the Tijuana police were poorly paid, undertrained, and underequipped—when they had target practice, they had to buy their own bullets. 和墨西哥大部分市政警察一样，提华纳的警察也是工资很低，缺乏训练并且装备匮乏——当进行射击训练时，他们必须自己购买弹药。
+≫   When arms are proliferated to untrained or undertrained individuals, either state-controlled or private, those individuals often ignore regulations regarding the treatment of civilians. 当美国提供的武器流落到没有受训或训练不足的人员手中时，不论这些人是受雇于国家还是私人，他们通常不会遵守关于对待平民的法规。
+
+========================================================================
+chocolate    [美 ˈtʃɑkələt / 英 'tʃɒk(ə)lət]
+n. 巧克力，巧克力糖；巧克力色
+adj. 巧克力色的；巧克力口味的
+n. (Chocolate)人名；(葡)绍科拉特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Chocolate is a sweet, hard food made from cacao. It is usually brown in colour and is eaten as a sweet. 巧克力
+   ≫   ...a bar of chocolate.  …一条巧克力。
+   ≫   Do you want some chocolate?  你想吃点巧克力吗？
+2. (N-UNCOUNT) Chocolate or hot chocolate is a drink made from a powder containing chocolate. It is usually made with hot milk. 巧克力热饮
+   ≫   ...a small cafeteria where the visitors can buy tea, coffee and chocolate.  …一家小规模的自助快餐店，在那里游客们可以买到茶、咖啡和巧克力热饮。
+3. (N-COUNT) Chocolates are small sweets or nuts covered with a layer of chocolate. They are usually sold in a box. 巧克力糖
+   ≫   ...a box of chocolates.  …一盒巧克力糖。
+4. (COLOR) Chocolate is used to describe things that are dark brown in colour. 深褐色
+   ≫   The curtains and the bedspread were chocolate velvet.  窗帘和床罩是深褐色的天鹅绒。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1393
+装备
+n. equipment ; outfit ; equipage
+vt. equip
+misc. fit out
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The frogmen were encumbered by their diving equipment. 沉重的潜水装备使蛙人行动困难。《牛津词典》
+≫   The equipment of the photographic studio was expensive. 这个摄影室的装备花费巨大。《牛津词典》
+≫   The top secret documents had to do with the most advanced military equipment. 这些绝密文件涉及最先进的军事装备。《柯林斯英汉双解大词典》
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1427
+胡子
+n. mustache ; goatee
+misc. facial hair ; moustache or whiskers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He's grown a beard to save shaving. 他留起了胡子，省得再刮脸。《牛津词典》
+≫   I find beards a real turn-off. 我觉得胡子确实令人厌恶。《牛津词典》
+≫   Charles decided to shave off his beard. 查尔斯决定刮掉胡子。《牛津词典》
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1461
+acc.
+abbr. 账户（account）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) account 账户 [accounting]
+
+========================================================================
+mustache    [美 'mʌstæʃ / 英 mə'stɑːʃ]
+n. 胡子，髭
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mr. Henrich liked to grow out his mustache and beard during the winter and shave it off later in the spring. 亨利克先生属于爱留胡子一类的家伙。 但他的习惯是冬季蓄起胡子，到了春季又刮光。
+≫   Rallying military officers in Baghdad the same week, Saddam invoked a tribal adage, telling them,"I don't need to say that Iraqis attached to your mustache, because after all it is your country. 同一周，萨达姆在首都巴格达召集军官时引用部落格言向他们讲述道，“我没必要说伊拉克喜欢你的胡子，因为伊拉克终究是你的国家”。
+≫   Thoughthe model that he sported in his prime was Stalin-esque in its particulars, Saddam Hussein's mustache was less a product of his own self-styled personalitycult than it was of Iraqi tradition. 尽管萨达姆青年时戏弄的模范在其细节上是斯大林式的，但将萨达姆的胡子视为他狂热个性风格的体现比视为伊拉克传统的想法少得多。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1535
+Donald Trump
+n. 唐纳德·特朗普，亦称唐纳德·川普（美国第45任总统）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1580
+Joe Biden
+乔·拜登
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As vice president Joe Biden learned on his recent visit to a Beijing restaurant, nary a part of the hog is wasted. 正如副总统乔·拜登最近在北京的一家餐馆所了解到的那样，猪的任何一部分都没有浪费。
+≫   "Who among us understands what to do about Pakistan" Joe Biden asks a good question. “我们中有谁知道该为巴基斯坦做些什么？”约·毕丹提了一个好问题。
+≫   “WHO among us understands what to do about Pakistan?” Joe Biden asks a good question. “我们中有谁知道如何处理巴基斯坦问题？” 乔·拜登问了一个好问题。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1612
+拜登
+n. Biden
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As vice president Joe Biden learned on his recent visit to a Beijing restaurant, nary a part of the hog is wasted. 正如副总统乔·拜登最近在北京的一家餐馆所了解到的那样，猪的任何一部分都没有浪费。
+≫   Inside the White House, of course, there is still the loyal Mr Biden. 当然，白宫里还有忠诚的拜登先生。
+≫   Mr. Biden visited Japan at the end of a trip to Asia. 拜登先生亚洲之旅的最后访问了日本。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1654
+instant kill    [美 ˈɪnstənt kɪl]
+秒杀：在电子游戏或竞技比赛中，指一击即可击败对手的技能或行为。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He can deliver an instant kill thanks to his backstab ability. 他的背刺能力能起到一击必杀的效果。
+≫   Gaines orders Eli to kill Teri and Kim, and then notices an instant message from Jamey. 盖恩斯命令伊菜去杀了泰瑞和金姆，这时，他注意到杰米向他发送了一条即时信息。
+≫   Gaines orders Eli to kill Teri and Kim and then notices an instant message from Jamey. 盖恩斯命令伊菜去杀了泰瑞和金姆，这时，他注意到杰米向他发送了一条即时信息。
+
+========================================================================
+instant    [美 'ɪnstənt / 英 'ɪnst(ə)nt]
+adj. 立即的；紧急的；紧迫的
+n. 瞬间；立即；片刻
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An instant is an extremely short period of time. 瞬间; 刹那
+   ≫   For an instant, Barney was tempted to flee.  那一瞬间，巴尼很想逃走。
+2. (N-SING) If you say that something happens at a particular instant, you mean that it happens at exactly the time you have been referring to, and you are usually suggesting that it happens quickly or immediately. 时刻
+   ≫   At that instant the museum was plunged into total darkness.  在那一刻，博物馆陷入一片黑暗。
+3. [强调] To do something the instant something else happens means to do it immediately. 一…就…
+   ≫   I bolted the door the instant I saw the bat.  我一看到那只蝙蝠就把门闩上了。
+4. (ADJ) You use instant to describe something that happens immediately. 立即的
+   ≫   Mr. Porter's book was an instant hit.  波特先生的书立刻引起了轰动。
+5. (ADV) instantly 立即地
+   ≫   The man was killed instantly.  那人立即被杀死了。
+6. [ADJ n] Instant food is food that you can prepare very quickly, for example, by just adding water. 调制快速方便的 (食品)
+   ≫   He stirred instant coffee into a mug of hot water.  他将速溶咖啡搅入一大杯热水中。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1721
+Ferring
+n. （Ferring）人名；（英、德）费林
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1754
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1794
+方便面
+instant noodles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the UK, people call instant noodles "pot noodles". 在英国，人们称方便面为“锅面”。
+≫   Instant noodles are cheap and easy to eat. 方便面不但便宜，吃起来也方便。
+≫   Why do people think instant noodle lovers are lazy? 为什么人们认为方便面爱好者很懒？
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1827
+Geng
+金恩（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But Chu and Geng show why it may not matter. 但是初和耿证明了这也许无所谓。
+≫   I'm so glad that I had a chance to meet han Geng. 我很高兴我有机会见到韩庚。
+≫   Han Geng carries himself as a professional and a gentleman. 韩庚的表现很是专业和具绅士风度。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1863
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1896
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1927
+中山大学
+Sun Yat-Sen University ; Zhongshan University
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For some students, including Wang Ling, 21, in Sun Yat-sen University, this practice has caused headaches. 对于包括21岁的中山大学学生王玲在内的一些学生来说，这种做法令人头疼。
+≫   I'll soon graduate from Zhongshan University, majoring in accounting. 我会尽快毕业的中山大学，主修会计。
+≫   Ms. Hu will initially take a job teaching journalism at Zhongshan University in the southern Chinese city of Guangzhou, according to people familiar with the matter. 据透漏，胡女士将会在广州的中山大学任职，教授新闻专业。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1972
+sun yat-sen    [美 ˈsʊnˈjɑtˈsɛn]
+n. 孙逸仙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For some students, including Wang Ling, 21, in Sun Yat-sen University, this practice has caused headaches. 对于包括21岁的中山大学学生王玲在内的一些学生来说，这种做法令人头疼。
+≫   Dr. Sun Yat-sen was born on that day. 孙逸仙博士出生在那天。
+≫   Sun Yat-sen University adopts a two-year postgraduate education system. 中大的研究生教育是两年制。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2012
+Stardew Valley
+《星露谷物语》：是一款由ConcernedApe开发的模拟类角色扮演游戏，玩家在游戏中扮演主角，远离办公室工作的烦扰，在一个名叫星露谷的地方重新开始打理祖父留下的荒废牧场。
+
+========================================================================
+ape    [英 eɪp / 美 ep]
+n. [脊椎] 猿；傻瓜；模仿者
+vt. 模仿；抢台词
+adj. 狂热的
+n. (Ape)人名；(意)阿佩
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Apes are chimpanzees, gorillas, and other animals in the same family. 猿
+   ≫   ...chimpanzees and other apes.  …黑猩猩和其他猿。
+2. (V-T) If you ape someone's speech or behaviour, you imitate it. 模仿
+   ≫   Modelling yourself on someone you admire is not the same as aping all they say or do.  以你仰慕的某个人为榜样并不等于模仿他们的全部言行。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2102
+Flyco
+飞科
+
+========================================================================
+AMR
+abbr. 自动执息路由；美利坚公司美国航空公司；材料提前公布（Advanced Material Release）
+n. (Amr)人名；(阿拉伯)阿姆鲁
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The new resource is called the AMR or context stack. 这个新的资源称为 AMR 或者上下文堆栈。
+≫   Replace the current AMR value with one granting broad data access rights. 使用授予广泛数据访问权限的值取代当前的 AMR 值。
+≫   Ahmet Arda, managing director of AMR Resources, says his company has accelerated the production of rare earths in southern Turkey to take advantage of the shortage. AMR资源公司的执行总监阿尔达说，他的公司已经加速在土耳其南部生产稀土，以迎合日本资源短缺带来的需求。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+arm    [美 ɑrm / 英 ɑːm]
+n. 手臂；武器；袖子；装备；部门
+vi. 武装起来
+vt. 武装；备战
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your arms are the two long parts of your body that are attached to your shoulders and that have your hands at the end. 手臂
+   ≫   She stretched her arms out.  她伸开了双臂。
+2. (N-COUNT) The arm of a chair is the part on which you rest your arm when you are sitting down. (椅子的) 扶手
+   ≫   Mack gripped the arms of the chair.  麦克抓紧了那把椅子的一对扶手。
+3. (N-COUNT) An arm of an object is a long thin part of it that sticks out from the main part. (物体的) 臂状物
+   ≫   ...the lever arm of the machine.  …该机器的杠杆臂。
+4. (N-COUNT) An arm of land or water is a long thin area of it that is joined to a broader area. (陆地、水域的) 狭长区域
+   ≫   ...a small area of woodland between two arms of a small stream.  …一条小溪的两条支流之间的一小块林地。
+5. (N-COUNT) An arm of an organization is a section of it that operates in a particular country or that deals with a particular activity. 部门; 分支机构
+   ≫   The agency is the central research and development arm of the Department of Defense.  该机构是国防部的核心研究与开发部门。
+6. (N-COUNT) The arm of a piece of clothing is the part of it that covers your arm. 袖子
+   ≫   ...coats that were short in the arms.  …袖子短的几件大衣。
+7. (PHRASE) If two people are walking arm in arm, they are walking together with their arms linked. 臂挽臂地
+   ≫   He walked from the court arm in arm with his wife.  他和他妻子臂挽着臂从法院走来了。
+8. (PHRASE) If you hold something at arm's length, you hold it away from your body with your arm straight. 以一臂之距
+   ≫   He struck a match, and held it at arm's length.  他划了根火柴，然后伸长胳膊举着。
+9. (PHRASE) If you keep someone at arm's length, you avoid becoming too friendly or involved with them. 同某人保持一定距离
+   ≫   She had always kept the family at arm's length.  她一直和家人保持一定距离。
+10. [表赞许] If you welcome some action or change with open arms, you are very pleased about it. If you welcome a person with open arms, you are very pleased about their arrival. 张开双臂 (欢迎)
+   ≫   They would no doubt welcome the action with open arms.  他们毫无疑问会张开双臂欢迎这项举措。
+11. [非正式] If you twist someone's arm, you persuade them to do something. 说服某人
+   ≫   She had twisted his arm to get him to invite her.  她已说服了他，让他邀请她。
+12. (PHRASE) 
+13. [正式] Arms are weapons, especially bombs and guns. 武器
+   ≫   Soldiers searched their house for illegal arms.  士兵们为找非法武器搜了他们的家。
+14. (V-T) If you arm someone with a weapon, you provide them with a weapon. 武装
+   ≫   She'd been so terrified that she had armed herself with a loaded rifle.  她是如此害怕，以至于用一支上了膛的步枪把自己武装了起来。
+15. (V-T) If you arm someone with something that will be useful in a particular situation, you provide them with it. 用…装备
+   ≫   She thought that if she armed herself with all the knowledge she could gather she could handle anything.  她曾以为，如果她用其所能搜集到的所有知识充实自己，她就能处理任何事。
+16. → see also
+17. (PHRASE) A person's right to bear arms is their right to own and use guns, as a means of defence. 持有武器
+   ≫   ...a country where the right to bear arms is enshrined in the constitution.  …把武器持有权载入宪法的一个国家。
+18. (PHRASE) If one group or country takes up arms against another, they prepare to attack and fight them. 拿起武器
+   ≫   They threatened to take up arms against the government if their demands were not met.  他们威胁说，如果要求得不到满足就拿起武器对抗政府。
+19. (PHRASE) If people are up in arms about something, they are very angry about it and are protesting strongly against it. 愤怒抗议
+   ≫   Patient advocates are up in arms over the possible closure of the psychiatric hospital.  病人的支持者们愤怒抗议该精神病院的可能关闭。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2192
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2225
+Not found :(
+
+========================================================================
+AMD    [,e ɛm 'di]
+abbr. 超微半导体公司（Advanced Micro Devices）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) age-related macular degeneration 年龄相关黄斑变性
+≫  未找到守护进程，正在启动...
+
+========================================================================
+Intel    ['intel]
+n. 美国英特尔公司（财富500强公司之一，以生产CPU芯片著称）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] military intelligence 军事情报
+2. (N) information in general 情报
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+NVIDIA
+辉达，又译作英伟达（芯片厂方）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Nebulae is based on chips from Intel and Nvidia. 现在的曙光星云是利用英特尔和Nvidia的芯片建立的。
+≫   Support for GPGPU programming in partnership with NVIDIA. 与NVIDIA合作，对GPGPU编程的支持。
+≫   The main machine is beefier, with a better NVidia graphics chipset. 主机是beefier，带有较好的NVIDIA图形芯片。
+
+========================================================================
+apple    [美 'æpl / 英 'æp(ə)l]
+n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An apple is a round fruit with smooth red, yellow, or green skin and firm white flesh. 苹果
+   ≫   I want an apple.  我要一个苹果。
+   ≫   ...his ongoing search for the finest varieties of apple.  …他对最佳品种苹果的不断寻找。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+sealed    [美 sild / 英 siːld]
+adj. 密封的；未知的
+v. 封闭；盖印（seal的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) seal的过去分词 → the past participle of
+2. [AUSTRALIAN] (of a road) having a hard surface; made-up (路面)硬的
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2444
+the burden of
+证明某事的责任
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The developing countries bear the burden of an enormous external debt. 发展中国家背负着巨额外债的负担。《柯林斯英汉双解大词典》
+≫   A part-time bookkeeper will relieve you of the burden of chasing unpaid invoices. 一名兼职簿记员将使你摆脱追讨欠款的负担。《柯林斯英汉双解大词典》
+≫   The burden of guilt weighed heavily on his mind. 愧疚之情压得他透不过气来。《牛津词典》
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2493
+the burden of modern life
+现代生活的负担
+
+========================================================================
+≫  未找到守护进程，正在启动...
+fade    [美 fed / 英 feɪd]
+vi. 褪色；凋谢；逐渐消失
+vt. 使褪色
+adj. 平淡的；乏味的
+n. [电影][电视] 淡出；[电影][电视] 淡入
+n. (Fade)人名；(法)法德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When a coloured object fades or when the light fades it, it gradually becomes paler. 使褪色; 褪色
+   ≫   All colour fades – especially under the impact of direct sunlight.  所有颜色都会褪色–尤其是在直射阳光的影响下。
+   ≫   No matter how soft the light is, it still fades carpets and curtains in every room.  不论光线多么柔和，它仍然会使每个房间的地毯和窗帘褪色。
+2. (ADJ) faded 褪色的
+   ≫   ...a girl in a faded dress.  …一个穿褪色连衣裙的女孩。
+3. (V-I) When light fades, it slowly becomes less bright. When a sound fades, it slowly becomes less loud. 逐渐变暗; 逐渐变弱
+   ≫   Seaton lay on his bed and gazed at the ceiling as the light faded.  西顿躺在床上凝视着天花板， 那时光线逐渐变暗。
+4. (V-I) If memories, feelings, or possibilities fade, they slowly become less intense or less strong. 逐渐变弱
+   ≫   Sympathy for the rebels, the government claims, is beginning to fade.  政府声称对造反者的同情在开始减弱。
+   ≫   Prospects for peace had already started to fade.  和平的前景已开始变得暗淡。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2576
+let grandpa rest
+让爷爷休息
+
+========================================================================
+≫  未找到守护进程，正在启动...
+thrive    [美 θraɪv / 英 θraɪv]
+vi. 繁荣，兴旺；茁壮成长
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If someone or something thrives, they do well and are successful, healthy, or strong. 兴旺发达; 茁壮成长
+   ≫   He appears to be thriving.  他看起来兴旺发达蒸蒸日上。
+   ≫   Today her company continues to thrive.  如今，她的公司继续蓬勃发展。
+2. (V-I) If you say that someone thrives on a particular situation, you mean that they enjoy it or that they can deal with it very well, especially when other people find it unpleasant or difficult. 喜欢; 从容应对 (尤指别人不喜欢或认为困难的事)
+   ≫   Many people thrive on a stressful lifestyle.  许多人喜欢有压力的生活方式。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2661
+in dire need of
+非常需要，迫切需要
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We're in dire need of your help. 我们急需你的帮助。《牛津词典》
+≫   And women all over the world are in dire need of access to full and real reproductive justice. 全世界的女性急需完全地、真正地获得生育公平。
+≫   Unemployment is high, public schooling poor and the physical infrastructure in dire need of renewal. 此外，失业率居高不下，公立学校设施简陋，物质基础建设亟待更新。
+
