@@ -6463,3 +6463,40 @@ adv. 同一地；相等地
 ≫   But scientists say this memory system is likely to work almost identically in people. 但是科学家声称这一记忆系统在人身上几乎同样的起作用。
 ≫   Decimals of the same value in the partitioning key are treated identically, even if their scale and precision differ. 对分区键中相同值的小数的处理是完全相同的，即使它们的标度和精度不同。
 
+========================================================================
+
+========================================================================
+
+========================================================================
+
+========================================================================
+
+========================================================================
+hello    [美 həˈlo / 英 həˈləʊ]
+int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [套语] You say "Hello" to someone when you meet them. 你好 (打招呼用语)
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. [套语] You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+chisel    [美 'tʃɪzl / 英 'tʃɪz(ə)l]
+vt. 雕，刻；凿；欺骗
+vi. 雕，刻；凿；欺骗
+n. 凿子
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chisel is a tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. 凿子
+   ≫   ...a hammer and chisel.  …一把锤子和一把凿子。
+2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
+   ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
+≫  未找到守护进程，正在启动...
+
