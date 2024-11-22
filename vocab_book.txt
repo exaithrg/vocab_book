@@ -6223,3 +6223,243 @@ CET4 TEM4
 ✔  成功启动守护进程，PID：6733
 Not found :(
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11245
+deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+
+========================================================================
+dedicated    [英 'dedɪkeɪtɪd / 美 'dɛdə'ketɪd]
+adj. 专用的；专注的；献身的
+v. 以…奉献；把…用于（dedicate的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use dedicated to describe someone who enjoys a particular activity very much and spends a lot of time doing it. 投入的
+   ≫   Her great-grandfather had clearly been a dedicated and stoical traveller.  她的曾祖父显然曾是一个很投入的、坚忍的旅行者。
+2. (ADJ) You use dedicated to describe something that is made, built, or designed for one particular purpose or thing. 专用的
+   ≫   Such areas should also be served by dedicated cycle routes.  这些地区也应该可由自行车专用路线到达。
+   ≫   ...the world's first museum dedicated to ecology.  …世界上第一家专门的生态博物馆。
+3. → see also
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11923
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12040
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12098
+a passage of
+一段
+
+========================================================================
+passage    [美 'pæsɪdʒ / 英 'pæsɪdʒ]
+n. 一段（文章）；走廊；通路
+n. (Passage)人名；(英)帕西奇；(法)帕萨热
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A passage is a long narrow space with walls or fences on both sides, that connects one place or room with another. 过道; 走廊
+   ≫   Harry stepped into the passage and closed the door behind him.  哈里走进走廊，关上他身后的门。
+2. (N-COUNT) A passage in a book, speech, or piece of music is a section of it that you are considering separately from the rest. 章节; 段落; 乐段
+   ≫   He read a passage from Emerson.  他读了一段爱默生的作品。
+   ≫   ...the passage in which the author speaks of the world of imagination.  …作者谈论幻想世界的那个段落。
+3. (N-COUNT) A passage is a long narrow hole or tube in your body, that air or liquid can pass along. (人体内的) 道
+   ≫   ...cells that line the air passages.  …沿着通气管排列的细胞。
+4. (N-COUNT) A passage through a crowd of people or things is an empty space that allows you to move through them. 通路
+   ≫   He cleared a passage for himself through the crammed streets.  他在拥挤的大街他为自己清出一条通路。
+5. (N-UNCOUNT) The passage of someone or something is their movement from one place to another. 通过; 经过
+   ≫   Germany had not requested Franco's consent for the passage of troops through Spain.  德国未曾请求弗朗哥同意他们的军队通过西班牙。
+6. (N-UNCOUNT) The passage of someone or something is their progress from one situation or one stage in their development to another. 过渡
+   ≫   ...to ease their passage to a market economy.  …使他们向市场经济平稳过渡。
+7. (N-UNCOUNT) The passage of a bill is its progress through Congress so that it can become a law. (法案等的) 通过
+   ≫   ...a Medicare bill expected to get final passage in Congress today.  …一个预期今天在国会得到最后通过的医保法案。
+8. (N-SING) The passage of a period of time is its passing. (时间的) 推移
+   ≫   ...an asset that increases in value with the passage of time.  …一项随着时间的推移而增值的资产。
+9. (N-COUNT) A passage is a journey by ship. 航程
+   ≫   We'd arrived the day before after a 10-hour passage from Anchorage.  从安克雷奇出发经过10小时航程后，我们于前天到达。
+10. (N-UNCOUNT) If you are granted passage through a country or area of land, you are given permission to go through it. 通行许可
+   ≫   Mr. Thomas would be given safe passage to and from Jaffna.  托马斯先生将会得到往返于贾夫纳的安全通行许可。
+11. [dressage] a sideways walk in which diagonal pairs of feet are lifted alternately 正步
+12. (V) to move or cause to move at a passage 以正步跑
+
+========================================================================
+paragraph    [美 'pærəɡræf / 英 'pærəgrɑːf]
+n. 段落；短评；段落符号
+vt. 将…分段
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A paragraph is a section of a piece of writing. A paragraph always begins on a new line and contains at least one sentence. 段落
+   ≫   The length of a paragraph depends on the information it conveys.  段落的长度取决于它传达的信息。
+
+========================================================================
+span    [英 spæn / 美 spæn]
+n. 跨度，跨距；范围
+vt. 跨越；持续；以手指测量
+n. (Span)人名；(捷)斯潘
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A span is the period of time between two dates or events during which something exists, functions, or happens. (两时间点之间的) 时间段
+   ≫   The batteries had a life span of six hours.  电池的使用寿命是6小时。
+2. (N-COUNT) Your concentration span or your attention span is the length of time you are able to concentrate on something or be interested in it. (注意力的) 持续时间
+   ≫   His ability to absorb information was astonishing, but his concentration span was short.  他吸收信息的能力让人惊讶，但他的注意力持续时间很短。
+3. [no passive] If something spans a long period of time, it lasts throughout that period of time or relates to that whole period of time. 持续
+   ≫   His professional career spanned 16 years.  他的职业生涯持续了16年。
+4. [no passive] If something spans a range of things, all those things are included in it. 包括
+   ≫   Bernstein's compositions spanned all aspects of music, from symphonies to musicals.  伯恩斯坦创作的乐曲包括了音乐的所有方面，从交响乐到音乐剧。
+5. [usu with supp] The span of something that extends or is spread out sideways is the total width of it from one end to the other. 宽距
+   ≫   It is a very pretty butterfly, with a 2 inch wing span.  它是一只非常漂亮的蝴蝶，翅膀张开有2英寸宽。
+6. (N) a team of horses or oxen, esp two matched animals 马队或牛队
+7. (V-T) A bridge or other structure that spans something such as a river or a valley stretches right across it. 横跨
+   ≫   Travellers get from one side to the other by walking across a footbridge that spans a little stream.  旅游者通过一座横跨小溪的人行桥从一边走到另一边。
+
+========================================================================
+classifier    ['klæsɪfaɪɚ]
+n. [测][遥感] 分类器；
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That list contains the owned and inherited operations of the target classifier. 这个列表包含了目标标识符的拥有和本有的操作。
+≫   As an example, suppose you open a diagram where you previously moved an operation corresponding to a message on a sequence diagram from one classifier to another. 例如，假设您打开了一个图表，您曾经移动了一个对应于序列图中从一个标识符到另一个标识符消息的操作，这会是这种情况。
+≫   To show what classifiers belong to the package, a line is drawn from each classifier to a circle that has a plus sign inside the circle attached to the package (Figure 9). 为了显示属于软件包的分类器属于，从每个分类器画一条线到里面有加号的圆周，这些圆周粘附在软件包之上（图9）。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12716
+CLS
+abbr. 公共语言规范 Common Language Specification; 控制室监听；屏幕清除的系统命令
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (the INTERNET DOMAIN NAME for) Chile 智利
+
+========================================================================
+Sep    [英 sep]
+abbr. 九月（September）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We will do our best to advance the shipment, but your L/C should be opened early Sep. 我们会尽力提前安排运输的，但是你的信用证应该在九月初就开立。
+≫   Sometimes that cost is to the Third World, or to the environment, or to our own future, but hey, that’s Somebody Else’s Problem (SEP). 有时候代价是第三世界，是环境，或是我们的未来。 但是，那是是某些人其他的问题（九月）。
+≫   Overprotective parents raise fearful kids: PT Staff, "Parenting Style May Foster Anxiety" Psychology Today, Sep/Oct 2004. 父母过度保护孩子会增加孩子的恐惧赶：PT员工，“父母教育方式有可能助长焦虑情绪”《今日心理》，2004年九月/十月出版
+
+========================================================================
+separator    [美 'sɛpəretɚ / 英 'sepəreɪtə]
+n. 分离器；[计] 分隔符
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person or thing that separates 分离者; 分离器
+
+========================================================================
+differentiate    [美 ,dɪfə'rɛnʃɪet / 英 ,dɪfə'renʃɪeɪt]
+vi. 区分，区别
+vt. 区分，区别
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you differentiate between things or if you differentiate one thing from another, you recognize or show the difference between them. 区分
+   ≫   A child may not differentiate between his imagination and the real world.  孩子也许无法区分想像与真实世界的差别。
+2. (V-T) A quality or feature that differentiates one thing from another makes the two things different. 使有差别
+   ≫   ...distinctive policies that differentiate them from the other parties.  …使他们与其他政党区别开来的独特政策。
+3. (N-UNCOUNT) differentiation 差别
+   ≫   For about six or seven weeks after conception, there is no differentiation between male and female.  在受精后大约六七个星期时，男性和女性胚胎之间没有什么差别。
+
+========================================================================
+legacy    [美 'lɛgəsi / 英 'legəsɪ]
+n. 遗赠，遗产
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：24752
+Not found :(
+
+========================================================================
+restructure    [美 ri'strʌktʃɚ / 英 riː'strʌktʃə]
+vt. 调整；重建；更改结构
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To restructure an organization or system means to change the way it is organized, usually in order to make it work more effectively. 重新建构
+   ≫   The president called on educators and politicians to help him restructure American education.  该总统号召教育家和政治家们帮助他重新建构美国的教育。
+2. (N-VAR) restructuring 重新建构
+   ≫   The company is to lay off 1,520 workers as part of a restructuring.  作为改组的一部分，这家公司将解雇1520名工人。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：24971
+refactor    [ri'fæktə]
+n. 重构
+vt. 重构
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   When do you need to refactor? 什么时候要重构呢？
+≫   Let's refactor this code a bit. 让我们稍微对该段代码进行重构。
+≫   Stop feature development and refactor. 停止开发特性，进行重构。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：25344
+commented
+v．评论，发表意见：对某事或某人发表意见或看法。
+★★★★ CET4 TEM4 commenting,commented,comments
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you comment on something, you give your opinion about it or you give an explanation for it. 评论; 解释
+   ≫   So far, Mr. Cook has not commented on these reports.  到目前为止，库克先生还未对这些报告进行过评论。
+   ≫   You really can't comment until you know the facts.  你的确不能在你知道事实之前进行评论。
+   ≫   One student commented that she preferred literature to social science.  一位学生解释说，较之于社会科学她更喜欢文学。
+2. (N-VAR) A comment is something that you say which expresses your opinion of something or which gives an explanation of it. 评论; 解释
+   ≫   He made his comments at a news conference in Amsterdam.  他在阿姆斯特丹的一次记者招待会上做了评论。
+   ≫   There's been no comment so far from police about the allegations.  到目前为止还没有来自警方的对那些指控的任何解释。
+3. (CONVENTION) People say "no comment" as a way of refusing to answer a question, usually when it is asked by a journalist. 无可奉告
+   ≫   No comment. I don't know anything.  无可奉告。我什么也不知道。
+
+========================================================================
+apparently    [美 ə'pærəntli / 英 ə'pærəntlɪ]
+adv. 显然地；似乎，表面上
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [含糊] You use apparently to indicate that the information you are giving is something that you have heard, but you are not certain that it is true. 据说
+   ≫   Apparently the girls are not at all amused by the whole business.  据说这些女孩们完全不觉得这整件事好笑。
+2. (ADV) You use apparently to refer to something that seems to be true, although you are not sure whether it is or not. 貌似地
+   ≫   The recent deterioration has been caused by an apparently endless recession.  最近的恶化是由貌似没完没了的萧条造成的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：29594
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：29669
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：29724
+identical
+adj. 完全相同的；同一的；（双胞胎）同卵的；恒等的
+
+========================================================================
+identical    [美 aɪ'dɛntɪkl / 英 aɪ'dentɪk(ə)l]
+adj. 同一的；完全相同的
+n. 完全相同的事物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things that are identical are exactly the same. 完全相同的
+   ≫   The three bombs were virtually identical.  这3个炸弹几乎一模一样。
+2. (ADV) identically 完全相同地
+   ≫   ...nine identically dressed female dancers.  …9个着装相同的女舞蹈演员。
+
+========================================================================
+identically    [aɪ'dɛntɪkli]
+adv. 同一地；相等地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The two trees behave identically, but they have different purposes. 这两个树的行为完全相同，但是它们有不同的目的。
+≫   But scientists say this memory system is likely to work almost identically in people. 但是科学家声称这一记忆系统在人身上几乎同样的起作用。
+≫   Decimals of the same value in the partitioning key are treated identically, even if their scale and precision differ. 对分区键中相同值的小数的处理是完全相同的，即使它们的标度和精度不同。
+
