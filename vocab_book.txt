@@ -5103,3 +5103,189 @@ n. 罗伯塔（女子名）
 ≫   “You have to be concerned about the future of all women,” Roberta Steinbacher, a nun-turned-social-psychologist, said in a 1984 People profile of Ericsson. “你必须关注女人们的未来”，罗伯塔在1984年《人》杂志上的《艾瑞克森画像》文章里说道。
 ≫   By Tom Hals and Roberta Rampton 汤姆.哈尔斯, 罗伯塔.兰普顿
 
+========================================================================
+Jax
+n. (Jax)人名；(德)雅克斯；(英、肯)贾克斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At the moment, no single JAX-RPC run-time system provides all of the features discussed in this series. 现在，没有哪个单独的 JAX-RPC 运行时系统可以提供本系列中讨论的所有功能。
+≫   In a JAX-RPC handler, these are supplied as part of the deployment file, and can be tied specifically to the particular client/consumer. 在一个 JAX-RPC 处理程序中，这些值作为部署文件的一部分提供，可以特意绑定到特殊的客户端/用户。
+≫   In the next part of this series, I will discuss the other aspects of the JAX-RPC specification including service implementation, service clients, and other core concepts. 在这一系列文章的下一部分中，我将讨论 JAX-RPC 规范的其他方面（包括服务实现、服务客户机以及其他的核心概念）。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+modalities    [məu'dæləti]
+n. 形式；形态（modality的复数）；样式
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the condition of being modal 情态
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6977
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7020
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7050
+多模态
+multimoding ; multiplex mode 在例句中比较
+
+========================================================================
+≫  未找到守护进程，正在启动...
+biased    [美 'baɪəst / 英 'baɪəst]
+adj. 有偏见的；结果偏倚的，有偏的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If someone is biased, they prefer one group of people to another, and behave unfairly as a result. You can also say that a process or system is biased. 有偏见的
+   ≫   He seemed a bit biased against women in my opinion.  我认为他好像对妇女有点偏见。
+2. [v-link ADJ 'toward' n] If something is biased toward one thing, it is more concerned with it than with other things. 偏重于…的
+   ≫   University funding was tremendously biased toward scientists.  大学资助金是极度偏重于科学家的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+widgets    ['widʒit]
+n. 小工具（widget的复数）；窗体小部件
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] You can refer to any small device as a widget when you do not know exactly what it is or how it works. 小装置
+   ≫   The secret is a little widget in the can.  奥秘就在于罐中的一个小装置。
+
+========================================================================
+welsh    [美 wɛlʃ / 英 welʃ]
+vi. 赖账，赖赌债逃走；逃避责任
+vt. 逃避责任；对…不守诺言
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] If someone welshes on a deal or an agreement, they do not do the things they promised to do as part of that deal or agreement. 逃避履行(合约)
+   ≫   He welshed on his agreement with the team that he would play for them in February.  他逃避履行他与球队合同中在二月为他们踢球的协议。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7191
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7220
+kabele    [英 kɑːˈbeɪleɪ]
+n. 居民自治协会
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7251
+Kabyle    [美 kəˈbaɪl]
+n. 卡拜尔人；卡拜尔语
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a member of a Berber people inhabiting the E Atlas Mountains in Tunisia and Algeria 卡拜尔人; 居住在阿特拉斯山脉东部，突尼斯和阿尔及利亚一带的柏柏尔人
+
+========================================================================
+snippet    [英 'snɪpɪt /  'snɪpɪt]
+n. 小片；片断；不知天高地厚的年轻人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snippet of something is a small piece of it. 片段
+   ≫   ...snippets of popular classical music.  …流行古典音乐的片段。
+
+========================================================================
+sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
+n. 感情，情绪；情操；观点；多愁善感
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8804
+sentiment analysis    [美 ˈsentɪmənt əˈnæləsɪs]
+情感分析：一种计算机语言学和文本分析技术，旨在通过使用计算机处理自然语言，以识别和提取关于作者情感状态的信息。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It USES so-called "sentiment analysis" software to assess text. 这个项目利用“情绪分析”软件来分析文字。
+≫   In the meantime, here's a previous blog post on the use of Sentiment Analysis for early warning. 同时，这里有一个以前的博客张贴出关于情绪分析应用于早期预警的文章。
+≫   Educators could see the data and sentiment analysis around how a community feels about its local schools. 教育者可以从数据和感情分析中了解到小区对当地的学校是怎样的感觉。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11058
+tokenized
+adj. 标记化的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Some fields you may not want to be tokenized, for example a serial number field. 有些字段你可能不想它被分词，比如一连串的数字字段。
+≫   The contents of this file are tokenized into a list of strings and bound to a list called Rules. 文件的内容被分割放入一个字符串列表，然后绑定到名为Rules的变量。
+≫   Erlang also gives us programmatic access to the tokenized, parsed and abstract forms of an expression. Erlang还允许我们编程访问经过词法分析(tokenized)、语法分析之后、抽象形式的表达式。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12186
+harmlessness    [美 ˈhɑːrmləsnəs / 英 ˈhɑːmləsnəs]
+n. 无害，无害性；无恶意
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The right use of power is power based upon harmlessness. 力量的正确用法是基于无害之上。
+≫   Cell phone companies have been all too eager to stress their products' harmlessness. 手机厂家们太急于强调他们产品的无害性质。
+≫   In ozone producing industry, this technology really realizes innocuousness and harmlessness without secondary pollution. 在臭氧制造行业，该技术真正实现了无毒、无害、无二次污染。
+
+========================================================================
+harmless    [美 'hɑrmləs / 英 'hɑ:mləs]
+adj. 无害的；无恶意的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is harmless does not have any bad effects, especially on people's health. 无害的
+   ≫   This experiment was harmless to the animals.  这个实验对动物无害。
+2. (ADJ) If you describe someone or something as harmless, you mean that they are not important and therefore unlikely to annoy other people or cause trouble. 不会惹麻烦的
+   ≫   He seemed harmless enough.  他似乎不会惹麻烦。
+
+========================================================================
+innocuousness    [i'nɔkjuəs]
+n. 无害
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   PFS attracts peoples attention by its remarkable coagulant performance, especially its harmlessness and innocuousness . 聚合硫酸铁以其良好的絮凝性能和无毒无害的优点倍受人们的关注。
+≫   In ozone producing industry, this technology really realizes innocuousness and harmlessness without secondary pollution. 在臭氧制造行业，该技术真正实现了无毒、无害、无二次污染。
+≫   In order to promote healthful development of information service, librarians should adhere to the ethic principles of equity, humanism, preeminence and innocuousness. 图书馆要坚持公平、人文、卓越和无害等伦理原则，以保障信息服务活动健康发展。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12395
+Not found :(
+
+========================================================================
+pollution    [美 pə'luʃən / 英 pə'luːʃ(ə)n]
+n. 污染
+污染物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Pollution is the process of polluting water, air, or land, especially with poisonous chemicals. 污染
+   ≫   The fine was for the company's pollution of the air near its plants.  公司被罚款是因为它的工厂污染了周围的空气。
+2. (N-UNCOUNT) Pollution is poisonous or dirty substances that are polluting the water, air, or land somewhere. 污染物
+   ≫   The level of pollution in the river was falling.  该河流受污染的程度其时正在降低。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+hello    [英 həˈləʊ / 美 həˈlo]
+int. 喂；哈罗
+n. 表示问候， 惊奇或唤起注意时的用语
+n. (Hello)人名；(法)埃洛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [套语] You say "Hello" to someone when you meet them. 你好 (打招呼用语)
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. [套语] You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语)
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13942
+hello world!
+你好，世界：一个用于展示编程语言基本语法和结构的示例程序。
+
