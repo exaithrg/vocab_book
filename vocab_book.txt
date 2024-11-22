@@ -6085,3 +6085,141 @@ CET4 TEM4
 4. (N-COUNT) Lecture is also a noun. 批评; 责备
    ≫   Our captain gave us a stern lecture on safety.  我们的船长在安全问题上给了我们严厉的批评。
 
+========================================================================
+conspiracy    [美 kən'spɪrəsi / 英 kən'spɪrəsɪ]
+n. 阴谋；共谋；阴谋集团
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Conspiracy is secret planning by a group of people to do something illegal. 合谋
+   ≫   Seven men, all from North Carolina, admitted conspiracy to commit arson.  全都来自于北卡罗来纳州的七名男子承认了合谋纵火。
+2. (N-COUNT) A conspiracy is an agreement between a group of people which other people think is wrong or is likely to be harmful. 阴谋
+   ≫   It's all part of a conspiracy to dispense with the town centre all together and move everything out to the suburbs.  这全都属于一个阴谋，以彻底放弃市中心而把一切搬到郊区。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5409
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5492
+conspiracy theories
+解释某个事件或一系列情况的理论，认为这些事件或情况是由通常是有权势的阴谋者秘密策划的结果
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5543
+conspiracy theories
+解释某个事件或一系列情况的理论，认为这些事件或情况是由通常是有权势的阴谋者秘密策划的结果
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They promulgated conspiracy theories. 他们公布各种阴谋论。
+≫   Such conspiracy theories are not rare in Asia. 像这样的阴谋论在亚洲并不罕见。
+≫   What are some other space conspiracy theories? 那么还有哪些别的太空阴谋论呢？
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5595
+conspiracy theories
+解释某个事件或一系列情况的理论，认为这些事件或情况是由通常是有权势的阴谋者秘密策划的结果
+
+========================================================================
+aka    [美 'e 'ke 'e / 英 eɪkeɪ'eɪ]
+abbr. 又叫做，亦称（also known as）
+n. (Aka)人名；(法、塞、土、科特、阿富)阿卡
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Executable files, aka applications, on the other hand, come in all sizes—making them an ideal place to embed lots of data. 然而，可执行文件（又叫做应用程序）具有各种可能的大小，使他们成为理想的地方嵌入大量的数据。
+≫   My boys love picking up "treasures" (aka garbage) in the alleys, so we recently signed up for an "adopt a beach" cleanup program. 我的儿子喜欢在胡同里捡"财宝"（又叫垃圾），所以最近我们注册了一个“认养海滩”的清理计划。
+≫   My six-week stay in the United States, aka “God’s Own Country,” motivated me into knowing I could actually make a great change in the lives of the people in my own country, Nigeria. 我在美国（亦称为“上帝的国度”）六个星期的经历激励了我，让我认识到：我真的能够在我自己的国家——尼日利亚——给人民生活带来巨大改变。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+coherent    [美 ko'hɪrənt / 英 kə(ʊ)'hɪər(ə)nt]
+adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is coherent, it is well planned, so that it is clear and sensible and all its parts go well with each other. 连贯的
+   ≫   He has failed to work out a coherent strategy for modernizing the service.  他无法想出一个连贯的策略来使该服务现代化。
+2. (N-UNCOUNT) coherence 连贯性
+   ≫   The campaign was widely criticized for making tactical mistakes and for a lack of coherence.  该运动遭到广泛批评，因其有策略错误且缺乏连贯性。
+3. [v-link ADJ] If someone is coherent, they express their thoughts in a clear and calm way, so that other people can understand what they are saying. 条理清楚的
+   ≫   He's so calm when he answers questions in interviews. I wish I could be that coherent.  他如此镇定地回答了访谈中的问题。我希望我也能那样有条不紊。
+4. (N-UNCOUNT) coherence 条理性
+   ≫   This was debated eagerly at first, but with diminishing coherence as the champagne took hold.  辩论一开始满热烈的，可是上了香槟后，条理性就降低了。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+troop    [美 trʊp / 英 truːp]
+n. 军队；组；群；多数
+vi. 群集；成群而行；结队
+vt. 把（骑兵）编成骑兵连
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Troops are soldiers, especially when they are in a large organized group doing a particular task. 士兵
+   ≫   The next phase of the operation will involve the deployment of more than 35,000 troops from a dozen countries.  下阶段的行动包括部署来自12个国家的三万五千多名士兵。
+2. (N-COUNT-COLL) A troop is a group of soldiers. 一群士兵
+   ≫   ...a troop of American Marines.  …一群美国海军陆战队士兵。
+3. (N-COUNT) A troop of people or animals is a group of them. (一) 群
+   ≫   The whole troop of men and women wore their hair fairly short.  那一整群男女都留着相当短的头发。
+4. [非正式] If people troop somewhere, they walk there in a group, often in a sad or tired way. (尤指悲伤或疲惫地) 成群结队地走
+   ≫   They all trooped back to the house for a rest.  他们都成群结队地回房子里休息。
+
+========================================================================
+condescending    [美 ,kɑndɪ'sɛndɪŋ / 英 kɒndɪ'sendɪŋ]
+adj. 表现出优越感的；居高临下的
+v. 屈尊（condescend的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you say that someone is condescending, you are showing your disapproval of the fact that they talk or behave in a way which shows that they think they are superior to other people. 显得高人一等的
+   ≫   I'm fed up with your money and your whole condescending attitude.  我受够了你的钱和你整个高人一等的态度。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+unisex    [英 'juːnɪseks / 美 'jʊnɪ'sɛks]
+adj. 男女皆宜的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Unisex is used to describe things, usually clothes or places, which are designed for use by both men and women rather than by only one sex. 男女都适用的
+   ≫   ...the classic unisex hair salon.  …古典的男女通用发廊。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+masculine    [美 'mæskjəlɪn / 英 'mæskjʊlɪn]
+adj. 男性的；阳性的；男子气概的
+n. 男性；阳性，阳性词
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Masculine qualities and things relate to or are considered typical of men, in contrast to women. 男性的
+   ≫   ...masculine characteristics like a husky voice and facial hair.  …沙哑的嗓音和面部的胡须之类的男性特征。
+2. (ADJ) If you say that someone or something is masculine, you mean that they have qualities such as strength or confidence which are considered typical of men. 男子气概的
+   ≫   ...her aggressive, masculine image.  …她敢作敢为、男人般的形象。
+3. (ADJ) In some languages, a masculine noun, pronoun, or adjective has a different form from a feminine or neuter one, or behaves in a different way. (某些语言中的词) 阳性的
+≫  未找到守护进程，正在启动...
+
+========================================================================
+feminine    [美 'fɛmənɪn / 英 'femɪnɪn]
+adj. 女性的；妇女（似）的；阴性的；娇柔的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Feminine qualities and things relate to or are considered typical of women, in contrast to men. 女性的
+   ≫   ...male leaders worrying about their women abandoning traditional feminine roles.  …担心他们的女人会抛弃传统女性角色的男性领导人。
+2. [表赞许] Someone or something that is feminine has qualities that are considered typical of women, especially being pretty or gentle. 女人味的
+   ≫   I've always been attracted to very feminine women who are not overpowering.  我总是被那些不强悍的女人味十足的女人所吸引。
+3. (ADJ) In some languages, a feminine noun, pronoun, or adjective has a different form from a masculine or neuter one, or behaves in a different way. 阴性的
+≫  未找到守护进程，正在启动...
+
+========================================================================
+fluctuate    [美 'flʌktʃʊ'et / 英 'flʌktʃʊeɪt; -tjʊ-]
+vi. 波动；涨落；动摇
+vt. 使波动；使动摇
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If something fluctuates, it changes a lot in an irregular way. 波动
+   ≫   Body temperature can fluctuate if you are ill.  如果你病了，体温会波动。
+2. (N-VAR) fluctuation 波动
+   ≫   Don't worry about tiny fluctuations in your weight.  不用担心你体重的轻微波动。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6733
+Not found :(
+
