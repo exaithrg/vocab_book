@@ -5289,3 +5289,71 @@ CET4 TEM4
 hello world!
 你好，世界：一个用于展示编程语言基本语法和结构的示例程序。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15297
+a large corpus of
+大量的
+
+========================================================================
+corpus    [美 'kɔrpəs / 英 'kɔːpəs]
+n. [计] 语料库；文集；本金
+n. (Corpus)人名；(西)科尔普斯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with supp] A corpus is a large collection of written or spoken texts that is used for language research. 语料库
+≫  未找到守护进程，正在启动...
+
+========================================================================
+diss    [dis]
+abbr. 论文（dissertation）
+n. 迪丝草纤维（一种似芦苇属草纤维）
+vt. 对…无礼；侮辱
+vi. 羞辱；贬低
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Indeed, don't diss Darwin. 这句话就是“不要对达尔文持异议”(don't diss Darwin)。
+≫   Don't think I did that * intentionally just to diss you 千万别认为我这是故意羞辱你
+≫   This is a witting reaction to the Bush Administration's tendency to diss our allies and insult — or invade — our enemies. 这是一种有意区别于布什政府的做法，不去说我们盟友的坏话，不去侮辱或者攻击我们的敌人。
+
+========================================================================
+dissertation    [英 ,dɪsə'teɪʃ(ə)n / 美 'dɪsɚ'teʃən]
+n. 论文，专题；学术演讲
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dissertation is a long formal piece of writing on a particular subject, especially for an advanced university degree. (学位) 论文
+   ≫   He is currently writing a dissertation on the Somali civil war.  他正在写一篇关于索马里内战的论文。
+
+========================================================================
+latter    [美 'lætɚ / 英 'lætə]
+adj. 后者的；近来的；后面的；较后的
+n. (Latter)人名；(英、德、捷)拉特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. ['the' PRON] When two people, things, or groups have just been mentioned, you can refer to the second of them as the latter. 后者
+   ≫   He tracked down his cousin and uncle. The latter was sick.  他追踪找到了他的堂兄和叔叔。后者病了。
+2. [ADJ n] Latter is also an adjective. 后面的
+   ≫   There are the people who speak after they think and the people who think while they're speaking. Mike definitely belongs in the latter category.  有些人先想后说，有些人边想边说。迈克当然属于后一类人。
+3. [ADJ n] You use latter to describe the later part of a period of time or event. 晚期的
+   ≫   He is getting into the latter years of his career.  他正进入职业生涯的晚期。
+
+========================================================================
+depict    [英 dɪ'pɪkt / 美 dɪ'pɪkt]
+vt. 描述；描画
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To depict someone or something means to show or represent them in a work of art such as a drawing or painting. 描绘
+   ≫   ...a gallery of pictures depicting Lee's most famous battles.  …一批描绘李的最著名战役的图画。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：26955
+Not found :(
+
+========================================================================
+Cambrian    [英 'kæmbriən /  'kæmbriən]
+n. 威尔士人；寒武纪或系
+adj. 寒武纪的；威尔斯的；威尔斯人的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the first 65 million years of the Palaeozoic era, during which marine invertebrates, esp trilobites, flourished 寒武纪的; 古生代的第一个纪，在此纪海生无脊椎动物，尤其是三叶虫处于旺盛时期
+2. (N) the Cambrian period or rock system 寒武纪; 寒武系(寒武纪形成的岩石系统)
+
