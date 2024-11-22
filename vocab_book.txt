@@ -6500,3 +6500,26 @@ TEM8
    ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+chisel    [美 'tʃɪzl / 英 'tʃɪz(ə)l]
+vt. 雕，刻；凿；欺骗
+vi. 雕，刻；凿；欺骗
+n. 凿子
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chisel is a tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. 凿子
+   ≫   ...a hammer and chisel.  …一把锤子和一把凿子。
+2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
+   ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
+
+========================================================================
+chiseled    [英 'tʃɪzəld / 美 'tʃɪzld]
+adj. 轮廓分明的；凿刻的
+v. 镌刻；用凿子刻（chisel的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chisel is a tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. 凿子
+   ≫   ...a hammer and chisel.  …一把锤子和一把凿子。
+2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
+   ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
+
