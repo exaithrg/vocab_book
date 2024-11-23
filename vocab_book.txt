@@ -6523,3 +6523,39 @@ TEM8
 2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
    ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
 
+========================================================================
+earthling    [美 'ɝθlɪŋ / 英 'ɜːθlɪŋ]
+n. 世人，俗人；凡人，居住在地球上的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu pl] Earthling is used in science fiction to refer to human beings who live on the planet Earth. (科幻小说中的)地球人
+
+========================================================================
+greetings    ['ɡri:tiŋ]
+n. 问候；打招呼；问候语（greeting的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A greeting is something friendly that you say or do when you meet someone. 问候
+   ≫   His greeting was familiar and friendly.  他的问候亲切而友好。
+   ≫   They exchanged greetings.  他们相互问候。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1615
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+bristle    [美 'brɪsl / 英 'brɪs(ə)l]
+n. 猪鬃；刚毛
+vi. 发怒；竖起
+vt. 使（毛发等）直立
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Bristles are the short hairs that grow on a man's face after he has shaved. The hairs on the top of a man's head can also be called bristles when they are cut very short. 胡子茬; (男子头顶处的) 短发
+   ≫   ...two days' growth of bristles.  …两天没剃长出的胡子茬儿。
+2. (N-COUNT) The bristles of a brush are the thick hairs or hairlike pieces of plastic which are attached to it. (刷子的) 毛
+   ≫   As soon as the bristles on your toothbrush begin to wear, throw it out.  牙刷毛一旦磨损就扔掉。
+3. (N-COUNT) Bristles are thick, strong animal hairs that feel hard and rough. 刚毛
+   ≫   It has a short stumpy tail covered with bristles.  它有一条又短又粗、长满了刚毛的尾巴。
+
