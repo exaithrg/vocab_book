@@ -9,3 +9,5 @@ j vocab
 mv ~/.cache/kdcache/stat/counter-202411.json $(my_github_repo)
 ln -s $(my_github_repo)/counter-202411.json ~/.cache/kdcache/stat
 
+# Thanks:
+https://github.com/Karmenzind/kd

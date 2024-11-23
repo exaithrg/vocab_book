@@ -6613,3 +6613,30 @@ CET6 TEM4
 3. (V-I) If you snack, you eat snacks between meals. 吃小吃
    ≫   Instead of snacking on crisps and chocolate, nibble on celery or carrot.  不要吃炸薯片和巧克力这些零食，要啃点芹菜或胡萝卜。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：22580
+毛泽东
+Mao Zedong ; the founder of the People's Republic of China
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：22653
+Mao Zedong
+毛泽东
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：22728
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：22788
+sun yat-sen    [美 ˈsʊnˈjɑtˈsɛn]
+n. 孙逸仙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For some students, including Wang Ling, 21, in Sun Yat-sen University, this practice has caused headaches. 对于包括21岁的中山大学学生王玲在内的一些学生来说，这种做法令人头疼。
+≫   Dr. Sun Yat-sen was born on that day. 孙逸仙博士出生在那天。
+≫   Sun Yat-sen University adopts a two-year postgraduate education system. 中大的研究生教育是两年制。
+
