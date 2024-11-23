@@ -6559,3 +6559,57 @@ CET6+ TEM4
 3. (N-COUNT) Bristles are thick, strong animal hairs that feel hard and rough. 刚毛
    ≫   It has a short stumpy tail covered with bristles.  它有一条又短又粗、长满了刚毛的尾巴。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+resolving    [rɪ'zɑlv]
+n. 分解；解析
+v. 分辨（resolve的ing形式）；分解；决定；解决矛盾
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To resolve a problem, argument, or difficulty means to find a solution to it. 解决
+   ≫   We must find a way to resolve these problems before it's too late.  我们必须找到一个办法去解决这些问题,不然就太晚了。
+2. [正式] If you resolve to do something, you make a firm decision to do it. 下决心
+   ≫   She resolved to report the matter to the hospital's nursing supervisor.  她决心把这件事向该医院的护士长汇报。
+3. [正式] Resolve is determination to do what you have decided to do. 决心
+   ≫   So you're saying this will strengthen the American public's resolve to go to war if necessary?  那么你是说，这将会坚定美国公众在必要时参战的决心？
+
+========================================================================
+≫  未找到守护进程，正在启动...
+APB
+abbr. 全境通告（all points bulletin）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] APB is an abbreviation for . 全境通告
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2406
+AHB
+急性乙型肝炎（Acute Hepatitis B）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the end, hardware implementation of AHB interface is discussed. 最后讨论了嵌入式CPU在硬件上对AHB接口的实现。
+≫   Introduce the PCI-AHB interface and PCI local bus operation, especially analyse the architecture of PCI-AHB bridge module. 对PCI - AHB接口和PCI总线操作进行了介绍，详细分析了PCI—AHB桥接模块的结构设计。
+≫   As the basic SoC design technique, the AHB bus interface design consists of master module interface design and slave module interface design. AHB总线接口设计划分为主控模块接口设计及从模块接口设计。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2447
+AXI
+abbr. 自动 X 射线检查（Automatic X-ray Inspection）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But then one stormy night, Zhang Axi disappeared. 但是一个风雨交加的夜晚，张阿喜不见了。
+≫   The embodiment of the invention is mainly used in the bus-required systems or equipment, such as AXI system bus. 本发明实施例主要用在需要总线的系统或设备中，如axi系统总线等。
+≫   Hnewo Teyy, Migu, Chamu, Axi Xijjie and Ancestral Song of the Heaven and Earth are the five masterpieces of most popular epics among the Yi people. 《勒俄特依》、《梅葛》、《查姆》、《阿细的先基》和《天地祖先歌》是彝族地区五部很有代表性的史诗作品。
+
+========================================================================
+snacks    [snæks]
+n. [贸易] 小吃；快餐；零嘴（snack的复数）
+v. 吃快餐；斗嘴（snack的三单形式）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snack is a simple meal that is quick to cook and to eat. 快餐
+   ≫   Lunch was a snack in the fields.  午饭是在野外吃的快餐。
+2. (N-COUNT) A snack is something such as a chocolate bar that you eat between meals. (正餐之间的) 小吃
+   ≫   Do you eat sweets, cakes or sugary snacks?  你吃糖果、糕点或甜点心吗？
+3. (V-I) If you snack, you eat snacks between meals. 吃小吃
+   ≫   Instead of snacking on crisps and chocolate, nibble on celery or carrot.  不要吃炸薯片和巧克力这些零食，要啃点芹菜或胡萝卜。
+
