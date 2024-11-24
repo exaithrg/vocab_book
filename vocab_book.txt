@@ -8360,3 +8360,185 @@ CET6 TEM4
 2. (N-SING) You can talk about the throne as a way of referring to the position of being king, queen, or emperor. 王位; 皇位
    ≫   ...the queen's 40th anniversary on the throne.  ...女王登位40周年纪念日。
 
+========================================================================
+decomposition    [美 ,dikɑmpə'zɪʃən / 英 ,diːkɒmpə'zɪʃn]
+n. 分解，腐烂；变质
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Decomposition is the process of decay that takes place when a living thing changes chemically after dying. 分解
+
+========================================================================
+substantial    [美 səbˈstænʃəl / 英 səb'stænʃ(ə)l]
+adj. 大量的；实质的；内容充实的
+n. 本质；重要材料
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Substantial means large in amount or degree. 大量的; 很大程度的
+   ≫   A substantial number of mothers with young children are deterred from undertaking paid work because they lack access to childcare.  很多有小孩的母亲找不到人照顾小孩，从而无法从事有薪工作。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1516
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+exploit    [英 ˈeksplɔɪt;ɪkˈsplɔɪt / 美 ɛksplɔɪt; ɪkˈsplɔɪt]
+vt. 开发，开拓；剥削；开采
+n. 勋绩；功绩
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+candidates    [美 'kændədets / 英 'kændɪdəts]
+n. 候选人；申请者；应征人员（candidate的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A candidate is someone who is being considered for a position, for example someone who is running in an election or applying for a job. 候选人
+   ≫   The Democratic candidate is still leading in the polls.  那名民主党候选人仍在民意测验中领先。
+   ≫   He is a candidate for the office of governor.  他是州长的候选人。
+2. [美国英语] A candidate is someone who is studying for a degree at a college. 攻读学位者
+   ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
+3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
+   ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1616
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1649
+weaker correlations
+较弱的相关性
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1680
+candidate selection
+候选人选择
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The data records may be incomplete in the candidate selection database, which can not reflect the reality of the formations. 优选压裂井数据库中的数据记录可能不准确或不完整，不能反映地层真实情况。
+≫   Optimization in Drug Candidate Selection and Strategy in Early Drug Development, Wen Chyi Shyu, Ph. D. , Bristol-Myers Squibb, NJ, USA. 药物在筛选中的优化以及在早期开发中的策略徐文祺博士， 高级主管， 百时美-施贵宝药业（美国）
+≫   Enterprise Chief Information Officer (CIO) candidate selection is a decision-making issue that includes both quantitative and qualitative factors. 企业CIO甄选是一个包含定量因素和定性因素相结合的决策问题。
+
+========================================================================
+eliminate    [美 ɪ'lɪmɪnet / 英 ɪ'lɪmɪneɪt]
+vt. 消除；排除
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To eliminate something, especially something you do not want or need, means to remove it completely. 根除
+   ≫   Recent measures have not eliminated discrimination in employment.  最近的举措还未能根除就业歧视。
+2. (N-UNCOUNT) elimination 根除
+   ≫   ...the prohibition and elimination of chemical weapons.  …对化学武器的禁止和销毁。
+3. (V-T PASSIVE) When a person or team is eliminated from a competition, they are defeated and so stop participating in the competition. 淘汰
+   ≫   I was eliminated from the 400 metres in the semi-finals.  我在400米半决赛中被淘汰了。
+4. (V-T) If someone says that they have eliminated an enemy, they mean that they have killed them. By using the word "eliminate," they are trying to make the action sound more positive than if they used the word "kill." 消灭
+   ≫   He declared war on the government and urged right-wingers to eliminate their opponents.  他向政府宣战并且力劝右翼分子们消灭他们的对手。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+emulate    [美 'ɛmjulet / 英 'emjʊleɪt]
+vt. 仿真；模仿；尽力赶上；同…竞争
+n. 仿真；仿效
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you emulate something or someone, you imitate them because you admire them a great deal. 效仿
+   ≫   Sons are traditionally expected to emulate their fathers.  传统上认为儿子应该效仿他们的父亲。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+eliminate    [美 ɪ'lɪmɪnet / 英 ɪ'lɪmɪneɪt]
+vt. 消除；排除
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To eliminate something, especially something you do not want or need, means to remove it completely. 根除
+   ≫   Recent measures have not eliminated discrimination in employment.  最近的举措还未能根除就业歧视。
+2. (N-UNCOUNT) elimination 根除
+   ≫   ...the prohibition and elimination of chemical weapons.  …对化学武器的禁止和销毁。
+3. (V-T PASSIVE) When a person or team is eliminated from a competition, they are defeated and so stop participating in the competition. 淘汰
+   ≫   I was eliminated from the 400 metres in the semi-finals.  我在400米半决赛中被淘汰了。
+4. (V-T) If someone says that they have eliminated an enemy, they mean that they have killed them. By using the word "eliminate," they are trying to make the action sound more positive than if they used the word "kill." 消灭
+   ≫   He declared war on the government and urged right-wingers to eliminate their opponents.  他向政府宣战并且力劝右翼分子们消灭他们的对手。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+discard    [美 dɪsˈkɑːrd / 英 dɪ'skɑːd]
+vt. 抛弃；放弃；丢弃
+vi. 放弃
+n. 抛弃；被丢弃的东西或人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you discard something, you get rid of it because you no longer want it or need it. 丢弃
+   ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
+
+========================================================================
+conserve    [美 kən'sɝv / 英 kən'sɜːv]
+vt. 保存；将…做成蜜饯；使守恒
+n. 果酱；蜜饯
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you conserve a supply of something, you use it carefully so that it lasts for a long time. 节省
+   ≫   The factories have closed for the weekend to conserve energy.  这些工厂在那个周末关了厂以节省能源。
+2. (V-T) To conserve something means to protect it from harm, loss, or change. 保护
+   ≫   ...a big increase in U.S. aid to help developing countries conserve their forests.  …美国对帮助发展中国家保护森林的援助的大幅增加。
+
+========================================================================
+conversely    [美 'kɑnvɝsli / 英 'kɒnvɜːslɪ; kən'vɜːslɪ]
+adv. 相反地
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with cl] You say conversely to indicate that the situation you are about to describe is the opposite or reverse of the one you have just described. 相反地
+   ≫   Malaysia and Indonesia rely on open markets for forest and fishery products. Conversely, some Asian countries are highly protectionist.  马来西亚和印度尼西亚依靠开放的市场获取林业和渔业产品。与之相反的是，一些亚洲国家是高度的保护贸易论者。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+degradation    [美 ,dɛɡrə'deʃən / 英 ,degrə'deɪʃ(ə)n]
+n. 退化；降格，降级；堕落
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] You use degradation to refer to a situation, condition, or experience which you consider shameful and disgusting, especially one which involves poverty or immorality. 堕落
+   ≫   They were sickened by the scenes of misery and degradation they found.  他们对所看到的凄惨和堕落景象感到恶心。
+2. (N-UNCOUNT) Degradation is the process of something becoming worse or weaker, or being made worse or weaker. 恶化; 衰退
+   ≫   ...air pollution, traffic congestion, and the steady degradation of our quality of life.  …空气污染、交通阻塞以及我们生活质量的持续恶化。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+discord    [美 'dɪskɔrd / 英 'dɪskɔːd]
+n. 不和；不调和；嘈杂声
+vi. 不一致；刺耳
+n. (Discord)人名；(法)迪斯科尔
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] Discord is disagreement and argument between people. 不和
+≫  未找到守护进程，正在启动...
+
+========================================================================
+discard    [美 dɪsˈkɑːrd / 英 dɪ'skɑːd]
+vt. 抛弃；放弃；丢弃
+vi. 放弃
+n. 抛弃；被丢弃的东西或人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you discard something, you get rid of it because you no longer want it or need it. 丢弃
+   ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
+≫  未找到守护进程，正在启动...
+
