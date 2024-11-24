@@ -8542,3 +8542,90 @@ CET4 TEM4
    ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+discard    [美 dɪsˈkɑːrd / 英 dɪ'skɑːd]
+vt. 抛弃；放弃；丢弃
+vi. 放弃
+n. 抛弃；被丢弃的东西或人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you discard something, you get rid of it because you no longer want it or need it. 丢弃
+   ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2174
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2310
+fregean compositionality
+fregean组合性
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2346
+Fregean
+adj. 弗雷格式的：与德国哲学家、数学家、逻辑学家戈特洛布·弗雷格（Gottlob Frege）有关的，尤指与他的逻辑、语言哲学和数学理论有关的。
+
+========================================================================
+conservative    [英 kən'sɜːvətɪv / 美 kən'sɝvətɪv]
+adj. 保守的
+n. 保守派，守旧者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is conservative has views that are toward the political right. In the U.S. the Republicans are more conservative than the Democrats, who are more liberal. 持政治右倾观点的
+   ≫   ...counties whose citizens invariably support the most conservative candidate in any election.  …公民们在任何选举中都千篇一律地支持最保守的候选人的县。
+2. (N-COUNT) Conservative is also a noun. 右倾人士
+   ≫   The new judge is 50-year-old David Suitor who's regarded as a conservative.  这名新法官是50岁的、被视为右倾人士的戴维·休特。
+3. (ADJ) Someone who is conservative or has conservative ideas is unwilling to accept changes and new ideas. (观点) 保守的
+   ≫   People tend to be more liberal when they're young and more conservative as they get older.  人们在年轻时常常更开放，年纪越大就越保守。
+4. (ADJ) If someone dresses in a conservative way, their clothes are conventional in style. (衣着) 守旧的
+   ≫   The girl was well dressed, as usual, though in a more conservative style.  这个女孩像平常一样穿着得体，但式样则更守旧。
+5. [ADV with v] conservatively 保守地
+   ≫   She was always very conservatively dressed when we went out.  我们出门时她总是穿得很保守。
+6. (ADJ) A conservative estimate or guess is one in which you are cautious and estimate or guess a low amount which is probably less than the real amount. 保守的 (估计、猜测)
+   ≫   The average fan spends $25 – a conservative estimate based on ticket price and souvenirs.  平均球迷花费$25–根据票价和纪念品的一个保守估计。
+7. [ADV with v] conservatively 保守地 (估计、猜测)
+   ≫   The bequest is conservatively estimated at $30 million.  这笔遗产被保守地估计为3000万美元。
+8. (ADJ) A Conservative politician or voter is a member of or votes for the Conservative Party in Britain and in various other countries. (英国等) 保守党的
+   ≫   Most Conservative MPs appear happy with the government's reassurances.  大多数保守党的国会议员们看来对政府的保证感到满意。
+9. (N-COUNT) Conservative is also a noun. 保守党
+   ≫   In 1951 the Conservatives were returned to power.  1951年保守党再度执政。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2531
+Tsien
+n. （Tsien）人名；（中）钱（普通话·威妥玛）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   With the help of Quyen Nguyen, a surgeon based at UCSD, Dr. Tsien has tested the hairpin dye on mice that had had breast cancer-induced in their bodies. 在加州大学圣地亚哥分校的外科医生阮权的帮助下，钱博士在携带乳腺癌的老鼠身上试验了发夹型分子染色颗粒。
+≫   To make use of the MMPs, Dr. Tsien attaches his fluorescent dye, along with some positive charges, to one side of a small hairpin-shaped protein molecule. 为了利用这种基质金属蛋白酶，钱博士将他的荧光染料和一些正电荷一同连接在一个小的发夹形状的蛋白质分子的一端。
+≫   Tsien said these cells are vital in helping the brain remember events. 提雪说这些细胞帮助大脑记忆，起了关键工作。
+
+========================================================================
+QIAN    ['tʃɪ'æn]
+n. （汉）钱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "I will never forget a lecture I made in the playground of a small village school," says Qian. “我永远也忘不了那一次我在一所乡村学校的操场上做的一场报告，”钱迎倩说。
+≫   By the time the next elections were due in 2008, Mr Qian was back in prison, this time because of an illegal land transaction. 2008年是又一次村委选举的时候，但钱却又重回狱中，这次是因为一次非法的土地交易。
+≫   There are few people who ever made such a lasting impression on these two countries—whether Qian ever intended to be one of them or not. 很少有人能够在中美两国之间造成如此持久的影响，不管钱学森是否有意成为他们的一份子。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2594
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2632
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2659
+hsue-shen
+钱学森
+
