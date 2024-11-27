@@ -9019,3 +9019,166 @@ CET4 TEM4
 2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
    ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
 
+========================================================================
+rifle    [美 'raɪfl / 英 'raɪf(ə)l]
+n. 步枪；来复枪
+vt. 用步枪射击；抢夺；偷走
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rifle is a gun with a long barrel. 来复枪; 步枪
+   ≫   They shot him at point blank range with an automatic rifle.  他们用一支自动步枪在近距离射程内射中了他。
+2. (V-T/V-I) If you rifle through things or rifle them, you make a quick search among them in order to find something or steal something. 匆忙搜寻
+   ≫   I discovered my husband rifling through the filing cabinet.  我发现我丈夫在档案柜里匆忙地翻找。
+3. (V) to cut or mould spiral grooves inside the barrel of (a gun) 在(枪的螺旋槽)内制来复线
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3145
+狙击步枪
+sniper rifle
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Featuring a spring piston firing mechanism, the sniper rifle is almost silent when fired. 采用弹簧活塞式发射装置，狙击步枪射击时几乎无声。
+≫   He became a sniper because the sniper rifle was the only thing he got when weapons were distributed. 他成为了一名狙击手，因为在分发武器的时候，狙击步枪是他唯一能得到的。
+≫   He became a sniper because the sniper rifle was the only thing he got when weapons were distributed. 他成为了一名狙击手，因为在分发武器的时候，狙击步枪是他唯一能得到的。
+
+========================================================================
+sniper    [美 'snaɪpɚ / 英 'snaɪpə]
+n. 狙击兵
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A sniper is someone who shoots at people from a hidden position. 狙击手
+   ≫   ...a sniper attack.  …一次狙击手的攻击。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3221
+sniper rifle
+狙击步枪：一种长程步枪，通常配备望远镜和夜视装置，用于狙击任务。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3256
+HIMARS
+n. 高机动性火箭炮系统（High Mobility Artillery Rocket System）：一种美国制造的轻型火箭炮系统，具有高机动性和远程打击能力，可携带多种火箭和导弹。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3337
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+mobility    [英 məʊ'bɪlətɪ / 美 mo'bɪləti]
+n. 移动性；机动性；[电子] 迁移率
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It will improve mobility. 它将改善机动性。
+≫   Why might you need the mobility feature? 为何可能需要这个移动性特性？
+≫   The other sensors will be based on ‘differential mobility analysis’ and infrared detection. 其他的感应装置是基于微分迁移率分析方法和红外探测。
+
+========================================================================
+artillery    [美 ɑr'tɪləri / 英 ɑː'tɪlərɪ]
+n. 火炮；大炮；炮队；炮术
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Artillery consists of large, powerful guns that are transported on wheels and used by an army. 大炮
+   ≫   Using tanks and heavy artillery, they seized the town.  他们使用坦克和重炮攻下了这座城市。
+2. (N-SING-COLL) The artillery is the section of an army that is trained to use large, powerful guns. 炮兵部队
+   ≫   From 1935 to 1937 he was in the artillery.  从1935年到1937年他在炮兵部队。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+Cheshire    [英 'tʃeʃə /  'tʃeʃə]
+n. 柴郡（英国一郡名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Cheshire Cat: Why would you say that? 柴郡猫：为什么你会这样认为？
+≫   Cheshire Cat: And if I stop talking, what am I? 柴郡猫：如果我停止说话，我又是什么？
+≫   Cheshire Cat: Do I look like anything else? 柴郡猫：你看我像是猫以外的其他动物吗？
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+subordinate    [美 səˈbɔːdɪnɪt (for n. &adj.) ; səˈbɔːdɪˌnet (for v.) / 英 sə'bɔːdɪnət]
+n. 下属，下级；部属，属下
+adj. 从属的；次要的
+vt. 使……居下位；使……服从
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If someone is your subordinate, they have a less important position than you in the organization that you both work for. 下级
+   ≫   Haig tended not to seek guidance from subordinates.  黑格不想向下属们寻求指导。
+2. (ADJ) Someone who is subordinate to you has a less important position than you and has to obey you. 下级的
+   ≫   Sixty of his subordinate officers followed his example.  他的60个下级官员都以他为榜样。
+3. (ADJ) Something that is subordinate to something else is less important than the other thing. 次要的; 从属的
+   ≫   It was an art in which words were subordinate to images.  它是一种语言比图像次要的艺术。
+4. (V-T) If you subordinate something to another thing, you regard it or treat it as less important than the other thing. 使从属于; 把…列于次要地位
+   ≫   He was both willing and able to subordinate all else to this aim.  他既愿意也能够让别的一切从属于这个目标。
+5. (N-UNCOUNT) subordination 从属; 次要
+   ≫   ...the social subordination of women.  …妇女们的社会从属地位。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+RPC
+abbr. 位置遥控（remote position control）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) Royal Pioneer Corps 英国皇家轻工兵部队
+
+========================================================================
+PRC
+abbr. 中华人民共和国（People's Republic of China）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In 2007 PRC’s positive trade balance was over 10% of its GDP, this year it went down to 5% (because of the crisis). 2007年中华人民共和国的贸易顺差超过其国内生产总值的10%，今年则下降到5％（由于危机）。
+≫   The PRC, on the contrary, scares them with the success of its strategic course that resulted in economic growth and, as a consequence, political influence in the world. 中华人民共和国，与此相反，让欧美恐慌的是其战略方针的成功，其伴随而来的经济增长，以及其在世界上的政治影响力。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+pulp    [美 pʌlp / 英 pʌlp]
+n. 纸浆；果肉；黏浆状物质
+vt. 使…化成纸浆；除去…的果肉
+vi. 变成纸浆；成为浆状
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) If an object is pressed into a pulp, it is crushed or beaten until it is soft, smooth, and wet. 浆
+   ≫   The olives are crushed to a pulp by stone rollers.  橄榄由石磙碾成浆。
+2. (N-SING) In fruit or vegetables, the pulp is the soft part inside the skin. 果肉
+   ≫   Make maximum use of the whole fruit, including the pulp which is high in fibre.  最大限度地利用整个水果，包括富含纤维的果肉部分。
+3. (N-UNCOUNT) Wood pulp is material made from crushed wood. It is used to make paper. 木浆
+4. [ADJ n] People refer to stories or novels as pulp fiction when they consider them to be of poor quality and intentionally shocking or sensational. 低俗的 (小说等)
+   ≫   ...lurid '50s pulp novels.  …50年代耸人听闻的低俗小说。
+5. [usu passive] If vegetables or fruit are pulped, they are crushed into a smooth, wet paste. 将…捣成浆
+   ≫   Onions can be boiled and pulped to a puree.  洋葱可以煮熟，捣成泥。
+6. [usu passive] If paper, books, or documents are pulped, they are destroyed. 把…化为纸浆
+   ≫   The first edition had to be pulped because it contained inaccuracies.  第一版不得不化为纸浆，因为里面有差错。
+7. (PHRASE) If someone is beaten to a pulp, they are hit repeatedly until they are very badly injured. 把某人打成重伤
+   ≫   I tried to talk myself out of a fight and got beaten to a pulp instead by three other boys.  我试图说服自己不要打架，结果却被另外3个男孩子打得遍体鳞伤。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：653
+oppo    [美 ˈɑːpoʊ / 英 ˈɒpəʊ]
+n. 相对应的人（或东西）；同僚；朋友
+n. （Oppo）人名；（意）奥波
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   OPPO became still more expert at incentivizing its physical retailers. OPPO 在激励实体零售商方面更加专业。
+≫   The Chinese smartphone market is controlled by home companies Huawei, Oppo, Vivo, and Xiaomi. 中国智能手机市场由本土公司华为、Oppo、Vivo 和小米控制。
+≫   Her brother had gone by the name of Groat, though his true name had been Oppo. 她的哥哥对外以格罗特为名，尽管他的真名是奥普。
+
+========================================================================
+vivo    [美 ˈvaɪvo; ˈvivo / 英 'vi:vəʊ]
+adv. 活泼地；生动地（等于vivace）
+adj. 生动的；活泼的；充满活力的（等于vivace）
+n. (Vivo)人名；(葡)维沃
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [music] with life and vigour 充满活力的; 充满活力地
+   ≫   allegro vivo  
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：709
+vivace    [美 vɪˈvɑːtʃeɪ / 英 vɪˈvɑːtʃeɪ]
+adj. （尤指演奏演唱提示）活泼的
+adv. （尤指演奏演唱提示）活泼地
+n. 表明活泼演奏的乐节（或乐章）
+n. （Vivace）（巴）微瓦斯（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ/ADV) to be performed in a brisk lively manner 活泼轻快的; 活泼轻快地 [music]
+
