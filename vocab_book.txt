@@ -9182,3 +9182,238 @@ n. （Vivace）（巴）微瓦斯（人名）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (ADJ/ADV) to be performed in a brisk lively manner 活泼轻快的; 活泼轻快地 [music]
 
+========================================================================
+roast    [美 rost / 英 rəʊst]
+vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖；嘲笑，吐槽
+vi. 烤；烘
+adj. 烘烤的；烤过的
+n. 烤肉；烘烤
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you roast meat or other food, you cook it by dry heat in an oven or over a fire. 烤
+   ≫   I personally would rather roast a chicken whole.  我个人更愿意烤整鸡。
+2. [ADJ n] Roast meat has been cooked by roasting. 烤熟了的
+   ≫   They serve the most delicious roast beef.  他们做最美味的烤牛肉。
+3. (N-COUNT) A roast is a piece of meat that is cooked by roasting. 烤肉
+   ≫   Come into the kitchen. I've got to put the roast in.  到厨房里来。我得把烤肉放进去。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1478
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1518
+roast me
+烤我
+
+========================================================================
+≫  未找到守护进程，正在启动...
+swallow    [美 'swɑlo / 英 'swɒləʊ]
+vt. 忍受；吞没
+vi. 吞下；咽下
+n. 燕子；一次吞咽的量
+n. (Swallow)人名；(英)斯沃洛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you swallow something, you cause it to go from your mouth down into your stomach. 吞咽
+   ≫   You are asked to swallow a capsule containing vitamin B.  你被要求吞下一颗含维生素B的胶囊。
+   ≫   Polly took a bite of the apple, chewed, and swallowed.  波莉咬了一口那个苹果，嚼了嚼吞了下去。
+2. (N-COUNT) Swallow is also a noun. 吞咽
+   ≫   Jan lifted her glass and took a quick swallow.  简举起杯子，迅速咽了一口。
+3. (V-I) If you swallow, you make a movement in your throat as if you are swallowing something, often because you are nervous or frightened. (常因紧张或害怕而) 做吞咽动作
+   ≫   Nancy swallowed hard and shook her head.  南希艰难地咽了一下口水，摇了摇她的头。
+4. (V-T) If someone swallows a story or a statement, they believe it completely. 完全相信
+   ≫   They cast doubt on his words when it suited their case, but swallowed them whole when it did not.  他的话与他们的情况吻合时他们就怀疑，但不吻合时他们却完全相信。
+5. (V-T) to engulf or destroy as if by ingestion 吞并; 侵吞
+   ≫   Nazi Germany swallowed up several small countries  
+6. (N-COUNT) A swallow is a kind of small bird with pointed wings and a forked tail. 燕子
+7. a bitter pill to swallow →see
+
+========================================================================
+depression    [美 dɪ'prɛʃən / 英 dɪ'preʃ(ə)n]
+n. 沮丧；洼地；不景气；忧愁；低气压区
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Depression is a mental state in which you are sad and feel that you cannot enjoy anything, because your situation is so difficult and unpleasant. 抑郁
+   ≫   Mr. Thomas was suffering from depression.  托马斯先生当时正受抑郁症折磨。
+2. (N-COUNT) A depression is a time when there is very little economic activity, which causes a lot of unemployment and poverty. 萧条期
+   ≫   He never forgot the hardships he witnessed during the Great Depression of the 1930s.  他从未忘记20世纪30年代经济大萧条时期他所目睹的艰辛。
+3. (N-COUNT) A depression in a surface is an area which is lower than the parts surrounding it. 洼地
+   ≫   ...an area pockmarked by rain-filled depressions.  …一个到处都是积满雨水的洼坑的地带。
+4. (N-COUNT) A depression is a mass of air that has a low pressure and that often causes rain. 低气压
+   ≫   To the northwest lies a depression with clouds and rain.  西北方向有一个云雨密布的低气压。
+
+========================================================================
+expectation    [美 ,ɛkspɛk'teʃən / 英 ekspek'teɪʃ(ə)n]
+n. 期待；预期；指望
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also N in pl] Your expectations are your strong hopes or beliefs that something will happen or that you will get something that you want. 期盼
+   ≫   Their hope, and their expectation, was that she was going to be found safe and that she would be returned to her family.  他们的希望和期盼是她被找到时安全无恙并被送回她家。
+2. (N-COUNT) A person's expectations are strong beliefs they have about the proper way someone should behave or something should happen. 期望
+   ≫   Stephen Chase had determined to live up to the expectations of the company.  斯蒂芬·蔡斯已决心不辜负公司的期望。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+MIT    [英 ,em aɪ 'ti:]
+abbr. 麻省理工学院（Massachu-setts Institute of Technology）；制造完整性试验（Manufacturing Integrity Test）；主指令带， 主程序带， 主控带（Master Instruction Tape）
+n. (Mit)人名；(柬)米；(泰)密
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) Massachusetts Institute of Technology 麻省理工学院
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Massachusetts    [,mæsə'tʃu:sits]
+n. 马萨诸塞州（美国）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a member of a North American Indian people formerly living around Massachusetts Bay 马萨诸塞人; 原主要居住在马萨诸塞湾附近的北美印第安人
+
+========================================================================
+≫  未找到守护进程，正在启动...
+indian    ['ɪndɪən]
+adj. 印度的；印第安人的；印第安语的
+n. 印第安人；印度人；印第安语
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Indian means belonging or relating to India, or to its people or culture. 印度的; 印度人的; 印度文化的
+   ≫   ...the Indian government.  ...印度政府。
+2. (N-COUNT) An Indian is an Indian citizen, or a person of Indian origin. 印度人; 印度裔
+3. (N-COUNT) Indians are the people who lived in North, South, or Central America before Europeans arrived, or people living today who are descended from them. Another name for them now is Native Americans. 印第安人
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2377
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2421
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2466
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2525
+giggity guggity goo
+吉吉，吉吉，吉吉
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Aussie    [英 'ɔ:si:; 'ɔzi /  'ɔ:si:; 'ɔzi]
+n. 澳洲人；澳大利亚人
+adj. 澳洲的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Aussie means Australian. 澳大利亚(人)的
+   ≫   ...Aussie comedy actor Paul Hogan.  ...澳大利亚喜剧演员保罗·霍根。
+2. [非正式] An Aussie is a person from Australia. 澳大利亚人
+
+========================================================================
+≫  未找到守护进程，正在启动...
+dunk    [英 dʌŋk /  dʌŋk]
+vt. 扣篮；泡；浸
+n. (Dunk)人名；(英)邓克
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you dunk something in a liquid, you put it in the liquid, especially for a particular purpose and for a short time. 浸泡
+   ≫   Dunk new plants in a bucket of water for an hour or so before planting.  栽种之前先把新植物在水桶中浸泡一个小时左右。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2666
+addressability
+n. 可寻址能力；可定址能力；打点能力；寻址率；可编址性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The framework leverages the URL addressability feature to include portlet application. 框架利用 URL 的寻址功能包含 Portlet 应用程序。
+≫   Memory addressability - a 32-bit system can directly address only a 4-gb address space. 可寻址内存-一个32位系统只可以直接寻址4gb的地址空间。
+≫   You can customize portal aggregations to leverage and extend URL addressability, to some extent, and to enhance its capabilities. 您可以自定义门户聚合，以充分利用URL Addressability并在一定程度上加以扩展，从而增强其功能。
+
+========================================================================
+substrate    [英 'sʌbstreɪt / 美 'sʌbstret]
+n. 基质；基片；底层（等于substratum）；酶作用物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [biochem] the substance upon which an enzyme acts 基质
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2752
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2797
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+molding    [美 'moldɪŋ / 英 'məʊldɪŋ]
+n. 模塑；铸造；装饰用的嵌线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   You have been shaped by your experiences in life, most of which were beyond your control. God allowed them for his purpose of molding you. 你的生活塑造你，大部分经验在我的控制范围之外，但神容许这些事情发生，为的是要塑造你。
+≫   They inspected his tiny factory, a single-story cement building with three molding machines and 15 workers, some of whom sit on the floor while they assemble mops. 他们视察了他的小厂，这是座一层楼的混凝土建筑，有三个塑模机器，雇佣了15名工人，部分工人坐在地板上组装拖把。
+≫   I began to see my children as if they were guests at my table, rather than creatures who needed molding, or scolding or holding, or anything at all from me besides ... listening. 我开始把儿子们当作餐桌上的客人，而不再是需要我去加以塑造的儿童。 我不会去嘲讽，阻断他们，或做任何其它事情，我要做的事情只有一件，那就是倾听。
+
+========================================================================
+compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
+n. [化学] 化合物；混合物；复合词
+adj. 复合的；混合的
+v. 合成；混合；恶化，加重；和解，妥协
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A compound is an enclosed area of land that is used for a particular purpose. 作特定用途的围地
+   ≫   They took refuge in the embassy compound.  他们在大使馆围区内避难。
+   ≫   ...a military compound.  …一个军事管辖区。
+2. (N-COUNT) In chemistry, a compound is a substance that consists of two or more elements. 化合物
+   ≫   Organic compounds contain carbon in their molecules.  有机化合物的分子里含碳。
+3. [正式] If something is a compound of different things, it consists of those things. 混合物
+   ≫   Honey is basically a compound of water, two types of sugar, vitamins and enzymes.  蜂蜜主要是水、两种糖、维生素和酶的混合物。
+4. [ADJ n] Compound is used to indicate that something consists of two or more parts or things. 复合的
+   ≫   ...the big compound eyes of dragonflies.  …蜻蜓的大复眼。
+5. (V) to mix or combine so as to create a compound or other product 通过混合或化合制成
+6. (V-T) To compound a problem, difficulty, or mistake means to make it worse by adding to it. 加剧
+   ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
+   ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
+7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
+
+========================================================================
+bumps    [bʌmp]
+碰撞（bump的第三人称单数）
+碰撞（bump的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you bump into something or someone, you accidentally hit them while you are moving. 撞上
+   ≫   They stopped walking and he almost bumped into them.  他们停下了脚步，这下他几乎撞到他们。
+   ≫   She bumped her head against a low branch.  她的头撞到一根低矮的树枝上。
+2. (N-COUNT) Bump is also a noun. 碰撞
+   ≫   Small children often cry after a minor bump.  小孩子们在轻微的碰撞后常常会哭。
+3. (N-COUNT) A bump is the action or the dull sound of two heavy objects hitting each other. 碰撞; 碰撞声
+   ≫   I felt a little bump and I knew instantly what had happened.  我感到了一下轻轻的撞击，立刻就明白发生了什么。
+4. (N-COUNT) A bump is a minor injury or swelling that you get if you bump into something or if something hits you. 肿块
+   ≫   She fell against our coffee table and got a large bump on her forehead.  她撞到了我们的咖啡桌跌倒了，前额起了一个大包。
+5. (N-COUNT) A bump on a road is a raised, uneven part. (路面) 隆起部分
+   ≫   The truck hit a bump and bounced.  卡车开到了路面上一块隆起的地方，颠簸起来。
+6. (V-I) If a vehicle bumps over a surface, it travels in a rough, bouncing way because the surface is very uneven. 颠簸行驶
+   ≫   We left the road, and again bumped over the mountainside.  我们离开公路，又一次在山坡上颠簸行驶。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2966
+interposer    [英 ˌɪntəˈpəʊzə(r)]
+n. 插入器；插入式选样
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Glass interposer and its application potential, etc. 玻璃中介层及其应用潜力等等。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3013
+HBM
+abbr. 暂停成组传输方式（）Halt Burst Mode; 英王（或英女王）陛下（His/Her Britannic Majesty）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) in Britain His (or Her) Britannic Majesty (英国)陛下
+
