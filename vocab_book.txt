@@ -12528,3 +12528,89 @@ CET6+ TEM4
    ≫   ...envelopes and other office stationery.  …信封及其他办公文具。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13780
+EOT
+abbr. 试验结束（End of Test）；传输结束符（End of Transmission）；带结束符（End of Tape）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The EOTS of the J-10B is likely based on a Russian design. J - 10b配备的光电跟踪系统很可能是基于俄罗斯的设计。
+≫   EOTS has flown on a Sabreliner business jet, and the next step is for the system to fly on the Cooperative Avionics Test bed. EOTS已在Sabreliner商用飞机完成试飞，下一步该系统在联合航空测试台进行试飞。
+≫   EOTS is part of the F-35 Electro-Optical Sensor System that consists of Northrop Grumman's Distributed Aperture System and EOTS. F - 35光电传感器系统由EOTS系统和诺斯罗普·格鲁门公司的分布式孔径系统组成。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13825
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13867
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13916
+eodas
+光电分布式孔径系统
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13958
+EOT
+abbr. 试验结束（End of Test）；传输结束符（End of Transmission）；带结束符（End of Tape）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The EOTS of the J-10B is likely based on a Russian design. J - 10b配备的光电跟踪系统很可能是基于俄罗斯的设计。
+≫   EOTS has flown on a Sabreliner business jet, and the next step is for the system to fly on the Cooperative Avionics Test bed. EOTS已在Sabreliner商用飞机完成试飞，下一步该系统在联合航空测试台进行试飞。
+≫   EOTS is part of the F-35 Electro-Optical Sensor System that consists of Northrop Grumman's Distributed Aperture System and EOTS. F - 35光电传感器系统由EOTS系统和诺斯罗普·格鲁门公司的分布式孔径系统组成。
+
+========================================================================
+handover    [美 'hændovɚ / 英 'hændəʊvə]
+n. 移交
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing, oft N 'of' n] The handover of something is when possession or control of it is given by one person or group of people to another. 移交
+   ≫   The handover is expected to be completed in the next ten years.  移交预计在下个10年内完成。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14047
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14091
+Not found :(
+
+========================================================================
+maneuver    [美 mə'nʊvɚ; mə'njʊvɚ / 英 mə'nʊvə]
+n. [军] 机动；演习；策略；调遣
+vi. [军] 机动；演习；调遣；用计谋
+vt. [军] 机动；演习；用计；调遣
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All the fighters landed safely on the airport after the military maneuver. 在军事演习后，所有战斗机都安全降落在机场上。
+≫   First off, Obama will have little room to maneuver in the support and operations budget, even if he pulls our troops out of Iraq. 即使他把军队全部撤出伊拉克，在支持性和经营性预算方面奥巴马很快也没有多少回旋余地。
+≫   “The smaller the bird, the more viscous the air is,” he said, which is partly why hummingbirds can maneuver so well and for so long. 鸟儿越小，空气就越有粘性“ ，他说。 这也部分说明了为什么蜂鸟能飞行的那么好那么久的原因。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+talent    [英 'tælənt / 美 'tælənt]
+n. 才能；天才；天资
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Talent is the natural ability to do something well. 天赋
+   ≫   She is proud that both her children have a talent for music.  她为自己的两个孩子都有音乐天赋感到自豪。
+   ≫   He's got lots of talent.  他有许多天赋。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14222
+有才
+adj. talented
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She was a talented teacher who endeared herself to all who worked with her. 她是一位深受同事喜爱的有才华的教师。《牛津词典》
+≫   The firm needs more people of your calibre. 公司需要更多像你这样有才干的人。《牛津词典》
+≫   She has one of the most brilliant minds in the country. 她是全国最有才气的人之一。《牛津词典》
+
