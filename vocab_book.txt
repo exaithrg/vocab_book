@@ -12614,3 +12614,18 @@ adj. talented
 ≫   The firm needs more people of your calibre. 公司需要更多像你这样有才干的人。《牛津词典》
 ≫   She has one of the most brilliant minds in the country. 她是全国最有才气的人之一。《牛津词典》
 
+========================================================================
+sonic    [美 'sɑnɪk / 英 'sɒnɪk]
+adj. 音速的；声音的；音波的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Sonic is used to describe things related to sound. 声音的
+   ≫   ...the sonic boom of enemy fighter-bombers.  …敌人战斗轰炸机隆隆的轰鸣声。
+
+========================================================================
+hypersonic    [美 ,haɪpɚ'sɑnɪk / 英 haɪpə'sɒnɪk]
+adj. 极超音速的；[声] 特超声速的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A hypersonic rocket or missile travels at five times the speed of sound or faster. 极超音速的
+   ≫   The university has been working on hypersonic technology for nearly 16 years.  该大学研究极超音速技术已经近16年了。
+   ≫   ...his first experiments on hypersonic flight.  ...他的第一批极超音速飞行实验。
+
