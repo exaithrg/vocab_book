@@ -9417,3 +9417,58 @@ abbr. 暂停成组传输方式（）Halt Burst Mode; 英王（或英女王）陛
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (ABBREVIATION for) in Britain His (or Her) Britannic Majesty (英国)陛下
 
+========================================================================
+rancher    [美 'ræntʃɚ / 英 'rɑːn(t)ʃə]
+n. 大农场经营者；大农场工人
+n. (Rancher)人名；(意)兰凯尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rancher is someone who owns or manages a large farm, especially one used for raising cattle, horses, or sheep. 农场主
+   ≫   ...a cattle rancher.  ...一位养牛场场主。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Odyssey    ['ɑdəsi]
+n. 奥德赛（古希腊史诗）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] An odyssey is a long exciting journey on which a lot of things happen. 长而刺激的行程
+   ≫   The march to Travnik was the final stretch of a 16-hour odyssey.  向特拉夫尼克行军是长达16小时艰险旅程的最后一段。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3460
+Not found :(
+
+========================================================================
+convincing    [美 kən'vɪnsɪŋ / 英 kən'vɪnsɪŋ]
+adj. 令人信服的；有说服力的
+v. 使相信；使明白（convince的现在分词）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone or something as convincing, you mean that they make you believe that a particular thing is true, correct, or genuine. 有说服力的
+   ≫   Scientists say there is no convincing evidence that power lines have anything to do with cancer.  科学家称没有有力证据证明电线能致癌。
+2. (ADV) convincingly 有说服力地
+   ≫   He argued forcefully and convincingly that they were likely to bankrupt the budget.  他强有力地证明了他们的花费可能会超出预算。
+
+========================================================================
+gigantic    [英 dʒaɪ'gæntɪk / 美 dʒaɪ'ɡæntɪk]
+adj. 巨大的，庞大的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [强调] If you describe something as gigantic, you are emphasizing that it is extremely large in size, amount, or degree. 巨大的
+   ≫   In Red Rock Valley the road is bordered by gigantic rocks.  在红岩谷，道路两边都是巨大的岩石。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3663
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Mongolia    [英 mɔŋ'ɡəuliə; 'mɔn- /  mɔŋ'ɡəuliə; 'mɔn-]
+n. 蒙古
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   China marches with Mongolia. 中国与蒙古国接壤。
+≫   Mongolia should begin uranium mining in about 2013, he said. 他并称,蒙古应该能在2013年前后开始开采铀矿.
+≫   Mongolia may be one of the most popular investment destinations for resources funds and miners today. 蒙古股市或许是今天资源性资金和矿业主最好的投资目的地之一。
+
