@@ -13587,3 +13587,23 @@ CET6 TEM4
 2. (N-COUNT) An adolescent is an adolescent boy or girl. 青春期少年
    ≫   Young adolescents are happiest with small groups of close friends.  年轻的青春期少年们和一小圈亲近的朋友在一起时最高兴。
 
+========================================================================
+routine    [美 rʊ'tin / 英 ruː'tiːn]
+n. [计] 程序；日常工作；例行公事
+adj. 日常的；例行的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A routine is the usual series of things that you do at a particular time. A routine is also the practice of regularly doing things in a fixed order. 惯例; 常规
+   ≫   The players had to change their daily routine and lifestyle.  这些运动员不得不改变他们的每日常规和生活方式。
+2. (ADJ) You use routine to describe activities that are done as a normal part of a job or process. 常规的
+   ≫   ...a series of routine medical tests including X-rays and blood tests.  …一系列包括X光和验血在内的常规医学检查。
+3. [表不满] A routine situation, action, or event is one which seems completely ordinary, rather than interesting, exciting, or different. 平淡的
+   ≫   So many days are routine and uninteresting, especially in winter.  太多的日子都是平淡和无趣，尤其是在冬季。
+4. [表不满] You use routine to refer to a way of life that is uninteresting and ordinary, or hardly ever changes. 平淡乏味
+   ≫   ...the mundane routine of her life.  …她生活的平常乏味。
+5. [计算机] A routine is a computer program, or part of a program, that performs a specific function. 程序
+   ≫   ...an installation routine.  …一个安装程序。
+6. (N-COUNT) A routine is a short sequence of jokes, remarks, actions, or movements that forms part of a longer performance. (一) 套
+   ≫   ...an athletic dance routine.  …一套体育舞蹈动作。
+≫  未找到守护进程，正在启动...
+
