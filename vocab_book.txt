@@ -12649,3 +12649,930 @@ CET4 TEM4
 6. (V-I) If an action or situation reflects in a particular way on someone or something, it gives people a good or bad impression of them. 使对…产生某种印象
    ≫   The affair hardly reflected well on the president.  这个事件很难让人对那位总统有好印象。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+array    [美 ə're / 英 ə'reɪ]
+n. 数组，阵列；排列，列阵；大批，一系列；衣服
+vt. 排列，部署；打扮
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) An array of different things or people is a large number or wide range of them. 大量; 各种
+   ≫   As the deadline approached she experienced a bewildering array of emotions.  随着最后期限的临近，她心绪变得纷繁复杂起来。
+2. (N-COUNT) An array of objects is a collection of them that is displayed or arranged in a particular way. 陈列
+   ≫   We visited the local markets and saw wonderful arrays of fruit and vegetables.  我们参观了当地的市场，看到了漂亮地摆放着的水果蔬菜。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14534
+interleaving    [美 ˌɪntərˈliv / 英 ˌɪntəˈliːvɪŋ]
+n. [计]交错；交叉
+v. 插入；[计]交叉存取（interleave 的 ing 形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to intersperse (with), esp alternately, as the illustrations in a book (with protective leaves) 插入纸
+
+========================================================================
+linguistics    [美 lɪŋ'ɡwɪstɪks / 英 lɪŋ'gwɪstɪks]
+n. 语言学
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the scientific study of language 语言学 → see also ,
+
+========================================================================
+≫  未找到守护进程，正在启动...
+pragmatics    [美 præg'mætɪks / 英 præg'mætɪks]
+n. 语用学；语用论
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) Pragmatics is the branch of linguistics that deals with the meanings and effects that come from the use of language in particular situations. 语用学
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16075
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16112
+crewmate    [英 ˈkruːmeɪt]
+n. 同机工作的机员；同船工作的船员
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a colleague on the crew of a boat or ship (同船工作的)船员; (同机工作的)飞机乘务员
+
+========================================================================
+crew    [美 krʊ / 英 kruː]
+n. 队，组；全体人员，全体船员
+vi. 一起工作
+vt. 使当船员
+n. (Crew)人名；(英、西)克鲁
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) The crew of a ship, an aircraft, or a spacecraft is the people who work on and operate it. 全体船员; 全体机务人员
+   ≫   The mission for the crew of the space shuttle is essentially over.  航天飞机全体机务人员的使命基本完成。
+   ≫   Despite their size, these vessels carry small crews, usually of around twenty men.  虽然个头大，这些轮船载船员却很少，一般只有二十人左右。
+2. (N-COUNT) A crew is a group of people with special technical skills who work together on a task or project. 一组工作人员
+   ≫   ...a two-man film crew making a documentary.  …一个制作纪录片的两人摄制组。
+3. (V-T/V-I) If you crew a boat, you work on it as part of the crew. 当船员; 充当…的船员
+   ≫   This neighbour crewed on a ferryboat.  这位邻居在一艘渡船上当船员。
+   ≫   There were to be five teams of three crewing the boat.  将有5个3人组做这艘船的船员。
+4. (V) crow的过去式 → a past tense of
+
+========================================================================
+≫  未找到守护进程，正在启动...
+reactor    [美 rɪ'æktɚ / 英 rɪ'æktə]
+n. [化工] 反应器；[核] 反应堆；起反应的人
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A reactor is the same as a . 核反应堆
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16202
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16239
+medbay
+治疗室
+
+========================================================================
+MED    [mɛd]
+abbr. 基础教学法硕士（Master of Elementary Didactics）
+n. (Med)人名；(捷)梅德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) Master of Education 教育学硕士
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+bay    [美 be / 英 beɪ]
+n. 海湾；狗吠声
+vt. 向…吠叫
+vi. 吠叫；大声叫嚷
+n. (Bay)人名；(越)七；(英、老)贝；(德、意、罗、捷、土、丹)巴伊；(匈)鲍伊；(瑞典)巴伊
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bay is a part of a coast where the land curves inward. 海湾
+   ≫   ...a short ferry ride across the bay.  …一趟跨海湾的短途渡轮旅程。
+   ≫   ...the Bay of Bengal.  …孟加拉湾。
+2. (N-COUNT) A bay is a partly enclosed area, inside or outside a building, that is used for a particular purpose. (建筑物内或外辟作特定用途的) 隔区
+   ≫   The animals are herded into a bay, then butchered.  动物被赶到隔栏内，然后被屠宰。
+3. (N-COUNT) A bay is an area of a room that extends beyond the main walls of a house, especially an area with a large window at the front of a house. (尤指位于房屋前端并装有大窗的) 凸出部分
+4. (ADJ) A bay horse is reddish-brown in colour. 红棕色的
+   ≫   ...a 10-year-old bay mare.  …一匹10岁的红棕色母马。
+5. [usu cont] If a number of people are baying for something, they are demanding something angrily, usually that someone should be punished. 愤怒地要求
+   ≫   The referee ignored voices baying for a penalty.  裁判对愤怒要求惩罚的呼声置之不理。
+   ≫   Opposition politicians have been baying for his blood.  反对派的政客们一直怒气冲冲地要他的命。
+6. (V-I) If a dog or wolf bays, it makes loud, long cries. (犬或狼等) 嚎叫
+   ≫   A dog suddenly howled, baying at the moon.  一只狗忽然嚎叫起来，对月长嗥。
+7. (PHRASE) If you keep something or someone at bay, or hold them at bay, you prevent them from reaching, attacking, or affecting you. 使无法近身
+   ≫   Eating oranges keeps colds at bay.  吃橘子可防感冒。
+
+========================================================================
+cafeteria    [英 kæfɪ'tɪərɪə / 美 ,kæfə'tɪrɪə]
+n. 自助餐厅
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cafeteria is a restaurant where you choose your food from a counter and take it to your table after paying for it. Cafeterias are usually found in public buildings such as hospitals, colleges, and offices. 自助餐厅
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+imposter    [美 ɪm'pɑstɚ / 英 ɪm'pɒstə]
+n. 骗子；冒名顶替者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Canadian consular officials accused her of being an imposter, voided her passport and asked Kenyan officials to prosecute her. 加拿大领事官员指责她是一个冒名顶替者，取消她的护照，并要求肯尼亚官员起诉她。
+≫   Her cousin was able to quickly contact Western Union and cancel the transfer before the money was picked up by the imposter in London. 她堂兄得以迅速联系西联国际汇款公司，在伦敦的骗子提款前取消了转账。
+≫   Sankey is pursuing what he believes to be fraud on a gigantic scale — a conspiracy, no less, to infiltrate and destroy the free world by putting a foreign imposter into the White House. 桑基正是追查他认为的一个大范围的骗局。 这个骗局不亚于一个阴谋，通过把一个冒名顶替者安插到白宫，对自由世界进行渗透和破坏。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+animated    [英 'ænɪmeɪtɪd / 美 'ænə'metɪd]
+adj. 活生生的；活泼的；愉快的
+vt. 使…有生气（animate的过去式）
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is animated or who is having an animated conversation is lively and is showing their feelings. 热烈的
+   ≫   She was seen in animated conversation with the singer Yuri Marusin.  她被看见与歌手尤里·马鲁辛进行热烈的交谈。
+2. [ADJ n] An animated film is one in which puppets or drawings appear to move. 动画的
+   ≫   Disney has returned to what it does best: making full-length animated feature films.  迪斯尼电影公司回到他们最拿手的事情：制作长篇动画故事片。
+
+========================================================================
+spree    [美 spri / 英 spriː]
+n. 狂欢；无节制的狂热行为；欢闹
+vi. 狂欢；狂饮
+n. (Spree)人名；(德)施普雷
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you spend a period of time doing something in an excessive way, you can say that you are going on a particular kind of spree. 放纵
+   ≫   Some people went on a spending spree in December to beat the new tax.  一些人在12月份抢在新税收政策实施前疯狂消费。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16555
+Not found :(
+
+========================================================================
+crab    [英 kræb / 美 kræb]
+n. 螃蟹；蟹肉；脾气乖戾的人；起重机
+vt. 抱怨；破坏；使偏航
+vi. 捕蟹；发牢骚；抱怨
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A crab is a sea creature with a flat round body covered by a shell, and five pairs of legs with large claws on the front pair. Crabs usually move sideways. 螃蟹
+2. (N-UNCOUNT) Crab is the flesh of this creature eaten as food. 蟹肉
+   ≫   I can't remember when I last had crab.  我不记得上次吃蟹是什么时候了。
+3. (N-COUNT) crab apple的缩写 → short for
+4. (V) to hunt or catch crabs 捕蟹
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16637
+acinonyx
+猎豹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The subspecies Acinonyx jubatus guttatus may also have been a variation due to a recessive gene. 亚种猎豹也可能是一种隐性基因变异。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16668
+jubatus
+具缘垂毛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The subspecies Acinonyx jubatus guttatus may also have been a variation due to a recessive gene. 亚种猎豹也可能是一种隐性基因变异。
+
+========================================================================
+cheetah    [美 'tʃitə / 英 'tʃiːtə]
+n. [脊椎] 猎豹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cheetah is a wild animal that looks like a large cat with black spots on its body. Cheetahs can run very fast. 猎豹
+
+========================================================================
+tawny    [美 'tɔni / 英 'tɔːnɪ]
+n. 黄褐色；茶色
+adj. 黄褐色的；茶色的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Tawny hair, fur, or skin is a pale brown colour. 黄褐色
+   ≫   She had tawny hair.  她有一头黄褐色头发。
+
+========================================================================
+creamy    [美 'krimi / 英 'kriːmɪ]
+adj. 奶油色的；乳脂状的；含乳脂的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Food or drink that is creamy contains a lot of cream or milk. 含大量奶油的
+   ≫   ...rich, creamy coffee.  …浓郁的奶油咖啡。
+2. (ADJ) Food that is creamy has a soft smooth texture and appearance. 奶油般柔滑的
+   ≫   ...creamy mashed potato.  …细腻的土豆泥。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+pale    [美 pel / 英 peɪl]
+adj. 苍白的；无力的；暗淡的
+n. 前哨；栅栏；范围
+vt. 使失色；使变苍白；用栅栏围
+vi. 失色；变苍白；变得暗淡
+n. (Pale)人名；(塞)帕莱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is pale, it is very light in colour or almost white. 浅色的; 灰白的
+   ≫   Migrating birds filled the pale sky.  迁徙的鸟布满了灰白的天空。
+   ≫   As we age, our skin becomes paler.  随着我们变老，我们的皮肤变得更加苍白。
+2. (COMB in COLOR) Pale is also a combining form. (用于构成合成词) 浅…色的
+   ≫   ...a pale blue sailor dress.  …一件浅蓝色的水手服。
+3. (ADJ) If someone looks pale, their face looks a lighter colour than usual, usually because they are ill, frightened, or shocked. (脸色) 苍白的
+   ≫   She looked pale and tired.  她看起来苍白而疲惫。
+4. (V) to make or become pale or paler; blanch 变白
+5. (V-I) If one thing pales in comparison with another, it is made to seem much less important, serious, or good by it. 显得逊色; 相形见绌
+   ≫   When someone you love has a life-threatening illness, everything else pales in comparison.  当你所爱的人得了致命的疾病时，其他的一切就都显得不重要了。
+6. (N) a wooden post or strip used as an upright member in a fence (藩篱上的)木条; 木桩
+7. (PHRASE) outside the limits of social convention
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+buff    [美 bʌf / 英 bʌf]
+n. 浅黄色；软皮；爱好者；[俚] 健康的身体
+(Buff)人名；[德]布夫；[英]巴夫
+vt. 有软皮摩擦；缓冲；擦亮，抛光某物
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is buff is pale brown in colour. 浅棕色的
+   ≫   He took a largish buff envelope from his pocket.  他从口袋里拿出一个相当大的浅棕色信封。
+2. (N) a soft thick flexible undyed leather made chiefly from the skins of buffalo, oxen, and elk 黄褐色软皮革
+3. [非正式] You use buff to describe someone who knows a lot about a particular subject. For example, if you describe someone as a film buff, you mean that they know a lot about movies. 爱好者
+   ≫   Judge Lanier is a real film buff.  拉尼尔法官是个真正的电影迷。
+4. (V) to clean or polish (a metal, floor, shoes, etc) with a buff 用软皮革擦亮(金属、地板、鞋等)
+5. (V) to deaden the force of 减低...的力量
+6. [非正式] in a condition of high physical fitness and body tone, maintained by regular exercise 体格健美的
+
+========================================================================
+≫  未找到守护进程，正在启动...
+fur    [英 fɜː / 美 fɝ]
+n. 皮，皮子；毛皮；软毛
+n. 水垢
+vt. 用毛皮覆盖；使穿毛皮服装
+n. (Fur)人名；(法)菲尔；(瑞典)富尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Fur is the thick and usually soft hair that grows on the bodies of many mammals. (哺乳动物身上的) 毛
+   ≫   This creature's fur is short, dense and silky.  这种动物的毛短、浓密且柔顺。
+2. (N-MASS) Fur is an artificial fabric that looks like fur and is used, for example, to make clothing, soft toys, and seat covers. (用以制造服装、软玩具、座套等的) 人造毛
+3. (N-VAR) Fur is the fur-covered skin of an animal that is used to make clothing or small carpets. (动物的) 毛皮
+   ≫   She had on a black coat with a fur collar.  她穿着一件有毛皮领子的黑色外套。
+   ≫   ...the trading of furs from Canada.  …与加拿大的毛皮贸易。
+4. (N-COUNT) A fur is a coat made from real or artificial fur, or a piece of fur worn around your neck. 毛皮外套; 毛皮围脖
+   ≫   There were women in furs and men in comfortable overcoats.  有身穿毛皮外套的女人们和身穿舒适大衣的男人们。
+
+========================================================================
+evenly    [美 'ivnli / 英 'i:vənlɪ]
+adv. 均匀地；平衡地；平坦地；平等地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Space your words evenly when you write. 写字的时候， 字与字之间要有均匀的间隔。
+≫   Using this method you can generate a lot of records, yet this approach is somewhat simplistic, since all the values are distributed evenly and there is no correlation between them. 您可以使用该方法来生成大量记录，然而，该方法有点过分简单了，因为所有的值都是均匀分布的，而且它们之间不存在相关性。
+≫   Although climate change is a global phenomenon, its consequences will not be evenly distributed. 虽然气候变化是一种全球现象，但其后果不会是均匀分布的。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16901
+evenly spaced    [美 ˈiːvnli speɪst]
+等距的：指物体或点在空间中的位置相互之间距离相等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All of evenly spaced energy. 所有的能量都是等间距的。
+≫   They're evenly spaced in this model. 它们均等地分隔在这个模型中。
+≫   We can assume they're evenly spaced. 我们假设它们是等间距的。
+
+========================================================================
+snout    [美 snaʊt / 英 snaʊt]
+n. 鼻子；猪嘴；烟草；鼻口部；口吻状物
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The snout of an animal such as a pig is its long nose. (动物的)长鼻子
+   ≫   Two alligators rest their snouts on the water's surface.  两只鳄鱼把它们的大嘴栖息在水面上。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16967
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+streaks    [stri:k]
+n. [地质] 条痕；直横条（streak的复数）
+v. 形成条纹；闪现（streak的第三人称单数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A streak is a long stripe or mark on a surface which contrasts with the surface because it is a different colour. 条纹
+   ≫   There are these dark streaks on the surface of the moon.  月亮表面有这些黑色的条纹。
+2. (V-T) If something streaks a surface, it makes long stripes or marks on the surface. 在…上留下条痕
+   ≫   Rain had begun to streak the windowpanes.  雨已开始在窗玻璃上留下条痕。
+3. [usu sing, with supp] If someone has a streak of a particular type of behaviour, they sometimes behave in that way. 性格特征
+   ≫   We're both alike – there is a streak of madness in us both.  我们两个很像–我们两人都有一种疯狂的性格特征。
+4. (V-I) If something or someone streaks somewhere, they move there very quickly. 疾驰
+   ≫   A meteorite streaked across the sky.  一颗流星划过天空。
+5. [非正式] to run naked through a crowd of people in a public place in order to shock or amuse them 裸奔
+6. (N-COUNT) A winning streak or a lucky streak is a continuous series of successes, for example in gambling or sports. A losing streak or an unlucky streak is a series of failures or losses. (赌博或体育比赛中的) 运气
+   ≫   The casinos had better watch out since I'm obviously on a lucky streak!  我的手气显然很好，那些赌场最好当心！
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17037
+Not found :(
+
+========================================================================
+cougar    [美 'kuɡɚ / 英 'kuːgə]
+n. [脊椎] 美洲狮，美洲豹（特指Felis concolor）；熟女
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] →see
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17100
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17133
+Herpailurus
+细腰猫
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17164
+Otocolobus
+兔狲属
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17195
+Prionailurus
+豹猫属
+
+========================================================================
+leopard    [美 'lɛpɚd / 英 'lepəd]
+n. 豹；美洲豹
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A leopard is a type of large, wild cat. Leopards have yellow fur and black spots, and live in Africa and Asia. 豹
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+lynx    [美 lɪŋks / 英 lɪŋks]
+n. 猞猁；山猫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A lynx is a wild animal similar to a large cat. 猞猁; 山猫
+
+========================================================================
+≫  未找到守护进程，正在启动...
+puma    [美 'pumə / 英 'pjuːmə]
+n. [脊椎] 美洲狮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A puma is a wild animal that is a member of the cat family. Pumas have brownish-grey fur and live in mountain regions of North and South America. 美洲狮; 长有棕灰色的毛，栖息在美洲的山地间
+
+========================================================================
+cheetah    [美 'tʃitə / 英 'tʃiːtə]
+n. [脊椎] 猎豹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cheetah is a wild animal that looks like a large cat with black spots on its body. Cheetahs can run very fast. 猎豹
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+domestic    [美 də'mɛstɪk / 英 də'mestɪk]
+adj. 国内的；家庭的；驯养的；一心只管家务的
+n. 国货；佣人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Domestic political activities, events, and situations happen or exist within one particular country. 国内的
+   ≫   ...over 100 domestic flights a day to 30 leading U.S. destinations.  …每天飞往美国30个主要目的地的100多个国内航班。
+2. → see also
+3. [ADJ n] Domestic duties and activities are concerned with the running of a home and family. 家务的
+   ≫   ...a plan for sharing domestic chores.  …一份分担家务的计划。
+4. [ADJ n] Domestic items and services are intended to be used in people's homes rather than in factories or offices. 家用的
+   ≫   ...domestic appliances.  …家用电器。
+5. (ADJ) A domestic situation or atmosphere is one which involves a family and their home. 家庭的
+   ≫   It was a scene of such domestic bliss.  这是一幕家庭美满的场景。
+6. (ADJ) A domestic animal is one that is not wild and is kept either on a farm to produce food or in someone's home as a pet. 家养的; 饲养的
+   ≫   ...a domestic cat.  …一只家猫。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17403
+felis    [英 ˈfiːlɪs]
+n. （Felis）猫属
+n. （Felis）（美、波、意、西）菲利斯（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Felis concolor is the largest carnivore in the Olympics. 美洲狮是奥运会上最大的食肉动物。
+≫   Felis catus has had a very long relationship with humans. 家猫和人类的关系也已经有很长的历史了。
+≫   Two things I need to clarify there, felis pugnans means “fighting cat.” 在这里，我需要做出两个解释。 其一，felis pugnans的意思是“好斗的猫”。
+
+========================================================================
+etymology    [美 ,ɛtɪ'mɑlədʒi / 英 ,etɪ'mɒlədʒɪ]
+n. 语源，[语] 语源学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Etymology is the study of the origins and historical development of words. 词源学
+2. (N-COUNT) The etymology of a particular word is its history. 词源
+
+========================================================================
+taxonomy    [美 tæk'sɑnəmi / 英 tæk'sɒnəmɪ]
+n. 分类学；分类法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences. (动植物等的)分类法; 分类学
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+linguistics    [美 lɪŋ'ɡwɪstɪks / 英 lɪŋ'gwɪstɪks]
+n. 语言学
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the scientific study of language 语言学 → see also ,
+
+========================================================================
+pragmatics    [美 præg'mætɪks / 英 præg'mætɪks]
+n. 语用学；语用论
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) Pragmatics is the branch of linguistics that deals with the meanings and effects that come from the use of language in particular situations. 语用学
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+phylogeny    [美 faɪ'lɑdʒəni / 英 faɪ'lɒdʒ(ə)nɪ]
+n. 种系发生，[生物] 系统发生；语发展史
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [biology] the sequence of events involved in the evolution of a species, genus, etc 语系发生 → compare
+
+========================================================================
+obsidian    [美 əb'sɪdɪən / 英 əb'sɪdɪən]
+n. 黑曜石
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a dark volcanic glass formed by very rapid solidification of lava 黑曜石 (Also called Iceland agate)
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+observe    [美 əb'zɝv / 英 əb'zɜːv]
+vt. 庆祝
+vt. 观察；遵守；说；注意到；评论
+vi. 观察；说；注意到；评论
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you observe a person or thing, you watch them carefully, especially in order to learn something about them. 观察
+   ≫   Olson also studies and observes the behaviour of babies.  奥尔森还研究并观察婴儿的行为。
+   ≫   Are there any classes I could observe?  有我可以观摩的课吗？
+2. [正式] If you observe someone or something, you see or notice them. 观察到
+   ≫   In 1664 Hooke observed a reddish spot on the surface of the planet.  1664年，胡克观察到了那颗行星表面的一个微红的斑点。
+3. [正式] If you observe that something is the case, you make a remark or comment about it, especially when it is something you have noticed and thought about a lot. 评述
+   ≫   We observe that the first calls for radical transformation did not begin until the period of the industrial revolution.  我们认为，首次要求彻底改革的呼声直到工业革命时期才出现。
+4. (V-T) If you observe something such as a law or custom, you obey it or follow it. 遵从
+   ≫   Imposing speed restrictions is easy, but forcing drivers to observe them is trickier.  实行速度限制容易，而迫使司机遵守较难。
+   ≫   The army was observing a ceasefire.  军队当时在遵守一项停火协议。
+5. (V-T) If you observe an important day such as a holiday or anniversary, you do something special in order to honour or celebrate it. 庆祝
+   ≫   ...where he will observe Thanksgiving with family members.  …在那里他将与家人一起庆祝感恩节。
+
+========================================================================
+PC    [,pi: 'si:]
+abbr. 个人电脑（Personal Computer）；巡逻车（Patrol Car）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) per cent 百分比
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17714
+生产质量
+production quality
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And its manufacturing quality has been remarkably high. 其生产质量之高令人瞩目。
+≫   Eventually, the overall and master design is implemented into production quality software. 最终，把整个设计实现为生产质量的软件。
+≫   They shall have the means and capability to guarantee the quality of both the product and the production. 具有软件产品质量及软件生产质量的保证手段和能力。
+
+========================================================================
+falcon    [美 'fælkən / 英 'fɔː(l)k(ə)n; 'fɒlk(ə)n]
+n. [鸟] 猎鹰；[鸟] 隼
+n. (Falcon)人名；(法、意、西、葡、罗、瑞典)法尔孔；(英)福尔肯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A falcon is a bird of prey that can be trained to hunt other birds and animals. 猎鹰
+
+========================================================================
+bacon    [美 'bekən / 英 'beɪk(ə)n]
+n. 咸肉；腌肉；熏猪肉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Bacon is salted or smoked meat which comes from the back or sides of a pig. 腌猪肉; 熏猪肉
+   ≫   ...bacon and eggs.  …腌猪肉和鸡蛋。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+peregrine    ['pɛrɪɡrɪn]
+n. 游隼（等于Falco peregrinus）
+adj. 外来的，移住的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) coming from abroad 外国的
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+emu    [美 'imju / 英 'iːmjuː]
+abbr. 电磁单位（electromagnetic unit）
+n. 鸸鹋（产于澳洲的一种体型大而不会飞的鸟）
+n. (Emu)人名；(日)阎武 (姓)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An emu is a large Australian bird that cannot fly. 鸸鹋
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：17873
+roadrunner    [美 ˈroʊdrʌnər / 英 ˈrəʊdrʌnə(r)]
+n. （中美、北美产）走鹃
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A roadrunner is a bird with a long tail, found mainly in the southwestern United States, that is able to run very quickly. (产于美国西南部的)走鹃
+   ≫   Roadrunners are frequently seen sprinting through the inn's grounds.  在这家旅店的地面上经常可以看到跳来跳去的走鹃。
+
+========================================================================
+springbok    [美 'sprɪŋ'bɑk / 英 'sprɪŋbɒk]
+n. 跳羚
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an antelope, Antidorcas marsupialis, of semidesert regions of southern Africa, which moves in leaps exposing a patch of white erectile hairs on the rump that are usually covered by a fold of skin 跳羚
+≫  未找到守护进程，正在启动...
+
+========================================================================
+spring    [美 sprɪŋ / 英 sprɪŋ]
+n. 春天，春季；泉，泉水；源泉，根源；弹簧，发条；弹性，弹力；跳，跃；活力，朝气；<罕>一群水鸭；朔望潮，大潮（spring tide 的简称）；（船甲板）翘曲，弯曲；（厚木板、圆材的）裂开，裂缝；（航海）倒缆，斜系船缆
+adj. 春天的
+v. 跳，跃；突然弹开，突然移动；突然出现，涌现；突然启动，突然运转；突然向某人提供（或提出）；<非正式>帮助……逃跑（或越狱），营救；发源于，来自；<美，非正式>付账（尤指请客）；<古>花钱；<澳，非正式>突然发现，撞见（不正当活动或违法者）；惊起（猎鸟），使（猎鸟）从躲藏处飞出；使爆炸；（尤指木料）翘曲，裂开；（船的桅杆或其他部分）翘曲，裂开
+【名】 （Spring）（美、瑞、英、加、德）斯普林（人名）
+★★★★ CET4 TEM4 springing,sprang,sprung,springs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Spring is the season between winter and summer when the weather becomes warmer and plants start to grow again. 春季
+   ≫   They are planning to move house next spring.  他们在计划明年春天搬家。
+2. (N-COUNT) A spring is a spiral of wire which returns to its original shape after it is pressed or pulled. 弹簧
+   ≫   Unfortunately, as a standard mattress wears, the springs soften and so do not support your spine.  不幸的是，当一张标准床垫用旧后，其弹簧变软，因而不能支撑你的背脊。
+3. (N-COUNT) A spring is a place where water comes up through the ground. It is also the water that comes from that place. 泉; 泉水
+   ≫   To the north are the hot springs.  北面是温泉。
+4. (V-I) When a person or animal springs, they jump upward or forward suddenly or quickly. (人、动物) 跳
+   ≫   He sprang to his feet, grabbing his keys off the coffee table.  他跳了起来，从咖啡桌上抓起他的钥匙。
+   ≫   The lion roared once and sprang.  狮子吼了一声，跳了起来。
+5. (V-I) If something springs in a particular direction, it moves suddenly and quickly. 弹 (向某方向)
+   ≫   Sadly when the lid of the boot sprang open, it was empty.  可惜，当后备箱盖弹开时，里面是空的。
+6. (V-I) If one thing springs from another thing, it is the result of it. 起源
+   ≫   Ethiopia's art springs from its early Christian as well as its Muslim heritage.  埃塞俄比亚的艺术起源于其早期的基督教和穆斯林教遗产。
+7. (V-T) If you spring some news or a surprise on someone, you tell them something that they did not expect to hear, without warning them. 出其不意地告知; 冷不防给
+   ≫   McLaren sprang a new idea on him.  麦克拉伦突然告诉他一个新想法。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+BOK    [,bi o 'ke]
+abbr. 韩国银行（The Bank of Korea）；知识体系（Body Of Knowledge）
+n. (Bok)人名；(英、法、俄、葡、塞、捷、匈、瑞典)博克；(东南亚国家华语)木
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [South African] Springbok的缩写 → short for
+
+========================================================================
+≫  未找到守护进程，正在启动...
+gazelle    [美 gə'zɛl / 英 gə'zel]
+n. 瞪羚；小羚羊
+vi. 似瞪羚般跳跃
+n. (Gazelle)人名；(西)加塞列
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A gazelle is a type of small African or Asian deer. Gazelles move very quickly and gracefully. (非洲或亚洲)羚羊
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18036
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18065
+哥斯拉
+Godzilla
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Over time, Godzilla morphs into a defender of Japan. 随着时间的推移，哥斯拉摇身一变成为了日本的保护者。
+≫   They may even prevent the American economy from being crushed by the health-care Godzilla. 他们甚至有可能让美国经济避免医疗卫生“哥斯拉”的冲击。
+≫   So long as Godzilla can fascinate people, I believe he will be resurrected by new generations of filmmakers in the future. 只要哥斯拉能让人们着迷，我相信将来他会在新一代电影制作人手中复兴的。
+
+========================================================================
+Godzilla
+n. 哥斯拉（动画片名称）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They may even prevent the American economy from being crushed by the health-care Godzilla. 这些商品甚至有可能让美国经济避免医疗卫生“哥斯拉”的冲击。
+≫   Over time, Godzilla morphs into a defender of Japan, but dangers begin to materialize within the nation itself. 随着时间的推移，哥斯拉摇身一变成为了日本的保护者，但危险开始在国家本身上体现。
+≫   "So long as Godzilla can fascinate people, I believe he will be resurrected by new generations of filmmakers in the future, " producer Shogo Tomiyama said. “只要哥斯拉能让人们着迷，我相信将来他会在新一代电影制作人手中复兴的。” 制片人富山庄五说。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18127
+zilla    [英 ˈzɪlə / 美 ˈzɪlə]
+n. （南亚、印度）行政专区
+n. （Zilla）（英、意）齐拉（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Zilla mocked him as a country boy. 齐拉嘲笑他是个乡下孩子。
+≫   Zilla - Ultimate HUD For All Cars! 齐拉- HUD的所有汽车极限！
+
+========================================================================
+hare    [美 hɛr / 英 heə]
+n. 野兔
+n. (Hare)人名；(印)哈雷；(英)黑尔；(法)阿尔
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A hare is an animal like a rabbit but larger with long ears, long legs, and a small tail. 野兔
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18192
+eland    [美 ˈiːlənd / 英 ˈiːlənd]
+n. [脊椎]大羚羊（产于非洲）
+n. （Eland）人名；（英）伊兰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a large spiral-horned antelope, Taurotragus oryx, inhabiting bushland in eastern and southern Africa. It has a dewlap and a hump on the shoulders and is light brown with vertical white stripes 大羚羊
+
+========================================================================
+giraffe    [美 dʒəˈræf; dʒəˈræf / 英 dʒɪˈrɑ:f]
+n. 长颈鹿
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A giraffe is a large African animal with a very long neck, long legs, and dark patches on its body. 长颈鹿
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18257
+warthog    [英 ˈwɔːthɒɡ / 美 ˈwɔːrthɑːɡ]
+n. 疣猪（一种非洲野猪）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A warthog is a wild pig with two large teeth that curve upward at the sides of its mouth. Warthogs live in Africa. (非洲)疣猪
+
+========================================================================
+instantaneous    [美 ,ɪnstən'tenɪəs / 英 ,ɪnst(ə)n'teɪnɪəs]
+adj. 瞬间的；即时的；猝发的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is instantaneous happens immediately and very quickly. 即刻的
+   ≫   Death was not instantaneous because none of the bullets hit the heart.  因为没有一颗子弹射中心脏，所以没有即刻死亡。
+2. [ADV with v] instantaneously 即刻地
+   ≫   Airbags inflate instantaneously on impact to form a cushion between the driver and the steering column.  安全气囊在碰撞时立刻膨胀，在司机和方向盘之间形成一个缓冲。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18328
+s
+DVB-S 卫星电视 ; 卫星机顶盒 ; 卫星接收机 ; 接收机
+S-MAX 麦柯斯 ; 福特麦柯斯 ; 麦克斯 ; 迈克斯
+s club 七小龙 ; 山姆会员店 ; 山姆会员商店
+场S校正 V S-CORRECTION ; V SC ; V-SCROLL
+S-wave S波 ; 横波
+S-video 端子 ; 输入 ; 视频 ; 接口
+S-layer 核心服务层
+S band S波段 ; 老干妈乐队
+S-box S盒 ; 变换函数 ; 取代表
+谷胱甘肽S-转移酶 glutathione S-transferase ; GSH-S-transferase ; GST
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫    《牛津词典》
+≫    《牛津词典》
+≫    《牛津词典》
+
+========================================================================
+sprinting    [sprɪnt]
+n. 疾跑
+v. 疾跑（sprint的ing形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The sprint is a short, fast running race. 短跑赛
+   ≫   Rob Harmeling won the sprint in Bordeaux.  罗布•哈梅林赢得了波尔多短跑赛。
+2. (N-COUNT) A sprint is a short race in which the competitors run, drive, ride, or swim very fast. (跑、驾车、骑马、游泳等) 短程赛
+   ≫   Lewis will compete in both sprints in Stuttgart.  刘易斯将参加在斯图加特举行的两项短程赛。
+3. (N-SING) A sprint is a fast run that someone does, either at the end of a race or because they are in a hurry. 冲刺; 快跑
+   ≫   Gilles Delion, of France, won the Tour of Lombardy in a sprint finish at Monza yesterday.  法国选手吉勒斯·德利翁昨天在蒙扎最后冲刺时赢得了伦巴第巡回赛冠军。
+4. (V-I) If you sprint, you run or ride as fast as you can over a short distance. 快速奔跑; 冲刺
+   ≫   Sergeant Horne sprinted to the car.  霍恩中士冲向那辆汽车。
+
+========================================================================
+metre    [英 'mi:tə(r) / 美 ˈmitɚ]
+n. 米；公尺；韵律
+n. (Metre)人名；(英)米特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A metre is a metric unit of length equal to 100 centimetres. 米
+   ≫   She's running the 1,500 metres here.  她正在这儿跑1500米。
+2. [prosody] the rhythmic arrangement of syllables in verse, usually according to the number and kind of feet in a line (诗歌的)韵律; 格律
+≫  未找到守护进程，正在启动...
+
+========================================================================
+meter    [美 mitɚ / 英 ˈmi:tə(r)]
+n. 米；仪表；[计量] 公尺；韵律
+vt. 用仪表测量
+vi. 用表计量
+n. (Meter)人名；(英)米特；(塞)梅特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A meter is a device that measures and records something such as the amount of gas or electricity that you have used. 表
+   ≫   He was there to read the electricity meter.  他在那儿读电表。
+2. (V-T) To meter something such as gas or electricity means to use a meter to measure how much of it people use, usually in order to calculate how much they have to pay. 用表测量
+   ≫   Only a third of these households thought it reasonable to meter water.  这些用户中只有1/3认为用水表计量是合理的。
+3. (N-COUNT) A meter is the same as a . 停车收费器
+4. [美国英语] A meter is the same as a . 同metre
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+commencement    [美 kə'mɛnsmənt / 英 kə'mensm(ə)nt]
+n. 开始，发端；毕业典礼
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The commencement of something is its beginning. 开始
+   ≫   All applicants should be at least 16 years of age at the commencement of this course.  所有申请人在本课程开始时应至少年满16岁。
+2. [美国英语] Commencement is a ceremony at a university, college, or high school at which students formally receive their degrees or diplomas. 毕业典礼
+   ≫   President Bush gave the commencement address today at the University of Notre Dame.  布什总统今天在巴黎圣母院大学发表了毕业典礼演说。
+
+========================================================================
+sustain    [美 sə'sten / 英 sə'steɪn]
+vt. 维持；支撑，承担；忍受；供养；证实
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you sustain something, you continue it or maintain it for a period of time. 保持
+   ≫   He has sustained his fierce social conscience from young adulthood through old age.  他从青年时代到晚年一直保持着强烈的社会良知。
+   ≫   Recovery can't be sustained unless more jobs are created.  除非有更多的工作机会被创造出来，否则复苏无法保持下去。
+2. [正式] If you sustain something such as a defeat, loss, or injury, it happens to you. 遭受
+   ≫   Every aircraft in there has sustained some damage.  那里的每架飞机都遭到了一些损坏。
+3. [正式] If something sustains you, it supports you by giving you help, strength, or encouragement. 支撑
+   ≫   The cash dividends they get from the cash crop would sustain them during the lean season.  他们从经济作物中得到的那些现金红利能支撑他们度过歉收季节。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+endurance    [美 ɪn'dʊrəns / 英 ɪn'djʊər(ə)ns; en-]
+n. 忍耐力；忍耐；持久；耐久
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Endurance is the ability to continue with an unpleasant or difficult situation, experience, or activity over a long period of time. 耐力
+   ≫   The exercise obviously will improve strength and endurance.  这项练习将明显增强力量和耐力。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+outrun    [美 ,aʊt'rʌn / 英 aʊt'rʌn]
+vt. 超过；跑得比…快；从…逃脱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you outrun someone, you run faster than they do, and therefore are able to escape from them or to arrive somewhere before they do. 跑得过
+   ≫   There are not many players who can outrun me.  跑得过我的选手不太多。
+2. (V-T) If one thing outruns another thing, the first thing develops faster than the second thing. 超过
+   ≫   Spending could outrun the capacity of businesses to produce the goods.  支出可能超过行业生产这些货物的能力。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18578
+sled dog
+雪橇犬：指训练有素的狗，特别是在北极地区用于拉雪橇的狗，也称为雪橇犬。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various hardy thick-coated breeds of dog, such as the Eskimo dog, the husky, and the malamute, developed for hauling sledges in various parts of the highest northern latitudes 雪橇犬
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18616
+wombats
+袋熊
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A wombat is a type of furry animal that has very short legs and eats plants. Wombats are found in Australia. (澳大利亚的)毛鼻袋熊
+
+========================================================================
+woman    [美 'wʊmən / 英 'wʊmən]
+n. 妇女；女性；成年女子
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A woman is an adult female human being. 成年女子
+   ≫   ...a young Lithuanian woman named Dayva.  …一个名叫戴瓦的年轻立陶宛女子。
+   ≫   ...men and women over 75 years old.  …75岁以上的男女。
+2. (N-UNCOUNT) You can refer to women in general as woman. 女性
+   ≫   ...the oppression of woman.  …对女性的压迫。
+3. → see also
+
+========================================================================
+girlfriend    [美 'ɡɝlfrɛnd / 英 'gɜːlfrend]
+n. 女朋友
+女伴
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone's girlfriend is a girl or woman with whom they are having a romantic or sexual relationship. 女朋友
+   ≫   He had been going out with his girlfriend for seven months.  他已经和他的女朋友恋爱7个月了。
+2. (N-COUNT) A girlfriend is a female friend. 女伴
+   ≫   I met a girlfriend for lunch.  我和一个女伴一起吃了午饭。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18727
+Not found :(
+
+========================================================================
+pillow    [美 'pɪlo / 英 'pɪləʊ]
+n. 枕头
+vt. 垫；枕于…；使…靠在
+vi. 枕着头；靠在枕上
+n. (Pillow)人名；(英)皮洛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pillow is a rectangular cushion that you rest your head on when you are in bed. 枕头
+≫  未找到守护进程，正在启动...
+
+========================================================================
+buddy    [美 'bʌdi / 英 'bʌdɪ]
+n. 伙伴，好朋友；密友；小男孩
+vi. 做好朋友，交朋友
+n. (Buddy)人名；(英)巴迪
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] A buddy is a close friend, usually a male friend of a man. 好朋友 (常用于男子之间)
+   ≫   We became great buddies.  我们成了很好的哥们。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+casual    [美 'kæʒʊəl / 英 'kæʒjʊəl; -zj-]
+adj. 随便的；非正式的；临时的；偶然的
+n. 便装；临时工人；待命士兵
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are casual, you are, or you pretend to be, relaxed and not very concerned about what is happening or what you are doing. 放松的
+   ≫   It's difficult for me to be casual about anything.  要我轻松待事有难度。
+2. [ADV with v] casually 放松地
+   ≫   "No need to hurry," Ben said casually.  “不必匆忙，”本轻松地说道。
+3. [ADJ n] A casual event or situation happens by chance or without planning. 不经意的
+   ≫   What you mean as a casual remark could be misinterpreted.  你不经意所说的话可能会被误解。
+4. [ADJ n] Casual clothes are ones that you normally wear at home or on holiday, and not on formal occasions. (服装) 休闲的
+   ≫   I also bought some casual clothes for the weekend.  我还买了些休闲服准备周末穿。
+5. (ADV) casually 休闲地
+   ≫   They were casually dressed.  他们穿着休闲。
+6. [英国英语] Casual work is done for short periods and not on a permanent or regular basis. 临时的
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+causal    [美 'kɔzl / 英 'kɔːz(ə)l]
+adj. 因果关系的；有原因的
+n. 表示原因的连词
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] If there is a causal relationship between two things, one thing is responsible for causing the other thing. 因果关系的
+   ≫   Rawlins stresses that it is impossible to prove a causal link between the drug and the deaths.  罗林斯强调说证实毒品与死亡之间的因果关系是不可能的。
+
+========================================================================
+pillow    [美 'pɪlo / 英 'pɪləʊ]
+n. 枕头
+vt. 垫；枕于…；使…靠在
+vi. 枕着头；靠在枕上
+n. (Pillow)人名；(英)皮洛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pillow is a rectangular cushion that you rest your head on when you are in bed. 枕头
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18918
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18960
+pillow friend
+枕头的朋友
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：18999
+casual sex
+随意性行为：指在没有长期承诺或感情基础的情况下发生的性行为。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：19029
+SP
+abbr. 自行驱动的（Self Propelled）；服务提供商 （Service Provider）
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：19059
+Friend with benefit
+有利益的朋友
+
+========================================================================
+≫  未找到守护进程，正在启动...
+adolescent    [英 ædə'les(ə)nt / 美 ,ædə'lɛsnt]
+adj. 青春期的；未成熟的
+n. 青少年
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Adolescent is used to describe young people who are no longer children but who have not yet become adults. It also refers to their behaviour. 青春期的 (少年、行为)
+   ≫   It is important that an adolescent boy should have an adult in whom he can confide.  一个青春期男孩应该有一个他能倾吐心声的成年人，这是很重要的。
+2. (N-COUNT) An adolescent is an adolescent boy or girl. 青春期少年
+   ≫   Young adolescents are happiest with small groups of close friends.  年轻的青春期少年们和一小圈亲近的朋友在一起时最高兴。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：19119
+Adole
+n. 阿道尔（人名）
+
