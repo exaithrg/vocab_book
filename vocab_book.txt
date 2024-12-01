@@ -13634,3 +13634,72 @@ n. 可寻址能力；可定址能力；打点能力；寻址率；可编址性
 ≫   Memory addressability - a 32-bit system can directly address only a 4-gb address space. 可寻址内存-一个32位系统只可以直接寻址4gb的地址空间。
 ≫   You can customize portal aggregations to leverage and extend URL addressability, to some extent, and to enhance its capabilities. 您可以自定义门户聚合，以充分利用URL Addressability并在一定程度上加以扩展，从而增强其功能。
 
+========================================================================
+relay    [美 rɪ'le / 英 'riːleɪ]
+vi. 转播；接替
+n. [电] 继电器；接替，接替人员；驿马
+vt. 转播；使接替；分程传递
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A relay or a relay race is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race. 接力赛
+   ≫   Britain's prospects of beating the United States in the relay looked poor.  英国队在接力赛中战胜美国队的希望看上去不大。
+2. (V-T) To relay television or radio signals means to send them or broadcast them. 转播
+   ≫   The satellite will be used mainly to relay television programmes.  这颗卫星将主要用来转播电视节目。
+3. [正式] If you relay something that has been said to you, you repeat it to another person. 转告
+   ≫   She relayed the message, then frowned.  她转告了那个消息，然后皱了皱眉。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1521
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1568
+relay on
+继电器上
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1612
+rely on
+依赖：指信任、相信或期望某人或某物能提供所需的支持、帮助或资源。 依靠：指依赖某人或某物来实现目标、解决问题或取得成功。 信任：指对某人或某物有信心，相信其能够做出正确的判断或行为。
+
+========================================================================
+rely    [美 rɪ'laɪ / 英 rɪ'laɪ]
+vi. 依靠；信赖
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you rely on someone or something, you need them and depend on them in order to live or work properly. 依赖; 依靠
+   ≫   They relied heavily on the advice of their professional advisers.  他们非常依赖专业顾问的建议。
+2. (V-I) If you can rely on someone to work well or to behave as you want them to, you can trust them to do this. 信任; 信赖
+   ≫   I know I can rely on you to sort it out.  我知道我可以信赖你来处理此事。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+relay    [美 rɪ'le / 英 'riːleɪ]
+vi. 转播；接替
+n. [电] 继电器；接替，接替人员；驿马
+vt. 转播；使接替；分程传递
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A relay or a relay race is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race. 接力赛
+   ≫   Britain's prospects of beating the United States in the relay looked poor.  英国队在接力赛中战胜美国队的希望看上去不大。
+2. (V-T) To relay television or radio signals means to send them or broadcast them. 转播
+   ≫   The satellite will be used mainly to relay television programmes.  这颗卫星将主要用来转播电视节目。
+3. [正式] If you relay something that has been said to you, you repeat it to another person. 转告
+   ≫   She relayed the message, then frowned.  她转告了那个消息，然后皱了皱眉。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+throttle    [英 'θrɒt(ə)l / 美 'θrɑtl]
+n. 节流阀；[车辆] 风门；喉咙
+vt. 压制，扼杀；使……窒息；使……节流
+vi. 节流，减速；窒息
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To throttle someone means to kill or injure them by squeezing their throat or tightening something around it and preventing them from breathing. 勒死; 使窒息
+   ≫   The attacker then tried to throttle her with wire.  那名袭击者然后试图用电线勒死她。
+2. (N-COUNT) The throttle of a motor vehicle or aircraft is the device, lever, or pedal that controls the quantity of fuel entering the engine and is used to control the vehicle's speed. (机动车、飞机的) 节流阀; 油门杆; 油门踏板
+   ≫   He gently opened the throttle, and the ship began to ease forward.  他轻轻地松开油门杆，船开始缓缓向前移动。
+
