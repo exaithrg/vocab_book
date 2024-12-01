@@ -13607,3 +13607,30 @@ CET4 TEM4
    ≫   ...an athletic dance routine.  …一套体育舞蹈动作。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+soc    [,ɛs o 'si]
+abbr. 片上系统（System on a Chip）；应力光学系数（Stress Optical Coefficient）；转换反转脉冲起始（Start of Conversion Pulse）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We are willing to do that even if it may not fit in SOC schedule. 即使不能满足Soc的进度表，我们也愿意做这些事情。
+≫   Probably people that want to build their quick site to publish all their runs don’t care about unit testing, SOC and so on, but still seeing a SQL statement in the the “view” feels bad. 也许那些想快速构建并发布站点的人们并不在意单元测试、SOC，但在“视图”中编写SQL语句实在是太差了。
+≫   The core objectives were to exchange information regarding advancements in the state of the art and practice of SOC, as well as to identify the emerging research topics and define the future trends. 会议的核心目标是交换SOC技术发展水平和实践的最新进展，同时也辨别出现的研究主题以及阐述未来发展趋势。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+windy    [英 'wɪndɪ / 美 'wɪndi]
+adj. 多风的，有风的；腹胀的；吹牛的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If it is windy, the wind is blowing a lot. 风大的
+   ≫   It was windy and Jake felt cold.  风很大，杰克觉得很冷。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1406
+addressability
+n. 可寻址能力；可定址能力；打点能力；寻址率；可编址性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The framework leverages the URL addressability feature to include portlet application. 框架利用 URL 的寻址功能包含 Portlet 应用程序。
+≫   Memory addressability - a 32-bit system can directly address only a 4-gb address space. 可寻址内存-一个32位系统只可以直接寻址4gb的地址空间。
+≫   You can customize portal aggregations to leverage and extend URL addressability, to some extent, and to enhance its capabilities. 您可以自定义门户聚合，以充分利用URL Addressability并在一定程度上加以扩展，从而增强其功能。
+
