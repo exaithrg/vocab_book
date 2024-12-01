@@ -13703,3 +13703,100 @@ TEM8
 2. (N-COUNT) The throttle of a motor vehicle or aircraft is the device, lever, or pedal that controls the quantity of fuel entering the engine and is used to control the vehicle's speed. (机动车、飞机的) 节流阀; 油门杆; 油门踏板
    ≫   He gently opened the throttle, and the ship began to ease forward.  他轻轻地松开油门杆，船开始缓缓向前移动。
 
+========================================================================
+relay    [美 rɪ'le / 英 'riːleɪ]
+vi. 转播；接替
+n. [电] 继电器；接替，接替人员；驿马
+vt. 转播；使接替；分程传递
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A relay or a relay race is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race. 接力赛
+   ≫   Britain's prospects of beating the United States in the relay looked poor.  英国队在接力赛中战胜美国队的希望看上去不大。
+2. (V-T) To relay television or radio signals means to send them or broadcast them. 转播
+   ≫   The satellite will be used mainly to relay television programmes.  这颗卫星将主要用来转播电视节目。
+3. [正式] If you relay something that has been said to you, you repeat it to another person. 转告
+   ≫   She relayed the message, then frowned.  她转告了那个消息，然后皱了皱眉。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+WIP    [wɪp]
+abbr. 在制品（Work In Process）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The WIP contains information about past executions of each step.NO! WIP 包含了每个步骤以前执行的有关信息。 错！
+≫   For each edition maintained in the WIP, its most current status is displayed. 对于维护在 WIP 中的每个版本，显示的是其最当前的状态。
+≫   That means that his approach covers from "Limits WIP" property and "Self-Directing" to "Kaizen" property of Kanban, as in Figure 3. 这意味着他的方法，像图3表现的那样，涵盖了看板特性中从“限制在制品数量”、“自导向”到“改善”。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+retrieved    [英 ri'tri:vd /  ri'tri:vd]
+v. 恢复；重新取回；补偿；挽救（retrieved的过去分词）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+honey    [美 'hʌni / 英 'hʌnɪ]
+n. 蜂蜜；宝贝；甜蜜
+adj. 甘美的；蜂蜜似的
+vt. 对…说甜言蜜语；加蜜使甜
+vi. 奉承；说甜言蜜语
+n. (Honey)人名；(英)霍尼
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Honey is a sweet, sticky, yellowish substance that is made by bees. 蜂蜜
+2. [美国英语] You call someone honey as a sign of affection. (用作称呼) 亲爱的
+   ≫   Honey, I don't really think that's a good idea.  亲爱的，我不认为那是个好主意。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1989
+I love you, honey
+我爱你，亲爱的
+
+========================================================================
+≫  未找到守护进程，正在启动...
+pumpkin    [美 'pʌmpkɪn / 英 ˈpʌmpkɪn]
+n. 南瓜
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A pumpkin is a large, round, orange vegetable with a thick skin. 南瓜
+   ≫   Quarter the pumpkin and remove the seeds.  把南瓜一切四块，把南瓜子取出来。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+boo    [美 bu / 英 buː]
+vt. 嘘；向…喝倒采
+vi. 发出嘘声
+int. （表示不满、轻蔑等）嘘
+n. 嘘声
+n. (Boo)人名；(瑞典)博
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you boo a speaker or performer, you shout "boo" or make other loud sounds to indicate that you do not like them, their opinions, or their performance. 发出嘘声 (以示不满)
+   ≫   People were booing and throwing things at them.  人们发出嘘声，并朝他们扔东西。
+   ≫   Demonstrators booed and jeered him.  示威者发出嘘声嘲笑他。
+2. (N-COUNT) Boo is also a noun. 嘘声
+   ≫   She was greeted with boos and hisses.  迎接她的是一片喝倒彩的嘘声。
+3. (N-UNCOUNT) booing 发出嘘声
+   ≫   The fans are entitled to their opinion but booing doesn't help anyone.  狂热爱好者们有权表达自己的看法，但发出嘘声对任何人都没有好处。
+4. (INTERJ) You say "Boo!" loudly and suddenly when you want to surprise someone who does not know that you are there. 为吓唬人而发出的声音
+
+========================================================================
+≫  未找到守护进程，正在启动...
+bro    [美 bro / 英 brəʊ]
+abbr. 兄弟（brother）
+n. (Bro)人名；(英、法、瑞典、丹)布罗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] Some men use bro as a friendly way of addressing other men when they are talking to them. 兄弟(一些男人对其他男人的友善称呼)
+   ≫   What do you mean, bro?  你是什么意思，兄弟？
+2. [非正式] Bro is the same as . 兄弟
+   ≫   Bryant said his bro did a great job.  布莱恩特说他的兄弟干得不错。
+3. [NZ] a family member 家庭成员
+
