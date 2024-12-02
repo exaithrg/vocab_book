@@ -13800,3 +13800,37 @@ n. (Bro)人名；(英、法、瑞典、丹)布罗
    ≫   Bryant said his bro did a great job.  布莱恩特说他的兄弟干得不错。
 3. [NZ] a family member 家庭成员
 
+========================================================================
+effortless    [美 'ɛfɚtləs / 英 'efətlɪs]
+adj. 容易的；不费力气的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is effortless is done easily and well. 不费力的
+   ≫   ...effortless and elegant Italian cooking.  …省力且优雅的意大利式烹调。
+2. (ADV) effortlessly 不费力地
+   ≫   Her son Peter adapted effortlessly to his new surroundings.  她的儿子彼得不费力地就适应了新环境。
+3. (ADJ) You use effortless to describe a quality that someone has naturally and does not have to learn. 天生的
+   ≫   She liked him above all for his effortless charm.  她尤其喜欢他天生的魅力。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：23847
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：23885
+LSTM
+长短期记忆网络
+
+========================================================================
+crucial    [英 'kruːʃ(ə)l / 美 'krʊʃəl]
+adj. 重要的；决定性的；定局的；决断的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as crucial, you mean it is extremely important. 至关重要的
+   ≫   He had administrators under him but made the crucial decisions himself.  尽管他手下有许多官员，但重要的决定还是他自己做。
+2. (ADV) crucially 至关重要地
+   ≫   Chewing properly is crucially important.  正确地咀嚼是至关重要的。
+≫  未找到守护进程，正在启动...
+
