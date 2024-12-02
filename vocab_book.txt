@@ -14544,3 +14544,51 @@ CET4 TEM4
    ≫   They were casually dressed.  他们穿着休闲。
 6. [英国英语] Casual work is done for short periods and not on a permanent or regular basis. 临时的
 
+========================================================================
+kd <text>	查单词、词组
+kd -t <text>	查长句
+kd -h    	查看详细帮助
+
+========================================================================
+formidable    [美 'fɔrmɪdəbl / 英 'fɔːmɪdəb(ə)l; fɔː'mɪd-]
+adj. 强大的；可怕的；令人敬畏的；艰难的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something or someone as formidable, you mean that you feel slightly frightened by them because they are very great or impressive. 可怕的; 令人敬畏的
+   ≫   We have a formidable task ahead of us.  我们面前有一项艰巨的任务。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3321
+formidable drive
+强大的驱动
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3377
+steadfast determination
+坚定的决心：一种不动摇、坚定不移的决心，表示在面对困难和挑战时，始终保持坚定的信念和决心。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3431
+incisive intellect
+敏锐的智慧
+
+========================================================================
+cozy    ['kozi]
+n. 保温罩
+vt. 蒙骗；抚慰
+adj. 舒适的；安逸的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Do everything you can to create a quiet and cozy atmosphere. 尽一切所能，为自己营造一个安静和舒适的环境。
+≫   “It is extremely expensive, but at least I have a cozy bed, ” he said. 他说：“这房子真是太贵了，但至少我有一张舒适的床了。”
+≫   Bed & breakfast: Have a cozy home and like playing host or hostess? 床&早餐：想要有一个舒适的房子和一个（女）主人吗？
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11295
+cozy time
+舒适的时间
+
