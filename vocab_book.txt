@@ -14441,3 +14441,31 @@ CET6+ TEM4
 7. (PHRASE) If someone is beaten to a pulp, they are hit repeatedly until they are very badly injured. 把某人打成重伤
    ≫   I tried to talk myself out of a fight and got beaten to a pulp instead by three other boys.  我试图说服自己不要打架，结果却被另外3个男孩子打得遍体鳞伤。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1531
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1562
+Not found :(
+
+========================================================================
+wrap    [英 ræp / 美 ræp]
+vt. 包；缠绕；隐藏；掩护
+vi. 包起来；缠绕；穿外衣
+n. 外套；围巾
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you wrap something, you fold paper or cloth tightly around it to cover it completely, for example, in order to protect it or so that you can give it to someone as a present. 包
+   ≫   Harry had carefully bought and wrapped presents for Mark to give the children.  哈里已精心为马克买好、包好那些给孩子们的礼物。
+2. (PHRASAL VERB) Wrap up means the same as . 包
+   ≫   Diana is taking the opportunity to wrap up the family presents.  戴安娜正在利用这个机会包装给家人的礼物。
+3. (V-T) When you wrap something such as a piece of paper or cloth around another thing, you put it around it. 用…包裹
+   ≫   She wrapped a handkerchief around her bleeding palm in an effort to protect it.  她用手帕包扎她那流血的手掌来保护它。
+4. → see also
+5. (PHRASE) If you keep something under wraps, you keep it secret, often until you are ready to announce it at some time in the future. 保密
+   ≫   The bids were submitted in May and were kept under wraps until October.  标书是5月递交的，直到10月都秘而不宣。
+≫  未找到守护进程，正在启动...
+
