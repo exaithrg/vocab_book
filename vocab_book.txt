@@ -13969,3 +13969,18 @@ TEM8
 3. (N-COUNT) A mimic is a person who is able to mimic people or animals. 善于模仿的人
    ≫   At school I was a good mimic.  上学时我是一个善于模仿的人。
 
+========================================================================
+Xmas    ['eksməs]
+n. 圣诞节（等于Christmas）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. Xmas is used in informal written English to represent the word Christmas. 圣诞节 (非正式书面形式)
+   ≫   It would be nice to have my Dad home for Xmas.  圣诞节有爸爸在家就好了。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：708
+xylitol    [美 ˈzaɪlətɑːl; ˈzaɪləˌtoʊl / 英 ˈzʌɪlɪtɒl]
+n. [有化] 木糖醇
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an artificial sweetener produced from xylose and used esp in chewing gum. Formula: CH2HOH(CHOH)3CH2OH 木糖醇 [chem]
+
