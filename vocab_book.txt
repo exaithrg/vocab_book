@@ -15192,3 +15192,425 @@ CET6 TEM4
    ≫   He said the launch of the party represented a milestone in Zambian history.  他说该党的成立代表着赞比亚历史上的一个里程碑。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5380
+Not found :(
+
+========================================================================
+perceptrons
+视感控器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Chapters 3 and 4 discuss single and multi-layer perceptrons at length. 书中第3章和第4章详细讨论单层及多层认知器。
+≫   RBF networks have the advantage of not suffering from local minima in the same way as Multi-Layer Perceptrons. RBF网络具有的优点是不会有如多层感知器般落入局部最小值的问题。
+≫   We introduce ridge approximation techniques, which include single- and multi-layer perceptrons and projection pursuit regression techniques. 我们要介绍包含单层和多层式认知及投影式追踪回归法在内的脊近似值法。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Kolmogorov
+柯尔莫戈洛夫（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Other researchers are experimenting with a measure called Kolmogorov Complexity, the minimum number of bits a character string can be compressed into without losing information. 其他的研究人员在对一个叫 Kolmogorov复杂度的措施做试验，即在不丢失信息的情况下一个字符串能压缩成的最小位数。
+≫   Symbolic sequences can be characterized by the length of the minimal algorithm that allows the observer to reconstitute them, referred to as algorithmic complexity or Kolmogorov-Chaitin complexity. 用算法加工符号序列，使其长度最小化，并允许观察者将其还原，这涉及算法复杂度，或Kolmogorov-Chaitin复杂度（柯氏复杂度或KCC）。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+Arnold    [美 'ɑrnəld / 英 'ɑ:nəld]
+n. 阿诺德（男子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thank you for reading this and allowing me to share some of Arnold’s life with you. 谢谢你们读这篇文章，让我和你们分享阿诺德的生活点滴。
+≫   One of the main lessons that we found is that the recovery process is not very well understood, “Arnold says. "我们发现的一个主要教训之一是恢复进程没有被很好地理解，"阿诺德说。
+≫   But until the Fed surrenders, Arnold said consumers are likely to see more banks slash debit rewards altogether or trim down the rewards they offer. 但是直到美联储退让，阿诺德说消费者可能会看到更多的银行砍掉借记奖励或者缩减他们的奖励计划。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+fairer    [fεə]
+adj. 更公平（fair的比较级）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A "fairer and more open trading system" would encourage developing country farmers to expand production, he said. 一个“更公平、更开放的贸易体系”将会鼓励发展中国家农民扩大生产，他说。
+≫   It would make for more effective policy and be fairer. 这将制定出更加有效地政策，也会更加公正。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5560
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+comparison    [美 kəm'pærɪsn / 英 kəm'pærɪs(ə)n]
+n. 比较；对照；比喻；比较关系
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) When you make a comparison, you consider two or more things and discover the differences between them. 比较
+   ≫   ...a comparison of the Mexican and Guatemalan economies.  …墨西哥与危地马拉经济的比较。
+   ≫   Its recommendations are based on detailed comparisons between the public and private sectors.  其建议是以公有和私有部门之间的详细比较为根据的。
+2. (N-COUNT) When you make a comparison, you say that one thing is like another in some way. 相似对比
+   ≫   It is demonstrably an unfair comparison.  这显然是一种不公平的相似对比。
+3. (PHRASE) If you say, for example, that something is large or small in comparison with, in comparison to, or by comparison with something else, you mean that it is larger or smaller than the other thing. 相比之下
+   ≫   The amount of carbon dioxide released by human activities such as burning coal and oil is small in comparison.  相比之下人类燃烧煤、石油等活动所释放的二氧化碳的量是少的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5730
+Not found :(
+
+========================================================================
+Not found :(
+≫  未找到守护进程，正在启动...
+
+========================================================================
+sane    [美 sen / 英 seɪn]
+adj. 健全的；理智的；[临床] 神志正常的
+n. (Sane)人名；(日)实(姓)；(日)实(名)；(芬、塞、冈、几比、塞内)萨内
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is sane is able to think and behave normally and reasonably, and is not mentally ill. 心智健全的; 神志正常的
+   ≫   He seemed perfectly sane.  他看来心智非常健全。
+2. (ADJ) If you refer to a sane person, action, or system, you mean one that you think is reasonable and sensible. 理智的; 合乎情理的
+   ≫   No sane person wishes to see conflict or casualties.  理智的人都不希望看到冲突或伤亡。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5846
+stay foolish to stay sane
+保持愚蠢才能保持理智
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5930
+Not found :(
+
+========================================================================
+HERMES    ['ɛrmɛs]
+abbr. 重放射性同位素电磁分离器（heavy element and radioactive material electromagneticseparator）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [Greek myth] the messenger and herald of the gods; the divinity of commerce, cunning, theft, travellers, and rascals. He was represented as wearing winged sandals 赫耳墨斯 (Roman counterpart Mercury)
+2. (N) 
+3. (N) a small asteroid some 800 m in diameter that passed within 670 000 kilometres of the earth in 1937, and is now lost (1937年以近距离掠过地球的)一颗小行星
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+radioactive    [美 'redɪo'æktɪv / 英 ,reɪdɪəʊ'æktɪv]
+adj. [核] 放射性的；有辐射的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is radioactive contains a substance that produces energy in the form of powerful and harmful rays. 放射性的
+   ≫   The government has been storing radioactive waste at Fernald for 50 years.  该政府50年来一直在弗纳德储存放射性废物。
+2. (N-UNCOUNT) radioactivity 放射性
+   ≫   ...the storage and disposal of solid waste that is contaminated with low levels of radioactivity.  …对受到低水平放射污染的固体废弃物的储存和处置。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6033
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6067
+Not found :(
+
+========================================================================
+myth    [美 mɪθ / 英 mɪθ]
+n. 神话；虚构的人，虚构的事
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A myth is a well-known story which was made up in the past to explain natural events or to justify religious beliefs or social customs. 神话
+   ≫   There is a famous Greek myth in which Icarus flew too near to the Sun.  一个著名的希腊神话中说，伊卡洛斯飞得离太阳太近了。
+2. (N-VAR) If you describe a belief or explanation as a myth, you mean that many people believe it but it is actually untrue. 谬见
+   ≫   Contrary to the popular myth, women are not reckless spendthrifts.  与盛行的谬见相反，女人们并非挥霍无度。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+greek    [grik]
+n. 希腊人；希腊语
+adj. 希腊的；希腊人的，希腊语的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Greek means belonging or relating to Greece. 希腊的
+2. (N-COUNT) A Greek is a person who comes from Greece. 希腊人
+3. (N-UNCOUNT) Greek is the language used in Greece. 希腊语
+   ≫   I had to learn Greek.  我只好学希腊语。
+4. (N-UNCOUNT) Greek or Ancient Greek was the language used in Greece in ancient times. 古希腊语
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6164
+Greek myth    [美 ɡriːk mɪθ]
+希腊神话
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There is a famous Greek myth in which Icarus flew too near to the Sun. 一个著名的希腊神话中说，伊卡洛斯飞得离太阳太近了。《柯林斯英汉双解大词典》
+≫   Venus is one of the goddess in Greek myth. 维纳斯是希腊神话中的女神之一。
+≫   One was a musical. The other one was about an ancient Greek myth. 一部是音乐片，另一部是关于古希腊神话的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+ICARUS    ['ikərəs; 'aikə-]
+abbr. 航程无限的洲际宇宙火箭（intercontinental aerospacecraft range unlimited system）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [Greek myth] the son of Daedalus, with whom he escaped from Crete, flying with wings made of wax and feathers. Heedless of his father's warning he flew too near the sun, causing the wax to melt, and fell into the Aegean and drowned 伊卡洛斯; 代达罗斯之子，以其父制作的蜡翼飞离克里特岛，其父逃脱了，不听他父亲的警告，他因飞得太高阳光融化了他的蜡翼，坠海而亡
+
+========================================================================
+≫  未找到守护进程，正在启动...
+mythology    [美 mɪ'θɑlədʒi / 英 mɪ'θɒlədʒɪ]
+n. 神话；神话学；神话集
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Mythology is a group of myths, especially all the myths from a particular country, religion, or culture. 神话 (集体名词)
+   ≫   In Greek mythology, the god Zeus took the form of a swan to seduce Leda.  在希腊神话中，主神宙斯用天鹅之形引诱勒达。
+2. (ADJ) mythological 神话中的
+   ≫   ...the mythological beast that was part lion and part goat.  …神话中半狮半羊的怪兽。
+3. (N-VAR) You can use mythology to refer to the beliefs or opinions that people have about something, when you think that they are false or untrue. 神话
+   ≫   Altman strips away the pretense and mythology to expose the film industry as a business like any other, dedicated to the pursuit of profit.  奥尔特曼揭去电影业的伪装和神话，揭示了其与任何行业一样追逐利润的本质。
+
+========================================================================
+craftsman    [美 'kræftsmən / 英 'krɑːf(t)smən]
+n. 工匠；手艺人；技工
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A craftsman is a man who makes things skilfully with his hands. 手艺人; 工匠
+   ≫   The table in the kitchen was made by a local craftsman.  厨房里的桌子是当地一名工匠做的。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+MBTI
+abbr. 曼布二氏类型指标
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It's been my observation that naive clients sometimes find "truth" in their MBTI results, even when the descriptions don't fit perfectly. 就我观察到的，有些没经验的客户，有时候会在他们的MBTI结果中发现“真理”，即使描述并不怎么符合。
+≫   In the post he draws no conclusions, but asks for feedback from people listing their MBTI and DSPA profiles, and how they feel about working in agile teams. 在文章中，他没有给出任何结论，但是请求人们提供他们的MBTI和DSPA概况，以及他们在敏捷团队之中工作的感受。
+≫   The reason for this is that when Myers was designing MBTI, she took Jungian typology as the basis for her project. 出现这种情况旳缘故是当迈尔斯在设计MBTI时，她将荣格旳心理类型学作为其项目旳基础。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6348
+MBTI
+abbr. 曼布二氏类型指标
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6380
+Myers-Briggs Type Indicator
+迈尔斯
+
+========================================================================
+introversion    [美 ,ɪntrə'vɝʃən / 英 ,ɪntrəʊ'vɜːʃən]
+n. 内省性，内向性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [psychol] the directing of interest inwards towards one's own thoughts and feelings rather than towards the external world or making social contacts 内向性
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+extraversion    [英 ,ekstrə'vɜːʃən / 美 ,ɛkstrə'vɝʒən]
+n. 外向性；外倾性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → a variant spelling of
+
+========================================================================
+≫  未找到守护进程，正在启动...
+sensing    [英 'sensɪŋ /  'sensɪŋ]
+n. 传感；感觉；测知
+adj. 敏感的
+v. 感觉，了解（sense的现在分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your senses are the physical abilities of sight, smell, hearing, touch, and taste. 感觉功能
+   ≫   She stared at him again, unable to believe the evidence of her senses.  她再次盯着他，不敢相信自己的感觉。
+2. (V-T) If you sense something, you become aware of it or you realize it, although it is not very obvious. 觉察到; 意识到
+   ≫   She probably sensed that I wasn't telling her the whole story.  她很可能觉察到我没有告诉她全部真相。
+   ≫   He looks about him, sensing danger.  他环顾四周，觉察到了危险。
+3. (N-SING) If you have a sense that something is the case, you think that it is the case, although you may not have firm, clear evidence for this belief. 感觉
+   ≫   Suddenly you got this sense that people were drawing themselves away from each other.  突然你有了这样的感觉即人们正在彼此疏远。
+4. (N-SING) If you have a sense of guilt or relief, for example, you feel guilty or relieved. 感觉
+   ≫   When your child is struggling for life, you feel this overwhelming sense of guilt.  当你的孩子为生活而奔波时，你就会有这种强烈的内疚感。
+5. (N-SING) If you have a sense of something such as duty or justice, you are aware of it and believe it is important. 意识; 观念
+   ≫   My sense of justice was offended.  我的正义感受到了冒犯。
+   ≫   We must keep a sense of proportion about all this.  我们必须把握好所有这些事情的轻重缓急。
+6. [N 'of' n, also n N] Someone who has a sense of timing or style has a natural ability with regard to timing or style. You can also say that someone has a bad sense of timing or style. 理解力; 天赋
+   ≫   He has an impeccable sense of timing.  他时间感很强。
+   ≫   Her dress sense is appalling.  她的着装品位让人汗颜。
+7. → see also
+8. (N-UNCOUNT) Sense is the ability to make good judgments and to behave sensibly. 理智; 判断力
+   ≫   ...when he was younger and had a bit more sense.  …当他较为年轻、较为理智的时候。
+   ≫   When that doesn't work they sometimes have the sense to seek help.  当那样做行不通时，他们会想到时不时地去寻求帮助。
+9. → see also
+10. (N-SING) If you say that there is no sense or little sense in doing something, you mean that it is not a sensible thing to do because nothing useful would be gained by doing it. 意义
+   ≫   There's no sense in pretending this doesn't happen.  假装此事没有发生是没用的。
+11. (N-COUNT) A sense of a word or expression is one of its possible meanings. 意义; 含义
+   ≫   ...a noun which has two senses.  …一个有两种含义的名词。
+12. (PHRASE) Sense is used in several expressions to indicate how true your statement is. For example, if you say that something is true in a sense, you mean that it is partly true, or true in one way. If you say that something is true in a general sense, you mean that it is true in a general way. 在某种意义上; 在一般意义上
+   ≫   In a sense, both were right.  在某种意义上，两者都对。
+   ≫   Though his background was modest, it was in no sense deprived.  他的出身背景一般般，但绝算不上贫穷。
+13. (PHRASE) If something makes sense, you can understand it. 有意义; 言之有理
+   ≫   He was sitting there saying, "Yes, the figures make sense."  他坐在那里说：“是的，这些数字有其道理。”
+14. (PHRASE) When you make sense of something, you succeed in understanding it. 理解
+   ≫   Provided you didn't try to make sense of it, it sounded beautiful.  只要你不试图理解，它听起来是美的。
+15. (PHRASE) If a course of action makes sense, it seems sensible. 看来明智
+   ≫   It makes sense to look after yourself.  照顾好你自己是明智的。
+   ≫   The project should be re-appraised to see whether it made sound economic sense.  该项目应重新评估，看看在经济上是否合情合理。
+16. (PHRASE) If you say that someone has come to their senses or has been brought to their senses, you mean that they have stopped being foolish and are being sensible again. 恢复理智
+   ≫   Eventually the world will come to its senses and get rid of them.  最终这个世界会恢复理智，除掉它们。
+17. (PHRASE) If you say that someone talks sense, you mean that what they say is sensible. 说得有理
+   ≫   When he speaks, he talks sense.  他言之必有理。
+18. [口语] If you have a sense that something is true or get a sense that something is true, you think that it is true. 意识到
+   ≫   Do you have the sense that you are loved by the public?  你意识到自己受公众喜爱了吗?
+19. see sense →see
+
+========================================================================
+≫  未找到守护进程，正在启动...
+intuition    [美 ,ɪntu'ɪʃən / 英 ɪntjʊ'ɪʃ(ə)n]
+n. 直觉；直觉力；直觉的知识
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your intuition or your intuitions are unexplained feelings that something is true even when you have no evidence or proof of it. 直觉
+   ≫   Her intuition was telling her that something was wrong.  她的直觉在告诉她事情有些不对头。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+thinking    [美 'θɪŋkɪŋ / 英 θɪŋkɪŋ]
+adj. 思考的；思想的；有理性的；好思考的
+n. 思考；思想；想法；意见；见解
+v. 思考（think的现在分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Thinking is the activity of using your brain by considering a problem or possibility or creating an idea. 思维
+   ≫   This is a time of decisive action and quick thinking.  这个时刻需要行动果断、思维敏捷。
+2. (N-UNCOUNT) The general ideas or opinions of a person or group can be referred to as their thinking. 想法
+   ≫   There was undeniably a strong theoretical dimension to his thinking.  不可否认，他的想法很有理论深度。
+3. → see also
+
+========================================================================
+feeling    [英 'fiːlɪŋ / 美 'filɪŋ]
+n. 感觉，触觉；感情，情绪；同情
+adj. 有感觉的；有同情心的；富于感情的
+v. 感觉；认为（feel的现在分词）；触摸
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A feeling is an emotion, such as anger or happiness. 情绪
+   ≫   It gave me a feeling of satisfaction.  它给了我一种满足感。
+   ≫   He was unable to contain his own destructive feelings.  他无法克制自己的消极情绪。
+2. (N-COUNT) If you have a feeling of hunger, tiredness, or other physical sensation, you experience it. 感觉
+   ≫   I also had a strange feeling in my neck.  我的脖子也有一种奇怪的感觉。
+   ≫   Focus on the feeling of relaxation.  专注于放松的感觉。
+3. (N-COUNT) If you have a feeling that something is the case or that something is going to happen, you think that is probably the case or that it is probably going to happen. 预感
+   ≫   I have a feeling that everything will be all right.  我有种预感一切都会好起来的。
+4. (N-PLURAL) Your feelings about something are the things that you think and feel about it, or your attitude toward it. 看法; 态度
+   ≫   She has strong feelings about the alleged growth in violence against female officers.  她对据称的女性军官遭遇暴力事件的增多有强烈的看法。
+   ≫   I think that sums up the feelings of most discerning and intelligent Indians.  我认为那综合了最有眼力和智慧的印第安人的观点。
+5. (N-PLURAL) When you refer to someone's feelings, you are talking about the things that might embarrass, offend, or upset them. For example, if you hurt someone's feelings, you upset them by something that you say or do. 感情
+   ≫   He was afraid of hurting my feelings.  他害怕伤我的感情。
+6. (N-UNCOUNT) Feeling is a way of thinking and reacting to things which is emotional and not planned rather than logical and practical. 感情用事
+   ≫   He was prompted to a rare outburst of feeling.  他被激发而感情用事，这很少见。
+7. (N-UNCOUNT) Feeling for someone is love, affection, sympathy, or concern for them. (爱、关切、同情等) 感情
+   ≫   Thomas never lost his feeling for Harriet.  托马斯从未失去对哈丽雅特的感情。
+8. (N-UNCOUNT) Feeling in part of your body is the ability to experience the sense of touch in this part of the body. 知觉
+   ≫   After the accident he had no feeling in his legs.  事故之后他的双腿失去了知觉。
+9. (N-UNCOUNT) Feeling is used to refer to a general opinion that a group of people has about something. (一群人的) 观点
+   ≫   There is still some feeling in the art world that the market for such works may be declining.  艺术界仍存在一种看法，认为这种作品的市场前景暗淡。
+10. (N-SING) If you have a feeling of being in a particular situation, you feel that you are in that situation. (处于某种处境的) 感觉
+   ≫   I had the terrible feeling of being left behind to bring up the baby while he had fun.  我有种可怕的感觉，觉得自己被扔下抚养孩子，而他却在享乐。
+11. (N-SING) If something such as a place or book creates a particular kind of feeling, it creates a particular kind of atmosphere. 气氛
+   ≫   That's what we tried to portray in the book, this feeling of opulence and grandeur.  那正是我们想要在这本书里所要营造的，那种繁荣且伟大的气氛。
+12. → see also
+13. (PHRASE) Bad feeling or ill feeling is bitterness or anger which exists between people, for example, after they have had an argument. 敌意
+   ≫   There's been some bad feeling between the two families.  这两个家族之间互有敌意。
+14. (PHRASE) Hard feelings are feelings of anger or bitterness toward someone who you have had an argument with or who has upset you. If you say "no hard feelings," you are making an agreement with someone not to be angry or bitter about something. 芥蒂
+   ≫   I don't want any hard feelings between our companies.  我不希望我们两家公司之间有任何芥蒂。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+judging    [美 dʒʌdʒiŋ / 英 dʒʌdʒiŋ]
+vt. 判断；审判（judge的现在分词）
+vi. 判断（judge的现在分词）；评判
+adj. 决断型
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE) A judge is the person in a court of law who decides how the law should be applied, for example how criminals should be punished. 法官
+   ≫   The judge adjourned the hearing until next Tuesday.  法官将听证延至下星期二。
+2. (N-COUNT) A judge is a person who decides who will be the winner of a competition. 裁判员
+   ≫   A panel of judges is now selecting the finalists.  裁判组现在正在选拔参加决赛的选手。
+3. (V-T) If you judge something such as a competition, you decide who or what is the winner. 评判
+   ≫   He was asked to judge a literary competition.  他被邀请评判一场文学竞赛。
+4. (V-T) If you judge something or someone, you form an opinion about them after you have examined the evidence or thought carefully about them. 判断
+   ≫   It will take a few more years to judge the impact of these ideas.  还需要再过几年才能判断这些思想的影响。
+   ≫   I am ready to judge any book on its merits.  我会根据每本书自身的性质来对其进行评判。
+   ≫   It's for other people to judge how much I have improved.  应当由别人来评判我进步的大小。
+5. (V-T) If you judge something, you guess its amount, size, or value or you guess what it is. 估计
+   ≫   It is important to judge the weight of your washing load correctly.  正确估计你的待洗衣物的量很重要。
+   ≫   I judged him to be about forty.  我估计他四十岁左右。
+6. (N-COUNT) If someone is a good judge of something, they understand it and can make sensible decisions about it. If someone is a bad judge of something, they cannot do this. 鉴定人
+   ≫   I'm a pretty good judge of character.  我非常善于判别性格。
+7. (PHRASE) You use judging by, judging from, or to judge from to introduce the reasons why you believe or think something. 根据…判断
+   ≫   Judging by the opinion polls, he seems to be succeeding.  根据民意调查判断，他似乎稳操胜券。
+   ≫   Judging from the way he laughed as he told it, it was meant to be humorous.  从他讲述时笑的方式看来，那是为逗人发笑。
+
+========================================================================
+perceiving    [pə'si:v]
+n. 感知；熟思型
+v. 理解（perceive的ing形式）；察觉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you perceive something, you see, notice, or realize it, especially when it is not obvious. 感知到
+   ≫   Students must perceive for themselves the relationship between success and effort.  学生们必须自己去认识到成功与努力之间的关系。
+2. (V-T) If you perceive someone or something as doing or being a particular thing, it is your opinion that they do this thing or that they are that thing. 认为
+   ≫   Stress is widely perceived as contributing to coronary heart disease.  压力普遍被认为能造成冠心病。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6663
+Not found :(
+
+========================================================================
+introverted    [美 'ɪntrəvɝtɪd / 英 'ɪntrə(ʊ)vɜːtɪd]
+adj. 内向的
+v. 使...内向（introvert的过去分词形式）；使内翻
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Introverted people are quiet and shy and find it difficult to talk to other people. 内向的
+   ≫   Machen was a lonely, introverted child.  梅琴是个孤独，内向的孩子。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+vert    [英 vɜːt /  vɜːt]
+n. 绿色；森林中的草木
+adj. 绿色的
+vi. 背教
+n. (Vert)人名；(西)贝尔特；(法)韦尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the right to cut green wood in a forest 采伐森林中青色草木的权利
+2. (N) the wood itself 森林中的青色草木
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6762
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+version    [美 ˈvɜːrʒ(ə)n / 英 ˈvɜːʃ(ə)n]
+n. （同一种物件稍有不同的）样式，型号；（从不同角度的）说法，描述；（电影、剧本、乐曲等的）版本，改编形式；《圣经》译本；胎位倒转术
+v. 创制……的新版本，更新……的版本
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A version of something is a particular form of it in which some details are different from earlier or later forms. 版本; 变体
+   ≫   ...an updated version of his bestselling book.  …他这本畅销书的一个最新版本。
+   ≫   Ludo is a version of an ancient Indian racing game.  “鲁多游戏”是一种古代印度竞赛游戏的变体。
+2. (N-COUNT) Someone's version of an event is their own description of it, especially when it is different from other people's. (某人对某事有别于他人的) 说法
+   ≫   Some former hostages contradicted the official version of events.  一些以前的人质反驳了官方对这些事件的说法。
+
+========================================================================
+vert    [英 vɜːt /  vɜːt]
+n. 绿色；森林中的草木
+adj. 绿色的
+vi. 背教
+n. (Vert)人名；(西)贝尔特；(法)韦尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the right to cut green wood in a forest 采伐森林中青色草木的权利
+2. (N) the wood itself 森林中的青色草木
+≫  未找到守护进程，正在启动...
+
