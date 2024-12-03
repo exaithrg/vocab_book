@@ -15057,3 +15057,138 @@ CET6 TEM4
 Symphony No. 5 in C minor, OP. 67
 C小调第五交响曲，作品67
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4810
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+motif    [美 mo'tif / 英 məʊ'tiːf]
+n. 主题；动机；主旨；图形；意念
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A motif is a design which is used as a decoration or as part of an artistic pattern. (用作装饰的) 图案
+   ≫   ...a rose motif.  …一个玫瑰图案。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+rose    [美 roz / 英 rəʊz]
+n. 玫瑰；粉红色；蔷薇（花）；粉红色的葡萄酒
+adj. 玫瑰花的；玫瑰色的；粉红色的；带有玫瑰香味的
+vt. 使成玫瑰色，使（面颊）发红；使有玫瑰香味
+vi. 起义( rise的过去式)；升起；（数量）增加；休会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. Rose is the past tense of . rise的过去时
+2. (N-COUNT) A rose is a flower, often with a pleasant smell, which grows on a bush with stems that have sharp points called thorns on them. 玫瑰花
+   ≫   She bent to pick a red rose.  她弯下腰摘了一朵红玫瑰。
+3. (N-COUNT) A rose is a bush that roses grow on. 蔷薇
+   ≫   Prune rambling roses when the flowers have faded.  花儿已经凋谢了的时候，修剪那些凌乱的蔷薇。
+4. [文学性] Something that is rose is reddish pink in colour. 玫瑰色 (的)
+   ≫   ...the rose and violet hues of a twilight sky.  …这种紫红色的微明天空。
+5. (V) to make rose-coloured; cause to blush or redden 使···变成玫瑰色
+6. (PHRASE) If you say that a situation is not a bed of roses, you mean that it is not as pleasant as it seems, and that there are some unpleasant aspects to it. 尽如人意
+   ≫   We all knew that life was unlikely to be a bed of roses back in Nebraska.  我们都知道回到内布拉斯加生活不太可能尽如人意。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+lily    [美 'lɪli / 英 'lɪlɪ]
+n. 百合花，百合；类似百合花的植物；洁白之物
+adj. 洁白的，纯洁的
+n. (Lily)人名；(罗)莉莉
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A lily is a plant with large flowers that are often white. 百合
+
+========================================================================
+≫  未找到守护进程，正在启动...
+carnation    [美 kɑr'neʃən / 英 kɑː'neɪʃ(ə)n]
+n. [园艺] 康乃馨；肉色；粉红色
+adj. 肉红色的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A carnation is a plant with white, pink, or red flowers. 康乃馨
+
+========================================================================
+≫  未找到守护进程，正在启动...
+sunflower    [美 'sʌnflaʊɚ / 英 'sʌnflaʊə]
+n. 向日葵
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A sunflower is a very tall plant with large yellow flowers. Oil from sunflower seeds is used in cooking and to make margarine. 向日葵
+
+========================================================================
+tulip    [美 'tʊlɪp / 英 'tjuːlɪp]
+n. 郁金香
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Tulips are flowers that grow in the spring from bulbs, and have oval or pointed petals packed closely together. 郁金香
+≫  未找到守护进程，正在启动...
+
+========================================================================
+daisies    [美 deziz / 英 ˈdeɪziz]
+n. 雏菊（daisy的复数形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A daisy is a small wildflower with a yellow centre and white petals. 雏菊
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+violets    ['vaiəlit]
+紫罗兰（violet的复数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A violet is a small plant that has purple or white flowers in the spring. 紫罗兰
+2. (COLOR) Something that is violet is a bluish-purple colour. 紫罗兰色的
+   ≫   The light was beginning to drain from a violet sky.  光线正开始从紫罗兰色的天空中渐渐消失。
+3. (PHRASE) If you say that someone is no shrinking violet, you mean that they are not at all shy. 羞涩的人
+   ≫   When it comes to expressing himself he is no shrinking violet.  他表达自己看法时一点都不羞涩。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5142
+gypsophila    [美 dʒɪpˈsɑːfələ / 英 dʒɪpˈsɒfɪlə]
+n. 满天星；丝石竹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any caryophyllaceous plant of the mainly Eurasian genus Gypsophila, such as baby's-breath, having small white or pink flowers 丝石竹属
+
+========================================================================
+hydrangeas    [hai'dreindʒiə]
+n. 绣球花（hydrangea的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any shrub or tree of the Asian and American genus Hydrangea, cultivated for their large clusters of white, pink, or blue flowers: family Hydrangeaceae 绣球花
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5213
+Not found :(
+
+========================================================================
+calla    [英 'kælə / 美 'kælə]
+n. 马蹄莲；水芋，荷兰海芋
+n. (Calla)人名；(西)卡利亚；(法)卡拉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any southern African plant of the aroid genus Zantedeschia, esp Z. aethiopica, which has a white funnel-shaped spathe enclosing a yellow spadix 马蹄莲属 (Also called calla lily, arum lily)
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+cornerstones    ['kɔ:nə,stəun]
+n. 基础
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The cornerstone of something is the basic part of it on which its existence, success, or truth depends. 基石
+   ≫   Research is the cornerstone of the profession.  研究是该职业的基石。
+
+========================================================================
+milestone    [美 'maɪlston / 英 'maɪlstəʊn]
+n. 里程碑，划时代的事件
+n. (Milestone)人名；(英)迈尔斯通
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A milestone is an important event in the history or development of something or someone. 里程碑
+   ≫   He said the launch of the party represented a milestone in Zambian history.  他说该党的成立代表着赞比亚历史上的一个里程碑。
+≫  未找到守护进程，正在启动...
+
