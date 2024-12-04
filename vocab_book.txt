@@ -15931,3 +15931,22 @@ excel in    [美 ɪkˈsel ɪn]
 ≫   Without conflicts and contradictions, there is no way to excel in others. 缺少冲突和矛盾，就没有办法胜过他人。
 ≫   Artistic merit scholarships require that applicants excel in a given artistic area. 艺术奖学金要求申请者在某一特定艺术领域有突出表现。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3437
+evicting
+v．驱逐，赶出：从房屋或土地上强制驱逐（某人），通常是因为未支付租金或违反租赁协议。
+★ TEM8 evicting,evicted,evicts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone is evicted from the place where they are living, they are forced to leave it, usually because they have broken a law or contract. 驱逐
+   ≫   They were evicted from their apartment after their mother became addicted to drugs.  他们的母亲染上毒瘾后，他们就被逐出了他们的公寓。
+   ≫   In the first week, the city police evicted ten families.  在第1周里，该市警方驱逐了10户家庭。
+
+========================================================================
+eviction    [英 ɪ'vɪkʃ(ə)n / 美 ɪ'vɪkʃən]
+n. 逐出；赶出；收回
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Eviction is the act or process of officially forcing someone to leave a house or piece of land. 驱逐
+   ≫   He was facing eviction, along with his wife and family.  他及其妻儿正面临着被驱逐。
+
