@@ -15574,3 +15574,178 @@ v. 分叉；向不同方向发展；分化；分歧，相异；偏离，违背�
 2. (V-RECIP) If one opinion or idea diverges from another, they contradict each other or are different. You can also say that two opinions or ideas diverge. 有分歧 [no cont]
    ≫   The view of the Estonian government does not diverge that far from Lipmaa's thinking.  爱沙尼亚政府的观点和李普马的想法并无太大分歧。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1851
+circumvents
+v．绕过，规避：通过巧妙或非法手段避开或逃避（规定、障碍等）。
+★ TEM8 circumventing,circumvented,circumvents
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone circumvents a rule or restriction, they avoid having to obey the rule or restriction, in a clever and perhaps dishonest way. (利用小聪明)回避 [正式]
+   ≫   Military planners tried to circumvent the treaty.  军事计划员们试图避开此条约。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1907
+Lotter
+n. （Lotter）人名；（德、法、葡、匈、捷）洛特
+
+========================================================================
+lottery    [英 'lɒt(ə)rɪ / 美 'lɑtəri]
+n. 彩票；碰运气的事，难算计的事；抽彩给奖法
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A lottery is a type of gambling game in which people buy numbered tickets. Several numbers are then chosen, and the people who have those numbers on their tickets win a prize. 彩票抽奖
+   ≫   ...the national lottery.  …全国性的彩票抽奖。
+2. (N-SING) If you describe something as a lottery, you mean that what happens depends entirely on luck or chance. 靠运气的事
+   ≫   The stockmarket is a lottery.  股市靠的是运气。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+landscape    [美 ˈlændskep / 英 ˈlændskeɪp]
+n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式
+vt. 对…做景观美化，给…做园林美化；从事庭园设计
+vi. 美化（环境等），使景色宜人；从事景观美化工作，做庭园设计师
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The landscape is everything you can see when you look across an area of land, including hills, rivers, buildings, trees, and plants. 风景
+   ≫   ...Arizona's desert landscape.  …亚利桑那州的沙漠风光。
+2. (N-COUNT) A landscape is all the features that are important in a particular situation. 局面
+   ≫   June's events completely altered the political landscape.  6月的事件完全改变了政治局面。
+3. (N-COUNT) A landscape is a painting which shows a scene in the countryside. 乡村风景画
+   ≫   Kenna's latest series of landscapes is on show at the Zelda Cheatle Gallery.  肯纳的乡村风景画系列正在塞尔达·奇特尔画廊展出。
+4. (V-T) If an area of land is landscaped, it is changed to make it more attractive, for example, by adding streams or ponds and planting trees and bushes. 对…做景观美化
+   ≫   The gravel pits have been landscaped and planted to make them attractive to wildfowl.  这些乱石坑已经被美化，种了树来吸引野生鸟类。
+   ≫   They had landscaped their property with trees, shrubs, and lawns.  他们种了树、灌木和草坪来美化家园。
+5. (N-UNCOUNT) landscaping 景观美化
+   ≫   The landowner insisted on a high standard of landscaping.  土地所有人执意要求高标准的景观美化。
+6. [oft N n] If a sheet of paper is in landscape format or mode, the longer edge of the paper is horizontal and the shorter edge is vertical. 横排格式
+   ≫   Most powerpoint presentations are prepared for screens in landscape format.  大部分幻灯片演示在屏幕上都是横排格式。
+
+========================================================================
+commodity    [美 kə'mɑdəti / 英 kə'mɒdɪtɪ]
+n. 商品，货物；日用品
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] A commodity is something that is sold for money. 商品
+   ≫   Prices went up on several basic commodities like bread and meat.  面包、肉等几种基本商品的价格上涨了。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+exploit    [英 ˈeksplɔɪt;ɪkˈsplɔɪt / 美 ɛksplɔɪt; ɪkˈsplɔɪt]
+vt. 开发，开拓；剥削；开采
+n. 勋绩；功绩
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2120
+circumvents
+v．绕过，规避：通过巧妙或非法手段避开或逃避（规定、障碍等）。
+★ TEM8 circumventing,circumvented,circumvents
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone circumvents a rule or restriction, they avoid having to obey the rule or restriction, in a clever and perhaps dishonest way. (利用小聪明)回避 [正式]
+   ≫   Military planners tried to circumvent the treaty.  军事计划员们试图避开此条约。
+
+========================================================================
+avenue    [英 'æv(ə)njuː / 美 'ævənu]
+n. 大街；林荫大道；[比喻](达到某物的)途径，手段，方法，渠道
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-IN-NAMES) Avenue is sometimes used in the names of streets. The written abbreviation is also used. 大街
+   ≫   ...the most expensive apartments on Park Avenue.  …派克大街上最昂贵的公寓。
+2. (N-COUNT) An avenue is a wide, straight road, especially one with trees on either side. 林荫大道
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+likelihood    [美 'laɪklɪhʊd / 英 'laɪklɪhʊd]
+n. 可能性，可能
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The likelihood of something happening is how likely it is to happen. 可能性
+   ≫   The likelihood of infection is minimal.  传染的可能性微乎其微。
+2. (N-SING) If something is a likelihood, it is likely to happen. 可能发生的事情
+   ≫   But the likelihood is that people would be willing to pay if they were certain that their money was going to a good cause.  但有可能的是，如果人们确信自己的钱将用于善事，他们会愿意出钱的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+taxonomy    [美 tæk'sɑnəmi / 英 tæk'sɒnəmɪ]
+n. 分类学；分类法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences. (动植物等的)分类法; 分类学
+
+========================================================================
+≫  未找到守护进程，正在启动...
+sheared    [英 ʃɪəd /  ʃɪəd]
+adj. 修剪的
+v. 修剪（shear的过去分词）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To shear a sheep means to cut its wool off. (给羊) 剪毛
+   ≫   Competitors have six minutes to shear four sheep.  参赛者们有6分钟的时间来给4只羊剪毛。
+2. (N-UNCOUNT) shearing 剪羊毛
+   ≫   ...a display of sheep shearing.  …一场剪羊毛表演。
+3. (N-PLURAL) A pair of shears is a garden tool like a very large pair of scissors. Shears are used especially for cutting hedges. 大剪刀
+   ≫   Trim the shrubs with shears.  用大剪刀修剪这些灌木。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+absorbing    [美 əb'sɔrbɪŋ / 英 əb'zɔːbɪŋ; -'sɔːbɪŋ]
+adj. 吸引人的；极有趣的
+v. 吸收（absorb的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An absorbing task or activity interests you a great deal and takes up all your attention and energy. 让人专注的
+   ≫   "Two Sisters" is an absorbing read.  《两姊妹》是一本引人入胜的读物。
+
+========================================================================
+homologous    [美 ho'mɑləɡəs / 英 hɒ'mɒləgəs]
+adj. 相应的；[生物] 同源的；类似的；一致的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) having a related or similar position, structure, etc 拥有相关的或相似的职位的; 拥有相关的或相似的结构的
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2491
+free lunch    [美 friː lʌntʃ]
+免费午餐：指不需要支付费用的事物；也可以指免费乘车。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There is no such thing as a free lunch. 世上没有免费午餐之类的好事儿。《牛津词典》
+≫   New Zealand offers free school lunches to thousands of kids. WELLINGTON, Feb. 20 (Xinhua)—"Thousands of children have begun receiving a free lunch on schooldays under the government's free and healthy school lunch program," Prime Minister Jacinda Ardern said on Thursday. 新西兰为成千上万的孩子提供免费学校午餐。2月20日，新华社在惠灵顿报道——“在政府免费健康学校午餐计划的推动下，成千上万的孩子已经开始在上学日收到免费午餐。”总理杰辛达·阿登周四时说。
+≫   Ouch! It's my free lunch! 哎呀！这是我的免费午餐啊！
+
+========================================================================
+rationale    [美 ,ræʃə'næl / 英 ,ræʃə'nɑːl]
+n. 基本原理；原理的阐述
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The rationale for a course of action, practice, or belief is the set of reasons on which it is based. 全部理由; 根本原因
+   ≫   However, the rationale for such initiatives is not, of course, solely economic.  但是，这些积极行动的根本原因当然不全是出于经济目的。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+gradients    ['ɡreidiənt]
+n. 渐变，[数][物] 梯度（gradient复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [英国英语] A gradient is a slope, or the degree to which the ground slopes. 斜坡; 倾斜度
+
