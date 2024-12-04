@@ -15902,3 +15902,32 @@ CET6 TEM8
 2. [usu N 'of' n] alleviation 减轻
    ≫   Their energies were focused on the alleviation of the refugees' misery.  他们把精力集中在了对难民苦难的减轻上。
 
+========================================================================
+Exel
+n. 埃克塞尔（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Van Exel averaged 14.9 points and 7.3 assists in five Lakers seasons. 在湖人队的五个赛季里，Van Exel 平均可以得到 14.9 分和 7.3个助攻.
+≫   Lynch was one Lakers first-round pick from North Carolina who didn't do much in L.A., but second-rounder Van Exel had an impact. 来自北卡的首轮新秀 Lynch 并没有在洛杉矶有太多的表现,但次轮的 Van Exel 却对球队产生了影响.
+≫   It will also enable DB ML to invest in foreign expansion-it is the fifth-biggest logistics operator worldwide, but with less than half the turnover of Deutsche Post and its subsidiaries DHL and Exel. 作为全球第5大物流运营商的DB，却只有德国邮政（Deutsche Post）及其子公司DHL和Exel不到一半的营业额。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+excel    [美 ɪk'sɛl / 英 ɪk'sel; ek-]
+vt. 超过；擅长
+vi. (在某方面)胜过(或超过)别人
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If someone excels in something or excels at it, they are very good at doing it. (在某方面) 擅长
+   ≫   Mary was a better rider than either of them and she excelled at outdoor sports.  玛丽比他们俩骑得都好，她擅长户外运动。
+   ≫   Academically he began to excel.  他开始在学术上脱颖而出。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3383
+excel in    [美 ɪkˈsel ɪn]
+在……方面表现出色：在某个领域或活动中表现出非常出色或优秀。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It can't be skills like arithmetic, which machines already excel in. 不可能是算术之类的技能，这些机器已经很擅长了。
+≫   Without conflicts and contradictions, there is no way to excel in others. 缺少冲突和矛盾，就没有办法胜过他人。
+≫   Artistic merit scholarships require that applicants excel in a given artistic area. 艺术奖学金要求申请者在某一特定艺术领域有突出表现。
+
