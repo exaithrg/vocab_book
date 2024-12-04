@@ -15562,3 +15562,15 @@ CET6
 3. → see also
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：759
+diverged
+v. 分叉；向不同方向发展；分化；分歧，相异；偏离，违背；离题（diverge 的过去式和过去分词）
+★ TEM8 diverging,diverged,diverges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one thing diverges from another similar thing, the first thing becomes different from the second or develops differently from it. You can also say that two things diverge. 相异
+   ≫   His interests increasingly diverged from those of his colleagues.  他和同事们的兴趣越来越不同。
+2. (V-RECIP) If one opinion or idea diverges from another, they contradict each other or are different. You can also say that two opinions or ideas diverge. 有分歧 [no cont]
+   ≫   The view of the Estonian government does not diverge that far from Lipmaa's thinking.  爱沙尼亚政府的观点和李普马的想法并无太大分歧。
+
