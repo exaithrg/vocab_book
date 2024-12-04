@@ -17296,3 +17296,9 @@ CET6 TEM8
 2. (ADJ) Robust views or opinions are strongly held and forcefully expressed. 强有力的 (观点、见解)
    ≫   The Secretary of State has made a robust defence of the agreement.  国务卿对这项协议进行了强有力的辩护。
 
+========================================================================
+hydra    ['haɪdrə]
+n. 九头蛇；[无脊椎] 水螅；难以根除之祸害
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any solitary freshwater hydroid coelenterate of the genus Hydra, in which the body is a slender polyp with tentacles around the mouth 水螅
+
