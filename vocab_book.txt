@@ -15496,3 +15496,28 @@ n. 九头蛇；[无脊椎] 水螅；难以根除之祸害
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) any solitary freshwater hydroid coelenterate of the genus Hydra, in which the body is a slender polyp with tentacles around the mouth 水螅
 
+========================================================================
+≫  未找到守护进程，正在启动...
+draft    [美 dræft / 英 drɑːft]
+n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流
+vt. 起草；制定；征募
+vi. 拟稿；绘样；作草图
+adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A draft is an early version of a letter, book, or speech. 草稿; 初稿
+   ≫   I rewrote his rough draft, which was published under my name.  我改写了他那篇以我的名义发表了的初稿。
+   ≫   I faxed a first draft of this article to him.  我把这篇文章的初稿传真给他。
+2. (N-COUNT) A draft is a written order for payment of money by a bank, especially from one bank to another. 汇票
+   ≫   Payments must be made in U.S. dollars by a bank draft drawn to the order of the United Nations Postal Administration.  付款必须用开给联合国邮政管理处的银行汇票，并以美元支付。
+3. [美国英语] A draft is a current of air that comes into a place in an undesirable way. (钻进某处的) 风
+   ≫   Block drafts around doors and windows.  挡住门窗周围的风。
+4. (V-T) When you draft a letter, book, or speech, you write the first version of it. 起草
+   ≫   He drafted a letter to the editors.  他草拟了一封给编辑的信。
+5. [usu passive] If you are drafted, you are ordered to serve in the armed forces, usually for a limited period of time. 征兵
+   ≫   During the Second World War, he was drafted into the U.S. Army.  第二次世界大战期间，他应征加入美国陆军。
+6. (V-T) If people are drafted to do something, they are asked to do a particular job. 选派
+   ≫   She hoped that Fox could be drafted to run the organization.  她希望福克斯能够被选派来掌管这个组织。
+7. [美国英语] The draft is the practice of ordering people to serve in the armed forces, usually for a limited period of time. 征兵
+   ≫   ...his effort to avoid the draft.  …他逃避兵役的努力。
+
