@@ -15950,3 +15950,18 @@ TEM8
 1. (N-VAR) Eviction is the act or process of officially forcing someone to leave a house or piece of land. 驱逐
    ≫   He was facing eviction, along with his wife and family.  他及其妻儿正面临着被驱逐。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+consent    [美 kən'sɛnt / 英 kən'sent]
+vi. 同意；赞成；答应
+n. 同意；（意见等的）一致；赞成
+n. (Consent)人名；(法)孔桑
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you give your consent to something, you give someone permission to do it. 准许
+   ≫   At approximately 11:30 p.m., Pollard finally gave his consent to the search.  大约晚上11:30的时候，波拉德终于对搜查予以同意。
+2. [正式] If you consent to something, you agree to do it or to allow it to be done. 同意
+   ≫   He finally consented to go.  他最终同意去。
+   ≫   He asked Ginny if she would consent to a small celebration after the christening.  他问金尼她是否同意在洗礼仪式后来个小庆祝。
+3. → see also
+
