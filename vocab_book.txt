@@ -15521,3 +15521,31 @@ CET4 TEM4
 7. [美国英语] The draft is the practice of ordering people to serve in the armed forces, usually for a limited period of time. 征兵
    ≫   ...his effort to avoid the draft.  …他逃避兵役的努力。
 
+========================================================================
+prompt    [英 prɒm(p)t / 美 prɑmpt]
+adj. 敏捷的，迅速的；立刻的
+vt. 提示；促进；激起；（给演员）提白
+n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格
+adv. 准时地
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To prompt someone to do something means to make them decide to do it. 促使
+   ≫   Japan's recession has prompted consumers to cut back on buying cars.  日本的经济衰退已促使消费者们削减购车花销。
+2. (V-T) If you prompt someone when they stop speaking, you encourage or help them to continue. If you prompt an actor, you tell them what their next line is when they have forgotten what comes next. 提示; 给 (演员) 提示词
+   ≫   "You wouldn't have wanted to bring those people to justice anyway, would you?" Brand prompted him.  “你本不想将那些人绳之以法的，是吧？”布兰德提示他说。
+3. (ADJ) A prompt action is done without any delay. 立即的 (行动)
+   ≫   It is not too late, but prompt action is needed.  还不太晚，但需要立即行动。
+4. [v-link ADJ] If you are prompt to do something, you do it without delay or you are not late. (做某事) 迅速的
+   ≫   You have been so prompt in carrying out all these commissions.  你执行所有这些任务非常迅速。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+promptly    [美 'prɑmptli / 英 'prɒm(p)tlɪ]
+adv. 迅速地；立即地；敏捷地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with v] If you do something promptly, you do it immediately. 立即
+   ≫   Sister Francesca entered the chapel, took her seat, and promptly fell asleep.  弗朗西丝卡修女走进小教堂，就了座，很快就睡着了。
+2. (ADV) If you do something promptly at a particular time, you do it at exactly that time. 准点地
+   ≫   Promptly at a quarter past seven, we left the hotel.  我们在7：15准点离开了旅馆。
+
