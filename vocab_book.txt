@@ -16244,3 +16244,31 @@ CET4 TEM4
 8. (V-T) If two or more people split something, they share it between them. 分摊; 分享
    ≫   I would rather pay for a meal than watch nine friends pick over and split a bill.  我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+cum    [英 kʌm / 美 kʌm]
+prep. 附有；连同
+n. 精液；精子
+n. (Cum)人名；(意)库姆
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This gives you the feeling of flying when you cum. 这样你高潮的时候会有一种飞起来的感觉。
+≫   The genius of the whole system is that it is so cum bersome and complex that it has trouble accomplish ing anything irredeemably stupid. 整个系统的天才之处就在于它是如此繁琐复杂，要完成那些无可救药的愚蠢之事，它实在是有困难。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2531
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2581
+Not found :(
+
+========================================================================
+cumulative    [美 'kjumjəletɪv / 英 'kjuːmjʊlətɪv]
+adj. 累积的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a series of events have a cumulative effect, each event makes the effect greater. 累积的
+   ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
+
