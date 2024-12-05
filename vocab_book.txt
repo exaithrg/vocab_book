@@ -16301,3 +16301,12 @@ CET6 TEM8
 1. (ADJ) If a series of events have a cumulative effect, each event makes the effect greater. 累积的
    ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+enumerating    [i'nju:məreit]
+枚举
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
+   ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
+
