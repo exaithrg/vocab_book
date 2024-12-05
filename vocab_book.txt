@@ -16272,3 +16272,32 @@ CET6 TEM8
 1. (ADJ) If a series of events have a cumulative effect, each event makes the effect greater. 累积的
    ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+accumulate    [美 ə'kjumjəlet / 英 ə'kjuːmjʊleɪt]
+vi. 累积；积聚
+vt. 积攒
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you accumulate things or when they accumulate, they collect or are gathered over a period of time. 积聚
+   ≫   Lead can accumulate in the body until toxic levels are reached.  铅可以在体内积聚直至到达有毒的程度。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2746
+cumulate    [美 ˈkjʊmjəˌlet / 英 ˈkjuːmjʊleɪt]
+vt. 累积；堆积
+vi. 累积
+adj. 累积的；堆积的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to accumulate 累积
+2. (ADJ) heaped up 堆积的
+
+========================================================================
+cumulative    [英 'kjuːmjʊlətɪv / 美 'kjumjəletɪv]
+adj. 累积的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a series of events have a cumulative effect, each event makes the effect greater. 累积的
+   ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
+
