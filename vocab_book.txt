@@ -16052,3 +16052,150 @@ CET6 TEM4
    ≫   Popular art is experiencing a renaissance.  通俗艺术正在复兴。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1113
+on the fly
+在飞行中；忙忙碌碌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Trying to criticize writing on the fly is possibly the single greatest barrier to writing that most of us encounter. 试图匆忙地修改写作内容可能是我们大多数人在写作中遇到的最大障碍。
+≫   You've got to be able to make decisions on the fly as deadlines loom. 你必须能够立刻作出决定，因为最后期限迫在眉睫。《柯林斯英汉双解大词典》
+≫   No fish bites on the fly today. 现在用苍蝇钓不到鱼了。
+
+========================================================================
+progressive    [英 prə'gresɪv / 美 prə'ɡrɛsɪv]
+adj. 进步的；先进的
+n. 改革论者；进步分子
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is progressive or has progressive ideas has modern ideas about how things should be done, rather than traditional ones. 进步的
+   ≫   ...a progressive businessman who had voted for Roosevelt in 1932 and 1936.  …在1932年和1936年投票支持罗斯福的一位进步商人。
+   ≫   Willan was able to point to the progressive changes he had already introduced.  威兰能够指出他已经带来的有进步意义的变化。
+2. (N-COUNT) A progressive is someone who is progressive. 进步人士
+   ≫   The Republicans were deeply split between progressives and conservatives.  共和党进步派和保守派之间分歧很大。
+3. (ADJ) A progressive change happens gradually over a period of time. 逐步的
+   ≫   One prominent symptom of the disease is progressive loss of memory.  这种病的一个突出症状是记忆的逐步丧失。
+4. (ADV) progressively 逐步地
+   ≫   Her symptoms became progressively worse.  她的症状逐步恶化。
+
+========================================================================
+treat    [美 trit / 英 triːt]
+vt. 治疗；对待；探讨；视为
+vi. 探讨；请客；协商
+n. 请客；款待
+n. (Treat)人名；(英)特里特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you treat someone or something in a particular way, you behave toward them or deal with them in that way. 对待; 处理
+   ≫   Artie treated most women with indifference.  阿蒂对待大多数女性颇为冷淡。
+   ≫   Police say they're treating it as a case of attempted murder.  警方说他们正将其作为谋杀未遂案件来处理。
+2. (V-T) When a doctor or nurse treats a patient or an illness, he or she tries to make the patient well again. 治疗
+   ≫   Doctors treated her with aspirin.  医生用阿斯匹林给她治疗。
+   ≫   The boy was treated for a minor head wound.  那个男孩因头部轻伤而接受治疗。
+3. (V-T) If something is treated with a particular substance, the substance is put onto or into it in order to clean it, to protect it, or to give it special properties. (用某种物质) 处理
+   ≫   About 70% of the cocoa acreage is treated with insecticide.  大约70%的可可豆种植区都用杀虫剂处理过。
+4. (V-T) If you treat someone to something special which they will enjoy, you buy it or arrange it for them. 款待
+   ≫   She was always treating him to ice cream.  她总请他吃冰淇淋。
+   ≫   Tomorrow I'll treat myself to a day's gardening.  明天我要好好享受一天的园艺活儿。
+5. (N-COUNT) If you give someone a treat, you buy or arrange something special for them which they will enjoy. 款待
+   ≫   Lettie had never yet failed to return from town without some special treat for him.  莱蒂每次从城里回来都要带一些特别的礼物送给他。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1210
+visual treat
+视觉享受
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Autumn in Michigan is a visual treat. 密歇根州的秋天对人们来说是一种视觉享受。
+≫   I wanted the room to be a visual treat for a baby. 我喜欢这个房间对于孩子来说是视觉上的享受，所以使用了大量的颜色和花纹。
+≫   Introducing a vibrant and original picture dictionary, an educational and visual treat. 引入一个充满活力和原始图片字典，教育和视觉享受。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
+n. 感情，情绪；情操；观点；多愁善感
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1666
+witnessed
+v．目击，亲眼看到（witness的过去式和过去分词）
+★★★ CET4 TEM4 witnessing,witnessed,witnesses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A witness to an event such as an accident or crime is a person who saw it. 目击者
+   ≫   Witnesses to the crash say they saw an explosion just before the disaster.  这起坠机事故的目击者说, 在灾难发生之前他们看到了爆炸。
+2. (V-T) If you witness something, you see it happen. 目击
+   ≫   Anyone who witnessed the attack should call the police.  任何目睹了那场攻击的人都应该报警。
+3. (N-COUNT) A witness is someone who appears in a court of law to say what they know about a crime or other event. 证人
+   ≫   In the next three or four days, eleven witnesses will be called to testify.  在随后的三四天里，11名证人将传唤来作证。
+4. (N-COUNT) A witness is someone who writes their name on a document that you have signed, to confirm that it really is your signature. 连署人
+   ≫   The codicil must first be signed and dated by you in the presence of two witnesses.  该遗嘱附件必须首先由你当着两个连署人的面签名并写上日期。
+5. (V-T) If someone witnesses your signature on a document, they write their name after it, to confirm that it really is your signature. 连署
+   ≫   Ask a friend, (not your spouse), to witness your signature.  请一位朋友（不可以是你的配偶），来连署你的签名。
+6. (V-T) If you say that a place, period of time, or person witnessed a particular event or change, you mean that it happened in that place, during that period of time, or while that person was alive. 见证
+   ≫   India has witnessed many political changes in recent years.  印度近些年见证了许多政治变革。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1703
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+outstrips    [,aut'strip]
+超过( outstrip的第三人称单数 )
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing outstrips another, the first thing becomes larger in amount, or more successful or important, than the second thing. 超过
+   ≫   In 1989 and 1990 demand outstripped supply, and prices went up by more than a third.  1989和1990年，需求大于供给，物价上涨了三分之一多。
+
+========================================================================
+at the expense of
+以…为代价；由…支付费用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If and when some people get ahead at the expense of others, they will eventually pay. 如果当一些人以其他人为代价获得成功，他们最终会得到报应的。
+≫   However, this comes at the expense of releasing all your personal information to parents should they (or their child) ever want to contact you. 然而，这样做的代价就是把你的信息全都留给那些父母，他们（或他们的孩子）以后可能想要联系你.
+≫   The government took this position at the expense of an increasing deficit and national debt. 政府采取这一立场的代价是不断增加的赤字和国家债务。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1805
+firefang    [英 ˈfaɪəˌfæŋ]
+受热变质
+
+========================================================================
+fang    [美 fæŋ / 英 fæŋ]
+n. （犬，狼等的）尖牙；[解剖] 牙根；（毒蛇的）毒牙；尖端
+vt. 灌水引动（水泵）
+n. (Fang)人名；(中)方 (广东话·威妥玛)；(瑞典)丰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Fangs are the two long, sharp, upper teeth that some animals have. (动物的) 尖牙
+   ≫   The cobra sank its venomous fangs into his hand.  眼镜蛇将毒牙咬进他的手。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1880
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2087
+Not found :(
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2144
+Hsue-shen Tsien
+Hsue-shen钱
+
