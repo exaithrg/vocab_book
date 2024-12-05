@@ -16310,3 +16310,92 @@ TEM8
 1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
    ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
 
+========================================================================
+≫  未找到守护进程，正在启动...
+evenly    [美 'ivnli / 英 'i:vənlɪ]
+adv. 均匀地；平衡地；平坦地；平等地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Space your words evenly when you write. 写字的时候， 字与字之间要有均匀的间隔。
+≫   Using this method you can generate a lot of records, yet this approach is somewhat simplistic, since all the values are distributed evenly and there is no correlation between them. 您可以使用该方法来生成大量记录，然而，该方法有点过分简单了，因为所有的值都是均匀分布的，而且它们之间不存在相关性。
+≫   Although climate change is a global phenomenon, its consequences will not be evenly distributed. 虽然气候变化是一种全球现象，但其后果不会是均匀分布的。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+even    [美 'ivən / 英 'iːv(ə)n]
+adj. [数] 偶数的；平坦的；相等的
+adv. 甚至；即使；还；实际上
+vt. 使平坦；使相等
+vi. 变平；变得可比较；成为相等
+n. (Even)人名；(法)埃旺；(德)埃文；(英)埃文
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) You use even to suggest that what comes just after or just before it in the sentence is rather surprising. 甚至; 连
+   ≫   He kept calling me for years, even after he got married.  他多年来不断给我打电话，甚至到他结婚以后。
+   ≫   Even dark-skinned women should use sunscreens.  就连肤色黑的女性也应该用防晒油。
+2. [强调] You use even with comparative adjectives and adverbs to emphasize a quality that someone or something has. (与比较级连用) 更加
+   ≫   On television he made an even stronger impact as an interviewer.  他作为采访者在电视上造成了更大的影响。
+3. (PHRASE) You use even if or even though to indicate that a particular fact does not make the rest of your statement untrue. 即使
+   ≫   Cynthia is not ashamed of what she does, even if she ends up doing something wrong.  辛西娅并不为她所做的事感到惭愧，即使她最终把事情做错。
+4. [口语] You use even so to introduce a surprising fact that relates to what you have just said. 即便如此; 尽管这样
+   ≫   The bus was only half full. Even so, a young man asked Nina if the seat next to her was taken.  公共汽车上只坐满了一半，即便如此，一个小伙子还问尼娜她旁边的座位有没有人坐。
+5. (PHRASE) You use even then to say that something is the case in spite of what has just been stated or whatever the circumstances may be. 即便那样
+   ≫   Peace could come only gradually, in carefully measured steps. Even then, it sounds almost impossible to achieve.  和平只能以谨慎的步伐逐步到来。即便那样，它听起来还是几乎不可能实现。
+6. (PHRASE) 
+7. (ADJ) An even measurement or rate stays at about the same level. 保持不变的
+   ≫   How important is it to have an even temperature when you're working?  工作时保持恒温有多重要？
+8. (ADV) evenly 保持不变地
+   ≫   He looked at Ellen, breathing evenly in her sleep.  他看着在睡梦中呼吸均匀的埃伦。
+9. (ADJ) An even surface is smooth and flat. 平滑的
+   ≫   The tables are fitted with a glass top to provide an even surface.  那些桌子都装有玻璃台面以提供平滑的表面。
+10. (ADJ) If there is an even distribution or division of something, each person, group, or area involved has an equal amount. 均等的
+   ≫   Divide the dough into 12 even pieces and shape each piece into a ball.  把面团分为12等份并把每一块面团揉成球形。
+11. (ADV) evenly 均等地
+   ≫   The meat is divided evenly and boiled in a stew.  肉被均等地切开并在锅里炖。
+12. (ADJ) An even contest or competition is equally balanced between the two sides who are taking part. 实力相当的
+   ≫   It was an even game.  这是一场势均力敌的比赛。
+13. [ADV -ed] evenly 实力相当地
+   ≫   They must choose between two evenly matched candidates for governor.  他们必须从两个不相上下的候选人中选出州长。
+14. (ADJ) An even number can be divided exactly by the number two. 偶数的
+15. [ADJ n] If there is an even chance that something will happen, the chances that it will or will not happen are equal. (机会) 各半的
+   ≫   They have a more than even chance of winning the next election.  他们在下次竞选中有过半的胜机。
+16. [商业] When a company or a person running a business breaks even, they make neither a profit nor a loss. 盈亏平衡
+   ≫   The airline hopes to break even next year and return to profit the following year.  该航空公司希望来年盈亏平衡，并在随后一年重新开始盈利。
+17. to be on an even keel →see
+
+========================================================================
+odd    [美 ɑd / 英 ɒd]
+adj. 奇数的；古怪的；剩余的；临时的；零散的
+n. 奇数；怪人；奇特的事物
+n. (Odd)人名；(英、西、挪、瑞典)奥德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone or something as odd, you think that they are strange or unusual. 古怪的; 不寻常的
+   ≫   He'd always been odd, but not to this extent.  他曾一直很古怪，但没到这种程度。
+   ≫   What an odd coincidence that he should have known your family.  他已认识你的家人，多么不寻常的巧合。
+2. [ADV with v] oddly 古怪地; 不寻常地
+   ≫   ...an oddly shaped hill.  …一座形状奇怪的小山。
+3. [det ADJ] You use odd before a noun to indicate that you are not mentioning the type, size, or quality of something because it is not important. (用于名词前) 任意的
+   ≫   ...moving from place to place where she could find the odd bit of work.  …在她能找到点事做的地方搬来搬去。
+   ≫   He had various odd cleaning jobs around the place.  他在该地附近做过各种不同的清洁工作。
+4. [num ADV] You use odd after a number to indicate that it is only approximate. …左右 (用于数字后)
+   ≫   How many pages was it, 500 odd?  它多少页，500左右？
+   ≫   He has now appeared in sixty odd films.  他如今已在六十部左右的电影中露过面。
+5. (ADJ) Odd numbers, such as 3 and 17, are those which cannot be divided exactly by the number two. 奇数的
+   ≫   The odd numbers are on the left as you walk up the street.  你沿这条街走时，单号在左边。
+6. (ADJ) You say that two things are odd when they do not belong to the same set or pair. 单的
+   ≫   I'm wearing odd socks today by the way.  顺便说一下，我今天穿着两只不成对儿的袜子。
+7. (PHRASE) The odd man out, the odd woman out, or the odd one out in a particular situation is a person who is different from the other people in it. 与众不同者
+   ≫   Azerbaijan has been the odd man out, the one republic not to hold democratic elections.  阿塞拜疆一直是个与众不同者，一个不举行民主选举的共和国。
+8. → see also
+≫  未找到守护进程，正在启动...
+
+========================================================================
+oddly    [美 'ɑdli / 英 'ɒdlɪ]
+adv. 古怪地；奇妙地；单数地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) You use oddly to indicate that what you are saying is true, but that it is not what you expected. 奇怪地
+   ≫   He said no and seemed oddly reluctant to talk about it.  他说了不，而且很奇怪他似乎不愿谈论这件事。
+   ≫   Oddly, Emma says she never considered her face to be attractive.  奇怪，埃玛说她从来都不认为她的脸蛋吸引人。
+2. → see also
+≫  未找到守护进程，正在启动...
+
