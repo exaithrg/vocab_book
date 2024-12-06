@@ -17167,3 +17167,51 @@ Not found :(
 HSUE-SHEN TSIEN
 HSUE-SHEN钱
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2764
+superaerodynamics    [英 ˈsjuːpəˈreərəʊdaɪˈnæmɪks]
+稀薄气体动力学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the study of aerodynamics at very high altitudes, where the air density is very low 稀薄气体空气动力学
+
+========================================================================
+mechanics    [美 mə'kænɪks / 英 mɪ'kænɪks]
+n. 力学（用作单数）；结构；技术；机械学（用作单数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mechanic is someone whose job is to repair and maintain machines and engines, especially car engines. 机修工
+   ≫   If you smell something unusual (gas fumes or burning, for instance), take the car to your mechanic.  如果你闻到了异味（例如汽油味或燃烧味），就把车带给你的修理工。
+2. (N-PLURAL) Themechanicsof a process, system, or activity are the way in which it works or the way in which it is done. 运作方式
+   ≫   What are the mechanics of this new process?  这一新工序的运作方式是什么？
+3. (N-UNCOUNT) Mechanics is the part of physics that deals with the natural forces that act on moving or stationary objects. 力学
+   ≫   He has not studied mechanics or engineering.  他没有学习过力学或者工程学。
+
+========================================================================
+rare    [美 rɛr / 英 reə]
+adj. 稀有的；稀薄的；半熟的
+adj. 杰出的；极度的；非常好的
+adv. 非常；极其
+vi. 用后腿站起；渴望
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is rare is not common and is therefore interesting or valuable. 稀有的
+   ≫   ...the black-necked crane, one of the rarest species in the world.  …黑颈鹤，世界上最珍稀的物种之一。
+2. (ADJ) An event or situation that is rare does not occur very often. 罕见的
+   ≫   ...on those rare occasions when he did eat alone.  …在他独自吃饭的那些不常有的时候。
+3. [强调] You use rare to emphasize an extremely good or remarkable quality. 极好的 (素质)
+   ≫   Ferris has a rare ability to record her observations on paper.  费里斯有将自己的观察结果以书面形式记录下来的杰出能力。
+4. (ADJ) Meat that is rare is cooked very lightly so that the inside is still red. (肉类) 半熟的
+   ≫   Thick tuna steaks are eaten rare, like beef.  厚厚的金枪鱼片要半熟吃，就像牛肉一样。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+rarefied    ['rεərifaid]
+adj. 稀薄的；纯化的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you talk about the rarefied atmosphere of a place or institution, you are expressing your disapproval of it, because it has a special social or academic status that makes it very different from ordinary life. 高高在上的; 过于高贵的; 脱离现实生活的
+   ≫   It is important for the state's future administrators to get out of the rarefied air of the capital.  对该国未来的统治者来说，摆脱首都高高在上的氛围十分重要。
+2. (ADJ) Rarefied air is air that does not contain much oxygen, for example in mountain areas. (空气)稀薄的; 含氧量少的
+   ≫   ...living at very high altitudes where the atmosphere is rarefied.  ...生活在空气稀薄的高海拔地区。
+≫  未找到守护进程，正在启动...
+
