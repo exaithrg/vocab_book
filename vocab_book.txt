@@ -16855,3 +16855,16 @@ CET6 TEM4
 3. (V-T) To salute a person or their achievements means to publicly show or state your admiration for them. 对…表示敬意
    ≫   I salute the governor for the leadership role that he is taking.  我对州长的领导风范表示敬意。
 
+========================================================================
+dimension    [美 dəˈmɛnʃən, daɪ- / 英 dɪ'menʃ(ə)n; daɪ-]
+n. 方面;[数] 维；尺寸；次元；容积 vt. 标出尺寸
+adj. 规格的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A particular dimension of something is a particular aspect of it. 方面
+   ≫   There is a political dimension to the accusations.  这些指控含有政治因素。
+2. (N-COUNT) A dimension is a measurement such as length, width, or height. If you talk about the dimensions of an object or place, you are referring to its size and proportions. (单数) 尺寸; (复数) 比例大小
+   ≫   Drilling will continue on the site to assess the dimensions of the new oilfield.  钻探还将继续在现场进行以估测新油田的大小。
+3. (N-PLURAL) If you talk about the dimensions of a situation or problem, you are talking about its extent and size. 规模
+   ≫   The dimensions of the market collapse, in terms of turnover and price, were certainly not anticipated.  股市崩盘的规模，无论从成交量还是价格来看，都是出乎意料的。
+
