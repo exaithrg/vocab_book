@@ -17234,3 +17234,246 @@ lottery ticket
 ≫   "It's a lottery ticket," said the man. “这是一张彩票。”那个男人说道。
 ≫   The man nodded, "Yes, a lottery ticket." 那人点点头，“是的，一张彩票。”
 
+========================================================================
+recall    [美 'rikɔl / 英 rɪ'kɔːl]
+vt. 召回；回想起，记起；取消
+n. 召回；回忆；撤消
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you recall something, you remember it and tell others about it. 记起; 回忆道
+   ≫   Henderson recalled that he first met Pollard during a business trip to Washington.  亨德森记起他是在一次去华盛顿出差的途中第一次与波拉德结识的。
+   ≫   His mother later recalled: "He used to stay up until two o'clock in the morning playing these war games."  他的母亲后来回忆道：“他过去常常熬夜到凌晨2点玩这些打仗的游戏。”
+   ≫   "What was his name?"—"I don't recall."  “他叫什么名字？”—“我想不起来了。”
+2. (N-UNCOUNT) Recall is the ability to remember something that has happened in the past or the act of remembering it. 记忆力; 回忆
+   ≫   He had a good memory, and total recall of her spoken words.  他有好记性，能完全回忆出她说过的话。
+3. (V-T) If you are recalled to your home, country, or the place where you work, you are ordered to return there. 召回 (某人)
+   ≫   The U. S. envoy was recalled to Washington.  该美国特使被召回了华盛顿。
+4. (N-SING) Recall is also a noun. 召回
+   ≫   The recall of Ambassador Alan Green is a public signal of America's concern.  艾伦·格林大使的召回是美国关注此事的公开信号。
+5. (V-T) If a company recalls a product, it asks the stores or the people who have bought that product to return it because there is something wrong with it. 召回 (产品)
+   ≫   The company said it was recalling one of its drugs and had stopped selling two others.  该公司说它正在召回它的一种药品，而且已经停售了另外两种药品。
+6. (N-COUNT) Recall is also a noun. 召回
+   ≫   ...a recall of the laptops due to defective supply parts.  …因为有缺陷的配件而对笔记本电脑的召回。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+counters    [美 'kaʊntɚ]
+n. [核][电子] 计数器；计数器组件（counter的复数）
+v. 反击；抵制（counter的第三人称单数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In a place such as a shop or café, a counter is a long narrow table or flat surface at which customers are served. 柜台
+   ≫   ...those guys we see working behind the counter at our local video rental shop.  …我们所见在本地音像出租商店柜台后工作的那些家伙。
+2. (N-COUNT) A counter is a mechanical or electronic device which keeps a count of something and displays the total. 计数器
+   ≫   The new answering machine has a call counter.  这种新型的电话答录机有一个通话计数器。
+3. (N-COUNT) A counter is a small, flat, round object used in board games. 棋子
+   ≫   ...a versatile book which provides boards and counters for fifteen different games.  …一本为15种不同棋类游戏提供棋盘和棋子的多功能书。
+4. (V-T/V-I) If you do something to counter a particular action or process, you do something which has an opposite effect to it or makes it less effective. 抵消; 抗衡
+   ≫   The leadership discussed a plan of economic measures to counter the effects of such a blockade.  领导层讨论了一项经济措施计划来抵消如此封锁的影响。
+   ≫   Sears countered by filing an antitrust lawsuit.  西尔斯通过提交反垄断诉讼进行了反击。
+5. (N-SING) Something that is a counter to something else has an opposite effect to it or makes it less effective. 抵消物
+   ≫   ...NATO's traditional role as a counter to the military might of the Warsaw Pact.  …北大西洋公约组织作为华沙公约组织军事力量的遏制力量的传统角色。
+6. (PHRASE) If a medicine can be bought over the counter, you do not need a prescription to buy it. 不用开处方地
+   ≫   Are you taking any other medicines whether on prescription or bought over the counter?  你还要其他药吗，不管是处方药还是非处方药？
+   ≫   ...over-the-counter medicines.  …非处方药。
+7. [商业] Over-the-counter shares are bought and sold directly rather than on a stock exchange. 不通过交易所的
+   ≫   In national over-the-counter trading yesterday, Clarcor shares tumbled $6.125 to close at $35.625.  昨天在全国场外交易中，克拉克股票跌$6.125，以$35.625收盘。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+SU    [,ɛs 'ju]
+abbr. 后勤部队（Service Unit）
+n. (Su)人名；(土、柬)苏；(中)苏(普通话·威妥玛)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) strontium unit 锶单位
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3331
+CCCP
+abbr. 共产党中央委员会（Central Committee of Communist Party）；苏维埃社会主义共和国联盟；碳酰氰基-对-氯苯腙；解码器安装包（Combined Community Codec Pack）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The identification of purify implies that CCCP was respectively uniform on molecular weight and polarity. 纯度鉴定表明，CCCP在分子量大小和极性上都较为均一。
+≫   The energy resistance inhibiter, such as CCCP, can intensify bacterial ingestion to fluoroquinolone drugs. CCCP等能量抑制剂可加强细菌对氟喹诺酮类药物的摄取量。
+≫   CCCP and State council regards enhance the national health care system reform remarked the China health sector reform entering a new historical period. 新医改方案的公布实旋，标志着中国医约卫生体制改革已进入了崭新的历史阶段。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3361
+苏联
+the Soviet Union
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Soviet citizens were prohibited from travelling abroad. 苏联时代的公民被禁止出国旅游。《牛津词典》
+≫   Soviet fighter planes were extremely manoeuvrable. 苏联战机操纵起来极其灵活。《柯林斯英汉双解大词典》
+≫   Food for the ordinary Soviet troops and NCOs was very poor. 苏联普通士兵的伙食很糟糕。《柯林斯英汉双解大词典》
+
+========================================================================
+soviet    [美 'sovɪ'ɛt / 英 'səʊvɪət; 'sɒv-]
+adj. 苏联的；苏维埃的；委员会的
+n. 苏维埃（代表会议）；委员会；代表会议
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Soviet is used to describe something that belonged or related to the former Soviet Union. 前苏联的
+   ≫   ...the former Soviet empire.  ...前苏联帝国。
+2. (N-PLURAL) The Soviets were the people of the former Soviet Union. 前苏联人
+   ≫   In 1957, the Soviets launched Sputnik 1 into outer space.  前苏联于1957年发射了“伴侣1号”人造外星到了外太空。
+3. (N-COUNT) A soviet was an elected local, regional, or national council in the former Soviet Union. (前苏联地方、区域或国家)代表议会
+
+========================================================================
+≫  未找到守护进程，正在启动...
+commodity    [美 kə'mɑdəti / 英 kə'mɒdɪtɪ]
+n. 商品，货物；日用品
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] A commodity is something that is sold for money. 商品
+   ≫   Prices went up on several basic commodities like bread and meat.  面包、肉等几种基本商品的价格上涨了。
+
+========================================================================
+distillation    [美 ,dɪstl'eʃən / 英 ,dɪstɪ'leɪʃn]
+n. 蒸馏，净化；蒸馏法；精华，蒸馏物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As alchemy evolved into the science of chemistry, vessels called retorts became used for distillations . 随着炼金术发展成为化学，叫作曲颈瓶的容器开始用于蒸馏。
+≫   World heritage, national famous scenic areas are distillations of our country' s landscape, are the testimony of our history and civilization. 世界遗产、国家风景区是祖国壮丽河山的缩影是国土景观的精华，是祖国文明历史的见证。
+≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+orthogonal    [美 ɔr'θɑgənəl / 英 ɔː'θɒg(ə)n(ə)l]
+adj. [数] 正交的；直角的
+n. 正交直线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) relating to, consisting of, or involving right angles; perpendicular 直角的; 垂直的
+
+========================================================================
+≫  未找到守护进程，正在启动...
+primary    [美 'praɪmɛri / 英 'praɪm(ə)rɪ]
+adj. 主要的；初级的；基本的
+n. 原色；最主要者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use primary to describe something that is very important. 首要的
+   ≫   That's the primary reason the company's share price has held up so well.  这就是那家公司的股票价格一直保持得这么好的首要原因。
+   ≫   His misunderstanding of language was the primary cause of his other problems.  他对语言的误解是他其他问题的主要原因。
+2. [ADJ n] Primary education is the first few years of formal education for children. 初级的
+   ≫   The content of primary education should be the same for everyone.  初级教育的内容对每个人都应该是相同的。
+   ≫   Ninety-nine percent of primary pupils now have hands-on experience of computers.  99%的小学生如今都有电脑实际操作经验。
+3. [ADJ n] Primary is used to describe something that occurs first. 最初的
+   ≫   It is not the primary tumour that kills, but secondary growths elsewhere in the body.  致命的并不是原发肿瘤，而是在身体其他部位的继发。
+4. (N-COUNT) A primary or a primary election is an election in an American state in which people vote for someone to become a candidate for a political office. Compare . (美国各州的) 初选
+   ≫   ...the 1968 New Hampshire primary.  …1968年新罕布什尔州的初选。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+context    [美 'kɑntɛkst / 英 'kɒntekst]
+n. 环境；上下文；来龙去脉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The context of an idea or event is the general situation that relates to it, and which helps it to be understood. 背景
+   ≫   We are doing this work in the context of reforms in the economic, social and cultural spheres.  我们正在经济、社会和文化领域改革的背景下从事这项工作。
+   ≫   It helps to understand the historical context in which Chaucer wrote.  这有助于理解乔叟创作时的历史背景。
+2. (N-VAR) The context of a word, sentence, or text consists of the words, sentences, or text before and after it which help to make its meaning clear. 语境
+   ≫   Without a context, I would have assumed it was written by a man.  如果没有一个语境，我会以为这是由一个男人写的。
+3. (PHRASE) If something is seen in context or if it is put into context, it is considered together with all the factors that relate to it. 联系背景地
+   ≫   Taxation is not popular in principle, merely acceptable in context.  征税原则上不受大众欢迎，只是联系背景看是可接受的。
+4. (PHRASE) If a statement or remark is quoted out of context, the circumstances in which it was said are not correctly reported, so that it seems to mean something different from the meaning that was intended. 脱离语境地
+   ≫   Thomas says that he has been quoted out of context.  托马斯说，他的话被断章取义了。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3618
+in the context of
+在……情况下；在……背景下
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the context of this chapter, Dore's comments strike a jarring note. 在本章的语境中，多尔的评论显得刺耳。《柯林斯英汉双解大词典》
+≫   In the context of such finely spun, deliberate masterpieces, these quirks seemed hard to explain. 在这样精心编织、精心设计的杰作的背景下，这些怪癖似乎很难解释。
+≫   The developing countries also need to take due adaptation and mitigation actions in the context of sustainable development. 发展中国家也需要在可持续发展的背景下采取适当的适应和减缓行动。
+
+========================================================================
+compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
+n. [化学] 化合物；混合物；复合词
+adj. 复合的；混合的
+v. 合成；混合；恶化，加重；和解，妥协
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A compound is an enclosed area of land that is used for a particular purpose. 作特定用途的围地
+   ≫   They took refuge in the embassy compound.  他们在大使馆围区内避难。
+   ≫   ...a military compound.  …一个军事管辖区。
+2. (N-COUNT) In chemistry, a compound is a substance that consists of two or more elements. 化合物
+   ≫   Organic compounds contain carbon in their molecules.  有机化合物的分子里含碳。
+3. [正式] If something is a compound of different things, it consists of those things. 混合物
+   ≫   Honey is basically a compound of water, two types of sugar, vitamins and enzymes.  蜂蜜主要是水、两种糖、维生素和酶的混合物。
+4. [ADJ n] Compound is used to indicate that something consists of two or more parts or things. 复合的
+   ≫   ...the big compound eyes of dragonflies.  …蜻蜓的大复眼。
+5. (V) to mix or combine so as to create a compound or other product 通过混合或化合制成
+6. (V-T) To compound a problem, difficulty, or mistake means to make it worse by adding to it. 加剧
+   ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
+   ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
+7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
+≫  未找到守护进程，正在启动...
+
+========================================================================
+magnitude    [美 'mæɡnɪtud / 英 'mægnɪtjuːd]
+n. 大小；量级；[地震] 震级；重要；光度
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you talk about the magnitude of something, you are talking about its great size, scale, or importance. (尺寸、规模、重要性等) 大的程度
+   ≫   An operation of this magnitude is going to be difficult.  一个这么大的手术会很难的。
+2. (PHRASE) You can use order of magnitude when you are giving an approximate idea of the amount or importance of something. 重要级; 数量级
+   ≫   America and Russia do not face a problem of the same order of magnitude as Japan.  美俄两国没有面临与日本同样的重要级别的问题。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+illustration    [美 ,ɪlə'streʃən / 英 ɪlə'streɪʃ(ə)n]
+n. 说明；插图；例证；图解
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An illustration is an example or a story that is used to make a point clear. 实例
+   ≫   An illustration of China's dynamism is that a new company is formed in Shanghai every 11 seconds.  说明中国活力的一个实例便是在上海每11秒钟就有一家新公司成立。
+2. (N-COUNT) An illustration in a book is a picture, design, or diagram. (书中的) 插图
+   ≫   She looked like a princess in a nineteenth-century illustration.  她看上去像19世纪插图里的公主。
+3. → see also
+
+========================================================================
+prior    [美 'praɪɚ / 英 'praɪə]
+adj. 优先的；在先的，在前的
+adv. 在前，居先
+n. (Prior)人名；(法、西、葡、捷)普里奥尔；(英)普赖尔；(意)普廖尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use prior to indicate that something has already happened, or must happen, before another event takes place. 事先的
+   ≫   He claimed he had no prior knowledge of the protest.  他声称他事先对那次抗议一无所知。
+   ≫   The Constitution requires the president to seek the prior approval of Congress for military action.  宪法要求总统寻求国会对军事行动的事先批准。
+2. [ADJ n] A prior claim or duty is more important than other claims or duties and needs to be dealt with first. 优先的
+   ≫   The firm I wanted to use had prior commitments.  我选择的那家公司有优先承诺。
+3. [statistics] a prior probability 先验的
+4. (N) the superior of a house and community in certain religious orders (一些宗教教派中的社区)长老; 德高望重者
+5. [正式] If something happens prior to a particular time or event, it happens before that time or event. 在 (某时间或事件) 之前
+   ≫   A death prior to 65 is considered to be a premature death.  65岁以前的死亡被认为是过早死亡。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
+n. [化学] 化合物；混合物；复合词
+adj. 复合的；混合的
+v. 合成；混合；恶化，加重；和解，妥协
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A compound is an enclosed area of land that is used for a particular purpose. 作特定用途的围地
+   ≫   They took refuge in the embassy compound.  他们在大使馆围区内避难。
+   ≫   ...a military compound.  …一个军事管辖区。
+2. (N-COUNT) In chemistry, a compound is a substance that consists of two or more elements. 化合物
+   ≫   Organic compounds contain carbon in their molecules.  有机化合物的分子里含碳。
+3. [正式] If something is a compound of different things, it consists of those things. 混合物
+   ≫   Honey is basically a compound of water, two types of sugar, vitamins and enzymes.  蜂蜜主要是水、两种糖、维生素和酶的混合物。
+4. [ADJ n] Compound is used to indicate that something consists of two or more parts or things. 复合的
+   ≫   ...the big compound eyes of dragonflies.  …蜻蜓的大复眼。
+5. (V) to mix or combine so as to create a compound or other product 通过混合或化合制成
+6. (V-T) To compound a problem, difficulty, or mistake means to make it worse by adding to it. 加剧
+   ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
+   ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
+7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
+≫  未找到守护进程，正在启动...
+
