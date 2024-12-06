@@ -16052,3 +16052,43 @@ CET6 TEM4
    ≫   Popular art is experiencing a renaissance.  通俗艺术正在复兴。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：685
+heliotrope    [美 ˈhiːliətroʊp / 英 ˈhiːliətrəʊp]
+n. 天芥菜属植物；[植] 向阳植物；淡紫色；鸡血石
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any boraginaceous plant of the genus Heliotropium, esp the South American H. arborescens, cultivated for its small fragrant purple flowers 任一一种天芥菜属植物
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：721
+dryad    [美 ˈdraɪæd / 英 ˈdraɪæd]
+n. 德律阿得斯（希腊神话中的树神）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a nymph or divinity of the woods 树精 [Greek myth]
+
+========================================================================
+summit    [英 'sʌmɪt / 美 'sʌmɪt]
+n. 顶点；最高级会议；最高阶层
+adj. 最高级的；政府首脑的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A summit is a meeting at which the leaders of two or more countries discuss important matters. 峰会
+   ≫   ...next week's Washington summit.  …下周的华盛顿峰会。
+2. (N-COUNT) The summit of a mountain is the top of it. (山) 峰
+   ≫   He made it to the summit of Kilimanjaro before collapsing.  他成功登上乞力马扎罗山峰顶后倒下了。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+conceal    [美 kən'sil / 英 kən'siːl]
+vt. 隐藏；隐瞒
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you conceal something, you cover it or hide it carefully. 掩盖; 隐藏
+   ≫   Frances decided to conceal the machine behind a hinged panel.  弗朗西丝决定把那台机器藏到一块可开合的镶板后面。
+2. (V-T) If you conceal a piece of information or a feeling, you do not let other people know about it. 隐瞒 (信息); 掩饰 (情感)
+   ≫   Robert could not conceal his relief.  罗伯特掩饰不住自己如释重负的心情。
+3. (V-T) If something conceals something else, it covers it and prevents it from being seen. 遮盖
+   ≫   ...a pair of carved Indian doors which conceal a built-in cupboard.  …一对遮挡嵌入壁橱的印度式雕花门。
+
