@@ -17487,3 +17487,123 @@ in this context
 ≫   In this context, generosity has come to mean that you hurl money around like a drunken sailor. 在这种情况下，慷慨意味着你像喝醉了的水手一样乱扔钱。
 ≫   In this context, generosity has come to mean that you hurl money around like a drunken sailor. 在这种情况下，慷慨意味着你像喝醉了的水手一样乱扔钱。
 
+========================================================================
+context    [美 'kɑntɛkst / 英 'kɒntekst]
+n. 环境；上下文；来龙去脉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The context of an idea or event is the general situation that relates to it, and which helps it to be understood. 背景
+   ≫   We are doing this work in the context of reforms in the economic, social and cultural spheres.  我们正在经济、社会和文化领域改革的背景下从事这项工作。
+   ≫   It helps to understand the historical context in which Chaucer wrote.  这有助于理解乔叟创作时的历史背景。
+2. (N-VAR) The context of a word, sentence, or text consists of the words, sentences, or text before and after it which help to make its meaning clear. 语境
+   ≫   Without a context, I would have assumed it was written by a man.  如果没有一个语境，我会以为这是由一个男人写的。
+3. (PHRASE) If something is seen in context or if it is put into context, it is considered together with all the factors that relate to it. 联系背景地
+   ≫   Taxation is not popular in principle, merely acceptable in context.  征税原则上不受大众欢迎，只是联系背景看是可接受的。
+4. (PHRASE) If a statement or remark is quoted out of context, the circumstances in which it was said are not correctly reported, so that it seems to mean something different from the meaning that was intended. 脱离语境地
+   ≫   Thomas says that he has been quoted out of context.  托马斯说，他的话被断章取义了。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+content    [美 'kɑntɛnt / 英 kən'tent]
+n. 内容，目录；满足；容量
+adj. 满意的
+vt. 使满足
+n. (Content)人名；(法)孔唐
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) The contents of a container such as a bottle, box, or room are the things that are inside it. (瓶子、盒子或房间的) 所容之物
+   ≫   Empty the contents of the pan into the sieve.  将平锅里的东西全部倒入漏勺。
+2. (N-PLURAL) The contents of a book are its different chapters and sections, usually shown in a list at the beginning of the book. (书的) 目录
+   ≫   There is no Table of Contents.  没有目录。
+3. [also N in pl, usu N 'of' n] If you refer to the content or contents of something such as a book, television programme, or website, you are referring to the subject that it deals with, the story that it tells, or the ideas that it expresses. (书、电视节目或网站等的) 内容
+   ≫   She is reluctant to discuss the content of the play.  她不愿讨论这部话剧的内容。
+   ≫   Stricter controls were placed on the content of videos.  对录像的内容有了更严格的控制。
+4. (N-UNCOUNT) The content of something such as an educational course or a programme of action is the elements that it consists of. (课程或计划的) 内容
+   ≫   Previous students have had nothing but praise for the course content and staff.  以前的学生们对该课程的内容和教师只有称赞。
+5. (N-SING) You can use content to refer to the amount or proportion of something that a substance contains. 含量
+   ≫   Sunflower margarine has the same fat content as butter.  葵花籽人造黄油跟黄油的脂肪含量一样。
+6. (N-SING) 
+7. [v-link ADJ] If you are content with something, you are willing to accept it, rather than wanting something more or something better. 满足的
+   ≫   I am content to admire the mountains from below.  我满足于从山下观赏群山。
+   ≫   I'm perfectly content with the way the campaign has gone.  我对这次活动开展的情况感到心满意足。
+8. [v-link ADJ] If you are content, you are fairly happy or satisfied. 满意的
+   ≫   He says his daughter is quite content.  他说他的女儿颇为满意。
+9. (V) to make (oneself or another person) content or satisfied 使满足
+   ≫   to content oneself with property  
+10. to your heart's content →see
+
+========================================================================
+magnitude    [美 'mæɡnɪtud / 英 'mægnɪtjuːd]
+n. 大小；量级；[地震] 震级；重要；光度
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you talk about the magnitude of something, you are talking about its great size, scale, or importance. (尺寸、规模、重要性等) 大的程度
+   ≫   An operation of this magnitude is going to be difficult.  一个这么大的手术会很难的。
+2. (PHRASE) You can use order of magnitude when you are giving an approximate idea of the amount or importance of something. 重要级; 数量级
+   ≫   America and Russia do not face a problem of the same order of magnitude as Japan.  美俄两国没有面临与日本同样的重要级别的问题。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+fragile    [美 'frædʒəl / 英 'frædʒaɪl]
+adj. 脆的；易碎的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [journalism] If you describe a situation as fragile, you mean that it is weak or uncertain, and unlikely to be able to resist strong pressure or attack. 脆弱的
+   ≫   The fragile economies of several southern African nations could be irreparably damaged.  几个南部非洲国家脆弱的经济可能会无可挽救地被摧垮。
+2. (N-UNCOUNT) fragility 脆弱
+   ≫   By mid-1988 there were clear indications of the extreme fragility of the Right-wing coalition.  到1988年年中有明显的迹象表明右翼联盟极度脆弱。
+3. (ADJ) Something that is fragile is easily broken or damaged. 易碎的
+   ≫   He leaned back in his fragile chair.  他向后靠在他那把不结实的椅子上。
+4. (N-UNCOUNT) fragility 易碎性
+   ≫   Older drivers are more likely to be seriously injured because of the fragility of their bones.  年纪较大的司机因骨骼易碎而更可能会受重伤。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+≫  未找到守护进程，正在启动...
+perturb    [美 pɚ'tɝb / 英 pə'tɜːb]
+vt. 扰乱；使…混乱；使…心绪不宁
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something perturbs you, it worries you quite a lot. 使焦虑; 使不安 → see also
+   ≫   What perturbs me is that magazine articles are so much shorter nowadays.  让我不安的是现在杂志文章都短多了。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4221
+pertubation
+n. 输卵管灌气法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A new mechanism - "Pertubation Augmentation" is proposed to raise the sensitivity of the sensor for microwave moisture measurements. 本文提出了一种提高微波测湿传感器灵敏度的新机理——微扰增强机理。
+
+========================================================================
+perturbation    [美 ,pɝtɚ'beʃən / 英 ,pɜːtə'beɪʃ(ə)n]
+n. [数][天] 摄动；不安；扰乱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] A perturbation is a small change in the movement, quality, or behaviour of something, especially an unusual change. (尤指不寻常的)小变化
+   ≫   ...perturbations in Jupiter's gravitational field.  ...木星重力场的微小变化。
+2. [正式] Perturbation is worry caused by some event. 忧虑; 不安
+   ≫   This message caused perturbation in the Middle East Headquarters.  这个消息在中东总部引起了不安。
+
+========================================================================
+collapse    [美 kə'læps / 英 kə'læps]
+vi. 倒塌；瓦解；暴跌
+vt. 使倒塌，使崩溃；使萎陷；折叠
+n. 倒塌；失败；衰竭
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If a building or other structure collapses, it falls down very suddenly. 坍塌
+   ≫   A section of the Bay Bridge had collapsed.  海湾大桥有一部分坍塌了。
+2. (N-UNCOUNT) Collapse is also a noun. 坍塌
+   ≫   The governor called for an inquiry into the motorway's collapse.  州长要求对高速公路的坍塌进行调查。
+3. (V-I) If something, for example a system or institution, collapses, it fails or comes to an end completely and suddenly. (系统或制度等) 崩溃; 瓦解
+   ≫   His business empire collapsed under a massive burden of debt.  他的商业帝国由于债台高筑而瓦解。
+4. (N-UNCOUNT) Collapse is also a noun. (系统或制度等的) 崩溃; 瓦解
+   ≫   The coup's collapse has speeded up the drive to independence.  那次政变的失败加速推动了独立进程。
+5. (V-I) If you collapse, you suddenly faint or fall down because you are very ill or weak. 晕倒; 倒下
+   ≫   He collapsed following a vigorous exercise session at his home.  他在家中进行了一段时间的剧烈运动后倒下了。
+6. (N-UNCOUNT) Collapse is also a noun. 晕倒; 倒下
+   ≫   A few days after his collapse he was sitting up in bed.  他病倒后过了几天就在床上起身坐着了。
+7. (V-I) If you collapse onto something, you sit or lie down suddenly because you are very tired. (因极度疲倦而) 瘫坐; 瘫倒
+   ≫   She arrived home exhausted and barely capable of showering before collapsing on her bed.  她到家的时候累极了，几乎无法去淋浴就瘫倒在床上。
+≫  未找到守护进程，正在启动...
+
