@@ -16825,4 +16825,18 @@ CET4 TEM4
    ≫   Robert could not conceal his relief.  罗伯特掩饰不住自己如释重负的心情。
 3. (V-T) If something conceals something else, it covers it and prevents it from being seen. 遮盖
    ≫   ...a pair of carved Indian doors which conceal a built-in cupboard.  …一对遮挡嵌入壁橱的印度式雕花门。
-   
+   ========================================================================
+resolve    [英 rɪ'zɒlv / 美 rɪ'zɑlv]
+vt. 决定；溶解；使…分解；决心要做…
+vi. 解决；决心；分解
+n. 坚决；决定要做的事
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To resolve a problem, argument, or difficulty means to find a solution to it. 解决
+   ≫   We must find a way to resolve these problems before it's too late.  我们必须找到一个办法去解决这些问题,不然就太晚了。
+2. [正式] If you resolve to do something, you make a firm decision to do it. 下决心
+   ≫   She resolved to report the matter to the hospital's nursing supervisor.  她决心把这件事向该医院的护士长汇报。
+3. [正式] Resolve is determination to do what you have decided to do. 决心
+   ≫   So you're saying this will strengthen the American public's resolve to go to war if necessary?  那么你是说，这将会坚定美国公众在必要时参战的决心？
+≫  未找到守护进程，正在启动...
+
