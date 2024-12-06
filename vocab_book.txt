@@ -17607,3 +17607,19 @@ CET4 TEM4
    ≫   She arrived home exhausted and barely capable of showering before collapsing on her bed.  她到家的时候累极了，几乎无法去淋浴就瘫倒在床上。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4387
+saliency    [美 ˌseɪlɪənsi / 英 ˈseɪlɪənsi]
+n. 显著；卓越；特点；凸起
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This method USES the generator model of constant voltage and the saliency of generator is included. 该方法采用发电机的恒定模型，并且考虑了发电机的暂态凸极效应。
+≫   Nonlinear sampling model is adopted and saliency map is formed based on contrast of neighboring sampling nodes. 在注意机制中采用非线性采样模型，并利用相邻采样点形成显著性图。
+≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
+
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4458
+weight saliency metrics
+权重显著性指标
+
