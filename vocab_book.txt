@@ -17616,3 +17616,20 @@ CET4 TEM4
 3. (N-VAR) The vocabulary of a subject is the group of words that are typically used when discussing it. (某学科的) 专门词汇
    ≫   ...the vocabulary of natural science.  …自然科学词汇。
 
+========================================================================
+>>> successful
+------------------------------------------------------------------------
+successful    [美 sək'sɛsfl / 英 sək'sesfʊl; -f(ə)l]
+adj. 成功的；一帆风顺的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is successful achieves what it was intended to achieve. Someone who is successful achieves what they intended to achieve. 有成效的
+   ≫   How successful will this new treatment be?  这种新疗法将会有多大成效？
+   ≫   I am looking forward to a long and successful partnership with him.  我期待着与他的长期而有成效的合作关系。
+2. [ADV with v] successfully 有成效地
+   ≫   The doctors have successfully concluded preliminary tests.  医生们已成功完成了初步化验。
+3. (ADJ) Something that is successful is popular or makes a lot of money. (事物) 成功的
+   ≫   ...the hugely successful movie that brought Robert Redford an Oscar for his directing.  …这部使罗伯特·雷德福获得奥斯卡导演奖的极其成功的影片。
+4. (ADJ) Someone who is successful achieves a high position in what they do, for example in business or politics. (人在商业、政治等方面) 成功的
+   ≫   Women do not necessarily have to imitate men to be successful in business.  女人无须非得效仿男人才能在商界成功。
+
