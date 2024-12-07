@@ -17532,3 +17532,68 @@ CET4 TEM4
 5. [正式] If you entertain an idea or suggestion, you allow yourself to consider it as possible or as worth thinking about seriously. 心存
    ≫   How foolish I am to entertain doubts.  我心存疑虑是多么愚蠢啊。
 
+========================================================================
+>>> amuses
+------------------------------------------------------------------------
+amuse    [英 əˈmjuːz / 美 əˈmjuːz]
+v. 逗乐，逗笑；（提供）消遣，（使）娱乐
+★ CET4 TEM4 amusing,amused,amuses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something amuses you, it makes you want to laugh or smile. 使发笑
+   ≫   The thought seemed to amuse him.  这个想法好像让他觉得好笑。
+2. (V-T) If you amuse yourself, you do something in order to pass the time and not become bored. 使消遣
+   ≫   I need distractions. I need to amuse myself so I won't keep thinking about things.  我需要娱乐。我需要自我消遣，这样我才不会一直想事情。
+
+========================================================================
+>>> entertain doubots
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15278
+entertain doubots
+娱乐doubots
+
+========================================================================
+>>> entertain doubts
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15330
+entertain doubts
+怀疑：对某事持怀疑态度或思考。
+
+========================================================================
+>>> goubts
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> doubts
+------------------------------------------------------------------------
+doubts
+n．怀疑，疑虑：对事物的真实性、准确性或可靠性的不确定或不信任。
+★★★★ CET4 TEM4 doubting,doubted,doubts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you have doubt or doubts about something, you feel uncertain about it and do not know whether it is true or possible. If you say you have no doubt about it, you mean that you are certain it is true. 怀疑
+   ≫   This raises doubts about the point of advertising.  这引起了人们对于广告作用的怀疑。
+   ≫   There is little doubt that man has had an impact on the Earth's climate.  毫无疑问人类对地球上的气候造成了影响。
+2. (V-T) If you doubt whether something is true or possible, you believe that it is probably not true or possible. 怀疑
+   ≫   Others doubted whether that would happen.  其他人都怀疑那会不会发生。
+   ≫   He doubted if he would learn anything new from Marie.  他怀疑自己是否能从玛丽那里学到什么新东西。
+3. (V-T) If you doubt something, you believe that it might not be true or genuine. 怀疑
+   ≫   No one doubted his ability.  没有人怀疑他的能力。
+4. (V-T) If you doubt someone or doubt their word, you think that they may not be telling the truth. 不信
+   ≫   No one directly involved with the case doubted him.  直接涉及此案的人都没有怀疑他。
+5. (PHRASE) You say that something is beyond doubt or beyond reasonable doubt when you are certain that it is true and it cannot be contradicted or disproved. 无疑 [强调]
+   ≫   A referendum showed beyond doubt that voters wanted independence.  全民公决毫无疑问地显示，选民要求独立。
+6. (PHRASE) If you are in doubt about something, you feel unsure or uncertain about it. 不肯定的
+   ≫   He is in no doubt as to what is needed.  他对需要些什么心中有数。
+7. (PHRASE) If you say that something is in doubt or open to doubt, you consider it to be uncertain or unreliable. 不确定的
+   ≫   The outcome was still in doubt.  结果仍不确定。
+8. (PHRASE) You use no doubt to emphasize that something seems certain or very likely to you. 毫无疑问地 [强调]
+   ≫   The contract for this will no doubt be widely advertised.  就此达成的协议无疑会被广泛宣传。
+9. (PHRASE) You use no doubt to indicate that you accept the truth of a particular point, but that you do not think it is important or contradicts the rest of what you are saying. 的确
+   ≫   No doubt many will regard these as harsh words, but regrettably they are true.  的确很多人会觉得这些话刺耳，可惜它们却是事实。
+10. (PHRASE) If you say that something is true without doubt or without a doubt, you are emphasizing that it is definitely true. 毋庸置疑地 [强调]
+   ≫   This was without doubt the most interesting situation that Amanda had ever found herself in.  这无疑是阿曼达遇到过的最有趣的情况。
+11. (CONVENTION) You say I doubt it as a response to a question or statement about something that you think is untrue or unlikely. 我不信
+   ≫   "Somebody would have seen her."—"I doubt it, not on Monday."  “有人可能见过她。”—“我不信，不可能在星期一。”
+
