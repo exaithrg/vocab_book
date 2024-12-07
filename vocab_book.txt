@@ -164,12 +164,6 @@ CET4 TEM4
    ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 paradigm    [美 'pærə'daɪm / 英 'pærədaɪm]
 n. 范例；词形变化表
 CET6+ TEM8
@@ -228,12 +222,6 @@ CET4 TEM4
 ========================================================================
 the old idea of bandwidth-demanding write-update coherence protocols adapted for modern multi-chiplet systems significantly improves their performance
 旧的带宽要求高的写更新一致性协议的想法适用于现代多芯片系统显着提高了它们的性能
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 prototyping platform
@@ -447,9 +435,6 @@ v．包含，包括：由某些部分、元素或成员组成。
    ≫   The task force is comprised of congressional leaders, cabinet heads and administration officials.  该任务队由国会领导人、内阁首脑和行政官员构成。
 
 ========================================================================
-Not found :(
-
-========================================================================
 computing resource utilization
 计算资源利用率
 
@@ -558,9 +543,6 @@ n. 善于表现；表情丰富
 ≫   Moreover, it offers the expressiveness which helps to “simplify complex tasks”. 此外，它更具表现力，这有助于“简化复杂任务”。
 ≫   If these issues are not handled well, the benefits of generic types can easily be outweighed by decreases in expressiveness and robustness. 如果这些问题处理得不当，那么可表达性和健壮性的降低会轻易地抵消泛型类型的好处。
 ≫   This approach has many advantages over the other two, allowing us to keep the expressiveness of the second approach and the same degree of static checking as in the first. 与另外两种方法相比，该方法有许多优点，它允许我们保持第二种方法的可表达性以及与第一种方法中相同的静态检查程度。
-
-========================================================================
-Not found :(
 
 ========================================================================
 fabric    [美 'fæbrɪk / 英 'fæbrɪk]
@@ -751,12 +733,6 @@ n. 帕雷托（意大利经济学家）
 ≫   This is a simple example of a Pareto diagram using sample data showing the relative frequency of causes for errors on websites. 这是一个简单的帕雷托图表的例子，用抽样资料显示引起网络错误原因的相对频率。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 Pareto    [pɑ'rɛtɔ]
 n. 帕雷托（意大利经济学家）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -782,30 +758,6 @@ hello world
 ≫   Suppose you create a "Hello world" shell script. 假设您创建一个“Hello world”的shell脚本。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 scalar    [美 skelɚ / 英 'skeɪlə]
 adj. 标量的；数量的；梯状的，分等级的
 n. [数] 标量；[数] 数量
@@ -819,9 +771,6 @@ unencumbered    [美 ,ʌnɪn'kʌmbɚd / 英 ʌnɪn'kʌmbəd; -en-]
 adj. 没有阻碍的；没有负担的；不受妨碍的
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (ADJ) not burdened, impeded, or hampered 无负担的; 无阻碍的
-
-========================================================================
-Not found :(
 
 ========================================================================
 infrastructure    [美 'ɪnfrə'strʌktʃɚ / 英 'ɪnfrəstrʌktʃə]
@@ -891,9 +840,6 @@ CET4
    ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
 
 ========================================================================
-Not found :(
-
-========================================================================
 spilling    [美 spɪl]
 v. 溢漏，泄漏（spill的现在分词）；跌下
 n. 溢出物；散落
@@ -919,24 +865,12 @@ n. [计] 循环；循环赛
    ≫   They beat Canada 4-1 in their last round-robin match at Nagoya in Japan.  在上一次在日本名古屋举行的循环赛中，他们以4比1战胜了加拿大。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 heterogeneous    [美 'hɛtərə'dʒinɪəs / 英 ,het(ə)rə(ʊ)'dʒiːnɪəs; -'dʒen-]
 adj. [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
 CET4 TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [usu ADJ n] A heterogeneous group consists of many different types of things or people. 由很多种类组成的
    ≫   ...a rather heterogeneous collection of studies from diverse origins.  …来自各种不同渠道的一系列种类繁多的研究。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 Arxiv
@@ -1011,9 +945,6 @@ Harry Potter
 ≫   The college hall is used in the Harry Potter films. 该学院礼堂出现在《哈利·波特》系列电影中。
 ≫   So far, I have read all her works about Harry Potter. 到目前为止，我读了她所有关于哈利·波特的作品。
 ≫   I was lonely, and Harry Potter helped me get better. 我很孤独，《哈利·波特》帮助我变得更好。
-
-========================================================================
-Not found :(
 
 ========================================================================
 Rowling
@@ -1102,9 +1033,6 @@ abbr. 同性恋、双性恋及变性者（Lesbian Gay Bisexual Transgender）
 ========================================================================
 LGBTQ    [美 ˌel dʒiː ˌbiː tiː ˈkjuː / 英 ˌel dʒiː ˌbiː tiː ˈkjuː]
 女同性恋者（lesbians）、男同性恋者（gays）、双性恋者（bisexuals）、跨性别者（transgender）和酷儿（queer）的英文字母缩略词
-
-========================================================================
-Not found :(
 
 ========================================================================
 proprietary    [美 prə'praɪətɛri / 英 prə'praɪət(ə)rɪ]
@@ -1298,9 +1226,6 @@ steak
 ≫   He prefers his steak well done. 他喜欢吃煎得熟透的牛排。《牛津词典》
 
 ========================================================================
-Not found :(
-
-========================================================================
 Minecraft
 n. 《我的世界》（游戏名）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -1347,9 +1272,6 @@ CET6+ TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (V-T/V-I) If something warps or is warped, it becomes damaged by bending or curving, often because of the effect of heat or water. (尤指因受潮、受热而) 翘曲
    ≫   Left out in the heat of the sun, tapes easily warp or get stuck in their cases.  放在太阳底下暴晒后，磁带容易翘曲变形或卡带。
-
-========================================================================
-Not found :(
 
 ========================================================================
 multiple batches of threads
@@ -1454,14 +1376,8 @@ CET4 TEM4
    ≫   They were prepared to put people out of work and reduce consumption by strangling the whole economy.  他们准备让人们失业、降低消费，由此来遏制整个经济。
 
 ========================================================================
-Not found :(
-
-========================================================================
 individual threads
 各个线程
-
-========================================================================
-Not found :(
 
 ========================================================================
 branch divergence
@@ -1620,16 +1536,10 @@ pneumonoultramicroscopicsilicovolcanoconiosis    [英 ˌnjuːmənəʊˌʌltrəˌ
 ≫   What's the longest word in the world besides pneumonoultramicroscopicsilicovolcanoconiosis? 除了“矽肺病”之外，世界上最长的单词是什么？
 
 ========================================================================
-Not found :(
-
-========================================================================
 supercalifragilisticexpialidocious    [美 ˌsʊpəˌkælɪˌfrædʒɪˌlɪstɪkˌekspɪˌælɪˈdoʊʃəs / 英 ˌsuːpəkalɪfrɑːdʒɪlɪstɪkˌekspɪɑːlɪˈdəʊʃəs]
 adj. <非正式>非常好，超级酷毙宇宙世界霹雳无敌棒（源于儿童电影《欢乐满人间》）
 n. （Supercalifragilisticexpialidocious）《人见人爱，花见花开，车见车爆胎》（1964年美国电影《欢乐满人间》的插曲）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-
-========================================================================
-Not found :(
 
 ========================================================================
 Pseudopseudohypoparathyroidism
@@ -1644,15 +1554,6 @@ n. 反废除英国国教主义，反政教分离学说
 ========================================================================
 honorificabilitudinitatibus
 不胜光荣（出现在大文豪莎士比亚的剧本《空爱一场》里）
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 schmaltz    [美 ʃmɔːlts / 英 ʃmɔːlts]
@@ -1702,9 +1603,6 @@ n. 美国队长
 ≫   The new Captain America is black. 最近新问世的“美国队长”是黑人。
 ≫   Does Captain America have a sister? 美国队长有妹妹吗？
 ≫   The movie "Captain America" was so cool! 那部《美国队长》电影真是棒呆了！
-
-========================================================================
-Not found :(
 
 ========================================================================
 Apache    [美 əˈpætʃɪ / 英 əˈpætʃɪ]
@@ -1866,9 +1764,6 @@ CET4 TEM4
    ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
 
 ========================================================================
-Not found :(
-
-========================================================================
 ruby    [美 'rubi / 英 'ruːbɪ]
 n. 红宝石；红宝石色
 adj. 红宝石色的
@@ -1913,9 +1808,6 @@ CET4 TEM4
    ≫   His achievement is astonishing and this book is the jewel in his crown.  他成就斐然，这本书是他的最得意之作。
 
 ========================================================================
-Not found :(
-
-========================================================================
 CET-4
 abbr. 大学英语4级考试（College English Test-4）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -1958,9 +1850,6 @@ abbr. 托福考试（Test of English as a Foreign Language）
 1. (N-PROPER) TOEFL is an English language examination which is often taken by foreign students who want to study at universities in English-speaking countries. TOEFL is an abbreviation of "Test of English as a Foreign Language." 托福考试; Test of English as a Foreign Language的缩写
 
 ========================================================================
-Not found :(
-
-========================================================================
 frisk    [美 frɪsk / 英 frɪsk]
 vi. 蹦跳；欢跃
 n. 搜身；快乐；蹦跳；快乐的时刻
@@ -1995,9 +1884,6 @@ CET4 TEM4
 ≫   Two hydraulic steel gates are raised, so as to seal the gondola off from the water in the canal basin. 两个液压钢制闸门抬高，以将贡多拉与运河盆地里的水隔离开。
 
 ========================================================================
-Not found :(
-
-========================================================================
 cookies    [美 'kʊkiz / 英 'kʊkiz]
 n. 饼干
 CET6+ TEM4
@@ -2021,9 +1907,6 @@ CET4 TEM4
    ≫   ...a box of chocolates.  …一盒巧克力糖。
 4. (COLOR) Chocolate is used to describe things that are dark brown in colour. 深褐色
    ≫   The curtains and the bedspread were chocolate velvet.  窗帘和床罩是深褐色的天鹅绒。
-
-========================================================================
-Not found :(
 
 ========================================================================
 enclosed    [ɪn'klozd]
@@ -2181,9 +2064,6 @@ n. （Ferring）人名；（英、德）费林
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 
 ========================================================================
-Not found :(
-
-========================================================================
 方便面
 instant noodles
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -2198,12 +2078,6 @@ Geng
 ≫   But Chu and Geng show why it may not matter. 但是初和耿证明了这也许无所谓。
 ≫   I'm so glad that I had a chance to meet han Geng. 我很高兴我有机会见到韩庚。
 ≫   Han Geng carries himself as a professional and a gentleman. 韩庚的表现很是专业和具绅士风度。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 中山大学
@@ -2294,12 +2168,6 @@ CET4
    ≫   They threatened to take up arms against the government if their demands were not met.  他们威胁说，如果要求得不到满足就拿起武器对抗政府。
 19. (PHRASE) If people are up in arms about something, they are very angry about it and are protesting strongly against it. 愤怒抗议
    ≫   Patient advocates are up in arms over the possible closure of the psychiatric hospital.  病人的支持者们愤怒抗议该精神病院的可能关闭。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 AMD    [,e ɛm 'di]
@@ -2414,9 +2282,6 @@ my pride and joy
 我的骄傲和快乐
 
 ========================================================================
-Not found :(
-
-========================================================================
 stardew
 星露谷
 
@@ -2461,9 +2326,6 @@ n. 木匠，木工 v. 以木工活制作；做木工 【名】 （Carpenter）�
 ========================================================================
 tidying things up for your arrival
 为你的到来收拾东西
-
-========================================================================
-Not found :(
 
 ========================================================================
 tidying    ['taidi]
@@ -2591,9 +2453,6 @@ advanced passenger train (英国)高级特快列车,先进型旅客列车,特高
 ≫   He is one of my aptest pupils. 他是我最聪明的学生之一。
 ≫   The best horse needs breaking, and the aptest child needs teaching. 注解〕本句强调训练和教育的重要性。
 ≫   The best horse needs breeding, and the aptest child needs teaching. ?? 最好的马要驯，最伶俐的孩子要教。??。
-
-========================================================================
-Not found :(
 
 ========================================================================
 crusty might be a little apt, through
@@ -2736,9 +2595,6 @@ cultivate and harvest a parsnip
 栽培和收获防风草
 
 ========================================================================
-Not found :(
-
-========================================================================
 parsnip    [美 'pɑrsnɪp / 英 'pɑːsnɪp]
 n. [植] 欧洲防风草（欧洲萝卜）；欧洲防风草的根；类欧洲防风
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -2877,9 +2733,6 @@ CET4 TEM4
    ≫   I decided to crop the picture just above the water line.  我决定把这张照片裁切到刚刚高于水位线的地方。
 
 ========================================================================
-Not found :(
-
-========================================================================
 scythe    [美 saɪð / 英 saɪð]
 n. 长柄大镰刀；钐刀
 vt. 用大镰刀割
@@ -2911,9 +2764,6 @@ CET4 TEM4
    ≫   Small things stirred in the grass around the tent.  帐篷周围的草丛里有小东西在动。
 2. (PHRASE) If you say the grass is greener somewhere else, you mean that other people's situations always seem better or more attractive than your own, but may not really be so. 这山望着那山高
    ≫   He was very happy with us but wanted to see if the grass was greener elsewhere.  他当时对我们感到很满意，但想看看有没有更好的。
-
-========================================================================
-Not found :(
 
 ========================================================================
 grass    [美 ɡræs / 英 grɑːs]
@@ -3074,9 +2924,6 @@ CET4 TEM4
 ========================================================================
 you should swing by some time
 什么时候你应该过来看看
-
-========================================================================
-Not found :(
 
 ========================================================================
 swing by    [美 swɪŋ baɪ]
@@ -3265,9 +3112,6 @@ Slytherin
 ========================================================================
 Gryffindor Ravenclaw Hufflepuff Slytherin
 格兰芬多，拉文克劳，赫奇帕奇，斯莱特林
-
-========================================================================
-Not found :(
 
 ========================================================================
 伏地魔
@@ -3463,9 +3307,6 @@ involved
 adj. 复杂的；与……关系密切的；专心于……的，忙于……的；卷入的，参与的 v. 牵涉，包含（involve 的过去式和过去分词形式）
 
 ========================================================================
-Not found :(
-
-========================================================================
 too involved with
 太投入于
 
@@ -3520,9 +3361,6 @@ TEM4
 4. [slang] a gullible or foolish person 容易上当的人
 5. (N-COUNT) energy; vigour 精力
 6. (N-COUNT) a deep and narrow trench used to approach or undermine an enemy position, esp in siege warfare 地道
-
-========================================================================
-Not found :(
 
 ========================================================================
 nap    [美 næp / 英 næp]
@@ -3622,12 +3460,6 @@ v. 逃走；离开；匆忙离开
 ≫   Masked robbers broke in, tied him up, and made off with $8,000. 蒙面劫匪破门而入，将他绑了起来，并抢走了$8000。《柯林斯英汉双解大词典》
 ≫   Otto made off with the last of the brandy. 奥托把最后一点儿白兰地偷走了。《柯林斯英汉双解大词典》
 ≫   They broke free and made off in a stolen car. 他们挣脱后开着一辆偷来的车尽快逃离了。《柯林斯英汉双解大词典》
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 artifacts    ['a:rtifækts / 英 'a:rtifækts]
@@ -3733,9 +3565,6 @@ geode    [英 'dʒiːəʊd]
 n. 晶洞，异质晶簇；淋巴腔
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) a cavity, usually lined with crystals, within a rock mass or nodule 晶洞
-
-========================================================================
-Not found :(
 
 ========================================================================
 blacksmith    [美 'blæksmɪθ / 英 'blæksmɪθ]
@@ -3899,9 +3728,6 @@ CET4 TEM4
 4. (N-COUNT) The two poles of a range of qualities, opinions, or beliefs are the completely opposite qualities, opinions, or beliefs at either end of the range. (品质、观点或信仰) 截然相反的两极
    ≫   The two politicians represent opposite poles of the political spectrum.  这两位政治家代表了各种政治倾向中的两个极端。
 5. [强调] If you say that two people or things are poles apart, you mean that they have completely different beliefs, opinions, or qualities. (信仰、观点或品质) 截然相反的
-
-========================================================================
-Not found :(
 
 ========================================================================
 钓鱼竿
@@ -4324,9 +4150,6 @@ CET4 TEM4
 3. (N-COUNT) a unit of nuclear cross section equal to 10–28 square metre 靶; 核反应截面单位 ( symbol: b)
 
 ========================================================================
-Not found :(
-
-========================================================================
 scarecrow    [英 'skeəkrəʊ /  'skeəkrəʊ]
 n. 稻草人，威吓物；衣衫褴褛的人
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -4360,14 +4183,8 @@ CET6 TEM4
    ≫   Instead of snacking on crisps and chocolate, nibble on celery or carrot.  不要吃炸薯片和巧克力这些零食，要啃点芹菜或胡萝卜。
 
 ========================================================================
-Not found :(
-
-========================================================================
 nightly rounds
 夜间轮
-
-========================================================================
-Not found :(
 
 ========================================================================
 parsnip    [美 'pɑrsnɪp / 英 'pɑːsnɪp]
@@ -4504,9 +4321,6 @@ CET6 TEM4
    ≫   Large-scale inflation is a recipe for disaster.  大规模的通货膨胀有可能导致灾难。
 
 ========================================================================
-Not found :(
-
-========================================================================
 wild    [美 waɪld / 英 waɪld]
 adj. 野生的；野蛮的；狂热的；荒凉的
 n. 荒野
@@ -4613,12 +4427,6 @@ n. 形式；形态（modality的复数）；样式
 1. (N) the condition of being modal 情态
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 多模态
 multimoding ; multiplex mode 在例句中比较
 
@@ -4645,9 +4453,6 @@ vt. 逃避责任；对…不守诺言
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [非正式] If someone welshes on a deal or an agreement, they do not do the things they promised to do as part of that deal or agreement. 逃避履行(合约)
    ≫   He welshed on his agreement with the team that he would play for them in February.  他逃避履行他与球队合同中在二月为他们踢球的协议。
-
-========================================================================
-Not found :(
 
 ========================================================================
 kabele    [英 kɑːˈbeɪleɪ]
@@ -4720,9 +4525,6 @@ n. 无害
 ≫   PFS attracts peoples attention by its remarkable coagulant performance, especially its harmlessness and innocuousness . 聚合硫酸铁以其良好的絮凝性能和无毒无害的优点倍受人们的关注。
 ≫   In ozone producing industry, this technology really realizes innocuousness and harmlessness without secondary pollution. 在臭氧制造行业，该技术真正实现了无毒、无害、无二次污染。
 ≫   In order to promote healthful development of information service, librarians should adhere to the ethic principles of equity, humanism, preeminence and innocuousness. 图书馆要坚持公平、人文、卓越和无害等伦理原则，以保障信息服务活动健康发展。
-
-========================================================================
-Not found :(
 
 ========================================================================
 pollution    [美 pə'luʃən / 英 pə'luːʃ(ə)n]
@@ -4808,9 +4610,6 @@ CET4 TEM4
    ≫   ...a gallery of pictures depicting Lee's most famous battles.  …一批描绘李的最著名战役的图画。
 
 ========================================================================
-Not found :(
-
-========================================================================
 Cambrian    [英 'kæmbriən /  'kæmbriən]
 n. 威尔士人；寒武纪或系
 adj. 寒武纪的；威尔斯的；威尔斯人的
@@ -4872,9 +4671,6 @@ CET4 TEM4
    ≫   He enjoyed little success when he ventured into business.  他在冒险涉足生意时很少成功。
 
 ========================================================================
-Not found :(
-
-========================================================================
 gorgeous    [美 'ɡɔrdʒəs / 英 'gɔːdʒəs]
 adj. 华丽的，灿烂的；极好的
 CET6 TEM4
@@ -4894,14 +4690,8 @@ stealth fighter
 ≫   The engineers' goal was to determine whether the so-called stealth fighter was truly radar resistant. 工程师们的目标是测定这架号称隐形的轰炸机是否真的抵御雷达。
 
 ========================================================================
-Not found :(
-
-========================================================================
 looks into it
 研究它
-
-========================================================================
-Not found :(
 
 ========================================================================
 intefere
@@ -4950,9 +4740,6 @@ come up with
 ≫   You would take things as they came. All you had to do was think a little harder and come up with a new solution. 既来之, 则安之， 你必须多动脑子， 想出个新的解决方法来。
 ≫   For your design you want to come up with key abstractions, and then you want to have your other code just interact with those abstractions, not with the specific implementations. 就你的设计而言，你希望能提出一些关键的抽象，然后其他的代码只要负责和这些抽象，而非具体实现进行互相作用。
 ≫   I come up with half of my blog post ideas while I am cooking (the other half I get while running) so you can use cooking to come up with new ideas for your life. 当我烹饪时我想出了一半的博客日志（另一半跑步时就想出来了）所以你可以用烹饪为你的生活想出一些好的想法。
-
-========================================================================
-Not found :(
 
 ========================================================================
 better sleep after coming up with this vies
@@ -5011,9 +4798,6 @@ TEM8
    ≫   When he condescended to speak, he contradicted himself three or four times in the space of half an hour.  当他屈尊讲话时，半小时内有三四次前后矛盾。
 2. [表不满] If you say that someone condescends to other people, you are showing your disapproval of the fact that they behave in a way which shows that they think they are superior to other people. 摆出高人一等的架子
    ≫   Don't condescend to me.  不要对我摆出高人一等的样子。
-
-========================================================================
-Not found :(
 
 ========================================================================
 Pagani
@@ -5181,9 +4965,6 @@ CET4 TEM4
 14. (PHRASE) If you move in for the kill or if you close in for the kill, you take advantage of a changed situation in order to do something that you have been preparing to do. 伺机而动
    ≫   Seeing his chance, Dennis moved in for the kill.  看到机会来了，丹尼斯伺机而动。
 15. to be killed outright →see
-
-========================================================================
-Not found :(
 
 ========================================================================
 Annihilation 20
@@ -5391,9 +5172,6 @@ CET4 TEM4
    ≫   From the day you arrive at my house, you need not spend a single penny.  从你到我家的那一天起，你就分文不需花了。
 
 ========================================================================
-Not found :(
-
-========================================================================
 go figure out
 去弄清楚
 
@@ -5408,9 +5186,6 @@ PFF
 ≫   Function The PFF 704 has four independent flame amplifiers. 型号PFS 704火焰继电器上有四个独立的火焰放大器。
 ≫   The two mutual savings banks are located at more than Aceh of Newport Downey savings and loan associations and the city of Pomona PFF Bank Trust Company. 这两家互助储蓄银行分别是位于纽波特比齐市的唐尼储蓄贷款协会和波莫纳市的PFF银行信托公司。
 ≫   Peter: How about I come and see you pff? 皮特：那我来送你怎么样？
-
-========================================================================
-Not found :(
 
 ========================================================================
 humiliate    [美 hju'mɪlɪet / 英 hjʊ'mɪlɪeɪt]
@@ -5565,9 +5340,6 @@ CET4 TEM4
    ≫   Don't worry about tiny fluctuations in your weight.  不用担心你体重的轻微波动。
 
 ========================================================================
-Not found :(
-
-========================================================================
 deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
 vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
 TEM8 deprecating,deprecated,deprecates
@@ -5586,12 +5358,6 @@ v. 以…奉献；把…用于（dedicate的过去式和过去分词）
    ≫   Such areas should also be served by dedicated cycle routes.  这些地区也应该可由自行车专用路线到达。
    ≫   ...the world's first museum dedicated to ecology.  …世界上第一家专门的生态博物馆。
 3. → see also
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 a passage of
@@ -5709,9 +5475,6 @@ CET6+ TEM4
    ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
 
 ========================================================================
-Not found :(
-
-========================================================================
 restructure    [美 ri'strʌktʃɚ / 英 riː'strʌktʃə]
 vt. 调整；重建；更改结构
 CET6
@@ -5754,12 +5517,6 @@ TEM4
    ≫   Apparently the girls are not at all amused by the whole business.  据说这些女孩们完全不觉得这整件事好笑。
 2. (ADV) You use apparently to refer to something that seems to be true, although you are not sure whether it is or not. 貌似地
    ≫   The recent deterioration has been caused by an apparently endless recession.  最近的恶化是由貌似没完没了的萧条造成的。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 identical
@@ -5859,9 +5616,6 @@ CET4 TEM4
    ≫   They exchanged greetings.  他们相互问候。
 
 ========================================================================
-Not found :(
-
-========================================================================
 bristle    [美 'brɪsl / 英 'brɪs(ə)l]
 n. 猪鬃；刚毛
 vi. 发怒；竖起
@@ -5932,18 +5686,12 @@ Mao Zedong
 毛泽东
 
 ========================================================================
-Not found :(
-
-========================================================================
 sun yat-sen    [美 ˈsʊnˈjɑtˈsɛn]
 n. 孙逸仙
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 ≫   For some students, including Wang Ling, 21, in Sun Yat-sen University, this practice has caused headaches. 对于包括21岁的中山大学学生王玲在内的一些学生来说，这种做法令人头疼。
 ≫   Dr. Sun Yat-sen was born on that day. 孙逸仙博士出生在那天。
 ≫   Sun Yat-sen University adopts a two-year postgraduate education system. 中大的研究生教育是两年制。
-
-========================================================================
-Not found :(
 
 ========================================================================
 horseradish    [美 'hɔrs'rædɪʃ / 英 'hɔːsrædɪʃ]
@@ -5963,18 +5711,12 @@ TEM8
    ≫   We disturbed a wild boar that had been foraging by the roadside.  我们惊动了一只在路边觅食的野公猪。
 
 ========================================================================
-Not found :(
-
-========================================================================
 quarterback    [美 'kwɔrtɚbæk / 英 'kwɔːtəbæk]
 n. 橄榄球的四分卫
 vt. （以四分卫）指挥进攻；领导；操纵
 vi. （橄榄球中）担任四分卫
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [美国英语] In American football, a quarterback is the player on the attacking team who begins each play and who decides which play to use. (美式橄榄球中的)四分卫
-
-========================================================================
-Not found :(
 
 ========================================================================
 scythe    [英 saɪð / 美 saɪð]
@@ -6043,9 +5785,6 @@ n. (Chub)人名；(泰)触；(俄)丘布
 1. (N) a common European freshwater cyprinid game fish, Leuciscus (or Squalius) cephalus, having a cylindrical dark greenish body 鲢鱼
 
 ========================================================================
-Not found :(
-
-========================================================================
 green algae    [美 ɡriːn ˈældʒiː]
 绿藻：一类绿色藻类，属于绿藻门（Chlorophyta），具有叶绿体，主要生活在淡水中。
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -6068,9 +5807,6 @@ TEM8
    ≫   His feet slipped in the slimy mud.  他因脚下黏糊糊的泥而滑倒了。
 
 ========================================================================
-Not found :(
-
-========================================================================
 caramel    [美 'kærəmɛl / 英 'kærəm(ə)l; -mel]
 n. 焦糖；饴糖；焦糖糖果
 n. (Caramel)人名；(法、意)卡拉梅尔
@@ -6089,9 +5825,6 @@ CET4 TEM4
 2. [英国英语] In a hospital, a porter is someone whose job is to move patients from place to place. (医院里的)护工
 3. [英国英语] A porter is a person whose job is to be in charge of the entrance of a building such as a hotel. 门童
 4. [英国英语] a dark sweet ale brewed from black malt (用烤麦酿制的)黑啤酒
-
-========================================================================
-Not found :(
 
 ========================================================================
 caramel porters
@@ -6321,9 +6054,6 @@ CET4 TEM4
 7. (N) a legislative assembly in various countries, such as Japan 议会
 
 ========================================================================
-Not found :(
-
-========================================================================
 seaweed    [英 'siːwiːd / 美 'si'wid]
 n. 海藻，海草
 CET4 TEM4
@@ -6548,9 +6278,6 @@ CET6 TEM4
    ≫   Mail this coupon with your cheque or postal order.  把这张表单和你的支票或汇款单一起邮寄。
 
 ========================================================================
-Not found :(
-
-========================================================================
 I cant match those prices
 我付不起那样的价格
 
@@ -6603,9 +6330,6 @@ tilled soil    [美 tɪld sɔɪl]
 ≫   The study also noted that when tilled soil particles come in contact with air, soil organic matter is lost through the process of oxidation. 该研究还指出了，当耕作土壤颗粒与空气接触，土壤有机质就会在氧化过程中流失。
 ≫   A paper from 1942 reports a woman falling 28metres from her apartment building into freshly tilled soil. She walkedaway with just a fractured rib and broken wrist. 一份1942年的报道说，一个妇女从她28米的公寓摔了下来，可幸运的是她落在一片刚犁过的土上，只是断了根肋骨、扭了一下腰。
 ≫   Another recent study found that a single tillage does not harm yield or soil structure in land that is normally not tilled. 另一项最新研究发现，单独一次耕作不会对通常不耕作的土地产量或土壤结构造成破坏。
-
-========================================================================
-Not found :(
 
 ========================================================================
 retaining    [rɪ'tenɪŋ]
@@ -6693,9 +6417,6 @@ CET6 TEM4
 4. (V) to jellify 使凝成胶状
 
 ========================================================================
-Not found :(
-
-========================================================================
 ☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
 
 ========================================================================
@@ -6769,9 +6490,6 @@ CET4 TEM4
 12. → see also
 
 ========================================================================
-Not found :(
-
-========================================================================
 cauliflower    [美 'kɔlɪ'flaʊɚ / 英 'kɒlɪflaʊə]
 n. 花椰菜，菜花
 CET6+ TEM4
@@ -6828,9 +6546,6 @@ CET4 TEM4
 6. (V) to cultivate and work (land) for the raising of crops 耕种; 耕耘; 耕作
 
 ========================================================================
-Not found :(
-
-========================================================================
 till soil
 到土壤
 
@@ -6849,9 +6564,6 @@ CET4 TEM4
    ≫   ...a small jewel of a theatre.  …剧场的一个小宝贝。
 3. (PHRASE) If you refer to an achievement or thing as the jewel in someone's crown, you mean that it is considered to be their greatest achievement or the thing they can be most proud of. 最耀眼的成就; 最得意之物
    ≫   His achievement is astonishing and this book is the jewel in his crown.  他成就斐然，这本书是他的最得意之作。
-
-========================================================================
-Not found :(
 
 ========================================================================
 yield    [美 jild / 英 jiːld]
@@ -6882,9 +6594,6 @@ CET4 TEM4
    ≫   This research has been in progress since 1961 and has yielded a great number of positive results.  这项研究自1961年以来一直在开展，已经取得了大量的积极成果。
 
 ========================================================================
-Not found :(
-
-========================================================================
 roe    [美 ro / 英 rəʊ]
 n. 鱼卵，鱼子；牝鹿，獐
 n. (Roe)人名；(英、意)罗
@@ -6896,9 +6605,6 @@ n. (Roe)人名；(英、意)罗
 ========================================================================
 yield roe
 收益率roe案件的判决
-
-========================================================================
-Not found :(
 
 ========================================================================
 ☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
@@ -7233,9 +6939,6 @@ adj. （常用于合成词，表示）有……喙的
    ≫   If you fit the bill, send a CV to Rebecca Rees.  如果你符合这些要求，送一份履历给丽贝卡·里斯。
 
 ========================================================================
-Not found :(
-
-========================================================================
 billed you
 宣传你
 
@@ -7492,9 +7195,6 @@ CET4 TEM4
    ≫   A substantial number of mothers with young children are deterred from undertaking paid work because they lack access to childcare.  很多有小孩的母亲找不到人照顾小孩，从而无法从事有薪工作。
 
 ========================================================================
-Not found :(
-
-========================================================================
 exploit    [英 ˈeksplɔɪt;ɪkˈsplɔɪt / 美 ɛksplɔɪt; ɪkˈsplɔɪt]
 vt. 开发，开拓；剥削；开采
 n. 勋绩；功绩
@@ -7529,9 +7229,6 @@ CET4 TEM4
    ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
 3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
    ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
-
-========================================================================
-Not found :(
 
 ========================================================================
 weaker correlations
@@ -7650,9 +7347,6 @@ CET4 TEM4
    ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
 
 ========================================================================
-Not found :(
-
-========================================================================
 fregean compositionality
 fregean组合性
 
@@ -7702,9 +7396,6 @@ n. （汉）钱
 ≫   There are few people who ever made such a lasting impression on these two countries—whether Qian ever intended to be one of them or not. 很少有人能够在中美两国之间造成如此持久的影响，不管钱学森是否有意成为他们的一份子。
 
 ========================================================================
-Not found :(
-
-========================================================================
 ☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
 
 ========================================================================
@@ -7726,21 +7417,12 @@ Theodore von Karman
 卡门·冯·特奥多尔：一位匈牙利裔美国航空工程师和物理学家，被认为是现代航空科学和喷气推进技术的奠基人。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 van der Waals
 范德瓦尔斯（荷兰物理学家，曾获1910年诺贝尔物理学奖）
 
 ========================================================================
 Daniel and Florence Guggenheim
 丹尼尔和弗洛伦斯·古根海姆
-
-========================================================================
-Not found :(
 
 ========================================================================
 represented by
@@ -8021,9 +7703,6 @@ n. (Chien)人名；(越)战；(中)钱(广东话·威妥玛)；(柬)近
 ≫   Chien added that do-gooder plans to switch prostitutes into other work typically offer them salaries a fraction of what they can make selling their bodies. 简补充道，改良派想将妓女们转移到其他工作岗位的计划通常只能提供她们出卖身体所得收入的一小部分。
 
 ========================================================================
-Not found :(
-
-========================================================================
 chien
 n. 狗
 n. (Chien)人名；(越)战；(中)钱(广东话·威妥玛)；(柬)近
@@ -8086,9 +7765,6 @@ sniper rifle
 ========================================================================
 HIMARS
 n. 高机动性火箭炮系统（High Mobility Artillery Rocket System）：一种美国制造的轻型火箭炮系统，具有高机动性和远程打击能力，可携带多种火箭和导弹。
-
-========================================================================
-Not found :(
 
 ========================================================================
 mobility    [英 məʊ'bɪlətɪ / 美 mo'bɪləti]
@@ -8211,9 +7887,6 @@ CET4 TEM4
    ≫   Come into the kitchen. I've got to put the roast in.  到厨房里来。我得把烤肉放进去。
 
 ========================================================================
-Not found :(
-
-========================================================================
 roast me
 烤我
 
@@ -8288,15 +7961,6 @@ TEM4
 3. (N-COUNT) Indians are the people who lived in North, South, or Central America before Europeans arrived, or people living today who are descended from them. Another name for them now is Native Americans. 印第安人
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 giggity guggity goo
 吉吉，吉吉，吉吉
 
@@ -8330,12 +7994,6 @@ substrate    [英 'sʌbstreɪt / 美 'sʌbstret]
 n. 基质；基片；底层（等于substratum）；酶作用物
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [biochem] the substance upon which an enzyme acts 基质
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 molding    [美 'moldɪŋ / 英 'məʊldɪŋ]
@@ -8415,9 +8073,6 @@ n. 奥德赛（古希腊史诗）
    ≫   The march to Travnik was the final stretch of a 16-hour odyssey.  向特拉夫尼克行军是长达16小时艰险旅程的最后一段。
 
 ========================================================================
-Not found :(
-
-========================================================================
 convincing    [美 kən'vɪnsɪŋ / 英 kən'vɪnsɪŋ]
 adj. 令人信服的；有说服力的
 v. 使相信；使明白（convince的现在分词）
@@ -8435,9 +8090,6 @@ CET6 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [强调] If you describe something as gigantic, you are emphasizing that it is extremely large in size, amount, or degree. 巨大的
    ≫   In Red Rock Valley the road is bordered by gigantic rocks.  在红岩谷，道路两边都是巨大的岩石。
-
-========================================================================
-Not found :(
 
 ========================================================================
 Mongolia    [英 mɔŋ'ɡəuliə; 'mɔn- /  mɔŋ'ɡəuliə; 'mɔn-]
@@ -8503,9 +8155,6 @@ CET4 TEM4
    ≫   Robert could not conceal his relief.  罗伯特掩饰不住自己如释重负的心情。
 3. (V-T) If something conceals something else, it covers it and prevents it from being seen. 遮盖
    ≫   ...a pair of carved Indian doors which conceal a built-in cupboard.  …一对遮挡嵌入壁橱的印度式雕花门。
-
-========================================================================
-Not found :(
 
 ========================================================================
 unconcealable
@@ -8595,9 +8244,6 @@ n. 守护神，保护人；（刑事诉讼中的）辩护人
 ≫   Someone sent a doe Patronus to us! 有人派了一头雌鹿守护神来找我们！
 ≫   My Patronus is a stag. 我的守护神是牡鹿。
 ≫   Hermione's Patronus turns out to be an otter. 赫敏的守护神是一只水獭。
-
-========================================================================
-Not found :(
 
 ========================================================================
 expect    [美 ɪk'spɛkt / 英 ɪkˈspekt]
@@ -8724,9 +8370,6 @@ n. （第二次世界大战时的）同盟国；（第一次世界大战时的�
 ========================================================================
 轴心国
 axis powers
-
-========================================================================
-Not found :(
 
 ========================================================================
 axis power
@@ -8899,9 +8542,6 @@ adj. 上述的；前面提及的
    ≫   This is the draft of a declaration that will be issued at the end of the aforementioned U.N. conference.  这是将在上述联合国会议结束时发布的宣言的草稿。
 
 ========================================================================
-Not found :(
-
-========================================================================
 irrelevant    [英 ɪ'relɪv(ə)nt / 美 ɪ'rɛləvənt]
 adj. 不相干的；不切题的
 TEM4
@@ -8910,12 +8550,6 @@ TEM4
    ≫   ...irrelevant details.  …一些不相关的细节。
 2. (ADJ) If you say that something is irrelevant, you mean that it is not important in a situation. 不重要的
    ≫   The choice of subject matter is irrelevant.  主题的选择不重要。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 hypothesis    [美 haɪ'pɑθəsɪs / 英 haɪ'pɒθɪsɪs]
@@ -8932,9 +8566,6 @@ n. 牧师礼服
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [ADJ n] If something has canonical status, it is accepted as having all the qualities that a thing of its kind should have. 标准的; 典范的
    ≫   ...Ballard's status as a canonical writer.  ...巴拉德的经典作家地位。
-
-========================================================================
-Not found :(
 
 ========================================================================
 causal    [美 'kɔzl / 英 'kɔːz(ə)l]
@@ -9343,9 +8974,6 @@ CET4 TEM4
    ≫   It is the victim who is often put on trial and, to add insult to injury, she is presumed guilty until proven innocent of provoking the rape.  受到审问的往往是受害者，更糟糕的是，她被假定为有罪，直到证明强奸并非由她挑逗而引起。
 
 ========================================================================
-Not found :(
-
-========================================================================
 insultingly    [ɪn'sʌltɪŋli]
 adv. 侮辱地；无礼地
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -9606,9 +9234,6 @@ CET6 TEM8
    ≫   This prompted many employers to appraise their selection and recruitment policies.  这促使很多雇主评价其人才选聘政策。
 2. [美国英语] When experts appraise something, they decide how much money it is worth. 估价
    ≫   His estate is now appraised at a figure near $1,000,000.  他的财产现在被估价的数额接近$1000000。
-
-========================================================================
-Not found :(
 
 ========================================================================
 ascent    [英 ə'sent / 美 ə'sɛnt]
@@ -9944,9 +9569,6 @@ CET4 TEM4
 4. to breathe a sigh of relief →see
 
 ========================================================================
-Not found :(
-
-========================================================================
 breath    [美 brɛθ / 英 breθ]
 n. 呼吸，气息；一口气，（呼吸的）一次；瞬间，瞬息；微风；迹象；无声音，气音
 CET4 TEM4
@@ -10148,9 +9770,6 @@ CET4 TEM4
    ≫   The soldiers did not bother to moderate their coarse humour in her presence.  士兵们没有费神去约束他们的粗俗幽默，尽管她在场。
 4. [ADV with v] coarsely 粗鲁地; 粗俗地
    ≫   The women laughed coarsely at some vulgar joke.  女人们听到某个庸俗笑话后便粗俗地笑了起来。
-
-========================================================================
-Not found :(
 
 ========================================================================
 complement    [美 ˈkɑːmplɪment / 英 'kɒmplɪm(ə)nt]
@@ -10930,9 +10549,6 @@ n. (Leech)人名；(英)利奇
 3. (V) to use leeches to suck the blood of (a person), as a method of medical treatment 用水蛭吸(人)血
 
 ========================================================================
-Not found :(
-
-========================================================================
 medal    [美 'mɛdl / 英 'med(ə)l]
 n. 勋章，奖章；纪念章
 n. (Medal)人名；(西、捷)梅达尔
@@ -11303,12 +10919,6 @@ abbr. 试验结束（End of Test）；传输结束符（End of Transmission）�
 ≫   EOTS is part of the F-35 Electro-Optical Sensor System that consists of Northrop Grumman's Distributed Aperture System and EOTS. F - 35光电传感器系统由EOTS系统和诺斯罗普·格鲁门公司的分布式孔径系统组成。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 eodas
 光电分布式孔径系统
 
@@ -11327,12 +10937,6 @@ CET6+
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [usu sing, oft N 'of' n] The handover of something is when possession or control of it is given by one person or group of people to another. 移交
    ≫   The handover is expected to be completed in the next ten years.  移交预计在下个10年内完成。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 maneuver    [美 mə'nʊvɚ; mə'njʊvɚ / 英 mə'nʊvə]
@@ -11428,9 +11032,6 @@ n. 语用学；语用论
 1. (N-SING) Pragmatics is the branch of linguistics that deals with the meanings and effects that come from the use of language in particular situations. 语用学
 
 ========================================================================
-Not found :(
-
-========================================================================
 crewmate    [英 ˈkruːmeɪt]
 n. 同机工作的机员；同船工作的船员
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -11460,9 +11061,6 @@ n. [化工] 反应器；[核] 反应堆；起反应的人
 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A reactor is the same as a . 核反应堆
-
-========================================================================
-Not found :(
 
 ========================================================================
 medbay
@@ -11533,9 +11131,6 @@ n. (Spree)人名；(德)施普雷
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) If you spend a period of time doing something in an excessive way, you can say that you are going on a particular kind of spree. 放纵
    ≫   Some people went on a spending spree in December to beat the new tax.  一些人在12月份抢在新税收政策实施前疯狂消费。
-
-========================================================================
-Not found :(
 
 ========================================================================
 crab    [英 kræb / 美 kræb]
@@ -11666,9 +11261,6 @@ TEM8
    ≫   Two alligators rest their snouts on the water's surface.  两只鳄鱼把它们的大嘴栖息在水面上。
 
 ========================================================================
-Not found :(
-
-========================================================================
 streaks    [stri:k]
 n. [地质] 条痕；直横条（streak的复数）
 v. 形成条纹；闪现（streak的第三人称单数）
@@ -11687,16 +11279,10 @@ CET4 TEM4
    ≫   The casinos had better watch out since I'm obviously on a lucky streak!  我的手气显然很好，那些赌场最好当心！
 
 ========================================================================
-Not found :(
-
-========================================================================
 cougar    [美 'kuɡɚ / 英 'kuːgə]
 n. [脊椎] 美洲狮，美洲豹（特指Felis concolor）；熟女
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [美国英语] →see
-
-========================================================================
-Not found :(
 
 ========================================================================
 Herpailurus
@@ -11918,9 +11504,6 @@ n. (Gazelle)人名；(西)加塞列
 1. (N-COUNT) A gazelle is a type of small African or Asian deer. Gazelles move very quickly and gracefully. (非洲或亚洲)羚羊
 
 ========================================================================
-Not found :(
-
-========================================================================
 哥斯拉
 Godzilla
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -12115,9 +11698,6 @@ TEM4
    ≫   I met a girlfriend for lunch.  我和一个女伴一起吃了午饭。
 
 ========================================================================
-Not found :(
-
-========================================================================
 pillow    [美 'pɪlo / 英 'pɪləʊ]
 n. 枕头
 vt. 垫；枕于…；使…靠在
@@ -12173,9 +11753,6 @@ n. (Pillow)人名；(英)皮洛
 CET4 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A pillow is a rectangular cushion that you rest your head on when you are in bed. 枕头
-
-========================================================================
-Not found :(
 
 ========================================================================
 pillow friend
@@ -12275,9 +11852,6 @@ CET6 TEM4
    ≫   The satellite will be used mainly to relay television programmes.  这颗卫星将主要用来转播电视节目。
 3. [正式] If you relay something that has been said to you, you repeat it to another person. 转告
    ≫   She relayed the message, then frowned.  她转告了那个消息，然后皱了皱眉。
-
-========================================================================
-Not found :(
 
 ========================================================================
 relay on
@@ -12423,9 +11997,6 @@ adj. 容易的；不费力气的
    ≫   She liked him above all for his effortless charm.  她尤其喜欢他天生的魅力。
 
 ========================================================================
-Not found :(
-
-========================================================================
 LSTM
 长短期记忆网络
 
@@ -12489,9 +12060,6 @@ CET4 TEM4
    ≫   He declared war on the government and urged right-wingers to eliminate their opponents.  他向政府宣战并且力劝右翼分子们消灭他们的对手。
 
 ========================================================================
-Not found :(
-
-========================================================================
 emulate    [美 'ɛmjulet / 英 'emjʊleɪt]
 vt. 仿真；模仿；尽力赶上；同…竞争
 n. 仿真；仿效
@@ -12510,12 +12078,6 @@ CET4 TEM4
 2. (N-COUNT) You can use climate to refer to the general atmosphere or situation somewhere. 氛围; 形势
    ≫   The economic climate remains uncertain.  经济气候依然是不确定。
    ≫   ...the existing climate of violence and intimidation.  … 现有的暴力与恐吓的氛围。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 eliminate    [美 ɪ'lɪmɪnet / 英 ɪ'lɪmɪneɪt]
@@ -12588,9 +12150,6 @@ kick off
    ≫   She stretched out on the sofa and kicked off her shoes.  她在沙发上伸了个懒腰然后踢掉鞋子。
 5. [非正式] To kick someone off an area of land means to force them to leave it. 赶走
    ≫   We can't kick them off the island.  我们不能把他们从岛上赶走。
-
-========================================================================
-Not found :(
 
 ========================================================================
 waddle    [美 'wɑdl / 英 'wɒd(ə)l]
@@ -12961,9 +12520,6 @@ CET4 TEM4
    ≫   A spokesman declined to elaborate on a statement released late yesterday.  发言人拒绝对昨天晚些时候发表的一份声明作出更多说明。
 
 ========================================================================
-Not found :(
-
-========================================================================
 royalty    [美 'rɔɪəlti / 英 'rɒɪəltɪ]
 n. 皇室；版税；王权；专利税
 CET6 TEM4
@@ -12997,12 +12553,6 @@ CET6+ TEM4
    ≫   I tried to talk myself out of a fight and got beaten to a pulp instead by three other boys.  我试图说服自己不要打架，结果却被另外3个男孩子打得遍体鳞伤。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 wrap    [英 ræp / 美 ræp]
 vt. 包；缠绕；隐藏；掩护
 vi. 包起来；缠绕；穿外衣
@@ -13033,9 +12583,6 @@ CET6 TEM4
 ========================================================================
 cozy time
 舒适的时间
-
-========================================================================
-Not found :(
 
 ========================================================================
 hello    [美 həˈlo / 英 həˈləʊ]
@@ -13169,12 +12716,6 @@ CET6+ TEM4
    ≫   The first edition had to be pulped because it contained inaccuracies.  第一版不得不化为纸浆，因为里面有差错。
 7. (PHRASE) If someone is beaten to a pulp, they are hit repeatedly until they are very badly injured. 把某人打成重伤
    ≫   I tried to talk myself out of a fight and got beaten to a pulp instead by three other boys.  我试图说服自己不要打架，结果却被另外3个男孩子打得遍体鳞伤。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 regarded as
@@ -13451,9 +12992,6 @@ Ludwig van Beethoven
 ≫   Okay. That is Beethoven, Ludwig van Beethoven, and do you know the name of the piece? 好的，就是贝多芬，路德维希·凡·贝多芬，那么你知道这首曲子的名字吗。
 
 ========================================================================
-Not found :(
-
-========================================================================
 compose    [美 kəm'poz / 英 kəm'pəʊz]
 vt. 构成；写作；使平静；排…的版
 vi. 组成；作曲；排字
@@ -13476,9 +13014,6 @@ CET4 TEM4
    ≫   ...music by Strauss, Mozart, Beethoven, and other great composers.  …施特劳斯、莫扎特、贝多芬及其他伟大作曲家创作的音乐。
 
 ========================================================================
-Not found :(
-
-========================================================================
 Fate Symphony
 命运交响曲
 
@@ -13493,9 +13028,6 @@ CET6 TEM4
 ========================================================================
 Symphony No. 5 in C minor, OP. 67
 C小调第五交响曲，作品67
-
-========================================================================
-Not found :(
 
 ========================================================================
 motif    [美 mo'tif / 英 məʊ'tiːf]
@@ -13586,9 +13118,6 @@ n. 绣球花（hydrangea的复数）
 1. (N) any shrub or tree of the Asian and American genus Hydrangea, cultivated for their large clusters of white, pink, or blue flowers: family Hydrangeaceae 绣球花
 
 ========================================================================
-Not found :(
-
-========================================================================
 calla    [英 'kælə / 美 'kælə]
 n. 马蹄莲；水芋，荷兰海芋
 n. (Calla)人名；(西)卡利亚；(法)卡拉
@@ -13611,9 +13140,6 @@ CET6 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A milestone is an important event in the history or development of something or someone. 里程碑
    ≫   He said the launch of the party represented a milestone in Zambian history.  他说该党的成立代表着赞比亚历史上的一个里程碑。
-
-========================================================================
-Not found :(
 
 ========================================================================
 perceptrons
@@ -13646,9 +13172,6 @@ adj. 更公平（fair的比较级）
 ≫   It would make for more effective policy and be fairer. 这将制定出更加有效地政策，也会更加公正。
 
 ========================================================================
-Not found :(
-
-========================================================================
 comparison    [美 kəm'pærɪsn / 英 kəm'pærɪs(ə)n]
 n. 比较；对照；比喻；比较关系
 CET4 TEM4
@@ -13660,12 +13183,6 @@ CET4 TEM4
    ≫   It is demonstrably an unfair comparison.  这显然是一种不公平的相似对比。
 3. (PHRASE) If you say, for example, that something is large or small in comparison with, in comparison to, or by comparison with something else, you mean that it is larger or smaller than the other thing. 相比之下
    ≫   The amount of carbon dioxide released by human activities such as burning coal and oil is small in comparison.  相比之下人类燃烧煤、石油等活动所释放的二氧化碳的量是少的。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 sane    [美 sen / 英 seɪn]
@@ -13681,9 +13198,6 @@ CET6+ TEM4
 ========================================================================
 stay foolish to stay sane
 保持愚蠢才能保持理智
-
-========================================================================
-Not found :(
 
 ========================================================================
 HERMES    ['ɛrmɛs]
@@ -13702,12 +13216,6 @@ CET6 TEM4
    ≫   The government has been storing radioactive waste at Fernald for 50 years.  该政府50年来一直在弗纳德储存放射性废物。
 2. (N-UNCOUNT) radioactivity 放射性
    ≫   ...the storage and disposal of solid waste that is contaminated with low levels of radioactivity.  …对受到低水平放射污染的固体废弃物的储存和处置。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 myth    [美 mɪθ / 英 mɪθ]
@@ -13939,9 +13447,6 @@ CET4 TEM4
    ≫   Stress is widely perceived as contributing to coronary heart disease.  压力普遍被认为能造成冠心病。
 
 ========================================================================
-Not found :(
-
-========================================================================
 introverted    [美 'ɪntrəvɝtɪd / 英 'ɪntrə(ʊ)vɜːtɪd]
 adj. 内向的
 v. 使...内向（introvert的过去分词形式）；使内翻
@@ -13958,9 +13463,6 @@ n. (Vert)人名；(西)贝尔特；(法)韦尔
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) the right to cut green wood in a forest 采伐森林中青色草木的权利
 2. (N) the wood itself 森林中的青色草木
-
-========================================================================
-Not found :(
 
 ========================================================================
 version    [美 ˈvɜːrʒ(ə)n / 英 ˈvɜːʃ(ə)n]
@@ -14476,14 +13978,8 @@ golden days
 黄金时代：指过去的某个时期或阶段，被认为是特别美好、繁荣或幸福的时光。
 
 ========================================================================
-Not found :(
-
-========================================================================
 Ershisi Bridge
 Ershisi桥
-
-========================================================================
-Not found :(
 
 ========================================================================
 northland    [美 'nɔrθlənd / 英 'nɔːθlənd]
@@ -14533,9 +14029,6 @@ n. 美津浓；美津浓品牌（健身运动品牌）
 ≫   And remember, it is MIZUNO now, NOT Ayanami. 记住，我叫水野，不叫绫波。
 ≫   The above winning teams will be awarded with a trophy and Mizuno Bag. 以上得奖队伍均可获赠送奖杯一座及美津浓运动袋。
 ≫   Similarly, ten new licensed boots styles from manufacturers such as adidas, Puma, Umbro and Mizuno have been added. 同样地，十新持牌靴子制造商，如阿迪达斯风格，彪马，茵宝及美津浓已被添加。
-
-========================================================================
-Not found :(
 
 ========================================================================
 decathlon    [英 dɪ'kæθlɒn; -lən / 美 dɪ'kæθlən]
@@ -14694,9 +14187,6 @@ CET4 TEM4
    ≫   This research has been in progress since 1961 and has yielded a great number of positive results.  这项研究自1961年以来一直在开展，已经取得了大量的积极成果。
 
 ========================================================================
-Not found :(
-
-========================================================================
 might    [美 maɪt / 英 maɪt]
 n. 力量；威力；势力
 v. 可以；或许（may的过去式）；应该
@@ -14810,12 +14300,6 @@ CET6
 1. (N-UNCOUNT) Gruel is a food made by boiling oats with water or milk. 燕麦粥
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 sun yat-sen    [美 ˈsʊnˈjɑtˈsɛn]
 n. 孙逸仙
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -14824,17 +14308,8 @@ n. 孙逸仙
 ≫   Sun Yat-sen University adopts a two-year postgraduate education system. 中大的研究生教育是两年制。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 Wade Giles
 韦德贾尔斯
-
-========================================================================
-Not found :(
 
 ========================================================================
 Tsien
@@ -14843,15 +14318,6 @@ n. （Tsien）人名；（中）钱（普通话·威妥玛）
 ≫   With the help of Quyen Nguyen, a surgeon based at UCSD, Dr. Tsien has tested the hairpin dye on mice that had had breast cancer-induced in their bodies. 在加州大学圣地亚哥分校的外科医生阮权的帮助下，钱博士在携带乳腺癌的老鼠身上试验了发夹型分子染色颗粒。
 ≫   To make use of the MMPs, Dr. Tsien attaches his fluorescent dye, along with some positive charges, to one side of a small hairpin-shaped protein molecule. 为了利用这种基质金属蛋白酶，钱博士将他的荧光染料和一些正电荷一同连接在一个小的发夹形状的蛋白质分子的一端。
 ≫   Tsien said these cells are vital in helping the brain remember events. 提雪说这些细胞帮助大脑记忆，起了关键工作。
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
-Not found :(
 
 ========================================================================
 allegory    [美 'æləɡɔri / 英 'ælɪg(ə)rɪ]
@@ -15038,12 +14504,6 @@ CET4 TEM4
    ≫   Neither author was very strong on narrative.  两位作者在记叙方面都不强。
 
 ========================================================================
-Not found :(
-
-========================================================================
-Not found :(
-
-========================================================================
 insane    [美 ɪn'sen / 英 ɪn'seɪn]
 adj. 疯狂的；精神病的；极愚蠢的
 CET4 TEM4
@@ -15054,9 +14514,6 @@ CET4 TEM4
    ≫   He asked me what I thought and I said, "Listen, this is completely insane."  他问我是怎么想的，我说，“听着，这十分愚蠢。”
 3. (ADV) insanely 疯狂地
    ≫   I would be insanely jealous if Bill left me for another woman.  如果比尔为了另一个女人而离开我，我会妒忌得发疯的。
-
-========================================================================
-Not found :(
 
 ========================================================================
 in-sync
@@ -15134,9 +14591,6 @@ CET4 TEM4
 4. (N-COUNT) A cosy or a tea cosy is a soft knitted or fabric cover which you put over a teapot in order to keep the tea hot. 茶壶套
    ≫   ...unusual miniature tea sets, elegant tea accessories, colourful cosies.  …与众不同的微型套装茶具，雅致的茶配件，色彩缤纷的茶壶套。
    ≫   ...a whimsical tea cosy printed with a bright scene of the Tower of London.  …一个印有伦敦塔明快图景的别出心裁的茶壶套。
-
-========================================================================
-Not found :(
 
 ========================================================================
 cosy time
@@ -15273,9 +14727,6 @@ n. 语源，[语] 语源学
 2. (N-COUNT) The etymology of a particular word is its history. 词源
 
 ========================================================================
-Not found :(
-
-========================================================================
 discourse    [美 'dɪskɔrs / 英 'dɪskɔːs; -'kɔːs]
 n. 论述；谈话；演讲
 vi. 演说；谈论；讲述
@@ -15320,9 +14771,6 @@ laid out
 ≫   Inside, the cabin is well laid-out and the low driving position is good. 驾驶舱布局合理，还有那绝好的低位驾驶姿势。
 ≫   We tend to believe that a carefully laid-out plan and tight schedule is the only way to develop a new piece of software. 我们更倾向于相信，谨慎安排的计划和排得紧凑的进度是开发新软件时的唯一途径。
 ≫   These automated layouts also make it easier to understand complex models and to build abstractions by viewing the model in a well-laid-out way. 通过以一种精心布置的方式查看模型，这些自动化的布局还使得理解复杂的模型，以及构建抽象变得更加容易。
-
-========================================================================
-Not found :(
 
 ========================================================================
 for the sake of
@@ -15381,9 +14829,6 @@ CET6 TEM4
    ≫   It also has a good range of accessories, including sunglasses, handbags and belts.  它还有多种配饰，包括墨镜、手包和皮带。
 3. [法律] If someone is guilty of being an accessory to a crime, they helped the person who committed it, or knew it was being committed but did not tell the police. 从犯
    ≫   She had been charged with being an accessory to the embezzlement of funds from a cooperative farm.  她已被指控为挪用一个合作农场资金的一个从犯。
-
-========================================================================
-Not found :(
 
 ========================================================================
 accessory    [美 ək'sɛsəri / 英 ək'ses(ə)rɪ]
@@ -15497,7 +14942,6 @@ n. 九头蛇；[无脊椎] 水螅；难以根除之祸害
 1. (N) any solitary freshwater hydroid coelenterate of the genus Hydra, in which the body is a slender polyp with tentacles around the mouth 水螅
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 draft    [美 dræft / 英 drɑːft]
 n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流
 vt. 起草；制定；征募
@@ -15537,10 +14981,8 @@ CET4 TEM4
    ≫   It is not too late, but prompt action is needed.  还不太晚，但需要立即行动。
 4. [v-link ADJ] If you are prompt to do something, you do it without delay or you are not late. (做某事) 迅速的
    ≫   You have been so prompt in carrying out all these commissions.  你执行所有这些任务非常迅速。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 promptly    [美 'prɑmptli / 英 'prɒm(p)tlɪ]
 adv. 迅速地；立即地；敏捷地
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15560,11 +15002,8 @@ CET6
 2. [ADJ n] You describe something as underlying when it is below the surface of something else. 在下面的
    ≫   ...hills with the hard underlying rock poking through the turf.  …从被草覆盖的地面下突出来的坚硬岩石的山峦。
 3. → see also
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：759
 diverged
 v. 分叉；向不同方向发展；分化；分歧，相异；偏离，违背；离题（diverge 的过去式和过去分词）
 ★ TEM8 diverging,diverged,diverges
@@ -15575,8 +15014,6 @@ v. 分叉；向不同方向发展；分化；分歧，相异；偏离，违背�
    ≫   The view of the Estonian government does not diverge that far from Lipmaa's thinking.  爱沙尼亚政府的观点和李普马的想法并无太大分歧。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1851
 circumvents
 v．绕过，规避：通过巧妙或非法手段避开或逃避（规定、障碍等）。
 ★ TEM8 circumventing,circumvented,circumvents
@@ -15585,8 +15022,6 @@ v．绕过，规避：通过巧妙或非法手段避开或逃避（规定、障�
    ≫   Military planners tried to circumvent the treaty.  军事计划员们试图避开此条约。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1907
 Lotter
 n. （Lotter）人名；（德、法、葡、匈、捷）洛特
 
@@ -15601,7 +15036,6 @@ CET6+ TEM4
    ≫   The stockmarket is a lottery.  股市靠的是运气。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 landscape    [美 ˈlændskep / 英 ˈlændskeɪp]
 n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式
 vt. 对…做景观美化，给…做园林美化；从事庭园设计
@@ -15629,10 +15063,8 @@ CET6 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [商业] A commodity is something that is sold for money. 商品
    ≫   Prices went up on several basic commodities like bread and meat.  面包、肉等几种基本商品的价格上涨了。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 exploit    [英 ˈeksplɔɪt;ɪkˈsplɔɪt / 美 ɛksplɔɪt; ɪkˈsplɔɪt]
 vt. 开发，开拓；剥削；开采
 n. 勋绩；功绩
@@ -15656,8 +15088,6 @@ CET4
    ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2120
 circumvents
 v．绕过，规避：通过巧妙或非法手段避开或逃避（规定、障碍等）。
 ★ TEM8 circumventing,circumvented,circumvents
@@ -15673,10 +15103,8 @@ CET4 TEM4
 1. (N-IN-NAMES) Avenue is sometimes used in the names of streets. The written abbreviation is also used. 大街
    ≫   ...the most expensive apartments on Park Avenue.  …派克大街上最昂贵的公寓。
 2. (N-COUNT) An avenue is a wide, straight road, especially one with trees on either side. 林荫大道
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 likelihood    [美 'laɪklɪhʊd / 英 'laɪklɪhʊd]
 n. 可能性，可能
 CET6 TEM4
@@ -15687,14 +15115,12 @@ CET6 TEM4
    ≫   But the likelihood is that people would be willing to pay if they were certain that their money was going to a good cause.  但有可能的是，如果人们确信自己的钱将用于善事，他们会愿意出钱的。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 taxonomy    [美 tæk'sɑnəmi / 英 tæk'sɒnəmɪ]
 n. 分类学；分类法
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [技术] Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences. (动植物等的)分类法; 分类学
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 sheared    [英 ʃɪəd /  ʃɪəd]
 adj. 修剪的
 v. 修剪（shear的过去分词）
@@ -15708,7 +15134,6 @@ CET6+ TEM8
    ≫   Trim the shrubs with shears.  用大剪刀修剪这些灌木。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 absorbing    [美 əb'sɔrbɪŋ / 英 əb'zɔːbɪŋ; -'sɔːbɪŋ]
 adj. 吸引人的；极有趣的
 v. 吸收（absorb的ing形式）
@@ -15721,11 +15146,8 @@ homologous    [美 ho'mɑləɡəs / 英 hɒ'mɒləgəs]
 adj. 相应的；[生物] 同源的；类似的；一致的
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (ADJ) having a related or similar position, structure, etc 拥有相关的或相似的职位的; 拥有相关的或相似的结构的
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2491
 free lunch    [美 friː lʌntʃ]
 免费午餐：指不需要支付费用的事物；也可以指免费乘车。
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15740,10 +15162,8 @@ TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [正式] The rationale for a course of action, practice, or belief is the set of reasons on which it is based. 全部理由; 根本原因
    ≫   However, the rationale for such initiatives is not, of course, solely economic.  但是，这些积极行动的根本原因当然不全是出于经济目的。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 gradients    ['ɡreidiənt]
 n. 渐变，[数][物] 梯度（gradient复数形式）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15757,14 +15177,12 @@ CET4 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A surgeon is a doctor who is specially trained to perform surgery. 外科医生
    ≫   ...a heart surgeon.  …一位心脏外科医生。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 scalable    [美 'skeləbl / 英 'skeɪləb(ə)l]
 adj. 可攀登的；可去鳞的；可称量的
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (ADJ) capable of being scaled or climbed 可去鳞的; 可称重的; 可攀登的
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 surgeon    [美 'sɝdʒən / 英 'sɜːdʒ(ə)n]
@@ -15774,7 +15192,6 @@ CET4 TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A surgeon is a doctor who is specially trained to perform surgery. 外科医生
    ≫   ...a heart surgeon.  …一位心脏外科医生。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 compound    [英 'kɒmpaʊnd / 美 'kɑmpaʊnd]
@@ -15797,11 +15214,8 @@ CET4 TEM4
    ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
    ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
 7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2812
 sparsification
 稀疏化
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15809,13 +15223,10 @@ sparsification
 ≫   The multi resolution sparsification technique is first introduced into the extraction of frequency dependent inductance for the lossy three dimensional conductor structures. 本文首次将多分辨率稀疏化技术引入有耗三维导体结构频变电感参数的提取过程中。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2846
 Compound Sparsification
 复合Sparsification
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 scroll    [美 skrol / 英 skrəʊl]
 n. 卷轴，画卷；名册；卷形物
 vi. 成卷形
@@ -15838,19 +15249,14 @@ n. 蒸馏，净化；蒸馏法；精华，蒸馏物
 ≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2948
 Knowledge Distillation
 知识蒸馏
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2981
 Downstream compression
 下游的压缩
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 dimensionality    [美 daɪmɛnʃə'næləti / 英 dɪ,menʃə'nælətɪ]
 n. 维度；幅员；广延
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15879,7 +15285,6 @@ TEM4
    ≫   There is no sign that you bothered to consider the inverse of your logic.  没有迹象显示你在乎过逻辑的颠倒。
 4. [ADJ n] Inverse is also an adjective. 倒置的; 颠倒的
    ≫   The hologram can be flipped to show the inverse image.  全息图能被翻转来显示倒置的图像。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
@@ -15892,7 +15297,6 @@ CET6 TEM4
    ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 alleviated    [ə'li:vieit]
 v. 减轻（alleviate的过去分词）；使…缓和
 CET6 TEM8
@@ -15911,7 +15315,6 @@ n. 埃克塞尔（姓氏）
 ≫   It will also enable DB ML to invest in foreign expansion-it is the fifth-biggest logistics operator worldwide, but with less than half the turnover of Deutsche Post and its subsidiaries DHL and Exel. 作为全球第5大物流运营商的DB，却只有德国邮政（Deutsche Post）及其子公司DHL和Exel不到一半的营业额。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 excel    [美 ɪk'sɛl / 英 ɪk'sel; ek-]
 vt. 超过；擅长
 vi. (在某方面)胜过(或超过)别人
@@ -15922,8 +15325,6 @@ CET6+ TEM4
    ≫   Academically he began to excel.  他开始在学术上脱颖而出。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3383
 excel in    [美 ɪkˈsel ɪn]
 在……方面表现出色：在某个领域或活动中表现出非常出色或优秀。
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15932,8 +15333,6 @@ excel in    [美 ɪkˈsel ɪn]
 ≫   Artistic merit scholarships require that applicants excel in a given artistic area. 艺术奖学金要求申请者在某一特定艺术领域有突出表现。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3437
 evicting
 v．驱逐，赶出：从房屋或土地上强制驱逐（某人），通常是因为未支付租金或违反租赁协议。
 ★ TEM8 evicting,evicted,evicts
@@ -15951,7 +15350,6 @@ TEM8
    ≫   He was facing eviction, along with his wife and family.  他及其妻儿正面临着被驱逐。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 consent    [美 kən'sɛnt / 英 kən'sent]
 vi. 同意；赞成；答应
 n. 同意；（意见等的）一致；赞成
@@ -15971,7 +15369,6 @@ v. 扯下；诋毁；拆卸；逐条驳斥
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (PHRASAL VERB) If you tear something down, you destroy it or remove it completely. 拆除; 拆毁
    ≫   Angry Russians may have torn down the statue of Felix Dzerzhinsky.  愤怒的俄罗斯人可能已经拆除了菲利克斯•捷尔任斯基的雕像。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 perplexity    [美 pɚ'plɛksəti / 英 pə'pleksɪtɪ]
@@ -15983,7 +15380,6 @@ n. 困惑；混乱
    ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 decomposition    [美 ,dikɑmpə'zɪʃən / 英 ,diːkɒmpə'zɪʃn]
 n. 分解，腐烂；变质
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -15994,10 +15390,8 @@ distiller    [美 dɪ'stɪlɚ / 英 dɪ'stɪlə]
 n. 蒸馏器；蒸馏酒者
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A distiller is a person or a company that makes whisky or a similar strong alcoholic drink by a process of distilling. 蒸馏酒者; 蒸馏酒公司
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 thriller    [美 'θrɪlɚ / 英 'θrɪlə]
 n. 惊险小说；使人毛骨悚然的东西；使人毛骨悚然的小说
 CET4 TEM4
@@ -16023,7 +15417,6 @@ CET4 TEM4
    ≫   His voice trembled, on the verge of tears.  他的声音颤抖着，就要落下泪来。
 5. (N-SING) Tremble is also a noun. (声音的) 发颤
    ≫   "Please understand this," she began, a tremble in her voice.  “请理解这个”，她开始用颤抖的声音说道。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 shiver    [美 'ʃɪvɚ / 英 'ʃɪvə]
@@ -16039,7 +15432,6 @@ CET4 TEM4
    ≫   The emptiness here sent shivers down my spine.  这里的空寂让我感到脊背一阵颤栗。
 3. (V) to break or cause to break into fragments 打碎
 4. (N) a splintered piece 碎片
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 renaissance    [美 ˈrenəsɑ:ns; ˌrɛnəˈsɑns / 英 rɪˈneɪsns]
@@ -16050,11 +15442,8 @@ CET6 TEM4
    ≫   ...the Renaissance masterpieces in London's galleries.  …伦敦美术馆里文艺复兴时期的杰作。
 2. (N-SING) If something experiences a renaissance, it becomes popular or successful again after a time when people were not interested in it. 复兴
    ≫   Popular art is experiencing a renaissance.  通俗艺术正在复兴。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1113
 on the fly
 在飞行中；忙忙碌碌
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16099,11 +15488,8 @@ CET4 TEM4
    ≫   Tomorrow I'll treat myself to a day's gardening.  明天我要好好享受一天的园艺活儿。
 5. (N-COUNT) If you give someone a treat, you buy or arrange something special for them which they will enjoy. 款待
    ≫   Lettie had never yet failed to return from town without some special treat for him.  莱蒂每次从城里回来都要带一些特别的礼物送给他。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1210
 visual treat
 视觉享受
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16112,7 +15498,6 @@ visual treat
 ≫   Introducing a vibrant and original picture dictionary, an educational and visual treat. 引入一个充满活力和原始图片字典，教育和视觉享受。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
 n. 感情，情绪；情操；观点；多愁善感
 CET6 TEM4
@@ -16126,8 +15511,6 @@ CET6 TEM4
    ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1666
 witnessed
 v．目击，亲眼看到（witness的过去式和过去分词）
 ★★★ CET4 TEM4 witnessing,witnessed,witnesses
@@ -16146,12 +15529,6 @@ v．目击，亲眼看到（witness的过去式和过去分词）
    ≫   India has witnessed many political changes in recent years.  印度近些年见证了许多政治变革。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1703
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
 outstrips    [,aut'strip]
 超过( outstrip的第三人称单数 )
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16165,11 +15542,8 @@ at the expense of
 ≫   If and when some people get ahead at the expense of others, they will eventually pay. 如果当一些人以其他人为代价获得成功，他们最终会得到报应的。
 ≫   However, this comes at the expense of releasing all your personal information to parents should they (or their child) ever want to contact you. 然而，这样做的代价就是把你的信息全都留给那些父母，他们（或他们的孩子）以后可能想要联系你.
 ≫   The government took this position at the expense of an increasing deficit and national debt. 政府采取这一立场的代价是不断增加的赤字和国家债务。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1805
 firefang    [英 ˈfaɪəˌfæŋ]
 受热变质
 
@@ -16181,26 +15555,12 @@ n. (Fang)人名；(中)方 (广东话·威妥玛)；(瑞典)丰
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) Fangs are the two long, sharp, upper teeth that some animals have. (动物的) 尖牙
    ≫   The cobra sank its venomous fangs into his hand.  眼镜蛇将毒牙咬进他的手。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1880
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2087
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2144
 Hsue-shen Tsien
 Hsue-shen钱
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 pattern    [美 'pætɚn / 英 'pæt(ə)n]
 n. 模式；图案；样品
 vt. 模仿；以图案装饰
@@ -16218,7 +15578,6 @@ CET4 TEM4
 5. [IRISH] an outdoor assembly with religious practices, traders' stalls, etc on the feast day of a patron saint 圣人日户外集会; 集会上有宗教仪式和集市摊档等 (Also patron)
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 split    [美 splɪt / 英 splɪt]
 vt. 分离；使分离；劈开；离开；分解
 vi. 离开；被劈开；断绝关系
@@ -16245,7 +15604,6 @@ CET4 TEM4
    ≫   I would rather pay for a meal than watch nine friends pick over and split a bill.  我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 cum    [英 kʌm / 美 kʌm]
 prep. 附有；连同
 n. 精液；精子
@@ -16253,16 +15611,6 @@ n. (Cum)人名；(意)库姆
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 ≫   This gives you the feeling of flying when you cum. 这样你高潮的时候会有一种飞起来的感觉。
 ≫   The genius of the whole system is that it is so cum bersome and complex that it has trouble accomplish ing anything irredeemably stupid. 整个系统的天才之处就在于它是如此繁琐复杂，要完成那些无可救药的愚蠢之事，它实在是有困难。
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2531
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2581
-Not found :(
 
 ========================================================================
 cumulative    [美 'kjumjəletɪv / 英 'kjuːmjʊlətɪv]
@@ -16273,7 +15621,6 @@ CET6 TEM8
    ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 accumulate    [美 ə'kjumjəlet / 英 ə'kjuːmjʊleɪt]
 vi. 累积；积聚
 vt. 积攒
@@ -16283,8 +15630,6 @@ CET4 TEM4
    ≫   Lead can accumulate in the body until toxic levels are reached.  铅可以在体内积聚直至到达有毒的程度。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2746
 cumulate    [美 ˈkjʊmjəˌlet / 英 ˈkjuːmjʊleɪt]
 vt. 累积；堆积
 vi. 累积
@@ -16302,7 +15647,6 @@ CET6 TEM8
    ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 enumerating    [i'nju:məreit]
 枚举
 TEM8
@@ -16311,7 +15655,6 @@ TEM8
    ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 evenly    [美 'ivnli / 英 'i:vənlɪ]
 adv. 均匀地；平衡地；平坦地；平等地
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16320,7 +15663,6 @@ adv. 均匀地；平衡地；平坦地；平等地
 ≫   Although climate change is a global phenomenon, its consequences will not be evenly distributed. 虽然气候变化是一种全球现象，但其后果不会是均匀分布的。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 even    [美 'ivən / 英 'iːv(ə)n]
 adj. [数] 偶数的；平坦的；相等的
 adv. 甚至；即使；还；实际上
@@ -16387,7 +15729,6 @@ CET4 TEM4
 7. (PHRASE) The odd man out, the odd woman out, or the odd one out in a particular situation is a person who is different from the other people in it. 与众不同者
    ≫   Azerbaijan has been the odd man out, the one republic not to hold democratic elections.  阿塞拜疆一直是个与众不同者，一个不举行民主选举的共和国。
 8. → see also
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 oddly    [美 'ɑdli / 英 'ɒdlɪ]
@@ -16397,11 +15738,8 @@ adv. 古怪地；奇妙地；单数地
    ≫   He said no and seemed oddly reluctant to talk about it.  他说了不，而且很奇怪他似乎不愿谈论这件事。
    ≫   Oddly, Emma says she never considered her face to be attractive.  奇怪，埃玛说她从来都不认为她的脸蛋吸引人。
 2. → see also
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1113
 on the fly
 在飞行中；忙忙碌碌
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16446,11 +15784,8 @@ CET4 TEM4
    ≫   Tomorrow I'll treat myself to a day's gardening.  明天我要好好享受一天的园艺活儿。
 5. (N-COUNT) If you give someone a treat, you buy or arrange something special for them which they will enjoy. 款待
    ≫   Lettie had never yet failed to return from town without some special treat for him.  莱蒂每次从城里回来都要带一些特别的礼物送给他。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1210
 visual treat
 视觉享受
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16459,7 +15794,6 @@ visual treat
 ≫   Introducing a vibrant and original picture dictionary, an educational and visual treat. 引入一个充满活力和原始图片字典，教育和视觉享受。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
 n. 感情，情绪；情操；观点；多愁善感
 CET6 TEM4
@@ -16473,8 +15807,6 @@ CET6 TEM4
    ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1666
 witnessed
 v．目击，亲眼看到（witness的过去式和过去分词）
 ★★★ CET4 TEM4 witnessing,witnessed,witnesses
@@ -16493,12 +15825,6 @@ v．目击，亲眼看到（witness的过去式和过去分词）
    ≫   India has witnessed many political changes in recent years.  印度近些年见证了许多政治变革。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1703
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
 outstrips    [,aut'strip]
 超过( outstrip的第三人称单数 )
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16512,11 +15838,8 @@ at the expense of
 ≫   If and when some people get ahead at the expense of others, they will eventually pay. 如果当一些人以其他人为代价获得成功，他们最终会得到报应的。
 ≫   However, this comes at the expense of releasing all your personal information to parents should they (or their child) ever want to contact you. 然而，这样做的代价就是把你的信息全都留给那些父母，他们（或他们的孩子）以后可能想要联系你.
 ≫   The government took this position at the expense of an increasing deficit and national debt. 政府采取这一立场的代价是不断增加的赤字和国家债务。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1805
 firefang    [英 ˈfaɪəˌfæŋ]
 受热变质
 
@@ -16528,26 +15851,12 @@ n. (Fang)人名；(中)方 (广东话·威妥玛)；(瑞典)丰
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) Fangs are the two long, sharp, upper teeth that some animals have. (动物的) 尖牙
    ≫   The cobra sank its venomous fangs into his hand.  眼镜蛇将毒牙咬进他的手。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1880
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2087
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2144
 Hsue-shen Tsien
 Hsue-shen钱
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 pattern    [美 'pætɚn / 英 'pæt(ə)n]
 n. 模式；图案；样品
 vt. 模仿；以图案装饰
@@ -16565,7 +15874,6 @@ CET4 TEM4
 5. [IRISH] an outdoor assembly with religious practices, traders' stalls, etc on the feast day of a patron saint 圣人日户外集会; 集会上有宗教仪式和集市摊档等 (Also patron)
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 split    [美 splɪt / 英 splɪt]
 vt. 分离；使分离；劈开；离开；分解
 vi. 离开；被劈开；断绝关系
@@ -16592,7 +15900,6 @@ CET4 TEM4
    ≫   I would rather pay for a meal than watch nine friends pick over and split a bill.  我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 cum    [英 kʌm / 美 kʌm]
 prep. 附有；连同
 n. 精液；精子
@@ -16600,16 +15907,6 @@ n. (Cum)人名；(意)库姆
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 ≫   This gives you the feeling of flying when you cum. 这样你高潮的时候会有一种飞起来的感觉。
 ≫   The genius of the whole system is that it is so cum bersome and complex that it has trouble accomplish ing anything irredeemably stupid. 整个系统的天才之处就在于它是如此繁琐复杂，要完成那些无可救药的愚蠢之事，它实在是有困难。
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2531
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2581
-Not found :(
 
 ========================================================================
 cumulative    [美 'kjumjəletɪv / 英 'kjuːmjʊlətɪv]
@@ -16620,7 +15917,6 @@ CET6 TEM8
    ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 accumulate    [美 ə'kjumjəlet / 英 ə'kjuːmjʊleɪt]
 vi. 累积；积聚
 vt. 积攒
@@ -16630,8 +15926,6 @@ CET4 TEM4
    ≫   Lead can accumulate in the body until toxic levels are reached.  铅可以在体内积聚直至到达有毒的程度。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2746
 cumulate    [美 ˈkjʊmjəˌlet / 英 ˈkjuːmjʊleɪt]
 vt. 累积；堆积
 vi. 累积
@@ -16649,7 +15943,6 @@ CET6 TEM8
    ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 enumerating    [i'nju:məreit]
 枚举
 TEM8
@@ -16658,7 +15951,6 @@ TEM8
    ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 evenly    [美 'ivnli / 英 'i:vənlɪ]
 adv. 均匀地；平衡地；平坦地；平等地
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16667,7 +15959,6 @@ adv. 均匀地；平衡地；平坦地；平等地
 ≫   Although climate change is a global phenomenon, its consequences will not be evenly distributed. 虽然气候变化是一种全球现象，但其后果不会是均匀分布的。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 even    [美 'ivən / 英 'iːv(ə)n]
 adj. [数] 偶数的；平坦的；相等的
 adv. 甚至；即使；还；实际上
@@ -16734,7 +16025,6 @@ CET4 TEM4
 7. (PHRASE) The odd man out, the odd woman out, or the odd one out in a particular situation is a person who is different from the other people in it. 与众不同者
    ≫   Azerbaijan has been the odd man out, the one republic not to hold democratic elections.  阿塞拜疆一直是个与众不同者，一个不举行民主选举的共和国。
 8. → see also
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 oddly    [美 'ɑdli / 英 'ɒdlɪ]
@@ -16744,19 +16034,14 @@ adv. 古怪地；奇妙地；单数地
    ≫   He said no and seemed oddly reluctant to talk about it.  他说了不，而且很奇怪他似乎不愿谈论这件事。
    ≫   Oddly, Emma says she never considered her face to be attractive.  奇怪，埃玛说她从来都不认为她的脸蛋吸引人。
 2. → see also
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：685
 heliotrope    [美 ˈhiːliətroʊp / 英 ˈhiːliətrəʊp]
 n. 天芥菜属植物；[植] 向阳植物；淡紫色；鸡血石
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) any boraginaceous plant of the genus Heliotropium, esp the South American H. arborescens, cultivated for its small fragrant purple flowers 任一一种天芥菜属植物
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：721
 dryad    [美 ˈdraɪæd / 英 ˈdraɪæd]
 n. 德律阿得斯（希腊神话中的树神）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16774,7 +16059,6 @@ CET4 TEM4
    ≫   He made it to the summit of Kilimanjaro before collapsing.  他成功登上乞力马扎罗山峰顶后倒下了。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 conceal    [美 kən'sil / 英 kən'siːl]
 vt. 隐藏；隐瞒
 CET4 TEM4
@@ -16787,16 +16071,12 @@ CET4 TEM4
    ≫   ...a pair of carved Indian doors which conceal a built-in cupboard.  …一对遮挡嵌入壁橱的印度式雕花门。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：685
 heliotrope    [美 ˈhiːliətroʊp / 英 ˈhiːliətrəʊp]
 n. 天芥菜属植物；[植] 向阳植物；淡紫色；鸡血石
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) any boraginaceous plant of the genus Heliotropium, esp the South American H. arborescens, cultivated for its small fragrant purple flowers 任一一种天芥菜属植物
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：721
 dryad    [美 ˈdraɪæd / 英 ˈdraɪæd]
 n. 德律阿得斯（希腊神话中的树神）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -16814,7 +16094,6 @@ CET4 TEM4
    ≫   He made it to the summit of Kilimanjaro before collapsing.  他成功登上乞力马扎罗山峰顶后倒下了。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 conceal    [美 kən'sil / 英 kən'siːl]
 vt. 隐藏；隐瞒
 CET4 TEM4
@@ -16838,10 +16117,8 @@ CET4 TEM4
    ≫   She resolved to report the matter to the hospital's nursing supervisor.  她决心把这件事向该医院的护士长汇报。
 3. [正式] Resolve is determination to do what you have decided to do. 决心
    ≫   So you're saying this will strengthen the American public's resolve to go to war if necessary?  那么你是说，这将会坚定美国公众在必要时参战的决心？
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 salute    [美 sə'lut / 英 sə'l(j)uːt]
 n. 致敬，欢迎；敬礼
 vt. 行礼致敬，欢迎
@@ -16869,13 +16146,10 @@ CET4 TEM4
    ≫   The dimensions of the market collapse, in terms of turnover and price, were certainly not anticipated.  股市崩盘的规模，无论从成交量还是价格来看，都是出乎意料的。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：586
 Sapphire Rapids
 蓝宝石急流
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 sapphire    [美 'sæfaɪɚ / 英 'sæfaɪə]
 n. 蓝宝石；[宝] 青玉；天蓝色
 adj. 天蓝色的
@@ -16886,7 +16160,6 @@ adj. 天蓝色的
    ≫   ...white snow and sapphire skies.  …白雪和蓝天。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 emerald    [美 'ɛmərəld / 英 'em(ə)r(ə)ld]
 n. 绿宝石；[宝] 祖母绿；翠绿色
 adj. 翠绿色的
@@ -16919,7 +16192,6 @@ CET4 TEM4
    ≫   ...over-the-counter medicines.  …非处方药。
 7. [商业] Over-the-counter shares are bought and sold directly rather than on a stock exchange. 不通过交易所的
    ≫   In national over-the-counter trading yesterday, Clarcor shares tumbled $6.125 to close at $35.625.  昨天在全国场外交易中，克拉克股票跌$6.125，以$35.625收盘。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 disproportionately    [,disprə'pɔ:ʃənitli / 英 ,disprə'pɔ:ʃənitli]
@@ -16928,10 +16200,8 @@ adv. 不成比例地
 ≫   His successors have typically been at least one of those—though they have disproportionately come from Wall Street. 他的继任者们典型地至少和他有一点共同之处— 尽管他们都不合比例地来自华尔街。
 ≫   Johnson’s aversion to this tax was part of his reluctance to ask for any sacrifices for the Vietnam War -- except from the disproportionately blue-collar army that was fighting it. 约翰逊对这项税的反感，部分是因为除了浴血奋战的不成比例的蓝领军人外，他犹豫要不要要求其他人为越战做出一点点牺牲。
 ≫   For some diseases that disproportionately affect Africa, better drugs and new vaccines are badly needed, yet incentives for research and development are biased towards markets that can pay. 对于严重影响非洲的一些疾病，非常需要更好的药物和新疫苗，然而鼓励研究与开发的措施却倒向能够生利的市场。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 proportionate    [美 prə'pɔrʃənɪt / 英 prə'pɔːʃ(ə)nət]
 adj. 成比例的；相称的；适当的
 vt. 使成比例；使相称
@@ -16942,13 +16212,6 @@ vt. 使成比例；使相称
    ≫   We have increased the number of teachers but the size of the classes hasn't changed proportionately.  我们已增加了教师的数量，但班级的大小并没有成比例地改变。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1154
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1184
 proport
 vt. <非正式，方>公开表示，宣称
 
@@ -16972,7 +16235,6 @@ CET4 TEM4
    ≫   Children tend to have relatively larger heads than adults in proportion to the rest of their body.  与身体其余部位相比，孩子头部所占比例往往比成人大。
 7. (PHRASE) If you say that something is out of all proportion to something else, you think that it is far greater or more serious than it should be. (与…) 完全不成比例
    ≫   The punishment was out of all proportion to the crime.  惩罚和罪行完全不成比例。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 paraphrase    [美 ˈpærəfreɪz / 英 'pærəfreɪz]
@@ -16986,10 +16248,8 @@ TEM4
    ≫   Baxter paraphrased the contents of the press release.  巴克斯特解释了新闻发布的内容。
 2. (N-COUNT) A paraphrase of something written or spoken is the same thing expressed in a different way. 释义; 改述
    ≫   The last two clauses were an exact quote rather than a paraphrase of Mr. Forth's remarks.  最后两个分句是对福思先生言论的准确引用而不是改述。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 corpus    [美 'kɔrpəs / 英 'kɔːpəs]
 n. [计] 语料库；文集；本金
 n. (Corpus)人名；(西)科尔普斯
@@ -17005,7 +16265,6 @@ TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [usu ADJ n] If there is a causal relationship between two things, one thing is responsible for causing the other thing. 因果关系的
    ≫   Rawlins stresses that it is impossible to prove a causal link between the drug and the deaths.  罗林斯强调说证实毒品与死亡之间的因果关系是不可能的。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 casual    [美 'kæʒʊəl / 英 'kæʒjʊəl; -zj-]
@@ -17024,12 +16283,9 @@ CET4 TEM4
 5. (ADV) casually 休闲地
    ≫   They were casually dressed.  他们穿着休闲。
 6. [英国英语] Casual work is done for short periods and not on a permanent or regular basis. 临时的
-≫  未找到守护进程，正在启动...
 
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1288
 Vally
 n. （Vally）人名；（科特）瓦利
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17047,7 +16303,6 @@ CET4 TEM4
    ≫   ...a wooded valley set against the backdrop of Monte Rosa.  …罗莎峰前一个林木繁茂的山谷。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 stretch    [美 strɛtʃ / 英 stretʃ]
 vt. 伸展,张开；（大量地）使用，消耗（金钱，时间）；使竭尽所能；使全力以赴；
 vi. 伸展；足够买（或支付）
@@ -17100,16 +16355,12 @@ CET4 TEM4
    ≫   Building a home from scratch can be both exciting and challenging.  白手起家既激动人心又具有挑战性。
 5. (PHRASE) If you say that someone is scratching their head, you mean that they are thinking hard and trying to solve a problem or puzzle. 绞尽脑汁思考
    ≫   The Institute spends a lot of time scratching its head about how to boost American productivity.  这家研究所花大量时间绞尽脑汁思考怎样推进美国的生产力。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2380
 Hsue-Shen Tsien
 Hsue-Shen钱
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 defence    [英 dɪ'fens /  dɪ'fens]
 n. 防御；防卫；答辩；防卫设备
 CET4 TEM4
@@ -17133,24 +16384,14 @@ CET4 TEM4
    ≫   He realized none of his schoolmates would come to his defence.  他意识到没有一个同学会来为他辩护。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2455
 defence
 n. 防御，防御物；国防；辩护，答辩；辩方，辩护律师；防守队员，后卫；卫冕 v. 防御，防守 [ 复数 defences ]
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2494
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2532
 defence date
 国防日期
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 aeronautics    [美 ,ɛrə'nɔtɪks / 英 eərə'nɔːtɪks]
 n. 航空学；飞行术
 TEM4
@@ -17158,18 +16399,10 @@ TEM4
 1. (N-UNCOUNT) Aeronautics is the science of designing and building aeroplanes. 航空学
 
 ========================================================================
-Not found :(
-≫  未找到守护进程，正在启动...
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2695
 HSUE-SHEN TSIEN
 HSUE-SHEN钱
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2764
 superaerodynamics    [英 ˈsjuːpəˈreərəʊdaɪˈnæmɪks]
 稀薄气体动力学
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17203,7 +16436,6 @@ CET4 TEM4
    ≫   Ferris has a rare ability to record her observations on paper.  费里斯有将自己的观察结果以书面形式记录下来的杰出能力。
 4. (ADJ) Meat that is rare is cooked very lightly so that the inside is still red. (肉类) 半熟的
    ≫   Thick tuna steaks are eaten rare, like beef.  厚厚的金枪鱼片要半熟吃，就像牛肉一样。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 rarefied    ['rεərifaid]
@@ -17213,7 +16445,6 @@ adj. 稀薄的；纯化的
    ≫   It is important for the state's future administrators to get out of the rarefied air of the capital.  对该国未来的统治者来说，摆脱首都高高在上的氛围十分重要。
 2. (ADJ) Rarefied air is air that does not contain much oxygen, for example in mountain areas. (空气)稀薄的; 含氧量少的
    ≫   ...living at very high altitudes where the atmosphere is rarefied.  ...生活在空气稀薄的高海拔地区。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 procrastination    [美 pro,kræstə'neʃən / 英 prə(ʊ),kræstɪ'neɪʃ(ə)n]
@@ -17222,11 +16453,8 @@ n. 耽搁，拖延；拖延症
 ≫   We are all familiar with the procrastination phenomenon. 对拖延现象我们是再熟悉不过了。
 ≫   So, if you think you have an issue with procrastination, start by  separating your actions from your thoughts. 所以，如果你认为自己存在拖延的问题，尝试下把你的行为和思维分开。
 ≫   Your first child, your son, showed you that despite doubt, fear and procrastination, when he arrived he was immediately your deepest and most profound love. 你的第一个孩子，你的儿子，向你显示出，尽管怀疑、恐惧和拖延，当他到来时，他立刻是你的最深最深的爱。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3159
 lottery ticket
 彩票：一张在彩票中抽取的纸条，可能可以兑换成奖品的纸条。
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17254,10 +16482,8 @@ CET4 TEM4
    ≫   The company said it was recalling one of its drugs and had stopped selling two others.  该公司说它正在召回它的一种药品，而且已经停售了另外两种药品。
 6. (N-COUNT) Recall is also a noun. 召回
    ≫   ...a recall of the laptops due to defective supply parts.  …因为有缺陷的配件而对笔记本电脑的召回。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 counters    [美 'kaʊntɚ]
 n. [核][电子] 计数器；计数器组件（counter的复数）
 v. 反击；抵制（counter的第三人称单数）
@@ -17281,7 +16507,6 @@ CET4 TEM4
    ≫   In national over-the-counter trading yesterday, Clarcor shares tumbled $6.125 to close at $35.625.  昨天在全国场外交易中，克拉克股票跌$6.125，以$35.625收盘。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 SU    [,ɛs 'ju]
 abbr. 后勤部队（Service Unit）
 n. (Su)人名；(土、柬)苏；(中)苏(普通话·威妥玛)
@@ -17289,8 +16514,6 @@ n. (Su)人名；(土、柬)苏；(中)苏(普通话·威妥玛)
 1. (ABBREVIATION for) strontium unit 锶单位
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3331
 CCCP
 abbr. 共产党中央委员会（Central Committee of Communist Party）；苏维埃社会主义共和国联盟；碳酰氰基-对-氯苯腙；解码器安装包（Combined Community Codec Pack）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17299,8 +16522,6 @@ abbr. 共产党中央委员会（Central Committee of Communist Party）；苏�
 ≫   CCCP and State council regards enhance the national health care system reform remarked the China health sector reform entering a new historical period. 新医改方案的公布实旋，标志着中国医约卫生体制改革已进入了崭新的历史阶段。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3361
 苏联
 the Soviet Union
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17321,7 +16542,6 @@ TEM4
 3. (N-COUNT) A soviet was an elected local, regional, or national council in the former Soviet Union. (前苏联地方、区域或国家)代表议会
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 commodity    [美 kə'mɑdəti / 英 kə'mɒdɪtɪ]
 n. 商品，货物；日用品
 CET6 TEM4
@@ -17336,10 +16556,8 @@ n. 蒸馏，净化；蒸馏法；精华，蒸馏物
 ≫   As alchemy evolved into the science of chemistry, vessels called retorts became used for distillations . 随着炼金术发展成为化学，叫作曲颈瓶的容器开始用于蒸馏。
 ≫   World heritage, national famous scenic areas are distillations of our country' s landscape, are the testimony of our history and civilization. 世界遗产、国家风景区是祖国壮丽河山的缩影是国土景观的精华，是祖国文明历史的见证。
 ≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 orthogonal    [美 ɔr'θɑgənəl / 英 ɔː'θɒg(ə)n(ə)l]
 adj. [数] 正交的；直角的
 n. 正交直线
@@ -17347,7 +16565,6 @@ n. 正交直线
 1. (ADJ) relating to, consisting of, or involving right angles; perpendicular 直角的; 垂直的
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 primary    [美 'praɪmɛri / 英 'praɪm(ə)rɪ]
 adj. 主要的；初级的；基本的
 n. 原色；最主要者
@@ -17365,7 +16582,6 @@ CET4 TEM4
    ≫   ...the 1968 New Hampshire primary.  …1968年新罕布什尔州的初选。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 context    [美 'kɑntɛkst / 英 'kɒntekst]
 n. 环境；上下文；来龙去脉
 CET4 TEM4
@@ -17381,8 +16597,6 @@ CET4 TEM4
    ≫   Thomas says that he has been quoted out of context.  托马斯说，他的话被断章取义了。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3618
 in the context of
 在……情况下；在……背景下
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17411,7 +16625,6 @@ CET4 TEM4
    ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
    ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
 7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 magnitude    [美 'mæɡnɪtud / 英 'mægnɪtjuːd]
@@ -17422,10 +16635,8 @@ CET6 TEM8
    ≫   An operation of this magnitude is going to be difficult.  一个这么大的手术会很难的。
 2. (PHRASE) You can use order of magnitude when you are giving an approximate idea of the amount or importance of something. 重要级; 数量级
    ≫   America and Russia do not face a problem of the same order of magnitude as Japan.  美俄两国没有面临与日本同样的重要级别的问题。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 illustration    [美 ,ɪlə'streʃən / 英 ɪlə'streɪʃ(ə)n]
 n. 说明；插图；例证；图解
 CET4 TEM4
@@ -17452,7 +16663,6 @@ CET4 TEM4
 4. (N) the superior of a house and community in certain religious orders (一些宗教教派中的社区)长老; 德高望重者
 5. [正式] If something happens prior to a particular time or event, it happens before that time or event. 在 (某时间或事件) 之前
    ≫   A death prior to 65 is considered to be a premature death.  65岁以前的死亡被认为是过早死亡。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
@@ -17475,11 +16685,8 @@ CET4 TEM4
    ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
    ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
 7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：3914
 in this context
 在这种情境下：指在特定的背景、环境或情况下。
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17503,7 +16710,6 @@ CET4 TEM4
    ≫   Thomas says that he has been quoted out of context.  托马斯说，他的话被断章取义了。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 content    [美 'kɑntɛnt / 英 kən'tent]
 n. 内容，目录；满足；容量
 adj. 满意的
@@ -17541,7 +16747,6 @@ CET6 TEM8
    ≫   An operation of this magnitude is going to be difficult.  一个这么大的手术会很难的。
 2. (PHRASE) You can use order of magnitude when you are giving an approximate idea of the amount or importance of something. 重要级; 数量级
    ≫   America and Russia do not face a problem of the same order of magnitude as Japan.  美俄两国没有面临与日本同样的重要级别的问题。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 fragile    [美 'frædʒəl / 英 'frædʒaɪl]
@@ -17556,10 +16761,8 @@ CET6 TEM4
    ≫   He leaned back in his fragile chair.  他向后靠在他那把不结实的椅子上。
 4. (N-UNCOUNT) fragility 易碎性
    ≫   Older drivers are more likely to be seriously injured because of the fragility of their bones.  年纪较大的司机因骨骼易碎而更可能会受重伤。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 perturb    [美 pɚ'tɝb / 英 pə'tɜːb]
 vt. 扰乱；使…混乱；使…心绪不宁
 TEM8
@@ -17568,8 +16771,6 @@ TEM8
    ≫   What perturbs me is that magazine articles are so much shorter nowadays.  让我不安的是现在杂志文章都短多了。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4221
 pertubation
 n. 输卵管灌气法
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17605,11 +16806,8 @@ CET4 TEM4
    ≫   A few days after his collapse he was sitting up in bed.  他病倒后过了几天就在床上起身坐着了。
 7. (V-I) If you collapse onto something, you sit or lie down suddenly because you are very tired. (因极度疲倦而) 瘫坐; 瘫倒
    ≫   She arrived home exhausted and barely capable of showering before collapsing on her bed.  她到家的时候累极了，几乎无法去淋浴就瘫倒在床上。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4387
 saliency    [美 ˌseɪlɪənsi / 英 ˈseɪlɪənsi]
 n. 显著；卓越；特点；凸起
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17618,15 +16816,8 @@ n. 显著；卓越；特点；凸起
 ≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4458
 weight saliency metrics
 权重显著性指标
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4541
-Not found :(
 
 ========================================================================
 demonstrate    [美 'dɛmən'stret / 英 'demənstreɪt]
@@ -17644,7 +16835,6 @@ CET4 TEM4
    ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
 4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
    ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 conjunction    [美 kən'dʒʌŋkʃən / 英 kən'dʒʌŋ(k)ʃ(ə)n]
@@ -17656,10 +16846,8 @@ CET4 TEM4
 2. (N-COUNT) In grammar, a conjunction is a word or group of words that joins together words, groups, or clauses. In English, there are coordinating conjunctions such as "and" and "but," and subordinating conjunctions such as "although," "because," and "when." 连词
 3. [usu PHR 'with' n] If one thing is done in conjunction with another, the two things are done or used together. 与…一起 (做、用)
    ≫   Textbooks are designed to be used in conjunction with classroom teaching.  教科书被设计成与课堂教学配合使用。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 rectangular    [美 rɛk'tæŋgjəlɚ / 英 rek'tæŋgjʊlə]
 adj. 矩形的；成直角的
 CET6 TEM4
@@ -17668,7 +16856,6 @@ CET6 TEM4
    ≫   ...a rectangular table.  …一张长方形的桌子。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 formulation    [美 ,fɔrmjə'leʃən / 英 fɔːmjʊ'leɪʃn]
 n. 构想，规划；公式化；简洁陈述
 TEM8
@@ -17680,7 +16867,6 @@ TEM8
 3. [英国英语] The formulation of something such as a medicine or a beauty product is the way in which different ingredients are combined to make it. You can also say that the finished product is a formulation. (药品或化妆品的) 配方; 配方产品
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 individual    [美 ˌɪndɪˈvɪdʒuəl / 英 ˌɪndɪˈvɪdʒuəl]
 adj. 单独的，个别的；个人的；独特的，与众不同的
 n. 个人，个体；与众不同的人，有个性的人；某种类型的人
@@ -17696,8 +16882,6 @@ n. 个人，个体；与众不同的人，有个性的人；某种类型的人
    ≫   It was really all part of her very individual personality.  那确实是她非常独特个性的全部。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4804
 saliency    [美 ˌseɪlɪənsi / 英 ˈseɪlɪənsi]
 n. 显著；卓越；特点；凸起
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17706,8 +16890,6 @@ n. 显著；卓越；特点；凸起
 ≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4865
 saliency metrics
 卓越指标
 
@@ -17721,7 +16903,6 @@ TEM8
 2. (N-UNCOUNT) The formulation of something such as a policy or plan is the process of creating or inventing it. 制订
    ≫   ...the process of policy formulation and implementation.  …政策制订及执行过程。
 3. [英国英语] The formulation of something such as a medicine or a beauty product is the way in which different ingredients are combined to make it. You can also say that the finished product is a formulation. (药品或化妆品的) 配方; 配方产品
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 formulation    [美 ,fɔrmjə'leʃən / 英 fɔːmjʊ'leɪʃn]
@@ -17733,10 +16914,8 @@ TEM8
 2. (N-UNCOUNT) The formulation of something such as a policy or plan is the process of creating or inventing it. 制订
    ≫   ...the process of policy formulation and implementation.  …政策制订及执行过程。
 3. [英国英语] The formulation of something such as a medicine or a beauty product is the way in which different ingredients are combined to make it. You can also say that the finished product is a formulation. (药品或化妆品的) 配方; 配方产品
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 intuitively    [ɪn'tjʊɪtɪvli]
 adv. 直观地；直觉地
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17745,7 +16924,6 @@ adv. 直观地；直觉地
 ≫   One way to think about this intuitively if the derivative is very large the function is changing quickly, and therefore we want to take small steps. 关于这个方法很直观的一点想法是,如果导数非常大,函数也就变化的非常快，因此我们想一小步一小步的来。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 tolerable    [美 'tɑlərəbl / 英 'tɒl(ə)rəb(ə)l]
 adj. 可以的；可容忍的
 TEM4
@@ -17756,8 +16934,6 @@ TEM4
    ≫   Their captors treated them tolerably well.  俘获他们的人待他们勉强还过得去。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：5087
 Platon
 n. 普拉登（姓氏）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -17781,7 +16957,6 @@ n. 弯曲，[数] 曲率
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [oft N 'of' n] The curvature of something is its curved shape, especially when this shape is part of the circumference of a circle. 圆弧
    ≫   ...the curvature of the earth.  ...地球的曲度。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 wham    [美 wæm / 英 wæm]
@@ -17792,7 +16967,6 @@ n. (Wham)人名；(英)惠姆
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [非正式] You use wham to indicate that something happens suddenly or forcefully. 砰; 突然或剧烈的声响
    ≫   Then I met someone and wham, bam, I was completely in love.  然后我遇上了一个人，嘭的一下，我就恋爱了。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 Oder    ['oʊdər]
@@ -17814,12 +16988,6 @@ v. 命令，指示；就……下令；订购，订货；（为某人）叫出�
    ≫   We need to get rid of the idea that we must be liked all the time in order to be worthwhile.  我们需要摆脱那种必须一直受人爱戴才有价值的观念。
 3. (PHRASE) If something must happen in order for something else to happen, the second thing cannot happen if the first thing does not happen. 为了使
    ≫   In order for their computers to trace a person's records, they need both the name and address of the individual.  为了使他们的计算机跟踪某个人的记录，他们需要这个人的名字和地址。
-≫  未找到守护进程，正在启动...
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1139
-Not found :(
 
 ========================================================================
 tomcat    [美 'tɑmkæt / 英 'tɒmkæt]
@@ -17828,12 +16996,6 @@ n. 公猫；到处找女人鬼混的男子
 ≫   After running the above command, your orderapp code is deployed in the Tomcat server environment as the orderapp.war file. 在运行上述命令之后，您的 orderapp 代码将作为 orderapp.war 文件部署在 Tomcat 服务器环境中。
 ≫   If you now run your application using mvn tomcat:run, you will not see any logs on the console because you have not configured any bean to monitor. 如果您现在 使用 mvn tomcat:run 运行您的应用程序，您在控制台不会看到任何 日志，因为您还没有配置任何要监控的 bean。
 ≫   In addition, through projects such as WADI, session replication can be added to servlet containers such as Tomcat or Jetty through the servlet filtering mechanism. 此外，通过像 WADI 这样的项目，可以用 servlet 过滤机制将会话复制添加到像 Tomcat 或者 Jetty 这样的 servlet 容器中。
-≫  未找到守护进程，正在启动...
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1344
-Not found :(
 
 ========================================================================
 daemon    [美 ˈdiːmən / 英 ˈdiːmən]
@@ -17842,7 +17004,6 @@ n. 魔鬼，恶魔（同 demon）；守护进程；后台程序；虚拟光驱�
 ≫   The refresh daemon is running. 刷新守护进程正在运行。
 ≫   The daemon then executes them, well, like clockwork. 然后，这个守护进程就按照配置执行它们。
 ≫   This file is used by the administration server daemon. 这个文件由管理服务器守护进程使用。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 
@@ -17867,22 +17028,12 @@ n. 延森（姓氏）
 ≫   Anderson shouted and pulled Jensen away from the door. 安德森先生大叫一声，把延森从门边拉开。
 ≫   Officials from the CDC and the Food and Drug Administration say that any cantaloupes not from Jensen Farms are safe to eat. 在这里输入译文 疾控预防中心和食品药品管理局的官员们表示，非延森农场所产的蜜瓜可以放心食用。
 ≫   "I want to tell you something strange," Jensen said to Anderson."My room has three windows in the day and only two at night.Perhaps you think I am mad. 延森对安得森说：“我想告诉你件怪事，我的房间白天有三个窗户而晚上变成两个，也许你会以为我疯了。”
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2171
 jensen huang
 黄仁勋：黄仁勋（英语：Jen-Hsun "Jensen" Huang，1963年2月17日—），台裔美国人企业家，图形芯片公司NVIDIA（英伟达）的共同创办人暨首席执行官。
 
 ========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2214
-Not found :(
-
-========================================================================
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：2256
 jen-hsun huang
 黄仁勋表示
 
@@ -17895,10 +17046,8 @@ CET4 TEM4
 1. (ADJ) Someone or something that is influential has a lot of influence over people or events. 有影响力的; 有权势的
    ≫   It helps to have influential friends.  交上几个有权势的朋友很有好处。
    ≫   He had been influential in shaping economic policy.  他在制定经济政策方面曾起过很大作用。
-≫  未找到守护进程，正在启动...
 
 ========================================================================
-≫  未找到守护进程，正在启动...
 expect    [美 ɪk'spɛkt / 英 ɪkˈspekt]
 vt. 期望；指望；认为；预料
 vi. 期待；预期
@@ -18012,7 +17161,6 @@ CET4 TEM4
 8. (N-UNCOUNT) Transfer is also a noun. 转录
    ≫   It can be connected to a PC for the transfer of information.  它可以连接到个人电脑上进行信息转录。
 9. [英国英语] Transfers are pieces of paper with a design on one side. The design can be transferred onto a surface by heating it, soaking it in water, or pressing it hard. 贴纸
-≫  未找到守护进程，正在启动...
 
 ========================================================================
 base    [美 bes / 英 beɪs]
@@ -18086,9 +17234,6 @@ n. 阿尔佛雷德（男子名）
 ≫   "On going around with the boys, I guess." said Alfred. “我想是和朋友们一起出去，”艾尔弗雷德说。
 ≫   I admire Jay's and Alfred's translations, but I just do my own thing, my own take on what Murakami should sound like in English. 我很欣赏杰和阿尔弗雷德的译文，但我只会做我自己的事情。 我在翻译中坚持译文应该是地道的目标语言。
 ≫   Neither Alfred nor I had had any training as teachers, and I at least had no books for the lessons in French, maths and physics that I was supposed to give. 阿尔弗雷德来自南罗得西亚，我俩谁也没有接受过任何正规的教学培训，至少，我连任何要教授的法语、数学和物理课程的书籍都没有。
-
-========================================================================
-Not found :(
 
 ========================================================================
 handle    [美 'hændl / 英 'hænd(ə)l]
