@@ -17353,3 +17353,35 @@ abbr. 英语专业四级考试（Test for English Majors Band 4）
 ≫   I have passed the TEM4, TEM4-Oral Exams and National Computer Grade 2 Exam. 我已经通过了英语专业四级，英语专业四级口语考试和国家计算机2级考试。
 ------------------------------------------------------------------------
 
+========================================================================
+>>> nil
+------------------------------------------------------------------------
+nil    [美 nɪl / 英 nɪl]
+n. 无，零
+n. (Nil)人名；(阿拉伯、土、土库、阿塞、哈萨、塔吉、吉尔、乌兹、匈)尼尔；(柬)尼
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you say that something is nil, you mean that it does not exist at all. 不存在
+   ≫   Their legal rights are virtually nil.  他们的法定权利实际上不存在。
+------------------------------------------------------------------------
+
+========================================================================
+>>> assigned
+------------------------------------------------------------------------
+assigned    [美 ə'saɪnd / 英 əˈsaɪnd]
+adj. 指定的；已分配的
+v. 分配（assign的过去分词）；指定；委派
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you assign a piece of work to someone, you give them the work to do. 布置 (任务)
+   ≫   When I taught, I would assign a topic to children that they would write about.  教书时，我会给孩子们布置个写作题。
+   ≫   Later in the year, she'll assign them research papers.  今年晚些时候，她将给他们布置论文。
+2. (V-T) If you assign something to someone, you say that it is for their use. 分配 (某物)
+   ≫   The selling broker is then required to assign a portion of the commission to the buyer broker.  卖方经纪人则被要求分给买方经纪人一部分佣金。
+3. [usu passive] If someone is assigned to a particular place, group, or person, they are sent there, usually in order to work at that place or for that person. 分派
+   ≫   I was assigned to Troop A of the 10th Cavalry.  我被分派到了第10装甲部队的A大队。
+   ≫   Did you choose Russia or were you simply assigned there?  你选择了俄罗斯还是只是被派到了那里？
+4. (V-T) If you assign a particular function or value to someone or something, you say they have it. 赋予 (某功能或价值)
+   ≫   Under the system, each business must assign a value to each job.  在这种制度下，每家企业必须赋予每份工作某种价值。
+------------------------------------------------------------------------
+
