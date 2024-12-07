@@ -17816,3 +17816,17 @@ v. 命令，指示；就……下令；订购，订货；（为某人）叫出�
    ≫   In order for their computers to trace a person's records, they need both the name and address of the individual.  为了使他们的计算机跟踪某个人的记录，他们需要这个人的名字和地址。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1139
+Not found :(
+
+========================================================================
+tomcat    [美 'tɑmkæt / 英 'tɒmkæt]
+n. 公猫；到处找女人鬼混的男子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   After running the above command, your orderapp code is deployed in the Tomcat server environment as the orderapp.war file. 在运行上述命令之后，您的 orderapp 代码将作为 orderapp.war 文件部署在 Tomcat 服务器环境中。
+≫   If you now run your application using mvn tomcat:run, you will not see any logs on the console because you have not configured any bean to monitor. 如果您现在 使用 mvn tomcat:run 运行您的应用程序，您在控制台不会看到任何 日志，因为您还没有配置任何要监控的 bean。
+≫   In addition, through projects such as WADI, session replication can be added to servlet containers such as Tomcat or Jetty through the servlet filtering mechanism. 此外，通过像 WADI 这样的项目，可以用 servlet 过滤机制将会话复制添加到像 Tomcat 或者 Jetty 这样的 servlet 容器中。
+≫  未找到守护进程，正在启动...
+
