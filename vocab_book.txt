@@ -17385,3 +17385,62 @@ CET4 TEM4
    ≫   Under the system, each business must assign a value to each job.  在这种制度下，每家企业必须赋予每份工作某种价值。
 ------------------------------------------------------------------------
 
+========================================================================
+>>> imitation
+------------------------------------------------------------------------
+imitation    [美 ,ɪmɪ'teʃən / 英 ɪmɪ'teɪʃ(ə)n]
+n. 模仿，仿造；仿制品
+adj. 人造的，仿制的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An imitation of something is a copy of it. 仿造品
+   ≫   ...the most accurate imitation of Chinese architecture in Europe.  …欧洲最逼真的仿中国建筑。
+2. (N-UNCOUNT) Imitation means copying someone else's actions. 动作模仿
+   ≫   They discussed important issues in imitation of their elders.  他们模仿长辈的口气讨论重大问题。
+3. [ADJ n] Imitation things are not genuine but are made to look as if they are. 人造的; 仿造的
+   ≫   ...a complete set of Dickens bound in imitation leather.  …用人造革装帧的一整套《狄更斯全集》。
+4. (N-COUNT) If someone does an imitation of another person, they copy the way they speak or behave, sometimes in order to be funny. (有时是为逗乐而) 学样
+   ≫   One boy did an imitation of a soldier with a loudspeaker.  一个男孩拿着扬声器学着士兵的样子。
+------------------------------------------------------------------------
+
+========================================================================
+>>> originality
+------------------------------------------------------------------------
+originality    [美 ə'rɪdʒə'næləti / 英 ə,rɪdʒɪ'nælɪtɪ]
+n. 创意；独创性，创造力；原始；新奇
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But What About Originality? 但是关于创意呢 ？
+≫   Although he maintained a claim to some originality in his thought, Cicero’s dialogues are principally a ‘pick and mix’ of the three leading Greek philosophical schools. 尽管西塞罗一直强调他的某些思想的独创性，但他的对话录主要还是希腊三大哲学派别的精选和混合。
+≫   The pair rapping in Huilliche have a ways to go in their delivery and, judging from the Spanish lyrics, originality. 从（翻译过来的）西班牙语歌词判断，那对用维利切语说唱的歌手有他们自己的演唱风格和创意。
+------------------------------------------------------------------------
+
+========================================================================
+>>> origin
+------------------------------------------------------------------------
+origin    [美 'ɔrɪdʒɪn / 英 'ɒrɪdʒɪn]
+n. 起源；原点；出身；开端
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to the beginning, cause, or source of something as its origin or origins. 起源; 起因
+   ≫   ...theories about the origin of life.  …有关生命起源的各种理论。
+   ≫   Their medical problems are basically physical in origin.  他们的疾病基本是身体上的问题造成的。
+2. [usu poss N, also 'of/in' N] When you talk about a person's origin or origins, you are referring to the country, race, or living conditions of their parents or ancestors. 出身; 血统
+   ≫   Thomas has not forgotten his humble origins.  托马斯没有忘记他卑微的出身。
+   ≫   ...people of Asian origin.  …亚洲血统的人。
+------------------------------------------------------------------------
+
+========================================================================
+>>> dialogue
+------------------------------------------------------------------------
+dialogue    [美 ˈdaɪəˌlɔɡ / 英 'daɪəlɒg]
+n. 对话；意见交换
+vi. 对话
+vt. 用对话表达
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Dialogue is communication or discussion between people or groups of people such as governments or political parties. 对话
+   ≫   People of all social standings should be given equal opportunities for dialogue.  社会各阶层的人都应该被给予平等对话的机会。
+2. (N-VAR) A dialogue is a conversation between two people in a book, film, or play. (书籍、影视、戏剧中的) 对白
+   ≫   Although the dialogue is sharp, the actors move too awkwardly around the stage.  尽管对白很清晰，但演员们在舞台上的动作却太不自然。
+------------------------------------------------------------------------
+
