@@ -17472,3 +17472,13 @@ CET4 TEM4
    ≫   His engaging personality made him popular with his peers.  他迷人的个性使他很受同龄人欢迎。
 3. (N) a member of a nobility; nobleman 贵族
 
+========================================================================
+>>> engaging
+------------------------------------------------------------------------
+engaging    [美 ɪn'ɡedʒɪŋ / 英 ɪn'geɪdʒɪŋ; en-]
+adj. 迷人的
+v. 参加（engage的ing形式）；保证；雇用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An engaging person or thing is pleasant, interesting, and entertaining. 迷人的
+   ≫   ...one of her most engaging and least known novels.  …她最迷人却最鲜为人知的小说之一。
+
