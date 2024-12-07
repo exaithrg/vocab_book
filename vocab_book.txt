@@ -17597,3 +17597,22 @@ n．怀疑，疑虑：对事物的真实性、准确性或可靠性的不确定�
 11. (CONVENTION) You say I doubt it as a response to a question or statement about something that you think is untrue or unlikely. 我不信
    ≫   "Somebody would have seen her."—"I doubt it, not on Monday."  “有人可能见过她。”—“我不信，不可能在星期一。”
 
+========================================================================
+>>> vocabularay
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> vocabulary
+------------------------------------------------------------------------
+vocabulary    [美 və'kæbjəlɛri / 英 və(ʊ)'kæbjʊlərɪ]
+n. 词汇；词表；词汇量
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your vocabulary is the total number of words you know in a particular language. 词汇量
+   ≫   His speech is immature, his vocabulary limited.  他讲话不成熟，词汇量也有限。
+2. (N-SING) The vocabulary of a language is all the words in it. 某一语言的总词汇量
+   ≫   ...a new word in the German vocabulary.  …德语词汇中的一个新词。
+3. (N-VAR) The vocabulary of a subject is the group of words that are typically used when discussing it. (某学科的) 专门词汇
+   ≫   ...the vocabulary of natural science.  …自然科学词汇。
+
