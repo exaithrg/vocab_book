@@ -17456,3 +17456,19 @@ Not found :(
 Not found :(
 ------------------------------------------------------------------------
 
+========================================================================
+>>> peer
+------------------------------------------------------------------------
+peer    [美 pɪr / 英 pɪə]
+n. 贵族；同等的人；同龄人
+vi. 凝视，盯着看；窥视
+vt. 封为贵族；与…同等
+n. (Peer)人名；(英、巴基)皮尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you peer at something, you look at it very hard, usually because it is difficult to see clearly. 费力地看; 盯着
+   ≫   I had been peering at a computer print-out that made no sense at all.  我一直在费力地看一份不知所云的电脑打印稿。
+2. (N-COUNT) Your peers are the people who are the same age as you or who have the same status as you. 同龄人; 同等地位的人
+   ≫   His engaging personality made him popular with his peers.  他迷人的个性使他很受同龄人欢迎。
+3. (N) a member of a nobility; nobleman 贵族
+
