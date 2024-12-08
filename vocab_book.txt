@@ -17941,3 +17941,13 @@ CET6 TEM4
 3. (PHRASE) If you are on the threshold of something exciting or new, you are about to experience it. 即将经历
    ≫   We are on the threshold of a new era in astronomy.  我们将迈入天文学的新时代。
 
+========================================================================
+>>> tonnage
+------------------------------------------------------------------------
+tonnage    [美 'tʌnɪdʒ / 英 'tʌnɪdʒ]
+n. 吨位，载重量；船舶总吨数，排水量
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] The tonnage of a ship is its size or the amount of space that it has inside it for cargo. 吨位
+2. (N-VAR) Tonnage is the total number of tons that something weighs, or the total amount that there is of it. 吨数
+
