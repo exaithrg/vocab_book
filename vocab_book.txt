@@ -17951,3 +17951,26 @@ TEM4
 1. [技术] The tonnage of a ship is its size or the amount of space that it has inside it for cargo. 吨位
 2. (N-VAR) Tonnage is the total number of tons that something weighs, or the total amount that there is of it. 吨数
 
+========================================================================
+>>> luft
+------------------------------------------------------------------------
+Luft
+n. （德）空气；勒夫特（男子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The social polarisation that Mr Luft identifies “is not nearly as bad as in France”. Luft identifies 说社会两极化也不像法国那么严重。
+≫   Brazil is "falling to pieces", lamented Lya Luft, a columnist for Veja, the biggest news magazine, last year. 去年，巴西最大的新闻杂志veja的专栏作家Lya Luft哀叹：“巴西是满目疮痍啊！”
+≫   If it is possible to make some luft for your king, without serious loss of time or weakening your king's defenses, it is well worth considering. 可能的话，在不严重地丧失时机或削弱王的防御的情形下，值得考虑给王造个“通风口”。
+
+========================================================================
+>>> waffe
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> luftwaffe
+------------------------------------------------------------------------
+Luftwaffe    ['luft,vɑ:fə / 英 'luft,vɑ:fə]
+n. （二战时期的）纳粹德国空军
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the German Air Force (纳粹时代)德国空军
+
