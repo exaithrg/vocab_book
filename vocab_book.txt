@@ -18535,3 +18535,59 @@ CET4 TEM4
 1. (N-COUNT) A volcano is a mountain from which hot melted rock, gas, steam, and ash from inside the earth sometimes burst. 火山
    ≫   The volcano erupted last year killing about 600 people.  去年那座火山喷发导致大约六百人丧生。
 
+========================================================================
+>>> candidates
+------------------------------------------------------------------------
+candidates    [美 'kændədets / 英 'kændɪdəts]
+n. 候选人；申请者；应征人员（candidate的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A candidate is someone who is being considered for a position, for example someone who is running in an election or applying for a job. 候选人
+   ≫   The Democratic candidate is still leading in the polls.  那名民主党候选人仍在民意测验中领先。
+   ≫   He is a candidate for the office of governor.  他是州长的候选人。
+2. [美国英语] A candidate is someone who is studying for a degree at a college. 攻读学位者
+   ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
+3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
+   ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
+
+========================================================================
+>>> ambiguous
+------------------------------------------------------------------------
+ambiguous    [美 æm'bɪɡjuəs / 英 æm'bɪgjʊəs]
+adj. 模糊不清的；引起歧义的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in more than one way. 模棱两可的
+   ≫   This agreement is very ambiguous and open to various interpretations.  这个协议非常模棱两可，可以有多种解释。
+2. (ADV) ambiguously 模棱两可地
+   ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
+
+========================================================================
+>>> pickle
+------------------------------------------------------------------------
+pickle    [英 'pɪk(ə)l / 美 'pɪkl]
+n. 泡菜；盐卤；腌制食品
+vt. 泡；腌制
+n. (Pickle)人名；(英)皮克尔
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Pickles are vegetables or fruit, sometimes cut into pieces, which have been kept in vinegar or salt water for a long time so that they have a strong, sharp taste. 泡菜
+   ≫   ...a bowl of sliced pickles in lemon juice.  …一碗浸在柠檬汁中的泡菜片。
+2. (N-MASS) Pickle is a cold spicy sauce with pieces of vegetables and fruit in it. 泡菜酱
+   ≫   ...jars of pickle.  …成罐的泡菜酱。
+3. (V-T) When you pickle food, you keep it in vinegar or salt water so that it does not go bad and it develops a strong, sharp taste. 腌制
+   ≫   Select your favourite fruit or veg and pickle them while they are still fresh.  挑选你最喜欢的水果或蔬菜，趁新鲜腌制起来。
+
+========================================================================
+>>> squad
+------------------------------------------------------------------------
+squad    [美 skwɑd / 英 skwɒd]
+n. 班；小队；五人组（篮球队的非正式说法）
+vt. 把…编成班；把…编入班
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A squad is a section of a police force that is responsible for dealing with a particular type of crime. (专门处理某类犯罪的) 警察分队
+   ≫   The building was evacuated and the bomb squad called.  那座大楼进行了人员疏散，并通知了拆弹小组。
+2. (N-COUNT) A squad is a group of players from which a sports team will be chosen. (将从中挑选运动员组队参赛的) 运动代表队
+   ≫   The American squad has pulled out of the four-day basketball tournament.  美国运动代表队已经退出了为期4天的篮球锦标赛。
+
