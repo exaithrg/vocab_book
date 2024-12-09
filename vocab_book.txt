@@ -19326,3 +19326,79 @@ n. 抛雪球算法
 ≫   Based on the splatting algorithm, an accelerated algorithm is used to pick up the nearest surface volume and realize fast volume rendering. 在抛雪球法的基础上，采用提取最近表面体素的方法实现加速。
 ≫   Every year's verse splatting, beautiful appearance, every day is the smiling face of the melody writing, a happy day, I wish you a happy birthday, wish you every minute there are safety and happiness. 每一年是诗句泼洒的画面，美丽的容颜，每一天是旋律书写的笑脸，开开心心的一天，祝你生日快乐，祝你分分秒秒都有平安幸福陪伴。
 
+========================================================================
+>>> verse
+------------------------------------------------------------------------
+verse    [美 vɝs / 英 vɜːs]
+n. 诗，诗篇；韵文；诗节
+vi. 作诗
+vt. 使熟练，使精通
+n. (Verse)人名；(德)费尔泽
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Verse is writing arranged in lines that have rhythm and that often rhyme at the end. 诗; 韵文
+   ≫   I have been moved to write a few lines of verse.  我曾经被感动得写了几行诗。
+2. (N-COUNT) A verse is one of the parts into which a poem, a song, or a chapter of the Bible or the Koran is divided. 诗节; 歌曲的段落; (《圣经》、《古兰经》的) 节
+   ≫   This verse describes three signs of spring.  这节诗描述了春天的3个征兆。
+
+========================================================================
+>>> melody
+------------------------------------------------------------------------
+melody    [英 'melədɪ / 美 'mɛlədi]
+n. 旋律；歌曲；美妙的音乐
+n. (Melody)人名；(英)梅洛迪
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A melody is a tune. 旋律
+   ≫   I whistle melodies from Beethoven and Vivaldi and the more popular classical composers.  我用口哨吹贝多芬、维瓦尔迪和更大众化一些的古典作曲家的曲子。
+
+========================================================================
+>>> density
+------------------------------------------------------------------------
+density    [美 'dɛnsəti / 英 'densɪtɪ]
+n. 密度
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Density is the extent to which something is filled or covered with people or things. 密度
+   ≫   The region has a very high population density.  这一地区人口密度很高。
+2. [技术] In science, the density of a substance or object is the relation of its mass or weight to its volume. 密度
+   ≫   Jupiter's moon Io, whose density is 3.5 grams per cubic centimetre, is all rock.  木星的卫星木卫一全是岩石，其密度为每立方厘米3.5克。
+
+========================================================================
+>>> IEE
+------------------------------------------------------------------------
+IEE
+abbr. 电气工程师学会（Institution of Electrical Engineers）；环境保护工程师协会（Institute of Environmental Engineers）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) Institution of Electrical Engineers 电机工程师学会
+
+========================================================================
+>>> IEEE
+------------------------------------------------------------------------
+IEEE    [,aɪ i i 'i]
+abbr. 电气与电子工程师协会（Institute of Electrical and Electronic Engineers）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The "unified" memory device, outlined in the journal IEEE Computer, is still undergoing testing. 根据《IEEE计算机》杂志的描述，这种“统一的”存储装置，仍在测试中。
+≫   Some have short sections on validation and verification, but those simply point either to IEEE standards or other formal methods. 其中几本教材中有很少的篇幅涉及到确认和验证，但是仅仅是简单的引用IEEE标准或其他正式的方法。
+≫   A software-intensive system is any system where software contributes essential influences to the design, construction, deployment, and evolution of the system as a whole. [from IEEE 1471. 一个软件集成系统就是软件对于设计，构建，配置和整个系统的发展具有深入影响的系统[来自 IEEE 1471，"架构的定义" 部分]
+
+========================================================================
+>>> AAAI
+------------------------------------------------------------------------
+AAAI
+abbr. 美国人工智能协会（American Association for Artificial Intelligence）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> squad
+------------------------------------------------------------------------
+squad    [美 skwɑd / 英 skwɒd]
+n. 班；小队；五人组（篮球队的非正式说法）
+vt. 把…编成班；把…编入班
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A squad is a section of a police force that is responsible for dealing with a particular type of crime. (专门处理某类犯罪的) 警察分队
+   ≫   The building was evacuated and the bomb squad called.  那座大楼进行了人员疏散，并通知了拆弹小组。
+2. (N-COUNT) A squad is a group of players from which a sports team will be chosen. (将从中挑选运动员组队参赛的) 运动代表队
+   ≫   The American squad has pulled out of the four-day basketball tournament.  美国运动代表队已经退出了为期4天的篮球锦标赛。
+
