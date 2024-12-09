@@ -19237,3 +19237,92 @@ n. 天芥菜属植物；[植] 向阳植物；淡紫色；鸡血石
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) any boraginaceous plant of the genus Heliotropium, esp the South American H. arborescens, cultivated for its small fragrant purple flowers 任一一种天芥菜属植物
 
+========================================================================
+>>> gaussian splatting
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> splatting
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> gaussian
+------------------------------------------------------------------------
+gaussian    [英 'ɡaʊsɪən / 美 'gaʊsiən]
+adj. 高斯的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Gaussian blur creates the soft, blurry look while Motion blur creates the impression of movement. 高斯模糊可以创造一种柔软的效果。 然后动感模糊是照片具有动态的错觉。
+≫   It could be normal, everything, that would be a Gaussian, where if you recall there was a mean, and a standard deviation, and most values were going to be close to the mean. 可能是正态分布，也就是高斯分布，只要有平均值和标准偏差值，你就可以进行调用，大部分的值都是集中在平均值附近的。
+≫   Add a 400% Gaussian Monochromatic Noise. 添加一个400%的高斯单色噪点。
+
+========================================================================
+>>> in the realm of
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> in the realm of
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> realm
+------------------------------------------------------------------------
+realm    [美 rɛlm / 英 relm]
+n. 领域，范围；王国
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] You can use realm to refer to any area of activity, interest, or thought. (活动、兴趣、思想的) 领域
+   ≫   ...the realm of politics.  …政治领域。
+2. [正式] A realm is a country that has a king or queen. 王国
+   ≫   Defence of the realm is crucial.  王国的防御是至关重要的。
+
+========================================================================
+>>> radiance
+------------------------------------------------------------------------
+radiance    [美 'redɪəns / 英 'reɪdɪəns]
+n. 辐射；光辉；发光；容光焕发
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also 'a' N] Radiance is great happiness which shows in someone's face and makes them look very attractive. 容光焕发
+   ≫   She has the vigour and radiance of someone young enough to be her granddaughter.  她精力充沛、容光焕发，就像小到可以做她孙女的年轻人那样。
+2. [also 'a' N] Radiance is a glowing light shining from something. 光辉
+   ≫   The dim bulb of the bedside lamp cast a soft radiance over his face.  床头灯微弱的灯光给他的脸上涂上了一层柔和的光辉。
+
+========================================================================
+>>> in the realm of
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：910
+in the realm of
+在……领域中：表示某事物属于某个特定的领域或范畴。
+
+========================================================================
+>>> in the realm of
+------------------------------------------------------------------------
+in the realm of
+在……领域中：表示某事物属于某个特定的领域或范畴。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the realm of olfaction, we must make do with descriptions and recollections. 在嗅觉领域，我们只能勉强依赖于描述与回忆。
+≫   Imagine you work in the realm of music education. 假设您在音乐教育领域内工作。
+≫   To be holy means to belong to or to be in the realm of God. 神圣的意味着属于或存在于上帝的领域里。
+
+========================================================================
+>>> 3D Gaussian Splatting
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：970
+3D Gaussian Splatting
+3D高斯飞溅
+
+========================================================================
+>>> splatting
+------------------------------------------------------------------------
+Splatting
+n. 抛雪球算法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Based on the splatting algorithm, an accelerated algorithm is used to pick up the nearest surface volume and realize fast volume rendering. 在抛雪球法的基础上，采用提取最近表面体素的方法实现加速。
+≫   Every year's verse splatting, beautiful appearance, every day is the smiling face of the melody writing, a happy day, I wish you a happy birthday, wish you every minute there are safety and happiness. 每一年是诗句泼洒的画面，美丽的容颜，每一天是旋律书写的笑脸，开开心心的一天，祝你生日快乐，祝你分分秒秒都有平安幸福陪伴。
+
