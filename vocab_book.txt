@@ -19692,3 +19692,68 @@ CET4 TEM4
 3. (N-UNCOUNT) fragmentation 分裂
    ≫   ...the extraordinary fragmentation of styles on the music scene.  …音乐界各种风格的不寻常分化。
 
+========================================================================
+>>> Information Capacity
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3689
+Information Capacity
+信息量 [计] 信息容量
+
+========================================================================
+>>> Recruitment
+------------------------------------------------------------------------
+recruitment    [英 rɪ'kruːtm(ə)nt / 美 rɪ'krʊtmənt]
+n. 补充；征募新兵
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The recruitment of workers, soldiers, or members is the act or process of selecting them for an organization or army and persuading them to join. 招聘
+   ≫   ...the examination system for the recruitment of civil servants.  …公务员招聘的考试体系。
+
+========================================================================
+>>> Position
+------------------------------------------------------------------------
+position    [美 pə'zɪʃən / 英 pə'zɪʃ(ə)n]
+n. 位置，方位；职位，工作；姿态；站位
+vt. 安置；把……放在适当位置
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The position of someone or something is the place where they are in relation to other things. 位置
+   ≫   The ship was identified, and its name and position were reported to the Coast Guard.  该轮船的身份已得到确认，其名称和位置已报告给了海岸警卫队。
+2. (N-COUNT) When someone or something is in a particular position, they are sitting, lying, or arranged in that way. 姿势
+   ≫   It is crucial that the upper back and neck are held in an erect position to give support for the head.  重要的是：上背和颈部要挺直以支撑头部，这一点很重要。
+   ≫   Mr. Dambar had raised himself to a sitting position.  丹巴先生已坐了起来。
+3. (V-T) If you position something somewhere, you put it there carefully, so that it is in the right place or position. 小心放置
+   ≫   Position the cursor where you want the new margins to begin.  将光标放在你所要的新页边空白开端。
+4. (N-COUNT) Your position in society is the role and the importance that you have in it. (社会) 地位
+   ≫   Adjustment to their changing role and position in society can be painful for some old people.  对有些老年人适应他们在社会中不断变化的角色和地位可能是痛苦的。
+5. [正式] A position in a company or organization is a job. 职位
+   ≫   He left a career in teaching to take up a position with the NEH.  他放弃了教职，以便在国家人文基金会任职。
+6. (N-COUNT) Your position in a race or competition is how well you did in relation to the other competitors or how well you are doing. (比赛、竞赛中的) 名次
+   ≫   By the ninth hour the car was running in eighth position.  比赛进行到第9个小时的时候该赛车跑在第8位。
+7. (N-COUNT) You can describe your situation at a particular time by saying that you are in a particular position. 处境; 状况
+   ≫   He's going to be in a very difficult position if things go badly for him.  他处境将非常困难，如果情况变糟的话。
+   ≫   Companies should be made to reveal more about their financial position.  应该要求各公司披露更多的财务状况资料。
+8. [正式] Your position on a particular matter is your attitude toward it or your opinion of it. 态度; 看法
+   ≫   He could be depended on to take a moderate position on most of the key issues.  可以相信，他会在大多数关键问题上持温和态度。
+9. (N-SING) If you are in a position to do something, you are able to do it. If you are in no position to do something, you are unable to do it. (做某事的) 适当位置
+   ≫   I am not in a position to comment.  我不便发表评论。
+10. (PHRASE) If someone or something is in position, they are in their correct or usual place or arrangement. 在合适的位置上
+   ≫   28,000 U.S. troops are moving into position.  2.8万名美国士兵即将到位。
+
+========================================================================
+>>> Recruitment Position List
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：744
+Recruitment Position List
+招聘职位列表
+
+========================================================================
+>>> Campus Recruitment Position List
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：792
+Campus Recruitment Position List
+校园招聘岗位列表
+
