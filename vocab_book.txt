@@ -18704,3 +18704,36 @@ TEM8
 6. (PHRASE) Your trump card is something powerful that you can use or do, which gives you an advantage over someone. 某人的王牌
    ≫   The administration knows that's their trump card and will keep playing it as long as they can.  政府知道那是他们的王牌，会尽可能长久地使用它。
 
+========================================================================
+>>> DPI
+------------------------------------------------------------------------
+DPI    [diːpiː'aɪ]
+abbr. 每英寸点数（dots per inch）；数据处理设备（Data Processing Installation）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) dots per inch: a measure of the resolution of a typesetting machine, computer screen, etc 点/英寸
+
+========================================================================
+>>> illusion
+------------------------------------------------------------------------
+illusion    [美 ɪ'luʒn / 英 ɪ'l(j)uːʒ(ə)n]
+n. 幻觉，错觉；错误的观念或信仰
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An illusion is a false idea or belief. 幻想
+   ≫   No one really has any illusions about winning the war.  事实上没有人对打赢这场战争抱任何幻想。
+2. (N-COUNT) An illusion is something that appears to exist or be a particular thing but does not actually exist or is in reality something else. 假象
+   ≫   Floor-to-ceiling windows can look stunning, giving the illusion of extra height.  从地板直抵天花板的窗户看上去非常漂亮，有增加高度的假象。
+
+========================================================================
+>>> illustration
+------------------------------------------------------------------------
+illustration    [美 ,ɪlə'streʃən / 英 ɪlə'streɪʃ(ə)n]
+n. 说明；插图；例证；图解
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An illustration is an example or a story that is used to make a point clear. 实例
+   ≫   An illustration of China's dynamism is that a new company is formed in Shanghai every 11 seconds.  说明中国活力的一个实例便是在上海每11秒钟就有一家新公司成立。
+2. (N-COUNT) An illustration in a book is a picture, design, or diagram. (书中的) 插图
+   ≫   She looked like a princess in a nineteenth-century illustration.  她看上去像19世纪插图里的公主。
+3. → see also
+
