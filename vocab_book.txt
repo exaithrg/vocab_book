@@ -17974,3 +17974,93 @@ n. （二战时期的）纳粹德国空军
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) the German Air Force (纳粹时代)德国空军
 
+========================================================================
+>>> compound
+------------------------------------------------------------------------
+compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
+n. [化学] 化合物；混合物；复合词
+adj. 复合的；混合的
+v. 合成；混合；恶化，加重；和解，妥协
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A compound is an enclosed area of land that is used for a particular purpose. 作特定用途的围地
+   ≫   They took refuge in the embassy compound.  他们在大使馆围区内避难。
+   ≫   ...a military compound.  …一个军事管辖区。
+2. (N-COUNT) In chemistry, a compound is a substance that consists of two or more elements. 化合物
+   ≫   Organic compounds contain carbon in their molecules.  有机化合物的分子里含碳。
+3. [正式] If something is a compound of different things, it consists of those things. 混合物
+   ≫   Honey is basically a compound of water, two types of sugar, vitamins and enzymes.  蜂蜜主要是水、两种糖、维生素和酶的混合物。
+4. [ADJ n] Compound is used to indicate that something consists of two or more parts or things. 复合的
+   ≫   ...the big compound eyes of dragonflies.  …蜻蜓的大复眼。
+5. (V) to mix or combine so as to create a compound or other product 通过混合或化合制成
+6. (V-T) To compound a problem, difficulty, or mistake means to make it worse by adding to it. 加剧
+   ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
+   ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
+7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
+
+========================================================================
+>>> enormous
+------------------------------------------------------------------------
+enormous    [美 ɪ'nɔrməs / 英 ɪ'nɔːməs]
+adj. 庞大的，巨大的；凶暴的，极恶的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is enormous is extremely large in size or amount. 巨大的
+   ≫   The main bedroom is enormous.  主卧室大极了。
+2. [强调] You can use enormous to emphasize the great degree or extent of something. (程度、范围) 极大的
+   ≫   It was an enormous disappointment.  这是件令人极为失望的事。
+3. (ADV) enormously 极其地
+   ≫   This book was enormously influential.  这本书影响极大。
+
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
+n. 感情，情绪；情操；观点；多愁善感
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+>>> cryptocurrency
+------------------------------------------------------------------------
+cryptocurrency    [美 ˈkrɪptoʊkɜːrənsi / 英 ˈkrɪptəʊkʌrənsi]
+n. （公共网络的，而非政府发行的）加密电子货币（使用加密法确保付款安全支付及收取）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Within the last year, the number of transactions with Bitcoin has grown 94%, within the last 1,5 years, the cryptocurrency quotations have grown 225%. 去年一年中比特币交易数量上升了94％， 过去1年半的时间i，虚拟货币已增至225%。
+
+========================================================================
+>>> prohibit
+------------------------------------------------------------------------
+prohibit    [美 prə'hɪbɪt / 英 prə(ʊ)'hɪbɪt]
+vt. 阻止，禁止
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If a law or someone in authority prohibits something, they forbid it or make it illegal. 禁止
+   ≫   ...a law that prohibits tobacco advertising in newspapers and magazines.  …一项禁止在报纸和杂志上刊登烟草广告的法律。
+   ≫   Fishing is prohibited.  捕鱼是受禁止的。
+2. (N-UNCOUNT) prohibition 禁止
+   ≫   The air force and the navy retain their prohibition of women on air combat missions.  空军和海军都保留了对女性空中作战任务的禁止。
+
+========================================================================
+>>> pursued
+------------------------------------------------------------------------
+pursued    [pə'sju:; -'su:]
+v. 追击，追踪；继续从事（pursue的过去分词形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you pursue an activity, interest, or plan, you carry it out or follow it. 执行; 贯彻
+   ≫   He said Japan would continue to pursue the policies laid down at the London summit.  他说日本将继续贯彻伦敦峰会上确定的方针。
+2. [正式] If you pursue a particular aim or result, you make efforts to achieve it, often over a long period of time. 追求; 努力实现
+   ≫   He will pursue a trade policy that protects American workers.  他将努力实行保护美国工人的贸易政策。
+3. [正式] If you pursue a particular topic, you try to find out more about it by asking questions. 追问
+   ≫   If your original request is denied, don't be afraid to pursue the matter.  如果你最初的要求被拒绝了，不要害怕去追问这件事情。
+4. [正式] If you pursue a person, vehicle, or animal, you follow them, usually in order to catch them. 追赶
+   ≫   She pursued the man who had stolen a woman's bag.  她追赶那个偷了一女士钱包的男子。
+
