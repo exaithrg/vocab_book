@@ -18665,3 +18665,42 @@ CET4 TEM4
 5. (ADJ) Decent people are honest and behave in a way that most people approve of. 正直的
    ≫   The majority of people around here are decent people.  这儿的大多数人都是正派人。
 
+========================================================================
+>>> tramp
+------------------------------------------------------------------------
+tramp    [美 træmp / 英 træmp]
+vi. 流浪；践踏，踩；脚步沉重地行走
+n. 流浪者；沉重的脚步声；徒步旅行
+vt. 践踏，踩；走过
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tramp is a person who has no home or job, and very little money. Tramps go from place to place, and get food or money by asking people or by doing casual work. 流浪汉
+   ≫   Hypothermia is common among tramps sleeping outdoors.  体温过低症在那些露宿户外的流浪汉中很普遍。
+2. (V-T/V-I) If you tramp somewhere, you walk there slowly and with regular, heavy steps, for a long time. 脚步沉重地缓缓行走; 踏
+   ≫   They put on their coats and tramped through the falling snow.  他们穿上大衣，在落雪中脚步沉重地缓缓走着。
+3. (N-UNCOUNT) The tramp of people is the sound of their heavy, regular walking. 沉重的脚步声
+   ≫   He heard the slow, heavy tramp of feet on the stairs.  他听见楼梯上缓慢而沉重的脚步声。
+4. [侮辱] If someone refers to a woman as a tramp, they are insulting her, because they think that she is immoral in her sexual behaviour. 荡妇
+   ≫   He'd think I was a tramp, a cheap slut, and he'd lose all respect for me.  他会认为我是个荡妇，一个低贱的妓女，不会对我有丝毫尊重。
+
+========================================================================
+>>> trump
+------------------------------------------------------------------------
+trump    [英 trʌmp / 美 trʌmp]
+n. 王牌；法宝；喇叭
+vt. 胜过；打出王牌赢
+vi. 出王牌；吹喇叭
+n. (Trump)人名；(英)特朗普
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT-COLL) In a game of cards, trumps is the suit which is chosen to have the highest value in one particular game. (牌戏中的) 王牌
+   ≫   Hearts are trumps.  红桃牌是王牌。
+2. (N-COUNT) In a game of cards, a trump is a playing card which belongs to the suit which has been chosen as trumps. (一张) 王牌
+   ≫   He played a trump.  他打了一张王牌。
+3. (N) a trumpet or the sound produced by one 小号; 小号声
+4. (V-T) If you trump what someone has said or done, you beat it by saying or doing something else that seems better. (因说或做得更好而) 胜过
+   ≫   The Republicans tried to trump this with their slogan.  共和党人试图用他们的口号来胜出。
+5. (V) to produce a sound upon or as if upon the trumpet 发出小号声; 发出小号似的声音
+6. (PHRASE) Your trump card is something powerful that you can use or do, which gives you an advantage over someone. 某人的王牌
+   ≫   The administration knows that's their trump card and will keep playing it as long as they can.  政府知道那是他们的王牌，会尽可能长久地使用它。
+
