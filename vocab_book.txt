@@ -19560,3 +19560,135 @@ adj. 奇妙的；令人惊奇的；非常的
 1. [usu ADJ n] If you describe something as wondrous, you mean it is strange and beautiful or impressive. 奇异的; 令人惊叹的
    ≫   We were driven across this wondrous vast land of lakes and forests.  我们乘车穿越了这片有湖泊和森林的广袤而神奇的土地。
 
+========================================================================
+>>> estimate
+------------------------------------------------------------------------
+estimate    [美 'ɛstə,met / 英 'estɪmeɪt]
+vi. 估计，估价
+n. 估计，估价；判断，看法
+vt. 估计，估量；判断，评价
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you estimate a quantity or value, you make an approximate judgment or calculation of it. 估计
+   ≫   Try to estimate how many steps it will take to get to a close object.  估计一下需要多少步才能到达一个近距目标。
+   ≫   I estimate that total cost for treatment will go from $9,000 to $12,500.  我估计治疗费总额将在9千美元到1.25万美元之间。
+2. (ADJ) estimated 估计的
+   ≫   There are an estimated 90,000 gangsters in the country.  这个国家估计有9万名歹徒。
+3. (N-COUNT) An estimate is an approximate calculation of a quantity or value. 估计
+   ≫   ...the official estimate of the election result.  …选举结果的官方估计。
+4. (N-COUNT) An estimate is a judgment about a person or situation that you make based on the available evidence. 判断
+   ≫   I hadn't been far wrong in my estimate of his grandson's capabilities.  我对他孙子能力的判断没有太离谱。
+5. (N-COUNT) An estimate from someone who you employ to do a job for you, such as a builder or a plumber, is a written statement of how much the job is likely to cost. 估价
+   ≫   Quotes and estimates can be prepared by computer on the spot.  报价和估价可以当场用电脑做出来。
+
+========================================================================
+>>> quantile
+------------------------------------------------------------------------
+quantile    [英 'kwɒntaɪl /  'kwɒntaɪl]
+n. [计] 分位数；分位点
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you set this parameter to zero or "1", no quantile statistics are collected. 如果将这个参数设置为零或“1”，则不收集任何分位数统计信息。
+≫   Quantile statistics provide the information whether the values of a column are clustered or not. 分位数统计信息提供关于一个列中的值是否聚合的信息。
+≫   Similar to the frequency statistics, a number for the exactness has to be defined for the quantile statistics. 与频率统计信息类似，也必须为分位数统计信息定义一个数量，以保证精确性。
+
+========================================================================
+>>> trivel
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> trivial
+------------------------------------------------------------------------
+trivial    [美 'trɪvɪəl / 英 'trɪvɪəl]
+adj. 不重要的，琐碎的；琐细的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as trivial, you think that it is unimportant and not serious. 无关紧要的
+   ≫   The director tried to wave aside these issues as trivial details that could be settled later.  那位主任对这些问题置之不理，视它们为可以后解决的无关紧要的细节。
+
+========================================================================
+>>> lack of novelty and naive extension
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2497
+lack of novelty and naive extension
+缺乏新意和幼稚的延伸
+
+========================================================================
+>>> credit
+------------------------------------------------------------------------
+credit    [英 'kredɪt / 美 'krɛdɪt]
+n. 信用，信誉；[金融] 贷款；学分；信任；声望
+vt. 相信，信任；把…归给，归功于；赞颂
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you are given credit, you are allowed to pay for goods or services several weeks or months after you have received them. 赊购
+   ≫   The group can't get credit to buy farming machinery.  该集团无法以赊购方式购买农业机械。
+2. (N-UNCOUNT) If you get the credit for something good, people praise you because you are responsible for it, or are thought to be responsible for it. 赞扬
+   ≫   We don't mind who gets the credit so long as we don't get the blame.  只要我们不挨批评，谁受到表扬我们都不在乎。
+   ≫   It would be wrong for us to take all the credit.  我们把所有的功劳都揽到自己身上就不对了。
+3. (V-T) When a sum of money is credited to an account, the bank adds that sum of money to the total in the account. 存入
+   ≫   She noticed that only $80,000 had been credited to her account.  她注意到只有$80000存入了她的账户。
+   ≫   Midland decided to change the way it credited payments to accounts.  米德兰公司决定改变将所付款项存入账户的方式。
+4. (V-T) If people credit someone with an achievement or if it is credited to them, people say or believe that they were responsible for it. 归功于
+   ≫   The staff are crediting him with having saved Hythe's life.  海斯能得救全体人员都归功于他。
+   ≫   The 74-year-old mayor is credited with helping make Los Angeles the financial capital of the West Coast.  74岁的市长被归功为帮助洛杉矶成为西海岸金融中心的人。
+5. (N-COUNT) A credit is a sum of money which is added to an account. 贷方款额
+   ≫   The statement of total debits and credits is known as a balance.  总的借贷报表称作借贷平衡表。
+6. (N-COUNT) A credit is an amount of money that is given to someone. 补助
+   ≫   Senator Bill Bradley outlined his own tax cut, giving families $350 in tax credits per child.  参议员比尔·布拉德利简述了自己的减税计划，给家庭中每一个孩子$350税款补助。
+7. (N-PLURAL) The list of people who helped to make a film, a CD, or a television programme is called the credits. 摄制人员名单
+   ≫   It was fantastic seeing my name in the credits.  在摄制人员名单中看到我的名字真是太好了。
+8. (N-COUNT) A credit is a successfully completed part of a higher education course, representing about one hour of instruction a week. At universities and colleges you need a certain number of credits to be awarded a degree. 学分
+   ≫   Through the AP programme students can earn college credits in high school.  通过大学预修课程计划，学生在中学就可以拿到大学的学分。
+9. (N-SING) If you say that someone is a credit to someone or something, you mean that their qualities or achievements will make people have a good opinion of the person or thing mentioned. 为…增光的人
+   ≫   He is one of the greatest players of recent times and is a credit to his profession.  他是近年来最棒的选手之一，是为他的职业增光的人。
+10. (PHRASE) To give someone credit for a good quality means to believe that they have it. 相信某人有
+   ≫   Bratbakk had more ability than the media gave him credit for.  布拉特巴克有比媒体所宣传的还要强的能力。
+11. (PHRASE) If something is to someone's credit, they deserve praise for it. 值得赞扬
+   ≫   She had managed to pull herself together and, to her credit, continued to look upon life as a positive experience.  她努力使自己振作起来，并且值得称赞的是，她一如既往地积极面对人生。
+
+========================================================================
+>>> Koenker
+------------------------------------------------------------------------
+Koenker
+n. （Koenker）人名；（德）肯克
+
+========================================================================
+>>> corherent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> coherent
+------------------------------------------------------------------------
+coherent    [美 ko'hɪrənt / 英 kə(ʊ)'hɪər(ə)nt]
+adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is coherent, it is well planned, so that it is clear and sensible and all its parts go well with each other. 连贯的
+   ≫   He has failed to work out a coherent strategy for modernizing the service.  他无法想出一个连贯的策略来使该服务现代化。
+2. (N-UNCOUNT) coherence 连贯性
+   ≫   The campaign was widely criticized for making tactical mistakes and for a lack of coherence.  该运动遭到广泛批评，因其有策略错误且缺乏连贯性。
+3. [v-link ADJ] If someone is coherent, they express their thoughts in a clear and calm way, so that other people can understand what they are saying. 条理清楚的
+   ≫   He's so calm when he answers questions in interviews. I wish I could be that coherent.  他如此镇定地回答了访谈中的问题。我希望我也能那样有条不紊。
+4. (N-UNCOUNT) coherence 条理性
+   ≫   This was debated eagerly at first, but with diminishing coherence as the champagne took hold.  辩论一开始满热烈的，可是上了香槟后，条理性就降低了。
+
+========================================================================
+>>> fragment
+------------------------------------------------------------------------
+fragment    [美 'fræɡmənt / 英 'frægm(ə)nt]
+n. 碎片；片段或不完整部分
+vt. 使成碎片
+vi. 破碎或裂开
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A fragment of something is a small piece or part of it. 碎片; 片段
+   ≫   The only reminder of the shooting is a few fragments of metal in my shoulder.  惟一使我记起那次枪击的，是我肩膀里的一些金属碎片。
+   ≫   She read everything, digesting every fragment of news.  她什么都读，对新闻的每一个片段都细细品味。
+2. (V-T/V-I) If something fragments or is fragmented, it breaks or separates into small pieces or parts. 碎裂
+   ≫   The clouds fragmented and out came the sun.  云开日出。
+3. (N-UNCOUNT) fragmentation 分裂
+   ≫   ...the extraordinary fragmentation of styles on the music scene.  …音乐界各种风格的不寻常分化。
+
