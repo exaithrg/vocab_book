@@ -19551,3 +19551,12 @@ CET4 TEM4
 4. (N-VAR) Instinct is a feeling, rather than an opinion or idea based on facts, that something is the case. 直觉
    ≫   There is scientific evidence to support our instinct that being surrounded by plants is good for health.  有科学证据表明我们的直觉是正确的，即被植物环绕着有益健康。
 
+========================================================================
+>>> wondrous
+------------------------------------------------------------------------
+wondrous    [美 'wʌndrəs / 英 'wʌndrəs]
+adj. 奇妙的；令人惊奇的；非常的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] If you describe something as wondrous, you mean it is strange and beautiful or impressive. 奇异的; 令人惊叹的
+   ≫   We were driven across this wondrous vast land of lakes and forests.  我们乘车穿越了这片有湖泊和森林的广袤而神奇的土地。
+
