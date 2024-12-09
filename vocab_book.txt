@@ -18064,3 +18064,151 @@ CET4 TEM4
 4. [正式] If you pursue a person, vehicle, or animal, you follow them, usually in order to catch them. 追赶
    ≫   She pursued the man who had stolen a woman's bag.  她追赶那个偷了一女士钱包的男子。
 
+========================================================================
+>>> distillation
+------------------------------------------------------------------------
+distillation    [美 ,dɪstl'eʃən / 英 ,dɪstɪ'leɪʃn]
+n. 蒸馏，净化；蒸馏法；精华，蒸馏物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As alchemy evolved into the science of chemistry, vessels called retorts became used for distillations . 随着炼金术发展成为化学，叫作曲颈瓶的容器开始用于蒸馏。
+≫   World heritage, national famous scenic areas are distillations of our country' s landscape, are the testimony of our history and civilization. 世界遗产、国家风景区是祖国壮丽河山的缩影是国土景观的精华，是祖国文明历史的见证。
+≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
+
+========================================================================
+>>> impactful
+------------------------------------------------------------------------
+impactful    [美 ɪmˈpæktfl / 英 ɪmˈpæktfl]
+adj. 有效的；有力的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Keep it simple, focused and impactful. 保持内容简单、专注和有影响力。
+≫   The most common and most impactful techniques employed by cosmetic dentists are 牙齿美容医师采取的最普通和最有效的技术
+≫   Similarly to enterprise SOA, impactful Web 2.0 implementations are aimed at the enterprise as a whole. 对于企业级SOA，简单而言，有影响力的Web 2.0实现是将企业整体作为目标。
+
+========================================================================
+>>> Over-Parameterized
+------------------------------------------------------------------------
+overparameterized
+过参数化
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As you can see, enabling parameterized queries increased the database throughput by about 30-40% and even offered a 15-25% increase over enabling the Statement Concentrator. 如您所见，启用参数化查询增加了30 - 40%的数据库流量，而在启用Statement Concentrator后甚至提供了15 - 25%的增长。
+≫   The key performance benefit of parameterized queries is that the optimizer can formulate an access path that can be reused over repeated executions of the statement. 参数化查询的主要性能好处是优化器可以制定在重复执行语句时能够再使用的存取路径。
+≫   The FEA model was parameterized by APDL language and the stiffness distribution was computed over the workspace. 通过APDL语言实现有限元模型的参数化设计，计算出并联机床在工作空间内的刚度分布。
+
+========================================================================
+>>> performent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> performant
+------------------------------------------------------------------------
+performant
+adj. （计算机）性能好的，运作良好的
+n. <罕>仪式举行者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This copy is critical to support performant indexing, searching, and browsing scenarios. 该副本对于支持性能索引、搜索，和浏览场景是至关重要的。
+≫   Their main expertise is to program a system in the most performant and stable way they can. 他们的专长是尽己所能编辑高性能、稳定的系统。
+≫   We will continue to focus on making the federated systems more performant and ensuring better overall user experience. 我们将继续致力于使联邦系统具有更好的性能，同时确保用户有更好的总体用户体验。
+
+========================================================================
+>>> VNNI
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> readily
+------------------------------------------------------------------------
+readily    [美 'rɛdɪli / 英 'redɪlɪ]
+adv. 容易地；乐意地；无困难地
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with v] If you do something readily, you do it in a way which shows that you are very willing to do it. 乐意地
+   ≫   I asked her if she would allow me to interview her, and she readily agreed.  我问她是否允许我采访她，她欣然同意了。
+2. (ADV) You also use readily to say that something can be done or obtained quickly and easily. For example, if you say that something can be readily understood, you mean that people can understand it quickly and easily. 容易地; 迅速地
+   ≫   The components are readily available in hardware stores.  这些零件在五金商店容易买到。
+
+========================================================================
+>>> read
+------------------------------------------------------------------------
+read    [美 rid; rɛd / 英 ri:d;red]
+vt. 阅读；读懂，理解
+vi. 读；读起来
+n. 阅读；读物
+adj. 有学问的
+n. (Read)人名；(英)里德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you read something such as a book or article, you look at and understand the words that are written there. 阅读
+   ≫   Have you read this book?  你读过这本书吗？
+   ≫   I read about it in the paper.  我在报上读到有关它的消息。
+   ≫   She spends her days reading and watching television.  她每天就是看书和看电视。
+2. (N-SING) Read is also a noun. 阅读
+   ≫   I settled down to have a good read.  我舒舒服服地坐下来，想好好读书。
+3. (V-T/V-I) When you read a piece of writing to someone, you say the words aloud. 朗读
+   ≫   Jay reads poetry so beautifully.  杰伊朗读诗歌非常动听。
+   ≫   I like it when she reads to us.  我很喜欢她读书给我们听。
+4. (V-T/V-I) People who can read have the ability to look at and understand written words. 识字
+   ≫   He couldn't read or write.  他不识字，也不会写字。
+   ≫   The kid can read words, but did miserably on the test.  这孩子能认字，但考试时却一塌糊涂。
+5. (V-T) If you can read music, you have the ability to look at and understand the symbols that are used in written music to represent musical sounds. 识 (乐谱)
+   ≫   Later on I learned how to read music.  后来我学会了如何识乐谱。
+6. [计算机] When a computer reads a file or a document, it takes information from a disk or tape. (电脑) 读取 (文件或文档)
+   ≫   How can I read an Excel file on a computer that only has Word installed?  我怎么在只装了文字处理软件的电脑上读取表格文件呢？
+7. [no cont] You can use read when saying what is written on something or in something. For example, if a notice reads "Entrance," the word "Entrance" is written on it. 写着
+   ≫   The sign on the bus read "Private: Not In Service."  公共汽车上的标志写着“私人所有：不运营。”
+8. (V-I) If you refer to how a piece of writing reads, you are referring to its style. (作品) 读起来 (有…风格)
+   ≫   The book reads like a ballad.  这本书读起来像民谣的风格。
+9. [adj N] If you say that a book or magazine is a good read, you mean that it is very enjoyable to read. 读物
+   ≫   Ben Okri's latest novel is a good read.  本·奥克里的最新小说是本好读物。
+10. (V-T) If something is read in a particular way, it is understood or interpreted in that way. 理解; 诠释
+   ≫   The play is being widely read as an allegory of imperialist conquest.  这出戏正被广泛地诠释为帝国主义征服的寓言。
+11. (V-T) If you read someone's mind or thoughts, you know exactly what they are thinking without them telling you. 看透 (心思或想法)
+   ≫   From behind her, as if he could read her thoughts, Benny said, "You're free to go any time you like, Madame."  从她身后，好像他可以看透她的想法，本尼说道，“你什么时候想走都可以，夫人。”
+12. (V-T) If you can read someone or you can read their gestures, you can understand what they are thinking or feeling by the way they behave or the things they say. 领会 (某人或其言谈举止的意图)
+   ≫   If you have to work as part of a team, you must learn to read people.  如果你不得不在一个团队中工作，你必须学会领会别人的意图。
+13. (V-T) When you read a measuring device, you look at it to see what the figure or measurement on it is. 查看; 读出 (测量仪器的数字)
+   ≫   It is essential that you are able to read a thermometer.  能读出温度计上的温度是基本要求。
+14. (V-T) If a measuring device reads a particular amount, it shows that amount. (测量仪表) 显示为; 标明
+   ≫   The thermometer read 105 degrees Fahrenheit.  温度计显示为华氏105度。
+15. → see also
+16. (V) read的过去式及过去分词 → the past tense and past participle of
+
+========================================================================
+>>> ready
+------------------------------------------------------------------------
+ready    [英 'redɪ / 美 'rɛdi]
+adj. 准备好；现成的；迅速的；情愿的；快要…的
+n. 现款；预备好的状态
+adv. 迅速地；预先
+vt. 使准备好
+n. (Ready)人名；(英)雷迪
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [v-link ADJ] If someone is ready, they are properly prepared for something. If something is ready, it has been properly prepared and is now able to be used. 准备好的
+   ≫   It took her a long time to get ready for church.  她花了很长时间才准备好去教堂。
+   ≫   Are you ready to board, Mr. Daly?  准备好上飞机了吗，戴利先生？
+2. [v-link ADJ] If you are ready for something or ready to do something, you have enough experience to do it or you are old enough and sensible enough to do it. 胜任的; 准备好的
+   ≫   She says she's not ready for marriage.  她说她还没有准备好结婚。
+3. [v-link ADJ to-inf] If you are ready to do something, you are willing to do it. 乐意的
+   ≫   They were ready to die for their beliefs.  他们愿意为信仰而献身。
+4. [v-link ADJ 'for' n] If you are ready for something, you need it or want it. 需要的
+   ≫   I don't know about you, but I'm ready for bed.  我不知道你怎样，但我想去睡了。
+5. [v-link ADJ to-inf] To be ready to do something means to be about to do it or likely to do it. 即将…的; 可能…的
+   ≫   She looked ready to cry.  她看起来将要哭了。
+6. [ADJ n] You use ready to describe things that are able to be used very quickly and easily. 现成的
+   ≫   I didn't have a ready answer for this dilemma.  我没有现成的答案来解决这个进退两难的问题。
+7. [正式] When you ready something, you prepare it for a particular purpose. 使准备好
+   ≫   John's soldiers were readying themselves for the final assault.  约翰的士兵们正在为最后的进攻做好准备。
+
+========================================================================
+>>> readily
+------------------------------------------------------------------------
+readily    [美 'rɛdɪli / 英 'redɪlɪ]
+adv. 容易地；乐意地；无困难地
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with v] If you do something readily, you do it in a way which shows that you are very willing to do it. 乐意地
+   ≫   I asked her if she would allow me to interview her, and she readily agreed.  我问她是否允许我采访她，她欣然同意了。
+2. (ADV) You also use readily to say that something can be done or obtained quickly and easily. For example, if you say that something can be readily understood, you mean that people can understand it quickly and easily. 容易地; 迅速地
+   ≫   The components are readily available in hardware stores.  这些零件在五金商店容易买到。
+
