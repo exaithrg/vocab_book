@@ -19402,3 +19402,24 @@ CET6 TEM4
 2. (N-COUNT) A squad is a group of players from which a sports team will be chosen. (将从中挑选运动员组队参赛的) 运动代表队
    ≫   The American squad has pulled out of the four-day basketball tournament.  美国运动代表队已经退出了为期4天的篮球锦标赛。
 
+========================================================================
+>>> periphral
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> peripheral
+------------------------------------------------------------------------
+peripheral    [美 pə'rɪfərəl / 英 pə'rɪf(ə)r(ə)l]
+adj. 外围的；次要的；（神经）末梢区域的
+n. 外部设备
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A peripheral activity or issue is one that is not very important compared with other activities or issues. 次要的
+   ≫   Companies are increasingly eager to contract out peripheral activities like training.  公司越来越渴望把像培训这样的次要活动外包出去。
+   ≫   ...peripheral and boring information.  …无关紧要且无聊的信息。
+2. (ADJ) Peripheral areas of land are ones that are on the edge of a larger area. 周边的
+   ≫   ...urban development in the outer peripheral areas of large towns.  …大城市外部周边地区的城市发展。
+3. [计算机] Peripherals are devices that can be attached to computers. (计算机的) 外围设备
+   ≫   ...peripherals to expand the use of our computers.  …扩展计算机用途的外围设备。
+
