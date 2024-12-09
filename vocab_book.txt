@@ -19208,3 +19208,13 @@ CET6 TEM4
 1. (N-COUNT) A symposium is a conference in which experts or academics discuss a particular subject. 专题研讨会
    ≫   He had been taking part in an international symposium on population.  他那时在参加一个有关人口的国际研讨会。
 
+========================================================================
+>>> Ethereal
+------------------------------------------------------------------------
+ethereal    [美 ɪ'θɪrɪəl / 英 ɪ'θɪərɪəl]
+adj. 优雅的；轻飘的；缥缈的；超凡的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Someone or something that is ethereal has a delicate beauty. 优雅的
+   ≫   She's the prettiest, most ethereal romantic heroine in the movies.  她是那些电影中最美丽、最优雅浪漫的女主角。
+
