@@ -18968,3 +18968,16 @@ CET6 TEM4
 3. (N-COUNT) A sovereign is a king, queen, or other royal ruler of a country. 君主
    ≫   In March 1889, she became the first British sovereign to set foot on Spanish soil.  1889年3月，她成为首位踏上西班牙国土的英国君主。
 
+========================================================================
+>>> identical
+------------------------------------------------------------------------
+identical    [美 aɪ'dɛntɪkl / 英 aɪ'dentɪk(ə)l]
+adj. 同一的；完全相同的
+n. 完全相同的事物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things that are identical are exactly the same. 完全相同的
+   ≫   The three bombs were virtually identical.  这3个炸弹几乎一模一样。
+2. (ADV) identically 完全相同地
+   ≫   ...nine identically dressed female dancers.  …9个着装相同的女舞蹈演员。
+
