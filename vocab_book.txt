@@ -18591,3 +18591,77 @@ CET6 TEM4
 2. (N-COUNT) A squad is a group of players from which a sports team will be chosen. (将从中挑选运动员组队参赛的) 运动代表队
    ≫   The American squad has pulled out of the four-day basketball tournament.  美国运动代表队已经退出了为期4天的篮球锦标赛。
 
+========================================================================
+>>> legacy
+------------------------------------------------------------------------
+legacy    [美 'lɛgəsi / 英 'legəsɪ]
+n. 遗赠，遗产
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+
+========================================================================
+>>> dencent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> decent
+------------------------------------------------------------------------
+decent    [美 'disnt / 英 'diːs(ə)nt]
+adj. 正派的；得体的；相当好的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Decent is used to describe something which is considered to be of an acceptable standard or quality. 像样的
+   ≫   He didn't get a decent explanation.  他没有得到一个合理的解释。
+2. (ADV) decently 像样地
+   ≫   The allies say they will treat their prisoners decently.  同盟国家称他们将有分寸地对待战俘。
+3. (ADJ) Decent is used to describe something which is morally correct or acceptable. 合宜的
+   ≫   But, after a decent interval, trade relations began to return to normal.  但是在一段适当的间断之后，贸易关系开始恢复正常。
+4. (ADV) decently 合宜地
+   ≫   And can't you dress more decently – people will think you're a tramp.  而且你不能穿得再体面些吗？人们会以为你是个流浪汉。
+5. (ADJ) Decent people are honest and behave in a way that most people approve of. 正直的
+   ≫   The majority of people around here are decent people.  这儿的大多数人都是正派人。
+
+========================================================================
+>>> dense
+------------------------------------------------------------------------
+dense    [美 dɛns / 英 dens]
+adj. 稠密的；浓厚的；愚钝的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is dense contains a lot of things or people in a small area. 稠密的
+   ≫   Where Bucharest now stands, there once was a large, dense forest.  现在的布加勒斯特所在地曾经是一片茂密的大森林。
+2. (ADV) densely 稠密地
+   ≫   Java is a densely populated island.  爪哇是一个人口稠密的岛屿。
+3. (ADJ) Dense fog or smoke is difficult to see through because it is very heavy and dark. (烟、雾等) 浓重的
+   ≫   A dense column of smoke rose several miles into the air.  一柱浓烟升上几英里高的天空。
+4. [技术] In science, a dense substance is very heavy in relation to its volume. (物质) 密度大的
+   ≫   ...a small dense star.  …一颗密度大的小恒星。
+
+========================================================================
+>>> desent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> decent
+------------------------------------------------------------------------
+decent    [美 'disnt / 英 'diːs(ə)nt]
+adj. 正派的；得体的；相当好的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Decent is used to describe something which is considered to be of an acceptable standard or quality. 像样的
+   ≫   He didn't get a decent explanation.  他没有得到一个合理的解释。
+2. (ADV) decently 像样地
+   ≫   The allies say they will treat their prisoners decently.  同盟国家称他们将有分寸地对待战俘。
+3. (ADJ) Decent is used to describe something which is morally correct or acceptable. 合宜的
+   ≫   But, after a decent interval, trade relations began to return to normal.  但是在一段适当的间断之后，贸易关系开始恢复正常。
+4. (ADV) decently 合宜地
+   ≫   And can't you dress more decently – people will think you're a tramp.  而且你不能穿得再体面些吗？人们会以为你是个流浪汉。
+5. (ADJ) Decent people are honest and behave in a way that most people approve of. 正直的
+   ≫   The majority of people around here are decent people.  这儿的大多数人都是正派人。
+
