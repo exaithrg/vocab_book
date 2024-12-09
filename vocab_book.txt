@@ -19498,3 +19498,40 @@ CET4 TEM4
 2. [ADV with v] loyally 忠诚地
    ≫   They have loyally supported their party and their leader.  他们忠心耿耿地支持自己的政党和领导人。
 
+========================================================================
+>>> construction
+------------------------------------------------------------------------
+construction    [英 kən'strʌkʃ(ə)n / 美 kən'strʌkʃən]
+n. 建设；建筑物；解释；造句
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Construction is the building of things such as houses, factories, roads, and bridges. 建造
+   ≫   He'd already started construction on a hunting lodge.  他已经开始建造一个狩猎用的小屋。
+   ≫   ...the downturn in the construction industry.  …建造业的衰退。
+   ≫   Jim now works in construction.  吉姆现在从事建造业。
+2. (N-UNCOUNT) The construction of something such as a vehicle or machine is the making of it. (交通工具、机器等的) 制造
+   ≫   ...companies who have long experience in the construction of those types of equipment.  …在制造那种设备方面有长久经验的各公司。
+3. (N-UNCOUNT) The construction of something such as a system is the creation of it. 创立
+   ≫   ...the construction of a just system of criminal justice.  …公正的刑事司法体制的建立。
+4. (N-UNCOUNT) You use construction to refer to the structure of something and the way it has been built or made. 构造
+   ≫   The Shakers believed that furniture should be plain, simple, useful, practical, and of sound construction.  震颤派教徒认为家具应当朴素、简单、有用、实际，且构造很好。
+5. (N-COUNT) You can refer to an object that has been built or made as a construction. 建造物
+   ≫   ...an impressive steel and glass construction.  …一座令人印象深刻的钢筋玻璃建造物。
+6. (N-COUNT) A grammatical construction is a particular arrangement of words in a sentence, clause, or phrase. (语法) 结构
+   ≫   Avoid complex verbal constructions.  避免复杂的动词结构。
+
+========================================================================
+>>> construct
+------------------------------------------------------------------------
+construct    [英 kən'strʌkt / 美 kən'strʌkt]
+vt. 建造，构造；创立
+n. 构想，概念
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you construct something such as a building, road, or machine, you build it or make it. 建造
+   ≫   His company recently constructed an office building in downtown Denver.  他的公司最近在丹佛市中心建造了一座办公楼。
+   ≫   The boxes should be constructed from rough-sawn timber.  这些箱子应该用粗锯木材来做。
+2. (V-T) If you construct something such as an idea, a piece of writing, or a system, you create it by putting different parts together. 构建
+   ≫   He eventually constructed a huge business empire.  他最终构建了一个庞大的商业王国。
+   ≫   The novel is constructed from a series of on-the-spot reports.  这部小说是由一系列现场报道构思而成的。
+
