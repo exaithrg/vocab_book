@@ -18737,3 +18737,234 @@ CET4 TEM4
    ≫   She looked like a princess in a nineteenth-century illustration.  她看上去像19世纪插图里的公主。
 3. → see also
 
+========================================================================
+>>> Apparently
+------------------------------------------------------------------------
+apparently    [美 ə'pærəntli / 英 ə'pærəntlɪ]
+adv. 显然地；似乎，表面上
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [含糊] You use apparently to indicate that the information you are giving is something that you have heard, but you are not certain that it is true. 据说
+   ≫   Apparently the girls are not at all amused by the whole business.  据说这些女孩们完全不觉得这整件事好笑。
+2. (ADV) You use apparently to refer to something that seems to be true, although you are not sure whether it is or not. 貌似地
+   ≫   The recent deterioration has been caused by an apparently endless recession.  最近的恶化是由貌似没完没了的萧条造成的。
+
+========================================================================
+>>> identicaly
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> identicaly
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> identically
+------------------------------------------------------------------------
+identically    [aɪ'dɛntɪkli]
+adv. 同一地；相等地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The two trees behave identically, but they have different purposes. 这两个树的行为完全相同，但是它们有不同的目的。
+≫   But scientists say this memory system is likely to work almost identically in people. 但是科学家声称这一记忆系统在人身上几乎同样的起作用。
+≫   Decimals of the same value in the partitioning key are treated identically, even if their scale and precision differ. 对分区键中相同值的小数的处理是完全相同的，即使它们的标度和精度不同。
+
+========================================================================
+>>> 独立的
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> indenpendent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> independent
+------------------------------------------------------------------------
+independent    [美 'ɪndɪ'pɛndənt / 英 ,ɪndɪ'pendənt]
+adj. 独立的；单独的；无党派的；不受约束的
+n. 独立自主者；无党派者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If one thing or person is independent of another, they are separate and not connected, so the first one is not affected or influenced by the second. 无关联的; 相互独立的
+   ≫   Your questions should be independent of each other.  你们的问题应该是相互间毫无关联的。
+   ≫   We're going independent from the university and setting up our own group.  我们将从大学独立出去，成立我们自己的集团。
+2. (ADV) independently 独立地
+   ≫   ...several people working independently in different areas of the world.  …在世界不同地区独立工作的几个人。
+3. (ADJ) If someone is independent, they do not need help or money from anyone else. 不依赖的
+   ≫   Phil was now much more independent of his parents.  菲尔现在不大依赖他的父母了。
+4. (ADV) independently 不依赖地
+   ≫   ...helping disabled students to live and study as independently as possible.  …帮助残疾学生尽可能不依赖地生活和学习。
+5. (ADJ) Independent countries and states are not ruled by other countries but have their own government. (国家) 独立的
+   ≫   Papua New Guinea became independent from Australia in 1975.  巴布亚新几内亚1975年脱离澳大利亚而独立。
+6. [ADJ n] An independent organization or other body is one that controls its own finances and operations, rather than being controlled by someone else. 独立的; 不受他人左右的
+   ≫   ...an independent television station.  …一家独立的电视台。
+7. [ADJ n] An independent inquiry or opinion is one that involves people who are not connected with a particular situation, and should therefore be fair. 客观公正的; 不偏不倚的
+   ≫   There were calls in Congress for an independent inquiry.  国会中有对一次独立调查的呼吁。
+8. (ADJ) An independent politician is one who does not represent any political party. 无党派的
+   ≫   There's been a late surge of support for an independent candidate.  对一位独立候选人的支持最近有骤然的增多。
+9. (N-COUNT) An independent is an independent politician. 无党派人士
+   ≫   Mr. Vassiliou, standing as an independent, succeeded in convincing a significant number of voters of his argument.  瓦西里欧先生以无党派人士身份成功地说服了大量选民支持他的观点。
+
+========================================================================
+>>> indentical
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> identical
+------------------------------------------------------------------------
+identical    [美 aɪ'dɛntɪkl / 英 aɪ'dentɪk(ə)l]
+adj. 同一的；完全相同的
+n. 完全相同的事物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things that are identical are exactly the same. 完全相同的
+   ≫   The three bombs were virtually identical.  这3个炸弹几乎一模一样。
+2. (ADV) identically 完全相同地
+   ≫   ...nine identically dressed female dancers.  …9个着装相同的女舞蹈演员。
+
+========================================================================
+>>> identity
+------------------------------------------------------------------------
+identity    [美 aɪ'dɛntəti / 英 aɪ'dentɪtɪ]
+n. 身份；同一性，一致；特性；恒等式
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your identity is who you are. 身份
+   ≫   Abu is not his real name, but it's one he uses to disguise his identity.  阿布不是他的真名，而是一个他用来掩盖自己身份的假名。
+2. (N-VAR) The identity of a person or place is the characteristics that distinguish them from others. 特性
+   ≫   I wanted a sense of my own identity.  我需要确立自身的个性意识。
+
+========================================================================
+>>> auto
+------------------------------------------------------------------------
+auto    [美 'ɔto / 英 'ɔːtəʊ]
+n. 汽车（等于automobile）；自动
+vi. 乘汽车
+n. (Auto)人名；(葡)奥托
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] An auto is a car. 汽车
+   ≫   ...the auto industry.  …汽车工业。
+
+========================================================================
+>>> automobile
+------------------------------------------------------------------------
+automobile    [美 ,ɔtəmə'bil / 英 'ɔːtəməbiːl]
+n. 汽车
+vt. 驾驶汽车
+[ 过去式 automobiled 过去分词 automobiled 现在分词 automobiling ]
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] An automobile is a car. 汽车
+   ≫   ...the automobile industry.  …汽车工业。
+
+========================================================================
+>>> automatic
+------------------------------------------------------------------------
+automatic    [美 'ɔtə'mætɪk / 英 ɔːtə'mætɪk]
+adj. 自动的；无意识的；必然的
+n. 自动机械；自动手枪
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An automatic machine or device is one that has controls that enable it to perform a task without needing to be constantly operated by a person. Automatic methods and processes involve the use of such machines. (机器或装置) 自动的
+   ≫   Modern trains have automatic doors.  现代火车都有自动门。
+2. [ADJ n] An automatic weapon is one that keeps firing shots until you stop pulling the trigger. (武器) 自动的
+   ≫   Three gunmen with automatic rifles opened fire.  3名手持自动步枪的歹徒开了火。
+3. (N-COUNT) Automatic is also a noun. 自动枪
+   ≫   He drew his automatic and began running in the direction of the sounds.  他拔出自动枪，朝发出声音的方向跑去。
+4. (ADJ) An automatic action is one that you do without thinking about it. (行动) 无意识的
+   ≫   All of the automatic body functions, even breathing, are affected.  所有无意识的身体功能，甚至呼吸，都受到影响。
+5. (ADV) automatically 无意识地
+   ≫   You will automatically wake up after this length of time.  你将在这段时间之后自然醒来。
+6. (N-COUNT) An automatic is a car in which the gears change automatically as the car's speed increases or decreases. 自动换档汽车
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪk'sklusɪv / 英 ɪk'skluːsɪv; ek-]
+adj. 独有的；排外的；专一的
+n. 独家新闻；独家经营的项目；排外者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> inclusive
+------------------------------------------------------------------------
+inclusive    [美 ɪn'klusɪv / 英 ɪn'kluːsɪv]
+adj. 包括的，包含的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a group or organization as inclusive, you mean that it allows all kinds of people to belong to it, rather than just one kind of person. 兼收并蓄的
+   ≫   The academy is far more inclusive now than it used to be.  该学院如今比过去更为兼收并蓄。
+2. [n ADJ] After stating the first and last item in a set of things, you can add inclusive to make it clear that the items stated are included in the set. 首末项包括在内的
+   ≫   You are also invited to join us on our prayer days (this year, June 6 to June 14 inclusive).  你也受邀加入我们的祷告日（今年从6月6日（含）至6月14日（含））。
+3. (ADJ) If a price is inclusive, it includes all the charges connected with the goods or services offered. If a price is inclusive of shipping and handling, it includes the charge for this. 包括一切费用在内的
+   ≫   ...all prices are inclusive of delivery.  …所有价格包括运费。
+4. [amount ADV] Inclusive is also an adverb. 包括一切费用在内地
+   ≫   The outpatient programme costs $105 per day, all inclusive.  门诊病人方案收费每人每天105美元，一切费用包括在内。
+
+========================================================================
+>>> freestyle
+------------------------------------------------------------------------
+freestyle    [美 'fristaɪl / 英 'friːstaɪl]
+n. 自由式
+adj. 自由式的
+adv. 自由地；随心所欲地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Freestyle is used to describe sports competitions, especially in swimming, wrestling, and skiing, in which competitors can use any style or method that they like when they take part. (游泳、摔跤或滑雪比赛中)自由式的
+   ≫   ...the 100m freestyle swimming event.  ...100米自由式游泳比赛。
+2. (N-SING) Freestyle is also a noun. 自由式
+   ≫   She won the 400-metre freestyle.  她在400米自由式中获胜。
+
+========================================================================
+>>> freestanding
+------------------------------------------------------------------------
+freestanding    ['fri'stændɪŋ]
+adj. 独立式的；非附属的；不需依靠支撑物的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A freestanding piece of furniture or other object is not attached to anything, or stands on its own away from other things. (家具)独立式的
+   ≫   ...a small freestanding cast-iron stove.  ...一个小型独立式生铁炉。
+
+========================================================================
+>>> autonomous
+------------------------------------------------------------------------
+autonomous    [美 ɔ'tɑnəməs / 英 ɔː'tɒnəməs]
+adj. 自治的；自主的；自发的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An autonomous country, organization, or group governs or controls itself rather than being controlled by anyone else. 自治的
+   ≫   They proudly declared themselves part of a new autonomous province.  他们自豪地宣布自己是新自治省的一部分。
+2. (ADJ) An autonomous person makes their own decisions rather than being influenced by someone else. 独立自主的
+   ≫   He treated us as autonomous individuals who had to learn to make up our own minds about issues.  他视我们为独立个体，必须学会自主处理问题。
+
+========================================================================
+>>> sovereign
+------------------------------------------------------------------------
+sovereign    [美 sɑvrɪn / 英 'sɒvrɪn]
+adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的；极好的
+n. 君主；独立国；最高统治者
+n. (Sovereign)人名；(英)索夫林
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A sovereign state or country is independent and not under the authority of any other country. 具有独立主权的
+   ≫   Lithuania and Armenia signed a treaty in Vilnius recognizing each other as independent sovereign states.  立陶宛和亚美尼亚在维尔纽斯签订了一份互相承认各自为独立主权国家的协定。
+2. (ADJ) Sovereign is used to describe the person or institution that has the highest power in a country. (人或机构的权力) 至高无上的
+   ≫   Sovereign power will continue to lie with the Supreme People's Assembly.  至高无上的权力将继续掌控在最高人民议会。
+3. (N-COUNT) A sovereign is a king, queen, or other royal ruler of a country. 君主
+   ≫   In March 1889, she became the first British sovereign to set foot on Spanish soil.  1889年3月，她成为首位踏上西班牙国土的英国君主。
+
