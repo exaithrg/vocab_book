@@ -19535,3 +19535,19 @@ CET4 TEM4
    ≫   He eventually constructed a huge business empire.  他最终构建了一个庞大的商业王国。
    ≫   The novel is constructed from a series of on-the-spot reports.  这部小说是由一系列现场报道构思而成的。
 
+========================================================================
+>>> instincts
+------------------------------------------------------------------------
+instincts    ['ɪnstɪŋkt]
+n. [生物] 本能（instinct的复数）；[心理] 直觉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Instinct is the natural tendency that a person or animal has to behave or react in a particular way. 本能
+   ≫   I didn't have as strong a maternal instinct as some other mothers.  我不像其他一些母亲那样有那么强烈的母性本能。
+2. (N-COUNT) If you have an instinct for something, you are naturally good at it or able to do it. 天分
+   ≫   He seems to have an instinct for smart advertising and marketing.  他好像在广告和营销方面有天分。
+3. (N-VAR) If it is your instinct to do something, you feel that it is right to do it. 本能的反应
+   ≫   I should've gone with my first instinct, which was not to do the interview.  我应该凭我的本能反应行事，那就是，不去面试。
+4. (N-VAR) Instinct is a feeling, rather than an opinion or idea based on facts, that something is the case. 直觉
+   ≫   There is scientific evidence to support our instinct that being surrounded by plants is good for health.  有科学证据表明我们的直觉是正确的，即被植物环绕着有益健康。
+
