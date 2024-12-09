@@ -19757,3 +19757,13 @@ Recruitment Position List
 Campus Recruitment Position List
 校园招聘岗位列表
 
+========================================================================
+>>> Corollary
+------------------------------------------------------------------------
+corollary    [美 'kɔrəlɛri / 英 kə'rɒlərɪ]
+n. 推论；必然的结果
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft with poss] A corollary of something is an idea, argument, or fact that results directly from it. 结果
+   ≫   The number of prisoners increased as a corollary of the government's determination to combat violent crime.  政府决心打击暴力犯罪，其后果是囚犯数量增加了。
+
