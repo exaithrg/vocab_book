@@ -18235,3 +18235,303 @@ Not found :(
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
+n. 感情，情绪；情操；观点；多愁善感
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+>>> attitude
+------------------------------------------------------------------------
+attitude    [美 'ætɪtʊd / 英 'ætɪtjuːd]
+n. 态度；看法；意见；姿势
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your attitude to something is the way that you think and feel about it, especially when this shows in the way you behave. 态度
+   ≫   ...the general change in attitude toward handicapped people.  …对残疾人态度的普遍转变。
+   ≫   Being unemployed produces negative attitudes to work.  失业会对工作产生消极态度。
+
+========================================================================
+>>> attitute
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> attribute
+------------------------------------------------------------------------
+attribute    [美 ə'trɪbjut / 英 ə'trɪbjuːt]
+n. 属性；特质
+vt. 归属；把…归于
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. [usu passive] If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自…
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> attitude
+------------------------------------------------------------------------
+attitude    [美 'ætɪtʊd / 英 'ætɪtjuːd]
+n. 态度；看法；意见；姿势
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your attitude to something is the way that you think and feel about it, especially when this shows in the way you behave. 态度
+   ≫   ...the general change in attitude toward handicapped people.  …对残疾人态度的普遍转变。
+   ≫   Being unemployed produces negative attitudes to work.  失业会对工作产生消极态度。
+
+========================================================================
+>>> attribute
+------------------------------------------------------------------------
+attribute    [美 ə'trɪbjut / 英 ə'trɪbjuːt]
+n. 属性；特质
+vt. 归属；把…归于
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. [usu passive] If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自…
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> aptitude
+------------------------------------------------------------------------
+aptitude    [美 ˈæptɪˌtud, -ˌtjud / 英 'æptɪtjuːd]
+n. 天资；自然倾向；适宜
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Someone's aptitude for a particular kind of work or activity is their ability to learn it quickly and to do it well. 天资
+   ≫   He drifted into publishing and discovered an aptitude for working with accounts.  他偶入出版界，发现自己具有管账的天资。
+
+========================================================================
+>>> altitude
+------------------------------------------------------------------------
+altitude    [美 'æltɪtud / 英 'æltɪtjuːd]
+n. 高地；高度；[数] 顶垂线；（等级和地位等的）高级；海拔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If something is at a particular altitude, it is at that height above sea level. 海拔高度
+   ≫   The aircraft had reached its cruising altitude of about 39,000 feet.  那架飞机已经达到了大约三万九千英尺的巡航高度。
+
+========================================================================
+>>> amplitude
+------------------------------------------------------------------------
+amplitude    [美 'æmplə'tʊd / 英 'æmplɪtjuːd]
+n. 振幅；丰富，充足；广阔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] In physics, the amplitude of a sound wave or electrical signal is its strength. (声波或电流信号的)振幅
+
+========================================================================
+>>> longitude
+------------------------------------------------------------------------
+longitude    [美 'lɑndʒətud / 英 'lɒn(d)ʒɪtjuːd; 'lɒŋgɪ-]
+n. [地理] 经度；经线
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The longitude of a place is its distance to the west or east of a line passing through Greenwich, England. Compare . 经度
+   ≫   He noted the latitude and longitude, then made a mark on the admiralty chart.  他记下经度和纬度，然后在海图上作了标记。
+2. (ADJ) Longitude is also an adjective. 经度的
+   ≫   A similar feature is found at 13 degrees north between 230 degrees and 250 degrees longitude.  在北纬13度、经度230度到250度之间也发现了类似的特点。
+
+========================================================================
+>>> latitude
+------------------------------------------------------------------------
+latitude    [美 'lætɪtud / 英 'lætɪtjuːd]
+n. 纬度；界限；活动范围
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The latitude of a place is its distance from the equator. Compare . 纬度
+   ≫   In the middle to high latitudes rainfall has risen steadily over the last 20-30 years.  中高纬度地区的降雨量在过去的20到30年间稳步上升了。
+2. (ADJ) Latitude is also an adjective. 纬度的
+   ≫   The army must cease military operations above 36° latitude north.  军队必须停止在北纬36度以北地区的军事行动。
+3. [正式] Latitude is freedom to choose the way in which you do something. 自由度
+   ≫   He would be given every latitude in forming a new government.  他将被给予高度自由来建立一个新政府。
+
+========================================================================
+>>> altitude
+------------------------------------------------------------------------
+altitude    [美 'æltɪtud / 英 'æltɪtjuːd]
+n. 高地；高度；[数] 顶垂线；（等级和地位等的）高级；海拔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If something is at a particular altitude, it is at that height above sea level. 海拔高度
+   ≫   The aircraft had reached its cruising altitude of about 39,000 feet.  那架飞机已经达到了大约三万九千英尺的巡航高度。
+
+========================================================================
+>>> basin
+------------------------------------------------------------------------
+basin    [美 'besn / 英 'beɪs(ə)n]
+n. 水池；流域；盆地；盆
+n. (Basin)人名；(俄)巴辛；(法)巴赞
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A basin is a large or deep bowl that you use for holding liquids. 盆
+   ≫   Water dripped into a basin at the back of the room.  水滴入房间后面的一个盆里。
+2. (N-COUNT) A basin of something such as water is an amount of it that is contained in a basin. 一盆之量
+   ≫   We were given a basin of water to wash our hands in.  我们得到了一盆水洗手。
+3. (N-COUNT) A basin is a sink. 洗涤槽
+   ≫   ...a cast-iron bathtub with a matching basin.  …一个配有洗涤槽的铸铁浴缸。
+4. (N-COUNT) The basin of a large river is the area of land around it from which streams run down into it. 流域
+   ≫   ...the Amazon basin.  …亚马孙流域
+5. [技术] In geography, a basin is a particular region of the world where the Earth's surface is lower than in other places. 盆地
+   ≫   ...countries around the Pacific Basin.  …太平洋盆地周围的国家。
+
+========================================================================
+>>> canyon
+------------------------------------------------------------------------
+canyon    [英 'kænjən /  'kænjən]
+n. 峡谷
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A canyon is a long, narrow valley with very steep sides. 峡谷
+   ≫   ...the Grand Canyon.  …大峡谷。
+
+========================================================================
+>>> cannon
+------------------------------------------------------------------------
+cannon    [美 'kænən / 英 'kænən]
+n. 大炮；加农炮；榴弹炮；机关炮
+vi. 炮轰；开炮
+vt. 炮轰
+n. (Cannon)人名；(英、葡)坎农
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cannon is a large gun, usually on wheels, which used to be used in battles. 大炮
+   ≫   The cannons boom, the band plays.  炮声隆隆，鼓乐齐鸣。
+2. (N-COUNT) A cannon is a heavy automatic gun, especially one that is fired from an aircraft. 机关炮
+   ≫   Others carried huge cannons plundered from Russian aircraft.  其他人扛着从俄国飞机上抢来的巨型机关炮。
+3. (PHRASE) If someone is a loose cannon, they do whatever they want and nobody can predict what they are going to do. 随心所欲的人
+   ≫   Max is a loose cannon politically.  马克斯是个在政治上随心所欲的人。
+
+========================================================================
+>>> continent
+------------------------------------------------------------------------
+continent    [美 'kɑntɪnənt / 英 'kɒntɪnənt]
+n. 大陆，洲，陆地
+adj. 自制的，克制的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A continent is a very large area of land, such as Africa or Asia, that consists of several countries. 洲
+   ≫   She loved the African continent.  她热爱非洲大陆。
+2. [英国英语] People sometimes use the Continent to refer to the continent of Europe except for Britain. (除英国外的) 欧洲大陆
+   ≫   Its shops are among the most stylish on the Continent.  其商店位列欧洲大陆最时尚的商店之中。
+3. (ADJ) able to control urination and defecation 能控制大小便的
+
+========================================================================
+>>> desert
+------------------------------------------------------------------------
+desert    [美 (for v.) dɪˈzɝ​t; (for n.) 'dɛzɚt / 英 (for v.) dɪ'zɜːt; (for n.) 'dezət]
+vt. 遗弃；放弃；逃跑
+vi. 遗弃；开小差；逃掉
+n. 沙漠；荒原；应得的赏罚
+adj. 沙漠的；荒凉的；不毛的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A desert is a large area of land, usually in a hot region, where there is almost no water, rain, trees, or plants. 沙漠
+   ≫   ...the Sahara Desert.  …撒哈拉沙漠。
+2. (V-T) If people or animals desert a place, they leave it and it becomes empty. 遗弃
+   ≫   Poor farmers are deserting their parched farm fields and coming here looking for jobs.  贫穷的农民丢下干旱的农田，来这里寻找工作。
+3. (ADJ) deserted 被遗弃的
+   ≫   She led them into a deserted sidestreet.  她领他们来到一条废弃的小巷。
+4. (V-T) If someone deserts you, they go away and leave you, and no longer help or support you. 抛弃
+   ≫   Mrs. Roding's husband deserted her years ago.  罗丁太太的丈夫数年前抛弃了她。
+5. (N-VAR) desertion 遗弃
+   ≫   It was a long time since she'd referred to her father's desertion.  自从她谈到被父亲遗弃已经很长时间了。
+6. (V-T/V-I) If you desert something that you support, use, or are involved with, you stop supporting it, using it, or being involved with it. 放弃
+   ≫   The sport is being written off as boring and predictable and the fans are deserting in droves.  这项运动因为枯燥且易于预测而不再吸引人，爱好者们正成批地退出。
+   ≫   He was pained to see many youngsters deserting kibbutz life.  他痛心地看到许多年轻人放弃集体农场生活。
+7. (N-VAR) desertion 放弃
+   ≫   They blamed his proposal for much of the mass desertion by the Republican electorate.  他们把共和党选民的大批离弃主要原因归咎于他的提议。
+8. (V-T/V-I) If someone deserts, or deserts a job, especially a job in the armed forces, they leave that job without permission. 开小差
+   ≫   He was a second lieutenant in the army until he deserted.  他在开小差之前是个少尉。
+   ≫   He deserted from army intelligence last month.  他上个月从军队情报部门开了小差。
+9. [情感] If you say that someone got their just deserts, you mean that they deserved the unpleasant things that happened to them, because they did something bad. 应受的惩罚
+   ≫   At the end of the book the child's true identity is discovered, and the bad guys get their just deserts.  在书的结尾，这孩子的真实身份被揭开了，那些坏人也受到了应有的惩罚。
+
+========================================================================
+>>> glacier
+------------------------------------------------------------------------
+glacier    [美 'ɡleʃɚ / 英 'glæsɪə; 'gleɪsɪə]
+n. 冰河，冰川
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A glacier is an extremely large mass of ice which moves very slowly, often down a mountain valley. 冰川
+
+========================================================================
+>>> plateau
+------------------------------------------------------------------------
+plateau    [美 plæ'to / 英 'plætəʊ]
+n. 高原；稳定水平；托盘；平顶女帽
+vi. 达到平衡；达到稳定时期
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plateau is a large area of high and fairly flat land. 高原
+   ≫   A broad valley opened up leading to a high, flat plateau of cultivated land.  一个宽阔的山谷展开，通向一片平坦的高原耕地。
+2. (N-COUNT) If you say that an activity or process has reached a plateau, you mean that it has reached a stage where there is no further change or development. (不再有变化或进展的) 稳定阶段
+   ≫   The U.S. heroin market now appears to have reached a plateau.  美国的海洛因市场目前似乎已进入了一个稳定阶段。
+
+========================================================================
+>>> peninsula
+------------------------------------------------------------------------
+peninsula    [美 pə'nɪnsələ / 英 pɪ'nɪnsjʊlə]
+n. 半岛
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A peninsula is a long narrow piece of land that sticks out from a larger piece of land and is almost completely surrounded by water. 半岛
+   ≫   ...the political situation in the Korean peninsula.  …朝鲜半岛的政治局势。
+
+========================================================================
+>>> strait
+------------------------------------------------------------------------
+strait    [美 stret / 英 streɪt]
+adj. 狭窄的；苦恼的
+n. 海峡；困境
+n. (Strait)人名；(英)斯特雷特
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) You can refer to a narrow strip of sea which joins two large areas of sea as a strait or the straits. 海峡
+   ≫   An estimated 1,600 vessels pass through the strait annually.  估计每年有1600艘船经过这个海峡。
+2. [adj N] If someone is in dire or desperate straits, they are in a very difficult situation, usually because they do not have much money. (常指缺钱造成的) 困境
+   ≫   The company's closure has left many small businessmen in desperate financial straits.  该公司的关闭使得许多小商人陷入经济困境。
+
+========================================================================
+>>> gulf
+------------------------------------------------------------------------
+gulf    [美 ɡʌlf / 英 gʌlf]
+n. 海湾；深渊；分歧；漩涡
+vt. 吞没
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A gulf is an important or significant difference between two people, things, or groups. 巨大的差距
+   ≫   Within society, there is a growing gulf between rich and poor.  在社会的内部，贫富之间有着一道日益加深的鸿沟。
+2. (N-COUNT) A gulf is a large area of sea which extends a long way into the surrounding land. 海湾
+   ≫   Hurricane Andrew was last night heading into the Gulf of Mexico.  安德鲁飓风昨晚进入墨西哥湾。
+
+========================================================================
+>>> volcano
+------------------------------------------------------------------------
+volcano    [英 vɒl'keɪnəʊ / 美 vɑl'keno]
+n. 火山
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A volcano is a mountain from which hot melted rock, gas, steam, and ash from inside the earth sometimes burst. 火山
+   ≫   The volcano erupted last year killing about 600 people.  去年那座火山喷发导致大约六百人丧生。
+
