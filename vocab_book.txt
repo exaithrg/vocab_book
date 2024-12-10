@@ -20493,3 +20493,16 @@ CET4 TEM4
 1. (V-T) To emphasize something means to indicate that it is particularly important or true, or to draw special attention to it. 强调
    ≫   But it's also been emphasized that no major policy changes can be expected to come out of the meeting.  但是也强调，这次会议预期不会做出重大政策改变。
 
+========================================================================
+>>> complementary
+------------------------------------------------------------------------
+complementary    [英 kɒmplɪ'ment(ə)rɪ / 美 'kɑmplə'mɛntri]
+adj. 补足的，补充的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Complementary things are different from each other but make a good combination. 互补的
+   ≫   To improve the quality of life through work, two complementary strategies are necessary.  要通过工作提高生活质量，两个互补的策略很必要。
+   ≫   He has done experiments complementary to those of Eigen.  他已经做了与艾根的实验互补的实验。
+2. [ADJ n] Complementary medicine refers to ways of treating patients which are different from the ones used by most Western doctors, for example acupuncture and homeopathy. 辅助性的
+   ≫   ...combining orthodox treatment with a wide range of complementary therapies.  …结合传统治疗和各种辅助性疗法。
+
