@@ -19879,3 +19879,556 @@ n. 显著；卓越；特点；凸起
 ≫   Nonlinear sampling model is adopted and saliency map is formed based on contrast of neighboring sampling nodes. 在注意机制中采用非线性采样模型，并利用相邻采样点形成显著性图。
 ≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
 
+========================================================================
+>>> vurvature
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> curvature
+------------------------------------------------------------------------
+curvature    [美 'kɝvətʃɚ / 英 'kɜːvətʃə]
+n. 弯曲，[数] 曲率
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N 'of' n] The curvature of something is its curved shape, especially when this shape is part of the circumference of a circle. 圆弧
+   ≫   ...the curvature of the earth.  ...地球的曲度。
+
+========================================================================
+>>> loss curvature
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1332
+loss curvature
+损失曲率
+
+========================================================================
+>>> inverse
+------------------------------------------------------------------------
+inverse    [美 ,ɪn'vɝs / 英 'ɪnvɜːs; ɪn'vɜːs]
+n. 相反；倒转
+adj. 相反的；倒转的
+vt. 使倒转；使颠倒
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] If there is an inverse relationship between two things, one of them becomes larger as the other becomes smaller. 相反的
+   ≫   The tension grew in inverse proportion to the distance from their final destination.  拉力的增加与到达它们最终点的距离成相反的比例。
+2. (ADV) inversely
+   ≫   The size of the nebula at this stage is inversely proportional to its mass.  这个阶段的星云大小与其质量成反比。
+3. ['the' N, usu N 'of' n] The inverse of something is its exact opposite. 倒置; 颠倒
+   ≫   There is no sign that you bothered to consider the inverse of your logic.  没有迹象显示你在乎过逻辑的颠倒。
+4. [ADJ n] Inverse is also an adjective. 倒置的; 颠倒的
+   ≫   The hologram can be flipped to show the inverse image.  全息图能被翻转来显示倒置的图像。
+
+========================================================================
+>>> infeasible
+------------------------------------------------------------------------
+infeasible    [英 ɪn'fiːzɪb(ə)l /  ɪn'fiːzɪb(ə)l]
+adj. 不可实行的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) → a less common word for
+
+========================================================================
+>>> parametrization
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1422
+parametrization
+n. [数] 参数化；参数化法；[计] 参量化
+
+========================================================================
+>>> yields
+------------------------------------------------------------------------
+yields    [ji:ld]
+n. 生产量，投资效益（yield的复数形式）
+v. [经] 生产；投降，[力] 屈服（yield的三单形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you yield to someone or something, you stop resisting them. 屈服
+   ≫   Carmen yielded to general pressure and grudgingly took the child to a specialist.  卡门屈服于普遍的压力，不得已带孩子去看了位专科大夫。
+2. [正式] If you yield something that you have control of or responsibility for, you allow someone else to have control or responsibility for it. 放弃
+   ≫   He may yield control.  他可能放弃控制权。
+3. [美国英语] If a moving person or a vehicle yields, they slow down in order to allow other people or vehicles to pass in front of them. 让行
+   ≫   When entering a trail or starting a descent, yield to other skiers.  进入滑道或开始下滑时，给其他滑雪者们让行。
+   ≫   ...examples of common signs like No Smoking and Yield.  …像“禁止吸烟”和“让行”这样的常见标志例子。
+4. (V-I) If something yields, it breaks or moves position because force or pressure has been put on it. (因受力或受压而) 破碎; 断裂; 移位
+   ≫   He reached the massive door of the barn and pushed. It yielded.  他够着了畜棚厚重的大门推了推。门开了。
+5. (V-T) If an area of land yields a particular amount of a crop, this is the amount that is produced. You can also say that a number of animals yield a particular amount of meat. 产
+   ≫   Last year 400,000 acres of land yielded a crop worth $1.75 billion.  去年40万英亩的土地出产了价值17.5亿美元的粮食。
+6. (N-COUNT) A yield is the amount of food produced on an area of land or by a number of animals. 产量
+   ≫   ...improving the yield of the crop.  …增加农作物的产量。
+7. [商业] If a tax or investment yields an amount of money or profit, this money or profit is obtained from it. 产生 (收益)
+   ≫   It yielded a profit of at least $36 million.  它带来了至少三千六百万美元的利润。
+8. [商业] A yield is the amount of money or profit produced by an investment. (投资的) 利润; 收益
+   ≫   ...a yield of 4%.  …4%的收益。
+   ≫   The high yields available on the dividend shares made them attractive to private investors.  股息股能获得的高收益使它们对私人投资者们很有吸引力。
+9. (V-T) If something yields a result or piece of information, it produces it. 产生 (结果); 制造 (消息)
+   ≫   This research has been in progress since 1961 and has yielded a great number of positive results.  这项研究自1961年以来一直在开展，已经取得了大量的积极成果。
+
+========================================================================
+>>> “but we show that its parametrization yields worse prun ing results”
+------------------------------------------------------------------------
+✘  请输入有效查询字符或参数
+
+========================================================================
+>>> but we show that its parametrization yields worse prun ing results
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1655
+but we show that its parametrization yields worse prun ing results
+但我们表明，它的参数化产生较差的修剪结果
+
+========================================================================
+>>> matrix inversion
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1707
+matrix inversion
+矩阵求逆：矩阵求逆是指对给定的方阵进行运算，得到其逆矩阵的过程。逆矩阵是指与原矩阵相乘后得到单位矩阵的矩阵。
+
+========================================================================
+>>> inherently
+------------------------------------------------------------------------
+inherently    [美 ɪnˈhɪrəntlɪ / 英 ɪnˈhɪərəntlɪ]
+adv. 内在地；固有地；天性地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The model is not inherently flawed, but it is only a part of the answer to establishing a sustainable economy. 这种模式并没有内在的缺陷，但要想建立一种可持续发展的经济，它只是答案的一部分。
+≫   One argument for open source has always been that you have inherently more security because anyone can examine the underlying program code and verify it does what it ought to be doing. 开源争论的焦点之一就是让你天生的拥有更多的安全性，因为任何人都可以检查程序的代码并证实它在做它应该做的事情。
+≫   The values do not mean anything inherently, but they have the nice property of being unique at any given moment of runtime. 这些值本来没有任何含义，但具有一种良好的特性，即在任何给定的运行时时刻，它们都是唯一的。
+
+========================================================================
+>>> noisy
+------------------------------------------------------------------------
+noisy    [美 ˈnɔɪzɪ / 英 ˈnɔɪzɪ]
+adj. .嘈杂的；喧闹的；聒噪的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A noisy person or thing makes a lot of loud or unpleasant noise. 喧闹的; 有噪音的
+   ≫   ...my noisy old typewriter.  …我的噪音大的旧打字机。
+2. (ADV) noisily 喧闹地; 有噪音地
+   ≫   The students on the grass bank cheered noisily.  学生们在草堤上喧闹地欢呼。
+3. (ADJ) A noisy place is full of a lot of loud or unpleasant noise. 嘈杂的
+   ≫   It's a noisy place with film clips showing constantly on one of the cafe's giant screens.  这是一个嘈杂的地方，电影片断不停地在咖啡厅其中一个大屏幕上放映。
+   ≫   The baggage hall was crowded and noisy.  行李大厅拥挤而嘈杂。
+4. [表不满] If you describe someone as noisy, you are critical of them for trying to attract attention to their views by frequently and forcefully discussing them. 过分渲染的; 哗众取宠的
+   ≫   It might, at last, silence the small but noisy intellectual clique.  它或许最终能让那个人数不多却哗众取宠的知识分子群体安静下来。
+
+========================================================================
+>>> yielding
+------------------------------------------------------------------------
+yielding    [英 'jiːldɪŋ / 美 'jildɪŋ]
+adj. 生产的；屈从的；易弯曲的；柔顺的
+n. 屈服；让步；可缩性
+v. 出产（yield的ing形式）；屈从
+n. (Yielding)人名；(英)伊尔丁
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A yielding surface or object is quite soft and will move or bend rather than staying stiff if you put pressure on it. 柔软的; 易变形的
+   ≫   ...the yielding ground.  ...松软的地面。
+   ≫   ...the soft yielding cushions.  ...柔软的靠垫。
+
+========================================================================
+>>> regimes
+------------------------------------------------------------------------
+regimes    [rei'ʒi:m; ri-; ri'dʒi:m]
+n. 政治制度，政权，政体( regime的名词复数 )；组织方法；管理体制；[物理]（某类现象发生时所需的，或者某类现象其主导作用时的）物理条件/环境
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to a government or system of running a country as a regime, you are critical of it because you think it is not democratic and uses unacceptable methods. 统治
+   ≫   ...the collapse of the Fascist regime at the end of the war.  …战争结束时法西斯统治的崩溃。
+2. (N-COUNT) A regime is the way that something such as an institution, company, or economy is run, especially when it involves tough or severe action. (机构、公司或经济等的) 管理方式
+   ≫   The authorities moved him to the less rigid regime of an open prison.  当局把他移送到管理相对宽松的不设防监狱。
+3. (N-COUNT) A regime is a set of rules about food, exercise, or beauty that some people follow in order to stay healthy or attractive. 养生法
+   ≫   He has a new fitness regime to strengthen his back.  他有一套新的健康养生法来加强他的背部力量。
+
+========================================================================
+>>> divergence
+------------------------------------------------------------------------
+divergence    [美 dəˈvɜrdʒəns; daɪˈvɜrdʒəns / 英 daɪ'vɜːdʒ(ə)ns]
+n. 分歧
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A divergence is a difference between two or more things, attitudes, or opinions. 分歧; 差异
+   ≫   There's a substantial divergence of opinion within the party.  党内意见严重分歧。
+
+========================================================================
+>>> GAN
+------------------------------------------------------------------------
+gan    [英 ɡæn]
+v. 开始；着手（gin的过去式）
+n. (Gan)人名；(俄、西、德、罗)加恩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [DIALECT] to go 将去
+
+========================================================================
+>>> hardness
+------------------------------------------------------------------------
+hardness    [美 'hɑrdnɪs / 英 'hɑːdnəs]
+n. [物] 硬度；坚硬；困难；冷酷
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   With regard to hardness, the diamond is in a class by itself. 讲硬度， 金刚钻是独一无二的。
+≫   The hardness of this approach depends mostly on the CPU interrupt structure and context-switch hardware support. 这种方法的硬度主要取决于 CPU 中断结构和环境转换的硬件支持。
+≫   Of course, all this needs to be adjusted according to the actual hardness of the chocolate. 当然，所有这些都必须根据巧克力的实际硬度来调节。
+
+========================================================================
+>>> hardness parameter
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1957
+hardness parameter
+硬度参数
+
+========================================================================
+>>> mixture
+------------------------------------------------------------------------
+mixture    [美 'mɪkstʃɚ / 英 'mɪkstʃə]
+n. 混合；混合物；混合剂
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) A mixture of things consists of several different things together. 混合
+   ≫   They looked at him with a mixture of horror, envy, and awe.  他们带着害怕、羡慕和敬畏的混合表情看着他。
+2. (N-COUNT) A mixture is a substance that consists of other substances which have been stirred or shaken together. 混合物
+   ≫   ...a mixture of water and sugar and salt.  …水、糖和盐的混合物。
+
+========================================================================
+>>> compound
+------------------------------------------------------------------------
+compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
+n. [化学] 化合物；混合物；复合词
+adj. 复合的；混合的
+v. 合成；混合；恶化，加重；和解，妥协
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A compound is an enclosed area of land that is used for a particular purpose. 作特定用途的围地
+   ≫   They took refuge in the embassy compound.  他们在大使馆围区内避难。
+   ≫   ...a military compound.  …一个军事管辖区。
+2. (N-COUNT) In chemistry, a compound is a substance that consists of two or more elements. 化合物
+   ≫   Organic compounds contain carbon in their molecules.  有机化合物的分子里含碳。
+3. [正式] If something is a compound of different things, it consists of those things. 混合物
+   ≫   Honey is basically a compound of water, two types of sugar, vitamins and enzymes.  蜂蜜主要是水、两种糖、维生素和酶的混合物。
+4. [ADJ n] Compound is used to indicate that something consists of two or more parts or things. 复合的
+   ≫   ...the big compound eyes of dragonflies.  …蜻蜓的大复眼。
+5. (V) to mix or combine so as to create a compound or other product 通过混合或化合制成
+6. (V-T) To compound a problem, difficulty, or mistake means to make it worse by adding to it. 加剧
+   ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
+   ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
+7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
+
+========================================================================
+>>> Contrary to
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2049
+Contrary to
+与……相反；违反；不顺从
+
+========================================================================
+>>> intermediate
+------------------------------------------------------------------------
+intermediate    [英 ,ɪntə'miːdɪət / 美 ,ɪntɚ'midɪət]
+vi. 起媒介作用
+adj. 中间的，中级的
+n. [化学] 中间物；媒介
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An intermediate stage, level, or position is one that occurs between two other stages, levels, or positions. 中间的
+   ≫   Do you make any intermediate stops between your home and work?  你在住所和工作地点之间停留吗？
+2. (ADJ) Intermediate learners of something have some knowledge or skill but are not yet advanced. 中级的
+   ≫   Students are categorized as novice, intermediate, or advanced.  学生分为新生、中级生或高级生。
+3. (N-COUNT) An intermediate is an intermediate learner. 中级生
+   ≫   The ski school coaches beginners, intermediates, and advanced skiers.  滑雪学校训练初级、中级和高级水平的滑雪者。
+
+========================================================================
+>>> orderof-magnitude
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> order-of-magnitude
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2148
+order-of-magnitude
+数量级范围：从某个数值延伸到该数值的十倍的一种数量级范围。
+
+========================================================================
+>>> obtain
+------------------------------------------------------------------------
+obtain    [美 əb'ten / 英 əb'teɪn]
+vi. 获得；流行
+vt. 获得
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To obtain something means to get it or achieve it. 获得
+   ≫   Evans was trying to obtain a false passport and other documents.  埃文斯当时正试图获取假护照和其他文件。
+
+========================================================================
+>>> obtaining
+------------------------------------------------------------------------
+obtaining    [美 əbˈtenɪŋ / 英 əbˈteɪnɪŋ]
+n. 得到，获取
+v. 得到（obtain的现在分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To obtain something means to get it or achieve it. 获得
+   ≫   Evans was trying to obtain a false passport and other documents.  埃文斯当时正试图获取假护照和其他文件。
+
+========================================================================
+>>> tenary
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ternary
+------------------------------------------------------------------------
+ternary    [美 'tɝnəri / 英 'tɜːnərɪ]
+adj. [数] 三元的，三重的；[数] 三进制的；第三的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) consisting of three or groups of three 三元的; 有三部分组成的
+2. (N) a group of three 三个一组
+
+========================================================================
+>>> spectrum
+------------------------------------------------------------------------
+spectrum    [美 'spɛktrəm / 英 'spektrəm]
+n. 光谱；频谱；范围；余象
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The spectrum is the range of different colours which is produced when light passes through a glass prism or through a drop of water. A rainbow shows the colours in the spectrum. 光谱
+2. (N-COUNT) A spectrum is a range of a particular type of thing. 范围
+   ≫   She'd seen his moods range across the emotional spectrum.  她见过他在各种情感间的情绪变化。
+   ≫   Politicians across the political spectrum have denounced the act.  政界圈各派政客都谴责了这种行为。
+
+========================================================================
+>>> Spectrum
+------------------------------------------------------------------------
+spectrum    [美 'spɛktrəm / 英 'spektrəm]
+n. 光谱；频谱；范围；余象
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The spectrum is the range of different colours which is produced when light passes through a glass prism or through a drop of water. A rainbow shows the colours in the spectrum. 光谱
+2. (N-COUNT) A spectrum is a range of a particular type of thing. 范围
+   ≫   She'd seen his moods range across the emotional spectrum.  她见过他在各种情感间的情绪变化。
+   ≫   Politicians across the political spectrum have denounced the act.  政界圈各派政客都谴责了这种行为。
+
+========================================================================
+>>> Hessian Spectrum
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2362
+Hessian Spectrum
+黑森频谱
+
+========================================================================
+>>> inverstigate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> investigate
+------------------------------------------------------------------------
+investigate    [美 ɪn'vɛstɪɡet / 英 ɪn'vestɪgeɪt]
+v. 调查；研究
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If someone, especially an official, investigates an event, situation, or claim, they try to find out what happened or what is the truth. 调查
+   ≫   They're still investigating the accident.  他们还在调查这个事故。
+2. (N-VAR) investigation 调查
+   ≫   He ordered an investigation into the affair.  他下令对此事进行调查。
+
+========================================================================
+>>> orthogonal
+------------------------------------------------------------------------
+orthogonal    [美 ɔr'θɑgənəl / 英 ɔː'θɒg(ə)n(ə)l]
+adj. [数] 正交的；直角的
+n. 正交直线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) relating to, consisting of, or involving right angles; perpendicular 直角的; 垂直的
+
+========================================================================
+>>> showcase
+------------------------------------------------------------------------
+showcase    [英 'ʃəʊkeɪs / 美 'ʃokes]
+n. 陈列橱，[家具] 陈列柜；显示优点的东西
+vt. 使展现；在玻璃橱窗陈列
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A showcase is a glass container with valuable objects inside it, for example, at an exhibition or in a museum. 玻璃陈列柜
+2. [with supp] You use showcase to refer to a situation or setting in which something is displayed or presented to its best advantage. 展示场合
+   ≫   The festival remains a valuable showcase for new talent.  该音乐节依然是新秀展示才华的宝贵机会。
+3. [usu passive] If something is showcased, it is displayed or presented to its best advantage. 展示
+   ≫   Restored films are being showcased this month at a festival in Paris.  本月的巴黎电影节将展映一些修复版的电影。
+
+========================================================================
+>>> conjunction
+------------------------------------------------------------------------
+conjunction    [美 kən'dʒʌŋkʃən / 英 kən'dʒʌŋ(k)ʃ(ə)n]
+n. 结合；[语] 连接词；同时发生
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A conjunction of two or more things is the occurrence of them at the same time or place. 同时发生; 同地发生
+   ≫   ...the conjunction of two events.  …两事件的同时发生。
+2. (N-COUNT) In grammar, a conjunction is a word or group of words that joins together words, groups, or clauses. In English, there are coordinating conjunctions such as "and" and "but," and subordinating conjunctions such as "although," "because," and "when." 连词
+3. [usu PHR 'with' n] If one thing is done in conjunction with another, the two things are done or used together. 与…一起 (做、用)
+   ≫   Textbooks are designed to be used in conjunction with classroom teaching.  教科书被设计成与课堂教学配合使用。
+
+========================================================================
+>>> in conjuction with
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> in conjunction with
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2607
+in conjunction with
+与……一起，结合使用
+
+========================================================================
+>>> downstream
+------------------------------------------------------------------------
+downstream    [美 ,daʊn'strim / 英 'daʊn'striːm]
+adv. 下游地；顺流而下
+adj. 下游的；顺流的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Something that is moving downstream is moving toward the mouth of a river, from a point further up the river. Something that is downstream is further toward the mouth of a river than where you are. 朝下游方向; 在下游
+   ≫   We had drifted downstream.  我们向下游漂去。
+2. [ADJ n] Downstream is also an adjective. 下游的
+   ≫   Breaking the dam could submerge downstream cities such as Wuhan.  毁坏大坝可能会淹没武汉这样的下游城市。
+
+========================================================================
+>>> Upstream
+------------------------------------------------------------------------
+upstream    [美 ,ʌp'strim / 英 'ʌpstriːm]
+adv. 逆流地；向上游
+adj. 向上游的；逆流而上的
+n. 上游部门
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Something that is moving upstream is moving towards the source of a river against the current, from a point further down the river. Something that is upstream is towards the source of a river. 向上游
+   ≫   Salmon manage to swim upstream to lay their eggs.  三文鱼设法游到上游产卵。
+   ≫   ...the river police, whose headquarters are just upstream of the Isle St Louis.  …总部就设在圣路易斯岛上游的水警。
+2. [ADJ n] Upstream is also an adjective. 上游的
+   ≫   We'll go to the upstream side of that big rock.  我们将去那块大岩石的上游一侧。
+
+========================================================================
+>>> incure
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> incur
+------------------------------------------------------------------------
+incur    [美 ɪn'kɝ / 英 ɪn'kɜː]
+vt. 招致，引发；蒙受
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] If you incur something unpleasant, it happens to you because of something you have done. 招致; 蒙受
+   ≫   The government had also incurred huge debts.  政府也已承受了大笔债务。
+
+========================================================================
+>>> moderate
+------------------------------------------------------------------------
+moderate    [美 ˈmɑdərɪt; (for v.,) ˈmɑdərˌeɪt / 英 'mɒd(ə)rət]
+adj. 稳健的，温和的；适度的，中等的；有节制的
+vi. 变缓和，变弱
+vt. 节制；减轻
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Moderate political opinions or policies are not extreme. (政见或政策) 温和的
+   ≫   He was an easygoing man of very moderate views.  他是一个有着温和观点性情随和的人。
+2. (ADJ) You use moderate to describe people or groups who have moderate political opinions or policies. (人或团体) 温和的
+   ≫   ...a moderate Democrat.  …温和的民主党人。
+3. (N-COUNT) A moderate is someone with moderate political opinions. 温和派
+   ≫   If he presents himself as a radical he risks scaring off the moderates whose votes he so desperately needs.  如果他表现出自己是个激进分子的话，他就有可能吓跑那些温和派，而他急需那些人的选票。
+4. (ADJ) You use moderate to describe something that is neither large nor small in amount or degree. (数量或程度) 适中的
+   ≫   While a moderate amount of stress can be beneficial, too much stress can exhaust you.  适当的压力可能有益，而压力过大会让你筋疲力尽。
+5. (ADV) moderately 适中地
+   ≫   Both are moderately large insects, with a wingspan of around four centimetres.  这两只都是中等大小的昆虫，翼幅大约为四厘米。
+6. (ADJ) A moderate change in something is a change that is not great. (变化) 不大的
+   ≫   Most drugs offer either no real improvement or, at best, only moderate improvements.  大多数药或者没有真正疗效，或者最多也就是稍有疗效。
+7. [ADV after v] moderately 不大地
+   ≫   Share prices on the Tokyo Exchange declined moderately.  东京股票交易所的股票价格稍有下降。
+8. (V-T/V-I) If you moderate something or if it moderates, it becomes less extreme or violent and easier to deal with or accept. 使缓和; 变得缓和
+   ≫   They are hoping that once in office he can be persuaded to moderate his views.  他们希望他一上台后就能他说服，使他的观点变得温和些。
+9. (N-UNCOUNT) moderation 缓和
+   ≫   A moderation in food prices helped to offset the first increase in energy prices.  食品价格的降低有助于抵消能源价格的第一次上涨。
+
+========================================================================
+>>> prior
+------------------------------------------------------------------------
+prior    [英 'praɪə / 美 'praɪɚ]
+adj. 优先的；在先的，在前的
+adv. 在前，居先
+n. (Prior)人名；(法、西、葡、捷)普里奥尔；(英)普赖尔；(意)普廖尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use prior to indicate that something has already happened, or must happen, before another event takes place. 事先的
+   ≫   He claimed he had no prior knowledge of the protest.  他声称他事先对那次抗议一无所知。
+   ≫   The Constitution requires the president to seek the prior approval of Congress for military action.  宪法要求总统寻求国会对军事行动的事先批准。
+2. [ADJ n] A prior claim or duty is more important than other claims or duties and needs to be dealt with first. 优先的
+   ≫   The firm I wanted to use had prior commitments.  我选择的那家公司有优先承诺。
+3. [statistics] a prior probability 先验的
+4. (N) the superior of a house and community in certain religious orders (一些宗教教派中的社区)长老; 德高望重者
+5. [正式] If something happens prior to a particular time or event, it happens before that time or event. 在 (某时间或事件) 之前
+   ≫   A death prior to 65 is considered to be a premature death.  65岁以前的死亡被认为是过早死亡。
+
+========================================================================
+>>> orthogonal
+------------------------------------------------------------------------
+orthogonal    [美 ɔr'θɑgənəl / 英 ɔː'θɒg(ə)n(ə)l]
+adj. [数] 正交的；直角的
+n. 正交直线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) relating to, consisting of, or involving right angles; perpendicular 直角的; 垂直的
+
+========================================================================
+>>> orthography
+------------------------------------------------------------------------
+orthography    [美 ɔr'θɑɡrəfi / 英 ɔː'θɒgrəfɪ]
+n. 正确拼字；正字法；正字学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a writing system 写作体系
+
+========================================================================
+>>> religious
+------------------------------------------------------------------------
+religious    [美 rɪ'lɪdʒəs / 英 rɪ'lɪdʒəs]
+adj. 宗教的；虔诚的；严谨的；修道的
+n. 修道士；尼姑
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use religious to describe things that are connected with religion or with one particular religion. 宗教的
+   ≫   Religious groups are now able to meet quite openly.  宗教团体现在可以公开集会了。
+2. (ADJ) Someone who is religious has a strong belief in a god or gods. 虔诚的; 笃信宗教的
+   ≫   They are both very religious and felt it was a gift from God.  他们俩都很虔诚，觉得这是上帝赐予的礼物。
+
+========================================================================
+>>> premature
+------------------------------------------------------------------------
+premature    [美 ,primə'tʃʊr / 英 'premətjʊə]
+adj. 早产的；不成熟的；比预期早的
+n. 早产儿；过早发生的事物
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is premature happens earlier than usual or earlier than people expect. 提早的
+   ≫   Accidents are still the number one cause of premature death for Americans.  事故仍然是美国人非自然死亡的首要原因。
+   ≫   His career was brought to a premature end by a succession of knee injuries.  他的职业生涯因连续的膝伤过早地结束了。
+2. (ADV) prematurely 提早地
+   ≫   The war and the years in the harsh mountains had prematurely aged him.  战争和深山老林的岁月使他提早衰老了。
+3. (ADJ) You can say that something is premature when it happens too early and is therefore inappropriate. 过早的
+   ≫   It now seems their optimism was premature.  目前，他们的乐观好像还为时过早。
+4. (ADV) prematurely 过早地
+   ≫   He was careful not to celebrate prematurely.  他很谨慎，没有过早地举行庆祝活动。
+5. (ADJ) A premature baby is one that was born before the date when it was expected to be born. 早产的
+   ≫   Even very young premature babies respond to their mother's presence.  即使很小的早产儿也会对母亲的在场有所反应。
+6. [ADV after v] prematurely 早产地
+   ≫   Danny was born prematurely, weighing only 3lb 3oz.  丹尼是早产的，体重只有3磅3盎司。
+
+========================================================================
+>>> premature death
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2969
+premature death
+过早死亡：指在预期寿命之前死亡，通常是由于疾病、意外事故或其他不可预测的原因导致。
+
