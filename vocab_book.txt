@@ -20750,3 +20750,266 @@ n. 分类学；分类法
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [技术] Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences. (动植物等的)分类法; 分类学
 
+========================================================================
+>>> neglected
+------------------------------------------------------------------------
+neglected    [美 nɪ'ɡlɛktɪd / 英 nɪ'glektɪd]
+adj. 被忽视的；未被好好照管的
+v. 忽视；疏忽（neglect的过去分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you neglect someone or something, you fail to take care of them properly. 疏于照管
+   ≫   The woman denied that she had neglected her child.  那位妇女否认疏于照管她的孩子。
+   ≫   Feed plants and they grow, neglect them and they suffer.  给植物施肥，它们就生长；疏于照管，它们就遭殃。
+2. (N-UNCOUNT) Neglect is also a noun. 疏于照管
+   ≫   The town's old quayside is collapsing after years of neglect.  这座小镇的旧码头区在多年疏于保养后快要坍塌了。
+3. (V-T) If you neglect someone or something, you fail to give them the amount of attention that they deserve. 忽视
+   ≫   He'd given too much to his career, worked long hours, neglected her.  他在事业上投入太多了，长时间地工作，冷落了她。
+4. (ADJ) neglected 被忽视的
+   ≫   The fact that she is not coming today makes her grandmother feel lonely and neglected.  她今天不来了，这让她的祖母感到孤单，受到冷落。
+   ≫   ...a neglected aspect of the city's forgotten history.  …这座城市被遗忘的历史中一个被忽视的方面。
+5. (V-T) If you neglect to do something that you ought to do or neglect your duty, you fail to do it. 疏忽
+   ≫   We often neglect to make proper use of our bodies.  我们经常疏忽了合理使用我们的身体。
+
+========================================================================
+>>> dearth
+------------------------------------------------------------------------
+dearth    [英 dɜːθ /  dɜːθ]
+n. 缺乏；饥馑；粮食不足
+n. (Dearth)人名；(英)迪尔思
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu N 'of' n] If there is a dearth of something, there is not enough of it. 不足
+   ≫   Construction had slowed because of a dearth of labourers.  建筑进程缓慢是因为劳动力不足。
+
+========================================================================
+>>> comparative
+------------------------------------------------------------------------
+comparative    [美 kəm'pærətɪv / 英 kəm'pærətɪv]
+adj. 比较的；相当的
+n. 比较级；对手
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use comparative to show that you are judging something against a previous or different situation. For example, comparative calm is a situation which is calmer than before or calmer than the situation in other places. 比较的 (平静等)
+   ≫   The task was accomplished with comparative ease.  这项任务完成得比较容易。
+2. [ADV adj/adv] comparatively 比较地
+   ≫   ...a comparatively small nation.  …一个比较小的国家。
+3. [ADJ n] A comparative study is a study that involves the comparison of two or more things of the same kind. 比较的 (研究)
+   ≫   ...a comparative study of the dietary practices of people from various regions of India.  …对印度不同地区人们饮食习惯的比较研究。
+4. [ADJ n] In grammar, the comparative form of an adjective or adverb shows that something has more of a quality than something else has. For example, "bigger" is the comparative form of "big," and "more quickly" is the comparative form of "quickly." Compare . 比较级的
+5. (N-COUNT) Comparative is also a noun. 比较级
+   ≫   The comparative of "pretty" is "prettier."  的比较级是。
+
+========================================================================
+>>> emerging
+------------------------------------------------------------------------
+emerging    [ɪ'mɝdʒɪŋ]
+adj. 新兴的；出现的；形成的
+v. 形成；浮现；显露（emerge的ing形式）；由…中脱出
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To emerge means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen. (从视线以外的地方) 出现; 出来
+   ≫   Richard was waiting outside the door as she emerged.  当她出现的时候，理查德正等候在门外。
+   ≫   She then emerged from the courthouse to thank her supporters.  于是她从法院大楼出来向支持者们表示感谢。
+2. (V-I) If you emerge from a difficult or bad experience, you come to the end of it. 摆脱
+   ≫   There is growing evidence that the economy is at last emerging from recession.  有越来越多的迹象表明经济将最终摆脱萧条。
+3. (V-T/V-I) If a fact or result emerges from a period of thought, discussion, or investigation, it becomes known as a result of it. 显露 (事实、结果)
+   ≫   ...the growing corruption that has emerged in the past few years.  …过去几年中暴露出来的日趋严重的腐败。
+   ≫   It soon emerged that neither the July nor August mortgage payment had been collected.  很快显示的是7月和8月的抵押款都没有被收取。
+4. [journalism] If someone or something emerges as a particular thing, they become recognized as that thing. 立足成为
+   ≫   Vietnam has emerged as the world's third-biggest rice exporter.  越南已立足成为世界第三大稻米出口国。
+5. [journalism] When something such as an organization or an industry emerges, it comes into existence. 兴起
+   ≫   ...the new republic that emerged in October 1917.  …1917年10月成立的新共和国。
+
+========================================================================
+>>> pruning
+------------------------------------------------------------------------
+pruning    [美 'prʊnɪŋ / 英 'pruːnɪŋ]
+n. 修剪；剪枝
+adj. 修剪用的
+v. 修剪（prune的ing形式）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prune is a dried plum. 李子干
+2. (V-T/V-I) When you prune, or prune a tree or bush, you cut off some of the branches so that it will grow better the next year. 修剪 (树木)
+   ≫   You have to prune a bush if you want fruit.  如果你想要果树结果，你就得给它剪枝。
+3. (PHRASAL VERB) Prune back means the same as . 修剪 (树木)
+   ≫   Apples, pears, and cherries can be pruned back when they've lost their leaves.  苹果树、梨树和樱桃树在落叶之后就可以被修剪。
+4. (V-T) If you prune something, you cut out all the parts that you do not need. 删减
+   ≫   Companies are cutting investment and pruning their product ranges.  公司都在削减投资并减少产品种类。
+5. (PHRASAL VERB) Prune back means the same as . 删减
+   ≫   The company has pruned back its workforce by 20,000 since 2003.  公司自2003年以来已经裁减了2万名员工。
+6. (V) → an archaic word for
+
+========================================================================
+>>> plum
+------------------------------------------------------------------------
+plum    [美 plʌm / 英 plʌm]
+n. 李子；梅子；洋李；紫红色
+adj. 人所希望的；有利的；上等的
+n. (Plum)人名；(德、西)普卢姆；(英)普拉姆
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plum is a small, sweet fruit with a smooth purple, red, or yellow skin and a pit in the middle. 李子
+2. (N) a small rosaceous tree, Prunus domestica, with white flowers and an edible oval fruit that is purple, yellow, or green and contains an oval stone 西洋李; 欧洲李 → see also ,
+3. (COLOR) Something that is plum or plum-coloured is a dark reddish-purple colour. 紫红色的
+   ≫   ...plum-coloured silk.  …紫红色的丝绸。
+
+========================================================================
+>>> prune
+------------------------------------------------------------------------
+prune    [美 prun / 英 pruːn]
+vi. 删除；减少
+vt. 修剪；删除；剪去
+n. 深紫红色；傻瓜；李子干
+n. (Prune)人名；(罗)普鲁内
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prune is a dried plum. 李子干
+2. (V-T/V-I) When you prune, or prune a tree or bush, you cut off some of the branches so that it will grow better the next year. 修剪 (树木)
+   ≫   You have to prune a bush if you want fruit.  如果你想要果树结果，你就得给它剪枝。
+3. (PHRASAL VERB) Prune back means the same as . 修剪 (树木)
+   ≫   Apples, pears, and cherries can be pruned back when they've lost their leaves.  苹果树、梨树和樱桃树在落叶之后就可以被修剪。
+4. (V-T) If you prune something, you cut out all the parts that you do not need. 删减
+   ≫   Companies are cutting investment and pruning their product ranges.  公司都在削减投资并减少产品种类。
+5. (PHRASAL VERB) Prune back means the same as . 删减
+   ≫   The company has pruned back its workforce by 20,000 since 2003.  公司自2003年以来已经裁减了2万名员工。
+6. (V) → an archaic word for
+
+========================================================================
+>>> shed
+------------------------------------------------------------------------
+shed    [美 ʃɛd / 英 ʃed]
+vt. 流出；摆脱；散发；倾吐
+vi. 流出；脱落；散布
+n. 小屋，棚；分水岭
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shed is a small building that is used for storing things such as garden tools. (用于存放园艺工具等的) 棚屋
+   ≫   ...a garden shed.  …一个园艺工具棚。
+2. (N-COUNT) A shed is a large shelter or building, for example, at a train station, port, or factory. (车站、港口、工厂等的) 棚式建筑
+   ≫   ...a vast factory shed.  …一座巨大的厂房。
+3. (V-T) When a tree sheds its leaves, its leaves fall off in the autumn. When an animal sheds hair or skin, some of its hair or skin drops off. 落 (叶); 脱 (发); 蜕 (皮)
+   ≫   Some of the trees were already beginning to shed their leaves.  有些树已经开始落叶了。
+4. [正式] To shed something means to get rid of it. 去除; 摆脱
+   ≫   The firm is to shed 700 jobs.  这个公司将裁掉700个工作岗位。
+5. (V-T) If you shed tears, you cry. 落 (泪)
+   ≫   They will shed a few tears at their daughter's wedding.  他们在女儿的婚礼上会落些泪。
+6. [正式] To shed blood means to kill people in a violent way. If someone sheds their blood, they are killed in a violent way, usually when they are fighting in a war. 洒 (热血)
+   ≫   ...young warriors, eager to shed blood.  …渴望洒热血的年轻武士们。
+7. to shed light on something →see
+
+========================================================================
+>>> shed light
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4764
+shed light
+阐明，使清晰：用于字面意义上的照明，也可以用于引申义上的使事物清晰明了。
+
+========================================================================
+>>> commonalities
+------------------------------------------------------------------------
+commonalities    [,kɔmə'næliti]
+n. 公共；共性；老百姓；平民
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N 'of' n] Commonality is used to refer to a feature or purpose that is shared by two or more people or things. 共同点; 共同之处; 共性
+   ≫   We don't have the same commonality of interest.  我们没有利益共同点。
+   ≫   There are an amazing number of commonalities between the systems.  这些系统有大量共同之处。
+
+========================================================================
+>>> prospect
+------------------------------------------------------------------------
+prospect    [美 'prɑspɛkt / 英 'prɒspekt]
+n. 前途；预期；景色
+vi. 勘探，找矿
+vt. 勘探，勘察
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is some prospect of something happening, there is a possibility that it will happen. 可能性; 前景
+   ≫   Unfortunately, there is little prospect of seeing these big questions answered.  遗憾的是，几乎没有可能看到这些重大问题得到解答。
+   ≫   The prospects for peace in the country's eight-year civil war are becoming brighter.  在该国的8年内战中，和平的前景正变得越来越光明。
+2. (N-SING) A particular prospect is something that you expect or know is going to happen. 将要发生的事
+   ≫   There was a mixed reaction to the prospect of having new neighbours.  对于将要有新邻居这件事有多种反应。
+3. (N-PLURAL) Someone's prospects are their chances of being successful, especially in their career. 成功的机会; 前途
+   ≫   I chose to work abroad to improve my career prospects.  我选择到国外工作，以增进我的事业成功的机会。
+4. (V-I) When people prospect for oil, gold, or some other valuable substance, they look for it in the ground or under the sea. 勘探
+   ≫   He had prospected for minerals everywhere from the Gobi Desert to the Transvaal.  他在世界各地探过矿，从戈壁沙漠到德兰士瓦。
+
+========================================================================
+>>> facilitate
+------------------------------------------------------------------------
+facilitate    [美 fə'sɪlə'tet / 英 fə'sɪlɪteɪt]
+vt. 促进；帮助；使容易
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+   ≫   The new airport will facilitate the development of tourism.  新机场将促进旅游业的发展。
+
+========================================================================
+>>> adversarial
+------------------------------------------------------------------------
+adversarial    [美 ,ædvɚ'sɛrɪəl / 英 ,ædvə'seərɪəl]
+adj. 对抗的；对手的，敌手的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you describe something as adversarial, you mean that it involves two or more people or organizations who are opposing each other. 对立的
+   ≫   In our country there is an adversarial relationship between government and business.  在我们的国家，在政府和商界之间存有一种敌对关系。
+
+========================================================================
+>>> robustness
+------------------------------------------------------------------------
+robustness    [美 ro'bʌstnɪs / 英 rəʊ'bʌstnɪs]
+n. [自] 鲁棒性；[计] 稳健性；健壮性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the quality of being robust 精力充沛
+
+========================================================================
+>>> curated
+------------------------------------------------------------------------
+curated    ['kjurit]
+v. 当馆长（curate的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A curate is a clergyman in the Anglican Church who helps the priest. (英国国教的) 助理牧师
+2. [usu passive] If an exhibition is curated by someone, they organize it. 组织
+   ≫   The Hayward exhibition has been curated by the artist Bernard Luthi.  海沃德展览会是由艺术家伯纳德·卢西组织的。
+
+========================================================================
+>>> Adelaide
+------------------------------------------------------------------------
+Adelaide    [英 'ædəleid /  'ædəleid]
+n. 阿德莱德（女子名，澳大利亚港市）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "We were lucky to find a site like that, " said lead study author Wolfgang Haak, from the University of Adelaide in Australia. “能找到这样的遗址我们真是太幸运了，”来自澳洲阿德莱德大学的主要研究员沃夫冈·哈克说到。
+≫   The 46-year-old former lawyer said she never would have dreamed of leading the country —even temporarily—when she was growing up in the South Australian capital Adelaide. 这位46岁的前律师说，当她在南澳大利亚州首府阿德莱德度过青少年时代时，从未想过会成为一国领袖，哪怕是暂时的。
+≫   In the latest study, researchers from the University of Adelaide, Australia, looked at the effects of four capsules a day of a supplement known as aged garlic for 12 weeks. 在最近的研究中，来自澳大利亚阿德莱德大学的研究者们看到了12周来服用一天四粒被公认为陈蒜的补充物胶囊的效果。
+
+========================================================================
+>>> lexical
+------------------------------------------------------------------------
+lexical    [美 'lɛksɪkl / 英 'leksɪk(ə)l]
+adj. 词汇的；[语] 词典的；词典编纂的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Lexical means relating to the words of a language. 词汇的
+   ≫   We chose a few of the commonest lexical items in the languages.  我们选取了各语言中最常见的几个词汇。
+
+========================================================================
+>>> analyzer
+------------------------------------------------------------------------
+analyzer    [英 'ænəlaɪzə / 美 'ænə,laɪzɚ]
+n. [计] 分析器；分析者；检偏镜
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All of this information is specified in the analyzer configuration file. 在分析器的配置文件中指定了所有这些信息。
+≫   Figure 5 shows an example of how annotations appear in the document analyzer. 图 5 中的例子展示注释如何出现在文档分析器中。
+≫   The user chooses one or more analysis modules to run against the image; if no specific analyzer is chosen by user, the default script is run. 用户根据该图像选择要运行的一个或多个分析模块；如果用户没有选择具体的分析器，则运行默认的脚本。
+
+========================================================================
+>>> supplementary
+------------------------------------------------------------------------
+supplementary    [美 ,sʌplɪ'mɛntri / 英 ,sʌplɪ'ment(ə)rɪ]
+adj. 补充的；追加的
+n. 补充者；增补物
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Supplementary things are added to something in order to improve it. 补充的
+   ≫   ...the question of whether or not we need to take supplementary vitamins.  …我们是否有必要补充维生素的问题。
+
