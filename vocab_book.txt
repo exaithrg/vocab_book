@@ -20432,3 +20432,64 @@ CET6 TEM8
 premature death
 过早死亡：指在预期寿命之前死亡，通常是由于疾病、意外事故或其他不可预测的原因导致。
 
+========================================================================
+>>> Tsien Hsue-Shen
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Hsue-Shen Tsien
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> orthogonal
+------------------------------------------------------------------------
+orthogonal    [美 ɔr'θɑgənəl / 英 ɔː'θɒg(ə)n(ə)l]
+adj. [数] 正交的；直角的
+n. 正交直线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) relating to, consisting of, or involving right angles; perpendicular 直角的; 垂直的
+
+========================================================================
+>>> degradation
+------------------------------------------------------------------------
+degradation    [英 ,degrə'deɪʃ(ə)n / 美 ,dɛɡrə'deʃən]
+n. 退化；降格，降级；堕落
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] You use degradation to refer to a situation, condition, or experience which you consider shameful and disgusting, especially one which involves poverty or immorality. 堕落
+   ≫   They were sickened by the scenes of misery and degradation they found.  他们对所看到的凄惨和堕落景象感到恶心。
+2. (N-UNCOUNT) Degradation is the process of something becoming worse or weaker, or being made worse or weaker. 恶化; 衰退
+   ≫   ...air pollution, traffic congestion, and the steady degradation of our quality of life.  …空气污染、交通阻塞以及我们生活质量的持续恶化。
+
+========================================================================
+>>> Nevertheless
+------------------------------------------------------------------------
+nevertheless    [美 ,nɛvɚðə'lɛs / 英 nevəðə'les]
+adv. 然而，不过；虽然如此
+conj. 然而，不过
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with cl] You use nevertheless when saying something that contrasts with what has just been said. 然而
+   ≫   Although the market has been flat, residential property costs remain high. Nevertheless, the fall-off in demand has had an impact on resale values.  尽管市场一直疲软，房价持续偏高。然而需求的减少还是对二手房价格产生了影响。
+
+========================================================================
+>>> in terms of
+------------------------------------------------------------------------
+in terms of
+依据；按照；在…方面；以…措词
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It can not be measured in terms of money. 这是不能用金钱衡量的。
+≫   So think of your priorities not in terms of what activities you do, but when you do them. 所以，不要从做什么的角度，而是要从什么时候做的角度来考虑你的重点。
+≫   After all, our privacy and security on these sites -- in terms of how much we share with others and what we consume -- is ultimately up to each of us. 最重要的是我们在这些网站上的隐私和安全—从我们与他人分享的东西的多少和我们消费的东西的角度—最终取决于我们每一个人。
+
+========================================================================
+>>> emphasize
+------------------------------------------------------------------------
+emphasize    [美 'ɛmfəsaɪz / 英 'emfəsaɪz]
+vt. 强调，着重
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To emphasize something means to indicate that it is particularly important or true, or to draw special attention to it. 强调
+   ≫   But it's also been emphasized that no major policy changes can be expected to come out of the meeting.  但是也强调，这次会议预期不会做出重大政策改变。
+
