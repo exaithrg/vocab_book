@@ -19777,3 +19777,90 @@ TEM4
 1. (N-COUNT) A bodyguard is a person or a group of people employed to protect someone. 保镖
    ≫   Three of his bodyguards were injured in the attack.  他的三名保镖在袭击中受了伤。
 
+========================================================================
+>>> enin
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> erin
+------------------------------------------------------------------------
+Erin    [ˈɛrɪn]
+n. 爱尔兰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What advice do the callers give Erin? 专家给爱尔兰什么建议？
+≫   When I first met Erin back in 1994, however, she was working as a secretary. 然而当我1994年第一次遇见伊琳的时候，她的工作是秘书。
+≫   So if we were called upon to make some decisions for Erin we would know who we are coming together with. 所以一旦有人让我们为艾琳做一些决策，我们都知道和我们一起合作的人是谁。
+
+========================================================================
+>>> hunter
+------------------------------------------------------------------------
+hunter    [美 'hʌntɚ / 英 'hʌntə]
+n. 猎人；猎犬；搜寻者
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hunter is a person who hunts wild animals for food or as a sport. 猎人
+   ≫   The hunters stalked their prey.  猎人们隐伏跟踪猎物。
+2. (N-COUNT) People who are searching for things of a particular kind are often referred to as hunters. 搜寻者
+   ≫   ...job-hunters.  …求职者。
+3. → see also
+
+========================================================================
+>>> erin hunter
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：931
+erin hunter
+艾琳·杭特（艾琳·亨特是七位作家的共用名，代表作包括猫武士、熊武士、狗武士、勇士之地、熊猫勇士等）
+
+========================================================================
+>>> Compound
+------------------------------------------------------------------------
+compound    [美 'kɑmpaʊnd / 英 'kɒmpaʊnd]
+n. [化学] 化合物；混合物；复合词
+adj. 复合的；混合的
+v. 合成；混合；恶化，加重；和解，妥协
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A compound is an enclosed area of land that is used for a particular purpose. 作特定用途的围地
+   ≫   They took refuge in the embassy compound.  他们在大使馆围区内避难。
+   ≫   ...a military compound.  …一个军事管辖区。
+2. (N-COUNT) In chemistry, a compound is a substance that consists of two or more elements. 化合物
+   ≫   Organic compounds contain carbon in their molecules.  有机化合物的分子里含碳。
+3. [正式] If something is a compound of different things, it consists of those things. 混合物
+   ≫   Honey is basically a compound of water, two types of sugar, vitamins and enzymes.  蜂蜜主要是水、两种糖、维生素和酶的混合物。
+4. [ADJ n] Compound is used to indicate that something consists of two or more parts or things. 复合的
+   ≫   ...the big compound eyes of dragonflies.  …蜻蜓的大复眼。
+5. (V) to mix or combine so as to create a compound or other product 通过混合或化合制成
+6. (V-T) To compound a problem, difficulty, or mistake means to make it worse by adding to it. 加剧
+   ≫   Additional loss of life will only compound the tragedy.  生命力的进一步丧失只会加重这一悲剧。
+   ≫   The problem is compounded by the medical system here.  这个问题被这里的医疗体制弄得更糟。
+7. [ADJ n] In grammar, a compound noun, adjective, or verb is one that is made up of two or more words, for example "fire engine," "bottle-green," and "firelight." 合成的 (词)
+
+========================================================================
+>>> PLATON
+------------------------------------------------------------------------
+Platon
+n. 普拉登（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sorrow of his friends buried in the Church of St. Platon. 悲伤的朋友们将他安葬于圣普拉教堂。
+≫   Platon Karataev knew nothing by heart except his prayers. 普拉东·卡拉塔耶夫除了祷辞，不会背诵别的什么。
+≫   If Putin eschews charm, Platon, the great English portrait photographer, exudes it. 如果普京习惯性地摆脱魅力，那么英国著名的肖像摄影家普拉东能够有法子渗透出那种情感。
+
+========================================================================
+>>> individual
+------------------------------------------------------------------------
+individual    [美 ˌɪndɪˈvɪdʒuəl / 英 ˌɪndɪˈvɪdʒuəl]
+adj. 单独的，个别的；个人的；独特的，与众不同的
+n. 个人，个体；与众不同的人，有个性的人；某种类型的人
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Individual means relating to one person or thing, rather than to a large group. 单独的 [ADJ n]
+   ≫   ...waiting for the group to decide rather than making individual decisions.  …等待集体作决定而不是作单独的决定。
+2. (ADV) vidually ADV 单独地
+   ≫   ...individually crafted tiles.  …一块块单独制作的瓦片。
+3. (N-COUNT) An individual is a person. 个人
+   ≫   ...anonymous individuals who are doing good things within our community.  …一些在我们社区里做好事不留名人士。
+4. (ADJ) If you describe someone or something as individual, you mean that you admire them because they are very unusual and do not try to imitate other people or things. 独特的 [表赞许]
+   ≫   It was really all part of her very individual personality.  那确实是她非常独特个性的全部。
+
