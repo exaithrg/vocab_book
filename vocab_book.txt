@@ -19864,3 +19864,18 @@ n. 个人，个体；与众不同的人，有个性的人；某种类型的人
 4. (ADJ) If you describe someone or something as individual, you mean that you admire them because they are very unusual and do not try to imitate other people or things. 独特的 [表赞许]
    ≫   It was really all part of her very individual personality.  那确实是她非常独特个性的全部。
 
+========================================================================
+>>> sailency
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> saliency
+------------------------------------------------------------------------
+saliency    [英 ˈseɪlɪənsi / 美 ˌseɪlɪənsi]
+n. 显著；卓越；特点；凸起
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This method USES the generator model of constant voltage and the saliency of generator is included. 该方法采用发电机的恒定模型，并且考虑了发电机的暂态凸极效应。
+≫   Nonlinear sampling model is adopted and saliency map is formed based on contrast of neighboring sampling nodes. 在注意机制中采用非线性采样模型，并利用相邻采样点形成显著性图。
+≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
+
