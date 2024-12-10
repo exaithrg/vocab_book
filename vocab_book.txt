@@ -19767,3 +19767,13 @@ TEM8
 1. [oft with poss] A corollary of something is an idea, argument, or fact that results directly from it. 结果
    ≫   The number of prisoners increased as a corollary of the government's determination to combat violent crime.  政府决心打击暴力犯罪，其后果是囚犯数量增加了。
 
+========================================================================
+>>> bodyguard
+------------------------------------------------------------------------
+bodyguard    [美 'bɑdɪɡɑrd / 英 'bɒdɪgɑːd]
+n. 保镖
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bodyguard is a person or a group of people employed to protect someone. 保镖
+   ≫   Three of his bodyguards were injured in the attack.  他的三名保镖在袭击中受了伤。
+
