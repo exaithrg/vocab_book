@@ -21182,3 +21182,17 @@ n. 困惑；混乱
 2. [usu pl] The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题
    ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
 
+========================================================================
+>>> ACCELARETORS
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> accelerators
+------------------------------------------------------------------------
+accelerators    [ək'seləreitə]
+n. [核] 加速器（accelerator的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The accelerator in a car or other vehicle is the pedal that you press with your foot in order to make the vehicle go faster. 油门
+   ≫   He eased his foot off the accelerator.  他把脚慢慢移离了油门。
+
