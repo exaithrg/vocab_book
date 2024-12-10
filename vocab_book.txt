@@ -21013,3 +21013,172 @@ CET6 TEM8
 1. (ADJ) Supplementary things are added to something in order to improve it. 补充的
    ≫   ...the question of whether or not we need to take supplementary vitamins.  …我们是否有必要补充维生素的问题。
 
+========================================================================
+>>> taxonomy
+------------------------------------------------------------------------
+taxonomy    [美 tæk'sɑnəmi / 英 tæk'sɒnəmɪ]
+n. 分类学；分类法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences. (动植物等的)分类法; 分类学
+
+========================================================================
+>>> criteria
+------------------------------------------------------------------------
+criteria    [美 kraɪ'tɪrɪə / 英 kraɪ'tɪərɪə]
+n. 标准，条件（criterion的复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A criterion is a factor on which you judge or decide something. (判断的) 标准
+   ≫   The most important criterion for entry is that applicants must design and make their own work.  参加的最重要标准就是申请人必须设计并制作自己的作品。
+
+========================================================================
+>>> saliency
+------------------------------------------------------------------------
+saliency    [美 ˌseɪlɪənsi / 英 ˈseɪlɪənsi]
+n. 显著；卓越；特点；凸起
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This method USES the generator model of constant voltage and the saliency of generator is included. 该方法采用发电机的恒定模型，并且考虑了发电机的暂态凸极效应。
+≫   Nonlinear sampling model is adopted and saliency map is formed based on contrast of neighboring sampling nodes. 在注意机制中采用非线性采样模型，并利用相邻采样点形成显著性图。
+≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
+
+========================================================================
+>>> regulation
+------------------------------------------------------------------------
+regulation    [英 regjʊ'leɪʃ(ə)n / 美 ˌrɛɡjəˈleʃən]
+n. 管理；规则；校准
+adj. 规定的；平常的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Regulations are rules made by a government or other authority in order to control the way something is done or the way people behave. 法规; 条例
+   ≫   The European Union has proposed new regulations to control the hours worked by its employees.  欧盟已经提出了新的法规来控制其雇员的工作时间。
+2. (N-UNCOUNT) Regulation is the controlling of an activity or process, usually by means of rules. 管理
+   ≫   Some in the market now want government regulation in order to reduce costs.  市场上现在有人想要政府来管理以降低成本。
+
+========================================================================
+>>> regularization
+------------------------------------------------------------------------
+regularization    [,rɛɡjʊlərɪ'zeʃən]
+n. 规则化；调整；合法化
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Subsequently, as a important property, the time invariance of support set of solutions of regularization is proved. 证明了正则化解的一个重要性质，即解的支集关于时间的不变性；
+≫   Regularization of protected areas and recognition of indigenous lands are approaches which have been successfully used in this zone. 保护区合法化和对土著居民的土地予以承认是该地区得到成功应用的两种方法。
+≫   The state strengthens the revolutionization, modernization and regularization of the armed forces in order to increase national defence capability. 国家加强武装力量的革命化、现代化、正规化的建设，增强国防力量。
+
+========================================================================
+>>> reinforcement
+------------------------------------------------------------------------
+reinforcement    [美 ,riɪn'fɔrsmənt / 英 riːɪn'fɔːsm(ə)nt]
+n. 加固；增援；援军；加强
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Reinforcements are soldiers or police officers who are sent to join an army or group of police in order to make it stronger. 增援部队
+   ≫   Mr. Vlok promised new measures to protect residents, including the dispatch of police and troop reinforcements.  乌洛克先生答应了新的保护居民的措施，包括派遣增援的警察和军队。
+2. (N-VAR) The reinforcement of something is the process of making it stronger. 巩固
+   ≫   I am sure that this meeting will contribute to the reinforcement of peace and security all over the world.  我确信这次会晤将为全世界和平与安全的巩固做出贡献。
+
+========================================================================
+>>> reinforcement learning
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6173
+reinforcement learning
+强化学习：一种通过在模拟环境中进行反馈的探索式学习的机器学习类型。
+
+========================================================================
+>>> comprehensive
+------------------------------------------------------------------------
+comprehensive    [美 ˌkɑːmprɪˈhensɪv / 英 ˌkɒmprɪˈhensɪv]
+adj. 综合性的，全面的；有理解力的
+n. 综合中学；专业综合测验
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is comprehensive includes everything that is needed or relevant. 全面的
+   ≫   The Rough Guide to Nepal is a comprehensive guide to the region.  《尼泊尔概览》是介绍该地区的一本全面指南。
+
+========================================================================
+>>> comparative
+------------------------------------------------------------------------
+comparative    [美 kəm'pærətɪv / 英 kəm'pærətɪv]
+adj. 比较的；相当的
+n. 比较级；对手
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use comparative to show that you are judging something against a previous or different situation. For example, comparative calm is a situation which is calmer than before or calmer than the situation in other places. 比较的 (平静等)
+   ≫   The task was accomplished with comparative ease.  这项任务完成得比较容易。
+2. [ADV adj/adv] comparatively 比较地
+   ≫   ...a comparatively small nation.  …一个比较小的国家。
+3. [ADJ n] A comparative study is a study that involves the comparison of two or more things of the same kind. 比较的 (研究)
+   ≫   ...a comparative study of the dietary practices of people from various regions of India.  …对印度不同地区人们饮食习惯的比较研究。
+4. [ADJ n] In grammar, the comparative form of an adjective or adverb shows that something has more of a quality than something else has. For example, "bigger" is the comparative form of "big," and "more quickly" is the comparative form of "quickly." Compare . 比较级的
+5. (N-COUNT) Comparative is also a noun. 比较级
+   ≫   The comparative of "pretty" is "prettier."  的比较级是。
+
+========================================================================
+>>> scratch
+------------------------------------------------------------------------
+scratch    [美 skrætʃ / 英 skrætʃ]
+n. 擦伤；抓痕；刮擦声；乱写
+adj. 打草稿用的；凑合的；碰巧的
+vt. 抓；刮；挖出；乱涂
+vi. 抓；搔；发刮擦声；勉强糊口；退出比赛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you scratch yourself, you rub your fingernails against your skin because it is itching. 挠
+   ≫   He scratched himself under his arm.  他在自己腋下挠了挠。
+   ≫   The old man lifted his cardigan to scratch his side.  那位老人撩起他的开襟毛衣挠了挠身子侧面。
+2. (V-T) If a sharp object scratches someone or something, it makes small shallow cuts on their skin or surface. 划破
+   ≫   The branches tore at my jacket and scratched my hands and face.  那些树枝挂了我的夹克，划破了我的双手和脸。
+3. (N-COUNT) Scratches on someone or something are small shallow cuts. 划伤
+   ≫   The seven-year-old was found crying with scratches on his face and neck.  那个7岁的孩子被找到时正在哭，脸上和颈上都有划伤。
+4. (PHRASE) If you do something from scratch, you do it without making use of anything that has been done before. 从零开始
+   ≫   Building a home from scratch can be both exciting and challenging.  白手起家既激动人心又具有挑战性。
+5. (PHRASE) If you say that someone is scratching their head, you mean that they are thinking hard and trying to solve a problem or puzzle. 绞尽脑汁思考
+   ≫   The Institute spends a lot of time scratching its head about how to boost American productivity.  这家研究所花大量时间绞尽脑汁思考怎样推进美国的生产力。
+
+========================================================================
+>>> from scratch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6302
+from scratch
+从零开始：指从最基础的、没有任何准备或基础的状态开始做某事。 白手起家：指在没有任何资本、资源或帮助的情况下开始创业或建立事业。
+
+========================================================================
+>>> supervision
+------------------------------------------------------------------------
+supervision    [美 ,sʊpɚ'vɪʒən / 英 ,suːpə'vɪʒn; ,sjuː-]
+n. 监督，管理
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Supervision is the supervising of people, activities, or places. 监督
+   ≫   A toddler requires close supervision and firm control at all times.  刚学走路的孩子需要时刻认真照看，牢牢管住。
+
+========================================================================
+>>> decomposition
+------------------------------------------------------------------------
+decomposition    [美 ,dikɑmpə'zɪʃən / 英 ,diːkɒmpə'zɪʃn]
+n. 分解，腐烂；变质
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Decomposition is the process of decay that takes place when a living thing changes chemically after dying. 分解
+
+========================================================================
+>>> compression
+------------------------------------------------------------------------
+compression    [美 kəm'prɛʃən / 英 kəm'preʃ(ə)n]
+n. 压缩，浓缩；压榨，压迫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The following example shows how to create partition table with compression. 下面的例子展示如何创建采用压缩的分区表。
+≫   Custom programming of every compression is not always desirable or possible. 但是，每次压缩定制编程并非总是值得或可能的。
+≫   If so, they still generate a compression dictionary, but in this case, there is no compressed record, as all data has already been moved into the table. 如果有，那么它们仍然生成一个压缩字典，但是在这里，没有被压缩的记录，因为所有数据已经被移到表中。
+
+========================================================================
+>>> PERPLEXITY
+------------------------------------------------------------------------
+perplexity    [美 pɚ'plɛksəti / 英 pə'pleksɪtɪ]
+n. 困惑；混乱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Perplexity is a feeling of being confused and frustrated because you do not understand something. 困惑; 迷惘
+   ≫   He began counting them and then, with growing perplexity, counted them a second time.  他开始数，然后更加困惑地数第二遍。
+2. [usu pl] The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题
+   ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
+
