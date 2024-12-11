@@ -23434,3 +23434,29 @@ CET4 TEM4
 3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
    ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
 
+========================================================================
+>>> patch merging
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> patch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：731
+patch
+n. 补丁，补片；（保护受伤眼睛的）眼罩；<美>（衣服上的）徽章，标识；药膏，胶布；（与周围部分不同的）斑，小块；小片，碎片；（尤指园艺用的）一小块地；熟悉的地方，家乡；<非正式> 属地，管辖地；一段时间；<史>（尤指17、18世纪妇女装饰用的）饰颜片，美人斑；（软件的）补丁程序；（电气或电话的）临时连接（线）；（电子乐器，尤指合成乐器中的）预设配置（或声音）数据文件，配音 vt. 修补，缝补；使出现斑块；临时连接，临时接入（通信系统）；（计算机）（用补丁对程序进行）修正，打补丁；解决；拼凑，匆匆制成 【名】 （Patch）（英）帕奇（人名） [ 复数 patches 第三人称单数 patches 现在分词 patching 过去式 patched 过去分词 patched ]
+
+========================================================================
+>>> proposal
+------------------------------------------------------------------------
+proposal    [美 prə'pozl / 英 prə'pəʊz(ə)l]
+n. 提议，建议；求婚
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. (常为正式书面的) 提议
+   ≫   The president is to put forward new proposals for resolving the country's constitutional crisis.  总统将提出解决国家宪法危机的新议案。
+   ≫   ...the governor's proposal to restrict cigarette sales.  …州长关于限制香烟销售的提案。
+2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
+   ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
+
