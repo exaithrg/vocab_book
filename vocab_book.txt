@@ -22848,3 +22848,46 @@ CET4 TEM4
 2. (ADV) crucially 至关重要地
    ≫   Chewing properly is crucially important.  正确地咀嚼是至关重要的。
 
+========================================================================
+>>> the presence of
+------------------------------------------------------------------------
+the presence of
+存在：指某物或某人的存在或出现。
+
+========================================================================
+>>> inaccuracies
+------------------------------------------------------------------------
+inaccuracies    [in'ækjurəsi]
+不准确
+误差
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The inaccuracy of a statement or measurement is the fact that it is not accurate or correct. 不准确
+   ≫   He was disturbed by the inaccuracy of the answers.  他为答案的不准确性而感到不安。
+
+========================================================================
+>>> invalidate
+------------------------------------------------------------------------
+invalidate    [美 ɪn'vælɪdet / 英 ɪn'vælɪdeɪt]
+vt. 使无效；使无价值
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something invalidates something such as a law, contract, or election, it causes it to be considered illegal. 使无效
+   ≫   An official decree invalidated the vote in the capital.  一项官方法令使首都的投票失去了效力。
+
+========================================================================
+>>> overlapping
+------------------------------------------------------------------------
+overlapping    [美 'ovɚ'læp / 英 ,əʊvə'læpɪŋ]
+adj. 重叠；覆盖
+v. 与…重叠；盖过（overlap的ing形式）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one thing overlaps another, or if you overlap them, a part of the first thing occupies the same area as a part of the other thing. You can also say that two things overlap. 重叠
+   ≫   When the bag is folded, the bottom overlaps one side.  把包折叠起来时，其底部与一边就重合了。
+   ≫   Overlap the slices carefully so there are no gaps.  把薄片小心地叠放在一起，那样就没有间隙。
+2. (V-RECIP) If one idea or activity overlaps another, or overlaps with another, they involve some of the same subjects, people, or periods of time. 与…重合
+   ≫   Christian Holy Week overlaps with the beginning of the Jewish holiday of Passover.  基督教的圣周与犹太教逾越节的开始时间是重合的。
+   ≫   The needs of patients invariably overlap.  患者们的各种需求总是相互重合的。
+3. (N-VAR) Overlap is also a noun. 重合
+   ≫   ...the overlap between civil and military technology.  …民用技术与军用技术之间的重合。
+
