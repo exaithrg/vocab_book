@@ -21677,3 +21677,130 @@ n. 孙逸仙
 ≫   Dr. Sun Yat-sen was born on that day. 孙逸仙博士出生在那天。
 ≫   Sun Yat-sen University adopts a two-year postgraduate education system. 中大的研究生教育是两年制。
 
+========================================================================
+>>> facilate
+------------------------------------------------------------------------
+facilate
+减少
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We implement the policy the spirit encourage as the main and material encourage as the facilate. 我们实行精神鼓励为主、物质鼓励为辅的总方针。
+
+========================================================================
+>>> granularity
+------------------------------------------------------------------------
+granularity    [英 grænjʊ'lærɪtɪ /  grænjʊ'lærɪtɪ]
+n. 间隔尺寸，[岩] 粒度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the state or quality of being grainy or granular 粒度
+
+========================================================================
+>>> intrinsic
+------------------------------------------------------------------------
+intrinsic    [美 ɪn'trɪnsɪk / 英 ɪn'trɪnsɪk]
+adj. 本质的，固有的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] If something has intrinsic value or intrinsic interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things. 内在的; 本质的
+   ≫   Diamonds have little intrinsic value and their price depends almost entirely on their scarcity.  钻石没有多少内在价值，它们的价格几乎完全取决于其稀有程度。
+2. (ADV) intrinsically 固有地
+   ≫   Sometimes I wonder if people are intrinsically evil.  有时我怀疑人是否生来就是邪恶的。
+
+========================================================================
+>>> presence
+------------------------------------------------------------------------
+presence    [美 'prɛzns / 英 'prez(ə)ns]
+n. 存在；出席；参加；风度；仪态
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) Someone's presence in a place is the fact that they are there. 在场
+   ≫   They argued that his presence in the town could only stir up trouble.  他们争辩说他在城里出现只会搅起麻烦。
+2. [表赞许] If you say that someone has presence, you mean that they impress people by their appearance and manner. 风采
+   ≫   They do not seem to have the vast, authoritative presence of those great men.  他们似乎没有那些大人物的轩昂威严的风采。
+3. [文学性] A presence is a person or creature that you cannot see, but that you are aware of. 幽灵
+   ≫   She started to be affected by the ghostly presence she could feel in the house.  她开始受到那个幽灵的困扰，她能感觉到它就在屋子里。
+4. (N-SING) If a country has a military presence in another country, it has some of its armed forces there. 驻扎
+   ≫   The Philippine government wants the U.S. to maintain a military presence in Southeast Asia.  菲律宾政府希望美国保留在东南亚的驻军。
+5. (N-UNCOUNT) If you refer to the presence of a substance in another thing, you mean that it is in that thing. 存在
+   ≫   The somewhat acid flavour is caused by the presence of lactic acid.  略有的酸味是由乳酸的存在造成的。
+6. (PHRASE) If you are in someone's presence, you are in the same place as that person, and are close enough to them to be seen or heard. 在某人面前
+   ≫   The talks took place in the presence of a diplomatic observer.  会谈是在一位外交观察家在场的情况下进行的。
+
+========================================================================
+>>> in presence of
+------------------------------------------------------------------------
+in presence of
+在……的面前；在……的存在下
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He felt rather awkward in presence of ladies. 他在女士面前有些窘。《新英汉大辞典》
+≫   The talks took place in the presence of a diplomatic observer. 会谈是在一位外交观察家在场的情况下进行的。《柯林斯英汉双解大词典》
+≫   Be careful of your behaviours in the presence of others, or you will be sorry for it. 在其他人面前注意你的举止，否则你会后悔的。
+
+========================================================================
+>>> determinstic
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> deterministric
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> deterministic
+------------------------------------------------------------------------
+deterministic    [美 dɪ,tɝmɪn'ɪstɪk / 英 dɪ,tɜːmɪ'nɪstɪk]
+adj. 确定性的；命运注定论的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Deterministic ideas or explanations are based on determinism. 决定论的
+   ≫   ...a deterministic view of human progress.  ...一个关于人类进步的决定论观点。
+2. [正式] Deterministic forces and factors cause things to happen in a way that cannot be changed. 不可抗拒的
+   ≫   The rise or decline of the United States is not a function of deterministic forces.  美国的兴衰不是不可抗拒力的作用。
+
+========================================================================
+>>> federated
+------------------------------------------------------------------------
+federated    [美 'fɛdə,retɪd]
+adj. 联邦的；联合的；结成同盟的
+v. 结成同盟；按联邦制组织起来（federate的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n, v-link ADJ 'to' n] Federated states or societies are ones that have joined together for a common purpose. (使)结成联邦的
+   ≫   Whether to stay in the federated state or become independent is a decision that has to be made by the people.  是否要维持联邦状态或要独立，这是一项必须由人民做的决定。
+
+========================================================================
+>>> federate
+------------------------------------------------------------------------
+federate    [美 'fɛdəret / 英 'fedəreɪt]
+adj. 同盟的；联邦制度下的；联合的
+vt. 使结成同盟；使结成联邦
+vi. 结成联邦
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to unite or cause to unite in a federal union (使)结成同盟或联邦
+2. (ADJ) federal; federated 联邦的; 结成同盟的
+
+========================================================================
+>>> permutation
+------------------------------------------------------------------------
+permutation    [美 'pɝmjʊ'teʃən / 英 pɜːmjʊ'teɪʃ(ə)n]
+n. [数] 排列；[数] 置换
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu pl] A permutation is one of the ways in which a number of things can be ordered or arranged. 排列
+   ≫   Variation among humans is limited to the possible permutations of our genes.  人类的变化形式受限于我们基因可能的那些排列。
+
+========================================================================
+>>> imitation
+------------------------------------------------------------------------
+imitation    [美 ,ɪmɪ'teʃən / 英 ɪmɪ'teɪʃ(ə)n]
+n. 模仿，仿造；仿制品
+adj. 人造的，仿制的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An imitation of something is a copy of it. 仿造品
+   ≫   ...the most accurate imitation of Chinese architecture in Europe.  …欧洲最逼真的仿中国建筑。
+2. (N-UNCOUNT) Imitation means copying someone else's actions. 动作模仿
+   ≫   They discussed important issues in imitation of their elders.  他们模仿长辈的口气讨论重大问题。
+3. [ADJ n] Imitation things are not genuine but are made to look as if they are. 人造的; 仿造的
+   ≫   ...a complete set of Dickens bound in imitation leather.  …用人造革装帧的一整套《狄更斯全集》。
+4. (N-COUNT) If someone does an imitation of another person, they copy the way they speak or behave, sometimes in order to be funny. (有时是为逗乐而) 学样
+   ≫   One boy did an imitation of a soldier with a loudspeaker.  一个男孩拿着扬声器学着士兵的样子。
+
