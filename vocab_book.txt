@@ -23026,3 +23026,83 @@ adv. 含蓄地；暗中地
 ≫   These methods implicitly or explicitly assume that the architectural risks are low, and that any architectural changes will emerge out of the normal development work. 这些方法或含蓄地或明显地假设构架的风险很低，并且任何结构性变化将从正常的开发工作中暴露出来。
 ≫   If you do so, then any application within the cell can look up the resource, and then implicitly use the provided user ID and password. 如果这样做，计算单元内的任何应用程序就都可以查找该资源，然后将隐式地使用提供的用户 ID 和密码。
 
+========================================================================
+>>> granularity
+------------------------------------------------------------------------
+granularity    [英 grænjʊ'lærɪtɪ /  grænjʊ'lærɪtɪ]
+n. 间隔尺寸，[岩] 粒度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the state or quality of being grainy or granular 粒度
+
+========================================================================
+>>> bangkok
+------------------------------------------------------------------------
+bangkok    [bæŋˈkɔk]
+n. 曼谷（泰国首都）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She will return to his country by way of Bangkok. 她将经曼谷归国。
+≫   So a city like Bangkok, with its 8 million residents, is quite overwhelming for someone like me. 因此，一个像曼谷这样拥有8万居民的城市，是能让我这样的人震撼的。
+≫   Two weeks in Bangkok, does not mean that you know Thailand. 在曼谷待上两个星期并不代表你就了解泰国。
+
+========================================================================
+>>> batit
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> casa
+------------------------------------------------------------------------
+CASA    [kæsə]
+abbr. 天文学高级研究中心（Centre for Advanced Study of Astronomy）；计算机与自动化系统（Computer and Automated System Association）；合作应用卫星A（Cooperative Application Satellite A）
+n. (Casa)人名；(法、西、德、意)卡萨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The successful use of irrigation evident in the extensive Casa Grande village. 对灌溉技术的成功利用体现在广阔的卡萨格兰德村庄。
+≫   I go outside on my break and sit on the concrete step behind Casa de la Carne by myself. 轮到我的工间休息时，我走到外面，独自一人坐在“肉之家”后面的水泥台阶上。
+≫   As a result, each group also defined and managed the evolution of IT applications, such as loan and mortgage processing, credit card processing, and CASA (current account/savings account) solutions. 因此，每个小组也定义和管理 IT 应用的改进，比如贷款和抵押处理、信用卡处理和 CASA（经常帐户/储蓄帐户）解决方案。
+
+========================================================================
+>>> dedignation
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> derived
+------------------------------------------------------------------------
+derived    [美 dɪ'raɪvd / 英 dɪ'raɪvd]
+adj. 导出的；衍生的，派生的
+v. 得到；推断（derive的过去分词）；由…而来
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you derive something such as pleasure or benefit from a person or from something, you get it from them. 获得
+   ≫   Mr. Ying is one of those happy people who derive pleasure from helping others.  英先生是那种助人为乐的快活人。
+2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
+   ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
+
+========================================================================
+>>> derivate
+------------------------------------------------------------------------
+derivate    [美 ˈderəˌveɪt / 英 ˈderɪˌveɪt]
+n. 派生的事物；派生词；金融衍生产品；导数，微商
+adj. 引出的，系出的
+v. 衍生，派生
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Derivate feedback is adopted to decrease the overshoot. 为减小超调量，采用了微分反馈。
+≫   Sauce condiment and its derivate brought into the formation of sauce culture. 酱文化是指由酱类调味品及其衍生物所生成的文化。
+≫   Give examples to show that the derivate of elementary function may be unelementary function. 给出实例说明初等函数的导数可以是非初等函数。
+
+========================================================================
+>>> derivativ
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> derivative
+------------------------------------------------------------------------
+derivative    [美 də'rɪvətɪv / 英 dɪ'rɪvətɪv]
+n. [化学] 衍生物，派生物；导数
+adj. 派生的；引出的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A derivative is something which has been developed or obtained from something else. 衍生物
+   ≫   ...a poppy-seed derivative similar to heroin.  …一种类似于海洛因的罂粟种子衍生物。
+
