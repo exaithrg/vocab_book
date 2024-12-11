@@ -23340,3 +23340,50 @@ CET4 TEM4
 bald eagle
 秃鹰：一种北美大型鹰，头部为白色，被用作美国的象征。
 
+========================================================================
+>>> exhibits
+------------------------------------------------------------------------
+exhibits    [美 ɪg'zɪbɪt / 英 iɡˈzibits]
+n. 展览（exhibit的复数）；陈列品
+v. 展览；陈列（exhibit的第三人称单数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone or something shows a particular quality, feeling, or type of behaviour, you can say that they exhibit it. 表现出
+   ≫   He has exhibited symptoms of anxiety and overwhelming worry.  他已表现出焦虑和忧心如焚的症状。
+2. [usu passive] When a painting, sculpture, or object of interest is exhibited, it is put in a public place such as a museum or art gallery so that people can come to look at it. You can also say that animals are exhibited in a zoo. 展览
+   ≫   His work was exhibited in the best galleries in America, Europe and Asia.  他的作品在美国、欧洲和亚洲最好的美术馆展览过。
+3. (N-UNCOUNT) exhibition 展览
+   ≫   Five large pieces of the wall are currently on exhibition.  那堵墙的五块大碎片目前在展览。
+4. (V-I) When artists exhibit, they show their work in public. 展出作品
+   ≫   He has also exhibited at galleries and museums in New York and Washington.  他还在纽约和华盛顿的美术馆及博物馆展出过作品。
+5. (N-COUNT) An exhibit is a painting, sculpture, or object of interest that is displayed to the public in a museum or art gallery. 展览品
+   ≫   Shona showed me around the exhibits.  肖纳带我参观了展品。
+6. [美国英语] An exhibit is a public display of paintings, sculpture, or objects of interest in a museum or art gallery. 展览
+   ≫   ...an exhibit at the Metropolitan Museum of Art.  …大都会艺术博物馆的一场展览。
+7. (N-COUNT) An exhibit is an object that a lawyer shows in court as evidence in a legal case. (法庭上出示的) 证物
+   ≫   The jury has already asked to see more than 40 exhibits from the trial.  陪审团已经要求查看了审判中超过40件的证物。
+
+========================================================================
+>>> exhibit
+------------------------------------------------------------------------
+exhibit    [美 ɪɡ'zɪbɪt / 英 ɪg'zɪbɪt; eg-]
+vt. 展览；显示；提出（证据等）
+n. 展览品；证据；展示会
+vi. 展出；开展览会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone or something shows a particular quality, feeling, or type of behaviour, you can say that they exhibit it. 表现出
+   ≫   He has exhibited symptoms of anxiety and overwhelming worry.  他已表现出焦虑和忧心如焚的症状。
+2. [usu passive] When a painting, sculpture, or object of interest is exhibited, it is put in a public place such as a museum or art gallery so that people can come to look at it. You can also say that animals are exhibited in a zoo. 展览
+   ≫   His work was exhibited in the best galleries in America, Europe and Asia.  他的作品在美国、欧洲和亚洲最好的美术馆展览过。
+3. (N-UNCOUNT) exhibition 展览
+   ≫   Five large pieces of the wall are currently on exhibition.  那堵墙的五块大碎片目前在展览。
+4. (V-I) When artists exhibit, they show their work in public. 展出作品
+   ≫   He has also exhibited at galleries and museums in New York and Washington.  他还在纽约和华盛顿的美术馆及博物馆展出过作品。
+5. (N-COUNT) An exhibit is a painting, sculpture, or object of interest that is displayed to the public in a museum or art gallery. 展览品
+   ≫   Shona showed me around the exhibits.  肖纳带我参观了展品。
+6. [美国英语] An exhibit is a public display of paintings, sculpture, or objects of interest in a museum or art gallery. 展览
+   ≫   ...an exhibit at the Metropolitan Museum of Art.  …大都会艺术博物馆的一场展览。
+7. (N-COUNT) An exhibit is an object that a lawyer shows in court as evidence in a legal case. (法庭上出示的) 证物
+   ≫   The jury has already asked to see more than 40 exhibits from the trial.  陪审团已经要求查看了审判中超过40件的证物。
+
