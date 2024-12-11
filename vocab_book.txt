@@ -23106,3 +23106,229 @@ CET6+ TEM4
 1. (N-COUNT) A derivative is something which has been developed or obtained from something else. 衍生物
    ≫   ...a poppy-seed derivative similar to heroin.  …一种类似于海洛因的罂粟种子衍生物。
 
+========================================================================
+>>> discrete
+------------------------------------------------------------------------
+discrete    [美 dɪ'skrit / 英 dɪ'skriːt]
+adj. 离散的，不连续的
+n. 分立元件；独立部件
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Discrete ideas or things are separate and distinct from each other. 分立的
+   ≫   ...instruction manuals that break down jobs into scores of discrete steps.  …将这些工作分解为多个分立步骤的说明书。
+
+========================================================================
+>>> evenly
+------------------------------------------------------------------------
+evenly    [英 'i:vənlɪ / 美 'ivnli]
+adv. 均匀地；平衡地；平坦地；平等地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Space your words evenly when you write. 写字的时候， 字与字之间要有均匀的间隔。
+≫   Using this method you can generate a lot of records, yet this approach is somewhat simplistic, since all the values are distributed evenly and there is no correlation between them. 您可以使用该方法来生成大量记录，然而，该方法有点过分简单了，因为所有的值都是均匀分布的，而且它们之间不存在相关性。
+≫   Although climate change is a global phenomenon, its consequences will not be evenly distributed. 虽然气候变化是一种全球现象，但其后果不会是均匀分布的。
+
+========================================================================
+>>> symmetrical
+------------------------------------------------------------------------
+symmetrical    [美 sɪ'mɛtrɪkl / 英 sɪ'metrɪk(ə)l]
+adj. 匀称的，对称的
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is symmetrical, it has two halves which are exactly the same, except that one half is the mirror image of the other. 对称的
+   ≫   ...the neat rows of perfectly symmetrical windows.  …一排排整齐的完全对称的窗户。
+2. [ADV with v] symmetrically 对称地
+   ≫   The south garden was composed symmetrically.  南面花园的布局很对称。
+
+========================================================================
+>>> constitutes
+------------------------------------------------------------------------
+constitutes    ['kɔnstitju:t]
+v. 构成（constitute的单三形式）；组成
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] If something constitutes a particular thing, it can be regarded as being that thing. 构成
+   ≫   Testing patients without their consent would constitute a professional and legal offence.  未得病人同意即对其进行试验会构成职业和法律犯罪。
+2. [no cont] If a number of things or people constitute something, they are the parts or members that form it. (某数量的物或人) 构成 (某事物)
+   ≫   China's ethnic minorities constitute less than 7 percent of its total population.  中国的少数民族构成总人口的不到7%。
+
+========================================================================
+>>> constitude
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> constitute
+------------------------------------------------------------------------
+constitute    [美 'kɑnstətut / 英 'kɒnstɪtjuːt]
+vt. 组成，构成；建立；任命
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] If something constitutes a particular thing, it can be regarded as being that thing. 构成
+   ≫   Testing patients without their consent would constitute a professional and legal offence.  未得病人同意即对其进行试验会构成职业和法律犯罪。
+2. [no cont] If a number of things or people constitute something, they are the parts or members that form it. (某数量的物或人) 构成 (某事物)
+   ≫   China's ethnic minorities constitute less than 7 percent of its total population.  中国的少数民族构成总人口的不到7%。
+
+========================================================================
+>>> Straight-Through Estimator
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3662
+Straight-Through Estimator
+直通式估计量
+
+========================================================================
+>>> estimator
+------------------------------------------------------------------------
+estimator    [美 'ɛstə,metɚ / 英 'estɪmeɪtə]
+n. [统计] 估计量；评价者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person or thing that estimates 估测者; 估测器
+
+========================================================================
+>>> estimated
+------------------------------------------------------------------------
+estimated    [ɛstəˌmetɪd]
+adj. 估计的；预计的；估算的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you estimate a quantity or value, you make an approximate judgment or calculation of it. 估计
+   ≫   Try to estimate how many steps it will take to get to a close object.  估计一下需要多少步才能到达一个近距目标。
+   ≫   I estimate that total cost for treatment will go from $9,000 to $12,500.  我估计治疗费总额将在9千美元到1.25万美元之间。
+2. (ADJ) estimated 估计的
+   ≫   There are an estimated 90,000 gangsters in the country.  这个国家估计有9万名歹徒。
+3. (N-COUNT) An estimate is an approximate calculation of a quantity or value. 估计
+   ≫   ...the official estimate of the election result.  …选举结果的官方估计。
+4. (N-COUNT) An estimate is a judgment about a person or situation that you make based on the available evidence. 判断
+   ≫   I hadn't been far wrong in my estimate of his grandson's capabilities.  我对他孙子能力的判断没有太离谱。
+5. (N-COUNT) An estimate from someone who you employ to do a job for you, such as a builder or a plumber, is a written statement of how much the job is likely to cost. 估价
+   ≫   Quotes and estimates can be prepared by computer on the spot.  报价和估价可以当场用电脑做出来。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> attaining
+------------------------------------------------------------------------
+attaining    [美 ə'teɪniŋ]
+v. 获得；到达（attain的ing形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you attain something, you gain it or achieve it, often after a lot of effort. (常指经过努力) 获得
+   ≫   Jim is halfway to attaining his pilot's licence.  吉姆快要拿到他的飞行员执照了。
+
+========================================================================
+>>> emergent
+------------------------------------------------------------------------
+emergent    [美 ɪ'mɝdʒənt / 英 ɪ'mɜːdʒ(ə)nt]
+adj. 紧急的；浮现的；意外的；自然发生的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] An emergent country, political movement, or social group is one that is becoming powerful or coming into existence. (国家、政治运动或社会团体)新兴的; 兴起的
+   ≫   ...an emergent state.  ...一个新兴国家。
+   ≫   ...an emergent nationalist movement.  ...一次新兴民族主义运动。
+
+========================================================================
+>>> decomposition
+------------------------------------------------------------------------
+decomposition    [美 ,dikɑmpə'zɪʃən / 英 ,diːkɒmpə'zɪʃn]
+n. 分解，腐烂；变质
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Decomposition is the process of decay that takes place when a living thing changes chemically after dying. 分解
+
+========================================================================
+>>> standard deviation
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3831
+standard deviation
+标准差：频率分布离散程度的一种度量，它是每个类别频率与频率分布的算术平均值之差的平方的平均值的平方根。
+
+========================================================================
+>>> marginal
+------------------------------------------------------------------------
+marginal    [美 'mɑrdʒɪnl / 英 'mɑːdʒɪn(ə)l]
+adj. 边缘的；临界的；末端的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as marginal, you mean that it is small or not very important. 微小的
+   ≫   This is a marginal improvement on October.  这是对10月份的一个小小的改进。
+2. (ADJ) If you describe people as marginal, you mean that they are not involved in the main events or developments in society because they are poor or have no power. 无足轻重的
+   ≫   The tribunals were established for the well-integrated members of society and not for marginal individuals.  这个特别法庭是为社会中的主流人群设立的，而不是为了无足轻重的小人物。
+3. [商业] Marginal activities, costs, or taxes are not the main part of a business or an economic system, but often make the difference between its success or failure, and are therefore important to control. 边际的
+   ≫   The analysts applaud the cuts in marginal businesses, but insist the company must make deeper sacrifices.  分析家们赞同对边际业务的削减，但坚持认为公司必须作出更大牺牲。
+
+========================================================================
+>>> centroids
+------------------------------------------------------------------------
+centroid    [美 ˈsentrɔɪd / 英 ˈsentrɔɪd]
+n. （数）形心
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the centre of mass of an object of uniform density, esp of a geometric figure 形心
+2. (N) (of a finite set) the point whose coordinates are the mean values of the coordinates of the points of the set 形心
+
+========================================================================
+>>> Accommodating
+------------------------------------------------------------------------
+accommodating    [美 ə'kɑmədetɪŋ / 英 ə'kɒmədeɪtɪŋ]
+adj. 随和的；乐于助人的；肯通融的
+v. 使适应；调节（accommodate的ing形式）；调解
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] If you describe someone as accommodating, you like the fact that they are willing to do things in order to please you or help you. 乐于助人的
+   ≫   Eddie was among the most approachable athletes on the team, always very accommodating to me.  艾迪是队里最容易接近的运动员之一，总是很乐于帮助我。
+
+========================================================================
+>>> spread
+------------------------------------------------------------------------
+spread    [美 sprɛd / 英 spred]
+vi. 传播；伸展
+vt. 传播，散布；展开；伸展；铺开
+n. 传播；伸展
+adj. 伸展的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you spread something somewhere, you open it out or arrange it over a place or surface, so that all of it can be seen or used easily. 铺开
+   ≫   She spread a towel on the sand and lay on it.  她把一块浴巾铺在沙地上，然后躺在上面。
+2. (PHRASAL VERB) Spread out means the same as . 铺开 (同)(spread)
+   ≫   He extracted several glossy prints and spread them out on a low coffee table.  他抽出几张光面照片铺在一张矮咖啡桌上。
+3. (V-T) If you spread your arms, hands, fingers, or legs, you stretch them out until they are far apart. 伸展开 (手臂、手、手指、腿等)
+   ≫   Sitting on the floor, spread your legs as far as they will go without overstretching.  坐在地板上，尽可能分开双腿，但不要过度拉伸。
+4. (PHRASAL VERB) Spread out means the same as . 伸展开
+   ≫   David made a gesture, spreading out his hands as if he were showing that he had no explanation to make.  大卫做了个手势，双手一摊，似乎表示他没有什么可解释的。
+5. (V-T) If you spread a substance on a surface or spread the surface with the substance, you put a thin layer of the substance over the surface. 摊; 抹; 敷
+   ≫   Spread the mixture in the cake pan and bake for 30 minutes.  将该混合物摊在蛋糕烤盘里，烤30分钟。
+6. (V-T/V-I) If something spreads or is spread by people, it gradually reaches or affects a larger and larger area or more and more people. 使扩散; 扩散; 传播
+   ≫   The industrial revolution, which started a couple of hundred years ago in Europe, is now spreading across the world.  几百年前始于欧洲的工业革命现在正向全世界扩散。
+   ≫   ...the sense of fear spreading in residential neighbourhoods.  …在住宅区蔓延的恐惧感。
+7. (N-SING) Spread is also a noun. 扩散; 传播
+   ≫   The greatest hope for reform is the gradual spread of information.  改革的最大希望就是信息的逐渐传播。
+8. (V-T/V-I) If something such as a liquid, gas, or smoke spreads or is spread, it moves outward in all directions so that it covers a larger area. 使蔓延; 蔓延
+   ≫   Fire spread rapidly after a chemical truck exploded.  一辆装有化学品的卡车爆炸后火势迅速蔓延开来。
+   ≫   A dark red stain was spreading across his shirt.  一个暗红色的污渍正在他的衬衫上渗开。
+9. (N-SING) Spread is also a noun. 蔓延
+   ≫   The situation was complicated by the spread of a serious forest fire.  形势因一场严重的森林火灾的蔓延而复杂化了。
+10. (V-T) If you spread something over a period of time, it takes place regularly or continuously over that period, rather than happening at one time. 分散 (于某一时段内)
+   ≫   There seems to be little difference whether you eat all your calorie allowance at once, or spread it over the day.  无论你是一次性吃完全天的卡路里限量还是分散在一天里吃，似乎没多大区别。
+11. (V-T) If you spread something such as wealth or work, you distribute it evenly or equally. 均分
+   ≫   ...policies that spread the state's wealth more evenly.  …更加平均地分配国家财富的政策。
+12. (N-SING) Spread is also a noun. 均分
+   ≫   There are easier ways to encourage the even spread of wealth.  有更简单的方法来促进财富的平均分配。
+13. (N-SING) A spread of ideas, interests, or other things is a wide variety of them. 多样
+   ≫   A topic-based approach can be hard to assess in schools with a typical spread of ability.  在以典型的能力多元化为特征的学校里很难评估一种基于话题的教学方法。
+14. (N-COUNT) A spread is two pages of a book, magazine, or newspaper that are opposite each other when you open it at a particular place. (书籍、杂志、报纸等的) 相对的两页
+   ≫   There was a double-page spread of a dinner for 46 people.  有一篇关于46人共进晚餐的横贯两版的文章。
+15. [商业] Spread is used to refer to the difference between the price that a seller wants someone to pay for a particular stock or share and the price that the buyer is willing to pay. (股票买卖的) 价差
+   ≫   Market makers earn their livings from the spread between buying and selling prices.  炒股者赚取股票买卖的价格差。
+16. to spread your wings →see
+
+========================================================================
+>>> nested
+------------------------------------------------------------------------
+nested    [英 'nestɪd /  'nestɪd]
+adj. 嵌套的，内装的
+v. 筑巢；嵌入（nest的过去分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bird's nest is the home that it makes to lay its eggs in. (鸟类的) 巢
+   ≫   I can see an eagle's nest on the rocks.  我能看到岩石上的一个鹰巢。
+2. (V-I) When a bird nests somewhere, it builds a nest and settles there to lay its eggs. 筑巢
+   ≫   Some species may nest in close proximity to each other.  一些鸟类可能彼此紧挨着筑巢。
+3. (N-COUNT) A nest is a home that a group of insects or other creatures make in order to live in and give birth to their young in. (昆虫或其他动物的) 巢穴
+   ≫   Some solitary bees make their nests in burrows in the soil.  一些独居的蜜蜂将它们的巢筑在土壤中的洞穴里。
+
