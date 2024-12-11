@@ -23387,3 +23387,50 @@ CET4 TEM4
 7. (N-COUNT) An exhibit is an object that a lawyer shows in court as evidence in a legal case. (法庭上出示的) 证物
    ≫   The jury has already asked to see more than 40 exhibits from the trial.  陪审团已经要求查看了审判中超过40件的证物。
 
+========================================================================
+>>> decay
+------------------------------------------------------------------------
+decay    [美 dɪ'ke / 英 dɪ'keɪ]
+vi. 衰退，[核] 衰减；腐烂，腐朽
+n. 衰退，[核] 衰减；腐烂，腐朽
+vt. 使腐烂，使腐败；使衰退，使衰落
+n. (Decay)人名；(法)德凯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When something such as a dead body, a dead plant, or a tooth decays, it is gradually destroyed by a natural process. 腐坏
+   ≫   The bodies buried in the fine ash slowly decayed.  埋在细灰里的尸体慢慢腐烂了。
+2. (N-UNCOUNT) Decay is also a noun. 腐坏
+   ≫   When not removed, plaque causes tooth decay and gum disease.  牙斑没有清除就会导致蛀牙和牙龈疾病。
+3. (ADJ) decayed 腐坏的
+   ≫   Even young children have teeth so decayed they need to be pulled.  连幼儿也有这么严重的龋齿，需要拔掉。
+4. (V-I) If something such as a society, system, or institution decays, it gradually becomes weaker or its condition gets worse. (社会、制度或机构) 衰败
+   ≫   In practice, the agency system has decayed. Most "agents" now sell only to themselves or their immediate family.  实际上，这种代理制已经衰退。现在，大多数“代理人”都只把产品卖给自己或亲近的家人。
+5. (N-UNCOUNT) Decay is also a noun. 衰败
+   ≫   There are problems of urban decay and gang violence.  存在都市衰败和黑帮暴力问题。
+
+========================================================================
+>>> activated
+------------------------------------------------------------------------
+activated    [美 'æktə,vetɪd / 英 'æktɪveɪtɪd]
+adj. 活性化的；活泼的
+v. 使激活；使活动起来；有生气（activate的过去分词）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If a device or process is activated, something causes it to start working. 激活
+   ≫   Video cameras with night vision can be activated by movement.  有夜视功能的摄像机能被物体的活动激活。
+
+========================================================================
+>>> candidate
+------------------------------------------------------------------------
+candidate    [美 ˈkændɪˌdet, -dɪt / 英 'kændɪdeɪt; -dət]
+n. 候选人，候补者；应试者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A candidate is someone who is being considered for a position, for example someone who is running in an election or applying for a job. 候选人
+   ≫   The Democratic candidate is still leading in the polls.  那名民主党候选人仍在民意测验中领先。
+   ≫   He is a candidate for the office of governor.  他是州长的候选人。
+2. [美国英语] A candidate is someone who is studying for a degree at a college. 攻读学位者
+   ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
+3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
+   ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
+
