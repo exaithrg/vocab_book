@@ -22891,3 +22891,138 @@ CET6 TEM4
 3. (N-VAR) Overlap is also a noun. 重合
    ≫   ...the overlap between civil and military technology.  …民用技术与军用技术之间的重合。
 
+========================================================================
+>>> granularity
+------------------------------------------------------------------------
+granularity    [英 grænjʊ'lærɪtɪ /  grænjʊ'lærɪtɪ]
+n. 间隔尺寸，[岩] 粒度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the state or quality of being grainy or granular 粒度
+
+========================================================================
+>>> superior
+------------------------------------------------------------------------
+superior    [美 sʊˈpɪrɪɚ / 英 suːˈpɪərɪə]
+adj. 上级的；优秀的，出众的；高傲的
+n. 上级，长官；优胜者，高手；长者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If one thing or person is superior to another, the first is better than the second. 比…好的
+   ≫   We have a relationship infinitely superior to those of many of our friends.  我们之间的关系远比我们许多朋友之间的关系好得多。
+2. (N-UNCOUNT) superiority 优越性
+   ≫   The technical superiority of laser discs over tape is well established.  光盘相对磁带在技术上的优越性是确定无疑的。
+3. (ADJ) If you describe something as superior, you mean that it is good, and better than other things of the same kind. 上好的
+   ≫   A few years ago it was virtually impossible to find superior quality coffee in local shops.  几年前在当地的商店里几乎不可能买到上好的咖啡。
+4. (ADJ) A superior person or thing is more important than another person or thing in the same organization or system. 上级的
+   ≫   ...negotiations between the mutineers and their superior officers.  …那些反叛者和他们的上级军官们之间的谈判。
+5. (N-COUNT) Your superior in an organization that you work for is a person who has a higher rank than you. 上级
+   ≫   Other army units are completely surrounded and cut-off from communication with their superiors.  其他部队完全被包围，与上级的联系也被切断了。
+6. [表不满] If you describe someone as superior, you disapprove of them because they behave as if they are better, more important, or more intelligent than other people. 有优越感的
+   ≫   Finch gave a superior smile.  芬奇富有优越感地一笑。
+7. (N-UNCOUNT) superiority 优越
+   ≫   ...a false sense of his superiority over mere journalists.  …他在记者面前才有的虚假的优越感。
+8. [正式] If one group of people has superior numbers to another group, the first has more people than the second, and therefore has an advantage over it. (人数) 占优势的
+   ≫   The demonstrators fled when they saw the authorities' superior numbers.  示威者们看到官方占优势的人数时就逃跑了。
+
+========================================================================
+>>> retains
+------------------------------------------------------------------------
+retains    [ri'tein]
+保持
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To retain something means to continue to have that thing. 保留
+   ≫   The interior of the shop still retains a nineteenth-century atmosphere.  那家商店内部依然保持着19世纪的格调。
+
+========================================================================
+>>> crucial
+------------------------------------------------------------------------
+crucial    [英 'kruːʃ(ə)l / 美 'krʊʃəl]
+adj. 重要的；决定性的；定局的；决断的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as crucial, you mean it is extremely important. 至关重要的
+   ≫   He had administrators under him but made the crucial decisions himself.  尽管他手下有许多官员，但重要的决定还是他自己做。
+2. (ADV) crucially 至关重要地
+   ≫   Chewing properly is crucially important.  正确地咀嚼是至关重要的。
+
+========================================================================
+>>> implications
+------------------------------------------------------------------------
+implications    [,ɪmplɪ'keʃən]
+n. 蕴涵式；暗指，暗示；含蓄，含意；卷入（implication的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Theimplicationsof something are the things that are likely to happen as a result. 可能的结果
+   ≫   The Attorney General was aware of the political implications of his decision to prosecute.  总检察长知道自己起诉的决定可能引起的政治后果。
+2. (N-COUNT) Theimplication of a statement, event, or situation is what it implies or suggests is the case. 含意
+   ≫   The implication was obvious: vote for us or it will be very embarrassing for you.  含意很明显：投票给我们，否则你会很难堪。
+3. (PHRASE) If you say that something is the case by implication, you mean that a statement, event, or situation implies that it is the case. 言下之意; 暗示地
+   ≫   Now his authority and, by implication, that of the whole management team are under threat as never before.  言下之意，现在他的权力以及整个管理团队的权威正面临空前的威胁。
+4. → see also
+
+========================================================================
+>>> implication
+------------------------------------------------------------------------
+implication    [美 'ɪmplɪ'keʃən / 英 ɪmplɪ'keɪʃ(ə)n]
+n. 含义；暗示；牵连，卷入；可能的结果，影响
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Theimplicationsof something are the things that are likely to happen as a result. 可能的结果
+   ≫   The Attorney General was aware of the political implications of his decision to prosecute.  总检察长知道自己起诉的决定可能引起的政治后果。
+2. (N-COUNT) Theimplication of a statement, event, or situation is what it implies or suggests is the case. 含意
+   ≫   The implication was obvious: vote for us or it will be very embarrassing for you.  含意很明显：投票给我们，否则你会很难堪。
+3. (PHRASE) If you say that something is the case by implication, you mean that a statement, event, or situation implies that it is the case. 言下之意; 暗示地
+   ≫   Now his authority and, by implication, that of the whole management team are under threat as never before.  言下之意，现在他的权力以及整个管理团队的权威正面临空前的威胁。
+4. → see also
+
+========================================================================
+>>> influence
+------------------------------------------------------------------------
+influence    [美 'ɪnfluəns / 英 'ɪnflʊəns]
+n. 影响；势力；感化；有影响的人或事
+vt. 影响；改变
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Influence is the power to make other people agree with your opinions or do what you want. 权势
+   ≫   He used his influence to get his son into medical school.  他利用权势把儿子弄进了医学院。
+   ≫   He denies exerting any political influence over them.  他否认曾向他们施加过政治影响。
+2. (V-T) If you influence someone, you use your power to make them agree with you or do what you want. 影响
+   ≫   He is trying to improperly influence a witness.  他正试图不适当地影响一名证人。
+3. (N-COUNT) To have an influence on people or situations means to affect what they do or what happens. 影响
+   ≫   Van Gogh had a major influence on the development of modern painting.  凡·高对现代绘画的发展有着重大的影响。
+4. (V-T) If someone or something influences a person or situation, they have an effect on that person's behaviour or that situation. 影响
+   ≫   We became the best of friends and he influenced me deeply.  我们成了最好的朋友，而他深深地影响了我。
+5. (N-COUNT) Someone or something that is a good or bad influence on people has a good or bad effect on them. 有影响的人 (或事物)
+   ≫   I thought Sonny would be a good influence on you.  我认为桑尼对你会有好的影响。
+6. (PHRASE) If you are under the influence of someone or something, you are being affected or controlled by them. 在…影响之下
+   ≫   He was arrested on suspicion of driving under the influence of alcohol.  他因涉嫌酒后驾车而被捕。
+
+========================================================================
+>>> implicit
+------------------------------------------------------------------------
+implicit    [美 ɪm'plɪsɪt / 英 ɪm'plɪsɪt]
+adj. 含蓄的；暗示的；盲从的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is implicit is expressed in an indirect way. 含蓄的
+   ≫   ...an implicit warning to the Moroccans not to continue or repeat the military actions they began a week ago.  …叫摩洛哥人不要继续或重复一周前开始的军事行动的含蓄警告。
+2. [ADV with v] implicitly 含蓄地
+   ≫   The jury implicitly criticized the government by their verdict.  陪审团通过他们的裁决含蓄地批评了政府。
+3. [v-link ADJ 'in' n] If a quality or element is implicit in something, it is involved in it or is shown by it. 内含的
+   ≫   Trust is implicit in the system.  信任是这种体制里内含的。
+4. (ADJ) If you say that someone has an implicit belief or faith in something, you mean that they have complete faith in it and no doubts at all. 绝对的 (信任)
+   ≫   He had implicit faith in the noble intentions of the Emperor.  他对皇帝的崇高旨意笃信不疑。
+5. [ADV after v] implicitly 绝对地
+   ≫   I trust him implicitly.  我绝对信任他。
+
+========================================================================
+>>> implicitly
+------------------------------------------------------------------------
+implicitly    [ɪm'plɪsɪtlɪ / 英 ɪm'plɪsɪtlɪ]
+adv. 含蓄地；暗中地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Yet there is an “unless” looming implicitly in these pages. 然而：“除非”从句在这些页面含蓄出现。
+≫   These methods implicitly or explicitly assume that the architectural risks are low, and that any architectural changes will emerge out of the normal development work. 这些方法或含蓄地或明显地假设构架的风险很低，并且任何结构性变化将从正常的开发工作中暴露出来。
+≫   If you do so, then any application within the cell can look up the resource, and then implicitly use the provided user ID and password. 如果这样做，计算单元内的任何应用程序就都可以查找该资源，然后将隐式地使用提供的用户 ID 和密码。
+
