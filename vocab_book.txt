@@ -22836,3 +22836,15 @@ CET6 TEM8
 2. [usu sing, oft N 'of' n] Composite is also a noun. 合成物
    ≫   Cuba is a composite of diverse traditions and people.  古巴是一个不同传统和民族的融合体。
 
+========================================================================
+>>> crucial
+------------------------------------------------------------------------
+crucial    [美 'krʊʃəl / 英 'kruːʃ(ə)l]
+adj. 重要的；决定性的；定局的；决断的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as crucial, you mean it is extremely important. 至关重要的
+   ≫   He had administrators under him but made the crucial decisions himself.  尽管他手下有许多官员，但重要的决定还是他自己做。
+2. (ADV) crucially 至关重要地
+   ≫   Chewing properly is crucially important.  正确地咀嚼是至关重要的。
+
