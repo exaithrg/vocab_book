@@ -23460,3 +23460,27 @@ CET4 TEM4
 2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
    ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
 
+========================================================================
+>>> alleviate
+------------------------------------------------------------------------
+alleviate    [美 ə'livɪ'et / 英 ə'liːvɪeɪt]
+vt. 减轻，缓和
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you alleviate pain, suffering, or an unpleasant condition, you make it less intense or severe. 减轻 (不适)
+   ≫   Nowadays, a great deal can be done to alleviate back pain.  如今，很多方法可以被用来减轻背部疼痛。
+2. [usu N 'of' n] alleviation 减轻
+   ≫   Their energies were focused on the alleviation of the refugees' misery.  他们把精力集中在了对难民苦难的减轻上。
+
+========================================================================
+>>> allocate
+------------------------------------------------------------------------
+allocate    [美 'æləket / 英 'æləkeɪt]
+vt. 分配；拨出；使坐落于
+vi. 分配；指定
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one item or share of something is allocated to a particular person or for a particular purpose, it is given to that person or used for that purpose. 分配
+   ≫   Tickets are limited and will be allocated to those who apply first.  票数有限，将分配给那些先申请的人。
+   ≫   The 1985 federal budget allocated $7.3 billion for development programmes.  1985年联邦预算拨了73亿美元用于开发项目。
+
