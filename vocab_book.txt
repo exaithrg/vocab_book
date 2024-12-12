@@ -23731,3 +23731,41 @@ CET6+
 1. [正式] If one group has an affiliation with another group, it has a close or official connection with it. 紧密联系; 官方联系
    ≫   The kidnappers had no affiliation with any militant group.  这些绑架者与任何军事组织都没有紧密联系。
 
+========================================================================
+>>> rearrangement
+------------------------------------------------------------------------
+rearrangement    [美 ,riə'rendʒmənt / 英 'riːə'reɪndʒmənt]
+n. 重新整理；重新排列；重新布置
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A rearrangement is a change in the way that something is arranged or organized. 重新安排; 重新整理
+   ≫   ...a rearrangement of the job structure.  …对工作结构的重新安排。
+
+========================================================================
+>>> intervention
+------------------------------------------------------------------------
+intervention    [美 ,ɪntɚ'vɛnʃən / 英 ɪntə'venʃ(ə)n]
+n. 介入；调停；妨碍
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Intervention is the act of intervening in a situation. 干涉
+   ≫   ...the role of the United States and its intervention in the internal affairs of many countries.  …美国所扮演的角色及其对许多国家内政的干涉。
+
+========================================================================
+>>> complicates
+------------------------------------------------------------------------
+complicates    ['kɔmplikeit]
+v. 使复杂（complicate复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To complicate something means to make it more difficult to understand or deal with. 使复杂化
+   ≫   What complicates the issue is the burden of history.  使问题复杂化是历史的重负。
+   ≫   The day's events, he said, would only complicate the task of the peacekeeping forces.  他说那天的事件只会使维和部队的任务复杂化。
+
+========================================================================
+>>> Granularity
+------------------------------------------------------------------------
+granularity    [英 grænjʊ'lærɪtɪ /  grænjʊ'lærɪtɪ]
+n. 间隔尺寸，[岩] 粒度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the state or quality of being grainy or granular 粒度
+
