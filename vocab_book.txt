@@ -23769,3 +23769,218 @@ n. 间隔尺寸，[岩] 粒度
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) the state or quality of being grainy or granular 粒度
 
+========================================================================
+>>> simultaneously
+------------------------------------------------------------------------
+simultaneously    [美 saɪməl'tenɪəsli / 英 ,sɪml'teɪnɪəslɪ]
+adv. 同时地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   So we think they have to proceed simultaneously, " she added. 因此，我们认为两个问题必须同时进行。
+≫   It will save considerable machining time to use more than one tool in one machine to perform several machine operations either in sequence or simultaneously. 在一台机器上使用数种刀具来顺次或同时进行几项机器操作， 将节省大量加工时间。
+≫   If they have multiple test cases that will be run on the same platforms, they can select multiple configurations simultaneously and apply the configurations to several of them in batch mode. 如果他们拥有多个将要运行在同一个平台上的测试用例的话，那么他们能够同时选择多个配置，并且将这些配置批量应用到平台上。
+
+========================================================================
+>>> simultaneous
+------------------------------------------------------------------------
+simultaneous    [英 ,sɪm(ə)l'teɪnɪəs / 美 ,saɪml'tenɪəs]
+adj. 同时的；联立的；同时发生的
+n. 同时译员
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things which are simultaneous happen or exist at the same time. 同时的
+   ≫   ...the simultaneous release of the book and the CD.  …书与激光唱片的同时发行。
+2. (ADV) simultaneously 同时地
+   ≫   The two guns fired almost simultaneously.  两支枪几乎同时开火。
+
+========================================================================
+>>> systematically
+------------------------------------------------------------------------
+systematically    [美 ,sɪstə'mætɪkl / 英 ,sɪstə'mætɪklɪ]
+adv. 有系统地；有组织地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A scientist makes observations, poses a hypothesis to explain the observations, and then systematically tests the hypothesis, looking for evidence that either supports or refutes its validity. 科学家先从事观测，再提出假设来解释观测结果，然后对假设进行系统地检验，寻找证据来支持或者否定这一假设。
+≫   But these challenges must not become an excuse for governments to systematically violate the rights and privacy of those who use the internet for peaceful political purposes. 然而，对于那些为了和平的政治目的利用互联网的人士，这些并不能成为政府有计划地侵犯他们的权利和隐私的托辞。
+≫   Never before has anyone systematically looked for the last queen of Egypt. 以前没有人曾系统地寻找过这位埃及最后的女王。
+
+========================================================================
+>>> principle
+------------------------------------------------------------------------
+principle    [美 'prɪnsəpl / 英 'prɪnsɪp(ə)l]
+n. 原理，原则；主义，道义；本质，本义；根源，源泉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A principle is a general belief about the way you should behave, which influences your behaviour. 原则
+   ≫   Buck never allowed himself to be bullied into doing anything that went against his principles.  巴克从来不让自己被迫做任何违背自己原则的事。
+   ≫   It's not just a matter of principle.  这不仅仅是个原则问题。
+2. (N-COUNT) The principles of a particular theory or philosophy are its basic rules or laws. (理论或哲学) 原理
+   ≫   ...a violation of the basic principles of Marxism.  …对马克思主义基本原理的一种违背。
+3. (N-COUNT) Scientific principles are general scientific laws which explain how something happens or works. (科学) 原理
+   ≫   These people lack all understanding of scientific principles.  这些人缺乏对科学原理的全面理解。
+4. (PHRASE) If you agree with something in principle, you agree in general terms to the idea of it, although you do not yet know the details or know if it will be possible. 原则上
+   ≫   I agree with it in principle but I doubt if it will happen in practice.  我原则上是同意它的，但我怀疑在实践中它是否会发生。
+5. (PHRASE) If something is possible in principle, there is no known reason why it should not happen, even though it has not happened before. 在理论上
+   ≫   Even assuming this to be in principle possible, it will not be achieved soon.  即使假定这在理论上是可能的，它也不会很快就能实现。
+6. (PHRASE) If you refuse to do something on principle, you refuse to do it because of a particular belief that you have. 依据原则
+   ≫   He would vote against it on principle.  他会依据原则投票反对它。
+
+========================================================================
+>>> simultaneous
+------------------------------------------------------------------------
+simultaneous    [英 ,sɪm(ə)l'teɪnɪəs / 美 ,saɪml'tenɪəs]
+adj. 同时的；联立的；同时发生的
+n. 同时译员
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things which are simultaneous happen or exist at the same time. 同时的
+   ≫   ...the simultaneous release of the book and the CD.  …书与激光唱片的同时发行。
+2. (ADV) simultaneously 同时地
+   ≫   The two guns fired almost simultaneously.  两支枪几乎同时开火。
+
+========================================================================
+>>> off the rails
+------------------------------------------------------------------------
+off the rails
+异常的方式行动，导致损坏或故障，疯狂，偏离原计划，失控：指行为或计划变得异常、失控，偏离原本的轨道或计划。
+以异常的方式行动，导致损坏或故障，疯狂，偏离原计划，失控：指行为或计划以异常的方式进行，导致损坏、故障，或偏离原本的轨道或计划。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Several cars went off the rails. 有几节火车车厢出轨了。《牛津词典》
+≫   The company has gone badly off the rails in recent years. 这家公司最近几年已经陷于严重瘫痪。《牛津词典》
+≫   They've got to do something about these children because clearly they've gone off the rails. 他们必须对这些孩子采取点行动，因为很明显他们的行为已经出轨了。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> alternate
+------------------------------------------------------------------------
+alternate    [英 ˈɔ:ltəneɪt;(for adj.)ɔ:lˈtɜ:nət / 美 ˈɔltɚˌnet;(for adj.)ˈɔ:ltərnət]
+vi. 交替；轮流
+vt. 使交替；使轮流
+adj. 交替的；轮流的
+n. 替换物
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) When you alternate two things, you keep using one then the other. When one thing alternates with another, the first regularly occurs after the other. 交替
+   ≫   Her aggressive moods alternated with gentle or more cooperative states.  她的挑衅情绪与温和或更为合作的情绪互相交替。
+   ≫   Now you just alternate layers of that mixture and eggplant.  现在你只用把那种混合物与茄子一层层交叠起来。
+2. [ADJ n] Alternate actions, events, or processes regularly occur after each other. 交替的
+   ≫   They were streaked with alternate bands of colour.  他们都带有色彩交替相间的条纹。
+3. (ADV) alternately 交替地
+   ≫   He could alternately bully and charm people.  他能时而欺负人，时而吸引人。
+4. [ADJ n] If something happens on alternate days, it happens on one day, then happens on every second day after that. In the same way, something can happen in alternate weeks, years, or other periods of time. 间隔的
+   ≫   Lesley had agreed to Jim going skiing in alternate years.  莱斯丽已经同意了吉姆隔年去滑雪。
+5. [ADJ n] You use alternate to describe a plan, idea, or system which is different from the one already in operation and can be used instead of it. 供替换的
+   ≫   His group was forced to turn back and take an alternate route.  他的小组被迫返回并采用了替代路线。
+6. [美国英语] An alternate is a person or thing that replaces another, and can act or be used instead of them. 替补
+   ≫   In most jurisdictions, twelve jurors and two alternates are chosen.  在大多数审判中，12名陪审员和2名替补人员会被选出。
+
+========================================================================
+>>> vice-versa
+------------------------------------------------------------------------
+vice-versa
+反之亦然
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) Vice versa is used to indicate that the reverse of what you have said is true. For example, "women may bring their husbands with them, and vice versa" means that men may also bring their wives with them. 反之亦然
+   ≫   They want to send students from low-income homes into more affluent neighborhoods and vice versa.  他们想把来自低收入家庭的学生送到较为富裕的地区，反之亦然。
+
+========================================================================
+>>> vice-versa
+------------------------------------------------------------------------
+vice-versa
+反之亦然
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) Vice versa is used to indicate that the reverse of what you have said is true. For example, "women may bring their husbands with them, and vice versa" means that men may also bring their wives with them. 反之亦然
+   ≫   They want to send students from low-income homes into more affluent neighborhoods and vice versa.  他们想把来自低收入家庭的学生送到较为富裕的地区，反之亦然。
+
+========================================================================
+>>> gradient
+------------------------------------------------------------------------
+gradient    [美 'ɡredɪənt / 英 'greɪdɪənt]
+n. [数][物] 梯度；坡度；倾斜度
+adj. 倾斜的；步行的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [英国英语] A gradient is a slope, or the degree to which the ground slopes. 斜坡; 倾斜度
+
+========================================================================
+>>> MLP
+------------------------------------------------------------------------
+MLP
+abbr. 机器语言程序（Machine Language Program）；多参数线性规划（Multiparametric Linear Programming）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The "Sponsor." the entity that forms or creates the MLP. “赞助者”。形成或者创造MLP企业的主体。
+≫   A general partner commonly owns a 2% stake in an MLP it manages. 一个普通合伙人通常在其管理的MLP企业里有2%的股权。
+≫   This initializing method can also be used as fast training algorithm for H-MLP network. 该初始化方法同时可作为H-MLP网络的一种快速训练算法。
+
+========================================================================
+>>> perceptron
+------------------------------------------------------------------------
+perceptron    [pɚ'sɛptrɑn]
+n. 感知器，[计] 感知机（模拟人类视神经控制系统的图形识别机）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A perceptron utilizes weights in a different and perhaps more intuitive way. 感知器以一种不同的而且可能更为直观的方式来使用权重。
+≫   A neural net that uses this rule is known as a perceptron, and this rule is called the perceptron learning rule. 一个使用这个规则的神经网络称为 感知器，并且这个规则被称为 感知器学习规则。
+≫   The perceptron training rule is based on the idea that weight modification is best determined by some fraction of the difference between target and output. 感知器培训规则是基于这样一种思路 ― 权系数的调整是由目标和输出的差分方程表达式决定。
+
+========================================================================
+>>> multi-layer perceptron
+------------------------------------------------------------------------
+multi-layer perceptron
+多层感知机
+
+========================================================================
+>>> shuffle
+------------------------------------------------------------------------
+shuffle    [美 'ʃʌfl / 英 'ʃʌf(ə)l]
+v. 洗牌；推诿，推卸；拖曳，慢吞吞地走；搅乱
+n. 洗牌，洗纸牌；混乱，蒙混；拖着脚走
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you shuffle somewhere, you walk there without lifting your feet properly off the ground. 拖着脚走
+   ≫   Moira shuffled across the kitchen.  莫伊拉拖着脚走过了厨房。
+2. (N-SING) Shuffle is also a noun. 拖着脚走
+   ≫   She noticed her own proud walk had become a shuffle.  她注意到了自己得意的步伐已变成了拖着脚走。
+3. (V-T/V-I) If you shuffle around, you move your feet about while standing or you move your bottom about while sitting, often because you feel uncomfortable or embarrassed. (因不舒服或尴尬) 站着的脚来回挪动; 坐立不安
+   ≫   He shuffles around in his chair.  他在椅子上坐立不安。
+4. (V-T) If you shuffle playing cards, you mix them up before you begin a game. 洗 (牌)
+   ≫   There are various ways of shuffling and dealing the cards.  有各种不同的洗牌和发牌方法。
+
+========================================================================
+>>> decipting
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> decipt
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> depict
+------------------------------------------------------------------------
+depict    [美 dɪ'pɪkt / 英 dɪ'pɪkt]
+vt. 描述；描画
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To depict someone or something means to show or represent them in a work of art such as a drawing or painting. 描绘
+   ≫   ...a gallery of pictures depicting Lee's most famous battles.  …一批描绘李的最著名战役的图画。
+
+========================================================================
+>>> depicting
+------------------------------------------------------------------------
+depicting    [di'pikt]
+描绘
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To depict someone or something means to show or represent them in a work of art such as a drawing or painting. 描绘
+   ≫   ...a gallery of pictures depicting Lee's most famous battles.  …一批描绘李的最著名战役的图画。
+
+========================================================================
+>>> illustration
+------------------------------------------------------------------------
+illustration    [美 ,ɪlə'streʃən / 英 ɪlə'streɪʃ(ə)n]
+n. 说明；插图；例证；图解
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An illustration is an example or a story that is used to make a point clear. 实例
+   ≫   An illustration of China's dynamism is that a new company is formed in Shanghai every 11 seconds.  说明中国活力的一个实例便是在上海每11秒钟就有一家新公司成立。
+2. (N-COUNT) An illustration in a book is a picture, design, or diagram. (书中的) 插图
+   ≫   She looked like a princess in a nineteenth-century illustration.  她看上去像19世纪插图里的公主。
+3. → see also
+
