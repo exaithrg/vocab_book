@@ -23484,3 +23484,99 @@ CET6 TEM4
    ≫   Tickets are limited and will be allocated to those who apply first.  票数有限，将分配给那些先申请的人。
    ≫   The 1985 federal budget allocated $7.3 billion for development programmes.  1985年联邦预算拨了73亿美元用于开发项目。
 
+========================================================================
+>>> rapid
+------------------------------------------------------------------------
+rapid    [美 'ræpɪd / 英 'ræpɪd]
+adj. 迅速的，急促的；飞快的；险峻的
+n. 急流；高速交通工具，高速交通网
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A rapid change is one that happens very quickly. (变化) 快速的
+   ≫   ...the country's rapid economic growth in the 1980s.  …这个国家在20世纪80年代快速的经济增长。
+2. (ADV) rapidly 快速地
+   ≫   ...countries with rapidly growing populations.  …人口快速增长的国家。
+   ≫   Try to rip it apart as rapidly as possible.  试着尽快把它撕开。
+3. (ADJ) A rapid movement is one that is very fast. (动作) 迅速的
+   ≫   He walked at a rapid pace along Charles Street.  他沿着查尔斯大街快步行走。
+4. [ADV with v] rapidly 迅速地
+   ≫   He was moving rapidly around the room.  他正在房间里快速地来回走着。
+
+========================================================================
+>>> pseudo
+------------------------------------------------------------------------
+pseudo    [美 'sʊdo / 英 'sjuːdəʊ]
+n. 伪君子；假冒的人
+adj. 冒充的，假的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] not genuine; pretended 假的
+
+========================================================================
+>>> pseudorandom
+------------------------------------------------------------------------
+pseudorandom    [英 ˌsjuːdəʊˈrændəm / 美 ˌsuːdoʊˈrændəm]
+n. 伪随机；假散乱
+adj. 伪随机的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Computers usually only generate pseudorandom Numbers. 计算机通常只生成伪随机数。
+≫   Sufficient bit security is necessary for pseudorandom binary sequences drived by chaotic maps. 由混沌映射驱动得到的伪随机二进制序列应确保有足够的比特安全性。
+≫   I did this by using a software linear feedback shift register to generate pseudorandom values; see Resources. 我用一个软件线性反馈偏移寄存器来生成伪随机值；参见参考资料。
+
+========================================================================
+>>> quasi
+------------------------------------------------------------------------
+quasi    [美 ˈkweˌzaɪ ; ˈkweˌsaɪ ; ˈkwɑzi ; ˈkwɑsi / 英 ˈkweɪzaɪ; ˈkweɪsaɪ; ˈkwɑːzi]
+adj. 准的；类似的；外表的
+adv. 似是；有如
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) as if; as it were 似乎; 宛如
+
+========================================================================
+>>> Quasi Mote Caro
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1086
+Quasi Mote Caro
+准卡罗莫特
+
+========================================================================
+>>> Quasi Monte Carlo
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1134
+Quasi Monte Carlo
+拟蒙特卡罗
+
+========================================================================
+>>> premature
+------------------------------------------------------------------------
+premature    [美 ,primə'tʃʊr / 英 'premətjʊə]
+adj. 早产的；不成熟的；比预期早的
+n. 早产儿；过早发生的事物
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is premature happens earlier than usual or earlier than people expect. 提早的
+   ≫   Accidents are still the number one cause of premature death for Americans.  事故仍然是美国人非自然死亡的首要原因。
+   ≫   His career was brought to a premature end by a succession of knee injuries.  他的职业生涯因连续的膝伤过早地结束了。
+2. (ADV) prematurely 提早地
+   ≫   The war and the years in the harsh mountains had prematurely aged him.  战争和深山老林的岁月使他提早衰老了。
+3. (ADJ) You can say that something is premature when it happens too early and is therefore inappropriate. 过早的
+   ≫   It now seems their optimism was premature.  目前，他们的乐观好像还为时过早。
+4. (ADV) prematurely 过早地
+   ≫   He was careful not to celebrate prematurely.  他很谨慎，没有过早地举行庆祝活动。
+5. (ADJ) A premature baby is one that was born before the date when it was expected to be born. 早产的
+   ≫   Even very young premature babies respond to their mother's presence.  即使很小的早产儿也会对母亲的在场有所反应。
+6. [ADV after v] prematurely 早产地
+   ≫   Danny was born prematurely, weighing only 3lb 3oz.  丹尼是早产的，体重只有3磅3盎司。
+
+========================================================================
+>>> prematurely
+------------------------------------------------------------------------
+prematurely    [英 'premətʃəlɪ / 美 ,primə'tjʊrli]
+adv. 过早地；早熟地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That causes your test to terminate prematurely, too, of course. 当然，那也将导致你的测试过早地终止。
+≫   Yet as any programmer knows, it would be a mistake to optimise prematurely. 正如任何程序员所知道的那样，过早地优化可能是一个错误。
+≫   During these months it seemed to me that I had committed an unpardonable mistake by revealing my work prematurely and that because of this I should not be able to carry it to a conclusion. 在这几个月期间，我似乎被一种不可饶恕的错误所拖累，那就是我过早的拿出了我的作品，因此我也不可能得到什么好结果。
+
