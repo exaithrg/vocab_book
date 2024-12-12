@@ -24384,3 +24384,94 @@ CET4 TEM4
 2. (N-COUNT) A preliminary is something that you do at the beginning of an activity, often as a form of preparation. (程序性或礼节性的) 预备事务
    ≫   You all know why I am here. So I won't waste time on preliminaries.  你们都知道我为什么在这里。所以我就不浪费时间讲客套话了。
 
+========================================================================
+>>> denominator
+------------------------------------------------------------------------
+denominator    [美 dɪ'nɑmə'netɚ / 英 dɪ'nɒmɪneɪtə]
+n. [数] 分母；命名者；共同特征或共同性质；平均水平或标准
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In mathematics, the denominator is the number which appears under the line in a fraction. 分母 → see also ,
+
+========================================================================
+>>> denominator inversion
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：53897
+denominator inversion
+分母反演
+
+========================================================================
+>>> 分子
+------------------------------------------------------------------------
+分子
+n. molecule ; member ; element
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The DNA molecule is compounded from many smaller molecules. 脱氧核糖核酸分子是由许多更小的分子组成的。《牛津词典》
+≫   A few diehards are trying to stop the reforms. 少数顽固分子试图阻止改革。《牛津词典》
+≫   The army has come under attack by separatists. 军队遭到独立分子的袭击。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> 分母
+------------------------------------------------------------------------
+分母
+n. denominator
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Based on the relationship between the group delay function and the cepstral coefficients, the denominator polynomial coefficients can be determined. 根据群延迟函数与倒谱系数之间的关系，可以确定分母的多项式系数。
+≫   So let's take the derivative with respect to the temperature on the bottom first. 让我们首先，对分母做温度的微分。
+≫   n We're interested in x divided by n. So let's divide both the top and the bottom by n squared. 我们感兴趣的是x除以,所以同时把分子分母除以n平方。
+
+========================================================================
+>>> molecule
+------------------------------------------------------------------------
+molecule    [美 'mɑlɪkjul / 英 'mɒlɪkjuːl]
+n. [化学] 分子；微小颗粒，微粒
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A molecule is the smallest amount of a chemical substance which can exist by itself. 分子
+   ≫   ...the hydrogen bonds between water molecules.  …水分子之间的氢连接。
+
+========================================================================
+>>> numerator
+------------------------------------------------------------------------
+numerator    [英 'njuːməreɪtə / 美 'numəretɚ]
+n. 分子；计算者；计算器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [maths] the dividend of a fraction (分数的)分子 → compare
+   ≫   the numerator of  is 7  
+
+========================================================================
+>>> denominator
+------------------------------------------------------------------------
+denominator    [英 dɪ'nɒmɪneɪtə / 美 dɪ'nɑmə'netɚ]
+n. [数] 分母；命名者；共同特征或共同性质；平均水平或标准
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In mathematics, the denominator is the number which appears under the line in a fraction. 分母 → see also ,
+
+========================================================================
+>>> inversino
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> inversion
+------------------------------------------------------------------------
+inversion    [美 ɪn'vɝʃən / 英 ɪn'vɜːʃ(ə)n]
+n. 倒置；反向；倒转
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu N 'of' n] When there is an inversion of something, it is changed into its opposite. 颠倒
+   ≫   ...a scandalous inversion of the truth.  ...一个令人愤慨的是非颠倒。
+
+========================================================================
+>>> integrity
+------------------------------------------------------------------------
+integrity    [美 ɪn'tɛɡrəti / 英 ɪn'tegrɪtɪ]
+n. 完整；正直；诚实；廉正
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you have integrity, you are honest and firm in your moral principles. 正直; 诚实
+   ≫   I have always regarded him as a man of integrity.  我一直把他当作一个正直诚实的人。
+2. [正式] The integrity of something such as a group of people or a text is its state of being a united whole. 完整
+   ≫   Separatist movements are a threat to the integrity of the nation.  分裂活动是对国家领土完整的威胁。
+
