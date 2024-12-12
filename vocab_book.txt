@@ -24585,3 +24585,280 @@ Energon晶体
 Iron Man
 （钢）铁人；铁甲奇侠；钢铁侠
 
+========================================================================
+>>> permitted
+------------------------------------------------------------------------
+permitted    [pə'mit]
+adj. 被允许的
+v. 允许（permit的过去分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone permits something, they allow it to happen. If they permit you to do something, they allow you to do it. 允许
+   ≫   He can let the court's decision stand and permit the execution.  他能让法院的判决成立，并允许处决。
+   ≫   The guards permitted me to bring my camera and tape recorder.  守卫允许我带上相机和录音机。
+2. (N-COUNT) A permit is an official document which says that you may do something. For example, you usually need a permit to work in a foreign country. 许可证
+   ≫   He has to apply for a permit, and we have to find him a job.  他必须申请一个许可证，而我们必须给他找一份工作。
+3. [正式] If a situation permits something, it makes it possible for that thing to exist, happen, or be done or it provides the opportunity for it. 使成为可能; 成为可能
+   ≫   Try to go out for a walk at lunchtime, if the weather permits.  如果天气条件允许，午饭时尽量出去散散步。
+   ≫   This method of cooking also permits heat to penetrate evenly from both sides.  这种烹调方法还能使两面均匀受热。
+
+========================================================================
+>>> verbatim
+------------------------------------------------------------------------
+verbatim    [美 vɝ'betɪm / 英 vɜː'beɪtɪm]
+adv. 逐字地
+adj. 逐字的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV after v] If you repeat something verbatim, you use exactly the same words as were used originally. 一字不差地
+   ≫   The president's speeches are regularly reproduced verbatim in the state-run newspapers.  这位总统的演讲经常会一字不差地被刊登在那些国有报纸上。
+2. [ADJ n] Verbatim is also an adjective. 一字不差的
+   ≫   I was treated to a verbatim report of every conversation she's taken part in over the past week.  有人给了我一份报告，上面一字不差地记录了她在过去的一周中参与的每一次谈话。
+
+========================================================================
+>>> inaccessable
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> arctic
+------------------------------------------------------------------------
+arctic    [美 'ɑrktɪk / 英 'ɑːktɪk]
+adj. 北极的；极寒的
+n. 北极圈；御寒防水套鞋
+n. (Arctic)人名；(英)阿克蒂克
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Arctic is the area of the world around the North Pole. It is extremely cold and there is very little light in winter and very little darkness in summer. 北极
+   ≫   ...winter in the Arctic.  …北极的冬天。
+2. [非正式] If you describe a place or the weather as arctic, you are emphasizing that it is extremely cold. 极冷的
+   ≫   The bathroom, with its spartan pre-war facilities, is positively arctic.  这个有简陋战前设施的浴室实在冷极了。
+
+========================================================================
+>>> vault
+------------------------------------------------------------------------
+vault    [美 vɔlt / 英 vɔːlt]
+n. 拱顶；撑竿跳；地下室
+vi. 跳跃；成穹状弯曲
+vt. 做成圆拱形；撑竿跳过
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vault is a secure room where money and other valuable things can be kept safely. 保险库
+   ≫   Most of the money was in storage in bank vaults.  这笔钱的一大部分是存放在银行保险库中的。
+2. (N-COUNT) A vault is a room underneath a church or in a cemetery where people are buried, usually the members of a single family. 家族墓穴
+   ≫   He ordered that Matilda's body should be buried in the family vault.  他下命令说玛蒂尔达的尸体要埋葬在家族墓穴中。
+3. (N) an arched structure that forms a roof or ceiling 拱顶; 穹隆
+4. (V-T/V-I) If you vault something or vault over it, you jump quickly onto or over it, especially by putting a hand on top of it to help you balance while you jump. (尤指以手支撑的) 跃过; 跳跃
+   ≫   He could easily vault the wall.  他可以轻而易举地跃过这堵墙。
+5. (N) the act of vaulting 跳跃
+6. (V) to furnish with or as if with an arched roof 以穹隆来装饰
+
+========================================================================
+>>> arctic code vault contributor
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：55671
+arctic code vault contributor
+北极代码库贡献者
+
+========================================================================
+>>> plaza
+------------------------------------------------------------------------
+plaza    [美 'plæzə / 英 'plɑːzə]
+n. 广场；市场，购物中心
+n. (Plaza)人名；(英)普拉扎；(西、葡)普拉萨
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plaza is an open square in a city. (城市中的) 露天广场
+   ≫   Across the busy plaza, vendors sell hot dogs and croissant sandwiches.  忙碌的露天广场对面，小贩们在卖热狗和新月形面包三明治。
+2. [美国英语] A plaza is a group of stores or buildings that are joined together or share common areas. (店铺或建筑毗邻的) 广场
+   ≫   ...a new retail plaza.  …一个新的零售广场。
+
+========================================================================
+>>> struck
+------------------------------------------------------------------------
+struck    [美 strʌk / 英 strʌk]
+adj. 受罢工影响的
+v. 罢工，打击，撞击（strike的过去式和过去分词）
+n. (Struck)人名；(英)斯特拉克；(瑞典)斯特鲁克；(德)施特鲁克
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. Struck is the past tense and past participle of . (strike)的过去式和过去分词
+
+========================================================================
+>>> truck
+------------------------------------------------------------------------
+truck    [美 trʌk / 英 trʌk]
+n. 卡车；交易；手推车
+vi. 驾驶卡车；以物易物
+vt. 交易；以卡车运输
+adj. （美）运货汽车的
+n. (Truck)人名；(德)特鲁克
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] A truck is the same as a . 卡车
+2. [美国英语] A truck is a vehicle with a large area in the back for carrying things with low sides to make it easy to load and unload. A truck is the same as a . 敞篷货车
+   ≫   We can only seat two in the truck.  我们的敞篷货车里只能坐两个人。
+   ≫   Throw the dogs in the back of the truck.  把狗都扔到敞篷车的后面去。
+3. [英国英语] A truck is an open vehicle used for carrying goods on a railway. 敞蓬货运火车
+4. [usu passive] When something or someone is trucked somewhere, they are driven there in a truck. 用卡车运送
+   ≫   The liquor was sold legally and trucked out of the state.  这种酒合法出售，由卡车运出该州。
+
+========================================================================
+>>> starsturck
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> starstruck
+------------------------------------------------------------------------
+starstruck
+adj. 崇拜明星的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone as starstruck, you mean that they are very interested in and impressed by famous performers, or that they want to be a performer themselves. 崇拜明星的; 一心想当明星的
+   ≫   ...a starstruck teenager who auditions for a TV dance show.  ...一名参加电视舞蹈表演试演、一心想当明星的少年
+
+========================================================================
+>>> extravert
+------------------------------------------------------------------------
+extravert    [美 ˈekstrəvɜːrt / 英 ˈekstrəvɜːt]
+n. 性格外向者；善于社交的人
+adj. （性格）外向的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N/ADJ) → a variant spelling of extrovert
+
+========================================================================
+>>> extraordinate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ordinate
+------------------------------------------------------------------------
+ordinate    [美 'ɔrdɪnət / 英 'ɔːdɪnət]
+n. [数] 纵坐标
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the vertical or y-coordinate of a point in a two-dimensional system of Cartesian coordinates 纵坐标 → compare
+
+========================================================================
+>>> 横坐标
+------------------------------------------------------------------------
+横坐标
+n. abscissa
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   X is the sum of "content points". 横坐标X轴是“内容点”的集合。
+≫   The generalization of an elliptical Gaussian beam is presented by introducing a complex shift in the transverse coordinates. 在椭圆高斯光束横坐标中引入复数偏移量，将其推广为偏心椭圆高斯光束。
+≫   So I'm looking at all points to satisfy 2 X minus Y equal 0. And I'm often... it's often good to start with which point on the horizontal line, on this horizontal line Y is 0. 找寻所有的点满足2X-Y=0.最好从横坐标上的点为起始，横坐标也就是Y=0。
+
+========================================================================
+>>> abscissa
+------------------------------------------------------------------------
+abscissa    [美 æbˈsɪsə / 英 æbˈsɪsə]
+n. [数][天] 横坐标；横线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the horizontal or x-coordinate of a point in a two-dimensional system of Cartesian coordinates. It is the distance from the y-axis measured parallel to the x-axis 横坐标 → compare ordinate
+
+========================================================================
+>>> ordinate
+------------------------------------------------------------------------
+ordinate    [美 'ɔrdɪnət / 英 'ɔːdɪnət]
+n. [数] 纵坐标
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the vertical or y-coordinate of a point in a two-dimensional system of Cartesian coordinates 纵坐标 → compare
+
+========================================================================
+>>> 经度
+------------------------------------------------------------------------
+经度
+n. longitude
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A similar feature is found at 13 degrees north between 230 degrees and 250 degrees longitude. 在北纬13度、经度230度到250度之间也发现了类似的特点。《柯林斯英汉双解大词典》
+≫   He noted the latitude and longitude, then made a mark on the admiralty chart. 他记下经度和纬度，然后在海图上作了标记。《柯林斯英汉双解大词典》
+≫   Whatever the vicissitudes of her past life, Jill now seems to have come through. 不管过去经历了什么世事变迁，吉尔现在似乎已经度过难关了。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> 纬度
+------------------------------------------------------------------------
+纬度
+n. latitude
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These forests cover a broad span of latitudes. 这些森林绵延在多个纬度上。《牛津词典》
+≫   In the middle to high latitudes rainfall has risen steadily over the last 20-30 years. 中高纬度地区的降雨量在过去的20到30年间稳步上升了。《柯林斯英汉双解大词典》
+≫   Translocating threatened species to a cooler place, to higher latitudes or higher elevations, for example. 将受威胁的物种迁移到较冷的地方，例如高纬度或高海拔地区。
+
+========================================================================
+>>> extraordinaire
+------------------------------------------------------------------------
+extraordinaire    [ɪk,stroːdɪ'neə / 英 ɪk,stroːdɪ'neə]
+adj. （法语）特别的；非凡的；异常的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [n ADJ] If you describe someone as being, for example, a musician extraordinaire, you are saying in a slightly humorous way that you think they are an extremely good musician. 出色的
+   ≫   ...George Kuchar, filmmaker extraordinaire.  ...乔治·库哈尔，一位出色的电影制作人。
+
+========================================================================
+>>> extraordinary
+------------------------------------------------------------------------
+extraordinary    [美 ɪkˈstrɔrdənerɪ; ɪkˈstrɔrdnˌɛrɪ / 英 ɪkˈstrɔ:dnrɪ]
+adj. 非凡的；特别的；离奇的；临时的；特派的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] If you describe something or someone as extraordinary, you mean that they have some extremely good or special quality. 非凡的
+   ≫   We've made extraordinary progress as a society in that regard.  我们社会在那方面已经取得了巨大进步。
+   ≫   The task requires extraordinary patience and endurance.  这项工作需要非凡的耐心和毅力。
+2. [ADV adj] extraordinarily 非凡地
+   ≫   She's extraordinarily disciplined.  她特别遵守纪律。
+3. [强调] If you describe something as extraordinary, you mean that it is very unusual or surprising. 非同寻常的
+   ≫   What an extraordinary thing to happen!  发生了多么非同寻常的事啊！
+4. (ADV) extraordinarily 非同寻常地
+   ≫   Apart from the hair, he looked extraordinarily unchanged.  除了头发，他看上去真是一点也没变。
+5. [ADJ n] An extraordinary meeting is arranged to deal with a particular situation or problem, rather than happening regularly. 特别的 (会议)
+   ≫   The U.S. has called for an extraordinary emergency meeting of the UN Human Rights Commission to examine the crisis.  美国已要求召开一次联合国人权委员特别紧急会议来调查这次危机。
+
+========================================================================
+>>> ordinary
+------------------------------------------------------------------------
+ordinary    [美 'ɔrdnɛri / 英 'ɔːdɪn(ə)rɪ; -d(ə)n-]
+adj. 普通的；平凡的；平常的
+n. 普通；平常的人（或事）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Ordinary people or things are normal and not special or different in any way. 普通的
+   ≫   I strongly suspect that most ordinary people would agree with me.  我强烈地感到大多数普通老百姓会赞同我。
+   ≫   It has 25 calories less than ordinary ice cream.  它的热量比普通的冰淇淋少25卡路里。
+2. (PHRASE) Something that is out of the ordinary is unusual or different. 不寻常的
+   ≫   The boy's knowledge was out of the ordinary.  这个男孩的知识面非同寻常。
+
+========================================================================
+>>> badge
+------------------------------------------------------------------------
+badge    [美 bædʒ / 英 bædʒ]
+n. 徽章；证章；标记
+vt. 授给…徽章
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A badge is a piece of metal, cloth or plastic which you wear or carry to show that you work for a particular organization, or that you have achieved something. (表明身份的) 徽章
+   ≫   ...a police officer's badge.  …警官的徽章。
+2. [英国英语] A badge is a small piece of metal or plastic which you wear in order to show that you support a particular movement, organization, or person. You fasten a badge to your clothes with a pin. (表明支持对象的) 徽章
+
+========================================================================
+>>> tiers
+------------------------------------------------------------------------
+tiers    [tiə]
+层
+按层排列
+级
+级的
+层的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tier is a row or layer of something that has other layers above or below it. 排; 层
+   ≫   ...the auditorium with the tiers of seats around and above it.  …周围和上方有一排排座位的礼堂。
+2. (COMB in ADJ) Tier is also a combining form. (用于构成合成形容词) …排的; …层的
+   ≫   ...a three-tier wedding cake.  …一个3层的结婚蛋糕。
+3. (N-COUNT) A tier is a level in an organization or system. (组织或系统中的) 级
+   ≫   Islanders have campaigned for the abolition of one of the three tiers of municipal power on the island.  岛民们已经发起了运动，要废除该岛3级市政权力中的1级。
+4. (COMB in ADJ) Tier is also a combining form. (用于构成合成形容词) …级的
+   ≫   ...the possibility of a two-tier system of universities.  …大学双轨制的可能性。
+5. (V) to be or arrange in tiers 使层叠; 按层排列
+6. (V) 
+7. (N) a person or thing that ties 捆绑的人(或物)
+
