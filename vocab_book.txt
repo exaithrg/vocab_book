@@ -24076,3 +24076,42 @@ CET4 TEM4
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> encounter
+------------------------------------------------------------------------
+encounter    [英 ɪn'kaʊntə; en- / 美 ɪn'kaʊntɚ]
+vt. 遭遇，邂逅；遇到
+n. 遭遇，偶然碰见
+vi. 遭遇；偶然相遇
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you encounter problems or difficulties, you experience them. 遭遇
+   ≫   Every day of our lives we encounter major and minor stresses of one kind or another.  生活中的每一天，我们会遇到或大或小的这样那样的压力。
+2. [正式] If you encounter someone, you meet them, usually unexpectedly. 邂逅
+   ≫   Did you encounter anyone in the building?  你在那栋大楼里偶然遇到什么人了吗？
+3. (N-COUNT) An encounter with someone is a meeting with them, particularly one that is unexpected or significant. 邂逅
+   ≫   The author tells of a remarkable encounter with a group of South Vietnamese soldiers.  作者讲述了他与一群南越士兵的惊人邂逅。
+4. (N-COUNT) An encounter is a particular type of experience. 特殊经历
+   ≫   ...a sexual encounter.  …一次性经历。
+
+========================================================================
+>>> degradation
+------------------------------------------------------------------------
+degradation    [美 ,dɛɡrə'deʃən / 英 ,degrə'deɪʃ(ə)n]
+n. 退化；降格，降级；堕落
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] You use degradation to refer to a situation, condition, or experience which you consider shameful and disgusting, especially one which involves poverty or immorality. 堕落
+   ≫   They were sickened by the scenes of misery and degradation they found.  他们对所看到的凄惨和堕落景象感到恶心。
+2. (N-UNCOUNT) Degradation is the process of something becoming worse or weaker, or being made worse or weaker. 恶化; 衰退
+   ≫   ...air pollution, traffic congestion, and the steady degradation of our quality of life.  …空气污染、交通阻塞以及我们生活质量的持续恶化。
+
+========================================================================
+>>> simultaneously
+------------------------------------------------------------------------
+simultaneously    [美 saɪməl'tenɪəsli / 英 ,sɪml'teɪnɪəslɪ]
+adv. 同时地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   So we think they have to proceed simultaneously, " she added. 因此，我们认为两个问题必须同时进行。
+≫   It will save considerable machining time to use more than one tool in one machine to perform several machine operations either in sequence or simultaneously. 在一台机器上使用数种刀具来顺次或同时进行几项机器操作， 将节省大量加工时间。
+≫   If they have multiple test cases that will be run on the same platforms, they can select multiple configurations simultaneously and apply the configurations to several of them in batch mode. 如果他们拥有多个将要运行在同一个平台上的测试用例的话，那么他们能够同时选择多个配置，并且将这些配置批量应用到平台上。
+
