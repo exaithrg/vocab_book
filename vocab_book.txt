@@ -24167,3 +24167,220 @@ n. 再订购
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (V) to request (something) to be supplied again or differently 要求再提供(某事); 要求不同地提供(某事)
 
+========================================================================
+>>> Ariane
+------------------------------------------------------------------------
+Ariane    [,æri'æn]
+n. 阿里安（公司名）；阿丽亚娜（火箭名）；艾丽安（女子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The ESA and Japan plan to develop supply vehicles to be launched on the ESA's Ariane 5 and Japan's H-2A booster rockets. 欧空局和日本计划开发补给飞船，它们将由欧空局的阿丽亚娜-5运载火箭和日本的H-2A助推火箭送入太空。
+≫   The mobile key version works by emitting a unique ring tone to open the room door, says Ariane UK managing director, Miles Gaudoin. Ariane英国公司的执行董事Miles Gaudoin说，这个手机房卡可以发送一个独特的手机铃音来打开房门。
+≫   Ariane says it is working with a string of major hotel chains, including Hilton, IHG and Rezidor, to roll out various parts of its technology around the world. Ariane说一些连锁酒店已经使用了他们的部分技术，包括希尔顿酒店、洲际酒店和Rezidor酒店。
+
+========================================================================
+>>> have emerged as
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：53047
+have emerged as
+已经成为
+
+========================================================================
+>>> emerged
+------------------------------------------------------------------------
+emerged    [i'mə:dʒ]
+vt. 出现（emerge的过去分词）；浮现，暴露
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To emerge means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen. (从视线以外的地方) 出现; 出来
+   ≫   Richard was waiting outside the door as she emerged.  当她出现的时候，理查德正等候在门外。
+   ≫   She then emerged from the courthouse to thank her supporters.  于是她从法院大楼出来向支持者们表示感谢。
+2. (V-I) If you emerge from a difficult or bad experience, you come to the end of it. 摆脱
+   ≫   There is growing evidence that the economy is at last emerging from recession.  有越来越多的迹象表明经济将最终摆脱萧条。
+3. (V-T/V-I) If a fact or result emerges from a period of thought, discussion, or investigation, it becomes known as a result of it. 显露 (事实、结果)
+   ≫   ...the growing corruption that has emerged in the past few years.  …过去几年中暴露出来的日趋严重的腐败。
+   ≫   It soon emerged that neither the July nor August mortgage payment had been collected.  很快显示的是7月和8月的抵押款都没有被收取。
+4. [journalism] If someone or something emerges as a particular thing, they become recognized as that thing. 立足成为
+   ≫   Vietnam has emerged as the world's third-biggest rice exporter.  越南已立足成为世界第三大稻米出口国。
+5. [journalism] When something such as an organization or an industry emerges, it comes into existence. 兴起
+   ≫   ...the new republic that emerged in October 1917.  …1917年10月成立的新共和国。
+
+========================================================================
+>>> emerged as
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：53144
+emerged as
+成为：在某个领域或某种情况下崭露头角或成为主流。
+
+========================================================================
+>>> zurich
+------------------------------------------------------------------------
+Zurich    [美 ˈzjʊərɪk / 英 ˈzjʊərɪk]
+n. 苏黎世（瑞士北部城市）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We have connections with a firm in Zurich. 我们同苏黎世的一家公司有业务往来。
+≫   Passengers will ultimately be able to speed from the Italian city of Milan to Zurich in less than three hours and further north into Germany, cutting the journey time by an hour. 旅客们最终将可能把从意大利城市米兰到苏黎世的旅程缩短到三小时以内，而且能进一步北上德国，将路程时间缩短整整一个小时。
+≫   Zurich is the heart of chocolate production in the country. 苏黎世则是这个国家巧克力产业的心脏。
+
+========================================================================
+>>> switzerland
+------------------------------------------------------------------------
+Switzerland    [美 'swɪtsələnd / 英 ˈswɪtsələnd]
+n. 瑞士（欧洲国家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The River Rhine rises in Switzerland. 莱茵河发源于瑞士。
+≫   But I did not need to go to Switzerland to learn that. 到瑞士要是就为了知道这些就大可不必去了。
+≫   The problem is Switzerland is a smaller country and you can not compare it with other leagues like Germany, French or Great Britain. 问题在于瑞士是一个较小的国家，你不能把它与像德国、法国或英国这样的大国的国家队相比。
+
+========================================================================
+>>> bologna
+------------------------------------------------------------------------
+bologna    [bə'lonjə]
+n. 一种大腊肠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] Bologna is a type of large smoked sausage, usually made of beef, veal, or pork. 波隆那熏肠
+   ≫   ...a bologna sandwich.  …一个波隆那熏肠三明治。
+
+========================================================================
+>>> University of Bologna
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：53319
+University of Bologna
+博洛尼亚大学
+
+========================================================================
+>>> intensities
+------------------------------------------------------------------------
+intensities    [in'tensəti]
+强烈
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Raising the share of non fossil fuels in primary energy consumption to 11.4%; Reducing energy and carbon dioxide intensities by 16% and 17% respectively; 具体目标是非化石能源占一次能源消费比重提高到11.4%，单位国内生产总值能耗和二氧化碳排放分别降低16%和17%，主要污染物排放总量减少8%至10%，森林蓄积量增加6亿立方米，森林覆盖率达到21%以上。
+≫   All women also wore an accelerometer, a small device the size of a match box, to track their energy expenditure and their time spent in activities of different intensities. 所有的人都戴上了加速计，一个火柴盒大小的仪器，用来追踪她们能量消耗情况及在不同强度下运动需要花费的时间。
+≫   By practicing this exercise daily, the retina will be gradually accustomed to brighter light. Progressively your eye can function efficiently at any range of light intensities. 通过每天的锻炼，视网膜能够逐渐适应较强的光线，你的眼睛逐渐地能够在较大范围的光线强度内正常工作。
+
+========================================================================
+>>> arithmetic intensities
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：53405
+arithmetic intensities
+算术强度
+
+========================================================================
+>>> exclusively
+------------------------------------------------------------------------
+exclusively    [美 ɪk'sklʊsɪvli / 英 ɪk'skluːsɪvlɪ]
+adv. 唯一地；专有地；排外地
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Exclusively is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else. 排他地; 独占地
+   ≫   ...an exclusively male domain.  …一个由男性独占的领域。
+
+========================================================================
+>>> competitive
+------------------------------------------------------------------------
+competitive    [美 kəm'pɛtətɪv / 英 kəm'petɪtɪv]
+adj. 竞争的；比赛的；求胜心切的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Competitive is used to describe situations or activities in which people or companies compete with each other. 竞争的
+   ≫   Only by keeping down costs will America maintain its competitive advantage over other countries.  只有通过保持低成本美国才能保持对其他国家的竞争优势。
+   ≫   Japan is a highly competitive market system.  日本实行的是一个高度竞争的市场体制。
+2. [ADV after v] competitively 竞争地
+   ≫   He's now back up on the slopes again, skiing competitively in events for the disabled.  他如今又回到了滑坡上，在残疾人赛事上赛滑雪。
+3. (ADJ) A competitive person is eager to be more successful than other people. 好胜的
+   ≫   He has always been ambitious and fiercely competitive.  他一直很有抱负，极度好胜。
+4. [ADV after v] competitively 好胜地
+   ≫   They worked hard together, competitively and under pressure.  他们一起努力工作，一心求胜，也承受压力。
+5. (ADJ) Goods or services that are at a competitive price or rate are likely to be bought, because they are less expensive than other goods of the same kind. (商品、服务) 有竞争力的
+   ≫   Only those homes offered for sale at competitive prices will secure interest from serious purchasers.  只有那些以具有竞争力的价格出售的房子才能抓住真正购买者的兴趣。
+6. (ADV) competitively 有竞争力地
+   ≫   ...a number of early Martin and Gibson guitars, which were competitively priced.  …许多定价富有竞争力的早期马丁吉他和吉布森吉他。
+
+========================================================================
+>>> fully-depleted
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：53548
+fully-depleted
+adj．完全耗尽的：指资源、能量或其他物质已被完全消耗。
+
+========================================================================
+>>> deplet
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> depleted
+------------------------------------------------------------------------
+depleted    [di'plitid]
+adj. 耗尽的；废弃的；贫化的
+v. 使减少；弄空；耗尽…的资源（deplete的过去分词）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To deplete a stock or amount of something means to reduce it. 消耗
+   ≫   ...substances that deplete the ozone layer.  …消耗臭氧层的物质。
+2. (ADJ) depleted 耗尽的
+   ≫   ...Lee's worn and depleted army.  …李的精疲力竭的军队。
+
+========================================================================
+>>> deplete
+------------------------------------------------------------------------
+deplete    [美 dɪ'plit / 英 dɪ'pliːt]
+vt. 耗尽，用尽；使衰竭，使空虚
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To deplete a stock or amount of something means to reduce it. 消耗
+   ≫   ...substances that deplete the ozone layer.  …消耗臭氧层的物质。
+2. (ADJ) depleted 耗尽的
+   ≫   ...Lee's worn and depleted army.  …李的精疲力竭的军队。
+
+========================================================================
+>>> distinct
+------------------------------------------------------------------------
+distinct    [美 dɪ'stɪŋkt / 英 dɪ'stɪŋ(k)t]
+adj. 明显的；独特的；清楚的；有区别的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is distinct from something else of the same type, it is different or separate from it. 有区别的
+   ≫   Engineering and technology are disciplines distinct from one another and from science.  工程学和工艺学是互不相同的学科，也不同于理科。
+2. [ADV adj] distinctly 不同地
+   ≫   ...a banking industry with two distinctly different sectors.  …有两个截然不同部门的银行业。
+3. (ADJ) If something is distinct, you can hear, see, or taste it clearly. 清楚的
+   ≫   ...to impart a distinct flavour with a minimum of cooking fat.  …加入最少量的烹调油脂做出独特的风味。
+4. [ADV with v] distinctly 清楚地
+   ≫   I distinctly heard the loudspeaker calling passengers for the Washington-Miami flight.  我清楚地听到扩音器在呼叫由华盛顿飞往迈阿密的旅客。
+5. (ADJ) If an idea, thought, or intention is distinct, it is clear and definite. 明显的; 确切的
+   ≫   Now that Tony was no longer present, there was a distinct change in her attitude.  现在托尼不在场了，她的态度就发生了明显变化。
+6. [ADV with v] distinctly 明显地; 确切地
+   ≫   I distinctly remember wishing I had not got involved.  我清楚地记得我巴不得自己没有参与进去。
+7. [强调] You can use distinct to emphasize that something is great enough in amount or degree to be noticeable or important. 显著的
+   ≫   Being 6ft 3in tall has some distinct disadvantages!  身高6英尺3英寸有明显的劣势！
+8. [ADV adj/-ed] distinctly 显著地
+   ≫   His government is looking distinctly shaky.  他的政府看起来显然岌岌可危。
+9. (PHRASE) If you say that you are talking about one thing as distinct from another, you are indicating exactly which thing you mean. 与…有区别的
+   ≫   There's a lot of evidence that oily fish, as distinct from fatty meat, has a beneficial effect.  大量证据显示，含油的鱼与肥肉不同，具有益处。
+
+========================================================================
+>>> preliminaries
+------------------------------------------------------------------------
+preliminaries    [prɪ'lɪmə,nɛri]
+n. 预赛；初期微震；正文前书页（preliminary的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) → the full word for
+
+========================================================================
+>>> preliminary
+------------------------------------------------------------------------
+preliminary    [美 prɪ'lɪmɪnɛri / 英 prɪ'lɪmɪn(ə)rɪ]
+n. 准备；预赛；初步措施
+adj. 初步的；开始的；预备的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Preliminary activities or discussions take place at the beginning of an event, often as a form of preparation. 初步的
+   ≫   Preliminary results show the Republican Party with 11 percent of the vote.  初步结果显示共和党得到11%的选票。
+2. (N-COUNT) A preliminary is something that you do at the beginning of an activity, often as a form of preparation. (程序性或礼节性的) 预备事务
+   ≫   You all know why I am here. So I won't waste time on preliminaries.  你们都知道我为什么在这里。所以我就不浪费时间讲客套话了。
+
