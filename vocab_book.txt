@@ -24862,3 +24862,34 @@ TEM4
 6. (V) 
 7. (N) a person or thing that ties 捆绑的人(或物)
 
+========================================================================
+>>> Asymptotic
+------------------------------------------------------------------------
+asymptotic    [美 'æsɪmp,toʊtɪk / 英 ,æsɪmp'tɒtɪk]
+adj. 渐近的；渐近线的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or referring to an asymptote 渐近线的
+
+========================================================================
+>>> Speculating
+------------------------------------------------------------------------
+speculating    ['spekjuleit]
+vt. 投机；猜测（speculate的现在分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you speculate about something, you make guesses about its nature or identity, or about what might happen. 猜测
+   ≫   Critics of the project speculate about how many hospitals could be built instead.  该项目的批评者们则猜想这相当于可以建多少家医院。
+   ≫   The doctors speculate that he died of a cerebral haemorrhage caused by a blow on the head.  医生们猜测他死于头部撞击引起的脑溢血。
+2. (N-VAR) speculation 猜测
+   ≫   The president has gone out of his way to dismiss speculation over the future of the economy.  总统努力消除对未来经济的悲观估测。
+3. (V-I) If someone speculates financially, they buy property, stocks, or shares, in the hope of being able to sell them again at a higher price and make a profit. 做投机买卖
+   ≫   The banks made too many risky loans which now can't be repaid, and they speculated in property whose value has now dropped.  银行贷出了太多现在无法偿还的风险贷款，而且他们在房地产业做了投机买卖，其价值目前也已经下跌。
+
+========================================================================
+>>> Asymptotic Sparsity Speculating
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：56534
+Asymptotic Sparsity Speculating
+渐近稀疏性推测
+
