@@ -24115,3 +24115,55 @@ adv. 同时地
 ≫   It will save considerable machining time to use more than one tool in one machine to perform several machine operations either in sequence or simultaneously. 在一台机器上使用数种刀具来顺次或同时进行几项机器操作， 将节省大量加工时间。
 ≫   If they have multiple test cases that will be run on the same platforms, they can select multiple configurations simultaneously and apply the configurations to several of them in batch mode. 如果他们拥有多个将要运行在同一个平台上的测试用例的话，那么他们能够同时选择多个配置，并且将这些配置批量应用到平台上。
 
+========================================================================
+>>> pertinent
+------------------------------------------------------------------------
+pertinent    [美 'pɝtnənt / 英 'pɜːtɪnənt]
+adj. 相关的，相干的；中肯的；切题的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Something that is pertinent is relevant to a particular subject. 相关的
+   ≫   She had asked some pertinent questions.  她问了一些相关的问题。
+   ≫   ...name, address, and other pertinent information.  …姓名、地址及其他相关信息。
+
+========================================================================
+>>> burdens
+------------------------------------------------------------------------
+burdens
+n．负担，重担：指在生活、工作或心理上给人带来压力的事物。
+v．给予负担，使负重：指给某人或某物增加压力、责任或困难。
+★★★ CET4 TEM4 burdening,burdened,burdens
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you describe a problem or a responsibility as a burden, you mean that it causes someone a lot of difficulty, worry, or hard work. 负担
+   ≫   The developing countries bear the burden of an enormous external debt.  发展中国家背负着巨额外债的负担。
+   ≫   Her death will be an impossible burden on Paul.  她的去世会成为保罗难以承受的负担。
+2. (N-COUNT) A burden is a heavy load that is difficult to carry. 重负 [正式]
+   ≫   ...African women carrying burdens on their heads.  …头顶重物的非洲妇女。
+3. (V-T) If someone burdens you with something that is likely to worry you, for example, a problem or a difficult decision, they tell you about it. 使烦恼
+   ≫   We decided not to burden him with the news.  我们决定不拿这个消息去烦他。
+4. (N) a line of words recurring at the end of each verse of a ballad or similar song; chorus or refrain 叠句
+
+========================================================================
+>>> dedicated
+------------------------------------------------------------------------
+dedicated    [英 'dedɪkeɪtɪd / 美 'dɛdə'ketɪd]
+adj. 专用的；专注的；献身的
+v. 以…奉献；把…用于（dedicate的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use dedicated to describe someone who enjoys a particular activity very much and spends a lot of time doing it. 投入的
+   ≫   Her great-grandfather had clearly been a dedicated and stoical traveller.  她的曾祖父显然曾是一个很投入的、坚忍的旅行者。
+2. (ADJ) You use dedicated to describe something that is made, built, or designed for one particular purpose or thing. 专用的
+   ≫   Such areas should also be served by dedicated cycle routes.  这些地区也应该可由自行车专用路线到达。
+   ≫   ...the world's first museum dedicated to ecology.  …世界上第一家专门的生态博物馆。
+3. → see also
+
+========================================================================
+>>> reorder
+------------------------------------------------------------------------
+reorder    [美 ,ri'ɔrdɚ / 英 riː'ɔːdə]
+vt. 再订购；重新整理
+vi. 再订购
+n. 再订购
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to request (something) to be supplied again or differently 要求再提供(某事); 要求不同地提供(某事)
+
