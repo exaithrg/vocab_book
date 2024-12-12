@@ -23984,3 +23984,95 @@ CET4 TEM4
    ≫   She looked like a princess in a nineteenth-century illustration.  她看上去像19世纪插图里的公主。
 3. → see also
 
+========================================================================
+>>> Static
+------------------------------------------------------------------------
+static    [美 'stætɪk / 英 'stætɪk]
+adj. 静态的；静电的；静力的
+n. 静电；静电干扰
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is static does not move or change. 静止的; 不变的
+   ≫   The number of young people obtaining qualifications has remained static or decreased.  获得各种资格证书的年轻人的数量一直保持不变或者已经减少。
+2. (N-UNCOUNT) Static or static electricity is electricity which can be caused by things rubbing against each other and which collects on things such as your body or metal objects. 静电
+   ≫   When the weather turns cold and dry, my clothes develop a static problem.  天气变冷变干时，我的衣服就会产生静电问题。
+3. (N-UNCOUNT) If there is static on the radio or television, you hear a series of loud noises which spoils the sound. (广播或电视的) 静电噪音
+   ≫   After only a minute an authoritative voice came through the static on the radio.  过了仅一分钟后，透过广播的静电噪音传出了一个威严的声音。
+
+========================================================================
+>>> pertinent
+------------------------------------------------------------------------
+pertinent    [美 'pɝtnənt / 英 'pɜːtɪnənt]
+adj. 相关的，相干的；中肯的；切题的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Something that is pertinent is relevant to a particular subject. 相关的
+   ≫   She had asked some pertinent questions.  她问了一些相关的问题。
+   ≫   ...name, address, and other pertinent information.  …姓名、地址及其他相关信息。
+
+========================================================================
+>>> incur
+------------------------------------------------------------------------
+incur    [美 ɪn'kɝ / 英 ɪn'kɜː]
+vt. 招致，引发；蒙受
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] If you incur something unpleasant, it happens to you because of something you have done. 招致; 蒙受
+   ≫   The government had also incurred huge debts.  政府也已承受了大笔债务。
+
+========================================================================
+>>> burdens
+------------------------------------------------------------------------
+burdens
+n．负担，重担：指在生活、工作或心理上给人带来压力的事物。
+v．给予负担，使负重：指给某人或某物增加压力、责任或困难。
+★★★ CET4 TEM4 burdening,burdened,burdens
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you describe a problem or a responsibility as a burden, you mean that it causes someone a lot of difficulty, worry, or hard work. 负担
+   ≫   The developing countries bear the burden of an enormous external debt.  发展中国家背负着巨额外债的负担。
+   ≫   Her death will be an impossible burden on Paul.  她的去世会成为保罗难以承受的负担。
+2. (N-COUNT) A burden is a heavy load that is difficult to carry. 重负 [正式]
+   ≫   ...African women carrying burdens on their heads.  …头顶重物的非洲妇女。
+3. (V-T) If someone burdens you with something that is likely to worry you, for example, a problem or a difficult decision, they tell you about it. 使烦恼
+   ≫   We decided not to burden him with the news.  我们决定不拿这个消息去烦他。
+4. (N) a line of words recurring at the end of each verse of a ballad or similar song; chorus or refrain 叠句
+
+========================================================================
+>>> applicable
+------------------------------------------------------------------------
+applicable    [美 'æplɪkəbl / 英 ə'plɪkəb(ə)l; 'æplɪk-]
+adj. 可适用的；可应用的；合适的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is applicable to a particular situation is relevant to it or can be applied to it. 适用的
+   ≫   What is a reasonable standard for one family is not applicable for another.  对一个家庭合理的标准对于另一个家庭并不适用。
+
+========================================================================
+>>> exhibit
+------------------------------------------------------------------------
+exhibit    [美 ɪɡ'zɪbɪt / 英 ɪg'zɪbɪt; eg-]
+vt. 展览；显示；提出（证据等）
+n. 展览品；证据；展示会
+vi. 展出；开展览会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone or something shows a particular quality, feeling, or type of behaviour, you can say that they exhibit it. 表现出
+   ≫   He has exhibited symptoms of anxiety and overwhelming worry.  他已表现出焦虑和忧心如焚的症状。
+2. [usu passive] When a painting, sculpture, or object of interest is exhibited, it is put in a public place such as a museum or art gallery so that people can come to look at it. You can also say that animals are exhibited in a zoo. 展览
+   ≫   His work was exhibited in the best galleries in America, Europe and Asia.  他的作品在美国、欧洲和亚洲最好的美术馆展览过。
+3. (N-UNCOUNT) exhibition 展览
+   ≫   Five large pieces of the wall are currently on exhibition.  那堵墙的五块大碎片目前在展览。
+4. (V-I) When artists exhibit, they show their work in public. 展出作品
+   ≫   He has also exhibited at galleries and museums in New York and Washington.  他还在纽约和华盛顿的美术馆及博物馆展出过作品。
+5. (N-COUNT) An exhibit is a painting, sculpture, or object of interest that is displayed to the public in a museum or art gallery. 展览品
+   ≫   Shona showed me around the exhibits.  肖纳带我参观了展品。
+6. [美国英语] An exhibit is a public display of paintings, sculpture, or objects of interest in a museum or art gallery. 展览
+   ≫   ...an exhibit at the Metropolitan Museum of Art.  …大都会艺术博物馆的一场展览。
+7. (N-COUNT) An exhibit is an object that a lawyer shows in court as evidence in a legal case. (法庭上出示的) 证物
+   ≫   The jury has already asked to see more than 40 exhibits from the trial.  陪审团已经要求查看了审判中超过40件的证物。
+
+========================================================================
+>>> adaptablility
+------------------------------------------------------------------------
+Not found :(
+
