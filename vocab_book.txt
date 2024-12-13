@@ -26234,3 +26234,157 @@ CET4 TEM4
 5. [ADJ n] Symbolic is used to describe things involving or relating to symbols. 符号的
    ≫   ...symbolic representations of landscape.  …地形的符号表征。
 
+========================================================================
+>>> exploit
+------------------------------------------------------------------------
+exploit    [美 ɛksplɔɪt; ɪkˈsplɔɪt / 英 ˈeksplɔɪt;ɪkˈsplɔɪt]
+vt. 开发，开拓；剥削；开采
+n. 勋绩；功绩
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> progressive
+------------------------------------------------------------------------
+progressive    [美 prə'ɡrɛsɪv / 英 prə'gresɪv]
+adj. 进步的；先进的
+n. 改革论者；进步分子
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is progressive or has progressive ideas has modern ideas about how things should be done, rather than traditional ones. 进步的
+   ≫   ...a progressive businessman who had voted for Roosevelt in 1932 and 1936.  …在1932年和1936年投票支持罗斯福的一位进步商人。
+   ≫   Willan was able to point to the progressive changes he had already introduced.  威兰能够指出他已经带来的有进步意义的变化。
+2. (N-COUNT) A progressive is someone who is progressive. 进步人士
+   ≫   The Republicans were deeply split between progressives and conservatives.  共和党进步派和保守派之间分歧很大。
+3. (ADJ) A progressive change happens gradually over a period of time. 逐步的
+   ≫   One prominent symptom of the disease is progressive loss of memory.  这种病的一个突出症状是记忆的逐步丧失。
+4. (ADV) progressively 逐步地
+   ≫   Her symptoms became progressively worse.  她的症状逐步恶化。
+
+========================================================================
+>>> utilize
+------------------------------------------------------------------------
+utilize    [美 'juːtəlaɪz / 英 ˈjuːtɪˌlaɪz]
+vt. 利用
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you utilize something, you use it. 利用
+   ≫   Sound engineers utilize a range of techniques to enhance the quality of the recordings.  音响工程师利用一系列的技术来提高录音质量。
+2. (N-UNCOUNT) utilization 利用
+   ≫   ...the utilization of human resources.  …人力资源的利用。
+
+========================================================================
+>>> irrelevant
+------------------------------------------------------------------------
+irrelevant    [美 ɪ'rɛləvənt / 英 ɪ'relɪv(ə)nt]
+adj. 不相干的；不切题的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something such as a fact or remark as irrelevant, you mean that it is not connected with what you are discussing or dealing with. 不相关的
+   ≫   ...irrelevant details.  …一些不相关的细节。
+2. (ADJ) If you say that something is irrelevant, you mean that it is not important in a situation. 不重要的
+   ≫   The choice of subject matter is irrelevant.  主题的选择不重要。
+
+========================================================================
+>>> EMERGING APPLICATIONS
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5400
+EMERGING APPLICATIONS
+新兴应用：指在某个领域或行业中出现的新的应用程序或技术。
+
+========================================================================
+>>> asymptotic
+------------------------------------------------------------------------
+asymptotic    [美 'æsɪmp,toʊtɪk / 英 ,æsɪmp'tɒtɪk]
+adj. 渐近的；渐近线的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or referring to an asymptote 渐近线的
+
+========================================================================
+>>> speculation
+------------------------------------------------------------------------
+speculation    [美 ,spɛkju'leʃən / 英 ,spekjʊ'leɪʃn]
+n. 投机；推测；思索；投机买卖
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It was my first meeting with a philo- sophy that confirmed my vague speculations and seemed at once logical and boundless. 这是我第一次接触哲学，它证明了我那些模糊的猜测，同时又显得那么的条理井然、广阔无垠。
+≫   Unfortunately it's not possible now to rewind the movie, so to speak, and see what actually happened. So these speculations will remain just that: speculations. 不幸的是，时光不能倒流，我们不可以回去看看究竟发生了什么，所以这些猜测，仍将仅仅是猜测。
+≫   Rumours of his ill health at the beginning of the year prompted damaging speculations about the company's next head honcho and caused Apple's shares to jitter. 今年年初有关他生病的传闻引起了关于公司下任头头的有害猜测，也造成苹果的股份有所波动。
+
+========================================================================
+>>> bidirectional asymptotic speculation unit
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5492
+bidirectional asymptotic speculation unit
+双向渐近推测单元
+
+========================================================================
+>>> preferable
+------------------------------------------------------------------------
+preferable    [美 'prɛfrəbl / 英 'pref(ə)rəb(ə)l]
+adj. 更好的，更可取的；更合意的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that one thing is preferable to another, you mean that it is more desirable or suitable. 更合心意的; 更适合的
+   ≫   A big earthquake a long way off is preferable to a smaller one nearby.  远处的大地震要比近处的小地震好。
+   ≫   Prevention of a problem is always preferable to trying to cure it.  防止出现问题总是比试图解决问题更可取。
+2. (ADV) preferably 更可取地
+   ≫   Do something creative or take exercise, preferably in the fresh air.  做一些有创意的事或者进行体育锻炼，在新鲜的空气中更好。
+
+========================================================================
+>>> equivalents
+------------------------------------------------------------------------
+equivalents    [i'kwivələnt]
+n. [化学] 当量（equivalent的复数）；同等设备；等同物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) If one amount or value is the equivalent of another, they are the same. 等量物; 等价物
+   ≫   Mr. Li's pay is the equivalent of about $80 a month.  李先生的报酬大约等于每月80美元。
+2. (ADJ) Equivalent is also an adjective. 等量的; 等值的
+   ≫   If they want to change an item in the budget, they will have to propose equivalent cuts elsewhere.  如果他们想要改变预算中的一个款项，必须得提出其他等值的削减。
+3. (N-COUNT) The equivalent of someone or something is a person or thing that has the same function in a different place, time, or system. 等效对象
+   ≫   ...the Red Cross emblem, and its equivalent in Muslim countries, the Red Crescent.  …红十字徽章、及其在穆斯林国家对应物的红新月。
+4. (ADJ) Equivalent is also an adjective. 等效的
+   ≫   ...a decrease of 10% in property investment compared with the equivalent period in 1991.  …房产投资相比1991年同期10％的降幅。
+5. [强调] You can use equivalent to emphasize the great or severe effect of something. 等效对象
+   ≫   His party has just suffered the equivalent of a near-fatal heart attack.  他的政党刚经受了相当于一次几乎致命的心脏病发作的打击。
+
+========================================================================
+>>> occupancy
+------------------------------------------------------------------------
+occupancy    [英 'ɒkjəpənsɪ / 美 'ɑkjəpənsi]
+n. 居住；占有；占用
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Occupancy is the act of using a room, building, or area of land, usually for a fixed period of time. 占用
+   ≫   Hotel occupancy has been as low as 40%.  酒店入住率已低至40%。
+
+========================================================================
+>>> conversion
+------------------------------------------------------------------------
+conversion    [美 kən'vɝʒn / 英 kən'vɜːʃ(ə)n]
+n. 转换；变换；[金融] 兑换；改变信仰
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Conversion is the act or process of changing something into a different state or form. (状态或形式的) 改变
+   ≫   ...the conversion of disused rail lines into cycle routes.  …把废弃的铁路改变成自行车道。
+2. (N-VAR) If someone changes their religion or beliefs, you can refer to their conversion to their new religion or beliefs. 皈依
+   ≫   ...his conversion to Christianity.  …他对基督教的皈依。
+
