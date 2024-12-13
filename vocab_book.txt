@@ -24916,3 +24916,67 @@ TEM8
 1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
    ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
 
+========================================================================
+>>> institutional
+------------------------------------------------------------------------
+institutional    [美 ,ɪnstɪ'tuʃənl / 英 ɪnstɪ'tjuːʃ(ə)n(ə)l]
+adj. 制度的；制度上的
+学会的；由来已久的； 习以为常的
+公共机构的； 慈善机构的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Institutional means relating to a large organization, such as a university, bank, or church. 机构的
+   ≫   NATO remains the United States' chief institutional anchor in Europe.  北大西洋公约组织仍然是美国在欧洲的主要支柱机构。
+2. [ADJ n] Institutional means relating to a building where people are cared for or held. 社会福利机构的
+   ≫   Outside the protected environment of institutional care he could not survive.  离开福利机构照顾下的这个受保护的环境，他无法生存。
+3. [ADJ n] An institutional value or quality is considered an important and typical feature of a particular society or group, usually because it has existed for a long time. 惯例化的
+   ≫   ...social and institutional values.  …社会及惯例化的价值观。
+4. [usu ADJ n] If someone accuses an organization of institutional racism or sexism, they mean that the organization is deeply racist or sexist and has been so for a long time. 根深蒂固的
+   ≫   The report accused the police department of institutional racism.  报告指责警察局的种族歧视根深蒂固。
+5. [ADV adj] institutionally 根深蒂固地
+   ≫   The government's policy still appeared to be institutionally racist.  该政府的政策看来仍然具有根深蒂固的种族歧视。
+
+========================================================================
+>>> reverse
+------------------------------------------------------------------------
+reverse    [美 rɪ'vɝs / 英 rɪ'vɜːs]
+n. 背面；相反；倒退；失败
+vt. 颠倒；倒转
+adj. 反面的；颠倒的；反身的
+vi. 倒退；逆叫
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When someone or something reverses a decision, policy, or trend, they change it to the opposite decision, policy, or trend. 使 (决定、政策、趋势) 转向; 逆转
+   ≫   They have made it clear they will not reverse the decision to increase prices.  他们已经明确表示不会为了提高价格而转变这一决定。
+2. (V-T) If you reverse the order of a set of things, you arrange them in the opposite order, so that the first thing comes last. 颠倒 (顺序)
+   ≫   Because the normal word order is reversed in passive sentences, they are sometimes hard to follow.  由于正常语序在被动句中被颠倒过来了，所以有时很难理解。
+3. (V-T) If you reverse the positions or functions of two things, you change them so that each thing has the position or function that the other one had. 调换 (位置、功能)
+   ≫   He reversed the position of the two stamps.  他调换了两张邮票的位置。
+4. [英国英语] When a car reverses or when you reverse it, the car is driven backward. 倒 (车); (车) 倒过来
+5. (N-UNCOUNT) If your car is in reverse, you have changed gears so that you can drive it backward. (汽车的) 倒档
+   ≫   He lurched the car in reverse along the ruts to the access road.  他沿着车辙颠簸着倒行到通行道。
+6. (ADJ) Reverse means opposite from what you expect or to what has just been described. 相反的
+   ≫   The wrong attitude will have exactly the reverse effect.  这种错误的态度会得到恰好相反的结果。
+7. (N-SING) If you say that one thing is the reverse of another, you are emphasizing that the first thing is the complete opposite of the second thing. 相反物; 相反面
+   ≫   He was not at all jolly. Quite the reverse.  他一点儿也不高兴。恰恰相反。
+8. (N-SING) Thereverse or the reverse side of a flat object which has two sides is the less important or the other side. 背面; 反面
+   ≫   A chart on the reverse of this letter highlights your savings.  这封信背面的图表着重写明了你的存款情况。
+9. (PHRASE) If something happens in reverse or goes into reverse, things happen in the opposite way from what usually happens or from what has been happening. 朝相反方向; 反向地 (发展)
+   ≫   Amis tells the story in reverse, from the moment the man dies.  埃米斯以倒叙方式讲这个故事，从那个男人死去的那一刻开始。
+10. [英国英语] If you reverse the charges when you make a telephone call, the person who you are phoning pays the cost of the call and not you. 对方付费电话; 受话人付费
+
+========================================================================
+>>> smuggling
+------------------------------------------------------------------------
+smuggling    [美 'smʌɡlɪŋ / 英 ˈsmʌglɪŋ]
+n. 走私
+v. 走私
+偷运
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone smuggles things or people into a place or out of it, they take them there illegally or secretly. 走私; 偷运
+   ≫   My message is "If you try to smuggle drugs you are stupid."  我的讯息是，“你若企图走私毒品，那是犯傻。”
+   ≫   Police have foiled an attempt to smuggle a bomb into Belfast airport.  警方挫败了一个将炸弹偷带进贝尔法斯特机场的企图。
+2. (N-UNCOUNT) smuggling 走私
+   ≫   An air hostess was arrested and charged with drug smuggling.  一位空姐被抓了起来，并被指控走私毒品。
+
