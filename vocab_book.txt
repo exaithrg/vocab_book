@@ -26674,3 +26674,200 @@ n. [数] 不变量；[计] 不变式
    ≫   a point in space, rather than its coordinates, is an invariant  
 2. [maths] (of a relationship or a property of a function, configuration, or equation) unaltered by a particular transformation of coordinates (函数，配置或等式的关系或属性)恒定的
 
+========================================================================
+>>> decomposes
+------------------------------------------------------------------------
+decomposes    [,di:kəm'pəuz]
+分解
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When things such as dead plants or animals decompose, or when something decomposes them, they change chemically and begin to decay. 使分解; 分解
+   ≫   ...a dead body found decomposing in the woods.  …在树林里发现的正在腐烂的一具死尸。
+   ≫   The debris slowly decomposes into compost.  这堆碎屑慢慢地分解变成了堆肥。
+
+========================================================================
+>>> resolution
+------------------------------------------------------------------------
+resolution    [美 ,rɛzə'luʃən / 英 rezə'luːʃ(ə)n]
+n. [物] 分辨率；决议；解决；决心
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A resolution is a formal decision made at a meeting by means of a vote. 决议
+   ≫   He replied that the UN had passed two major resolutions calling for a complete withdrawal.  他回复说联合国已经通过要求完全撤军的两项重大决议。
+2. (N-COUNT) If you make a resolution, you decide to try very hard to do something. 决心
+   ≫   They made a resolution to lose all the weight gained during the Christmas holidays.  他们下了一个决心要减掉圣诞节期间增加的全部体重。
+3. (N-UNCOUNT) Resolution is determination to do something or not do something. 决心
+   ≫   "I think I'll try a hypnotist," I said with sudden resolution.  “我想我要找个催眠师试试，”我突然坚决地说。
+4. [正式] The resolution of a problem or difficulty is the final solving of it. 最终解决
+   ≫   ...the successful resolution of a dispute involving UN inspectors in Baghdad.  …对涉及联合国驻巴格达调查员的一项争议的成功解决。
+
+========================================================================
+>>> drastically
+------------------------------------------------------------------------
+drastically    [英 'dræstikəli /  'dræstikəli]
+adv. 彻底地；激烈地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The US, especially the southeast and southwest, have been affected drastically by these fires. 在美国，特别是东南部和西南部，已经受到这些大火的剧烈影响。
+≫   And that’s no accident because although this new style of printing comes with many advantages, it is simultaneously drastically transforming the market. 这并不意外，因为尽管这种新的印刷方式有许多优点，它同时也彻底地改变了整个市场。
+≫   But with so many eyes now on this emerging Asian giant, what happens there continues to have an exceptional ability to draw attention and to shift perceptions drastically and suddenly. 但是，现在有如此多的目光注视着这个新兴的亚洲巨人，那里发生的事情能异乎寻常地一再引人注目，突然并彻底地改变人们的看法。
+
+========================================================================
+>>> facilitating
+------------------------------------------------------------------------
+facilitating    [fə'siliteit]
+v. 促进（facilitate的ing形式）；使便利；使更容易
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+   ≫   The new airport will facilitate the development of tourism.  新机场将促进旅游业的发展。
+
+========================================================================
+>>> facilitate
+------------------------------------------------------------------------
+facilitate    [美 fə'sɪlə'tet / 英 fə'sɪlɪteɪt]
+vt. 促进；帮助；使容易
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+   ≫   The new airport will facilitate the development of tourism.  新机场将促进旅游业的发展。
+
+========================================================================
+>>> facilate
+------------------------------------------------------------------------
+facilate
+减少
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We implement the policy the spirit encourage as the main and material encourage as the facilate. 我们实行精神鼓励为主、物质鼓励为辅的总方针。
+
+========================================================================
+>>> facilation
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> exploiting
+------------------------------------------------------------------------
+exploiting    ['eksplɔit; ik's-]
+n. 利用；开拓
+v. 利用；开发（exploit的ing形式）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> appliance
+------------------------------------------------------------------------
+appliance    [美 ə'plaɪəns / 英 ə'plaɪəns]
+n. 器具；器械；装置
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] An appliance is a device or machine in your home that you use to do a job such as cleaning or cooking. Appliances are often electrical. (常为用电的) 家用器械
+   ≫   He could also learn to use the vacuum cleaner, the washing machine and other household appliances.  他还能学习使用吸尘器、洗衣机和其他家用电器。
+
+========================================================================
+>>> Statically
+------------------------------------------------------------------------
+statically    ['stætik]
+adv. 静态地；静止地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In Listing 4, the class need not be known statically at all. 在清单 4 中，该类根本不需要被认为是静态的。
+≫   I built a tool that lets you browse a catalog of patterns, bind them to your code, and statically check your use of the pattern. 我开发了一个工具，它可用来浏览模式，将你的代码与它们绑定起来，用它来静态地检查你对模式的使用。
+≫   As we described in the previous section, a statically typed language binds the type to a variable for the lifetime of that variable. 正如我们在前面的章节所描述的，一个静态类型的语言在一个变量的生命周期内都会绑定一个类型。
+
+========================================================================
+>>> contemporaneously
+------------------------------------------------------------------------
+contemporaneously    [kən,tempə'reiniəsli]
+adv. 同时地；同时代地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In connection with the criminal case, the Prosecutor contemporaneously filed an administrative petition, asking the court to seize all assets of ALEC within Aspatria. 在与刑事案件方面，检察官同时提出行政申诉，要求法院没收ALEC在阿斯佩特里亚内所有资产。
+≫   "It seems that the Acheulian culture branched off from the Oldowan while the Oldowan was still being used, " he says, "and both persisted contemporaneously for a period." 他说，“似乎奥尔德沃文化仍在继续存在时，阿舍利文化便从中分化了出来，而且两种文化同时持续了一段时间。”
+≫   For consistency, all products were tested contemporaneously and laboratory analysis was completed in April 2009. 为求一致，所有产品都同时进行检测，实验室分析完成于2009年4月。
+
+========================================================================
+>>> reveals that
+------------------------------------------------------------------------
+reveals that
+揭示了，表明了
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A close study of his compositions reveals that Beethoven overturned no fundamental rules. 仔细研究贝多芬的作品就会发现，贝多芬并没有颠覆任何基本规则。
+≫   The analysis reveals that intensity appears to fluctuate with a clear, well-defined rhythm. 分析表明，强度似乎以一种清晰的、明确的节奏在波动。
+≫   Data reveals that economic inequality rather than family income might affect people's wellbeing. 数据显示，影响人们的幸福感的或许不是家庭收入，而是经济不平等。
+
+========================================================================
+>>> Evolutionary Machine Learning
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7864
+Evolutionary Machine Learning
+进化机器学习
+
+========================================================================
+>>> neural
+------------------------------------------------------------------------
+neural    [美 'nʊrəl / 英 'njʊər(ə)l]
+adj. 神经的；神经系统的；背的；神经中枢的
+n. (Neural)人名；(捷)诺伊拉尔
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [医学] Neural means relating to a nerve or to the nervous system. 神经的; 神经系统的
+   ≫   ...neural pathways in the brain.  ...大脑中的神经通路。
+
+========================================================================
+>>> proposal
+------------------------------------------------------------------------
+proposal    [美 prə'pozl / 英 prə'pəʊz(ə)l]
+n. 提议，建议；求婚
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. (常为正式书面的) 提议
+   ≫   The president is to put forward new proposals for resolving the country's constitutional crisis.  总统将提出解决国家宪法危机的新议案。
+   ≫   ...the governor's proposal to restrict cigarette sales.  …州长关于限制香烟销售的提案。
+2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
+   ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
+
+========================================================================
+>>> Inception
+------------------------------------------------------------------------
+inception    [美 ɪn'sɛpʃən / 英 ɪn'sepʃ(ə)n]
+n. 起初；获得学位
+n. 《盗梦空间》（电影名）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [with poss] The inception of an institution or activity is the start of it. 开始; 开端
+   ≫   Since its inception the company has produced 53 different aircraft designs.  该公司自成立以来已经设计出53种不同的飞行器。
+
+========================================================================
+>>> Inception Network
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> harnessing
+------------------------------------------------------------------------
+harnessing    ['hɑ:nis]
+v. 给（马等）装上挽具( harness的现在分词 )；治理，利用
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you harness something such as an emotion or natural source of energy, you bring it under your control and use it. 利用
+   ≫   Turkey plans to harness the waters of the Tigris and Euphrates rivers for big hydro-electric power projects.  土耳其计划利用底格里斯河与幼发拉底河的水来建造大型水力发电工程。
+2. (N-COUNT) A harness is a set of straps which fit under a person's arms and fasten around their body in order to keep a piece of equipment in place or to prevent the person moving from a place. 背带; 安全带
+3. (N-COUNT) A harness is a set of leather straps and metal links fastened around a horse's head or body so that the horse can have a carriage, cart, or plough fastened to it. 马具; 挽具
+4. [usu passive] If a horse or other animal is harnessed, a harness is put on it, especially so that it can pull a carriage, cart, or plough. 给…套上挽具
+   ≫   On Sunday the horses were harnessed to a heavy wagon for a day-long ride over the border.  星期天这些马被套在一辆沉重的货车上，踏上长达一天的旅程越过边境。
+
