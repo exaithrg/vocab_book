@@ -26576,3 +26576,16 @@ adj. 内心的；最里面的，最深处的；秘密的
 2. [ADJ n] The innermost thing is the one that is nearest to the centre. 最接近中心的
    ≫   ...the innermost part of the eye.  ...眼睛最靠中心的部分。
 
+========================================================================
+>>> proposal
+------------------------------------------------------------------------
+proposal    [美 prə'pozl / 英 prə'pəʊz(ə)l]
+n. 提议，建议；求婚
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. (常为正式书面的) 提议
+   ≫   The president is to put forward new proposals for resolving the country's constitutional crisis.  总统将提出解决国家宪法危机的新议案。
+   ≫   ...the governor's proposal to restrict cigarette sales.  …州长关于限制香烟销售的提案。
+2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
+   ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
+
