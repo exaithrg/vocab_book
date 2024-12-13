@@ -26589,3 +26589,77 @@ CET4 TEM4
 2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
    ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
 
+========================================================================
+>>> concurrently
+------------------------------------------------------------------------
+concurrently    [kən'kɝəntli]
+adv. 兼；同时发生地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Or it can perform some of its work concurrently with the application. 或者它可以与应用程序同时执行自己的一些工作。
+≫   So, whether the code is buggy depends on how many threads can access the operation concurrently. 所以，代码是否有问题取决于有多少线程能够并发地访问这个操作。
+≫   There is one lock list per database, and it contains the locks held by all applications concurrently connected to the database. 每个数据库都有一个锁列表，锁列表包含了并发连接到该数据库的所有应用程序所持有的锁。
+
+========================================================================
+>>> simultaneous
+------------------------------------------------------------------------
+simultaneous    [美 ,saɪml'tenɪəs / 英 ,sɪm(ə)l'teɪnɪəs]
+adj. 同时的；联立的；同时发生的
+n. 同时译员
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things which are simultaneous happen or exist at the same time. 同时的
+   ≫   ...the simultaneous release of the book and the CD.  …书与激光唱片的同时发行。
+2. (ADV) simultaneously 同时地
+   ≫   The two guns fired almost simultaneously.  两支枪几乎同时开火。
+
+========================================================================
+>>> synchronous
+------------------------------------------------------------------------
+synchronous    [美 'sɪŋkrənəs / 英 'sɪŋkrənəs]
+adj. 同步的；同时的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) occurring at the same time; contemporaneous 同时的
+
+========================================================================
+>>> homochronous
+------------------------------------------------------------------------
+homochronous    [美 hoʊˈməkrənəs / 英 həʊˈmɒkrənəs]
+adj. 同龄发生的；同期发生的（遗传特性在亲子间）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   DESIGN: Homochronous and controlled observation. 设计：同期对照观察。
+≫   DESIGN: Homochronous controlled study based on children. 设计：以患儿为研究对象的同期对照研究。
+
+========================================================================
+>>> synchronal
+------------------------------------------------------------------------
+synchronal    [美 ˈsɪŋkrənəl / 英 ˈsɪŋkrənəl]
+adj. 同步的；同时的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The results show that the rotating speeds of the motor and rotor are not synchronal during starting up. 结果表明，在启动时电机的转速和转子的转速是不同步的；
+≫   Common Three-coil Motor, Frequency Motor, Synchronal Perpetuation Magnetism Motor can be tested by this system. 该系统既可以对普通三相异步电机也可以对变频电机和同步永磁电机进行自动测试。
+≫   The paper presents the implementation of data's synchronal receiving , disposing and transmitting in wireless communication detailedly. 对实现无线通信中数据的同步接收、处理和传送进行了较为详细的阐述和分析。
+
+========================================================================
+>>> simultaneously
+------------------------------------------------------------------------
+simultaneously    [美 saɪməl'tenɪəsli / 英 ,sɪml'teɪnɪəslɪ]
+adv. 同时地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   So we think they have to proceed simultaneously, " she added. 因此，我们认为两个问题必须同时进行。
+≫   It will save considerable machining time to use more than one tool in one machine to perform several machine operations either in sequence or simultaneously. 在一台机器上使用数种刀具来顺次或同时进行几项机器操作， 将节省大量加工时间。
+≫   If they have multiple test cases that will be run on the same platforms, they can select multiple configurations simultaneously and apply the configurations to several of them in batch mode. 如果他们拥有多个将要运行在同一个平台上的测试用例的话，那么他们能够同时选择多个配置，并且将这些配置批量应用到平台上。
+
+========================================================================
+>>> conincidentally
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> coincidentally
+------------------------------------------------------------------------
+coincidentally    [kəu,insi'dentli]
+adv. 巧合地；一致地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) You use coincidentally when you want to draw attention to a coincidence. 巧合地
+   ≫   Coincidentally, I had once found myself in a similar situation.  碰巧的是，我有一次发现自己曾处于类似的境地。
+
