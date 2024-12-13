@@ -26388,3 +26388,191 @@ CET6 TEM4
 2. (N-VAR) If someone changes their religion or beliefs, you can refer to their conversion to their new religion or beliefs. 皈依
    ≫   ...his conversion to Christianity.  …他对基督教的皈依。
 
+========================================================================
+>>> parametric
+------------------------------------------------------------------------
+parametric    [美 ,pærə'mɛtrɪk / 英 pærə'metrɪk]
+adj. [数][物] 参数的；[数][物] 参量的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In fact, parametric equations of lines always look like that. 实际上，直线的参数方程总是这个样子的。
+≫   In order for parametric models to have any validity they must be based on or proven using actual project data. 为了参数的模型具备有效性，他们就必须基于或者被证明为是使用精确的项目数据的。
+≫   That's one of the benefits of estimating: Parametric modeling gives us visibility into resource utilization, allowing us to do our jobs more quickly, more efficiently, and more accurately. 这就是评估所带来的好处之一：参量建模为我们提供了对资源利用的可见性，允许我们更加快捷、有效、精确的完成工作。
+
+========================================================================
+>>> partial sums
+------------------------------------------------------------------------
+partial sums
+部分和：一个无限级数的前n项和，其中n是一个有限数。
+
+========================================================================
+>>> denominator
+------------------------------------------------------------------------
+denominator    [美 dɪ'nɑmə'netɚ / 英 dɪ'nɒmɪneɪtə]
+n. [数] 分母；命名者；共同特征或共同性质；平均水平或标准
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In mathematics, the denominator is the number which appears under the line in a fraction. 分母 → see also ,
+
+========================================================================
+>>> be supplied as
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> be supplied as
+------------------------------------------------------------------------
+be supplied as
+作为
+
+========================================================================
+>>> clipping
+------------------------------------------------------------------------
+clipping    [美 'klɪpɪŋ / 英 'klɪpɪŋ]
+n. 剪裁，剪断；剪报，剪辑；剪下物，剪下的东西
+adj. 头等的，第一流的；极好的，恰好的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A clipping is an article, picture, or advertisement that has been cut from a newspaper or magazine. 剪报
+2. (N-PLURAL) Clippings are small pieces of something that have been cut from something larger. 剪切物
+   ≫   Having mown the lawn, there are all those grass clippings to get rid of.  修剪完草坪，还要清除所有那些剪下来的草。
+
+========================================================================
+>>> incorporates
+------------------------------------------------------------------------
+incorporates    [in'kɔ:pəreit; in'kɔ:pərət]
+组成公司
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If one thing incorporates another thing, it includes the other thing. 包含
+   ≫   The new cars will incorporate a number of major improvements.  这种新型汽车将包含许多重大的改进。
+2. [正式] If someone or something is incorporated into a large group, system, or area, they become a part of it. 使并入
+   ≫   The agreement would allow the rebels to be incorporated into a new national police force.  该协议将允许叛军并入一支新的国家警察部队。
+
+========================================================================
+>>> prevent
+------------------------------------------------------------------------
+prevent    [英 prɪ'vent / 美 pri'vɛnt]
+vt. 预防，防止；阻止
+vi. 妨碍，阻止
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To prevent something means to ensure that it does not happen. 预防
+   ≫   These methods prevent pregnancy.  这些方法预防怀孕。
+   ≫   Further treatment will prevent cancer from developing.  进一步治疗将预防癌症恶化。
+2. (N-UNCOUNT) prevention 预防
+   ≫   ...the prevention of heart disease.  …心脏病的预防。
+3. (V-T) To prevent someone from doing something means to make it impossible for them to do it. 阻止
+   ≫   He said this would prevent companies from creating new jobs.  他说这将阻止各公司创造新的职位。
+   ≫   Its nationals may be prevented from leaving the country.  其公民可能会被阻止离开该国。
+
+========================================================================
+>>> simultaneously
+------------------------------------------------------------------------
+simultaneously    [美 saɪməl'tenɪəsli / 英 ,sɪml'teɪnɪəslɪ]
+adv. 同时地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   So we think they have to proceed simultaneously, " she added. 因此，我们认为两个问题必须同时进行。
+≫   It will save considerable machining time to use more than one tool in one machine to perform several machine operations either in sequence or simultaneously. 在一台机器上使用数种刀具来顺次或同时进行几项机器操作， 将节省大量加工时间。
+≫   If they have multiple test cases that will be run on the same platforms, they can select multiple configurations simultaneously and apply the configurations to several of them in batch mode. 如果他们拥有多个将要运行在同一个平台上的测试用例的话，那么他们能够同时选择多个配置，并且将这些配置批量应用到平台上。
+
+========================================================================
+>>> substantially
+------------------------------------------------------------------------
+substantially    [美 səb'stænʃəli / 英 səb'stænʃ(ə)lɪ]
+adv. 实质上；大体上；充分地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something changes substantially or is substantially different, it changes a lot or is very different. 很大程度地
+   ≫   The percentage of girls in engineering has increased substantially.  工科女生的比例已经大大增长了。
+
+========================================================================
+>>> sustain
+------------------------------------------------------------------------
+sustain    [美 sə'sten / 英 sə'steɪn]
+vt. 维持；支撑，承担；忍受；供养；证实
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you sustain something, you continue it or maintain it for a period of time. 保持
+   ≫   He has sustained his fierce social conscience from young adulthood through old age.  他从青年时代到晚年一直保持着强烈的社会良知。
+   ≫   Recovery can't be sustained unless more jobs are created.  除非有更多的工作机会被创造出来，否则复苏无法保持下去。
+2. [正式] If you sustain something such as a defeat, loss, or injury, it happens to you. 遭受
+   ≫   Every aircraft in there has sustained some damage.  那里的每架飞机都遭到了一些损坏。
+3. [正式] If something sustains you, it supports you by giving you help, strength, or encouragement. 支撑
+   ≫   The cash dividends they get from the cash crop would sustain them during the lean season.  他们从经济作物中得到的那些现金红利能支撑他们度过歉收季节。
+
+========================================================================
+>>> downside
+------------------------------------------------------------------------
+downside    [美 'daʊnsaɪd / 英 'daʊnsaɪd]
+n. 负面，缺点；下降趋势；底侧
+adj. 底侧的
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The downside of a situation is the aspect of it which is less positive, pleasant, or useful than its other aspects. 不利的一面
+   ≫   The downside of this approach is a lack of clear leadership.  这种方式的不足之处是缺乏明确的指挥。
+
+========================================================================
+>>> portion
+------------------------------------------------------------------------
+portion    [美 'pɔrʃən / 英 'pɔːʃ(ə)n]
+n. 部分；一份；命运
+vt. 分配；给…嫁妆
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A portion of something is a part of it. 部分
+   ≫   Damage was confined to a small portion of the castle.  城堡仅有一小部分受到了损坏。
+   ≫   I have spent a considerable portion of my life here.  我已在这里度过了一生中的大部分时光。
+2. (N-COUNT) A portion is the amount of food that is given to one person at a meal. (食物的) 一份
+   ≫   Desserts can be substituted by a portion of fresh fruit.  甜点可以替换成一份新鲜水果。
+   ≫   The portions were generous.  份量很足。
+
+========================================================================
+>>> a small portion of
+------------------------------------------------------------------------
+a small portion of
+少部分的，小部分的：指一小部分或一小块，表示数量或比例很小。
+
+========================================================================
+>>> temporal
+------------------------------------------------------------------------
+temporal    [美 'tɛmpərəl / 英 'temp(ə)r(ə)l]
+adj. 暂时的；当时的；现世的
+n. 世间万物；暂存的事物
+n. (Temporal)人名；(法)唐波拉尔
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Temporal powers or matters relate to ordinary institutions and activities rather than to religious or spiritual ones. 凡尘的; 普通的
+   ≫   ...the spiritual and temporal leader of the people.  ...人们的精神及俗世领袖。
+2. [ADJ n] Temporal means relating to time. 时间的
+   ≫   One is also able to see how specific acts are related to a temporal and spatial context.  人们也能看到具体的行为如何与时间和空间背景相关联。
+3. [anatomy] of, relating to, or near the temple or temples 颞部的; 太阳穴的
+
+========================================================================
+>>> regime
+------------------------------------------------------------------------
+regime    [美 re'ʒim / 英 reɪ'ʒiːm]
+n. 政权，政体；社会制度；管理体制
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to a government or system of running a country as a regime, you are critical of it because you think it is not democratic and uses unacceptable methods. 统治
+   ≫   ...the collapse of the Fascist regime at the end of the war.  …战争结束时法西斯统治的崩溃。
+2. (N-COUNT) A regime is the way that something such as an institution, company, or economy is run, especially when it involves tough or severe action. (机构、公司或经济等的) 管理方式
+   ≫   The authorities moved him to the less rigid regime of an open prison.  当局把他移送到管理相对宽松的不设防监狱。
+3. (N-COUNT) A regime is a set of rules about food, exercise, or beauty that some people follow in order to stay healthy or attractive. 养生法
+   ≫   He has a new fitness regime to strengthen his back.  他有一套新的健康养生法来加强他的背部力量。
+
+========================================================================
+>>> spatial input reuse
+------------------------------------------------------------------------
+spatial input reuse
+空间输入重用
+
+========================================================================
+>>> innermost
+------------------------------------------------------------------------
+innermost    [英 'ɪnəməʊst / 美 'ɪnɚmost]
+adj. 内心的；最里面的，最深处的；秘密的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Your innermost thoughts and feelings are your most personal and secret ones. 最隐秘的
+   ≫   ...revealing a company's innermost secrets.  ...揭开一家公司最深藏的秘密。
+2. [ADJ n] The innermost thing is the one that is nearest to the centre. 最接近中心的
+   ≫   ...the innermost part of the eye.  ...眼睛最靠中心的部分。
+
