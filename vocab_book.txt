@@ -25664,3 +25664,573 @@ Not found :(
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> have emerged as
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3750
+have emerged as
+已经成为
+
+========================================================================
+>>> exploiting
+------------------------------------------------------------------------
+exploiting    ['eksplɔit; ik's-]
+n. 利用；开拓
+v. 利用；开发（exploit的ing形式）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> exclusively
+------------------------------------------------------------------------
+exclusively    [美 ɪk'sklʊsɪvli / 英 ɪk'skluːsɪvlɪ]
+adv. 唯一地；专有地；排外地
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Exclusively is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else. 排他地; 独占地
+   ≫   ...an exclusively male domain.  …一个由男性独占的领域。
+
+========================================================================
+>>> on-the-fly
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3839
+on-the-fly
+〈非正式〉匆匆忙忙地；在空中；飞行中；【计】(计算机)运行中
+
+========================================================================
+>>> fully-depleted
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3877
+fully-depleted
+adj．完全耗尽的：指资源、能量或其他物质已被完全消耗。
+
+========================================================================
+>>> silicon-on-insulator
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3914
+silicon-on-insulator
+绝缘硅片
+
+========================================================================
+>>> silicon-on-insulator
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3948
+silicon-on-insulator
+绝缘硅片
+
+========================================================================
+>>> insulator
+------------------------------------------------------------------------
+insulator    [美 'ɪnsəletɚ / 英 'ɪnsjʊleɪtə]
+n. [物] 绝缘体；从事绝缘工作的工人
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing] An insulator is a material that insulates something. 隔离材料
+   ≫   Fat is an excellent insulator against the cold.  脂肪是极好的抵御寒冷的隔热材料。
+
+========================================================================
+>>> revolutionized
+------------------------------------------------------------------------
+revolutionized    [,revə'lju:ʃənaiz]
+adj. 革命化的；被彻底改革的
+v. 彻底改革（revolutionize的过去式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When something revolutionizes an activity, it causes great changes in the way that it is done. 彻底改变
+   ≫   Over the past forty years plastics have revolutionised the way we live.  在过去40年里，塑料完全改变了我们的生活方式。
+
+========================================================================
+>>> superior
+------------------------------------------------------------------------
+superior    [美 sʊˈpɪrɪɚ / 英 suːˈpɪərɪə]
+adj. 上级的；优秀的，出众的；高傲的
+n. 上级，长官；优胜者，高手；长者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If one thing or person is superior to another, the first is better than the second. 比…好的
+   ≫   We have a relationship infinitely superior to those of many of our friends.  我们之间的关系远比我们许多朋友之间的关系好得多。
+2. (N-UNCOUNT) superiority 优越性
+   ≫   The technical superiority of laser discs over tape is well established.  光盘相对磁带在技术上的优越性是确定无疑的。
+3. (ADJ) If you describe something as superior, you mean that it is good, and better than other things of the same kind. 上好的
+   ≫   A few years ago it was virtually impossible to find superior quality coffee in local shops.  几年前在当地的商店里几乎不可能买到上好的咖啡。
+4. (ADJ) A superior person or thing is more important than another person or thing in the same organization or system. 上级的
+   ≫   ...negotiations between the mutineers and their superior officers.  …那些反叛者和他们的上级军官们之间的谈判。
+5. (N-COUNT) Your superior in an organization that you work for is a person who has a higher rank than you. 上级
+   ≫   Other army units are completely surrounded and cut-off from communication with their superiors.  其他部队完全被包围，与上级的联系也被切断了。
+6. [表不满] If you describe someone as superior, you disapprove of them because they behave as if they are better, more important, or more intelligent than other people. 有优越感的
+   ≫   Finch gave a superior smile.  芬奇富有优越感地一笑。
+7. (N-UNCOUNT) superiority 优越
+   ≫   ...a false sense of his superiority over mere journalists.  …他在记者面前才有的虚假的优越感。
+8. [正式] If one group of people has superior numbers to another group, the first has more people than the second, and therefore has an advantage over it. (人数) 占优势的
+   ≫   The demonstrators fled when they saw the authorities' superior numbers.  示威者们看到官方占优势的人数时就逃跑了。
+
+========================================================================
+>>> recurrent
+------------------------------------------------------------------------
+recurrent    [美 rɪ'kɝənt / 英 rɪ'kʌr(ə)nt]
+adj. 复发的；周期性的，经常发生的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A recurrent event or feeling happens or is experienced more than once. (情感) 反复出现的; (事情) 一再发生的
+   ≫   Race is a recurrent theme in the work.  种族是该作品中反复出现的一个主题。
+
+========================================================================
+>>> RNN
+------------------------------------------------------------------------
+RNN
+循环神经网络（Recurrent Neural Network）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The recurrent neural network(RNN) model based on projective operator is studied. 研究了一种基于投影算子的神经网络模型。
+≫   A small discrepancy is due to the fact that the RNN only approximates the first-principles CSTR model. 一个小的差异是由于这样的事实，RNN CSTR采用的仅仅是近似模型。
+≫   As a biological neural mathematical model, RNN has particular advantages of associative memory, image processing and combinatorial optimization. 作为仿生神经元数学模型，随机神经网络在联想记忆、图像处理、组合优化问题上都显示出较强的优势。
+
+========================================================================
+>>> modalities
+------------------------------------------------------------------------
+modalities    [məu'dæləti]
+n. 形式；形态（modality的复数）；样式
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the condition of being modal 情态
+
+========================================================================
+>>> multiple modalities
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4161
+multiple modalities
+多种形式
+
+========================================================================
+>>> ubiquity
+------------------------------------------------------------------------
+ubiquity    [美 jʊ'bɪkwəti / 英 juː'bɪkwətɪ]
+n. 普遍存在；到处存在
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N 'of' n] If you talk about the ubiquity of something, you mean that it seems to be everywhere. 无处不在
+
+========================================================================
+>>> on par
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> on par
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4260
+on par
+在票面价值
+
+========================================================================
+>>> perform on par
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4306
+perform on par
+表现平平
+
+========================================================================
+>>> equivalents
+------------------------------------------------------------------------
+equivalents    [i'kwivələnt]
+n. [化学] 当量（equivalent的复数）；同等设备；等同物
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) If one amount or value is the equivalent of another, they are the same. 等量物; 等价物
+   ≫   Mr. Li's pay is the equivalent of about $80 a month.  李先生的报酬大约等于每月80美元。
+2. (ADJ) Equivalent is also an adjective. 等量的; 等值的
+   ≫   If they want to change an item in the budget, they will have to propose equivalent cuts elsewhere.  如果他们想要改变预算中的一个款项，必须得提出其他等值的削减。
+3. (N-COUNT) The equivalent of someone or something is a person or thing that has the same function in a different place, time, or system. 等效对象
+   ≫   ...the Red Cross emblem, and its equivalent in Muslim countries, the Red Crescent.  …红十字徽章、及其在穆斯林国家对应物的红新月。
+4. (ADJ) Equivalent is also an adjective. 等效的
+   ≫   ...a decrease of 10% in property investment compared with the equivalent period in 1991.  …房产投资相比1991年同期10％的降幅。
+5. [强调] You can use equivalent to emphasize the great or severe effect of something. 等效对象
+   ≫   His party has just suffered the equivalent of a near-fatal heart attack.  他的政党刚经受了相当于一次几乎致命的心脏病发作的打击。
+
+========================================================================
+>>> superlinear
+------------------------------------------------------------------------
+superlinear    [英 ˌsjuːpəˈlɪnɪə]
+adj. 在字行上面的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The superlinear convergence for some special cases is also discussed. 本文还讨论了特殊情况下算法的超线性收敛性。
+≫   As a result, the proposed algorithm has global and superlinear convergence. 作为结果，算法具有全局和超线性收敛性。
+≫   We also prove that the method has superlinear convergence rate under some mild conditions. 另外在较弱的条件下，证明该方法具有超线性收敛性。
+
+========================================================================
+>>> a superlinear number of
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4423
+a superlinear number of
+的超线性数
+
+========================================================================
+>>> intensive
+------------------------------------------------------------------------
+intensive    [美 ɪn'tɛnsɪv / 英 ɪn'tensɪv]
+adj. 加强的；集中的；透彻的；加强语气的
+n. 加强器
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Intensive activity involves concentrating a lot of effort or people on one particular task in order to try to achieve a lot in a short time. 集中的
+   ≫   ...after several days and nights of intensive negotiations.  …在几个日夜的集中谈判之后。
+2. [ADV with v] intensively 集中地
+   ≫   Caitlin's parents opted to educate her intensively at home.  凯特林的父母选择在家对她进行强化教育。
+3. (ADJ) Intensive farming involves producing as many crops or animals as possible from your land, usually with the aid of chemicals. 集约的
+   ≫   ...intensive methods of rearing poultry.  …集约饲养家禽的方法。
+4. [ADV with v] intensively 集约地
+   ≫   Will they farm the rest of their land less intensively?  他们会在耕种其余土地时不这么集约吗？
+
+========================================================================
+>>> peculiar
+------------------------------------------------------------------------
+peculiar    [美 pɪ'kjulɪɚ / 英 pɪ'kjuːlɪə]
+adj. 特殊的；独特的；奇怪的；罕见的
+n. 特权；特有财产
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone or something as peculiar, you think that they are strange or unusual, sometimes in an unpleasant way. 不寻常的; 古怪的
+   ≫   Mr. Kennet has a rather peculiar sense of humour.  肯尼特先生有一种相当不寻常的幽默感。
+2. (ADV) peculiarly 不寻常地; 奇怪地
+   ≫   His face had become peculiarly expressionless.  他的脸变得异乎寻常地毫无表情。
+3. (ADJ) If something is peculiar to a particular thing, person, or situation, it belongs or relates only to that thing, person, or situation. 特有的; 独特的
+   ≫   Punks, soldiers, hippies, and Sumo wrestlers all have distinct hair styles, peculiar to their group.  朋克摇滚歌手、士兵、嬉皮士和相扑手都留着他们那个群体特有的独特发型。
+4. (ADV) peculiarly 特有地; 独特地
+   ≫   ...a peculiarly American conservatism.  …一种美国特有的保守主义。
+
+========================================================================
+>>> restricts
+------------------------------------------------------------------------
+restricts    [ri'strikt]
+约束
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you restrict something, you put a limit on it in order to reduce it or prevent it from becoming too great. 限制
+   ≫   There is talk of raising the admission requirements to restrict the number of students on campus.  有提高录取条件来限制校园里学生数量的说法。
+2. (N-UNCOUNT) restriction 限制
+   ≫   Since the costs of science were rising faster than inflation, some restriction on funding was necessary.  既然科学成本上涨快于通货膨胀，资助上的一些限制是必要的。
+3. (V-T) To restrict the movement or actions of someone or something means to prevent them from moving or acting freely. 限制
+   ≫   The government imprisoned dissidents, forbade travel, and restricted the press.  政府关押了持不同政见者，禁止了出游，限制了新闻自由。
+4. (N-UNCOUNT) restriction 限制
+   ≫   ...the justification for this restriction of individual liberty.  …对限制个人自由的辩护。
+5. (V-T) If you restrict someone or their activities to one thing, they can only do, have, or deal with that thing. If you restrict them to one place, they cannot go anywhere else. 限制 (在某范围)
+   ≫   For the first two weeks, patients are restricted to the grounds.  最初两周病人们被限制在院内活动。
+6. (V-T) If you restrict something to a particular group, only that group can do it or have it. If you restrict something to a particular place, it is allowed only in that place. 限定
+   ≫   Trustees had decided to restrict university entry to about 30 percent of applicants.  董事们已经决定把大学入学率限定在申请人数的30％左右。
+
+========================================================================
+>>> incurs
+------------------------------------------------------------------------
+incurs
+v．招致，引起：因为自己的行为或决定而导致某种不利后果。
+★★ CET6 TEM8 incurring,incurred,incurs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you incur something unpleasant, it happens to you because of something you have done. 招致; 蒙受 [书面]
+   ≫   The government had also incurred huge debts.  政府也已承受了大笔债务。
+
+========================================================================
+>>> Furthermore
+------------------------------------------------------------------------
+furthermore    [美 ,fɝðɚ'mɔr / 英 fɜːðə'mɔː]
+adv. 此外；而且
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with cl] Furthermore is used to introduce a piece of information or opinion that adds to or supports the previous one. 此外
+   ≫   Furthermore, they claim that any such interference is completely ineffective.  此外，他们声称任何此类干涉都是完全无效的。
+
+========================================================================
+>>> necessitats
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> necessitates
+------------------------------------------------------------------------
+necessitates
+v．使成为必要，需要：使某事物成为必要或不可避免的。
+★ CET6 TEM8 necessitating,necessitated,necessitates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something necessitates an event, action, or situation, it makes it necessary. 使成为必需 [正式]
+   ≫   A prolonged drought had necessitated the introduction of water rationing.  一场持续的干旱使定量供水的引进成为必需。
+
+========================================================================
+>>> substantial
+------------------------------------------------------------------------
+substantial    [英 səb'stænʃ(ə)l / 美 səbˈstænʃəl]
+adj. 大量的；实质的；内容充实的
+n. 本质；重要材料
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Substantial means large in amount or degree. 大量的; 很大程度的
+   ≫   A substantial number of mothers with young children are deterred from undertaking paid work because they lack access to childcare.  很多有小孩的母亲找不到人照顾小孩，从而无法从事有薪工作。
+
+========================================================================
+>>> orient
+------------------------------------------------------------------------
+orient    [美 'orɪənt / 英 'ɔːrɪənt; 'ɒr-]
+vt. 使适应；确定方向；使朝东
+n. 东方；东方诸国
+adj. 东方的
+vi. 向东
+n. (Orient)人名；(西)奥连特；(法)奥里安
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] When you orient yourself to a new situation or course of action, you learn about it and prepare to deal with it. 适应
+   ≫   You will need the time to orient yourself to your new way of eating.  你需要时间适应新的吃法。
+2. → see also
+
+========================================================================
+>>> oriented
+------------------------------------------------------------------------
+oriented    [美 'orɪɛntɪd / 英 'ɔːrɪentɪd]
+adj. 导向的；定向的；以…为方向的
+v. 调整；使朝向（orient的过去分词）；确定…的方位
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [v-link ADJ 'toward/to' n] If someone is oriented toward or oriented to a particular thing or person, they are mainly concerned with that thing or person. 以…为方向的; 重视…的
+   ≫   It seems almost inevitable that North African economies will still be primarily oriented toward Europe.  看来可以预见的是，北非经济仍会主要面向欧洲。
+
+========================================================================
+>>> fashion
+------------------------------------------------------------------------
+fashion    [美 'fæʃən / 英 'fæʃ(ə)n]
+n. 时尚；时装；样式；时髦人物
+vt. 使用；改变；做成…的形状
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Fashion is the area of activity that involves styles of clothing and appearance. 时尚界
+   ≫   There are 20 full-colour pages of fashion for men.  有20张男士时尚动态的全彩页。
+2. (N-COUNT) A fashion is a style of clothing or a way of behaving that is popular at a particular time. 时尚
+   ≫   In the early seventies I wore false eyelashes, as was the fashion.  70年代初我戴假睫毛，那是当时的时尚。
+   ≫   The demand for perfume resulted in a fashion for fancy scent bottles.  对香水的需求使别致的香水瓶成为一种时尚。
+3. (N-SING) If you do something in a particular fashion or after a particular fashion, you do it in that way. 方式
+   ≫   There is another drug called DHE that works in a similar fashion.  另有一种叫作二氢埃托啡的药作用相似。
+4. → see also
+5. (PHRASE) If something is in fashion, it is popular and approved of at a particular time. If it is out of fashion, it is not popular or approved of. 流行/过时
+   ≫   That sort of house is back in fashion.  那种房子又时兴起来了。
+
+========================================================================
+>>> denominator summation
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4755
+denominator summation
+分母求和
+
+========================================================================
+>>> in turn
+------------------------------------------------------------------------
+in turn
+反过来；转而；轮流，依次
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We will examine each of these methods in turn. 我们将按照顺序依次分析这些方法。
+≫   Once you’ve done this, call each credit card company in turn. 一旦你做到这些，轮流给各家信用卡公司打电话。
+≫   This, in turn, would require changes to all users of those interfaces. 依次的，这需要那些接口的所有用户作出相应的改变。
+
+========================================================================
+>>> despite
+------------------------------------------------------------------------
+despite    [美 dɪ'spaɪt / 英 dɪ'spaɪt]
+prep. 尽管，不管
+n. 轻视；憎恨；侮辱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [PREP n/-ing] You use despite to introduce a fact which makes the other part of the sentence surprising. 尽管
+   ≫   She has been under house arrest for most of the past decade, despite efforts by the United Nations to have her released.  她在过去10年里大部分时间都被软禁，尽管联合国为她的释放一直在做努力。
+2. (PREP) You use despite to introduce an idea that appears to contradict your main statement, without suggesting that this idea is true or that you believe it. 尽管
+   ≫   She told friends she will stand by husband, despite reports that he sent another woman love notes.  她告诉朋友说，她将支持丈夫，尽管有报道说他在给别的女人递情书。
+
+========================================================================
+>>> aggressive
+------------------------------------------------------------------------
+aggressive    [美 ə'ɡrɛsɪv / 英 ə'gresɪv]
+adj. 侵略性的；好斗的；有进取心的；有闯劲的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An aggressive person or animal has a quality of anger and determination that makes them ready to attack other people. 好斗的
+   ≫   Some children are much more aggressive than others.  一些孩子比其他孩子好斗得多。
+   ≫   These fish are very aggressive.  这些鱼十分好斗。
+2. (ADV) aggressively 好斗地
+   ≫   They'll react aggressively.  他们会凶猛地作出反应。
+3. (ADJ) People who are aggressive in their work or other activities behave in a forceful way because they are very eager to succeed. 好强的
+   ≫   He is respected as a very aggressive and competitive executive.  他被尊认为一位十分好强好胜的主管。
+4. (ADV) aggressively 好强地
+   ≫   ...countries noted for aggressively pursuing energy efficiency.  …以拼命追求能效著称的国家。
+
+========================================================================
+>>> aggress
+------------------------------------------------------------------------
+aggress    [美 əˈɡres / 英 əˈɡres]
+vi. 攻击；侵略
+vt. 侵犯；挑衅
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to attack first or begin a quarrel 挑衅
+
+========================================================================
+>>> PRELIMINARIES
+------------------------------------------------------------------------
+preliminaries    [prɪ'lɪmə,nɛri]
+n. 预赛；初期微震；正文前书页（preliminary的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) → the full word for
+
+========================================================================
+>>> transformations
+------------------------------------------------------------------------
+transformations    [,trænsfə'meiʃən; ,trænz-; trɑ:n-]
+n. [晶体] 转变（transformation的复数形式）；转换
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If not, then transformations have to be performed in the mapping phase. 如果不能，那么在映射阶段必须执行转换。
+≫   You can use these transformations to convert the data from one model to another. 您可以使用这些转换将数据从一个模型转换为另一个。
+≫   If there are many components implemented on the same legacy platform, you can develop reverse transformations from the components to UML. 如果有许多组件是在同一个遗留平台上实现的，那么您可以开发从组件到 UML 的逆向转换。
+
+========================================================================
+>>> projection space
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4979
+projection space
+投影空间
+
+========================================================================
+>>> encounter
+------------------------------------------------------------------------
+encounter    [美 ɪn'kaʊntɚ / 英 ɪn'kaʊntə; en-]
+vt. 遭遇，邂逅；遇到
+n. 遭遇，偶然碰见
+vi. 遭遇；偶然相遇
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you encounter problems or difficulties, you experience them. 遭遇
+   ≫   Every day of our lives we encounter major and minor stresses of one kind or another.  生活中的每一天，我们会遇到或大或小的这样那样的压力。
+2. [正式] If you encounter someone, you meet them, usually unexpectedly. 邂逅
+   ≫   Did you encounter anyone in the building?  你在那栋大楼里偶然遇到什么人了吗？
+3. (N-COUNT) An encounter with someone is a meeting with them, particularly one that is unexpected or significant. 邂逅
+   ≫   The author tells of a remarkable encounter with a group of South Vietnamese soldiers.  作者讲述了他与一群南越士兵的惊人邂逅。
+4. (N-COUNT) An encounter is a particular type of experience. 特殊经历
+   ≫   ...a sexual encounter.  …一次性经历。
+
+========================================================================
+>>> encountered
+------------------------------------------------------------------------
+encountered    [ɪn'kaʊntɚ]
+v. 遇到；曾遭遇（encounter的过去式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you encounter problems or difficulties, you experience them. 遭遇
+   ≫   Every day of our lives we encounter major and minor stresses of one kind or another.  生活中的每一天，我们会遇到或大或小的这样那样的压力。
+2. [正式] If you encounter someone, you meet them, usually unexpectedly. 邂逅
+   ≫   Did you encounter anyone in the building?  你在那栋大楼里偶然遇到什么人了吗？
+3. (N-COUNT) An encounter with someone is a meeting with them, particularly one that is unexpected or significant. 邂逅
+   ≫   The author tells of a remarkable encounter with a group of South Vietnamese soldiers.  作者讲述了他与一群南越士兵的惊人邂逅。
+4. (N-COUNT) An encounter is a particular type of experience. 特殊经历
+   ≫   ...a sexual encounter.  …一次性经历。
+
+========================================================================
+>>> eliminating
+------------------------------------------------------------------------
+eliminating    [ɪ'lɪmə,net]
+adj. 排除的
+v. 消除（eliminate的ing形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To eliminate something, especially something you do not want or need, means to remove it completely. 根除
+   ≫   Recent measures have not eliminated discrimination in employment.  最近的举措还未能根除就业歧视。
+2. (N-UNCOUNT) elimination 根除
+   ≫   ...the prohibition and elimination of chemical weapons.  …对化学武器的禁止和销毁。
+3. (V-T PASSIVE) When a person or team is eliminated from a competition, they are defeated and so stop participating in the competition. 淘汰
+   ≫   I was eliminated from the 400 metres in the semi-finals.  我在400米半决赛中被淘汰了。
+4. (V-T) If someone says that they have eliminated an enemy, they mean that they have killed them. By using the word "eliminate," they are trying to make the action sound more positive than if they used the word "kill." 消灭
+   ≫   He declared war on the government and urged right-wingers to eliminate their opponents.  他向政府宣战并且力劝右翼分子们消灭他们的对手。
+
+========================================================================
+>>> speculation
+------------------------------------------------------------------------
+speculation    [美 ,spɛkju'leʃən / 英 ,spekjʊ'leɪʃn]
+n. 投机；推测；思索；投机买卖
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It was my first meeting with a philo- sophy that confirmed my vague speculations and seemed at once logical and boundless. 这是我第一次接触哲学，它证明了我那些模糊的猜测，同时又显得那么的条理井然、广阔无垠。
+≫   Unfortunately it's not possible now to rewind the movie, so to speak, and see what actually happened. So these speculations will remain just that: speculations. 不幸的是，时光不能倒流，我们不可以回去看看究竟发生了什么，所以这些猜测，仍将仅仅是猜测。
+≫   Rumours of his ill health at the beginning of the year prompted damaging speculations about the company's next head honcho and caused Apple's shares to jitter. 今年年初有关他生病的传闻引起了关于公司下任头头的有害猜测，也造成苹果的股份有所波动。
+
+========================================================================
+>>> criteria
+------------------------------------------------------------------------
+criteria    [美 kraɪ'tɪrɪə / 英 kraɪ'tɪərɪə]
+n. 标准，条件（criterion的复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A criterion is a factor on which you judge or decide something. (判断的) 标准
+   ≫   The most important criterion for entry is that applicants must design and make their own work.  参加的最重要标准就是申请人必须设计并制作自己的作品。
+
+========================================================================
+>>> fetch
+------------------------------------------------------------------------
+fetch    [美 fɛtʃ / 英 fetʃ]
+vt. 取来；接来；到达；吸引
+vi. 拿；取物；卖得
+n. 取得；诡计
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you fetch something or someone, you go and get them from the place where they are. 去取(某物); 去接(某人)
+   ≫   Sylvia fetched a towel from the bathroom.  西尔维娅从浴室拿来一条毛巾。
+   ≫   Fetch me a glass of water.  给我拿杯水来。
+2. (V-T) If something fetches a particular sum of money, it is sold for that amount. 卖得
+   ≫   The painting is expected to fetch between two and three million dollars.  这幅画预计能卖到两百到三百万美元。
+3. → see also
+4. (N) the reach, stretch, etc, of a mechanism 机械装置的延伸部分
+
+========================================================================
+>>> coherent
+------------------------------------------------------------------------
+coherent    [美 ko'hɪrənt / 英 kə(ʊ)'hɪər(ə)nt]
+adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is coherent, it is well planned, so that it is clear and sensible and all its parts go well with each other. 连贯的
+   ≫   He has failed to work out a coherent strategy for modernizing the service.  他无法想出一个连贯的策略来使该服务现代化。
+2. (N-UNCOUNT) coherence 连贯性
+   ≫   The campaign was widely criticized for making tactical mistakes and for a lack of coherence.  该运动遭到广泛批评，因其有策略错误且缺乏连贯性。
+3. [v-link ADJ] If someone is coherent, they express their thoughts in a clear and calm way, so that other people can understand what they are saying. 条理清楚的
+   ≫   He's so calm when he answers questions in interviews. I wish I could be that coherent.  他如此镇定地回答了访谈中的问题。我希望我也能那样有条不紊。
+4. (N-UNCOUNT) coherence 条理性
+   ≫   This was debated eagerly at first, but with diminishing coherence as the champagne took hold.  辩论一开始满热烈的，可是上了香槟后，条理性就降低了。
+
+========================================================================
+>>> symbolic
+------------------------------------------------------------------------
+symbolic    [美 sɪm'bɑlɪk / 英 sɪm'bɒlɪk]
+adj. 象征的；符号的；使用符号的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe an event, action, or procedure as symbolic, you mean that it represents an important change, although it has little practical effect. 有象征意义的
+   ≫   A lot of Latin-American officials are stressing the symbolic importance of the trip.  许多拉丁美洲官员正在强调这次旅行在象征意义上的重要性。
+2. (ADV) symbolically 有象征意义地
+   ≫   It was a simple enough gesture, but symbolically important.  这虽是个再简单不过的手势，但却有着重要的象征意义。
+3. (ADJ) Something that is symbolic of a person or thing is regarded or used as a symbol of them. 用作象征的
+   ≫   Yellow clothes are worn as symbolic of spring.  黄色衣服被穿着来象征春天。
+4. [ADV with v] symbolically 象征性地
+   ≫   Each circle symbolically represents the whole of humanity.  每个圆圈都象征性地代表全人类。
+5. [ADJ n] Symbolic is used to describe things involving or relating to symbols. 符号的
+   ≫   ...symbolic representations of landscape.  …地形的符号表征。
+
