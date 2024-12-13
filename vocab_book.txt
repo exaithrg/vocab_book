@@ -24906,3 +24906,13 @@ CET6+ TEM8
 2. [正式] If a crime carries a mandatory punishment, that punishment is fixed by law for all cases, in contrast to crimes for which the judge or magistrate has to decide the punishment for each particular case. (刑罚) 强制性的
    ≫   ...the mandatory life sentence for murder.  …谋杀罪的强制性终身监禁。
 
+========================================================================
+>>> enumerating
+------------------------------------------------------------------------
+enumerating    [i'nju:məreit]
+枚举
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
+   ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
+
