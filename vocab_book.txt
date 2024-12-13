@@ -26663,3 +26663,14 @@ adv. 巧合地；一致地
 1. (ADV) You use coincidentally when you want to draw attention to a coincidence. 巧合地
    ≫   Coincidentally, I had once found myself in a similar situation.  碰巧的是，我有一次发现自己曾处于类似的境地。
 
+========================================================================
+>>> invariant
+------------------------------------------------------------------------
+invariant    [美 ɪn'vɛrɪənt / 英 ɪn'veərɪənt]
+adj. 不变的
+n. [数] 不变量；[计] 不变式
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [maths] an entity, quantity, etc, that is unaltered by a particular transformation of coordinates 不变式; 不变量
+   ≫   a point in space, rather than its coordinates, is an invariant  
+2. [maths] (of a relationship or a property of a function, configuration, or equation) unaltered by a particular transformation of coordinates (函数，配置或等式的关系或属性)恒定的
+
