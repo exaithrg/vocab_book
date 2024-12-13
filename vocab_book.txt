@@ -24893,3 +24893,16 @@ CET4 TEM4
 Asymptotic Sparsity Speculating
 渐近稀疏性推测
 
+========================================================================
+>>> mandatory
+------------------------------------------------------------------------
+mandatory    [美 'mændətɔri / 英 'mændət(ə)rɪ]
+adj. 强制的；托管的；命令的
+n. 受托者（等于mandatary）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If an action or procedure is mandatory, people have to do it, because it is a rule or a law. 法定的
+   ≫   ...the mandatory retirement age of 65.  …65岁的法定退休年龄。
+2. [正式] If a crime carries a mandatory punishment, that punishment is fixed by law for all cases, in contrast to crimes for which the judge or magistrate has to decide the punishment for each particular case. (刑罚) 强制性的
+   ≫   ...the mandatory life sentence for murder.  …谋杀罪的强制性终身监禁。
+
