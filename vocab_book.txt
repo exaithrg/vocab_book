@@ -28851,3 +28851,9 @@ CET4 TEM4
 6. (PHRASE) If you say that someone has only themselves to blame or has no one but themselves to blame, you mean that they are responsible for something bad that has happened to them and that you have no sympathy for them. 只能责怪自己
    ≫   My life is ruined and I suppose I only have myself to blame.  我的一生都毁了，我想这只能怪我自己。
 
+========================================================================
+>>> asmr
+------------------------------------------------------------------------
+ASMR
+自发性知觉经络反应（autonomous sensory meridian response）
+
