@@ -30073,3 +30073,81 @@ CET4 TEM4
 2. (N-PLURAL) A person's glories are the occasions when they have done something people greatly admire which makes them famous. 辉煌成就
    ≫   The album sees them re-living past glories but not really breaking any new ground.  在这张专辑中他们重温了昔日的辉煌成就，却没有任何真正新的突破。
 
+========================================================================
+>>> hypervisor
+------------------------------------------------------------------------
+hypervisor    [美 ˈhaɪpərvaɪzər / 英 ˈhaɪpəvaɪzə(r)]
+n. 超级监督者；管理程序
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Adding the hypervisor to a cloud group. 将系统管理程序添加到一个云组。
+≫   Copying the VM template files to a target hypervisor. 将VM模板文件复制到目标管理程序。
+≫   The hypervisor is a platform-virtualization software. 管理程序是一个平台虚拟化软件。
+
+========================================================================
+>>> affected
+------------------------------------------------------------------------
+affected    [美 ə'fɛktɪd / 英 ə'fektɪd]
+adj. 受到影响的；做作的；假装的
+vt. 影响；假装；使…感动（affect的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you describe someone's behaviour as affected, you disapprove of the fact that they behave in an unnatural way that is intended to impress other people. 做作的
+   ≫   She had an affected air and a disdainful look.  她不仅做作，而且还有一副瞧不起人的样子。
+2. [usu ADJ n] deeply moved, esp by sorrow or grief (尤指因悲伤而)难过的
+   ≫   he was greatly affected by her departure  
+
+========================================================================
+>>> rstack
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> spectre
+------------------------------------------------------------------------
+spectre    [英 'spektə /  'spektə]
+n. 幽灵；妖怪；鬼性（等于specter）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'the' N 'of' n] If you refer to the spectre of something unpleasant, you are referring to something that you are frightened might occur. (对某事可能会发生而产生的) 萦绕心头的恐惧
+   ≫   The arrests raised the spectre of revenge attacks.  拘捕增加了对报复性攻击的恐惧。
+
+========================================================================
+>>> specter
+------------------------------------------------------------------------
+specter    ['spɛktɚ]
+n. 幽灵；妖怪；恐怖之物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The specter of war loomed ahead. 战争的幽灵逼近了。
+≫   No man, if he be truthful, can say that the specter of war is banished. 没有人，如果他是真诚的，能够说战争的幽灵已经被消除。
+≫   For investors, the specter of a long period of malaise means a long period of low returns. 对投资者来说，长期经济萎靡不振的幽灵意味着长期的投资低回报。
+
+========================================================================
+>>> mitigation
+------------------------------------------------------------------------
+mitigation    [美 ,mɪtɪ'ɡeʃən / 英 mɪtɪ'geɪʃ(ə)n]
+n. 减轻；缓和；平静
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [PHR with cl] If someone, especially in a court, is told something in mitigation, they are told something that makes a crime or fault easier to understand and excuse. 为减轻罪责; 为从轻处置; 为了开脱
+   ≫   The prosecutor told the judge in mitigation that the offences had been at the lower end of the scale.  公诉人对法官说这些罪行情节较轻，希望能够从宽判决。
+2. [正式] Mitigation is a reduction in the unpleasantness, seriousness, or painfulness of something. 减轻; 缓和
+   ≫   ...the mitigation or cure of a physical or mental condition.  ...身体或心理疾病的缓和或痊愈。
+
+========================================================================
+>>> vulnerabilities
+------------------------------------------------------------------------
+vulnerabilities    ['vʌlnərəbl]
+n. 缺陷（vulnerability的复数形式）；脆弱点
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Yet it is those vulnerabilities that make him accessible to the audience because they make him more like us. 但正是这些弱点让他更易被观众理解，因为他被塑造得更象我们这些普通人。
+≫   Third, it exposes the credentials as the username and password, which may introduce some security vulnerabilities. 最后，它将凭证暴露为用户名和密码，这可能引入一些安全缺陷。
+≫   But those are discussions. We look at the vulnerabilities and whether or not the groups are taking action. 但是那些只是讨论，我们瞄着危险分子和那些团体是否正在采取行动。
+
+========================================================================
+>>> vulnerability
+------------------------------------------------------------------------
+vulnerability    [美 ,vʌlnərə'bɪləti / 英 ,vʌlnərə'bɪlətɪ]
+n. 易损性；弱点
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This points to another vulnerability. 这指的是另一弱点。
+≫   But you also notice the sense of limitation and the vulnerability associated with the physical state of virginity here. 但是你们也要注意到限制和弱点的意义所在,那是与身体的贞节状态相联系的。
+≫   Even if you did everything that I would do, we would still have a vulnerability to financial crises. 即使你做了我说的所有事情，我们还是有弱点以至于金融危机趁虚而入的。
+
