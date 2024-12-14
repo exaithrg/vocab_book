@@ -29572,3 +29572,23 @@ CET6 TEM4
 2. (ADV) conscientiously 认真地
    ≫   He studied conscientiously and enthusiastically.  他认真积极地学习。
 
+========================================================================
+>>> concurrency
+------------------------------------------------------------------------
+concurrency    [美 kənˈkɜːrənsi / 英 kənˈkʌrənsɪ]
+n. [计] 并发性；同时发生
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Better support for concurrency. 更好地支持并发。
+≫   Who really needs concurrency? 谁真正需要并行？
+≫   On the downside, you need to consider concurrency. 缺点是，您需要考虑并发性。
+
+========================================================================
+>>> heterogeneous
+------------------------------------------------------------------------
+heterogeneous    [美 'hɛtərə'dʒinɪəs / 英 ,het(ə)rə(ʊ)'dʒiːnɪəs; -'dʒen-]
+adj. [化学] 多相的；异种的；[化学] 不均匀的；由不同成分形成的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A heterogeneous group consists of many different types of things or people. 由很多种类组成的
+   ≫   ...a rather heterogeneous collection of studies from diverse origins.  …来自各种不同渠道的一系列种类繁多的研究。
+
