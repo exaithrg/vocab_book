@@ -28857,3 +28857,35 @@ CET4 TEM4
 ASMR
 自发性知觉经络反应（autonomous sensory meridian response）
 
+========================================================================
+>>> anneal
+------------------------------------------------------------------------
+anneal    [美 ə'nil / 英 ə'niːl]
+vt. 使退火，韧炼；锻炼
+n. 退火；锻炼，磨练
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to temper or toughen (something) by heat treatment 使退火
+2. (N) an act of annealing 退火
+
+========================================================================
+>>> annealing
+------------------------------------------------------------------------
+annealing    [ə'nilɪŋ]
+n. 热处理；低温退火；磨炼
+v. [机][生化] 退火；磨炼（anneal的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to temper or toughen (something) by heat treatment 使退火
+2. (N) an act of annealing 退火
+
+========================================================================
+>>> exhaustive
+------------------------------------------------------------------------
+exhaustive    [美 ɪg'zɔstɪv / 英 ɪg'zɔːstɪv; eg-]
+adj. 详尽的；彻底的；消耗的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a study, search, or list as exhaustive, you mean that it is very thorough and complete. 详尽无遗的
+   ≫   This is by no means an exhaustive list but it gives an indication of the many projects taking place.  这绝不是份详尽无遗的清单，但它显示出很多正在进行的项目。
+2. (ADV) exhaustively 详尽无遗地
+   ≫   Martin said these costs were scrutinized exhaustively by independent accountants.  马丁称这些费用由独立会计师们彻底核查过。
+
