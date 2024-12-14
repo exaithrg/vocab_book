@@ -30151,3 +30151,65 @@ n. 易损性；弱点
 ≫   But you also notice the sense of limitation and the vulnerability associated with the physical state of virginity here. 但是你们也要注意到限制和弱点的意义所在,那是与身体的贞节状态相联系的。
 ≫   Even if you did everything that I would do, we would still have a vulnerability to financial crises. 即使你做了我说的所有事情，我们还是有弱点以至于金融危机趁虚而入的。
 
+========================================================================
+>>> Vulnerable
+------------------------------------------------------------------------
+vulnerable    [美 'vʌlnərəbl / 英 ˈvʌlnərəbl]
+adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is vulnerable is weak and without protection, with the result that they are easily hurt physically or emotionally. 易受伤害的
+   ≫   Old people are particularly vulnerable members of our society.  老人是我们社会中特别容易受到伤害的成员。
+2. (N-VAR) vulnerability 脆弱
+   ≫   David accepts his own vulnerability.  戴维承认自己的脆弱。
+3. (ADJ) If a person, animal, or plant is vulnerable to a disease, they are more likely to get it than other people, animals, or plants. 容易患…病的
+   ≫   People with high blood pressure are especially vulnerable to diabetes.  血压高的人尤其容易患糖尿病。
+4. (N-UNCOUNT) vulnerability 患病的可能性
+   ≫   Taking long-term courses of certain medicines may increase vulnerability to infection.  长期服用某些药物可能会增加受感染的几率。
+5. (ADJ) Something that is vulnerable can be easily harmed or affected by something bad. 易受损害的
+   ≫   Their tanks would be vulnerable to attack from the air.  他们的坦克将易受空袭。
+6. (N-UNCOUNT) vulnerability 易受攻击性
+   ≫   ...anxieties about the country's vulnerability to invasion.  …对国家易受侵略的忧虑。
+
+========================================================================
+>>> mitigation
+------------------------------------------------------------------------
+mitigation    [英 mɪtɪ'geɪʃ(ə)n / 美 ,mɪtɪ'ɡeʃən]
+n. 减轻；缓和；平静
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [PHR with cl] If someone, especially in a court, is told something in mitigation, they are told something that makes a crime or fault easier to understand and excuse. 为减轻罪责; 为从轻处置; 为了开脱
+   ≫   The prosecutor told the judge in mitigation that the offences had been at the lower end of the scale.  公诉人对法官说这些罪行情节较轻，希望能够从宽判决。
+2. [正式] Mitigation is a reduction in the unpleasantness, seriousness, or painfulness of something. 减轻; 缓和
+   ≫   ...the mitigation or cure of a physical or mental condition.  ...身体或心理疾病的缓和或痊愈。
+
+========================================================================
+>>> Speculative
+------------------------------------------------------------------------
+speculative    [美 'spɛkjələtɪv / 英 'spekjʊlətɪv]
+adj. 投机的；推测的；思索性的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A piece of information that is speculative is based on guesses rather than knowledge. 猜测性的
+   ≫   The papers ran speculative stories about the mysterious disappearance of Eddie Donagan.  各报刊登了有关埃迪•多纳根神秘失踪的猜测性报道。
+2. (ADJ) Speculative is used to describe activities which involve buying goods or shares, or buildings and properties, in the hope of being able to sell them again at a higher price and make a profit. 投机性的
+   ≫   Thousands of retirees were persuaded to mortgage their homes to invest in speculative bonds.  上千的退休人员被劝说抵押他们的房子去投资投机性的债券。
+
+========================================================================
+>>> sanitization
+------------------------------------------------------------------------
+sanitization    [美 ˌsænətaɪˈzeɪʃən / 英 ˌsænɪtaɪˈzeɪʃən]
+n. 卫生处理，清洁杀菌，清理；净化，美化
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In either case, input value validation and sanitization are the key to preventing XSS attacks. 不管怎样，输入值验证和数据消毒(sanitation)是防止XSS攻击的关键因素。
+≫   This activity is tedious, time consuming, and error-prone, requiring careful inspection of each sanitization function in all possible contexts. 这种行为十分单调，耗费时间，容易出错，而且需要对所有可能环境中的杀毒功能进行严格的检查。
+
+========================================================================
+>>> TSX
+------------------------------------------------------------------------
+TSX
+abbr. 多伦多证券交易所；试验用电信卫星（Telecommunications Satellite, Experimental）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the TSX environment, a market Maker manages market liquidity through a passive role. 在多伦多的环境，一个做市商作为被动的角色来管理市场的流动性。
+≫   Symax shares were up 4.5 cents, or just over 29 per cent at 20 cents Monday morning on the TSX Venture Exchange. 希姆斯股价涨了4.5分，周一早上创业板块交易市场价格达20分，上涨了29%。
+≫   The S&P/TSX composite index shed 55 points or less than 0.5% to 13, 619, and the S&P 500 dropped 8 points or 0.6% to 1296. 标准普尔/多伦多证交所综合指数下跌55点或低于0.5%，到13619点，标准普尔500指数下跌8点或0.6%，到1296点。
+
