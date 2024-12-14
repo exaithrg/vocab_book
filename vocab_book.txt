@@ -26871,3 +26871,123 @@ CET4 TEM8
 4. [usu passive] If a horse or other animal is harnessed, a harness is put on it, especially so that it can pull a carriage, cart, or plough. 给…套上挽具
    ≫   On Sunday the horses were harnessed to a heavy wagon for a day-long ride over the border.  星期天这些马被套在一辆沉重的货车上，踏上长达一天的旅程越过边境。
 
+========================================================================
+>>> retrival
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> retrieve
+------------------------------------------------------------------------
+retrieve    [美 rɪ'triv / 英 rɪ'triːv]
+vt. [计] 检索；恢复；重新得到
+vi. 找回猎物
+n. [计] 检索；恢复，取回
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+
+========================================================================
+>>> retrieval
+------------------------------------------------------------------------
+retrieval    [美 rɪ'trivl / 英 rɪ'triːvl]
+n. 检索；恢复；取回；拯救
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The retrieval of information from a computer is the process of getting it back. (电脑中信息的) 读取
+   ≫   ...electronic storage and retrieval systems.  …电子存储和读取系统。
+2. (N-UNCOUNT) The retrieval of something is the process of getting it back from a particular place, especially from a place where it should not be. 找回; 取回
+   ≫   Its real purpose is the launching and retrieval of small aeroplanes in flight.  它的真正目的是发射和找回飞行中的小型飞机。
+
+========================================================================
+>>> retreat
+------------------------------------------------------------------------
+retreat    [美 rɪ'trit / 英 rɪ'triːt]
+n. 撤退；休息寓所；撤退
+vi. 撤退；退避；向后倾
+vt. 退（棋）；使后退
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you retreat, you move away from something or someone. 退出; 离开
+   ≫   "I've already got a job," I said quickly, and retreated from the room.  “我已经有了工作，”我迅速说道，然后就从房间里退了出来。
+2. (V-I) When an army retreats, it moves away from enemy forces in order to avoid fighting them. 撤退
+   ≫   The French, suddenly outnumbered, were forced to retreat.  法军在人数上突然处于劣势，被迫撤退了。
+3. (N-VAR) Retreat is also a noun. 撤退
+   ≫   In June 1942, the British 8th Army was in full retreat.  1942年6月，英军第8军全线撤退。
+4. (V-I) If you retreat from something such as a plan or a way of life, you give it up, usually in order to do something safer or less extreme. 放弃
+   ≫   She retreated from public life.  她放弃了社会生活。
+5. (N-VAR) Retreat is also a noun. 放弃
+   ≫   The president's remarks appear to signal that there will be no retreat from his position.  总统的话似乎暗示他不会放弃自己的职位。
+6. (N-COUNT) A retreat is a quiet, isolated place that you go to in order to rest or to do things in private. 隐居处; 休养处
+   ≫   He spent yesterday hidden away in his country retreat.  他躲在乡间的休养地度过了昨天。
+
+========================================================================
+>>> rehearse
+------------------------------------------------------------------------
+rehearse    [美 rɪ'hɝs / 英 rɪ'hɜːs]
+vt. 排练；预演
+vi. 排练；演习
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When people rehearse a play, dance, or piece of music, they practise it in order to prepare for a performance. 排练
+   ≫   In his version, a group of actors are rehearsing a play about Joan of Arc.  按他说，一群演员正在排练一出关于圣女贞德的戏。
+   ≫   Tens of thousands of people have been rehearsing for the opening ceremony in the new stadium.  数万人一直在新体育场里为开幕式进行排练。
+2. (V-T) If you rehearse something that you are going to say or do, you silently practise it by imagining that you are saying or doing it. 在心里预演
+   ≫   Anticipate any tough questions and rehearse your answers.  事先预想会有任何难的问题，然后在心里预演你的答复。
+
+========================================================================
+>>> Joan of Arc
+------------------------------------------------------------------------
+Joan of Arc
+圣女贞德（法国民族女英雄）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Joan of Arc was burnt at the stake. 圣女贞德被处以火刑。《牛津词典》
+≫   Joan of Arc was finally canonized by Pope Benedict XV in 1920. 圣女贞德最终在1920年被教皇本笃十五世追封为圣徒。《柯林斯英汉双解大词典》
+≫   In his version, a group of actors are rehearsing a play about Joan of Arc. 按他说，一群演员正在排练一出关于圣女贞德的戏。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> sadomasochism
+------------------------------------------------------------------------
+sadomasochism    [美 'sedo'mæsə'kɪzəm / 英 ,seɪdəʊ'mæsəkɪz(ə)m]
+n. 被虐待性变态；施虐受虐狂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Sadomasochism is the enjoyment of hurting people and being hurt. 施虐受虐狂症
+   ≫   ...the sadomasochism of the Marquis de Sade.  ...萨德侯爵的施虐受虐狂症。
+2. (N-COUNT) sadomasochist
+   ≫   ...an island resort where sadomasochists can act out their sexual fantasies.  ...一个施虐受虐狂们可以实施其性幻想的岛屿度假地。
+
+========================================================================
+>>> utilization
+------------------------------------------------------------------------
+utilization    [美 ˌjuːtəlaɪ'zeɪʃn / 英 ,juːtɪlaɪ'zeɪʃən]
+n. 利用，使用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   By looking at the individual process utilization within a DPAR, we can see what impact these tasks have on our data. 通过查看 DPAR 中个别进程使用情况，我们可以看到这些任务对我们的数据产生什么影响。
+≫   For someone to realize the value of information, you need to organize data to permit rapid discovery and utilization. 要使某人实现信息的价值，您需要相应地组织数据以允许快速的发现和利用。
+≫   To get the time the contributor needs, we should consider the utilization rate of the contributor. 为了得到操作者所需要的时间，我们应该考虑操作者的使用频率。
+
+========================================================================
+>>> swizzing
+------------------------------------------------------------------------
+swizz    [英 swɪz / 美 swɪz]
+n. 欺骗；诈取
+vt. 欺骗；使上当
+alsoswizz
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a swindle or disappointment; swizzle 欺骗 [英国英语] [非正式]
+
+========================================================================
+>>> swizz
+------------------------------------------------------------------------
+swizz    [英 swɪz / 美 swɪz]
+n. 欺骗；诈取
+vt. 欺骗；使上当
+alsoswizz
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a swindle or disappointment; swizzle 欺骗 [英国英语] [非正式]
+
