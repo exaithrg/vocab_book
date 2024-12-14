@@ -30213,3 +30213,24 @@ abbr. 多伦多证券交易所；试验用电信卫星（Telecommunications Sate
 ≫   Symax shares were up 4.5 cents, or just over 29 per cent at 20 cents Monday morning on the TSX Venture Exchange. 希姆斯股价涨了4.5分，周一早上创业板块交易市场价格达20分，上涨了29%。
 ≫   The S&P/TSX composite index shed 55 points or less than 0.5% to 13, 619, and the S&P 500 dropped 8 points or 0.6% to 1296. 标准普尔/多伦多证交所综合指数下跌55点或低于0.5%，到13619点，标准普尔500指数下跌8点或0.6%，到1296点。
 
+========================================================================
+>>> staellite
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> satellite
+------------------------------------------------------------------------
+satellite    [美 'sætəlaɪt / 英 'sætəlaɪt]
+n. 卫星；人造卫星；随从；卫星国家
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also 'by' N] A satellite is an object which has been sent into space in order to collect information or to be part of a communications system. Satellites move continually around the earth or around another planet. 人造卫星
+   ≫   The rocket launched two communications satellites.  火箭发射了两颗通信卫星。
+2. [ADJ n] Satellite television is broadcast using a satellite. 卫星的
+   ≫   They have four satellite channels.  他们有4个卫星频道。
+3. (N-COUNT) A satellite is a natural object in space that moves around a planet or star. 卫星
+   ≫   ...the satellites of Jupiter.  …木星的卫星。
+4. (N-COUNT) You can refer to a country, area, or organization as a satellite when it is controlled by or depends on a larger and more powerful one. 卫星国; 附属区; 卫星组织
+   ≫   Some companies are outfitting their satellite offices with wireless LANs.  一些公司正在为其办事处装备无线局域网。
+
