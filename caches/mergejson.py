@@ -2,30 +2,41 @@ import os
 import json
 from collections import defaultdict
 from datetime import datetime
+import glob
 
-# 获取当前日期并格式化为字符串
-current_date = datetime.now().strftime('%Y%m%d')
+# Get current date and time formatted as a string including year, month, day, hour, minute, second
+current_datetime = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 
-# 定义需要合并的JSON文件路径
-json_files = [
-    'counter-202411.json',
-    'counter-202412_ISCL404.json',
-    'counter-202412.json'
-]
+# Use glob module to automatically retrieve all JSON files in the current directory starting with 'counter-'
+json_files = glob.glob('counter-*.json')
 
-# 创建一个默认为整数0的字典来存储合并后的数据
-merged_data = defaultdict(int)
+if not json_files:
+    print("No 'counter-' prefixed .json files found for merging.")
+else:
+    # Print the list of files that are about to be merged
+    print("The following files will be merged:")
+    for file in json_files:
+        print(f"  - {file}")
+    
+    # Prompt user for confirmation
+    confirmation = input("Please enter 'yes' to confirm and proceed with the merge: ").strip().lower()
+    
+    if confirmation == 'yes':
+        # Create a dictionary with default integer 0 to store merged data
+        merged_data = defaultdict(int)
 
-# 遍历所有JSON文件并合并数据
-for file in json_files:
-    with open(file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-        for key, value in data.items():
-            merged_data[key] += value
+        # Iterate over all JSON files and merge the data
+        for file in json_files:
+            with open(file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                for key, value in data.items():
+                    merged_data[key] += value
 
-# 将合并后的结果保存到一个新的JSON文件中，文件名包含当前日期，并且按键排序
-output_file = f'merged_counter-{current_date}.json'
-with open(output_file, 'w', encoding='utf-8') as f:
-    json.dump(dict(merged_data), f, ensure_ascii=False, indent=4, sort_keys=True)
+        # Save the merged result to a new JSON file with a detailed timestamp in the filename, sorted by keys
+        output_file = f'merged_vocab_counter_{current_datetime}.json'
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(dict(merged_data), f, ensure_ascii=False, indent=4, sort_keys=True)
 
-print(f"所有JSON文件已成功合并并排序后保存到 '{output_file}' 中")
+        print(f"All JSON files have been successfully merged and saved to '{output_file}'")
+    else:
+        print("Operation cancelled.")
