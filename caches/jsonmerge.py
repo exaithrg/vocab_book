@@ -5,6 +5,12 @@ from datetime import datetime
 import glob
 import pandas as pd
 
+# Helper function to chunk the list into groups of n items
+def chunk_list(lst, n):
+    """Yield successive n-sized chunks from lst."""
+    for i in range(0, len(lst), n):
+        yield lst[i:i + n]
+
 # Get current date and time formatted as a string including year, month, day, hour, minute, second
 current_datetime = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 
@@ -46,9 +52,14 @@ else:
             with open(json_output_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
 
-            # Convert dictionary to DataFrame and save as CSV
-            df = pd.DataFrame(list(data.items()), columns=['Word', 'Frequency'])
-            df.to_csv(csv_output_file, index=False, encoding='utf-8')
+            # Convert dictionary to flat list of word-frequency pairs and group them into chunks of 6
+            flat_list = [item for pair in data.items() for item in pair]
+            chunked_list = list(chunk_list(flat_list, 6))
+
+            # Save as CSV without header
+            with open(csv_output_file, 'w', encoding='utf-8', newline='') as f:
+                for chunk in chunked_list:
+                    f.write(','.join(map(str, chunk)) + '\n')
 
             return json_output_file, csv_output_file
 
