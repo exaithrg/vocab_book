@@ -27452,3 +27452,22 @@ adj. 多浪的；波动起伏的
 2. (ADJ) A wavy line has a series of regular curves along it. 波纹状的
    ≫   The boxes were decorated with a wavy gold line.  这些盒子上装饰了一条波纹状的金边。
 
+========================================================================
+>>> potpourri
+------------------------------------------------------------------------
+potpourri    [英 pəʊ'pʊərɪ; -'riː; pɒt'pʊərɪ / 美 ,popʊ'ri]
+n. 百花香；混合物；杂曲；大杂烩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Potpourri is a mixture of dried petals and leaves from different flowers. Potpourri is used to make rooms smell pleasant. 百花香; 各种不同的干花瓣和叶子的混合物，用以使室内空气芬芳
+2. [usu N 'of' n] A potpourri of things is a collection of various items that were not originally intended to form a group. 混杂物; 杂烩
+   ≫   ...a potpourri of architectural styles from all over the world.  ...一种世界各地建筑风格的荟萃。
+
+========================================================================
+>>> lassi
+------------------------------------------------------------------------
+lassi    [美 ˈlæsi / 英 ˈlæsi]
+n. 拉西酸奶奶昔，印度开胃甜饮料，冷饮
+n. （Lassi）（美、意、瑞典、阿根廷）拉西（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a cold drink made with yoghurt or buttermilk and flavoured with sugar, salt, or a mild spice (一种由酸奶或酪乳加入糖、盐或清淡配料制作的)冷饮
+
