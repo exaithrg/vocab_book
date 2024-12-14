@@ -30234,3 +30234,21 @@ CET4 TEM4
 4. (N-COUNT) You can refer to a country, area, or organization as a satellite when it is controlled by or depends on a larger and more powerful one. 卫星国; 附属区; 卫星组织
    ≫   Some companies are outfitting their satellite offices with wireless LANs.  一些公司正在为其办事处装备无线局域网。
 
+========================================================================
+>>> vulnerability
+------------------------------------------------------------------------
+vulnerability    [美 ,vʌlnərə'bɪləti / 英 ,vʌlnərə'bɪlətɪ]
+n. 易损性；弱点
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This points to another vulnerability. 这指的是另一弱点。
+≫   But you also notice the sense of limitation and the vulnerability associated with the physical state of virginity here. 但是你们也要注意到限制和弱点的意义所在,那是与身体的贞节状态相联系的。
+≫   Even if you did everything that I would do, we would still have a vulnerability to financial crises. 即使你做了我说的所有事情，我们还是有弱点以至于金融危机趁虚而入的。
+
+========================================================================
+>>> security vulnerability
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：19964
+security vulnerability
+安全漏洞：指计算机系统或网络中存在的一个缺陷，可能被恶意攻击者利用，从而导致系统或数据的损害。
+
