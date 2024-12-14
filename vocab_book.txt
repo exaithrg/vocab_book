@@ -29592,3 +29592,152 @@ CET4 TEM8
 1. [usu ADJ n] A heterogeneous group consists of many different types of things or people. 由很多种类组成的
    ≫   ...a rather heterogeneous collection of studies from diverse origins.  …来自各种不同渠道的一系列种类繁多的研究。
 
+========================================================================
+>>> emerging
+------------------------------------------------------------------------
+emerging    [ɪ'mɝdʒɪŋ]
+adj. 新兴的；出现的；形成的
+v. 形成；浮现；显露（emerge的ing形式）；由…中脱出
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To emerge means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen. (从视线以外的地方) 出现; 出来
+   ≫   Richard was waiting outside the door as she emerged.  当她出现的时候，理查德正等候在门外。
+   ≫   She then emerged from the courthouse to thank her supporters.  于是她从法院大楼出来向支持者们表示感谢。
+2. (V-I) If you emerge from a difficult or bad experience, you come to the end of it. 摆脱
+   ≫   There is growing evidence that the economy is at last emerging from recession.  有越来越多的迹象表明经济将最终摆脱萧条。
+3. (V-T/V-I) If a fact or result emerges from a period of thought, discussion, or investigation, it becomes known as a result of it. 显露 (事实、结果)
+   ≫   ...the growing corruption that has emerged in the past few years.  …过去几年中暴露出来的日趋严重的腐败。
+   ≫   It soon emerged that neither the July nor August mortgage payment had been collected.  很快显示的是7月和8月的抵押款都没有被收取。
+4. [journalism] If someone or something emerges as a particular thing, they become recognized as that thing. 立足成为
+   ≫   Vietnam has emerged as the world's third-biggest rice exporter.  越南已立足成为世界第三大稻米出口国。
+5. [journalism] When something such as an organization or an industry emerges, it comes into existence. 兴起
+   ≫   ...the new republic that emerged in October 1917.  …1917年10月成立的新共和国。
+
+========================================================================
+>>> Gestapo
+------------------------------------------------------------------------
+Gestapo    [ɡes'tɑ:pəu]
+n. 盖世太保（德国纳粹秘密警察）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the secret state police in Nazi Germany, noted for its brutal methods of interrogation 盖世太保
+
+========================================================================
+>>> catalog
+------------------------------------------------------------------------
+catalog    [美 'kætəlɔg / 英 'kætəlɒɡ]
+n. [图情][计] 目录；登记
+vt. 登记；为…编目录
+vi. 编目录；按确定价格收入目录（等于catalogue）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Next, upload the files to the catalog. 接下来，将文件上传到目录。
+≫   It uses the information from the statistics in the system catalog. 它使用来自系统编目中统计信息中的信息。
+≫   In this discussion, the emphasis is on the catalog asset, but the treatment is applicable to any asset group. 在当前的讨论中，重点是在目录资产上，但是处理方法对于任何资产组都是适用的。
+
+========================================================================
+>>> Granularity
+------------------------------------------------------------------------
+granularity    [英 grænjʊ'lærɪtɪ /  grænjʊ'lærɪtɪ]
+n. 间隔尺寸，[岩] 粒度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the state or quality of being grainy or granular 粒度
+
+========================================================================
+>>> Adolf Hitler
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Adolf Hitler
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4088
+Adolf Hitler
+短语
+
+========================================================================
+>>> variant
+------------------------------------------------------------------------
+variant    [美 'vɛrɪənt / 英 'veərɪənt]
+adj. 不同的；多样的
+n. 变体；转化
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A variant of a particular thing is something that has a different form from that thing, although it is related to it. 变体; 变种
+   ≫   The quagga was a strikingly beautiful variant of the zebra.  白氏斑马是一种极其美丽的斑马变种。
+
+========================================================================
+>>> coordinate
+------------------------------------------------------------------------
+coordinate    [美 ko'ɔrdɪnet / 英 kəʊ'ɔ:dɪneɪt]
+n. 坐标；同等的人或物
+adj. 并列的；同等的
+vt. 调整；整合
+vi. 协调
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you coordinate an activity, you organize the various people and things involved in it. 协调
+   ≫   Government officials visited the earthquake zone on Thursday morning to coordinate the relief effort.  政府官员星期四上午视察了地震灾区以协调救灾工作。
+2. (ADJ) coordinated 协调的
+   ≫   Coalition forces were planning a coordinated effort to attack the drug trade.  联合部队正在计划共同打击毒品买卖。
+   ≫   ...a well-coordinated surprise attack.  …一次完美配合的突袭。
+3. (V-T) If you coordinate the different parts of your body, you make them work together efficiently to perform particular movements. 使 (身体各部位) 协调
+   ≫   You need to coordinate legs, arms, and breathing for the front crawl.  匍匐前进时，你要协调双腿、胳膊和呼吸。
+4. (V-RECIP) If you coordinate clothes or furnishings that are used together, or if they coordinate, they are similar in some way and look nice together. 搭配 (衣服、饰品)
+   ≫   She'll show you how to coordinate pattern and colours.  她会向你展示如何搭配款式和颜色。
+   ≫   Tie it with fabric bows that coordinate with other furnishings.  扎上和其他的饰品相配的布制蝴蝶结。
+5. [技术] The coordinates of a point on a map or graph are the two sets of numbers or letters that you need in order to find that point. 坐标
+   ≫   Can you give me your coordinates?  能给我你的坐标吗？
+
+========================================================================
+>>> orchestrating
+------------------------------------------------------------------------
+orchestrating    ['ɔ:kistreit; -kes-]
+精心策划
+给 ... 配管弦乐曲
+使协调地结合在一起
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone orchestrates an event or situation, you mean that they carefully organize it in a way that will produce the result that they want. 精心组织
+   ≫   The colonel was able to orchestrate a rebellion from inside an army jail.  上校得以在陆军监狱里精心组织了一场叛乱。
+2. (N-UNCOUNT) orchestration 精心的安排
+   ≫   ...his skilful orchestration of latent nationalist feeling.  …他对潜在的民族主义情绪的熟练控制。
+
+========================================================================
+>>> versatile
+------------------------------------------------------------------------
+versatile    [美 'vɝsətl / 英 'vɜːsətaɪl]
+adj. 多才多艺的；通用的，万能的；多面手的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] If you say that a person is versatile, you approve of them because they have many different skills. 多才多艺的
+   ≫   He had been one of the game's most versatile athletes.  他是这次运动会中最有才能的运动员之一。
+2. (N-UNCOUNT) versatility 多才多艺
+   ≫   Aileen stands out for her incredible versatility as an actress.  作为一名女演员，艾琳以其难以置信的多才多艺而出类拔萃。
+3. (ADJ) A tool, machine, or material that is versatile can be used for many different purposes. 用途广泛的
+   ≫   Never before has computing been so versatile.  计算机技术从未像现在这样用途广泛。
+4. (N-UNCOUNT) versatility 用途广泛
+   ≫   Velvet as a fabric is not known for its versatility.  天鹅绒作为一种织物并非以其用途广泛而闻名。
+
+========================================================================
+>>> convex
+------------------------------------------------------------------------
+convex    [美 'kɑnvɛks / 英 'kɒnveks]
+adj. 凸面的；凸圆的
+n. 凸面体；凸状
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Convex is used to describe something that curves outward in the middle. 凸面的
+   ≫   ...the large convex mirror above the fireplace.  ...壁炉上面的大凸面镜子。
+
+========================================================================
+>>> Systematic
+------------------------------------------------------------------------
+systematic    [美 'sɪstə'mætɪk / 英 sɪstə'mætɪk]
+adj. 系统的；体系的；有系统的；[图情] 分类的；一贯的，惯常的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is done in a systematic way is done according to a fixed plan, in a thorough and efficient way. 有计划的
+   ≫   They went about their business in a systematic way.  他们按部就班地做生意。
+2. (ADV) systematically 有计划地
+   ≫   The army has systematically violated human rights.  军队已有计划地侵犯了人权。
+
