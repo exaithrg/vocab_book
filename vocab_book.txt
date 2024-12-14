@@ -27471,3 +27471,1235 @@ n. （Lassi）（美、意、瑞典、阿根廷）拉西（人名）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) a cold drink made with yoghurt or buttermilk and flavoured with sugar, salt, or a mild spice (一种由酸奶或酪乳加入糖、盐或清淡配料制作的)冷饮
 
+========================================================================
+>>> strapped
+------------------------------------------------------------------------
+strapped    [美 stræpt / 英 stræpt]
+adj. 用皮绳捆住的；用皮带装饰的；身无分文的；资金短少的
+v. strap的过去式和过去分词
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft ADJ 'for' n, adv ADJ] If someone is strapped for money, they do not have enough money to buy or pay for the things they want or need. 手头拮据的 → see also
+   ≫   My husband and I are really strapped for cash.  我和我丈夫真的手头很拮据。
+
+========================================================================
+>>> cash strapped
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10659
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> democracies
+------------------------------------------------------------------------
+democracies    [di'mɔkrəsi]
+民主
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Democracy is a system of government in which people choose their rulers by voting for them in elections. 民主政体
+   ≫   The spread of democracy in Eastern Europe appears to have had negative as well as positive consequences.  东欧民主政体的蔓延看来既有消极也有积极的影响。
+2. (N-COUNT) A democracy is a country in which the people choose their government by voting for it. 民主国家
+   ≫   The new democracies face tough challenges.  新生的民主国家面临严峻的挑战。
+
+========================================================================
+>>> clenched
+------------------------------------------------------------------------
+clenched    [klentʃd]
+adj. 紧握的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you clench your fist or your fist clenches, you curl your fingers up tightly, usually because you are very angry. (常指因生气而) 握紧 (拳头)
+   ≫   Alex clenched her fists and gritted her teeth.  亚丽克斯握紧拳头，咬紧牙。
+   ≫   She pulled at his sleeve and he turned on her, fists clenching again before he saw who it was.  她扯了扯他的袖子，他恶汹汹地转过身，在看见她是谁之前又再次握紧了拳头。
+2. (V-T/V-I) When you clench your teeth or they clench, you squeeze your teeth together firmly, usually because you are angry or upset. (常指因生气或不安而) 咬紧 (牙)
+   ≫   Patsy had to clench her jaw to suppress her anger.  帕茜不得不咬紧牙关来压下怒火。
+3. (V-T) If you clench something in your hand or in your teeth, you hold it tightly with your hand or your teeth. 握紧; 咬紧
+   ≫   I clenched the arms of my chair.  我紧紧握住我的椅子扶手。
+
+========================================================================
+>>> clenched fist
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10769
+clenched fist
+紧握的拳头：比喻性地表示紧握的拳头。
+
+========================================================================
+>>> wallowing in
+------------------------------------------------------------------------
+wallow in
+沉溺于：允许自己完全享受某事物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Never have I had such a good excuse for wallowing in deep warm baths. 我从不曾有过这样一个好理由，可以好好地享受个热水澡。《柯林斯英汉双解大词典》
+≫   And again we were wallowing in the swell. 而我们又在摇摆颠簸中晃来晃去。
+≫   It also ensures that you won't sit at home every night wallowing in self-pity. 同时也要保证你不会每天晚上独自一人在家里自我哀悼。
+
+========================================================================
+>>> imperious
+------------------------------------------------------------------------
+imperious    [美 ɪm'pɪrɪəs / 英 ɪm'pɪərɪəs]
+adj. 专横的；迫切的；傲慢的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with v] If you describe someone as imperious, you mean that they have a proud manner and expect to be obeyed. 专横的; 傲慢的; 飞扬跋扈的
+   ≫   Her attitude is imperious at times.  她的态度有时很专横。
+2. (ADV) imperiously
+   ≫   Imperiously she beckoned me out of the room.  她傲慢地挥手把我赶出了房间。
+
+========================================================================
+>>> imperial
+------------------------------------------------------------------------
+imperial    [美 ɪm'pɪrɪəl / 英 ɪm'pɪərɪəl]
+adj. 帝国的；皇帝的；至高无上的；威严的
+n. 纸张尺寸；特等品
+n. (Imperial)人名；(西)因佩里亚尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Imperial is used to refer to things or people that are or were connected with an empire. 帝国的
+   ≫   ...the Imperial Palace in Tokyo.  …东京的皇宫。
+2. [ADJ n] The imperial system of measurement uses inches, feet, yards and miles to measure length, ounces and pounds to measure weight, and pints, quarts and gallons to measure volume. (度量衡) 英制的
+
+========================================================================
+>>> imperviouos
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> impervious
+------------------------------------------------------------------------
+impervious    [美 ɪm'pɝvɪəs / 英 ɪm'pɜːvɪəs]
+adj. 不受影响的，无动于衷的；不能渗透的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu v-link ADJ, usu ADJ 'to' n] If you are impervious to someone's actions, you are not affected or influenced by them. 无动于衷的; 不受影响的
+   ≫   She seems almost impervious to the criticism from all sides.  她好像对各方批评无动于衷。
+2. [oft ADJ 'to' n] Something that is impervious to water, heat, or a particular object is able to resist it or stop it from passing through it. 防渗漏的; 不让穿过的
+   ≫   This also makes the painting impervious to water.  这也使得该幅画能防水。
+
+========================================================================
+>>> empire
+------------------------------------------------------------------------
+empire    [美 'ɛmpaɪr / 英 'empaɪə]
+n. 帝国；帝王统治，君权
+n. (Empire)人名；(法)昂皮尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An empire is a number of individual nations that are all controlled by the government or ruler of one particular country. 帝国
+   ≫   ...the Roman Empire.  …罗马帝国。
+2. (N-COUNT) You can refer to a group of companies controlled by one person as an empire. 企业帝国
+   ≫   ...the global Murdoch media empire.  …默多克环球媒体帝国。
+
+========================================================================
+>>> imperialism
+------------------------------------------------------------------------
+imperialism    [美 ɪm'pɪrɪəlɪzəm / 英 ɪm'pɪərɪəlɪz(ə)m]
+n. 帝国主义
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Imperialism is a system in which a rich and powerful country controls other countries, or a desire for control over other countries. 帝国主义
+   ≫   ...nations or groups which have been victims of imperialism.  …沦为帝国主义牺牲品的国家或集团。
+
+========================================================================
+>>> democracy
+------------------------------------------------------------------------
+democracy    [美 dɪˈmɑkrəsi / 英 dɪ'mɒkrəsɪ]
+n. 民主，民主主义；民主政治
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Democracy is a system of government in which people choose their rulers by voting for them in elections. 民主政体
+   ≫   The spread of democracy in Eastern Europe appears to have had negative as well as positive consequences.  东欧民主政体的蔓延看来既有消极也有积极的影响。
+2. (N-COUNT) A democracy is a country in which the people choose their government by voting for it. 民主国家
+   ≫   The new democracies face tough challenges.  新生的民主国家面临严峻的挑战。
+
+========================================================================
+>>> constitution
+------------------------------------------------------------------------
+constitution    [美 'kɑnstə'tʊʃən / 英 kɒnstɪ'tjuːʃ(ə)n]
+n. 宪法；体制；章程；构造；建立，组成；体格
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The constitution of a country or organization is the system of laws which formally states people's rights and duties. 宪法; 章程
+   ≫   The king was forced to adopt a new constitution which reduced his powers.  国王被迫通过了削减其权力的新宪法。
+2. (N-COUNT) Your constitution is your health. 体格
+   ≫   He must have an extremely strong constitution.  他必有极为强健的体格。
+
+========================================================================
+>>> election
+------------------------------------------------------------------------
+election    [美 ɪ'lɛkʃən / 英 ɪ'lekʃ(ə)n]
+n. 选举；当选；选择权；上帝的选拔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An election is a process in which people vote to choose a person or group of people to hold an official position. 选举
+   ≫   ...Poland's first fully free elections for more than fifty years.  …五十多年来波兰首次完全自由选举。
+   ≫   During his election campaign he promised to put the economy back on its feet.  在竞选活动期间他承诺要重振经济。
+2. [usu with poss] The election of a particular person or group of people is their success in winning an election. 当选
+   ≫   ...the election of the Democrat candidate last year.  …去年民主党候选人的当选。
+   ≫   ...Vaclav Havel's election as president of Czechoslovakia.  …瓦茨拉夫·哈维尔当选捷克斯洛伐克总统。
+
+========================================================================
+>>> parliament
+------------------------------------------------------------------------
+parliament    [美 'pɑrləmənt / 英 'pɑːləm(ə)nt]
+n. 议会，国会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-PROPER) The parliament of some countries is the group of people who make or change its laws, and decide what policies the country should follow. 议会
+   ≫   The Bangladesh Parliament today approved the policy, but it has not yet become law.  孟加拉共和国议会今天批准了这项政策，但它还没有成为法律。
+2. → see also
+3. (N-COUNT) A particular parliament is a particular period of time in which a parliament is doing its work, between two elections or between two periods of holiday. 一届议会的任期; (两次大选之间的) 一届议会
+   ≫   The legislation is expected to be passed in the next parliament.  这项法规有望在下届议会中通过。
+
+========================================================================
+>>> congress
+------------------------------------------------------------------------
+congress    [美 'kɑŋɡrəs / 英 'kɒŋgres]
+n. 国会；代表大会；会议；社交
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) A congress is a large meeting that is held to discuss ideas and policies. 代表大会
+   ≫   A lot has changed after the party congress.  该党代表大会后很多都变了。
+
+========================================================================
+>>> legislatino
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> legislation
+------------------------------------------------------------------------
+legislation    [美 ,lɛdʒɪs'leʃən / 英 ledʒɪs'leɪʃ(ə)n]
+n. 立法；法律
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Legislation consists of a law or laws passed by a government. 立法
+   ≫   ...a letter calling for legislation to protect women's rights.  …呼吁立法保护妇女权利的一封信。
+
+========================================================================
+>>> executive
+------------------------------------------------------------------------
+executive    [美 ɪɡ'zɛkjətɪv / 英 ɪgˈzekjʊtɪv]
+adj. 行政的；经营的；执行的，经营管理的
+n. 总经理；执行委员会；执行者；经理主管人员
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An executive is someone who is employed by a business at a senior level. Executives decide what the business should do, and ensure that it is done. 执行总监
+   ≫   ...an advertising executive.  …一位广告执行总监。
+2. [ADJ n] The executive sections and tasks of an organization are concerned with the making of decisions and with ensuring that decisions are carried out. 执行的
+   ≫   A successful job search needs to be as well organized as any other executive task.  一次成功的寻职要像任何其他执行任务一样精心安排。
+3. [ADJ n] Executive goods are expensive products designed or intended for executives and other people at a similar social or economic level. 高级的
+   ≫   ...an executive briefcase.  …一个高级公文包。
+4. ['the' N, N n] The executive committee or board of an organization is a committee within that organization that has the authority to make decisions and ensures that these decisions are carried out. 执行委员会
+   ≫   They opted to put an executive committee in charge of the project rather than a single person.  他们选择由一个执行委员会而非个人来负责这个项目。
+5. ['the' N, N n] The executive is the part of the government of a country that is concerned with carrying out decisions or orders, as opposed to the part that makes laws or the part that deals with criminals. (政府的) 行政部门
+   ≫   The government, the executive and the judiciary are supposed to be separate.  政府、行政和司法应该彼此分立。
+
+========================================================================
+>>> judiciary
+------------------------------------------------------------------------
+judiciary    [美 dʒu'dɪʃɪɛri / 英 dʒʊ'dɪʃ(ə)rɪ]
+n. 司法部；法官；司法制度
+adj. 司法的；法官的；法院的
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The judiciary is the branch of authority in a country that is concerned with law and the legal system. 司法部
+   ≫   The judiciary must think very hard before jailing nonviolent offenders.  司法部在把非暴力罪犯投入监狱之前一定要慎重考虑。
+
+========================================================================
+>>> citizen
+------------------------------------------------------------------------
+citizen    [美 'sɪtɪzn / 英 'sɪtɪz(ə)n]
+n. 公民；市民；老百姓
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone who is a citizen of a particular country is legally accepted as belonging to that country. 公民
+   ≫   ...American citizens.  …美国公民。
+2. (N-COUNT) The citizens of a town or city are the people who live there. 市民
+   ≫   ...the citizens of Buenos Aires.  …布宜诺斯艾利斯的市民。
+3. → see also
+
+========================================================================
+>>> citizenship
+------------------------------------------------------------------------
+citizenship    [美 'sɪtɪzənʃɪp / 英 'sɪtɪzən,ʃɪp]
+n. [法] 公民身份，公民资格；国籍；公民权
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you have citizenship of a country, you are legally accepted as belonging to it. 公民身份
+   ≫   After 15 years in the U.S., he has finally decided to apply for American citizenship.  在美国住了15年后，他最终决定申请美国的公民身份。
+2. (N-UNCOUNT) Citizenship is the fact of belonging to a community because you live in it, and the duties and responsibilities that this brings. 公民义务和责任
+   ≫   Their German peers had a more developed sense of citizenship.  他们的德国同龄人对于公民的义务和责任有更成熟的认识。
+
+========================================================================
+>>> civilization
+------------------------------------------------------------------------
+civilization    [美 ,sɪvələ'zeʃən / 英 ˌsɪvɪlaɪˈzeɪʃən]
+n. 文明；文化
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A civilization is a human society with its own social organization and culture. 文明社会
+   ≫   The ancient civilizations of Central and Latin America were founded upon corn.  中美洲和拉丁美洲的古代文明社会是建立在玉米之上的。
+2. (N-UNCOUNT) Civilization is the state of having an advanced level of social organization and a comfortable way of life. 文明
+   ≫   ...our advanced state of civilization.  …我们高度的文明形态。
+
+========================================================================
+>>> civil
+------------------------------------------------------------------------
+civil    [美 'sɪvl / 英 'sɪv(ə)l; -ɪl]
+adj. 公民的；民间的；文职的；有礼貌的；根据民法的
+n. (Civil)人名；(土)吉维尔；(法)西维尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use civil to describe events that happen within a country and that involve the different groups of people in it. 国民的
+   ≫   ...civil unrest.  …民众的骚乱。
+2. (ADJ) You use civil to describe people or things in a country that are not connected with its armed forces. 民用的
+   ≫   ...the U.S. civil aviation industry.  …美国民用航空工业。
+3. [ADJ n] You use civil to describe things that are connected with the state rather than with a religion. 民政的
+   ≫   They were married on August 9 in a civil ceremony in Venice.  他们于8月9日在威尼斯通过民政仪式结了婚。
+4. [ADJ n] You use civil to describe the rights that people have within a society. 公民的
+   ≫   ...a United Nations covenant on civil and political rights.  …一份关于民权和政治权利的联合国公约。
+5. [正式] Someone who is civil is polite in a formal way, but not particularly friendly. 文明的
+   ≫   As visitors, the least we can do is be civil to the people in their own land.  作为游客，我们至少要能做到文明地对待当地人民。
+6. (N-UNCOUNT) civility 礼貌
+   ≫   ...civility to underlings.  …对下属的礼待。
+
+========================================================================
+>>> civil rights
+------------------------------------------------------------------------
+civil rights    ['sivəlraits]
+民事权利，公民权利
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Civil rights are the rights that people have in a society to equal treatment and equal opportunities, whatever their race, sex, or religion. 民权
+   ≫   ...the civil rights movement.  …民权运动。
+
+========================================================================
+>>> human rights
+------------------------------------------------------------------------
+human rights
+人权
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Human rights are basic rights which many societies believe that all people should have. 人权
+   ≫   In the treaty both sides pledge to respect human rights.  双方在条约中都许诺尊重人权。
+
+========================================================================
+>>> sovereignty
+------------------------------------------------------------------------
+sovereignty    [美 'sɑvrənti / 英 'sɒvrɪntɪ]
+n. 主权；主权国家；君主；独立国
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Sovereignty is the power that a country has to govern itself or another country or state. 统治权
+   ≫   Concern to protect national sovereignty is far from new.  对捍卫国家主权的关注绝不是新话题。
+
+========================================================================
+>>> federalism
+------------------------------------------------------------------------
+federalism    [美 'fɛdərəl,ɪzəm / 英 'fedərəlɪz(ə)m]
+n. 联邦制；联邦主义
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Federalism is belief in or support for a federal system of government, or this system itself. 联邦主义
+   ≫   They argue that the amendment undermines Canadian federalism.  他们认为这项修改会逐渐损坏加拿大联邦主义。
+
+========================================================================
+>>> decentralization
+------------------------------------------------------------------------
+decentralization    [美 lɪ'zsɛntrəlaɪ'zeʃən / 英 diː,sentrəlaɪ'zeɪʃən]
+n. 分散；非集权化；（人口、工业等的）疏散
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Decentralizations between management and responsibility mechanism of new administrative mode establish the system foundation for the performance evaluation system of public expenditure. 新行政模式下的分权化管理和责任机制为公共财政支出绩效评价制度的建立奠定了制度基础。
+
+========================================================================
+>>> bicameralism
+------------------------------------------------------------------------
+bicameralism    [bai'kæmərə,lizəm]
+n. 两院制；两个议院组成的立法机构
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Federalism, separation of powers, bicameralism, and the electoral system all contribute to the decentralization of power in the United States, which serves the model of pluralist democracy. 联邦制、分权、两院制及选举制都促成美国的政治权力分散，为多元民主政体服务。
+
+========================================================================
+>>> cameralism
+------------------------------------------------------------------------
+cameralism    [美 ˈkæmərəˌlɪzəm]
+n. 重商主义的经济或财政
+
+========================================================================
+>>> camera
+------------------------------------------------------------------------
+camera    [美 'kæmərə / 英 'kæm(ə)rə]
+n. 照相机；摄影机
+n. (Camera)人名；(英、意、西)卡梅拉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A camera is a piece of equipment that is used for taking photographs, making films, or producing television pictures. 照相机; 摄影机
+   ≫   Her grandmother lent her a camera for a school trip to Venice and Egypt.  她的祖母借给她一部相机，让她在学校组织的到威尼斯和埃及的旅行中使用。
+2. (PHRASE) If someone or something is on camera, they are being filmed. 在拍摄中; 上镜头
+   ≫   Fay was so impressive on camera that a special part was written in for her.  镜头中的费伊太令人印象深刻了，因此有一个专门写给她的角色。
+3. (PHRASE) If you do something or if something happens off camera, you do it or it happens when not being filmed. 不在拍摄中
+   ≫   They were anything but friendly off camera, refusing even to take the same lift.  不拍摄时他们根本称不上友好，甚至拒绝乘同一部电梯。
+4. [正式] If a trial is held in camera, the public and the press are not allowed to attend. 不对外公开的
+   ≫   This morning's appeal was held in camera.  今天上午的上诉是不对外公开的。
+
+========================================================================
+>>> bicamera
+------------------------------------------------------------------------
+bicamera
+n. 双镜头摄影机
+
+========================================================================
+>>> monarchy
+------------------------------------------------------------------------
+monarchy    [美 'mɑnɚki / 英 'mɒnəkɪ]
+n. 君主政体；君主国；君主政治
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A monarchy is a system in which a country has a monarch. 君主制
+   ≫   ...a serious debate on the future of the monarchy.  …一场有关君主制未来的重大辩论。
+2. (N-COUNT) A monarchy is a country that has a monarch. 君主国
+   ≫   Britain is a constitutional monarchy.  英国是个君主立宪制国家。
+3. (N-COUNT) The monarchy is used to refer to the monarch and his or her family. 王室
+   ≫   The monarchy has to create a balance between its public and private lives.  王室不得不在公众生活和私生活之间建立一种平衡。
+
+========================================================================
+>>> oligarchy
+------------------------------------------------------------------------
+oligarchy    [美 'ɑlə'gɑrki / 英 'ɒlɪgɑːkɪ]
+n. 寡头政治
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An oligarchy is a small group of people who control and run a particular country or organization. You can also refer to a country which is governed in this way as an oligarchy. 寡头统治集团; 寡头统治国家
+2. (N-UNCOUNT) Oligarchy is a situation in which a country or organization is run by an oligarchy. 寡头统治
+   ≫   ...a protest against imperialism and oligarchy in the region.  ...对该地区帝国主义和寡头统治的抗议。
+
+========================================================================
+>>> authoritarianism
+------------------------------------------------------------------------
+authoritarianism    [美 ə,θɔrə'tɛrɪənɪzəm]
+n. 独裁主义；权力主义
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Authoritarianism is the state of being authoritarian or the belief that people with power, especially the State, have the right to control other people's actions. 独裁主义
+
+========================================================================
+>>> totalitarianism
+------------------------------------------------------------------------
+totalitarianism    [美 ,totælə'tɛrɪən,ɪzəm / 英 ,təʊtælɪ'teərɪənɪzəm]
+n. 极权主义
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Totalitarianism is the ideas, principles, and practices of totalitarian political systems. 极权主义
+
+========================================================================
+>>> fascism
+------------------------------------------------------------------------
+fascism    [美 'fæ'ʃɪzəm / 英 'fæʃɪz(ə)m; -sɪz(ə)m]
+n. 法西斯主义；极端国家主义
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Fascism is a set of right-wing political beliefs that includes strong control of society and the economy by the state, a powerful role for the armed forces, and the stopping of political opposition. 法西斯主义
+   ≫   ...the rise of fascism in the 1930s.  …20世纪30年代法西斯主义的兴起。
+
+========================================================================
+>>> communism
+------------------------------------------------------------------------
+communism    [美 'kɑmjʊ'nɪzəm / 英 'kɒmjʊnɪz(ə)m]
+n. 共产主义
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Communism is the political belief that all people are equal, that there should be no private ownership and that workers should control the means of producing things. 共产主义
+   ≫   ...the ultimate triumph of communism in the world.  …共产主义在全世界的最终胜利。
+
+========================================================================
+>>> socialism
+------------------------------------------------------------------------
+socialism    [美 ˈsoʊʃəlɪz(ə)m / 英 ˈsəʊʃəlɪz(ə)m]
+n. 社会主义，社会主义制度；（马克思主义理论）社会主义社会
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Socialism is a set of political principles whose general aim is to create a system in which everyone has an equal opportunity to benefit from a country's wealth. Under socialism, the country's main industries are usually owned by the state. 社会主义
+
+========================================================================
+>>> capitalism
+------------------------------------------------------------------------
+capitalism    [美 'kæpɪtəlɪzəm / 英 'kæpɪt(ə)lɪz(ə)m]
+n. 资本主义
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Capitalism is an economic and political system in which property, business, and industry are owned by private individuals and not by the state. 资本主义
+   ≫   ...the two fundamentally opposed social systems, capitalism and socialism.  …两种根本对立的社会制度，资本主义与社会主义。
+
+========================================================================
+>>> imperialism
+------------------------------------------------------------------------
+imperialism    [美 ɪm'pɪrɪəlɪzəm / 英 ɪm'pɪərɪəlɪz(ə)m]
+n. 帝国主义
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Imperialism is a system in which a rich and powerful country controls other countries, or a desire for control over other countries. 帝国主义
+   ≫   ...nations or groups which have been victims of imperialism.  …沦为帝国主义牺牲品的国家或集团。
+
+========================================================================
+>>> colonialism
+------------------------------------------------------------------------
+colonialism    [美 kə'lonɪəlɪzəm / 英 kə'ləʊnɪəlɪz(ə)m]
+n. 殖民主义；殖民政策
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Colonialism is the practice by which a powerful country directly controls less powerful countries and uses their resources to increase its own power and wealth. 殖民主义
+   ≫   ...the bitter oppression of slavery and colonialism.  …奴隶制和殖民主义的残酷压迫。
+
+========================================================================
+>>> diplomacy
+------------------------------------------------------------------------
+diplomacy    [美 dɪ'ploməsi / 英 dɪ'pləʊməsɪ]
+n. 外交；外交手腕；交际手段
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Diplomacy is the activity or profession of managing relations between the governments of different countries. 外交
+   ≫   Today's Security Council resolution will be a significant success for American diplomacy.  今天的安理会决议将成为美国外交的一次重大胜利。
+2. (N-UNCOUNT) Diplomacy is the skill of being careful to say or do things which will not offend people. 交际手腕
+   ≫   He stormed off in a fury, and it took all Minnelli's powers of diplomacy to get him to return.  他愤然离去，明内利使尽一切交际手腕才让他回来。
+
+========================================================================
+>>> NGO
+------------------------------------------------------------------------
+ngo
+abbr. 非政府组织（Non-Governmental Organization）；民间组织
+n. (Ngo)人名；(喀)恩戈；(柬)努
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An NGO is an organization which is not run by the government. NGO is an abbreviation for . nongovernmental organization的缩写; 即非政府组织
+
+========================================================================
+>>> transparency
+------------------------------------------------------------------------
+transparency    [美 træns'pærənsi / 英 træn'spær(ə)nsɪ; trɑːn-; -'speə-]
+n. 透明，透明度；幻灯片；有图案的玻璃
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A transparency is a small piece of photographic film with a frame around it which can be projected onto a screen so that you can see the picture. 幻灯片
+   ≫   ...transparencies of masterpieces from Lizzie's art collection.  …莉齐艺术收藏品中一些杰作的幻灯片。
+2. (N-UNCOUNT) Transparency is the quality that an object or substance has when you can see through it. 透明性
+   ≫   Cataracts affect the transparency of the eye's lenses.  白内障影响眼睛晶状体的透明度。
+
+========================================================================
+>>> accountability
+------------------------------------------------------------------------
+accountability    [美 ə,kaʊntə'bɪləti / 英 ə,kaʊntə'bɪlɪtɪ]
+n. 有义务；有责任；可说明性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the course of this column, I suggest some answers to those questions concerning accountability and privacy. 在本专栏中，我对有关可追究性和保密问题给出了一些回答建议。
+≫   But you must balance that need with the need for accountability. 但是你必须在个人需求和责任感两方面做出平衡。
+≫   The principle of accountability can be established when we in India have the laws. 在印度，我们制定了环境法以后就能够建立相关的责任原则。
+
+========================================================================
+>>> Separation of Powers
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12132
+Separation of Powers
+权力分立：一种政治制度，将政府的权力分为立法、行政和司法三个部分，以保持政府权力的平衡和相互制衡。
+
+========================================================================
+>>> Checks and Balances
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12190
+Checks and Balances
+制衡制度：一种允许政府各个分支相互制约、修正或否决行为的制度，以防止任何一个分支过度行使权力或超越职权的情况发生。
+
+========================================================================
+>>> Judicial Review
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12240
+Judicial Review
+司法审查：一种宪法原则，赋予法院系统撤销法律或行政行为的权力，这些行为被法官宣布为违宪。
+
+========================================================================
+>>> suffrage
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12282
+suffrage
+n. 选举权；投票；参政权；代祷；赞成票
+
+========================================================================
+>>> universal suffrage
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12334
+universal suffrage
+普选，即所有成年公民在选举中享有投票权
+
+========================================================================
+>>> referendum
+------------------------------------------------------------------------
+referendum    [美 ,rɛfə'rɛndəm / 英 ,refə'rendəm]
+n. 公民投票权；外交官请示书
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If a country holds a referendum on a particular policy, they ask the people to vote on the policy and show whether or not they agree with it. 公民投票; 全民公决
+   ≫   Estonia said today it too plans to hold a referendum on independence.  爱沙尼亚今天称它也计划要就独立进行全民公决。
+
+========================================================================
+>>> protest
+------------------------------------------------------------------------
+protest    [美 prəˈtɛst;protɛst / 英 prəˈtest;ˈprəʊtest]
+vi. 抗议；断言
+vt. 抗议；断言
+n. 抗议
+adj. 表示抗议的；抗议性的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you protest something or protest against something, you say or show publicly that you object to it. 抗议
+   ≫   They were protesting soaring prices.  他们在抗议不断飞涨的物价。
+2. (N-VAR) A protest is the act of saying or showing publicly that you object to something. 抗议
+   ≫   The opposition now seems too weak to stage any serious protests against the government.  反对党现在似乎太弱小，无力针对政府组织什么重大的抗议。
+   ≫   The Mexican president cancelled a trip to Texas in protest at the state's execution of a Mexican national.  墨西哥总统取消了得克萨斯之行，以抗议该州对一名墨西哥侨民的处决。
+3. (V-T) If you protest that something is the case, you insist that it is the case, when other people think that it may not be. 断言
+   ≫   When we tried to protest that Mo was beaten up they didn't believe us.  当我们坚持说莫遭到了毒打时，他们都不相信。
+   ≫   "I never said any of that to her," he protested.  “我从来没有对她说过那种话，”他断然否认。
+
+========================================================================
+>>> revolution
+------------------------------------------------------------------------
+revolution    [英 revə'luːʃ(ə)n / 美 'rɛvə'lʊʃən]
+n. 革命；旋转；运行；循环
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A revolution is a successful attempt by a large group of people to change the political system of their country by force. 革命
+   ≫   The period since the revolution has been one of political turmoil.  自革命以来的这一段时期是一个政治动荡的时期。
+2. (N-COUNT) A revolution in a particular area of human activity is an important change in that area. 重大变革
+   ≫   The nineteenth century witnessed a revolution in ship design and propulsion.  19世纪经历了船舶设计和推进上的一次重大变革。
+
+========================================================================
+>>> evolution
+------------------------------------------------------------------------
+evolution    [美 ˌɛvəˈluʃən; (occas.) ˌ ivəˈluʃən / 英 ,iːvə'luːʃ(ə)n; 'ev-]
+n. 演变；进化论；进展
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Evolution is a process of gradual change that takes place over many generations, during which species of animals, plants, or insects slowly change some of their physical characteristics. 进化
+   ≫   ...the evolution of plants and animals.  …动植物的进化。
+2. [正式] Evolution is a process of gradual development in a particular situation or thing over a period of time. 演化; 发展
+   ≫   ...a crucial period in the evolution of modern physics.  …现代物理学发展过程中的一个关键时期。
+
+========================================================================
+>>> reform
+------------------------------------------------------------------------
+reform    [英 rɪ'fɔːm / 美 rɪ'fɔrm]
+n. 改革，改良；改正
+vt. 改革，革新；重新组成
+vi. 重组；改过
+adj. 改革的；改革教会的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Reform consists of changes and improvements to a law, social system, or institution. A reform is an instance of such a change or improvement. 改革; 改良
+   ≫   The party embarked on a programme of economic reform.  这个政党开始了一个经济改革的计划。
+2. (V-T) If someone reforms something such as a law, social system, or institution, they change or improve it. 改革; 改良
+   ≫   ...his plans to reform the country's economy.  …他改革国家经济的计划。
+3. (V-T/V-I) When someone reforms or when something reforms them, they stop doing things that society does not approve of, such as breaking the law or drinking too much alcohol. 改造; 改过自新
+   ≫   When his court case was coming up, James promised to reform.  当他的案件即将被审理时，詹姆斯承诺要改过自新。
+4. (ADJ) reformed 改过自新的
+   ≫   ...a reformed alcoholic.  …一个改过自新的酗酒者。
+
+========================================================================
+>>> sanctions
+------------------------------------------------------------------------
+sanctions    ['sæŋkʃən]
+n. 制裁；处罚（sanction的复数）；制发
+v. 批准；对…实行制裁；赞许（sanction的三单形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone in authority sanctions an action or practice, they officially approve of it and allow it to be done. 批准; 认可
+   ≫   He may now be ready to sanction the use of force.  他或许现在正准备批准使用武力。
+2. (N-UNCOUNT) Sanction is also a noun. 批准; 认可
+   ≫   ...a newspaper run by citizens without the sanction of the government.  …未经政府许可的一家民办报纸。
+3. (N-PLURAL) Sanctions are measures taken by countries to restrict trade and official contact with a country that has broken international law. 国际制裁
+   ≫   The continued abuse of human rights has now led the United States to impose sanctions against the regime.  对人权的不断践踏现已导致美国对该政权实施国际制裁。
+
+========================================================================
+>>> economic sanctions
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12566
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> immunity
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12609
+immunity
+n. 免疫力；免除，豁免 [ 复数 immunities ]
+
+========================================================================
+>>> diplomatic
+------------------------------------------------------------------------
+diplomatic    [英 dɪplə'mætɪk / 美 ,dɪplə'mætɪk]
+adj. 外交的；外交上的；老练的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Diplomatic means relating to diplomacy and diplomats. 外交的
+   ≫   ...before the two countries resume full diplomatic relations.  …在两国全面恢复外交关系之前。
+2. (ADV) diplomatically 外交地
+   ≫   ...a growing sense of doubt that the conflict can be resolved diplomatically.  …对该冲突能用外交手段得以解决的不断增加的怀疑。
+3. (ADJ) Someone who is diplomatic is careful to say or do things without offending people. 圆通得体的
+   ≫   She is very direct. I tend to be more diplomatic, I suppose.  她很直率。我觉得我更圆通些。
+4. [ADV with v] diplomatically 圆通得体地
+   ≫   "I really like their sound, although I'm not crazy about their lyrics," he says, diplomatically.  “我非常喜欢他们的声音，但不太喜欢他们的歌词，”他很圆滑地说。
+
+========================================================================
+>>> diplomatic immunity
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12695
+diplomatic immunity
+n. 外交豁免权
+
+========================================================================
+>>> peacekeeping
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12742
+peacekeeping
+n. 维护和平；停火协议的执行 adj. 维护和平的
+
+========================================================================
+>>> multilateralism
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12789
+multilateralism
+n. 多边主义
+
+========================================================================
+>>> campaign
+------------------------------------------------------------------------
+campaign    [美 kæm'pen / 英 kæm'peɪn]
+vi. 作战；参加竞选；参加活动
+n. 运动；活动；战役
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A campaign is a planned set of activities that people carry out over a period of time in order to achieve something such as social or political change. (有计划的) 活动; 运动
+   ≫   During his election campaign he promised to put the economy back on its feet.  竞选活动期间，他许诺要致力于恢复经济。
+   ≫   ...a campaign to improve the training of staff.  …改进员工培训的一个活动。
+2. (N-COUNT) In a war, a campaign is a series of planned movements carried out by armed forces. 一系列军事行动; 战役
+   ≫   The allies are intensifying their air campaign.  盟军在加强他们的空中军事活动。
+3. (V-I) If someone campaigns for something, they carry out a planned set of activities over a period of time in order to achieve their aim. 从事运动
+   ≫   We are campaigning for law reform.  我们正从事法律改革运动。
+4. → see also
+
+========================================================================
+>>> poll
+------------------------------------------------------------------------
+poll    [美 pol / 英 pəʊl]
+n. 投票；民意测验；投票数；投票所
+vt. 投票；剪短；对…进行民意测验；获得选票
+vi. 投票
+adj. 无角的；剪过毛的；修过枝的
+n. (Poll)人名；(德、匈、罗、英)波尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A poll is a survey in which people are asked their opinions about something, usually in order to find out how popular something is or what people intend to do in the future. 民意测验
+   ≫   Polls show that the European treaty has gained support in Denmark.  民意测验显示，欧洲条约已经在丹麦获得支持。
+   ≫   We are doing a weekly poll on the president, and clearly his popularity has declined.  我们正在对总统进行每周一次的民意测验，很显然他的受欢迎度已经下降了。
+2. → see also
+3. [usu passive] If you are polled on something, you are asked what you think about it as part of a survey. 对…进行民意测验
+   ≫   More than 18,000 people were polled.  18000多人接受了民意测验。
+   ≫   Audiences were going to be polled on which of three pieces of contemporary music they liked best.  听众将就3首现代乐曲中最喜欢哪一首接受民意调查。
+4. (N-PLURAL) The polls means an election for a country's government, or the place where people go to vote in an election. 政治大选; 投票地点
+   ≫   Incumbent officeholders are difficult to defeat at the polls.  现任官员很难在选举中被击败。
+   ≫   Voters are due to go to the polls on Sunday to elect a new president.  选民们按计划将于周日前往投票站选举新总统。
+5. (V-T) If a political party or a candidate polls a particular number or percentage of votes, they get that number or percentage of votes in an election. 获得…选票
+   ≫   The result showed he had polled enough votes to force a second ballot.  结果显示他获得了足够的选票来促使第二轮选举。
+6. → see also
+
+========================================================================
+>>> platform
+------------------------------------------------------------------------
+platform    [美 'plæt'fɔrm / 英 'plætfɔːm]
+n. 平台；月台，站台；坛；讲台
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A platform is a flat raised structure, usually made of wood, that people stand on when they make speeches or give a performance. 讲台; 舞台
+   ≫   Nick finished what he was saying and jumped down from the platform.  尼克讲完话，从讲台上跳了下来。
+2. (N-COUNT) A platform is a flat raised structure or area, usually one that something can stand on or land on. (用于放置物品或着陆的) 平台
+   ≫   They found a spot on a rocky platform where they could pitch their tents.  他们在一个岩石平台上找到了一处可以搭帐篷的地方。
+3. (N-COUNT) A platform is a structure built for people to work and live on when drilling for oil or gas at sea, or when extracting it. (在海上为钻探石油或天然气而建的) 平台
+   ≫   The platform began to produce oil in 1994.  1994年，这个钻井平台开始产油。
+4. (N-COUNT) A platform in a train or subway station is the area beside the tracks where you wait for or get off a train. (火车或地铁站的) 站台
+   ≫   The train was about to leave and I was not even on the platform.  火车就要开了，而我甚至还没有赶到站台上。
+5. (N-COUNT) The platform of a political party is what they say they will do if they are elected. (政党的) 施政纲领
+   ≫   The party has announced a platform of political and economic reforms.  该党已宣布了一份关于政治和经济改革的施政纲领。
+6. (N-COUNT) If someone has a platform, they have an opportunity to tell people what they think or want. 发表意见的机会
+   ≫   The demonstration provided a platform for a broad cross-section of speakers.  那次示威为广泛代表各方的发言者们提供了一个发表意见的机会。
+
+========================================================================
+>>> incumbent
+------------------------------------------------------------------------
+incumbent    [英 ɪn'kʌmb(ə)nt / 美 ɪn'kʌmbənt]
+adj. 现任的；依靠的；负有职责的
+n. 在职者；现任者；领圣俸者
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] An incumbent is someone who holds an official post at a particular time. 在职者
+   ≫   In general, incumbents have a 94 percent chance of being re-elected.  一般情况下，现任官员有94%的几率会再次当选。
+2. [ADJ n] Incumbent is also an adjective. 在职的
+   ≫   ...the only candidate who defeated an incumbent senator.  …惟一击败了现任参议员的候选人。
+3. [正式] If it is incumbent on or upon you to do something, it is your duty or responsibility to do it. 有责任履行的
+   ≫   She felt it was incumbent on herself to act immediately.  她感到立即采取行动是她义不容辞的责任。
+
+========================================================================
+>>> coalition
+------------------------------------------------------------------------
+coalition    [美 ˌkoʊəˈlɪʃn / 英 ,kəʊə'lɪʃ(ə)n]
+n. 联合；结合，合并
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A coalition is a government consisting of people from two or more political parties. 联合政府
+   ≫   Since June the country has had a coalition government.  从6月起，这个国家有了一个联合政府。
+2. (N-COUNT) A coalition is a group consisting of people from different political or social groups who are cooperating to achieve a particular aim. 联盟
+   ≫   He had been opposed by a coalition of about 50 civil rights, women's, and Latino organizations.  他遭到一个联盟的反对，该联盟由大约五十个民权组织、妇女组织和拉美人组织构成。
+
+========================================================================
+>>> partisan
+------------------------------------------------------------------------
+partisan    [美 'pɑrtəzn / 英 'pɑːtɪzæn; ,pɑːtɪ'zæn]
+adj. 党派的；效忠的；偏袒的；盲目推崇的
+n. 游击队；虔诚信徒；党羽
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is partisan strongly supports a particular person or cause, often without thinking carefully about the matter. 盲目拥护的
+   ≫   He is clearly too partisan to be a referee.  他显然过于偏袒，不适合担任裁判。
+2. (N) an adherent or devotee of a cause, party, etc 事业或党派的追随者
+3. (N-COUNT) Partisans are ordinary people, rather than soldiers, who join together to fight enemy soldiers who are occupying their country. 游击队员
+   ≫   He was rescued by some Italian partisans.  他被一些意大利游击队员救了。
+4. (N) a spear or pike with two opposing axe blades or spikes 戟
+
+========================================================================
+>>> nonpartisan
+------------------------------------------------------------------------
+nonpartisan    [英 ,nɒnpɑːtɪ'zæn /  ,nɒnpɑːtɪ'zæn]
+adj. 无党派的；超党派的
+n. 无党派的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A person or group that is nonpartisan does not support or help a particular political party or group. 无党派的
+   ≫   ...a nonpartisan organization that does economic research for business and labour groups.  ...一个为商业团体和劳工组织做经济研究的无党派组织。
+   ≫   ...the president's Thanksgiving Day call for a nonpartisan approach to the problem.  ...该总统在感恩节发出通过非党派途径解决该问题的呼吁。
+
+========================================================================
+>>> activism
+------------------------------------------------------------------------
+activism    [英 'æktɪvɪz(ə)m / 美 'æktəvɪzəm]
+n. 行动主义；激进主义
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Activism is the process of campaigning in public or working for an organization in order to bring about political or social change. 行动主义
+
+========================================================================
+>>> advocacy
+------------------------------------------------------------------------
+advocacy    [美 'ædvəkəsi / 英 'ædvəkəsɪ]
+n. 主张；拥护；辩护
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Someone's advocacy of a particular action or plan is their act of recommending it publicly. 倡议
+   ≫   I support your advocacy of free trade.  我支持你的自由贸易倡议。
+2. [美国英语] An advocacy group or organization is one that tries to influence the decisions of a government or other authority. 游说 (组织)
+   ≫   Consumer advocacy groups are not so enthusiastic about removing restrictions on the telephone companies.  各顾客游说组织对于取消对电话公司的限制不是那么热衷。
+
+========================================================================
+>>> lobby
+------------------------------------------------------------------------
+lobby    [英 'lɒbɪ / 美 'lɑbi]
+n. 大厅；休息室；会客室；游说议员的团体
+vt. 对……进行游说
+vi. 游说议员
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you lobby someone such as a member of a government or council, you try to persuade them that a particular law should be changed or that a particular thing should be done. 游说
+   ≫   The Wilderness Society lobbied Congress to authorize the Endangered Species Act.  荒野协会游说国会批准《濒危物种法》。
+2. (N-COUNT) A lobby is a group of people who represent a particular organization or campaign, and try to persuade a government or council to help or support them. 游说团体
+   ≫   Agricultural interests are some of the most powerful lobbies in Washington.  农业利益集团是华盛顿最有影响力的游说团体中的一部分。
+3. (N-COUNT) In a hotel or other large building, the lobby is the area near the entrance that usually has corridors and staircases leading off it. 大厅
+   ≫   I met her in the lobby of the museum.  我在博物馆大厅遇到了她。
+
+========================================================================
+>>> grassroots
+------------------------------------------------------------------------
+grassroots    ['græs'rʊts]
+adj. 基层的；草根的；乡村的
+n. 草根；基础
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) The grassroots of an organization or movement are the ordinary people who form the main part of it, rather than its leaders. (组织、运动的) 基层
+   ≫   You have to join the party at grassroots level from what I understand.  据我的了解，你得由基层组织入党。
+
+========================================================================
+>>> town hall
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13167
+town hall
+市政厅；市政府；市民集会所
+
+========================================================================
+>>> disobedience
+------------------------------------------------------------------------
+disobedience    [美 ,dɪsə'bidɪəns / 英 dɪsə'biːdɪəns]
+n. 不服从；违反，违抗
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Disobedience is deliberately not doing what someone tells you to do, or what a rule or law says that you should do. 不服从; 不顺从
+   ≫   A single act of rebellion or disobedience was often enough to seal a woman's fate.  仅一次反抗或不服从的行为在以前就往往足以决定一个女人的命运。
+
+========================================================================
+>>> obedience
+------------------------------------------------------------------------
+obedience    [美 ə'bidjəns / 英 ə'biːdɪəns]
+n. 顺从；服从；遵守
+n. (Obedience)人名；(英)奥贝丁丝
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   You are learning true obedience and deference. 你正在学习真正的顺从和尊重。
+≫   But here in particular he wanted to show them their obedience. 但在这里，他特别地想要告诉他们的是他们的顺从。
+≫   Her obedience in this instance consisted in not remembering what Marius forgot. 她的服从主要在于不去回忆马吕斯已忘却的事。
+
+========================================================================
+>>> petitino
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> petition
+------------------------------------------------------------------------
+petition    [美 pə'tɪʃən / 英 pɪ'tɪʃ(ə)n]
+n. 请愿；请愿书；祈求；[法] 诉状
+vi. 请愿；请求
+vt. 请愿；请求；恳求
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A petition is a document signed by a lot of people that asks a government or other official group to do a particular thing. 请愿书
+   ≫   People feel so strongly that we recently presented the government with a petition signed by 4,500 people.  人们感受如此强烈，以至我们最近向政府提交了一份由4500人签名的请愿书。
+2. [法律] A petition is a formal request made to a court of law for some legal action to be taken. 诉状; (向法院提出的) 申请
+   ≫   His lawyers filed a petition for all charges to be dropped.  他的律师们提出申请要求撤销所有指控。
+3. [法律] If you petition someone in authority, you make a formal request to them. 正式请求
+   ≫   ...couples petitioning for divorce.  …申请离婚的几对夫妇。
+   ≫   All the attempts to petition Congress had failed.  所有向国会提出请求的努力都已失败了。
+
+========================================================================
+>>> protest march
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13338
+protest march
+示威游行队伍 示威游行 抗议游行
+
+========================================================================
+>>> march
+------------------------------------------------------------------------
+march    [英 mɑːtʃ / 美 mɑrtʃ]
+vi. （坚定地向某地）前进；行军，进军；游行示威；进展，进行
+vt. 使前进；使行军
+n. 行进，前进；行军；游行示威；进行曲
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When soldiers march somewhere, or when a commanding officer marches them somewhere, they walk there with very regular steps, as a group. 使齐步走; 行军
+   ≫   A U.S. infantry battalion was marching down the street.  一个美军步兵营沿着街道行进。
+   ≫   Captain Ramirez called them to attention and marched them off to the main camp.  拉米雷斯上校命令他们立正，然后让他们向主营地行进。
+2. (N-COUNT) March is also a noun. 行军
+   ≫   After a short march, the column entered the village.  短途行军之后，队伍进入了村子。
+3. (N-COUNT) a frontier, border, or boundary or the land lying along it, often of disputed ownership (所有权常有争议的)边界; 边疆; 边地 (Also called marchland)
+4. (V-I) When a large group of people march for a cause, they walk somewhere together in order to express their ideas or to protest about something. 游行
+   ≫   The demonstrators then marched through the capital chanting slogans and demanding free elections.  示威者然后穿越首都游行，反复喊着口号，要求进行自由选举。
+5. (N-COUNT) March is also a noun. 游行
+   ≫   Organizers expect up to 300,000 protesters to join the march.  组织者预计多达30万的抗议者参加这次游行。
+6. (N-COUNT) marcher 游行者
+   ≫   Fights between police and marchers lasted for three hours.  警察和游行者之间的战斗持续了3个小时。
+7. (V-I) If you say that someone marches somewhere, you mean that they walk there quickly and in a determined way, for example because they are angry. (坚定地) 快步走
+   ≫   He marched into the kitchen without knocking.  他没敲门就快步走进了厨房。
+8. (V-T) If you march someone somewhere, you force them to walk there with you, for example by holding their arm tightly. 迫使…同行
+   ≫   They were marched through a crocodile-infested area and, if they slowed down, were beaten with sticks.  他们被迫一同穿过一个鳄鱼出没的地区，如果走得慢了，就会遭到棍棒责打。
+9. (N-SING) Themarchof something is its steady development or progress. 进展
+   ≫   It is easy to feel trampled by the relentless march of technology.  技术日新月异的发展容易让人感到压抑。
+10. (N-COUNT) A march is a piece of music with a regular rhythm that you can march to. 进行曲
+   ≫   A military band played Russian marches and folk tunes at the parade last Sunday.  一个军乐团在上周日的游行中演奏了俄罗斯的进行曲和民乐。
+
+========================================================================
+>>> j january
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> january
+------------------------------------------------------------------------
+January    [美 'dʒænjʊ'ɛri / 英 'dʒænjʊ(ə)rɪ]
+n. 一月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) January is the first month of the year in the Western calendar. 1月
+   ≫   We always have snow in January.  我们这里1月份总会下雪。
+
+========================================================================
+>>> february
+------------------------------------------------------------------------
+February    [美 ˈfebrʊerɪ;'fɛbrʊɛrɪ / 英 ˈfebrʊərɪ]
+n. 二月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) February is the second month of the year in the Western calendar. ２月
+   ≫   He joined the Army in February 1943.  他1943年2月参军。
+   ≫   His exhibition opens on February 5.  他的展览2月5日开幕。
+
+========================================================================
+>>> march
+------------------------------------------------------------------------
+march    [美 mɑrtʃ / 英 mɑːtʃ]
+vi. （坚定地向某地）前进；行军，进军；游行示威；进展，进行
+vt. 使前进；使行军
+n. 行进，前进；行军；游行示威；进行曲
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When soldiers march somewhere, or when a commanding officer marches them somewhere, they walk there with very regular steps, as a group. 使齐步走; 行军
+   ≫   A U.S. infantry battalion was marching down the street.  一个美军步兵营沿着街道行进。
+   ≫   Captain Ramirez called them to attention and marched them off to the main camp.  拉米雷斯上校命令他们立正，然后让他们向主营地行进。
+2. (N-COUNT) March is also a noun. 行军
+   ≫   After a short march, the column entered the village.  短途行军之后，队伍进入了村子。
+3. (N-COUNT) a frontier, border, or boundary or the land lying along it, often of disputed ownership (所有权常有争议的)边界; 边疆; 边地 (Also called marchland)
+4. (V-I) When a large group of people march for a cause, they walk somewhere together in order to express their ideas or to protest about something. 游行
+   ≫   The demonstrators then marched through the capital chanting slogans and demanding free elections.  示威者然后穿越首都游行，反复喊着口号，要求进行自由选举。
+5. (N-COUNT) March is also a noun. 游行
+   ≫   Organizers expect up to 300,000 protesters to join the march.  组织者预计多达30万的抗议者参加这次游行。
+6. (N-COUNT) marcher 游行者
+   ≫   Fights between police and marchers lasted for three hours.  警察和游行者之间的战斗持续了3个小时。
+7. (V-I) If you say that someone marches somewhere, you mean that they walk there quickly and in a determined way, for example because they are angry. (坚定地) 快步走
+   ≫   He marched into the kitchen without knocking.  他没敲门就快步走进了厨房。
+8. (V-T) If you march someone somewhere, you force them to walk there with you, for example by holding their arm tightly. 迫使…同行
+   ≫   They were marched through a crocodile-infested area and, if they slowed down, were beaten with sticks.  他们被迫一同穿过一个鳄鱼出没的地区，如果走得慢了，就会遭到棍棒责打。
+9. (N-SING) Themarchof something is its steady development or progress. 进展
+   ≫   It is easy to feel trampled by the relentless march of technology.  技术日新月异的发展容易让人感到压抑。
+10. (N-COUNT) A march is a piece of music with a regular rhythm that you can march to. 进行曲
+   ≫   A military band played Russian marches and folk tunes at the parade last Sunday.  一个军乐团在上周日的游行中演奏了俄罗斯的进行曲和民乐。
+
+========================================================================
+>>> april
+------------------------------------------------------------------------
+April    [美 'eprəl / 英 'eɪprəl]
+n. 四月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) April is the fourth month of the year in the Western calendar. 4月
+   ≫   The changes will be introduced in April.  这些变更将于4月实施。
+
+========================================================================
+>>> may
+------------------------------------------------------------------------
+may    [美 me / 英 meɪ]
+aux. 可以，能够；可能，也许；祝，愿；会，能
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [含糊] You use may to indicate that something will possibly happen or be true in the future, but you cannot be certain. (将来) 可能
+   ≫   We may have some rain today.  今天可能会下点雨。
+   ≫   I may be back next year.  我可能明年回来。
+2. [含糊] You use may to indicate that there is a possibility that something is true, but you cannot be certain. 可能 (是真的)
+   ≫   Civil rights officials say there may be hundreds of other cases of racial violence.  负责公民权利的官员说可能有几百起其他的种族暴力案件。
+3. (MODAL) You use may to indicate that something is sometimes true or is true in some circumstances. 可能 (有时或在某些情况下属实)
+   ≫   A vegetarian diet may not provide enough calories for a child's normal growth.  素食可能无法提供一名孩子正常成长所需要的足够热量。
+4. [含糊] You use may have with a past participle when suggesting that it is possible that something happened or was true, or when giving a possible explanation for something. 与过去分词连用，表示某事可能已经发生、属实或提供解释
+   ≫   He may have been to some of those places.  那些地方他可能去过一些。
+5. (MODAL) You use may in statements where you are accepting the truth of a situation, but contrasting it with something that is more important. 用于承认情况属实，但同时将之与更重要的东西作比较
+   ≫   I may be almost 50, but there's not much I've forgotten.  我是快五十岁了，但我没忘记多少事情。
+6. (MODAL) You use may when you are mentioning a quality or fact about something that people can make use of if they want to. 可以 (加以利用)
+   ≫   The bag has narrow straps, so it may be worn over the shoulder or carried in the hand.  这个书包有细长带子，所有它可以被肩挎，也可以用手拎。
+7. (MODAL) You use may to indicate that someone is allowed to do something, usually because of a rule or law. You use may not to indicate that someone is not allowed to do something. (法规) 允许/不允许
+   ≫   In the US, any two persons may marry provided that both persons are at least 16 years of age on the day of their marriage.  在美国，任何两个人都可以结婚，只要在结婚日双方都至少十六岁。
+8. [正式] You use may when you are giving permission to someone to do something, or when asking for permission. 可以 (表示许可)
+   ≫   Mr. Hobbs? May we come in?  霍布斯先生？我们可以进去吗？
+9. [正式] You use may when you are making polite requests. 可以 (用于礼貌的请求)
+   ≫   I'd like the use of your living room, if I may.  如果可以，我想用用你的起居室。
+10. (MODAL) You use may when you are mentioning the reaction or attitude that you think someone is likely to have to something you are about to say. 可能会 (用于别人对自己所说的话可能会有的反应或态度)
+   ≫   You know, Brian, whatever you may think, I work hard for a living.  你知道，布雷恩，不管你会怎么想，我是为了生计而努力工作。
+11. (MODAL) If you do something so that a particular thing may happen, you do it so that there is an opportunity for that thing to happen. 以便能
+   ≫   ...the need for an increase in the numbers of surgeons so that patients may be treated as soon as possible.  …增加外科医生人数以便让病人能尽快被救治的需要。
+12. may as well →see
+
+========================================================================
+>>> june
+------------------------------------------------------------------------
+June    [美 dʒun / 英 dʒu:n]
+n. 六月；琼（女名）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) June is the sixth month of the year in the Western calendar. 6月
+   ≫   He spent two and a half weeks with us in June 1986.  1986年6月，他和我们呆了两个半星期。
+   ≫   I am moving out on June 5th.  我将于6月5日搬出去。
+
+========================================================================
+>>> july
+------------------------------------------------------------------------
+July    [美 dʒʊˈlaɪ / 英 dʒʊˈlaɪ]
+n. 七月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) July is the seventh month of the year in the Western calendar. 7月
+   ≫   In July 1969, Neil Armstrong walked on the moon.  1969年7月，尼尔·阿姆斯特朗踏上了月球。
+
+========================================================================
+>>> august
+------------------------------------------------------------------------
+august    [美 ɔˈɡʌst / 英 ɔ:ˈgʌst]
+adj. 威严的；令人敬畏的
+n. 八月（简写为Aug）
+n. (August)人名；(法、葡、西、俄、罗、英、德、瑞典、挪)奥古斯特
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Someone or something that is august is dignified and impressive. 庄严的
+   ≫   ...that august body, the United States Senate.  …那庄严的团体，美国参议院。
+
+========================================================================
+>>> september
+------------------------------------------------------------------------
+September    [美 sɛp'tɛmbɚ / 英 sep'tembə]
+n. 九月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) September is the ninth month of the year in the Western calendar. 9月
+   ≫   Her son, Jerome, was born in September.  她的儿子杰罗姆出生于9月。
+   ≫   We didn't make the original September 30 release date.  我们没有赶上原定9月30日的发行日。
+
+========================================================================
+>>> october
+------------------------------------------------------------------------
+October    [美 ɑk'tobɚ / 英 ɒk'təʊbə]
+n. [天] 十月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) October is the tenth month of the year in the Western calendar. 10月
+   ≫   Most seasonal hiring is done in early October.  多数季节性招聘是在10月初进行。
+   ≫   The first plane is due to leave on October 2.  第一架飞机定于10月2日起飞。
+
+========================================================================
+>>> novermber
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> november
+------------------------------------------------------------------------
+November    [美 no'vɛmbɚ / 英 nə(ʊ)'vembə]
+n. 十一月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) November is the eleventh month of the year in the Western calendar. 11月
+   ≫   He arrived in London in November 1939.  他于1939年11月到达伦敦。
+
+========================================================================
+>>> december
+------------------------------------------------------------------------
+December    [美 dɪ'sɛmbɚ / 英 dɪ'sembə]
+n. 十二月
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) December is the twelfth and last month of the year in the Western calendar. 12月
+   ≫   ...a bright morning in mid-December.  …12月中旬一个晴朗的早晨。
+
+========================================================================
+>>> monday
+------------------------------------------------------------------------
+Monday    [美 ˈmʌnde; ˈmʌndɪ / 英 ˈmʌndeɪ; ˈmʌndi]
+n. 星期一
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Monday is the day after Sunday and before Tuesday. 星期一
+   ≫   I went back to work on Monday.  我星期一回去上班了。
+   ≫   The first meeting of the group took place last Monday.  该集团的第一次会议于上周一召开。
+
+========================================================================
+>>> tuesday
+------------------------------------------------------------------------
+Tuesday    [美 ˈtuzdɪ;-de / 英 'tjuːzdeɪ; -dɪ]
+n. 星期二
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tuesday is the day after Monday and before Wednesday. 星期二
+   ≫   He phoned on Tuesday, just before you came.  他星期二打了电话，刚好在你来之前。
+   ≫   Talks are likely to start next Tuesday.  会谈可能在下星期二开始。
+
+========================================================================
+>>> wednesday
+------------------------------------------------------------------------
+Wednesday    [美 ˈwɛnzdɪ / 英 ˈwenzdɪ]
+n. 星期三
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Wednesday is the day after Tuesday and before Thursday. 星期三
+   ≫   Come and have supper with us on Wednesday, if you're free.  星期三过来和我们一起吃晚饭，如果有空的话。
+   ≫   Did you happen to see her leave last Wednesday?  上星期三你正好碰巧看见她离开？
+
+========================================================================
+>>> thursday
+------------------------------------------------------------------------
+Thursday    [美 ˈθɝzde; ˈθɝzdɪ / 英 'θɜːzdeɪ; -dɪ]
+n. 星期四
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Thursday is the day after Wednesday and before Friday. 星期四
+   ≫   On Thursday Barrett invited me for a drink.  星期四巴雷特请我喝了一杯。
+   ≫   We go and do the weekly shopping every Thursday morning.  我们每周四早上都去进行每周一次的采购。
+
+========================================================================
+>>> friday
+------------------------------------------------------------------------
+friday    [美 ˈfraɪ.deɪ]
+n. 星期五；忠仆
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Friday is the day after Thursday and before Saturday. 星期五
+   ≫   Mr. Cook is intending to go to the Middle East on Friday.  库克先生正打算星期五去中东。
+   ≫   ...Friday November 6.  …11月6日星期五。
+
+========================================================================
+>>> saturday
+------------------------------------------------------------------------
+Saturday    [英 ˈsætədɪ; -deɪ / 美 sætɚdɪ; -de]
+n. 星期六
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Saturday is the day after Friday and before Sunday. 星期六
+   ≫   He called her on Saturday morning at the studio.  他星期六早上在工作室给她打电话。
+   ≫   Every Saturday dad made a beautiful pea and ham soup.  每个星期六爸爸都做一道鲜美的豌豆火腿汤。
+
+========================================================================
+>>> sunday
+------------------------------------------------------------------------
+Sunday    [美 ˈsʌnde; ˈsʌndi / 英 ˈsʌndeɪ; ˈsʌndi]
+n. 星期日；礼拜日
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Sunday is the day after Saturday and before Monday. 星期日
+   ≫   I thought we might go for a drive on Sunday.  我原以为我们可能星期日去开车兜风。
+
+========================================================================
+>>> March
+------------------------------------------------------------------------
+march    [美 mɑrtʃ / 英 mɑːtʃ]
+vi. （坚定地向某地）前进；行军，进军；游行示威；进展，进行
+vt. 使前进；使行军
+n. 行进，前进；行军；游行示威；进行曲
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When soldiers march somewhere, or when a commanding officer marches them somewhere, they walk there with very regular steps, as a group. 使齐步走; 行军
+   ≫   A U.S. infantry battalion was marching down the street.  一个美军步兵营沿着街道行进。
+   ≫   Captain Ramirez called them to attention and marched them off to the main camp.  拉米雷斯上校命令他们立正，然后让他们向主营地行进。
+2. (N-COUNT) March is also a noun. 行军
+   ≫   After a short march, the column entered the village.  短途行军之后，队伍进入了村子。
+3. (N-COUNT) a frontier, border, or boundary or the land lying along it, often of disputed ownership (所有权常有争议的)边界; 边疆; 边地 (Also called marchland)
+4. (V-I) When a large group of people march for a cause, they walk somewhere together in order to express their ideas or to protest about something. 游行
+   ≫   The demonstrators then marched through the capital chanting slogans and demanding free elections.  示威者然后穿越首都游行，反复喊着口号，要求进行自由选举。
+5. (N-COUNT) March is also a noun. 游行
+   ≫   Organizers expect up to 300,000 protesters to join the march.  组织者预计多达30万的抗议者参加这次游行。
+6. (N-COUNT) marcher 游行者
+   ≫   Fights between police and marchers lasted for three hours.  警察和游行者之间的战斗持续了3个小时。
+7. (V-I) If you say that someone marches somewhere, you mean that they walk there quickly and in a determined way, for example because they are angry. (坚定地) 快步走
+   ≫   He marched into the kitchen without knocking.  他没敲门就快步走进了厨房。
+8. (V-T) If you march someone somewhere, you force them to walk there with you, for example by holding their arm tightly. 迫使…同行
+   ≫   They were marched through a crocodile-infested area and, if they slowed down, were beaten with sticks.  他们被迫一同穿过一个鳄鱼出没的地区，如果走得慢了，就会遭到棍棒责打。
+9. (N-SING) Themarchof something is its steady development or progress. 进展
+   ≫   It is easy to feel trampled by the relentless march of technology.  技术日新月异的发展容易让人感到压抑。
+10. (N-COUNT) A march is a piece of music with a regular rhythm that you can march to. 进行曲
+   ≫   A military band played Russian marches and folk tunes at the parade last Sunday.  一个军乐团在上周日的游行中演奏了俄罗斯的进行曲和民乐。
+
