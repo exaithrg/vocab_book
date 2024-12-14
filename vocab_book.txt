@@ -29741,3 +29741,15 @@ CET4 TEM4
 2. (ADV) systematically 有计划地
    ≫   The army has systematically violated human rights.  军队已有计划地侵犯了人权。
 
+========================================================================
+>>> Systematic
+------------------------------------------------------------------------
+systematic    [美 'sɪstə'mætɪk / 英 sɪstə'mætɪk]
+adj. 系统的；体系的；有系统的；[图情] 分类的；一贯的，惯常的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is done in a systematic way is done according to a fixed plan, in a thorough and efficient way. 有计划的
+   ≫   They went about their business in a systematic way.  他们按部就班地做生意。
+2. (ADV) systematically 有计划地
+   ≫   The army has systematically violated human rights.  军队已有计划地侵犯了人权。
+
