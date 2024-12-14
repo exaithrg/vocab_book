@@ -1,6 +1,6 @@
 import os
 import json
-from collections import defaultdict
+from collections import defaultdict, Counter
 from datetime import datetime
 import glob
 
@@ -32,11 +32,21 @@ else:
                 for key, value in data.items():
                     merged_data[key] += value
 
-        # Save the merged result to a new JSON file with a detailed timestamp in the filename, sorted by keys
-        output_file = f'merged_vocab_counter_{current_datetime}.json'
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(dict(merged_data), f, ensure_ascii=False, indent=4, sort_keys=True)
+        # Prepare data for two different sorts
+        sorted_by_alphabet = dict(sorted(merged_data.items()))
+        sorted_by_frequency = dict(sorted(merged_data.items(), key=lambda item: (-item[1], item[0])))
 
-        print(f"All JSON files have been successfully merged and saved to '{output_file}'")
+        # Save the alphabetically sorted result to a new JSON file
+        alphabet_output_file = f'merged_vocab_alphabet_{current_datetime}.json'
+        with open(alphabet_output_file, 'w', encoding='utf-8') as f:
+            json.dump(sorted_by_alphabet, f, ensure_ascii=False, indent=4)
+
+        # Save the frequency-sorted result to a new JSON file
+        frequency_output_file = f'merged_vocab_freqency_{current_datetime}.json'
+        with open(frequency_output_file, 'w', encoding='utf-8') as f:
+            json.dump(sorted_by_frequency, f, ensure_ascii=False, indent=4)
+
+        print(f"All JSON files have been successfully merged and saved to '{alphabet_output_file}' (alphabetical order)")
+        print(f"All JSON files have been successfully merged and saved to '{frequency_output_file}' (frequency order)")
     else:
         print("Operation cancelled.")
