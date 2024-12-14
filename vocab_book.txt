@@ -28889,3 +28889,686 @@ TEM4
 2. (ADV) exhaustively 详尽无遗地
    ≫   Martin said these costs were scrutinized exhaustively by independent accountants.  马丁称这些费用由独立会计师们彻底核查过。
 
+========================================================================
+>>> retrieval
+------------------------------------------------------------------------
+retrieval    [美 rɪ'trivl / 英 rɪ'triːvl]
+n. 检索；恢复；取回；拯救
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The retrieval of information from a computer is the process of getting it back. (电脑中信息的) 读取
+   ≫   ...electronic storage and retrieval systems.  …电子存储和读取系统。
+2. (N-UNCOUNT) The retrieval of something is the process of getting it back from a particular place, especially from a place where it should not be. 找回; 取回
+   ≫   Its real purpose is the launching and retrieval of small aeroplanes in flight.  它的真正目的是发射和找回飞行中的小型飞机。
+
+========================================================================
+>>> retrieval augmented generatioin
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1278
+retrieval augmented generatioin
+检索增强生成
+
+========================================================================
+>>> retrieval augmented generation
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1345
+retrieval augmented generation
+检索增广生成
+
+========================================================================
+>>> casino
+------------------------------------------------------------------------
+casino    [美 kə'sino / 英 kə'siːnəʊ]
+n. 俱乐部，赌场；娱乐场
+n. (Casino)人名；(西、法)卡西诺
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A casino is a building or room where people play gambling games such as roulette. 赌场
+
+========================================================================
+>>> cutscene
+------------------------------------------------------------------------
+cutscene
+n. 剧情画面
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Failure to do so will disallow you from entering the fight.) - After the cutscene you receive the title "Star-ordained Warrior" 结束动画后你将收到标题为明星战士 "Star-ordained Warrior"授勋.
+≫   The Granite Door will take your key even if you miss the NPCs and allow you access to the room, but you will not get a cutscene. 如果你错过一些NPC 花岗岩石门会收掉你的钥匙 因为你没有使用这房间的许可 但你还是没有得到情景动画.
+≫   Once the cutscene ends, you will be transported back to the entrance of Castle Zvahl Baileys. You will also receive the key item Shadow Fragment. 打败影子领主后 另一个动画发生.动画结束 你会传送到贝尔扎依的入口.并得到关键目影子碎片 Shadow Fragment.
+
+========================================================================
+>>> aepe
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ape
+------------------------------------------------------------------------
+ape    [美 ep / 英 eɪp]
+n. [脊椎] 猿；傻瓜；模仿者
+vt. 模仿；抢台词
+adj. 狂热的
+n. (Ape)人名；(意)阿佩
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Apes are chimpanzees, gorillas, and other animals in the same family. 猿
+   ≫   ...chimpanzees and other apes.  …黑猩猩和其他猿。
+2. (V-T) If you ape someone's speech or behaviour, you imitate it. 模仿
+   ≫   Modelling yourself on someone you admire is not the same as aping all they say or do.  以你仰慕的某个人为榜样并不等于模仿他们的全部言行。
+
+========================================================================
+>>> gorilla
+------------------------------------------------------------------------
+gorilla    [美 ɡə'rɪlə / 英 gə'rɪlə]
+n. 大猩猩
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A gorilla is a very large ape. It has long arms, black fur, and a black face. 大猩猩
+
+========================================================================
+>>> orangutan
+------------------------------------------------------------------------
+orangutan    [美 ,ɔræŋ'ʊtæn / 英 ɔː,ræŋuː'tæn]
+n. [脊椎] 猩猩（等于orangoutang）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An orangutan is an ape with long reddish hair that comes from Borneo and Sumatra. (产于婆罗洲和苏门答腊)红毛猩猩
+
+========================================================================
+>>> orangoutang
+------------------------------------------------------------------------
+orangoutang    [美 əˈræŋətænŋ; oʊˈræŋuˌtæŋ; ɔːˌrəŋuːˈtænŋ; / 英 ɔːˌrəŋuːˈtæn]
+n. 猩猩
+
+========================================================================
+>>> chimpanzee
+------------------------------------------------------------------------
+chimpanzee    [美 ,tʃɪmpæn'zi / 英 tʃɪmpæn'ziː]
+n. [脊椎] 黑猩猩
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chimpanzee is a kind of small African ape. 黑猩猩
+
+========================================================================
+>>> panzee
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> chimps
+------------------------------------------------------------------------
+chimp    [美 tʃɪmp / 英 tʃɪmp]
+n. （非洲的）黑猩猩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chimp is the same as a . 同chimpanzee [非正式]
+
+========================================================================
+>>> smart
+------------------------------------------------------------------------
+smart    [美 smɑrt / 英 smɑːt]
+adj. 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的；时髦的
+n. (Smart)人名；(法)斯马尔；(英、德)斯马特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You can describe someone who is clever or intelligent as smart. 聪明的; 机智的
+   ≫   He thinks he's smarter than Sarah is.  他认为他比萨拉更聪明。
+2. [英国英语] Smart people and things are pleasantly neat and clean in appearance. 整洁的
+   ≫   He was smart and well groomed but not good looking.  他时髦而且打扮整齐，但是长得不帅。
+   ≫   I was dressed in a smart navy blue suit.  我穿一身整洁的海军蓝制服。
+3. [ADV with v] smartly 整洁地
+   ≫   He dressed very smartly, which was important in those days.  他穿得非常整洁，这在当时很重要。
+4. [英国英语] A smart place or event is connected with wealthy and fashionable people. 时髦的
+   ≫   ...smart dinner parties.  …时髦的宴会。
+5. (V-I) If a part of your body or a wound smarts, you feel a sharp stinging pain in it. (身体某部位或伤口) 刺痛
+   ≫   My eyes smarted from the smoke.  我的双眼被烟熏得刺痛。
+6. [usu cont] If you are smarting from something such as criticism or failure, you feel upset about it. (因批评或失败) 感到难受
+   ≫   The Americans were still smarting from their defeat in the Vietnam War.  美国人仍在为越战中失利而难受。
+7. →see
+
+========================================================================
+>>> Wu Kong
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1841
+Wu Kong
+吴香港
+
+========================================================================
+>>> lehigh
+------------------------------------------------------------------------
+lehigh    ['li:hai]
+n. 厉害病毒，勒海病毒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He graduated in engineering from Lehigh University, and has a master’s in business administration from New York University. 他毕业于利哈伊大学工程系，并拥有纽约大学的工商管理硕士学位。
+≫   But in the foothills of Mt. Denali in Alaska, Julie Loisel of Lehigh University and a team of researchers have found peatlands thriving. 但是，利哈伊大学的朱丽叶·鲁伊赛和一支研究小组在阿拉斯加的德纳里峰山麓中发现了成片的泥潭沼泽地。
+≫   Louisiana State University, Baylor University, George Mason University, Lehigh University and others have expanded their antismoking policies to include hookahs in recent years. 路易斯安娜州立大学、贝勒大学、乔治梅森大学、里海大学以及其他学校近年来也修改校规，将水烟包含到禁烟之列。
+
+========================================================================
+>>> lehigh university
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1948
+lehigh university
+利哈伊大学：位于美国宾夕法尼亚州的一所私立研究型大学，成立于1865年。
+
+========================================================================
+>>> Magnetospheric
+------------------------------------------------------------------------
+magnetospheric
+adj. 磁性层的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In this paper, a mechanism of the earth's magnetospheric substorm is discussed. 本文讨论了一种地球磁层的亚暴机制。
+≫   In this paper, the magnetospheric structure of pulsar is discussed for the forced magnetic field. 本文讨论有力场的脉冲星磁层结构。用极角展开的方法。
+≫   The magnetospheric configuration is converted from the nearly closed one into an open one, when the IMF has a large southward component. 当行星际磁场有大的南向分量时，磁层的位形可由基本闭式转变为开式。
+
+========================================================================
+>>> cyberspace
+------------------------------------------------------------------------
+cyberspace    [美 'saɪbɚspes / 英 'saɪbəspeɪs]
+n. 网络空间；赛博空间
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [计算机] In computer technology, cyberspace refers to data banks and networks, considered as a place. 网络空间
+   ≫   ...a report circulating in cyberspace.  …一则在网络空间里传播的报道。
+
+========================================================================
+>>> federal
+------------------------------------------------------------------------
+federal    [美 'fɛdərəl / 英 'fed(ə)r(ə)l]
+adj. 联邦的；同盟的；联邦政府的； 联邦制的
+adv. 联邦政府地
+n. (Federal)人名；(英)费德勒尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] A federal country or system of government is one in which the different states or provinces of the country have important powers to make their own laws and decisions. 联邦制的
+   ≫   Five of the six provinces are to become autonomous regions in a new federal system of government.  在新的联邦政府体制下，6个省中的5个将成为自治区。
+2. [ADJ n] Federal also means belonging or relating to the national government of a federal country rather than to one of the states within it. 联邦政府的
+   ≫   The federal government controls just 6% of the education budget.  联邦政府只掌控教育预算的6％。
+3. [ADV -ed] federally 联邦政府地
+   ≫   ...residents of public housing and federally subsidized apartments.  …公共住房的住户和享受联邦政府补贴的公寓住户。
+
+========================================================================
+>>> unveils
+------------------------------------------------------------------------
+unveils
+v. （首次）公开，揭示；为……揭幕，揭去……上的覆盖物；除去面纱，显露（unveil 的第三人称单数）
+★★ CET6 TEM4 unveiling,unveiled,unveils
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone formally unveils something such as a new statue or painting, they draw back the curtain which is covering it. 为…揭幕
+   ≫   ...a ceremony to unveil a monument to the victims.  …死难者纪念碑揭幕仪式。
+2. (V-T) If you unveil a plan, new product, or some other thing that has been kept secret, you introduce it to the public. 公布
+   ≫   Mr. Werner unveiled his new strategy this week.  沃纳先生本周公布了他的新策略。
+
+========================================================================
+>>> unveil
+------------------------------------------------------------------------
+unveil    [英 ʌn'veɪl / 美 ,ʌn'vel]
+vt. 使公诸于众，揭开；揭幕
+vi. 除去面纱；显露
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone formally unveils something such as a new statue or painting, they draw back the curtain which is covering it. 为…揭幕
+   ≫   ...a ceremony to unveil a monument to the victims.  …死难者纪念碑揭幕仪式。
+2. (V-T) If you unveil a plan, new product, or some other thing that has been kept secret, you introduce it to the public. 公布
+   ≫   Mr. Werner unveiled his new strategy this week.  沃纳先生本周公布了他的新策略。
+
+========================================================================
+>>> Divergence
+------------------------------------------------------------------------
+divergence    [美 dəˈvɜrdʒəns; daɪˈvɜrdʒəns / 英 daɪ'vɜːdʒ(ə)ns]
+n. 分歧
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A divergence is a difference between two or more things, attitudes, or opinions. 分歧; 差异
+   ≫   There's a substantial divergence of opinion within the party.  党内意见严重分歧。
+
+========================================================================
+>>> linpacck
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> PDE
+------------------------------------------------------------------------
+PDE
+abbr. 偏微分方程（Partial Differential Equation）；职业开发与教育委员会（Prefessional Development and Education）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The PDE also creates templated code that you can use to build your plug-in. PDE 还创建了模板代码，您可以使用这些模板代码来构建您的插件。
+≫   In certain areas of PDE, we try to accomodate this wording, but we aren't there yet. 在PDE的特定领域内，我们试图适应这种措辞，但是目前还没有完成。
+≫   The PDE also supports full life cycle development, including distribution and maintenance. PDE 还支持完整的生命周期开发，包括分发和维护。
+
+========================================================================
+>>> HPCG
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> diverge
+------------------------------------------------------------------------
+diverge    [美 daɪ'vɝdʒ / 英 daɪ'vɜːdʒ; dɪ-]
+vi. 分歧；偏离；分叉；离题
+vt. 使偏离；使分叉
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one thing diverges from another similar thing, the first thing becomes different from the second or develops differently from it. You can also say that two things diverge. 相异
+   ≫   His interests increasingly diverged from those of his colleagues.  他和同事们的兴趣越来越不同。
+2. [no cont] If one opinion or idea diverges from another, they contradict each other or are different. You can also say that two opinions or ideas diverge. 有分歧
+   ≫   The view of the Estonian government does not diverge that far from Lipmaa's thinking.  爱沙尼亚政府的观点和李普马的想法并无太大分歧。
+
+========================================================================
+>>> scatter
+------------------------------------------------------------------------
+scatter    [英 'skætə / 美 'skætɚ]
+vi. 分散，散开；散射
+vt. 使散射；使散开，使分散；使散播，使撒播
+n. 分散；散播，撒播
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you scatter things over an area, you throw or drop them so that they spread all over the area. 撒
+   ≫   She tore the rose apart and scattered the petals over the grave.  她掰开玫瑰花，把花瓣撒在坟墓上。
+   ≫   They've been scattering toys everywhere.  他们总是把玩具分散得到处都是。
+2. (V-T/V-I) If a group of people scatter or if you scatter them, they suddenly separate and move in different directions. 使散开; 散开
+   ≫   After dinner, everyone scattered.  吃完饭，每个人都散开了。
+3. → see also ,
+
+========================================================================
+>>> aotmics
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> atomics
+------------------------------------------------------------------------
+atomics    [美 əˈtɒmɪks / 英 əˈtɒmɪks]
+n. [物] 原子学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But they were looking over their shoulder at an insurgent: Neal Blue, CEO of General Atomics. 但是，当他们侧目环视周围时，出现在他们眼前的是一个“反叛者”，来自通用原子公司的首席执行官尼尔·布鲁。
+≫   The Reaper, made by General Atomics, can cost $10m or more, depending on its bells and whistles. 死神“无人机（由通用原子公司制造，造价可能高达1000万美元或更多）依赖于其豪华而花哨的最新技术设施。
+≫   General Atomics of San Diego has funded the pre-conceptual design, which is underway and scheduled for completion in August. 通用原子能圣迭戈已经资助了预先设计的概念，这是正在进行中，预计于八月完成。
+
+========================================================================
+>>> squas
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> squad
+------------------------------------------------------------------------
+squad    [美 skwɑd / 英 skwɒd]
+n. 班；小队；五人组（篮球队的非正式说法）
+vt. 把…编成班；把…编入班
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A squad is a section of a police force that is responsible for dealing with a particular type of crime. (专门处理某类犯罪的) 警察分队
+   ≫   The building was evacuated and the bomb squad called.  那座大楼进行了人员疏散，并通知了拆弹小组。
+2. (N-COUNT) A squad is a group of players from which a sports team will be chosen. (将从中挑选运动员组队参赛的) 运动代表队
+   ≫   The American squad has pulled out of the four-day basketball tournament.  美国运动代表队已经退出了为期4天的篮球锦标赛。
+
+========================================================================
+>>> squash
+------------------------------------------------------------------------
+squash    [美 skwɔʃ / 英 skwɒʃ]
+vt. 镇压；把…压扁；使沉默
+vi. 受挤压；发出挤压声；挤入
+n. 壁球；挤压；咯吱声；南瓜属植物；（英）果汁饮料
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone or something is squashed, they are pressed or crushed with such force that they become injured or lose their shape. 压扁; 压碎
+   ≫   Robert was lucky to escape with just a broken foot after being squashed against a fence by a car.  罗伯特很幸运，被一辆轿车挤压到一排栅栏上只折了一只脚而脱了险。
+   ≫   Whole neighbourhoods have been squashed flat by shelling.  整个的居住区已经被炮火夷为平地。
+2. [v-link ADJ 'into' n] If people or things are squashed into a place, they are put or pushed into a place where there is not enough room for them to be. 挤进去了的
+   ≫   There were 2,000 people squashed into her recent show.  有2千人挤进了她最近的演出现场。
+3. (V-T) If you squash something that is causing you trouble, you put a stop to it, often by force. 镇压
+   ≫   The troops would stay in position to squash the first murmur of trouble.  该部队将严阵以待，一有骚乱声音即进行镇压。
+4. (N-VAR) A squash is one of a family of vegetables that have thick skin and soft or firm flesh inside. 瓜类蔬菜
+5. (N-UNCOUNT) Squash is a game in which two players hit a small rubber ball against the walls of a court using rackets. 壁球
+   ≫   I also play squash.  我也玩壁球。
+6. [英国英语] a still drink made from fruit juice or fruit syrup diluted with water 果汁饮料
+7. [非正式] If you say that getting a number of people into a small space is a squash, you mean that it is only just possible for them all to get into it. 塞满
+   ≫   It was a squash in the car with five of them.  他们五个人把这小车全部塞满。
+
+========================================================================
+>>> squashing
+------------------------------------------------------------------------
+squashing    [skwɔʃ; skwɔ:ʃ]
+vt. 把…压碎；把…压扁；镇压；挤压（squash的现在分词）
+vi. 被压扁；受挤压；挤进（squash的现在分词）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone or something is squashed, they are pressed or crushed with such force that they become injured or lose their shape. 压扁; 压碎
+   ≫   Robert was lucky to escape with just a broken foot after being squashed against a fence by a car.  罗伯特很幸运，被一辆轿车挤压到一排栅栏上只折了一只脚而脱了险。
+   ≫   Whole neighbourhoods have been squashed flat by shelling.  整个的居住区已经被炮火夷为平地。
+2. [v-link ADJ 'into' n] If people or things are squashed into a place, they are put or pushed into a place where there is not enough room for them to be. 挤进去了的
+   ≫   There were 2,000 people squashed into her recent show.  有2千人挤进了她最近的演出现场。
+3. (V-T) If you squash something that is causing you trouble, you put a stop to it, often by force. 镇压
+   ≫   The troops would stay in position to squash the first murmur of trouble.  该部队将严阵以待，一有骚乱声音即进行镇压。
+4. (N-VAR) A squash is one of a family of vegetables that have thick skin and soft or firm flesh inside. 瓜类蔬菜
+5. (N-UNCOUNT) Squash is a game in which two players hit a small rubber ball against the walls of a court using rackets. 壁球
+   ≫   I also play squash.  我也玩壁球。
+6. [英国英语] a still drink made from fruit juice or fruit syrup diluted with water 果汁饮料
+7. [非正式] If you say that getting a number of people into a small space is a squash, you mean that it is only just possible for them all to get into it. 塞满
+   ≫   It was a squash in the car with five of them.  他们五个人把这小车全部塞满。
+
+========================================================================
+>>> over-squashing
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> over-smoothing
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2731
+over-smoothing
+n．过度平滑：在数据处理、信号处理或图像处理中，过度平滑是指对数据或信号进行平滑处理时，过度消除了数据中的变化和细节，导致数据失真或信息丢失。
+
+========================================================================
+>>> fuse
+------------------------------------------------------------------------
+fuse    [美 fjuz / 英 fjuːz]
+vi. 融合；熔化，熔融
+vt. 使融合；使熔化，使熔融
+n. 保险丝，熔线；导火线，雷管
+n. (Fuse)人名；(意)富塞；(法)菲斯
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A fuse is a safety device in an electric plug or circuit. It contains a piece of wire which melts when there is a fault so that the flow of electricity stops. 保险丝
+   ≫   The fuse blew as he pressed the button to start the motor.  保险丝在他按下按钮发动车子时烧断了。
+2. (N-COUNT) A fuse is a device on a bomb or firework which delays the explosion so that people can move a safe distance away. 导火线
+   ≫   A bomb was deactivated at the last moment, after the fuse had been lit.  一枚炸弹在导火线已被点燃后的最后一刻被解除。
+3. (V-RECIP) When things fuse or are fused, they join together physically or chemically, usually to become one thing. You can also say that one thing fuses with another. 结合; 融合; 熔合
+   ≫   The skull bones fuse between the ages of fifteen and twenty-five.  颅骨在15和25岁之间长合。
+   ≫   Manufactured glass is made by fusing various types of sand.  人造玻璃是通过熔合不同种类的沙子制造出来的。
+
+========================================================================
+>>> monolithic
+------------------------------------------------------------------------
+monolithic    [英 mɒnə'lɪθɪk / 美 ,mɑnə'lɪθɪk]
+adj. 整体的；巨石的，庞大的；完全统一的
+n. 单块集成电路，单片电路
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的
+   ≫   ...an authoritarian and monolithic system.  …大一统的独裁体制。
+2. [表不满] If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的
+   ≫   ...a huge monolithic concrete building.  …一座巨大而平庸的混凝土建筑。
+
+========================================================================
+>>> tenants
+------------------------------------------------------------------------
+tenants    ['tenənt]
+n. 房客；居住者（tenant的复数形式）
+v. 租借（tenant的第三人称单数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tenant is someone who pays rent for the place they live in, or for land or buildings that they use. 租户; 佃户
+   ≫   Regulations placed clear obligations on the landlord for the benefit of the tenant.  为了租户的利益，条列给房东规定了明确的义务。
+
+========================================================================
+>>> fiber
+------------------------------------------------------------------------
+fiber    ['faɪbɚ]
+n. 纤维；光纤（等于fibre）
+n. (Fiber)人名；(匈)菲贝尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And remember nuts like almonds with their skins on have more fiber than those without. 记住，向杏仁那样有皮的坚果比那些没有皮的更富含纤维素。
+≫   Not only do they offer antioxidants, they contain higher content of vitamins, minerals, and fiber. 它们不仅提供抗氧化剂，还含有较高含量的维生素、矿物质和纤维。
+≫   I believe with every fiber of my being that we – as Americans – can still come together behind a common purpose. 我相信，存在的每一根纤维，仍然能够让我们，作为美国人由于共同的目标走到一起。
+
+========================================================================
+>>> explot
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> exploiting
+------------------------------------------------------------------------
+exploiting    ['eksplɔit; ik's-]
+n. 利用；开拓
+v. 利用；开发（exploit的ing形式）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> octree
+------------------------------------------------------------------------
+octree
+八叉树
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Where do I store shapes in an octree? 我在哪里存储在一个八叉树的形状？
+≫   You could also apply the octree to many other things. 你可以应用八叉树到很多别的地方。
+≫   What's the algorithm for 2:1 balancing a linear octree? 什么是2：1平衡线性八叉树的算法吗？
+
+========================================================================
+>>> hyperspectral
+------------------------------------------------------------------------
+hyperspectral
+adj. 高光谱的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Data compression is a key problem in the applications of hyperspectral images. 数据压缩是高光谱图像处理应用中的一个关键问题。
+≫   Hyperspectral data, scientists have mapped the location of sulfur deposits on the ice surface (red outline). 通过获得的高光谱数据(hyperspectral data)，科学家绘制了冰层表面硫磺沉淀的范围(红色线)。
+≫   Using this hyperspectral data, scientists have mapped the location of sulfur deposits on the ice surface (red outline). 使用这个高光谱数据，科学家已经为冰面硫磺沉积物的位置绘制了地图(红色轮廓)。
+
+========================================================================
+>>> spectral
+------------------------------------------------------------------------
+spectral    [美 'spɛktrəl / 英 'spektr(ə)l]
+adj. [光] 光谱的；幽灵的；鬼怪的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] If you describe someone or something as spectral, you mean that they look like a ghost. 似鬼的
+   ≫   She is compelling, spectral, fascinating, an unforgettably unique performer.  她的表演很有吸引力，如鬼魅一般，令人着迷，令人难忘，是一个独特的演员。
+
+========================================================================
+>>> concurrency
+------------------------------------------------------------------------
+concurrency    [美 kənˈkɜːrənsi / 英 kənˈkʌrənsɪ]
+n. [计] 并发性；同时发生
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Better support for concurrency. 更好地支持并发。
+≫   Who really needs concurrency? 谁真正需要并行？
+≫   On the downside, you need to consider concurrency. 缺点是，您需要考虑并发性。
+
+========================================================================
+>>> quadtree
+------------------------------------------------------------------------
+quadtree    [英 ˈkwɒdtriː]
+n. 四叉树
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A pattern quadtree (PQT) data structure for representing binary images is presented. 提出了表示二值图像的模式四叉树(PQT)数据结构。
+≫   It is an extension of the quadtree representation of two-dimensional (binary) images. 它是二维(二值)图象线性四元树表示的一种推广。
+≫   Quadtree manipulation in Erlang - Will editing a quadtree record invalidate the parent? 四叉树操作二郎将编辑一个四叉树记录无效的父母吗？
+
+========================================================================
+>>> paradigms
+------------------------------------------------------------------------
+paradigms    ['pærədim]
+n. 范例，模范（paradigm的复数形式）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A paradigm is a model for something that explains it or shows how it can be produced. 范例
+   ≫   ...a new paradigm of production.  …一种新的生产范例。
+
+========================================================================
+>>> consult
+------------------------------------------------------------------------
+consult    [美 kən'sʌlt / 英 kən'sʌlt]
+vt. 查阅；商量；向…请教
+vi. 请教；商议；当顾问
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you consult an expert or someone senior to you or consult with them, you ask them for their opinion, advice, or permission. 咨询
+   ≫   Consult your doctor about how much exercise you should get.  咨询你的医生你应做多少运动。
+   ≫   He needed to consult with an attorney.  他需要和律师咨询。
+2. (V-T) If you consult a book or a map, you look in it or look at it in order to find some information. 查阅
+   ≫   Consult the chart on page 44 for the correct cooking times.  查阅第44页的图表找正确的烹调时间。
+3. (V-RECIP) If a person or group of people consults with other people or consults them, or if two people or groups consult, they talk and exchange ideas and opinions about what they might decide to do. 商量
+   ≫   After consulting with her daughter and manager, she decided to take on the part, on her terms.  同她的女儿兼经纪人商量之后，她决定按她的要求接受那个角色。
+   ≫   The two countries will have to consult their allies.  两国得同各自的盟友协商。
+
+========================================================================
+>>> consultative
+------------------------------------------------------------------------
+consultative    [美 kən'sʌltətɪv / 英 kən'sʌltətɪv]
+adj. 咨询的
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A consultative committee or document gives advice or makes proposals about a particular problem or subject. 顾问的; 咨询的
+   ≫   ...the consultative committee on local government finance.  …地方政府财政顾问委员会。
+
+========================================================================
+>>> committee
+------------------------------------------------------------------------
+committee    [英 kə'mɪtɪ / 美 kə'mɪti]
+n. 委员会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) A committee is a group of people who meet to make decisions or plans for a larger group or organization that they represent. 委员会
+   ≫   ...the school yearbook committee.  …学校年鉴编委会。
+
+========================================================================
+>>> facilitate
+------------------------------------------------------------------------
+facilitate    [英 fə'sɪlɪteɪt / 美 fə'sɪlə'tet]
+vt. 促进；帮助；使容易
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+   ≫   The new airport will facilitate the development of tourism.  新机场将促进旅游业的发展。
+
+========================================================================
+>>> consent
+------------------------------------------------------------------------
+consent    [美 kən'sɛnt / 英 kən'sent]
+vi. 同意；赞成；答应
+n. 同意；（意见等的）一致；赞成
+n. (Consent)人名；(法)孔桑
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you give your consent to something, you give someone permission to do it. 准许
+   ≫   At approximately 11:30 p.m., Pollard finally gave his consent to the search.  大约晚上11:30的时候，波拉德终于对搜查予以同意。
+2. [正式] If you consent to something, you agree to do it or to allow it to be done. 同意
+   ≫   He finally consented to go.  他最终同意去。
+   ≫   He asked Ginny if she would consent to a small celebration after the christening.  他问金尼她是否同意在洗礼仪式后来个小庆祝。
+3. → see also
+
+========================================================================
+>>> content
+------------------------------------------------------------------------
+content    [美 'kɑntɛnt / 英 kən'tent]
+n. 内容，目录；满足；容量
+adj. 满意的
+vt. 使满足
+n. (Content)人名；(法)孔唐
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) The contents of a container such as a bottle, box, or room are the things that are inside it. (瓶子、盒子或房间的) 所容之物
+   ≫   Empty the contents of the pan into the sieve.  将平锅里的东西全部倒入漏勺。
+2. (N-PLURAL) The contents of a book are its different chapters and sections, usually shown in a list at the beginning of the book. (书的) 目录
+   ≫   There is no Table of Contents.  没有目录。
+3. [also N in pl, usu N 'of' n] If you refer to the content or contents of something such as a book, television programme, or website, you are referring to the subject that it deals with, the story that it tells, or the ideas that it expresses. (书、电视节目或网站等的) 内容
+   ≫   She is reluctant to discuss the content of the play.  她不愿讨论这部话剧的内容。
+   ≫   Stricter controls were placed on the content of videos.  对录像的内容有了更严格的控制。
+4. (N-UNCOUNT) The content of something such as an educational course or a programme of action is the elements that it consists of. (课程或计划的) 内容
+   ≫   Previous students have had nothing but praise for the course content and staff.  以前的学生们对该课程的内容和教师只有称赞。
+5. (N-SING) You can use content to refer to the amount or proportion of something that a substance contains. 含量
+   ≫   Sunflower margarine has the same fat content as butter.  葵花籽人造黄油跟黄油的脂肪含量一样。
+6. (N-SING) 
+7. [v-link ADJ] If you are content with something, you are willing to accept it, rather than wanting something more or something better. 满足的
+   ≫   I am content to admire the mountains from below.  我满足于从山下观赏群山。
+   ≫   I'm perfectly content with the way the campaign has gone.  我对这次活动开展的情况感到心满意足。
+8. [v-link ADJ] If you are content, you are fairly happy or satisfied. 满意的
+   ≫   He says his daughter is quite content.  他说他的女儿颇为满意。
+9. (V) to make (oneself or another person) content or satisfied 使满足
+   ≫   to content oneself with property  
+10. to your heart's content →see
+
+========================================================================
+>>> constent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> concent
+------------------------------------------------------------------------
+concent    [美 kənˈsent / 英 kənˈsent]
+n. （音乐、嗓音）和谐
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a concord, as of sounds, voices, etc (声音、嗓音等的)协和 [archaic]
+
+========================================================================
+>>> consent
+------------------------------------------------------------------------
+consent    [美 kən'sɛnt / 英 kən'sent]
+vi. 同意；赞成；答应
+n. 同意；（意见等的）一致；赞成
+n. (Consent)人名；(法)孔桑
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you give your consent to something, you give someone permission to do it. 准许
+   ≫   At approximately 11:30 p.m., Pollard finally gave his consent to the search.  大约晚上11:30的时候，波拉德终于对搜查予以同意。
+2. [正式] If you consent to something, you agree to do it or to allow it to be done. 同意
+   ≫   He finally consented to go.  他最终同意去。
+   ≫   He asked Ginny if she would consent to a small celebration after the christening.  他问金尼她是否同意在洗礼仪式后来个小庆祝。
+3. → see also
+
+========================================================================
+>>> consistent
+------------------------------------------------------------------------
+consistent    [美 kən'sɪstənt / 英 kən'sɪst(ə)nt]
+adj. 始终如一的，一致的；坚持的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is consistent always behaves in the same way, has the same attitudes towards people or things, or achieves the same level of success in something. 始终如一的
+   ≫   Becker was never the most consistent of players anyway.  贝克尔不管怎么说从来就不是一个很稳定的球员。
+2. (ADV) consistently 始终如一地
+   ≫   It's something I have consistently denied.  这是我始终否认的事。
+3. [v-link ADJ, usu ADJ 'with' n] If one fact or idea is consistent with another, they do not contradict each other. 相符的
+   ≫   This result is consistent with the findings of Garnett & Tobin.  该结果与加尼特和托宾的发现相符合。
+4. (ADJ) An argument or set of ideas that is consistent is one in which no part contradicts or conflicts with any other part. (论点、观点) 前后一致的
+   ≫   A theory should be internally consistent.  一套理论应当内在一致。
+
+========================================================================
+>>> contest
+------------------------------------------------------------------------
+contest    [美 kən'tɛst / 英 'kɒntest]
+vt. 争辩；提出质疑
+vi. 竞争；争辩
+n. 竞赛；争夺；争论
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A contest is a competition or game that people try to win. 竞赛; 比赛
+   ≫   Few contests in the recent history of boxing have been as thrilling.  在近期拳击史上没有几场比赛曾如此惊心动魄。
+2. (N-COUNT) A contest is a struggle to win power or control. 争夺
+   ≫   The state election in November will be the last such ballot before next year's presidential contest.  11月的州选举将是明年的总统竞选前最后一轮这类投票。
+3. (V-T) If you contest a statement or decision, you object to it formally because you think it is wrong or unreasonable. 对…提出抗辩
+   ≫   Your former employer has to reply within 14 days in order to contest the case.  你的前雇主得在14天内做出答复以对本案提出抗辩。
+4. [英国英语] If someone contests an election or competition, they take part in it and try to win it. 参加 (竞选或比赛)
+   ≫   He quickly won his party's nomination to contest the elections.  他迅速赢得了其党派的提名来参加竞选。
+
+========================================================================
+>>> conscientious
+------------------------------------------------------------------------
+conscientious    [美 'kɑnʃɪ'ɛnʃəs / 英 ,kɒnʃɪ'enʃəs]
+adj. 认真的；尽责的；本着良心的；小心谨慎的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is conscientious is very careful to do their work properly. 认真的
+   ≫   We are generally very conscientious about our work.  我们一般对工作都是很认真的。
+2. (ADV) conscientiously 认真地
+   ≫   He studied conscientiously and enthusiastically.  他认真积极地学习。
+
