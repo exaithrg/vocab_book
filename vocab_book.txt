@@ -29753,3 +29753,56 @@ CET4 TEM4
 2. (ADV) systematically 有计划地
    ≫   The army has systematically violated human rights.  军队已有计划地侵犯了人权。
 
+========================================================================
+>>> Heterogeneous Integration
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：948
+Heterogeneous Integration
+异构集成：一种将不同类型、尺寸和功能的组件集成到一个系统中的技术，以实现更高的性能和功能。
+
+========================================================================
+>>> roadmap
+------------------------------------------------------------------------
+roadmap    ['rod,mæp]
+n. 路标（等于road map）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This roadmap should be captured in an Administration and Maintenance Plan. 应该能够从管理和维护计划中获得该路标。
+≫   The strategy or roadmap should be shared across the organization to help focus the teams on the objectives and background reasons for the change program. 为了帮助将注意力集中在变化计划的对象和背景原因上，策略或是路标在组织中应当被分享。
+≫   The article parts will all have a similar organization. Each will begin with a roadmap through the article like the one below, with links to those parts that are currently available. 这个系列文章的每一篇都有相似的组织形式 ，每篇文章都以一个路标开始，就像下面的一样，每一个链接会连到相应的文章部分。
+
+========================================================================
+>>> Monolithic
+------------------------------------------------------------------------
+monolithic    [美 ,mɑnə'lɪθɪk / 英 mɒnə'lɪθɪk]
+adj. 整体的；巨石的，庞大的；完全统一的
+n. 单块集成电路，单片电路
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的
+   ≫   ...an authoritarian and monolithic system.  …大一统的独裁体制。
+2. [表不满] If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的
+   ≫   ...a huge monolithic concrete building.  …一座巨大而平庸的混凝土建筑。
+
+========================================================================
+>>> landscape
+------------------------------------------------------------------------
+landscape    [美 ˈlændskep / 英 ˈlændskeɪp]
+n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式
+vt. 对…做景观美化，给…做园林美化；从事庭园设计
+vi. 美化（环境等），使景色宜人；从事景观美化工作，做庭园设计师
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The landscape is everything you can see when you look across an area of land, including hills, rivers, buildings, trees, and plants. 风景
+   ≫   ...Arizona's desert landscape.  …亚利桑那州的沙漠风光。
+2. (N-COUNT) A landscape is all the features that are important in a particular situation. 局面
+   ≫   June's events completely altered the political landscape.  6月的事件完全改变了政治局面。
+3. (N-COUNT) A landscape is a painting which shows a scene in the countryside. 乡村风景画
+   ≫   Kenna's latest series of landscapes is on show at the Zelda Cheatle Gallery.  肯纳的乡村风景画系列正在塞尔达·奇特尔画廊展出。
+4. (V-T) If an area of land is landscaped, it is changed to make it more attractive, for example, by adding streams or ponds and planting trees and bushes. 对…做景观美化
+   ≫   The gravel pits have been landscaped and planted to make them attractive to wildfowl.  这些乱石坑已经被美化，种了树来吸引野生鸟类。
+   ≫   They had landscaped their property with trees, shrubs, and lawns.  他们种了树、灌木和草坪来美化家园。
+5. (N-UNCOUNT) landscaping 景观美化
+   ≫   The landowner insisted on a high standard of landscaping.  土地所有人执意要求高标准的景观美化。
+6. [oft N n] If a sheet of paper is in landscape format or mode, the longer edge of the paper is horizontal and the shorter edge is vertical. 横排格式
+   ≫   Most powerpoint presentations are prepared for screens in landscape format.  大部分幻灯片演示在屏幕上都是横排格式。
+
