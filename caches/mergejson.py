@@ -23,9 +23,9 @@ for file in json_files:
         for key, value in data.items():
             merged_data[key] += value
 
-# 将合并后的结果保存到一个新的JSON文件中，文件名包含当前日期
+# 将合并后的结果保存到一个新的JSON文件中，文件名包含当前日期，并且按键排序
 output_file = f'merged_counter-{current_date}.json'
 with open(output_file, 'w', encoding='utf-8') as f:
-    json.dump(merged_data, f, ensure_ascii=False, indent=4)
+    json.dump(dict(merged_data), f, ensure_ascii=False, indent=4, sort_keys=True)
 
-print(f"所有JSON文件已成功合并到 '{output_file}' 中")
+print(f"所有JSON文件已成功合并并排序后保存到 '{output_file}' 中")
