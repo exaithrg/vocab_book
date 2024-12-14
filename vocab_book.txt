@@ -29806,3 +29806,256 @@ CET4 TEM4
 6. [oft N n] If a sheet of paper is in landscape format or mode, the longer edge of the paper is horizontal and the shorter edge is vertical. 横排格式
    ≫   Most powerpoint presentations are prepared for screens in landscape format.  大部分幻灯片演示在屏幕上都是横排格式。
 
+========================================================================
+>>> divergence
+------------------------------------------------------------------------
+divergence    [美 dəˈvɜrdʒəns; daɪˈvɜrdʒəns / 英 daɪ'vɜːdʒ(ə)ns]
+n. 分歧
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A divergence is a difference between two or more things, attitudes, or opinions. 分歧; 差异
+   ≫   There's a substantial divergence of opinion within the party.  党内意见严重分歧。
+
+========================================================================
+>>> sapphire rapid
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1149
+sapphire rapid
+蓝宝石快速
+
+========================================================================
+>>> sapphire rapids
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1183
+sapphire rapids
+蓝宝石急流
+
+========================================================================
+>>> platonic
+------------------------------------------------------------------------
+platonic    [plə'tɑnɪk]
+adj. 理想的；柏拉图哲学的；不切实际的；纯精神友谊的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Platonic relationships or feelings of affection do not involve sex. 柏拉图式的
+   ≫   She values the platonic friendship she has had with Chris for ten years.  她珍视她同克里斯之间已经长达10年的柏拉图式的友谊。
+
+========================================================================
+>>> hypothesis
+------------------------------------------------------------------------
+hypothesis    [美 haɪ'pɑθəsɪs / 英 haɪ'pɒθɪsɪs]
+n. 假设
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A hypothesis is an idea which is suggested as a possible explanation for a particular situation or condition, but which has not yet been proved to be correct. 假设
+   ≫   Work will now begin to test the hypothesis in rats.  在老鼠身上验证这一假设的工作现在要开始了。
+
+========================================================================
+>>> dictum
+------------------------------------------------------------------------
+dictum    [美 'dɪktəm / 英 'dɪktəm]
+n. 格言；声明；法官的附带意见
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N that] A dictum is a saying that describes an aspect of life in an interesting or wise way. 格言
+   ≫   ...the dictum that it is preferable to be roughly right than precisely wrong.  ...说大致对总比绝对错要好的那句格言。
+2. [oft N that] A dictum is a formal statement made by someone who has authority. 正式声明
+   ≫   ...Disraeli's dictum that the first priority of the government must be the health of the people.  ...迪斯雷利做出政府的第一优先必须是人民健康的正式声明。
+
+========================================================================
+>>> whitehead
+------------------------------------------------------------------------
+Whitehead    [英 'waɪthed]
+n. 怀特海德（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   David Bartel at the Whitehead Institute is a leader in this effort. 怀特黑德研究所的大卫-巴特尔是在这一努力的领导者。
+≫   His superior was Brigadier General Ennis Whitehead, deputy commander of the Fifth Air Force and just as irascible as Pappy. 他的上司，第五航空队的副司令，埃尼斯.怀特黑德准将，和他一样也是一个脾气暴躁的家伙。
+≫   The team’s paper, “Synthesizing Life, ” written with David P. Bartel of MIT’s Whitehead Institute for Biomedical Research, came out in Nature in early 2001. 有麻省理工学院怀特黑德生物医学研究所的大卫·P·巴特尔参与合写的这篇论文《人工生命》，于2001年初出现在《自然》杂志上。
+
+========================================================================
+>>> Representational Convergence
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1337
+Representational Convergence
+表征收敛
+
+========================================================================
+>>> representation
+------------------------------------------------------------------------
+representation    [英 ,reprɪzen'teɪʃ(ə)n / 美 'rɛprɪzɛn'teʃən]
+n. 代表；表现；表示法；陈述
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If a group or person has representation in a legislature or on a committee, someone in the legislature or on the committee supports them and makes decisions on their behalf. 代表
+   ≫   Puerto Ricans are U.S. citizens but they have no representation in Congress.  波多黎各人是美国公民，但是他们在国会中没有代表。
+2. → see also
+3. [正式] You can describe a picture, model, or statue of a person or thing as a representation of them. 描写; 描绘
+   ≫   ...a lifelike representation of Christ.  …对基督的生动描绘。
+
+========================================================================
+>>> representational
+------------------------------------------------------------------------
+representational    [美 ,rɛprɪzɛn'teʃnl / 英 ,reprɪzen'teɪʃ(ə)n(ə)l]
+adj. 代表的；具象派的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] In a representational painting, the artist attempts to show things as they really are. (绘画)具象的; 写实的
+   ≫   His painting went through both representational and abstract periods.  他的绘画风格经历了具象和抽象两个阶段。
+
+========================================================================
+>>> convergence
+------------------------------------------------------------------------
+convergence    [美 kən'vɝdʒəns / 英 kən'vɜːdʒəns]
+n. [数] 收敛；会聚，集合
+n. (Convergence)人名；(法)孔韦尔让斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The convergence of different ideas, groups, or societies is the process by which they stop being different and become more similar. 趋同性
+   ≫   ...the need to move towards greater economic convergence.  …迈向更高的经济趋同性的需要。
+
+========================================================================
+>>> conjecture
+------------------------------------------------------------------------
+conjecture    [美 kən'dʒɛktʃɚ / 英 kən'dʒektʃə]
+n. 推测；猜想
+vi. 推测；揣摩
+vt. 推测
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A conjecture is a conclusion that is based on information that is not certain or complete. 推测
+   ≫   That was a conjecture, not a fact.  那是个推测，不是事实。
+   ≫   There are several conjectures.  有几种推测。
+2. [正式] When you conjecture, you form an opinion or reach a conclusion on the basis of information that is not certain or complete. 推测
+   ≫   He conjectured that some individuals may be able to detect major calamities.  他推测有些人也许能察觉到重大灾难。
+
+========================================================================
+>>> converge
+------------------------------------------------------------------------
+converge    [美 kən'vɝdʒ / 英 kən'vɜːdʒ]
+vt. 使汇聚
+vi. 聚集；靠拢；收敛
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If people or vehicles converge on a place, they move toward it from different directions. (人或车辆等) 聚集
+   ≫   Hundreds of tractors will converge on the capital.  成百上千的拖拉机将向首都聚集。
+2. [正式] If roads or lines converge, they meet or join at a particular place. (道路、江河等) 会合
+   ≫   As they flow south, the five rivers converge.  这5条河向南流，最终汇合在一起。
+
+========================================================================
+>>> convergence
+------------------------------------------------------------------------
+convergence    [美 kən'vɝdʒəns / 英 kən'vɜːdʒəns]
+n. [数] 收敛；会聚，集合
+n. (Convergence)人名；(法)孔韦尔让斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The convergence of different ideas, groups, or societies is the process by which they stop being different and become more similar. 趋同性
+   ≫   ...the need to move towards greater economic convergence.  …迈向更高的经济趋同性的需要。
+
+========================================================================
+>>> model stitching
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1555
+model stitching
+模型缝合
+
+========================================================================
+>>> stitching
+------------------------------------------------------------------------
+stitching    [美 'stɪtʃɪŋ / 英 'stɪtʃɪŋ]
+n. 缝合；针脚；绑结；压合
+v. 缝；固定（stitch的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Stitching is a row of stitches that have been sewn in a piece of cloth. 针脚; 线迹
+   ≫   The stitching had begun to fray at the edges.  边上的针脚已经开始磨损了。
+
+========================================================================
+>>> hypothesis
+------------------------------------------------------------------------
+hypothesis    [美 haɪ'pɑθəsɪs / 英 haɪ'pɒθɪsɪs]
+n. 假设
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A hypothesis is an idea which is suggested as a possible explanation for a particular situation or condition, but which has not yet been proved to be correct. 假设
+   ≫   Work will now begin to test the hypothesis in rats.  在老鼠身上验证这一假设的工作现在要开始了。
+
+========================================================================
+>>> mackler
+------------------------------------------------------------------------
+Mackler
+n. （Mackler）人名；（英）麦克勒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In research published last fall in The Journal of Bone and Joint Surgery, Dr. Snyder-Mackler and colleagues studied 95 men and 126 women who were to have knee replacements. 去年秋天，《骨头接合手术月刊》发表了一项调查，其中，辛德。马克勒医生及其同事研究了95个男人和126个女人，皆为即将进行换膝手术的病人。
+
+========================================================================
+>>> spectrum
+------------------------------------------------------------------------
+spectrum    [美 'spɛktrəm / 英 'spektrəm]
+n. 光谱；频谱；范围；余象
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The spectrum is the range of different colours which is produced when light passes through a glass prism or through a drop of water. A rainbow shows the colours in the spectrum. 光谱
+2. (N-COUNT) A spectrum is a range of a particular type of thing. 范围
+   ≫   She'd seen his moods range across the emotional spectrum.  她见过他在各种情感间的情绪变化。
+   ≫   Politicians across the political spectrum have denounced the act.  政界圈各派政客都谴责了这种行为。
+
+========================================================================
+>>> dio
+------------------------------------------------------------------------
+DIO
+abbr. 数据输入输出
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   dio Sociedade, devoted to education and communication about science. 例如，在20世纪20年代，巴西科学院的成员建立了首个专门从事教育和科学传播的广播电台Rádio Sociedade。
+≫   dio—Specifies that I/O on the filesystem behaves as if all of the files were opened using the direct I/O method, which can provide much faster performance with certain workloads. dio — 指定文件系统上的 I/O 看起来应当如同所有的文件都是使用直接 I/O 方法打开的，这可以为某些工作负载提供更快的性能。
+≫   Direct I/O (DIO) is an alternative caching method that reduces CPU utilization for reads and writes by eliminating the copy that is transmitted from the file cache to the user buffer. 直接 I/O（Direct I/O, DIO）是另一种用于读写的可减少对 CPU 占用的缓存方法，它消除了从文件缓存传输到用户缓冲区的副本。
+
+========================================================================
+>>> divine
+------------------------------------------------------------------------
+divine    [美 dɪ'vaɪn / 英 dɪ'vaɪn]
+adj. 神圣的；非凡的；天赐的；极好的
+vt. 占卜；预言；用占卜勘探
+vi. 占卜；预言；使用占卜勘探矿
+n. 牧师；神学家
+n. (Divine)人名；(英)迪万
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use divine to describe something that is provided by or relates to a god or goddess. 神的; 神圣的
+   ≫   He suggested that the civil war had been a divine punishment.  他暗示此次内战是上天的惩罚。
+2. (ADV) divinely 如神般地; 神圣地
+   ≫   The law was divinely ordained.  此法律为神授。
+3. (ADJ) People use divine to express their pleasure or enjoyment of something. 极好的; 绝妙的
+   ≫   Her carrot cake is divine.  她的胡萝卜饼好吃极了。
+
+========================================================================
+>>> investment
+------------------------------------------------------------------------
+investment    [美 ɪn'vɛstmənt / 英 ɪn'ves(t)m(ə)nt]
+n. 投资；投入；封锁
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Investment is the activity of investing money. 投资
+   ≫   He said the government must introduce tax incentives to encourage investment.  他说，政府必须通过给予税收利益来鼓励投资。
+2. (N-VAR) An investment is an amount of money that you invest, or the thing that you invest it in. 投资额
+   ≫   ...an investment of twenty-eight million dollars.  …2800万美元的投资额。
+3. (N-COUNT) If you describe something you buy as an investment, you mean that it will be useful, especially because it will help you to do a task more cheaply or efficiently. 有益的购买物
+   ≫   When selecting boots, fine, quality leather will be a wise investment.  在挑选靴子时，买精致、质量上乘的皮靴会是明智的。
+4. (N-UNCOUNT) Investment of time or effort is the spending of time or effort on something in order to make it a success. 投入
+   ≫   I worry about this big investment of time not working.  我担心这么多的时间投入不起作用。
+
+========================================================================
+>>> interior
+------------------------------------------------------------------------
+interior    [美 ɪn'tɪrɪɚ / 英 ɪn'tɪɜːrɪə]
+n. 内部；本质
+adj. 内部的；国内的；本质的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The interior of something is the inside part of it. 内部
+   ≫   The interior of the house was furnished with heavy, old-fashioned pieces.  房内陈设着些笨重、老式的家具。
+2. [ADJ n] You use interior to describe something that is inside a building or vehicle. (建筑或者车辆) 内部的
+   ≫   The interior walls were painted green.  内墙被漆成了绿色。
+3. (N-SING) The interior of a country or continent is the central area of it. 内地
+   ≫   The Yangtze River would give access to much of China's interior.  长江使得人们能够到达中国内陆许多地方。
+4. [ADJ n] An interior minister, ministry, or department in some countries deals with affairs within that country, such as law and order. 内政的
+   ≫   The French Interior Minister has intervened in a scandal over the role of a secret police force.  法国内务部长对一起有关秘密警察部队职责的丑闻进行了干预。
+
