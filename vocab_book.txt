@@ -30059,3 +30059,17 @@ CET4 TEM4
 4. [ADJ n] An interior minister, ministry, or department in some countries deals with affairs within that country, such as law and order. 内政的
    ≫   The French Interior Minister has intervened in a scandal over the role of a secret police force.  法国内务部长对一起有关秘密警察部队职责的丑闻进行了干预。
 
+========================================================================
+>>> glory
+------------------------------------------------------------------------
+glory    [美 'ɡlɔri / 英 'glɔːrɪ]
+n. 光荣，荣誉；赞颂
+vi. 自豪，骄傲；狂喜
+n. (Glory)人名；(法)格洛里
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Glory is the fame and admiration that you gain by doing something impressive. 荣耀
+   ≫   Walsham had his moment of glory when he won a 20km race.  沃尔沙姆有过赢得20公里赛跑的光荣时刻。
+2. (N-PLURAL) A person's glories are the occasions when they have done something people greatly admire which makes them famous. 辉煌成就
+   ≫   The album sees them re-living past glories but not really breaking any new ground.  在这张专辑中他们重温了昔日的辉煌成就，却没有任何真正新的突破。
+
