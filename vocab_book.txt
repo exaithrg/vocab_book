@@ -28703,3 +28703,129 @@ CET4 TEM4
 10. (N-COUNT) A march is a piece of music with a regular rhythm that you can march to. 进行曲
    ≫   A military band played Russian marches and folk tunes at the parade last Sunday.  一个军乐团在上周日的游行中演奏了俄罗斯的进行曲和民乐。
 
+========================================================================
+>>> rally
+------------------------------------------------------------------------
+rally    [英 'rælɪ / 美 'ræli]
+vi. 团结；重整；恢复；（网球等）连续对打
+vt. 团结；集合；恢复健康、力量等
+n. 集会；回复；公路赛车会
+n. (Rally)人名；(罗)拉利
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rally is a large public meeting that is held in order to show support for something such as a political party. 集会
+   ≫   About three thousand people held a rally to mark international human rights day.  大约三千人举行集会以纪念国际人权日。
+2. (V-T/V-I) When people rally to something or when something rallies them, they unite to support it. 一致支持; 团结起来
+   ≫   Her cabinet colleagues have continued to rally to her support.  她的内阁同僚们继续团结一致地支持她。
+3. (V) to bring (a group, unit, etc) into order, as after dispersal, or (of such a group) to reform and come to order 重整; 整编
+   ≫   the troops rallied for a final assault  
+4. (V-I) When someone or something rallies, they begin to recover or improve after having been weak. 恢复健康; 好转
+   ≫   He rallied enough to thank his doctors.  他身体恢复得能向医生们道谢了。
+5. (N-COUNT) Rally is also a noun. 恢复健康; 好转
+   ≫   After a brief rally the shares returned to $2.15.  短暂的反弹之后，股票回到了$2.15。
+6. (N-COUNT) A rally in tennis, badminton, or squash is a continuous series of shots that the players exchange without stopping. (网球、羽毛球、壁球中的) 连续对打
+   ≫   ...a long rally.  …一阵长时间的连续对打。
+7. (N-COUNT) A rally is a competition in which vehicles are driven over public roads. 公路车赛
+   ≫   Carlos Sainz of Spain has won the New Zealand Motor Rally.  西班牙的卡洛斯·赛恩斯在新西兰摩托车公路赛中获胜。
+8. (V) to mock or ridicule (someone) in a good-natured way; chaff; tease (善意地)取笑; 打趣
+
+========================================================================
+>>> boycott
+------------------------------------------------------------------------
+boycott    [美 'bɔɪkɑt / 英 'bɒɪkɒt]
+vt. 联合抵制；拒绝参加
+n. 联合抵制
+n. (Boycott)人名；(英)博伊科特
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a country, group, or person boycotts a country, organization, or activity, they refuse to be involved with it in any way because they disapprove of it. 联合抵制
+   ≫   The main opposition parties are boycotting the elections.  主要的反对党派正在联合抵制选举。
+2. (N-COUNT) Boycott is also a noun. 联合抵制
+   ≫   Opposition leaders had called for a boycott of the vote.  反对派领导者号召联合抵制投票。
+
+========================================================================
+>>> referendum
+------------------------------------------------------------------------
+referendum    [美 ,rɛfə'rɛndəm / 英 ,refə'rendəm]
+n. 公民投票权；外交官请示书
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If a country holds a referendum on a particular policy, they ask the people to vote on the policy and show whether or not they agree with it. 公民投票; 全民公决
+   ≫   Estonia said today it too plans to hold a referendum on independence.  爱沙尼亚今天称它也计划要就独立进行全民公决。
+
+========================================================================
+>>> impeach
+------------------------------------------------------------------------
+impeach    [美 ɪm'pitʃ / 英 ɪm'piːtʃ]
+vt. 弹劾；归咎；怀疑
+n. 控告，检举；弹劾；怀疑
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a court or a group in authority impeaches a president or other senior official, it charges them with committing a crime that makes them unfit for office. 弹劾; 控告
+   ≫   ...an opposition move to impeach the president.  ...反对派弹劾该总统的一个议案。
+
+========================================================================
+>>> impeachment
+------------------------------------------------------------------------
+impeachment    [美 ɪm'pitʃmənt / 英 ɪm'pi:tʃmənt]
+n. 弹劾；控告；怀疑；指摘
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The impeachment of a senior official is the process of charging them with a crime that makes them unfit for office. 弹劾; 控告
+   ≫   There are grounds for impeachment.  有数个弹劾的理由。
+
+========================================================================
+>>> recall election
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14223
+recall election
+罢免选举
+
+========================================================================
+>>> gerry
+------------------------------------------------------------------------
+Gerry    [ˈɡɛri]
+n. 格里（男名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Gerry is less likely to be bothered by repair problems. 格里对修理问题不像我这么在意。
+≫   Gerry and I live in New Jersey, where insurance costs are steep. 格里和我住在汽车保险费用奇高的新泽西州。
+≫   So when the transmission failed for a second time on my next car, a 1994 Ford Explorer, I started shopping for a replacement, despite Gerry's desire to keep it on the road. 因此，当我的下一部车1994 Ford Explorer的传动装置第二次出现故障后，我立刻开始寻找替代品，尽管格里还想继续开着它上路。
+
+========================================================================
+>>> gerrymandering
+------------------------------------------------------------------------
+gerrymandering
+n. 不公正划分选区
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Gerrymandering is the act of altering political boundaries in order to give an unfair advantage to one political party or group of people. (为使某一党获得优势)改划选区 [表不满]
+
+========================================================================
+>>> mandering
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ballot
+------------------------------------------------------------------------
+ballot    [美 'bælət / 英 'bælət]
+n. 投票；投票用纸；投票总数
+vi. 投票；抽签决定
+vt. 使投票表决；拉选票
+n. (Ballot)人名；(英)巴洛特；(法)巴洛
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ballot is a secret vote in which people select a candidate in an election, or express their opinion about something. 无记名投票
+   ≫   The result of the ballot will not be known for two weeks.  本次无记名投票的结果将在两周后才会揭晓。
+2. (N-COUNT) A ballot is a piece of paper on which you indicate your choice or opinion in a secret vote. 无记名选票
+   ≫   Election boards will count the ballots by hand.  选举委员会将手工清点选票。
+3. (V-T) If you ballot a group of people, you find out what they think about a subject by organizing a secret vote. 组织…进行秘密投票
+   ≫   The union said they will ballot members on whether to strike.  工会称他们将组织会员们秘密投票表决是否罢工。
+
+========================================================================
+>>> exit poll
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14388
+exit poll
+选举后调查：在选民离开投票地点时进行的民意调查，通常由新闻媒体进行，用于预测胜者。
+
