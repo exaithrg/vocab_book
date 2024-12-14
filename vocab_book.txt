@@ -27002,3 +27002,453 @@ vi. 纵酒
 1. [美国英语] an unshaken cocktail 未摇的鸡尾酒
 2. (V) to stir a swizzle stick in (a drink) 把调酒棒插入(饮品中)
 
+========================================================================
+>>> weight stationay
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> weight stationay
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：9624
+weight stationay
+体重stationay
+
+========================================================================
+>>> stationary
+------------------------------------------------------------------------
+stationary    [美 'steʃənɛri / 英 'steɪʃ(ə)n(ə)rɪ]
+adj. 固定的；静止的；定居的；常备军的
+n. 不动的人；驻军
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is stationary is not moving. 静止不动的
+   ≫   Stationary cars in traffic jams cause a great deal of pollution.  交通堵塞中停止不前的车辆造成大量污染。
+
+========================================================================
+>>> Iris
+------------------------------------------------------------------------
+iris    [英 'aɪrɪs / 美 'aɪrɪs]
+n. [解剖] 虹膜；鸢尾属植物
+adj. 鸢尾属植物的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The iris is the round coloured part of a person's eye. 虹膜
+2. (N-COUNT) An iris is a tall plant with long leaves and large purple, yellow, or white flowers. 鸢尾花
+
+========================================================================
+>>> Platform
+------------------------------------------------------------------------
+platform    [美 'plæt'fɔrm / 英 'plætfɔːm]
+n. 平台；月台，站台；坛；讲台
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A platform is a flat raised structure, usually made of wood, that people stand on when they make speeches or give a performance. 讲台; 舞台
+   ≫   Nick finished what he was saying and jumped down from the platform.  尼克讲完话，从讲台上跳了下来。
+2. (N-COUNT) A platform is a flat raised structure or area, usually one that something can stand on or land on. (用于放置物品或着陆的) 平台
+   ≫   They found a spot on a rocky platform where they could pitch their tents.  他们在一个岩石平台上找到了一处可以搭帐篷的地方。
+3. (N-COUNT) A platform is a structure built for people to work and live on when drilling for oil or gas at sea, or when extracting it. (在海上为钻探石油或天然气而建的) 平台
+   ≫   The platform began to produce oil in 1994.  1994年，这个钻井平台开始产油。
+4. (N-COUNT) A platform in a train or subway station is the area beside the tracks where you wait for or get off a train. (火车或地铁站的) 站台
+   ≫   The train was about to leave and I was not even on the platform.  火车就要开了，而我甚至还没有赶到站台上。
+5. (N-COUNT) The platform of a political party is what they say they will do if they are elected. (政党的) 施政纲领
+   ≫   The party has announced a platform of political and economic reforms.  该党已宣布了一份关于政治和经济改革的施政纲领。
+6. (N-COUNT) If someone has a platform, they have an opportunity to tell people what they think or want. 发表意见的机会
+   ≫   The demonstration provided a platform for a broad cross-section of speakers.  那次示威为广泛代表各方的发言者们提供了一个发表意见的机会。
+
+========================================================================
+>>> Platinum
+------------------------------------------------------------------------
+platinum    [美 'plætnəm / 英 'plætɪnəm]
+n. [化学] 铂；白金；唱片集达100万张的销售量；银灰色
+adj. 唱片集已售出100万张的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Platinum is a very valuable, silvery-grey metal. It is often used for making jewellery. 铂; 白金
+
+========================================================================
+>>> delphinium
+------------------------------------------------------------------------
+delphinium    [美 dɛl'fɪnɪəm / 英 del'fɪnɪəm]
+n. 飞燕草
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A delphinium is a plant which has a tall stem with blue flowers growing up it. 飞燕草
+
+========================================================================
+>>> wrap
+------------------------------------------------------------------------
+wrap    [美 ræp / 英 ræp]
+vt. 包；缠绕；隐藏；掩护
+vi. 包起来；缠绕；穿外衣
+n. 外套；围巾
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you wrap something, you fold paper or cloth tightly around it to cover it completely, for example, in order to protect it or so that you can give it to someone as a present. 包
+   ≫   Harry had carefully bought and wrapped presents for Mark to give the children.  哈里已精心为马克买好、包好那些给孩子们的礼物。
+2. (PHRASAL VERB) Wrap up means the same as . 包
+   ≫   Diana is taking the opportunity to wrap up the family presents.  戴安娜正在利用这个机会包装给家人的礼物。
+3. (V-T) When you wrap something such as a piece of paper or cloth around another thing, you put it around it. 用…包裹
+   ≫   She wrapped a handkerchief around her bleeding palm in an effort to protect it.  她用手帕包扎她那流血的手掌来保护它。
+4. → see also
+5. (PHRASE) If you keep something under wraps, you keep it secret, often until you are ready to announce it at some time in the future. 保密
+   ≫   The bids were submitted in May and were kept under wraps until October.  标书是5月递交的，直到10月都秘而不宣。
+
+========================================================================
+>>> towel
+------------------------------------------------------------------------
+towel    [美 'taʊəl / 英 'taʊəl]
+n. 毛巾，手巾；[纸] 纸巾
+vt. 用毛巾擦
+vi. 用毛巾擦干身体
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A towel is a piece of thick soft cloth that you use to dry yourself. 毛巾
+   ≫   ...a bath towel.  …一条浴巾。
+   ≫   ...a hand towel.  …一块手巾。
+   ≫   ...a beach towel.  …一条沙滩浴巾。
+2. (V-T) If you towel something or towel it dry, you dry it with a towel. 用毛巾擦干
+   ≫   James came out of his bedroom, towelling his wet hair.  詹姆斯走出他的卧室，用毛巾擦干他那湿漉漉的头发。
+   ≫   I towelled myself dry.  我用毛巾把自己擦干。
+3. [非正式] If you throw in the towel, you stop trying to do something because you realize that you cannot succeed. 认输
+   ≫   It seemed as if the police had thrown in the towel and were abandoning the investigation.  看起来好象警察已经认输了，并且要放弃调查。
+
+========================================================================
+>>> tower
+------------------------------------------------------------------------
+tower    [美 'taʊɚ / 英 'taʊə]
+n. 塔；高楼；堡垒
+vi. 高耸；超越
+n. (Tower)人名；(英)托尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A tower is a tall, narrow building, that either stands alone or forms part of another building such as a church or castle. 塔
+   ≫   ...an eleventh century castle with 120-foot high towers.  …一座11世纪的城堡，有着120英尺高的塔楼。
+2. (V-I) Someone or something that towers over surrounding people or things is a lot taller than they are. 高出许多
+   ≫   He stood up and towered over her.  他站起来，高出她许多。
+3. (N-COUNT) A tower is a tall structure that is used for sending radio or television signals. (无线电或电视信号的) 发射塔
+   ≫   Troops are still in control of the television and radio tower.  军队仍然控制着电视和无线电的发射塔。
+4. [计算机] A tower is a tall box that contains the main parts of a computer, such as the hard disk and the drives. (计算机) 机箱
+
+========================================================================
+>>> tide
+------------------------------------------------------------------------
+tide    [美 taɪd / 英 taɪd]
+n. 趋势，潮流；潮汐
+vt. 随潮漂流
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Thetide is the regular change in the level of the ocean on the beach. You say the tide is in when water reaches a high point on the land or out when the water leaves the land. 潮水
+   ≫   The tide was at its highest.  潮水那时正处于最高位。
+   ≫   The tide was going out, and the sand was smooth and glittering.  潮水正在退去，沙滩平坦，闪闪发亮。
+2. (N-COUNT) A tide is a current in the sea that is caused by the regular and continuous movement of large areas of water toward and away from the shore. (不断冲刷海岸的) 海浪
+   ≫   Roman vessels used to sail with the tide from Boulogne to Richborough.  罗马的船只过去常常乘着海浪从布洛涅航行到里奇伯勒。
+3. (N-SING) The tide of opinion, for example, is what the majority of people think at a particular time. (观点的) 潮流
+   ≫   The tide of opinion seems overwhelmingly in his favour.  大部分人的观点似乎对他极为有利。
+4. (V) to carry or be carried with or as if with the tide (用潮水)冲走; (像潮水般)被带走
+
+========================================================================
+>>> tite
+------------------------------------------------------------------------
+Tite
+n. (Tite)人名；(柬)迪；(英)泰特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We started early so as to get tITe ago ten. 咱们很早动身，为的是十点前赶到。
+≫   I will give you some earth and the old abode in behind of the ranch if you will hold the horse tITe . 假如你让这匹马一直呆在这儿，我就把一部份土地和牧场后边的那坐老屋子送给你。
+≫   Food is one of the stuff I enjoy tremendously. And in the beautiful Villa Borghese tITe is scarcely ever any evidence of nutriment. It is positively appalling at times. 吃的东西是我最喜爱的物品之一，可是在这座漂亮的波勒兹别墅里几乎根本看不到吃的东西，有时这毫无疑问是很可怕的。
+
+========================================================================
+>>> tyte
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> tight
+------------------------------------------------------------------------
+tight    [美 taɪt / 英 taɪt]
+adj. 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的
+adv. 紧紧地；彻底地
+n. (Tight)人名；(英)泰特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Tight clothes or shoes are small and fit closely to your body. (衣服或鞋子) 紧贴的
+   ≫   She walked off the plane in a miniskirt and tight top.  她穿着迷你裙和紧身上衣走下飞机。
+2. [ADV with v] tightly 紧贴地
+   ≫   He buttoned his collar tightly round his thick neck.  他把衣领紧紧地扣在自己的粗脖子上。
+3. [ADV after v] If you hold someone or something tight, you hold them firmly and securely. 紧紧地
+   ≫   She just fell into my arms, clutching me tight for a moment.  她就倒在了我的怀里，一时间紧紧地抓着我。
+   ≫   Just hold tight to my hand and follow along.  只要紧紧地抓住我的手，跟着我。
+4. (ADJ) Tight is also an adjective. 紧紧的
+   ≫   As he and Hannah passed through the gate he kept a tight hold of her arm.  他和汉娜经过大门时，他紧抓着她的胳膊。
+5. [ADV after v] tightly 紧紧地
+   ≫   She climbed back into bed and wrapped her arms tightly around her body.  她爬回床上，用双臂紧紧地抱住自己的身体。
+6. (ADJ) Tight controls or rules are very strict. 严格的
+   ≫   The measures include tight control of media coverage.  这些措施包括对媒体报道的严格管理。
+   ≫   The government was prepared to keep a tight hold on public sector pay rises.  政府准备保持对公共部门薪资增长的严格控制。
+7. (ADV) tightly 严格地
+   ≫   The internal media was tightly controlled by the government during the war.  国内媒体在战争期间被政府严格地控制着。
+8. (ADV) Something that is shut tight is shut very firmly. 紧紧地 (关闭)
+   ≫   The baby lay on his back with his eyes closed tight.  这个婴儿平躺着，两眼紧闭。
+   ≫   I keep the flour and sugar in individual jars, sealed tight with their glass lids.  我把面粉和糖分别放在罐子里，并用玻璃盖密封。
+9. (ADV) tightly 紧紧地
+   ≫   Pemberton frowned and closed his eyes tightly.  彭伯顿皱着眉头，紧紧地闭上双眼。
+10. (ADJ) Skin, cloth, or string that is tight is stretched or pulled so that it is smooth or straight. (皮肤、布或绳线等) 绷紧的
+   ≫   My skin feels tight and lacking in moisture.  我的皮肤感觉紧巴巴的，缺乏水分。
+11. [ADV with v] tightly 绷紧地
+   ≫   Her sallow skin was drawn tightly across the bones of her face.  她蜡黄的皮肤紧紧地绷在脸骨上。
+12. (ADJ) Tight is used to describe a group of things or an amount of something that is closely packed together. 密集的; 装得满满的
+   ≫   She curled up in a tight ball, with her knees tucked up at her chin.  她蜷缩成紧紧的一团，膝盖顶着下巴。
+13. (ADV) Tight is also an adverb. 紧密地
+   ≫   The people sleep on army cots packed tight, end to end.  这些人睡在首尾紧挨着的行军床上。
+14. (ADV) tightly 紧密地
+   ≫   Many animals travel in tightly packed trucks and are deprived of food, water and rest.  许多动物被装在拥挤不堪的卡车里运送，没吃没喝，也不能休息。
+15. (ADJ) If a part of your body is tight, it feels uncomfortable and painful, for example, because you are sick, anxious, or angry. (身体部位因生病、焦虑或生气) 僵硬的
+   ≫   It is better to stretch the tight muscles first.  最好先舒展一下僵硬的肌肉。
+16. (ADJ) A tight group of people is one whose members are closely linked by beliefs, feelings, or interests. 关系紧密的
+   ≫   We're a tight group, so we do keep in touch.  我们是一个亲密的团体，所以我们的确保持着联系。
+17. (ADJ) A tight bend or corner is one that changes direction very quickly so that you cannot see very far around it. (弯道或拐角) 急转的
+   ≫   They collided on a tight bend and both cars were extensively damaged.  他们在一个急转弯处相撞，两辆车都严重受损。
+18. (ADJ) A tight schedule or budget allows very little time or money for unexpected events or expenses. (日程或预算) 紧的
+   ≫   It's difficult to cram everything into a tight schedule.  难以把所有的事都排进一个紧张的日程。
+   ≫   Emma is on a tight budget for clothes.  埃玛手头很紧，没钱买衣服。
+19. → see also
+20. to keep a tight rein on →see
+21. to sit tight →see
+
+========================================================================
+>>> breeze
+------------------------------------------------------------------------
+breeze    [美 briz / 英 briːz]
+n. 微风；轻而易举的事；煤屑；焦炭渣；小风波
+vi. 吹微风；逃走
+n. (Breeze)人名；(法)布雷兹
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A breeze is a gentle wind. 微风
+   ≫   ...a cool summer breeze.  …一阵凉爽的夏风。
+2. [非正式] an easy task or state of ease
+   ≫   being happy here is a breeze  
+3. (V-I) If you breeze into a place or a position, you enter it in a very casual or relaxed manner. 轻而易举
+   ≫   Lopez breezed into the quarter-finals of the tournament.  洛佩斯轻松进入了那次锦标赛的四分之一决赛。
+4. (V-I) If you breeze through something such as a game or test, you cope with it easily. 轻松应付
+   ≫   John seems to breeze effortlessly through his many commitments at work.  约翰似乎对他工作中的许多职责应付自如。
+5. (N) ashes of coal, coke, or charcoal used to make breeze blocks (做空心煤渣砖用的)煤炭灰
+
+========================================================================
+>>> romantika
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> romantic
+------------------------------------------------------------------------
+romantic    [美 ro'mæntɪk / 英 rə(ʊ)'mæntɪk]
+adj. 浪漫的；多情的；空想的
+n. 浪漫的人
+vt. 使…浪漫化
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is romantic or does romantic things says and does things that make their wife, husband, girlfriend, or boyfriend feel special and loved. 浪漫的
+   ≫   When we're together, all he talks about is business. I wish he were more romantic.  我们在一起时，他只谈生意上的事。我希望他能更浪漫一点。
+2. [ADJ n] Romantic means connected with sexual love. 有关性爱的
+   ≫   He was not interested in a romantic relationship with Ingrid.  他不想和英格丽德有性爱关系。
+3. (ADV) romantically 性爱上地
+   ≫   We are not romantically involved.  我们没有性爱关系。
+4. [ADJ n] A romantic play, movie, or story describes or represents a love affair. 关于爱情的 (戏剧、影片或故事)
+   ≫   It is a lovely romantic comedy, well worth seeing.  这是一部好看的爱情喜剧，很值得一看。
+5. [表不满] If you say that someone has a romantic view or idea of something, you are critical of them because their view of it is unrealistic and they think that thing is better or more exciting than it really is. 浪漫主义的; 不切实际的
+   ≫   He has a romantic view of rural society.  他对于乡村地区有种不切实际的看法。
+6. (N-COUNT) A romantic is a person who has romantic views. 浪漫主义者; 不切实际的人
+   ≫   You're a hopeless romantic.  你是个无可救药的浪漫主义者。
+7. (ADJ) Something that is romantic is beautiful in a way that strongly affects your feelings. 有浪漫情调的
+   ≫   It is considered one of the most romantic restaurants in the city.  它被认为是这座城市里最有浪漫情调的餐厅之一。
+8. (ADV) romantically 有浪漫情调地
+   ≫   ...the romantically named, but very muddy, Cave of the Wild Horses.  …这个取名浪漫但泥泞不堪的“野马洞”。
+
+========================================================================
+>>> mulling
+------------------------------------------------------------------------
+mulling    ['mʌliŋ]
+n. 研碎
+v. 仔细考虑；弄坏（mull的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] If you mull something, you think about it for a long time before deciding what to do. 斟酌
+   ≫   Last month, a federal grand jury began mulling evidence in the case.  上个月，一个联邦大陪审团开始仔细斟酌该案的证据。
+2. (V-T) to heat (wine, ale, etc) with sugar and spices to make a hot drink 加糖和香料并烫热(葡萄酒、麦芽酒等)
+3. [SCOTTISH] a promontory 岬; 海角
+
+========================================================================
+>>> roselite
+------------------------------------------------------------------------
+roselite    [美 ˈroʊzəˌlaɪt / 英 ˈrəʊzəlaɪt]
+n. 玫瑰砷酸钙石
+
+========================================================================
+>>> prism
+------------------------------------------------------------------------
+prism    [美 'prɪzəm / 英 'prɪz(ə)m]
+n. 棱镜；[晶体][数] 棱柱
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prism is a block of clear glass or plastic that separates the light passing through it into different colours. 棱镜
+2. [maths] a polyhedron having parallel, polygonal, and congruent bases and sides that are parallelograms 棱柱体
+
+========================================================================
+>>> velvet
+------------------------------------------------------------------------
+velvet    [美 'vɛlvɪt / 英 ˈvɛlvɪt]
+n. 天鹅绒，丝绒；天鹅绒似的东西
+adj. 天鹅绒的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Velvet is soft material made from cotton, silk, or nylon, that has a thick layer of short cut threads on one side. 天鹅绒
+   ≫   ...a charcoal-grey overcoat with a velvet collar.  …一件带天鹅绒衣领的深灰色大衣。
+
+========================================================================
+>>> wild
+------------------------------------------------------------------------
+wild    [美 waɪld / 英 waɪld]
+adj. 野生的；野蛮的；狂热的；荒凉的
+n. 荒野
+adv. 疯狂地；胡乱地
+n. (Wild)人名；(英)怀尔德；(法、德、葡、捷、匈)维尔德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Wild animals or plants live or grow in natural surroundings and are not taken care of by people. (动物或植物) 野生的
+   ≫   We saw two more wild cats creeping toward us in the darkness.  我们看见还有两只野猫在黑暗中向我们爬来。
+2. (ADJ) Wild land is natural and is not used by people. 荒芜的
+   ≫   ...a wild area of woods and lakes.  …一片荒芜的森林和湖泊区域。
+3. (N-PLURAL) The wilds of a place are the natural areas that are far away from cities and towns. 荒野
+   ≫   They went canoeing in the wilds of Canada.  他们在加拿大的荒野地区划独木舟。
+4. (ADJ) Wild is used to describe the weather or the sea when it is stormy. (天气或海面) 狂风暴雨的
+   ≫   The wild weather did not deter some people from taking an unseasonable dip in the sea.  狂风暴雨的天气并没有使一些不合时宜地到海里游泳的人却步。
+5. (ADJ) Wild behaviour is uncontrolled, excited, or energetic. (行为) 狂热的
+   ≫   The children are wild with joy.  孩子们欣喜若狂。
+   ≫   As George himself came on stage they went wild.  当乔治本人登上舞台的时候，他们都发狂了。
+6. [ADV with v] wildly 狂热地
+   ≫   As she finished each song, the crowd clapped wildly.  她每唱完一首歌，人群就狂热地鼓起掌来。
+7. (ADJ) If you describe someone or their behaviour as wild, you mean that they behave in a very uncontrolled way. (指人或其行为) 疯狂的
+   ≫   The house is in a mess after a wild party.  一次疯狂的聚会之后，房子里一片狼藉。
+8. [ADV with v] wildly 疯狂地
+   ≫   Five people were injured as Reynolds slashed out wildly with a kitchen knife.  五个人因雷诺兹拿着菜刀疯狂乱砍而受伤。
+9. [ADJ n] A wild idea is unusual or extreme. A wild guess is one that you make without much thought. 不寻常的 (想法); 胡乱的 (猜测)
+   ≫   Browning's prediction is no better than a wild guess.  布朗宁的预言只不过是胡乱猜测而已。
+10. (ADV) wildly 不寻常地; 胡乱地
+   ≫   "Thirteen?" he guessed wildly.  “十三？”他胡乱猜道。
+11. → see also
+12. (PHRASE) Animals that live in the wild live in a free and natural state and are not taken care of by people. 处于野生状态
+   ≫   Fewer than a thousand giant pandas still live in the wild.  不到1000只的大熊猫还处于野生状态。
+13. beyond your wildest dreams →see
+14. in your wildest dreams →see
+
+========================================================================
+>>> wind
+------------------------------------------------------------------------
+wind    [美 wɪnd; (for v.) waɪnd / 英 wɪnd; (for v.) waɪnd]
+n. 风；呼吸；气味；卷绕
+vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人
+vi. 缠绕；上发条；吹响号角
+n. (Wind)人名；(英、德、瑞典)温德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A wind is a current of air that is moving across the earth's surface. 风
+   ≫   There was a strong wind blowing.  正刮着一阵大风。
+2. (N-COUNT) Journalists often refer to a trend or factor that influences events as a wind of a particular kind. (影响事态发展的) 趋势; 因素
+   ≫   The winds of change are blowing across the country.  转变之风正吹遍全国。
+3. (V-T) If you are winded by something such as a blow, the air is suddenly knocked out of your lungs so that you have difficulty breathing for a short time. 呼吸困难
+   ≫   He was winded and shaken.  他呼吸困难，身体发抖。
+4. (PHRASE) If someone breaks wind, they release gas from their intestines through their anus. 放屁
+   ≫   If I break wind at dinner, should I say "Pardon," or pretend nothing has happened?  如果我在用餐的时候放屁，我是应该说“对不起”，还是假装什么事情都没发生？
+5. [非正式] If you get wind of something, you hear about it, especially when someone else did not want you to know about it. 听到…的消息 (尤指在别人不想让知道的情况下)
+   ≫   I don't want the public, and especially not the press, to get wind of it at this stage.  我不想让公众，尤其是新闻界，在这个阶段听到什么消息。
+6. (PHRASE) 
+7. (V-T/V-I) If a road, river, or line of people winds in a particular direction, it goes in that direction with a lot of bends or twists in it. (路、河流或一行人) 蜿蜒而行
+   ≫   Quiet mountain roads wind through groves of bamboo and cedar.  幽静的山路蜿蜒穿过竹林和雪松林。
+   ≫   ...a narrow winding road.  …一条狭窄蜿蜒的道路。
+   ≫   We wound our way southeast.  我们向东南方向蜿蜒前行。
+8. (V-T) When you wind something flexible around something else, you wrap it around it several times. 缠绕
+   ≫   The horse jumped forward and around her, winding the rope around her waist.  那匹马向前一跳，然后围着她把绳子缠在她的腰际。
+9. (V-T) When you wind a mechanical device, for example, a watch or a clock, you turn a knob, key, or handle on it several times in order to make it operate. 给 (钟表等) 上发条
+   ≫   I still hadn't wound my watch so I didn't know the time.  我还没给手表上发条，所以我不知道时间。
+10. (PHRASAL VERB) Wind up means the same as wind. 给 (钟表等) 上发条
+   ≫   I wound up the watch and listened to it tick.  我给手表上好发条，听着它滴答作响。
+11. (V-T) To wind a tape or film back or forward means to make it move toward its starting or ending position. 倒/快进 (磁带或胶卷)
+   ≫   The camcorder winds the tape back or forward at high speed.  便携式摄像机可以高速度倒带或快进。
+12. (N) a single turn, bend, etc 拐弯
+   ≫   a wind in the river  
+
+========================================================================
+>>> cotton
+------------------------------------------------------------------------
+cotton    [美 'kɑtn / 英 'kɒt(ə)n]
+n. 棉花；棉布；棉线
+vi. 一致；理解；和谐；亲近
+adj. 棉的；棉制的
+n. (Cotton)人名；(英、西、葡)科顿；(法)戈登
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Cotton is a type of cloth made from soft fibres from a particular plant. 棉布
+   ≫   ...a cotton shirt.  …一件棉布衬衫。
+2. (N-UNCOUNT) Cotton is a plant which is grown in warm countries and which produces soft fibres used in making cotton cloth. 棉花
+   ≫   ...a large cotton plantation in Tennessee.  …位于田纳西州的一个大棉花种植园。
+3. [美国英语] Cotton or absorbent cotton is a soft mass of cotton, used especially for applying liquids or creams to your skin. 脱脂棉; 药棉
+4. [英国英语] Cotton is thread that is used for sewing, especially thread that is made from cotton. 棉线
+
+========================================================================
+>>> cotton candy
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10325
+cotton candy
+棉花糖：一种由蔗糖制成的糖果，通常呈现为细细的线状，类似于棉花糖。在英语中，它也可以用来形容某些看起来很吸引人，但实际上并不实质的事物。
+
+========================================================================
+>>> noir
+------------------------------------------------------------------------
+noir    [美 nwɑr / 英 'nwɑː]
+adj. 轮盘戏中黑色数字的
+n. (Noir)人名；(法)努瓦尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of a film) showing characteristics of a film noir, in plot or style 诺瓦式的(电影)
+
+========================================================================
+>>> appetizer
+------------------------------------------------------------------------
+appetizer    [美 'æpə'taɪzɚ / 英 'æpɪtaɪzə]
+n. 开胃物，开胃食品
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An appetizer is the first course of a meal. It consists of a small amount of food. 开胃菜
+
+========================================================================
+>>> shrimp
+------------------------------------------------------------------------
+shrimp    [美 ʃrɪmp / 英 ʃrɪmp]
+n. 虾；小虾；矮小的人
+vi. 捕虾
+adj. 有虾的；虾制的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Shrimps are small shellfish with long tails and many legs. 小虾
+
+========================================================================
+>>> twilight
+------------------------------------------------------------------------
+twilight    [英 'twaɪlaɪt / 美 'twaɪlaɪt]
+adj. 黎明，黄昏；薄暮；衰退期；朦胧状态
+n. 黄昏；薄暮；衰退期；朦胧状态
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Twilight is the time just before night when the daylight has almost gone but when it is not completely dark. 黄昏
+   ≫   They returned at twilight.  他们在黄昏时返回。
+
+========================================================================
+>>> wavy
+------------------------------------------------------------------------
+wavy    [美 'wevi / 英 'weɪvɪ]
+adj. 多浪的；波动起伏的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Wavy hair is not straight or curly, but curves slightly. (指头发) 波浪形的; 鬈曲的
+   ≫   She had short, wavy brown hair.  她有一头又短又卷的褐发。
+2. (ADJ) A wavy line has a series of regular curves along it. 波纹状的
+   ≫   The boxes were decorated with a wavy gold line.  这些盒子上装饰了一条波纹状的金边。
+
