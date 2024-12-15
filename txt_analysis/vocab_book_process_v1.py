@@ -61,7 +61,7 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
     return entry, ''.join(lines)
 
 def sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
-    return sorted(units, key=lambda unit: unit.entry)
+    return sorted(units, key=lambda unit: unit.entry.lower())
 
 def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     merged_units: List[VocabularyUnit] = []
