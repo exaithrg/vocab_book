@@ -31461,3 +31461,861 @@ CET4 TEM4
 1. (N-COUNT) A balcony is a platform on the outside of a building, above ground level, with a wall or railing around it. 阳台
 2. (N-SING) The balcony in a theatre or cinema is an area of seats above the main seating area. (戏院或电影院里的) 楼座
 
+========================================================================
+>>> dilatory
+------------------------------------------------------------------------
+dilatory    [美 'dɪlətɔri / 英 'dɪlət(ə)rɪ]
+adj. 拖拉的；缓慢的，不慌不忙的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Someone or something that is dilatory is slow and causes delay. 拖拉的
+   ≫   You might expect politicians to smooth things out when civil servants are being dilatory.  当公务员办事拖拉时，你可能期望政治家们能够把事情顺利解决。
+
+========================================================================
+>>> equivocation
+------------------------------------------------------------------------
+equivocation    [ɪ'kwɪvə'keʃən]
+n. 含糊话；模棱两可的话
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He looks at me sharply, distrusting my equivocation. 他犀利地看着我，不相信我的含糊其辞。
+≫   Any equivocation implies the poorness of the decision making process in the first instance, and is never contemplated by a great leader. 任何模棱两可都暗示着这个决策的制定过程在一开始就是拙劣的。 这样的决策不会是出自一个优秀的领导者。
+≫   Some argue that torture is justified if our survival is threatened, but even apart from the elasticity of this justification, it is flawed because it depends on an equivocation. 有人说，如果我们的生存受到了威胁，酷刑就是正当的；但是这一辩辞除了其伸缩性之外，还有别的瑕疵——它依赖于含糊其辞。
+
+========================================================================
+>>> fatuous
+------------------------------------------------------------------------
+fatuous    [美 'fætʃuəs / 英 'fætjʊəs]
+adj. 愚笨的；昏庸的；发呆的；自满的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you describe a person, action, or remark as fatuous, you think that they are extremely silly, showing a lack of intelligence or thought. 愚昧的
+   ≫   The Chief was left speechless by this fatuous remark.  这些愚笨的谈论使得长官无言。
+
+========================================================================
+>>> hoi polloi
+------------------------------------------------------------------------
+hoi polloi    [英 ˌhɔɪ pəˈlɔɪ]
+大众；群众；精英阶层
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) If someone refers to the hoi polloi, they are referring in a humorous or rather rude way to ordinary people, in contrast to rich, well-educated, or upper-class people. 草民
+   ≫   Monstrously inflated costs are designed to keep the hoi polloi at bay.  天价被设计用来让小老百姓们不敢问津。
+
+========================================================================
+>>> polloi
+------------------------------------------------------------------------
+polloi    [美 ˈpoʊlɔɪ / 英 pəˈlɔɪ]
+n. 民众（希腊语，等于 hoi polloi）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Monstrously inflated costs are designed to keep the hoi polloi at bay. 天价被设计用来让小老百姓们不敢问津。《柯林斯英汉双解大词典》
+≫   Why do you think would the rich, usually so quick to isolate themselves in real life, be so eager to embrace the hoi polloi online? 你认为，那些在现实世界中往往很快把自己隔绝起来的富人为什么会如此热切地投入到网络大众中去？
+≫   As the Jet Set gave way to budget airlines, in places like airports and theme parks even the wealthiest often rubbed shoulders with hoi polloi. 随着廉价航空取代乘私人喷气机到处旅游的富豪，在机场和主题公园这样的地方，也经常看到最富有的人与平民百姓擦肩而过。
+
+========================================================================
+>>> ineffable
+------------------------------------------------------------------------
+ineffable    [美 ɪn'ɛfəbl / 英 ɪn'efəb(ə)l]
+adj. 不可言喻的；不应说出的；难以形容的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] You use ineffable to say that something is so great or extreme that it cannot be described in words. 不可言喻的
+   ≫   ...the ineffable sadness of many of the portraits.  ...许多肖像流露出的不可言喻的悲伤。
+2. [usu ADV adj] ineffably
+   ≫   ...his ineffably powerful brain.  ...他那无法形容的超强智慧。
+
+========================================================================
+>>> ineffably
+------------------------------------------------------------------------
+ineffably    [ɪn'ɛfəbli]
+adv. 难以言喻地；因神圣而不容称呼地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Do not know why, do I always feel ineffably sadness? 不知道为什么，我总是莫名地觉得悲伤？
+≫   The scene is ineffably, absurdly touching, the sweetest expression of family love seen in recent films. 这个场景是无法言喻的感人至深，它对家庭之爱的表达是最近所有电影中最贴心的。
+≫   The best evidence for that view would be minor key songs that are stubbornly, ineffably sad despite other song elements—lyrics, arrangements, tempo, etc.—that are emotionally neutral or positive. 撇开那些情绪上中性或是积极的音乐元素，像歌词、要素组合、节拍等，证明小调固含悲情元素的最好证明是小调音乐，因为他们本身就很悲情。
+
+========================================================================
+>>> juxtaposition
+------------------------------------------------------------------------
+juxtaposition    [美 ,dʒʌkstəpə'zɪʃən / 英 ,dʒʌkstəpə'zɪʃ(ə)n]
+n. 并置，并列；毗邻
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The juxtaposition of two contrasting objects, images, or ideas is the fact that they are placed together or described together, so that the differences between them are emphasized. 并列
+   ≫   This juxtaposition of brutal reality and lyrical beauty runs through Park's stories.  残酷的现实和抒情诗般的美并存贯穿于帕克的故事之中。
+
+========================================================================
+>>> jux
+------------------------------------------------------------------------
+JUX
+abbr.并列（juxtaposition）；并列（juxtapose）
+
+========================================================================
+>>> lugubrious
+------------------------------------------------------------------------
+lugubrious    [美 lə'gʊbrɪəs / 英 lʊ'guːbrɪəs]
+adj. 悲哀的，悲惨的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with v, ADV adj] If you say that someone or something is lugubrious, you mean that they are sad rather than lively or cheerful. 悲哀的; 伤心的; 悲戚的
+   ≫   ...a tall, thin man with a long and lugubrious face.  ...一位面长色悲的瘦高男子。
+   ≫   He plays some passages so slowly that they become lugubrious.  有些段落他演奏得如此徐缓，听上去有些忧伤。
+2. (ADV) lugubriously
+   ≫   The dog gazed at us lugubriously for a few minutes.  这条狗忧郁地盯着我们看了好几分钟。
+
+========================================================================
+>>> mellifluous
+------------------------------------------------------------------------
+mellifluous    [美 mɛ'lɪfluəs / 英 me'lɪflʊəs]
+adj. 流畅的；如蜜般的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A mellifluous voice or piece of music is smooth and gentle and very pleasant to listen to. 悦耳的; 温柔的; 动听的
+   ≫   I grew up around people who had wonderful, mellifluous voices.  我是在一群有着悦耳动听嗓音的人周围长大的。
+
+========================================================================
+>>> obfuscate
+------------------------------------------------------------------------
+obfuscate    [英 'ɒbfʌskeɪt / 美 'ɑbfʌsket]
+vt. 使模糊；使迷乱；弄暗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To obfuscate something means to deliberately make it seem confusing and difficult to understand. 使混淆; 使困惑
+   ≫   They are obfuscating the issue, as only insurance companies can.  他们在这个问题上混淆视听，也只有保险公司才做得出这种事。
+   ≫   It is language intended not to reveal but to conceal, not to communicate but to obfuscate.  用这种语言的意图不是公开而是隐瞒，不是解释而是混淆。
+
+========================================================================
+>>> pernicious
+------------------------------------------------------------------------
+pernicious    [美 pɚ'nɪʃəs / 英 pə'nɪʃəs]
+adj. 有害的；恶性的；致命的；险恶的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you describe something as pernicious, you mean that it is very harmful. 极为有害的
+   ≫   I did what I could, but her mother's influence was pernicious.  我已尽我所能，但她母亲造成的影响是很极为不利的。
+
+========================================================================
+>>> alacrity
+------------------------------------------------------------------------
+alacrity    [美 ə'lækrəti / 英 ə'lækrɪtɪ]
+n. 敏捷；轻快；乐意
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'with' N] If you do something with alacrity, you do it quickly and eagerly. 欣然; 乐意
+
+========================================================================
+>>> anomaly
+------------------------------------------------------------------------
+anomaly    [美 ə'nɑməli / 英 ə'nɒm(ə)lɪ]
+n. 异常；不规则；反常事物
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something is an anomaly, it is different from what is usual or expected. 反常的事物
+   ≫   The space shuttle had stopped transmitting data, a very serious anomaly for the mission.  这架航天飞机已经停止了传输数据，这是这次任务中一个十分严重的反常现象。
+
+========================================================================
+>>> apostasy
+------------------------------------------------------------------------
+apostasy    [英 ə'pɒstəsɪ /  ə'pɒstəsɪ]
+n. 变节；脱党；背教
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone is accused of apostasy, they are accused of abandoning their religious faith, political loyalties, or principles. 背教; 变节; 放弃原则
+   ≫   ...a charge of apostasy.  ...被控变节。
+
+========================================================================
+>>> burgeon
+------------------------------------------------------------------------
+burgeon    [美 'bɝdʒən / 英 'bɜːdʒ(ə)n]
+vi. 萌芽
+vt. 发芽
+n. 嫩枝
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] If something burgeons, it grows or develops rapidly. 迅速生长
+   ≫   Plants burgeon from every available space.  植物能从任何可获得的空间中迅速生长。
+   ≫   My confidence began to burgeon later in life.  我的信心到了晚年开始迅速增长。
+
+========================================================================
+>>> cacophony
+------------------------------------------------------------------------
+cacophony    [美 kə'kɑfəni / 英 kə'kɒf(ə)nɪ]
+n. 刺耳的音调；不和谐音
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing, usu N 'of' n] You can describe a loud, unpleasant mixture of sounds as a cacophony. 刺耳的声音
+   ≫   All around was a cacophony of voices.  刺耳声响遍四周。
+2. [usu ADJ n] cacophonous
+   ≫   ...the cacophonous beat of pop music.  ...流行音乐刺耳的节拍。
+
+========================================================================
+>>> denouemnet
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> denouement
+------------------------------------------------------------------------
+denouement    [英 deɪnuː'mɒŋ /  deɪnuː'mɒŋ]
+n. 结局；终场
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing] In a book, play, or series of events, the denouement is the sequence of events at the end, when things come to a conclusion. (书、戏剧或一系列事件中的)结局
+   ≫   ...an unexpected dénouement.  ...一个出乎意料的结局。
+
+========================================================================
+>>> dichotomy
+------------------------------------------------------------------------
+dichotomy    [英 daɪ'kɒtəmɪ; dɪ- / 美 daɪ'kɑtəmi]
+n. 二分法；两分；分裂；双歧分枝
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing, oft N 'between' pl-n] If there is a dichotomy between two things, there is a very great difference or opposition between them. 天壤之别
+   ≫   There is a dichotomy between the academic world and the industrial world.  学术界和工业界间有天壤之别。
+
+========================================================================
+>>> ephemeral
+------------------------------------------------------------------------
+ephemeral    [美 ə'fɛmərəl / 英 ɪ'fem(ə)r(ə)l; -'fiːm-]
+adj. 短暂的；朝生暮死的
+n. 只生存一天的事物
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you describe something as ephemeral, you mean that it lasts only for a short time. 短暂的; 瞬间的
+   ≫   He talked about the country's ephemeral unity being shattered by the defeat.  他谈到战败彻底粉碎了国家的短暂统一。
+
+========================================================================
+>>> epiphany
+------------------------------------------------------------------------
+epiphany    [ɪ'pɪfəni]
+对事物真谛的顿悟；主显节（每年一月六日纪念耶稣显灵的节日）；显现（特指神的显现）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An epiphany is a moment of sudden insight or understanding. 顿悟
+   ≫   ...Isaac Newton's epiphany about gravity and a falling apple.  ...伊萨克·牛顿对苹果下落与地心引力的顿悟。
+
+========================================================================
+>>> fiasco
+------------------------------------------------------------------------
+fiasco    [美 fɪ'æsko / 英 fɪ'æskəʊ]
+n. 惨败
+n. (Fiasco)人名；(意)菲亚斯科
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [强调] If you describe an event or attempt to do something as a fiasco, you are emphasizing that it fails completely. 彻底的失败
+   ≫   The blame for the Charleston fiasco did not lie with him.  查尔斯顿惨败不归咎于他。
+
+========================================================================
+>>> hegemony
+------------------------------------------------------------------------
+hegemony    [美 hɪ'dʒɛmoni / 英 hɪ'dʒemənɪ; -'ge-]
+n. 霸权；领导权；盟主权
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Hegemony is a situation in which one country, organization, or group has more power, control, or importance than others. 霸权
+
+========================================================================
+>>> iconoclast
+------------------------------------------------------------------------
+iconoclast    [美 aɪ'kɑnəklæst / 英 aɪ'kɒnəklæst]
+n. 偶像破坏者；提倡打破旧习的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you describe someone as an iconoclast, you mean that they often criticize beliefs and things that are generally accepted by society. 反社会习俗者; 抨击社会传统观念者
+
+========================================================================
+>>> inefficacy
+------------------------------------------------------------------------
+inefficacy    [美 ɪnˈefɪkəsi / 英 ɪnˈefɪkəsi]
+n. 无效；无效力
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective: to find out the cause of inefficacy of platelets transfusion of patients. 前言：目的：为了解血小板输注无效的原因。
+≫   It's an allegory precisely cleverly introduced by language about the inefficacy of speech. 这是一种对话语无效性的讽喻，被语言以准确聪明的方式呈现出来。
+≫   Methods Treatment with medicine were inefficacy, 15 patients of spontaneous senile were taken amputation. 方法15例自发性老年肢体坏疽病人，服药治疗无效后行截肢术。
+
+========================================================================
+>>> juxtaposition
+------------------------------------------------------------------------
+juxtaposition    [美 ,dʒʌkstəpə'zɪʃən / 英 ,dʒʌkstəpə'zɪʃ(ə)n]
+n. 并置，并列；毗邻
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] The juxtaposition of two contrasting objects, images, or ideas is the fact that they are placed together or described together, so that the differences between them are emphasized. 并列
+   ≫   This juxtaposition of brutal reality and lyrical beauty runs through Park's stories.  残酷的现实和抒情诗般的美并存贯穿于帕克的故事之中。
+
+========================================================================
+>>> lugubriousness
+------------------------------------------------------------------------
+lugubriousness
+n.
+lugubrious的变形
+
+========================================================================
+>>> mellifluousness
+------------------------------------------------------------------------
+mellifluousness
+n. （音乐或嗓音的）悦耳动听
+
+========================================================================
+>>> nebulousness
+------------------------------------------------------------------------
+nebulousness
+n.
+nebulous的变形
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And so is the nebulousness of Chinese property laws. 另一个原因是犹抱琵琶半遮面的中国物权法。
+≫   And so is the nebulousness of Chinese property laws. Purchasers cannot be sure that what they buy they will truly own. 中国的财产法的模糊性也是让人担心的，购买者并不确定他们买下来的就真的属于他们自己了。
+≫   He effectively controls the elements to evoke a dreamlike vision while reining in the ethereal nebulousness with emphatic historicity. 画家成功地驾驭了各种元素，不仅激发出梦幻般的视觉效果，同时用强烈的史实性元素控制住了虚无缥缈的朦胧。
+
+========================================================================
+>>> nebulous
+------------------------------------------------------------------------
+nebulous    [美 'nɛbjələs / 英 'nebjʊləs]
+adj. 朦胧的；星云的，星云状的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as nebulous, you mean that it is vague and not clearly defined or not easy to describe. 朦胧的; 模糊的
+   ≫   The notions we children were able to form of the great world beyond were exceedingly nebulous.  我们这些孩子对外部世界所能形成的认识是非常模糊的。
+   ≫   Music is such a nebulous thing.  音乐是如此朦胧之物。
+
+========================================================================
+>>> obfuscation
+------------------------------------------------------------------------
+obfuscation    [,ɑbfʌs'keʃən]
+n. 困惑；模糊；昏迷
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or an instance of making something obscure, dark, or difficult to understand 困惑
+
+========================================================================
+>>> 星云
+------------------------------------------------------------------------
+星云
+n. nebula
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The size of the nebula at this stage is inversely proportional to its mass. 这个阶段的星云大小与其质量成反比。《柯林斯英汉双解大词典》
+≫   As the nebula collapsed caused by its gravity, it spun faster and flattened into a disk. 当星云因其重力而坍缩时，它旋转得更快，并压扁成一个盘状。
+≫   The same minerals that occur in refractory inclusions are believed to be the earliest-formed substances to have condensed out of the solar nebula. 难熔的内含物中的那种矿物质，也被认为是最早形成的太阳星云凝结的物质。
+
+========================================================================
+>>> nebula
+------------------------------------------------------------------------
+nebula    [美 'nɛbjələ / 英 'nebjʊlə]
+n. 星云；角膜云翳
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft in names] A nebula is a cloud of dust and gas in space. New stars are produced from nebulae. 星云
+
+========================================================================
+>>> perniciousness
+------------------------------------------------------------------------
+perniciousness    [pə'niʃəs]
+n. 危害性；有害
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This paper presents the producing cause of different unfavourable flow conditions in the outlet area of approach channel for ship gate and its perniciousness. 阐述了水利枢纽船闸引航道口门区各种不利流态产生的原因，及其危害性，和提出了改善的措施。
+≫   This paper expounds the perniciousness of illegally occupying the burning line, analyzes the cause of illegally occupying the burning line, and puts forward some effective treatment measures. 阐述了违章占压燃气管线的危害性，分析了造成违章占压燃气管线的原因，提出了有效的治理措施。
+≫   However, between the spring and summer of 1921, there occurred an unprecedented food crisis in Hunan Province characterized by its longer continuance, greater perniciousness than ever before. 然而，湖南却于1921年春夏间发生了空前的春荒。春荒具有延续时间长、波及范围广、危害程度深的特征。
+
+========================================================================
+>>> quagmire
+------------------------------------------------------------------------
+quagmire    [英 'kwægmaɪə; 'kwɒg- /  'kwægmaɪə; 'kwɒg-]
+n. 沼泽，沼泽地；无法脱身的困境
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing with supp] A quagmire is a difficult, complicated, or unpleasant situation which is not easy to avoid or escape from. 泥潭; 指困难、复杂或讨厌的困境且不易从中脱身
+   ≫   His people had fallen further and further into a quagmire of confusion.  他的人已在困惑的泥潭中越陷越深。
+2. [usu sing] A quagmire is a soft, wet area of land which your feet sink into if you try to walk across it. 沼泽地
+   ≫   Rain had turned the grass into a quagmire.  雨水已将这片草地变成了沼泽。
+
+========================================================================
+>>> stamp
+------------------------------------------------------------------------
+stamp    [美 stæmp / 英 stæmp]
+n. 邮票；印记；标志；跺脚
+vt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏
+vi. 跺脚；捣碎；毁掉
+n. (Stamp)人名；(德)施坦普；(英)斯坦普
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A stamp or a postage stamp is a small piece of paper which you lick and stick on an envelope or package before you mail it to pay for the cost of the postage. 邮票
+   ≫   ...a book of stamps.  …一本邮票册。
+   ≫   As of February 3rd, the price of a first class stamp will go up to 29 cents.  自2月3日起，每张一等邮票的价格将上涨到29分。
+2. (N-COUNT) A stamp is a small block of wood or metal which has a pattern or a group of letters on one side. You press it onto an pad of ink and then onto a piece of paper in order to produce a mark on the paper. The mark that you produce is also called a stamp. 印章; 印记
+   ≫   ...a date stamp and an ink pad.  …一个日期印章和一个印泥。
+3. (V-T) If you stamp a mark or word on an object, you press the mark or word onto the object using a stamp or other device. 盖 (章); 印 (某标记); 打上 (某字)
+   ≫   Car manufacturers stamp a vehicle identification number at several places on new cars to help track down stolen vehicles.  汽车生产商们在新车车身的几个地方打上车辆识别码以帮助追查被盗车辆。
+4. (V-T/V-I) If you stamp or stamp your foot, you lift your foot and put it down very hard on the ground, for example because you are angry or because your feet are cold. 跺 (脚); 跺脚; 重重地踩
+   ≫   Often he teased me till my temper went and I stamped and screamed, feeling furiously helpless.  他过去经常取笑我直到我生气，又跺脚又尖叫，感觉非常无助。
+   ≫   His foot stamped down on the accelerator.  他一脚猛地踩下油门。
+5. (N-COUNT) Stamp is also a noun. 跺脚
+   ≫   ...hearing the creak of a door and the stamp of cold feet.  …听到门的吱嘎声和因脚冷而跺脚的声音。
+6. (V-I) If you stamp somewhere, you walk there putting your feet down very hard on the ground because you are angry. (因生气而) 顿足
+   ≫   "I'm going before things get any worse!" he shouted as he stamped out of the bedroom.  “我要在情况变得更糟前离开！”他叫嚷着顿足走出了卧室。
+7. (V-I) If you stamp on something, you put your foot down on it very hard. (在…上) 用力踩
+   ≫   He received the original ban last week after stamping on the referee's foot during the final.  在决赛中狠狠地踩了裁判的脚之后，他上周受到首次禁赛处罚。
+8. (N-SING) If something bears the stamp of a particular quality or person, it clearly has that quality or was done by that person. 印记
+   ≫   Most of us want to make our home a familiar place and put the stamp of our personality on its walls.  我们大多数人都想把我们的家布置成温馨的地方并在墙壁上留下我们个性的印记。
+9. → see also
+
+========================================================================
+>>> swamp
+------------------------------------------------------------------------
+swamp    [美 swɑmp / 英 swɒmp]
+n. 沼泽；湿地
+vt. 使陷于沼泽；使沉没；使陷入困境
+vi. 下沉；陷入沼泽；陷入困境；不知所措（过去式swamped，过去分词swamped，现在分词swamping，第三人称单数swamps，名词swampiness，形容词swampy）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A swamp is an area of very wet land with wild plants growing in it. 沼泽地
+   ≫   I spent one whole night by a swamp behind the road listening to frogs.  我整个晚上都在这条路后面的一个沼泽地旁听蛙鸣。
+2. (V-T) If something swamps a place or object, it fills it with water. 淹没
+   ≫   Their electronic navigation failed and a rogue wave swamped the boat.  他们的电子导航装置失灵了，一个巨浪吞没了那只船。
+3. [usu passive] If you are swamped by things or people, you have more of them than you can deal with. 使应接不暇
+   ≫   He is swamped with work.  他工作正忙得不可开交。
+
+========================================================================
+>>> quagmire
+------------------------------------------------------------------------
+quagmire    [英 'kwægmaɪə; 'kwɒg- /  'kwægmaɪə; 'kwɒg-]
+n. 沼泽，沼泽地；无法脱身的困境
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing with supp] A quagmire is a difficult, complicated, or unpleasant situation which is not easy to avoid or escape from. 泥潭; 指困难、复杂或讨厌的困境且不易从中脱身
+   ≫   His people had fallen further and further into a quagmire of confusion.  他的人已在困惑的泥潭中越陷越深。
+2. [usu sing] A quagmire is a soft, wet area of land which your feet sink into if you try to walk across it. 沼泽地
+   ≫   Rain had turned the grass into a quagmire.  雨水已将这片草地变成了沼泽。
+
+========================================================================
+>>> ratio
+------------------------------------------------------------------------
+ratio    [美 'reʃɪo / 英 'reɪʃɪəʊ]
+n. 比率，比例
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ratio is a relationship between two things when it is expressed in numbers or amounts. For example, if there are ten boys and thirty girls in a room, the ratio of boys to girls is 1:3, or one to three. 比率
+   ≫   The adult to child ratio is one to six.  成人与儿童之比是1比6。
+
+========================================================================
+>>> radio
+------------------------------------------------------------------------
+radio    [美 'redɪo / 英 'reɪdɪəʊ]
+n. 收音机；无线电广播设备
+vi. 用无线电进行通信
+vt. 用无线电发送
+n. (Radio)人名；(西)拉迪奥
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Radio is the broadcasting of programmes for the public to listen to, by sending out signals from a transmitter. 无线电广播
+   ≫   The last 12 months have been difficult ones for local radio.  最近的12个月对地方广播电台来说是艰难的。
+2. (N-SING) You can refer to the programmes broadcast by radio stations as the radio. 无线电广播节目
+   ≫   A lot of people listen to the radio in the mornings.  很多人早上收听广播节目。
+3. (N-COUNT) A radio is the piece of equipment that you use in order to listen to radio programmes. 收音机
+   ≫   He sat down in the armchair and turned on the radio.  他在扶手椅上坐下来，打开了收音机。
+4. (N-UNCOUNT) Radio is a system of sending sound over a distance by transmitting electrical signals. 无线电通信系统
+   ≫   They are in twice daily radio contact with the rebel leader.  他们一天两次通过无线电通信系统与反叛者领导人保持联系。
+5. (N-COUNT) A radio is a piece of equipment that is used for sending and receiving messages. 无线电收发装置
+   ≫   Judge Bruce Laughland praised the courage of the young policeman, who managed to raise the alarm on his radio.  布鲁斯·劳赫兰法官赞扬了那名年轻警察的勇气，该警察设法通过自己的无线电收发装置发出了警报。
+6. (V-T/V-I) If you radio someone, you send a message to them by radio. 用无线电发送
+   ≫   The officer radioed for advice.  那名军官发电请求指示。
+
+========================================================================
+>>> ratiocination
+------------------------------------------------------------------------
+ratiocination    [美 ˌræʃiˌoʊsəˈneɪʃ(ə)n / 英 ˌrætiˌɒsɪˈneɪʃ(ə)n]
+n. 推理；推论
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Just like the math problem, is a test of intelligence, a game of ratiocination and a race of time. 就像数学题目，是一场智力的考验，推理的比赛和时间的竞逐。
+≫   The judicial and logical bases of this law system are plead-procedure of trial and particular judicial ratiocination. 英美法系犯罪构成的司法基础是抗辩式审判模式，逻辑基础是独特的诉讼推理模式。
+≫   While Watson was a man of average intelligence, Holmes was a genius, whose gift for ratiocination made him a superb detective. 虽然沃森是一个人的平均智力，霍姆斯是一个天才，他的推理的礼物使他成为出色的侦探。
+
+========================================================================
+>>> cinatioin
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cination
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> sycophant
+------------------------------------------------------------------------
+sycophant    [美 'sɪkəfænt / 英 'sɪkəfænt]
+n. 谄媚者；奉承者
+adj. 奉承的；拍马的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A sycophant is a person who behaves in a sycophantic way. 阿谀奉承者
+   ≫   ...a dictator surrounded by sycophants, frightened to tell him what he may not like.  ...身边围着一群不敢谏言的阿谀奉承者的独裁者。
+
+========================================================================
+>>> tangibility
+------------------------------------------------------------------------
+tangibility    [美 ˌtændʒəˈbɪləti / 英 ˌtændʒəˈbɪləti]
+n. 可触知；有实质；确实性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The lovely baby in her dream somehow had no tangibility. 她梦中的那个可爱的婴儿不知为什么不可触知。
+≫   But that very tangibility can lead to reckless speculation. 但这种资产有形性导致过度投机。
+≫   In terms of architecture, the tangibility of this concept is palpable. 就建筑而言，这一理念的确实性是极其明了的。
+
+========================================================================
+>>> ubiquity
+------------------------------------------------------------------------
+ubiquity    [美 jʊ'bɪkwəti / 英 juː'bɪkwətɪ]
+n. 普遍存在；到处存在
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N 'of' n] If you talk about the ubiquity of something, you mean that it seems to be everywhere. 无处不在
+
+========================================================================
+>>> vicissitude
+------------------------------------------------------------------------
+vicissitude    [美 vɪ'sɪsɪtud / 英 vɪ'sɪsɪtjuːd; vaɪ-]
+n. 变迁；盛衰；变化无常；变迁兴衰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   So great a vicissitude in his life could not at once be received as real. 他的生活中发生了如此巨大的变迁，他一时还无法相信是真的。
+≫   If vicissitude is concealing the moral progress, then where the progresses manifests lies in? 如果说变迁隐含着道德的进步，那么进步体现在哪里？
+≫   First chapter elaborated education-through-labor historical vicissitude and the development tendency. 第一章论述了劳动教养的历史变迁与发展趋势。
+
+========================================================================
+>>> welter
+------------------------------------------------------------------------
+welter    [美 'wɛltɚ / 英 'weltə]
+vi. 翻滚；沉溺；起伏
+n. 混乱；翻滚；起伏
+adj. 重量级骑手的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] A welter of something is a large quantity of it which occurs suddenly or in a confusing way. 杂乱的一堆
+   ≫   ...patients with a welter of confusing symptoms.  ...有一堆疑难症状的病人。
+   ≫   ...the welter of publicity that followed his engagement.  ...对他订婚的各种报道。
+
+========================================================================
+>>> xenophobia
+------------------------------------------------------------------------
+xenophobia    [美 ,zɛnə'fobɪə / 英 zenə'fəʊbɪə]
+n. 仇外；对外国人的畏惧和憎恨
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Xenophobia is strong and unreasonable dislike or fear of people from other countries. 排外情绪; 恐外症
+   ≫   ...a just and tolerant society which rejects xenophobia and racism.  …一个不容排外情绪和种族歧视的公正宽容的社会。
+
+========================================================================
+>>> yoke
+------------------------------------------------------------------------
+yoke    [美 jok / 英 jəʊk]
+n. 轭；束缚；牛轭
+vt. 结合；给…上轭
+vi. 结合；匹配
+n. (Yoke)人名；(日)与家(姓)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu N 'of' n, adj N] If you say that people are under the yoke of a bad thing or person, you mean they are forced to live in a difficult or unhappy state because of that thing or person. 羁绊; 枷锁
+   ≫   People are still suffering under the yoke of slavery.  人们仍然生活在奴隶制的枷锁之下。
+2. (N-COUNT) A yoke is a long piece of wood tied across the necks of two animals such as oxen, in order to make them walk close together when they are pulling a plow. 轭; 牛轭
+3. (V-T) If two or more people or things are yoked together, they are forced to be closely linked with each other. 使强行结合; 把…硬拼凑在一起
+   ≫   The introduction attempts to yoke the pieces together.  引言试图将各部分硬拼凑在一起。
+   ≫   The Auto Pact yoked Ontario into the United States economy.  《汽车协定》强行将安大略纳入了美国经济体。
+   ≫   Farmers and politicians are yoked by money and votes.  农场主和政客被金钱和选票绑在了一起。
+
+========================================================================
+>>> zealotry
+------------------------------------------------------------------------
+zealotry    ['zɛlətri]
+n. 狂热的行为；狂言；狂热
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) extreme or excessive zeal or devotion 狂热行为
+
+========================================================================
+>>> takeaway
+------------------------------------------------------------------------
+takeaway    [美 'tekə'we / 英 'teɪkəweɪ]
+adj. 外卖的；外吃的
+n. 外卖食品；外卖餐馆
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [英国英语] A takeaway is a shop or restaurant which sells hot cooked food that you eat somewhere else. 外卖餐馆
+2. [英国英语] A takeaway is hot cooked food that you buy from a shop or restaurant and eat somewhere else. 外卖食品
+   ≫   ...a Chinese takeaway.  …一家中餐外卖馆。
+
+========================================================================
+>>> snack
+------------------------------------------------------------------------
+snack    [美 snæk / 英 snæk]
+n. 小吃，快餐；一份，部分
+vi. 吃快餐，吃点心
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snack is a simple meal that is quick to cook and to eat. 快餐
+   ≫   Lunch was a snack in the fields.  午饭是在野外吃的快餐。
+2. (N-COUNT) A snack is something such as a chocolate bar that you eat between meals. (正餐之间的) 小吃
+   ≫   Do you eat sweets, cakes or sugary snacks?  你吃糖果、糕点或甜点心吗？
+3. (V-I) If you snack, you eat snacks between meals. 吃小吃
+   ≫   Instead of snacking on crisps and chocolate, nibble on celery or carrot.  不要吃炸薯片和巧克力这些零食，要啃点芹菜或胡萝卜。
+
+========================================================================
+>>> meat counter
+------------------------------------------------------------------------
+meat counter
+肉类柜台：在超市或食品店中出售生肉和加工肉制品的柜台。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Yes, where's the meat counter? 是的，肉柜台在哪? 罛。
+≫   Wang: Pork. Where's the meat counter? 王：猪肉。肉柜台在哪里？
+≫   The meat counter has a special on pork. 买肉的柜台有特价猪肉。
+
+========================================================================
+>>> dairy products
+------------------------------------------------------------------------
+dairy products
+乳制品，奶制品；乳酪产品
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He avoids all meat and dairy products. 他不吃任何肉类和奶制品。《柯林斯英汉双解大词典》
+≫   Dairy products may provoke allergic reactions in some people. 乳制品可能会引起某些人的过敏反应。《牛津词典》
+≫   The Lactalis Group is one of the world's largest manufacturers of dairy products. 兰特黎斯集团是世界上最大的乳制品制造商之一。
+
+========================================================================
+>>> dairy
+------------------------------------------------------------------------
+dairy    [美 'dɛri / 英 'deərɪ]
+n. 奶制品；乳牛；制酪场；乳品店；牛奶及乳品业
+adj. 乳品的；牛奶的；牛奶制的；产乳的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dairy is a company that sells milk and food made from milk, such as butter, cream, and cheese. 乳品公司
+   ≫   In my childhood, local dairies bought milk from local farmers.  在我小时候，本地的乳品公司向当地农场主收购牛奶。
+2. [ADJ n] Dairy is used to refer to foods such as butter and cheese that are made from milk. 奶制的
+   ≫   He avoids all meat and dairy products.  他不吃任何肉类和奶制品。
+3. [ADJ n] Dairy is used to refer to the use of cattle to produce milk rather than meat. 产乳的
+   ≫   ...a small vegetable and dairy farm.  …一个种菜、养奶牛的小农场。
+
+========================================================================
+>>> fresh produce
+------------------------------------------------------------------------
+fresh produce
+新鲜农产品：新鲜农产品是一个广义的术语，包括水果和蔬菜（有时也包括谷物、燕麦等）。更具体地说，新鲜农产品通常意味着产品新鲜，并且基本上与其被收获时的状态相同。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   With the exception of fresh produce and dairy, try not to buy any food. 除了新鲜农产品和奶制品，尽量不买任何食物。
+≫   The common prescription is to primarily shop the grocery store, since that's where fresh produce, meat and seafood, and dairy are. 通常的做法主要是在杂货店进行购物，因为那里有新鲜的农产品、肉类、海鲜和奶制品。
+≫   The common prescription is to primarily shop at the grocery store since that's where fresh produce, meat and seafood, and dairy are. 通常的做法主要是在杂货店进行购物，因为那里有新鲜的农产品、肉类、海鲜和奶制品。
+
+========================================================================
+>>> organic
+------------------------------------------------------------------------
+organic    [美 ɔr'gænɪk / 英 ɔː'gænɪk]
+adj. [有化] 有机的；组织的；器官的；根本的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Organic methods of farming and gardening do not use pesticides, chemical fertilizers, growth hormones, or antibiotics, so that the food produced does not contain toxic chemicals. 有机种植的
+   ≫   Organic farming is expanding everywhere.  有机农业在各处发展。
+2. (ADV) organically 有机地
+   ≫   ...organically grown vegetables.  …有机种植的蔬菜。
+3. (ADJ) Organic substances are produced by or found in living things. 有机的
+   ≫   Incorporating organic material into chalky soils will reduce the alkalinity.  将有机物质掺入白垩质土壤中将会降低碱性。
+4. [正式] Organic change or development happens gradually and naturally rather than suddenly. 自然演进的
+   ≫   ...to manage the company and supervise its organic growth.  …管理公司并指导其逐步发展。
+
+========================================================================
+>>> discount
+------------------------------------------------------------------------
+discount    [美 dɪs'kaʊnt / 英 'dɪskaʊnt]
+n. 折扣；贴现率
+vi. 贴现；打折扣出售商品
+vt. 打折扣；将…贴现；贬损；低估；忽视
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A discount is a reduction in the usual price of something. 折扣
+   ≫   They are often available at a discount.  它们经常可以以折扣价买到。
+   ≫   All full-time staff get a 20 percent discount.  所有全职员工都可以享受8折优惠。
+2. (V-T) If a shop or company discounts an amount or percentage from something that they are selling, they take the amount or percentage off the usual price. 对…打折
+   ≫   This has forced airlines to discount fares heavily in order to spur demand.  这已经迫使多家航空公司对机票大幅打折以刺激需求。
+3. (V-T) If you discount an idea, fact, or theory, you consider that it is not true, not important, or not relevant. 不理会
+   ≫   However, traders tended to discount the rumour.  但是，商人们倾向于不理会这个传闻。
+
+========================================================================
+>>> doupon
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> coupon
+------------------------------------------------------------------------
+coupon    [美 'kupɑn / 英 'kuːpɒn]
+n. 息票；赠券；联票；[经] 配给券
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A coupon is a piece of printed paper which allows you to pay less money than usual for a product, or to get it free. 优惠券
+   ≫   ...a money-saving coupon.  …一张省钱的优惠券。
+2. (N-COUNT) A coupon is a small form, for example, in a newspaper or magazine, which you send off to ask for information, to order something, or to enter a competition. (报纸、杂志附的) 传单
+   ≫   Mail this coupon with your cheque or postal order.  把这张表单和你的支票或汇款单一起邮寄。
+
+========================================================================
+>>> reservation
+------------------------------------------------------------------------
+reservation    [美 ,rɛzɚ'veʃən / 英 rezə'veɪʃ(ə)n]
+n. 预约，预订；保留
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you have reservations about something, you are not sure that it is entirely good or right. 保留意见
+   ≫   I told him my main reservation about his film was the ending.  我告诉了他我主要对他电影的结局有所保留。
+2. (N-COUNT) If you make a reservation, you arrange for something such as a table in a restaurant or a room in a hotel to be kept for you. 预订
+   ≫   He went to the desk to inquire and make a reservation.  他到前台去咨询并做了预订。
+3. (N-COUNT) A reservation is an area of land that is kept separate for a particular group of people to live in. 保留地
+   ≫   Seventeen thousand Indians live in Arizona on a reservation.  17000名印第安人居住在亚利桑那州的保留地内。
+
+========================================================================
+>>> Tabel for two
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Table for two
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7517
+Table for two
+两人餐桌：一张适合两人就餐的餐桌。
+
+========================================================================
+>>> special dietary needs
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7585
+special dietary needs
+特殊饮食需求：指由于健康、宗教、文化或个人原因而需要遵循特殊饮食要求的人。
+
+========================================================================
+>>> dietary
+------------------------------------------------------------------------
+dietary    [美 'daɪə,tɛri / 英 'daɪət(ə)rɪ]
+n. 规定的食物；饮食的规定；食谱
+adj. 饮食的，饭食的，规定食物的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You can use dietary to describe anything that concerns a person's diet. 饮食的
+   ≫   Dr. Susan Hankinson has studied the dietary habits of more than 50,000 women.  苏珊·汉金森博士研究了五万多名妇女的饮食习惯。
+
+========================================================================
+>>> allergies
+------------------------------------------------------------------------
+allergies    ['ælədʒi]
+n. 过敏；敏感（allergy的复数）；敏感症
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you have a particular allergy, you become ill or get a rash when you eat, smell, or touch something that does not normally make people ill. 过敏
+   ≫   Food allergies can result in an enormous variety of different symptoms.  食物过敏会导致大量不同种类的症状。
+
+========================================================================
+>>> refill
+------------------------------------------------------------------------
+refill    [美 'rifɪl / 英 riː'fɪl]
+vi. 被再注满
+vt. 再装满；再充满
+n. 替换物；再注满
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you refill something, you fill it again after it has been emptied. 重新装满
+   ≫   I refilled our wine glasses.  我重新斟满了我们的酒杯。
+2. [非正式] Refill is also a noun. 重新装满
+   ≫   Max held out his cup for a refill.  马克斯伸出他的杯子要求再满上。
+3. (N-COUNT) A refill of a particular product is a quantity of that product sold in a cheaper container than the one it is usually sold in. You use a refill to fill the more permanent container when it is empty. 补充剂
+   ≫   Refill packs are cheaper and lighter.  补充剂包装更便宜，更轻。
+
+========================================================================
+>>> complimentary
+------------------------------------------------------------------------
+complimentary    [美 ,kɑmplɪ'mɛntri / 英 kɒmplɪ'ment(ə)rɪ]
+adj. 赠送的；称赞的；问候的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are complimentary about something, you express admiration for it. 赞赏的
+   ≫   The staff have been very complimentary, and so have the customers.  职员们一直非常赞赏，顾客们也是。
+2. (ADJ) A complimentary seat, ticket, or book is given to you free. 免费赠送的
+   ≫   He had complimentary tickets to take his wife to see the film.  他有赠票，可以带他妻子去看那部电影。
+
+========================================================================
+>>> intersection
+------------------------------------------------------------------------
+intersection    [美 ,ɪntɚ'sɛkʃən / 英 ɪntə'sekʃ(ə)n]
+n. 交叉；十字路口；交集；交叉点
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An intersection is a place where roads or other lines meet or cross. 道路交叉口; 交点
+   ≫   We crossed at a busy intersection.  我们穿过了一个繁忙的道路交叉口。
+
+========================================================================
+>>> landmark
+------------------------------------------------------------------------
+landmark    [美 'lændmɑrk / 英 'læn(d)mɑːk]
+n. [航]陆标；地标；界标；里程碑；纪念碑；地界标；划时代的事
+adj. 有重大意义或影响的
+n. （瑞典、挪）兰德马克（人名）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A landmark is a building or feature which is easily noticed and can be used to judge your position or the position of other buildings or features. 地标
+   ≫   The Menger Hotel is a San Antonio landmark.  蒙尔饭店是圣安东尼奥的一个标志性建筑。
+2. (N-COUNT) You can refer to an important stage in the development of something as a landmark. 里程碑
+   ≫   ...a landmark arms control treaty.  …具有里程碑意义的武器控制条约。
+
+========================================================================
+>>> suite
+------------------------------------------------------------------------
+suite    [美 sut; swit / 英 swiːt]
+n. （一套）家具；套房；组曲；（一批）随员，随从
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A suite is a set of rooms in a hotel or other building. 套房
+   ≫   They had a fabulous time during their week in a suite at the Paris Hilton.  他们在巴黎希尔顿酒店的套房里度过了非常愉快的一周。
+2. (N-COUNT) A suite is a set of matching furniture. 一套家具
+   ≫   ...a three-piece suite.  …一组三件套家具。
+3. (N-COUNT) A bathroom suite is a matching bathtub, sink, and toilet. (浴室) 套件
+   ≫   ...the horrible pink suite in the bathroom.  …浴室里那组难看的粉红色套件。
+
+========================================================================
+>>> air conditioning
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7925
+air conditioning
+n. 空调系统（=<英>air-conditioning）
+
+========================================================================
+>>> fare
+------------------------------------------------------------------------
+fare    [美 fɛr / 英 feə]
+vi. 经营；进展；遭遇；过活
+n. 票价；费用；旅客；食物
+n. (Fare)人名；(瑞典)法勒；(法、意)法尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A fare is the money that you pay for a trip that you make, for example, in a bus, train, or taxi. 车费
+   ≫   He could barely afford the fare.  他几乎付不起车费。
+2. (V-I) If you say that someone or something fares well or badly, you are referring to the degree of success they achieve in a particular situation or activity. 进展
+   ≫   It is unlikely that the marine industry will fare any better in September.  海运业不大可能在9月份有所好转。
+
+========================================================================
+>>> pick-up point
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8028
+pick-up point
+取货点：指商家或服务提供者指定的取货地点，顾客可以在此处领取他们购买的商品或服务。
+
+========================================================================
+>>> drop-off location
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8093
+drop-off location
+还车点：指租车公司规定的车辆归还地点。
+
+========================================================================
+>>> shard
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8145
+shard
+n. （甲虫的）[昆]鞘翅；陶瓷碎片 n. （Shard）人名；（印）沙尔德 [ 复数 shards ]
+
+========================================================================
+>>> shard
+------------------------------------------------------------------------
+shard    [英 ʃɑːd / 美 ʃɑrd]
+n. （甲虫的）[昆] 鞘翅；陶瓷碎片
+n. (Shard)人名；(印)沙尔德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N of n] Shards are pieces of broken glass, pottery, or metal. (玻璃、陶瓷或金属的)碎片
+   ≫   Eyewitnesses spoke of rocks and shards of glass flying in the air.  目击者们提到了在空中飞舞的石子和玻璃碎片。
+
+========================================================================
+>>> shared ride
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8236
+shared ride
+共享骑
+
+========================================================================
+>>> shared ride
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8279
+shared ride
+共享骑
+
