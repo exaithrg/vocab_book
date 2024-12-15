@@ -80,13 +80,24 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
 
 # Usage example
 if __name__ == "__main__":
-    file_path = os.path.join(os.path.dirname(__file__), 'test_vocab_book.txt')
-    vocab_units = parse_vocab_book(file_path)
+    input_file_path = os.path.join(os.path.dirname(__file__), 'test_vocab_book.txt')
+    output_brief_file_path = os.path.join(os.path.dirname(__file__), 'brief_output.txt')
+    output_detail_file_path = os.path.join(os.path.dirname(__file__), 'detail_output.txt')
+
+    vocab_units = parse_vocab_book(input_file_path)
     sorted_vocab_units = sort_units(vocab_units)
     merged_vocab_units = merge_duplicate_entries(sorted_vocab_units)
 
-    for unit in merged_vocab_units:
-        print(f"entry: {unit.entry}")
-        print(f"first word: {unit.first_word}")
-        # print(f"contents: {unit.contents}")
-        print(f"occurrences: {unit.count}\n")
+    # Write brief information to one file
+    with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
+        for unit in merged_vocab_units:
+            brief_file.write(f"entry: {unit.entry}\n")
+            brief_file.write(f"first word: {unit.first_word}\n")
+            brief_file.write(f"occurrences: {unit.count}\n\n")
+
+    # Write detailed contents to another file
+    with open(output_detail_file_path, 'w', encoding='utf-8') as detail_file:
+        for unit in merged_vocab_units:
+            detail_file.write(f"{unit.contents}\n\n")
+
+    print("Output has been written to brief_output.txt and detail_output.txt.")
