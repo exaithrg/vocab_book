@@ -30300,3 +30300,57 @@ CET4 TEM4
 5. (ADJ) Conventional weapons and wars do not involve nuclear explosives. 常规的 (武器); 不用核武器的 (战争)
    ≫   We must reduce the danger of war by controlling nuclear, chemical, and conventional arms.  我们必须通过控制核武器、化学武器和常规武器来降低战争的危险。
 
+========================================================================
+>>> indentation
+------------------------------------------------------------------------
+indentation    [美 ,ɪndɛn'teʃən / 英 ɪnden'teɪʃ(ə)n]
+n. 压痕，[物] 刻痕；凹陷；缩排；呈锯齿状
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An indentation is the space at the beginning of a line of writing when it starts further away from the edge of the paper than all the other lines. 行首空格
+2. (N-COUNT) An indentation is a shallow hole or cut in the surface or edge of something. 缺口
+   ≫   Using a knife, make slight indentations around the edges of the pastry.  用刀绕馅饼边沿刻出小缺口。
+
+========================================================================
+>>> trailing
+------------------------------------------------------------------------
+trailing    [美 'trelɪŋ / 英 'treɪlɪŋ]
+adj. 后面的；拖尾的；牵引的；被拖动的；蔓延的
+n. 拖尾；泥浆彩饰
+v. 尾随（trail的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of a plant) having a long stem which spreads over the ground or hangs loosely (植物)蔓生的
+   ≫   trailing ivy  
+
+========================================================================
+>>> trail
+------------------------------------------------------------------------
+trail    [美 trel / 英 treɪl]
+vt. 追踪；拖；蔓延；落后于
+n. 小径；痕迹；尾部；踪迹；一串，一系列
+vi. 飘出；蔓生；垂下；拖曳
+n. (Trail)人名；(英)特雷尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A trail is a rough path across open country or through forests. (乡间或林中的) 崎岖小路
+   ≫   He was following a trail through the trees.  他正沿着一条崎岖小路穿过树林。
+2. (N-COUNT) A trail is a route along a series of paths or roads, often one that has been planned and marked out for a particular purpose. (有特定目的的) 路线; 路径
+   ≫   ...a large area of woodland with hiking and walking trails.  …有徒步旅行和散步路线的大片林区。
+3. (N-COUNT) A trail is a series of marks or other signs of movement or other activities left by someone or something. 痕迹
+   ≫   Everywhere in the house was a sticky trail of orange juice.  房子里到处都是粘乎乎的橙汁印迹。
+4. (V-T) If you trail someone or something, you follow them secretly, often by finding the marks or signs that they have left. 跟踪
+   ≫   Two detectives were trailing him.  两个侦探正在跟踪他。
+5. (N-COUNT) You can refer to all the places that a politician visits in the period before an election as their campaign trail. (竞选巡回宣传) 路线
+   ≫   During a recent speech on the campaign trail, he was interrupted by hecklers.  在最近的一次竞选巡回演讲中，他被诘问者打断了。
+6. (V-T/V-I) If you trail something or it trails, it hangs down loosely behind you as you move along. 拖
+   ≫   She came down the stairs slowly, trailing the coat behind her.  她慢慢地走下楼梯，身后拖着大衣。
+7. (PHRASE) If you are on the trail of a person or thing, you are trying hard to find them or find out about them. 追踪
+   ≫   The police were hot on his trail.  警方正紧紧跟踪他。
+
+========================================================================
+>>> For convenience,
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：839
+For convenience,
+为了方便起见：为了方便而采取的措施或行动。
+
