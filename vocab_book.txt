@@ -30269,3 +30269,34 @@ n. 分歧
 1. [正式] A divergence is a difference between two or more things, attitudes, or opinions. 分歧; 差异
    ≫   There's a substantial divergence of opinion within the party.  党内意见严重分歧。
 
+========================================================================
+>>> unconventional
+------------------------------------------------------------------------
+unconventional    [美 ,ʌnkən'vɛnʃənl / 英 ʌnkən'venʃ(ə)n(ə)l]
+adj. 非常规的；非传统的；不依惯例的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a person or their attitude or behaviour as unconventional, you mean that they do not behave in the same way as most other people in their society. (人、态度、行为等) 非传统的
+   ≫   Linus Pauling is an unconventional genius.  莱纳斯·鲍林是个奇才。
+   ≫   He was known for his unconventional behaviour.  他曾因另类行为而出名。
+2. (ADJ) An unconventional way of doing something is not the usual way of doing it, and may be surprising. (做法) 非常规的
+   ≫   The vaccine had been produced by an unconventional technique.  这种疫苗是用非常规的技术生产出来的。
+   ≫   Despite his unconventional methods, he has inspired students more than anyone else.  虽然用的是非常规的方法，他却比其他人更多地启发了学生。
+
+========================================================================
+>>> conventional
+------------------------------------------------------------------------
+conventional    [美 kən'vɛnʃənl / 英 kən'venʃ(ə)n(ə)l]
+adj. 符合习俗的，传统的；常见的；惯例的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is conventional has behaviour or opinions that are ordinary and normal. (行为观念等) 传统的
+   ≫   ...a respectable married woman with conventional opinions.  …一个可敬的观念传统的已婚妇女。
+2. (ADV) conventionally 传统地
+   ≫   Men still wore their hair short and dressed conventionally.  男人还是留着短发，着装传统。
+3. (ADJ) A conventional method or product is one that is usually used or that has been in use for a long time. 传统的 (方法或产品等)
+   ≫   ...the risks and drawbacks of conventional family planning methods.  …传统计划生育方法的风险和缺陷。
+4. [ADV with v] conventionally 传统地
+   ≫   Organically grown produce does not differ greatly in appearance from conventionally grown crops.  有机农产品与传统方法种植的农产品在外观上没有太大的区别。
+5. (ADJ) Conventional weapons and wars do not involve nuclear explosives. 常规的 (武器); 不用核武器的 (战争)
+   ≫   We must reduce the danger of war by controlling nuclear, chemical, and conventional arms.  我们必须通过控制核武器、化学武器和常规武器来降低战争的危险。
+
