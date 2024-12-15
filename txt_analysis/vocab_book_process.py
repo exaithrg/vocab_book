@@ -1,5 +1,6 @@
 import os
 from typing import List, Dict
+from datetime import datetime
 
 class VocabularyUnit:
     def __init__(self, entry: str, contents: str):
@@ -87,9 +88,13 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
 
 # Usage example
 if __name__ == "__main__":
-    input_file_path = os.path.join(os.path.dirname(__file__), 'test_vocab_book.txt')
-    output_brief_file_path = os.path.join(os.path.dirname(__file__), 'brief_output.txt')
-    output_detail_file_path = os.path.join(os.path.dirname(__file__), 'detail_output.txt')
+    input_file_path = os.path.join(os.path.dirname(__file__), 'vocab_book.txt')
+    
+    # Get current timestamp and format it
+    timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
+    
+    output_brief_file_path = os.path.join(os.path.dirname(__file__), f'vocab_book_brief_{timestamp}.txt')
+    output_detail_file_path = os.path.join(os.path.dirname(__file__), f'vocab_book_detail_{timestamp}.txt')
 
     vocab_units = parse_vocab_book(input_file_path)
     sorted_vocab_units = sort_units(vocab_units)
@@ -107,5 +112,6 @@ if __name__ == "__main__":
         for unit in merged_vocab_units:
             detail_file.write(f"{unit.contents}\n\n")
 
-    print("Output has been written to brief_output.txt and detail_output.txt.")
-    
+    print("Output has been written to:")
+    print(f"Brief output: {output_brief_file_path}")
+    print(f"Detail output: {output_detail_file_path}")
