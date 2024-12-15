@@ -1,21 +1,5 @@
-entry: 
-first word: 
-occurrences: 8
-
 entry: 3D Gaussian Splatting
 first word: 3D
-occurrences: 1
-
-entry: ========================================================================
-first word: ========================================================================
-occurrences: 1
-
-entry: >> acheeee
-first word: >>
-occurrences: 1
-
-entry: >> fly off
-first word: >>
 occurrences: 1
 
 entry: A fictional dish of food
@@ -130,8 +114,8 @@ entry: accumulate
 first word: accumulate
 occurrences: 2
 
-entry: acheee
-first word: acheee
+entry: acheeee
+first word: acheeee
 occurrences: 1
 
 entry: Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
@@ -3616,6 +3600,10 @@ occurrences: 2
 
 entry: fluoroquinolone
 first word: fluoroquinolone
+occurrences: 1
+
+entry: fly off
+first word: fly
 occurrences: 1
 
 entry: Flyco
@@ -7420,7 +7408,7 @@ occurrences: 2
 
 entry: resolve
 first word: resolve
-occurrences: 1
+occurrences: 2
 
 entry: resolving
 first word: resolving

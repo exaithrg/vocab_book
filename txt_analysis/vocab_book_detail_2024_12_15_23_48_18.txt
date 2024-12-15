@@ -1,39 +1,10 @@
 ========================================================================
-
-========================================================================
 >>> 3D Gaussian Splatting
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
 ✔  成功启动守护进程，PID：970
 3D Gaussian Splatting
 3D高斯飞溅
-
-========================================================================
-resolve    [英 rɪ'zɒlv / 美 rɪ'zɑlv]
-vt. 决定；溶解；使…分解；决心要做…
-vi. 解决；决心；分解
-n. 坚决；决定要做的事
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [正式] To resolve a problem, argument, or difficulty means to find a solution to it. 解决
-   ≫   We must find a way to resolve these problems before it's too late.  我们必须找到一个办法去解决这些问题,不然就太晚了。
-2. [正式] If you resolve to do something, you make a firm decision to do it. 下决心
-   ≫   She resolved to report the matter to the hospital's nursing supervisor.  她决心把这件事向该医院的护士长汇报。
-3. [正式] Resolve is determination to do what you have decided to do. 决心
-   ≫   So you're saying this will strengthen the American public's resolve to go to war if necessary?  那么你是说，这将会坚定美国公众在必要时参战的决心？
-
-========================================================================
->> acheeee
-Not found :(
-
-========================================================================
->> fly off
-fly off
-迅速逃跑，逃离：指迅速离开某个地方或情境，通常带有突然、急迫的意味。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   When they return they do a "waggle dance" for their spot, and other scouts will then fly off and investigate it. 它们回来时会为选择的地点跳一段“摇摆舞”，然后其他侦察蜂就会飞出去并对这个地点进行调查。
-≫   Your boss seems to fly off the handle. 你老板似乎很生气。
-≫   Scouts fly off to investigate multiple sites. 侦查蜂会飞到多个地点去调查。
 
 ========================================================================
 A fictional dish of food
@@ -253,7 +224,8 @@ CET4 TEM4
    ≫   Lead can accumulate in the body until toxic levels are reached.  铅可以在体内积聚直至到达有毒的程度。
 
 ========================================================================
-acheee
+>>> acheeee
+Not found :(
 
 ========================================================================
 Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
@@ -9810,6 +9782,15 @@ fluoroquinolone
 ≫   Aim To synthesize new fluoroquinolone analogues as antibacterial compounds. 目的合成新型含氟喹诺酮类抗菌化合物。
 ≫   The energy resistance inhibiter, such as CCCP, can intensify bacterial ingestion to fluoroquinolone drugs. CCCP等能量抑制剂可加强细菌对氟喹诺酮类药物的摄取量。
 ≫   Objective: To study the security of fluoroquinolone antibiotics and those underlying mechanisms of the exacerbation of myasthenia gravis (MG) following them. 目的：探讨喹诺酮类抗生素对重症肌无力(MG)治疗的安全性及其引起肌无力加重反应的可能机制。
+
+========================================================================
+>>> fly off
+fly off
+迅速逃跑，逃离：指迅速离开某个地方或情境，通常带有突然、急迫的意味。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   When they return they do a "waggle dance" for their spot, and other scouts will then fly off and investigate it. 它们回来时会为选择的地点跳一段“摇摆舞”，然后其他侦察蜂就会飞出去并对这个地点进行调查。
+≫   Your boss seems to fly off the handle. 你老板似乎很生气。
+≫   Scouts fly off to investigate multiple sites. 侦查蜂会飞到多个地点去调查。
 
 ========================================================================
 Flyco
