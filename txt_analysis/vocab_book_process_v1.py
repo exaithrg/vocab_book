@@ -6,6 +6,14 @@ class VocabularyUnit:
         self.entry = entry.strip()
         self.contents = contents.strip()
         self.count = 1  # Initialize the counter for occurrences
+        self.first_word = self.extract_first_word(entry)
+
+    @staticmethod
+    def extract_first_word(text: str) -> str:
+        words = text.split()
+        if words:
+            return words[0]
+        return ''
 
 def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
     units: List[VocabularyUnit] = []
@@ -79,5 +87,6 @@ if __name__ == "__main__":
 
     for unit in merged_vocab_units:
         print(f"entry: {unit.entry}")
+        print(f"first word: {unit.first_word}")
         # print(f"contents: {unit.contents}")
         print(f"occurrences: {unit.count}\n")
