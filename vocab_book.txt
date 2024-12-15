@@ -31385,3 +31385,47 @@ v. 揭示；除去面纱（unveil的ing形式）
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) a ceremony involving the removal of a veil at the formal presentation of a statue, monument, etc, for the first time 揭幕仪式
 
+========================================================================
+>>> autoregressive
+------------------------------------------------------------------------
+autoregressive
+adj. [数] 自回归的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A study was conducted on the spatial correlation of the forests in Heilongjiang Province by spatial autocorrelation analysis and spatial autoregressive model. 运用空间自相关和自回归模型对黑龙江省森林空间分布的聚集性和相关性进行研究。
+≫   Therefore, evaluation could be carried out by means of Generalized Autoregressive Conditional Heteroscedasticity (GARCH), which could make hedge ratio vary with time. 因此，评估可由广义自回归条件异方差（GARCH模型），这可能使避险比率意味着出随时间变化。
+≫   Using the government expenditure for agriculture and rural electricity consumption as explanatory variables, this paper establishes spatial autoregressive models (SAR) for farmer's income per capita. 本文利用各省财政农业人均支出、农村人均用电量作为解释变量，建立了农民人均收入空间自回归（SAR）模型。
+
+========================================================================
+>>> orchestrating
+------------------------------------------------------------------------
+orchestrating    ['ɔ:kistreit; -kes-]
+精心策划
+给 ... 配管弦乐曲
+使协调地结合在一起
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone orchestrates an event or situation, you mean that they carefully organize it in a way that will produce the result that they want. 精心组织
+   ≫   The colonel was able to orchestrate a rebellion from inside an army jail.  上校得以在陆军监狱里精心组织了一场叛乱。
+2. (N-UNCOUNT) orchestration 精心的安排
+   ≫   ...his skilful orchestration of latent nationalist feeling.  …他对潜在的民族主义情绪的熟练控制。
+
+========================================================================
+>>> kaggle
+------------------------------------------------------------------------
+Kaggle
+n.一个数据建模和数据分析竞赛平台
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   My company, Kaggle, operates on the cutting edge of machine learning. 我的公司 Kaggle 在机器学习领域处于领先地位。
+≫   In 2012, Kaggle challenged its community to build a program that could grade high school essays. 2012年，Kaggle 向其社区发起挑战，要求建立一个可以为高中作文打分的程序。
+≫   In 2012, Kaggle challenged its community to build a program that could grade high-school essays. 2012年，Kaggle向其社区发起挑战，要求建立一个可以给高中论文打分的程序。
+
+========================================================================
+>>> grandmas
+------------------------------------------------------------------------
+grandmas
+n．奶奶，外婆（复数）：母亲或父亲的母亲。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-FAMILY) Your grandma is your grandmother. 奶奶; 外婆 [非正式]
+   ≫   Grandma was from Scotland.  奶奶来自苏格兰。
+
