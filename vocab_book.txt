@@ -31337,3 +31337,51 @@ n. 残留物；剩余；残渣；剩余遗产；社会渣滓
 your quest is over
 你的任务结束了
 
+========================================================================
+>>> veil
+------------------------------------------------------------------------
+veil    [美 vel / 英 veɪl]
+n. 面纱；面罩；遮蔽物；托词
+vt. 遮蔽；掩饰；以面纱遮掩；用帷幕分隔
+vi. 蒙上面纱；出现轻度灰雾
+n. (Veil)人名；(法)韦伊；(德)法伊尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A veil is a piece of thin soft cloth that women sometimes wear over their heads and that can also cover their face. 面纱
+   ≫   She's got long fair hair but she's got a veil over it.  她有长长的金发，却把面纱罩于其上。
+2. (N-COUNT) You can refer to something that hides or partly hides a situation or activity as a veil. 掩饰物
+   ≫   The country is ridding itself of its disgraced prime minister in a veil of secrecy.  该国正在暗地里将其名誉扫地的首相赶下台。
+3. [文学性] You can refer to something that you can partly see through, such as a mist, as a veil. (薄雾等) 半透明物
+   ≫   The eruption has left a thin veil of dust in the upper atmosphere.  这次火山喷发在上层大气中留下了一个薄薄的尘土层。
+
+========================================================================
+>>> unveil
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4253
+unveil
+v. （首次）公开，揭示；为……揭幕，揭去……上的覆盖物；除去面纱，显露 [ 第三人称单数 unveils 现在分词 unveiling 过去式 unveiled 过去分词 unveiled ]
+
+========================================================================
+>>> unveil
+------------------------------------------------------------------------
+unveil    [美 ,ʌn'vel / 英 ʌn'veɪl]
+vt. 使公诸于众，揭开；揭幕
+vi. 除去面纱；显露
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone formally unveils something such as a new statue or painting, they draw back the curtain which is covering it. 为…揭幕
+   ≫   ...a ceremony to unveil a monument to the victims.  …死难者纪念碑揭幕仪式。
+2. (V-T) If you unveil a plan, new product, or some other thing that has been kept secret, you introduce it to the public. 公布
+   ≫   Mr. Werner unveiled his new strategy this week.  沃纳先生本周公布了他的新策略。
+
+========================================================================
+>>> unveiling
+------------------------------------------------------------------------
+unveiling    [,ʌn'veɪlɪŋ / 英 ,ʌn'veɪlɪŋ]
+adj. 揭幕的
+n. 除去遮盖物；公开；揭幕式
+v. 揭示；除去面纱（unveil的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a ceremony involving the removal of a veil at the formal presentation of a statue, monument, etc, for the first time 揭幕仪式
+
