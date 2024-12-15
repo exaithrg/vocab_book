@@ -32336,3 +32336,107 @@ TEM8
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> beckoned
+------------------------------------------------------------------------
+beckoned
+v．招手，示意：用手势或动作表示让某人过来或跟随。
+★ CET6+ TEM8 beckoning,beckoned,beckons
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you beckon to someone, you signal to them to come to you. 向…招手
+   ≫   He beckoned to the waiter.  他朝服务员招了招手。
+   ≫   I beckoned her over.  我招手叫她过来。
+2. (V-I) If something beckons, it is so attractive to someone that they feel they must become involved in it. 召唤
+   ≫   All the attractions of the peninsula beckon.  那半岛上所有胜地都引人入胜。
+3. (V-I) If something beckons for someone, it is very likely to happen to them. 向…召唤
+   ≫   The big time beckons for Billy Dodds.  伟大的时刻在向比利•多兹召唤。
+
+========================================================================
+>>> coalition
+------------------------------------------------------------------------
+coalition    [美 ˌkoʊəˈlɪʃn / 英 ,kəʊə'lɪʃ(ə)n]
+n. 联合；结合，合并
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A coalition is a government consisting of people from two or more political parties. 联合政府
+   ≫   Since June the country has had a coalition government.  从6月起，这个国家有了一个联合政府。
+2. (N-COUNT) A coalition is a group consisting of people from different political or social groups who are cooperating to achieve a particular aim. 联盟
+   ≫   He had been opposed by a coalition of about 50 civil rights, women's, and Latino organizations.  他遭到一个联盟的反对，该联盟由大约五十个民权组织、妇女组织和拉美人组织构成。
+
+========================================================================
+>>> union
+------------------------------------------------------------------------
+union    [美 'junɪən / 英 'juːnjən; -ɪən]
+n. 联盟，协会；工会；联合
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A union is a workers' organization which represents its members and which tries to improve things such as their working conditions and pay. 工会
+   ≫   Do all teachers have a right to join a union?  所有的教师都有权利加入工会吗？
+2. (N-UNCOUNT) When the union of two or more things occurs, they are joined together and become one thing. 合并
+   ≫   In 1918 the Romanian majority in this former czarist province voted for union with Romania.  1918年，这个前沙俄省份的大多数罗马尼亚人投票支持与罗马尼亚合并。
+3. (N-SING) When two or more things, for example countries or organizations, have been joined together to form one thing, you can refer to them as a union. 联盟
+   ≫   Tanzania is a union of the states of Tanganyika and Zanzibar.  坦桑尼亚是坦噶尼喀州和桑给巴尔州的联盟。
+
+========================================================================
+>>> avenger
+------------------------------------------------------------------------
+avenger    [美 ə'vɛndʒɚ / 英 ə'vendʒə]
+n. 复仇者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Being an Avenger gives Clint his path and redeems him. 成为复仇者给他指明一条道路，一个赎救自我的机会。
+≫   The Avenger was designed with the hope of effectively detonating the Improvised Explosive Devices (IEDs) that inflict more damage on American forces than any other weapon. 设计制造复仇者是为了有效地引爆临时爆炸装置，这些装置对美国军队的杀伤力最大。
+≫   These systems include the Airborne Laser, Advanced Tactical Laser, Free Electron Laser, Laser Avenger and Tactical Relay Mirror System. 这些系统包括机载激光系统、先进战术激光系统、自由电子激光系统、激光复仇者系统和战术中继反射镜系统等。
+
+========================================================================
+>>> tactical
+------------------------------------------------------------------------
+tactical    [英 'tæktɪk(ə)l / 美 'tæktɪkl]
+adj. 战术的；策略的；善于策略的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use tactical to describe an action or plan which is intended to help someone achieve what they want in a particular situation. 战术上的
+   ≫   It's not yet clear whether his resignation offer is a serious one, or whether it's simply a tactical move.  还不清楚他的辞职请求是认真的，还是只是个策略上的举动。
+2. (ADV) tactically 有策略地
+   ≫   The electorate is astute enough to vote tactically against the government.  全体选民非常精明，很有策略地投了政府的反对票。
+3. [ADJ n] Tactical weapons or forces are those which a military leader can decide for themselves to use in a battle, rather than waiting for a decision by a political leader. (武器或军队) 战术性的
+   ≫   They have removed all tactical nuclear missiles that could strike Europe.  他们已经拆走了所有可能攻击欧洲的战术性核导弹。
+
+========================================================================
+>>> tactic
+------------------------------------------------------------------------
+tactic    [美 'tæktɪk / 英 'tæktɪk]
+n. 策略，战略
+adj. 按顺序的，依次排列的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Tactics are the methods that you choose to use in order to achieve what you want in a particular situation. 战术
+   ≫   The rebels would still be able to use guerrilla tactics to make the country ungovernable.  反叛者仍然可以用游击战术使国家难以统治。
+
+========================================================================
+>>> strategic
+------------------------------------------------------------------------
+strategic    [美 strə'tidʒɪk / 英 strə'tiːdʒɪk]
+adj. 战略上的，战略的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Strategic means relating to the most important, general aspects of something such as a military operation or political policy, especially when these are decided in advance. 战略上的
+   ≫   ...the new strategic thinking which NATO leaders produced at the recent London summit.  …北大西洋公约组织领导人在最近伦敦峰会上提出的新的战略思维。
+2. (ADV) strategically 战略上地
+   ≫   ...strategically important roads, bridges and buildings.  …战略上具有重要意义的公路、桥梁和建筑物。
+3. (ADJ) Strategic weapons are very powerful missiles that can be fired only after a decision to use them has been made by a political leader. 战略性的
+   ≫   ...strategic nuclear weapons.  …战略性核武器。
+4. (ADJ) If you put something in a strategic position, you place it cleverly in a position where it will be most useful or have the most effect. 巧妙的
+   ≫   ...the marble benches Eve had placed at strategic points throughout the gardens, where the views were spectacular.  …伊夫在花园各个景色优美的巧妙位置安放的大理石长凳。
+5. (ADV) strategically 巧妙地
+   ≫   We had kept its presence hidden with a strategically placed chair.  我们用一把巧妙放置的椅子把它隐藏起来。
+
+========================================================================
+>>> strategically
+------------------------------------------------------------------------
+strategically    [美 strə'tidʒɪkli / 英 strə'tiːdʒɪkəlɪ]
+adv. 战略性地；战略上
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This region is becoming increasingly important both strategically and economically. 这个地区的战略地位和经济地位变得越来越重要了。
+≫   Strategically we should despise all our enemies, but tactically we should take them all seriously. 在战略上我们要藐视一切敌人， 在战术上我们要重视一切敌人。
+≫   This means that, there are strategically ‘core’ and ‘non-core’ resources and capabilities in a firm, of which only core competences make significant persistent differences. 这意味着，在公司内存在战略上的“核心”与“非核心”资源与能力，只有那些核心竞争力产生显著而持续的差异。
+
