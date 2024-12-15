@@ -1,10 +1,11 @@
 import os
-from typing import List
+from typing import List, Dict
 
 class VocabularyUnit:
     def __init__(self, entry: str, contents: str):
         self.entry = entry.strip()
         self.contents = contents.strip()
+        self.count = 1  # Initialize the counter for occurrences
 
 def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
     units: List[VocabularyUnit] = []
@@ -40,12 +41,29 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
 def sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     return sorted(units, key=lambda unit: unit.entry)
 
+def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    merged_units: List[VocabularyUnit] = []
+    seen_entries: Dict[str, VocabularyUnit] = {}
+
+    for unit in units:
+        if unit.entry in seen_entries:
+            # Increment the count of the existing unit
+            seen_entries[unit.entry].count += 1
+        else:
+            # Add new unit to the dictionary and list
+            seen_entries[unit.entry] = unit
+            merged_units.append(unit)
+
+    return merged_units
+
 # Usage example
 if __name__ == "__main__":
     file_path = os.path.join(os.path.dirname(__file__), 'test_vocab_book.txt')
     vocab_units = parse_vocab_book(file_path)
     sorted_vocab_units = sort_units(vocab_units)
+    merged_vocab_units = merge_duplicate_entries(sorted_vocab_units)
 
-    for unit in sorted_vocab_units:
+    for unit in merged_vocab_units:
         print(f"entry: {unit.entry}")
-        print(f"contents: {unit.contents}\n")
+        # print(f"contents: {unit.contents}")
+        print(f"occurrences: {unit.count}\n")
