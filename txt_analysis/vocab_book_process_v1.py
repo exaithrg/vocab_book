@@ -34,8 +34,22 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
     return units
 
 def extract_entry_and_contents(lines: List[str]) -> (str, str):
-    entry_line = lines[1] if len(lines) > 1 and lines[0].startswith('========================================================================') else lines[0]
-    entry = entry_line if not entry_line.startswith('>>>') else entry_line[4:]
+    if len(lines) > 1 and lines[0].startswith('========================================================================'):
+        first_line = lines[1]
+    else:
+        first_line = lines[0]
+
+    # Check if the line contains phonetic symbols (indicating an entry with pronunciation)
+    if '[' in first_line and ']' in first_line:
+        # Extract the part before the phonetic symbols
+        entry = first_line.split('[')[0].strip()
+    elif first_line.startswith('>>>'):
+        # Remove the leading '>>>' and take the rest of the line as entry
+        entry = first_line[3:].strip()
+    else:
+        # Take the whole line as entry
+        entry = first_line.strip()
+
     return entry, ''.join(lines)
 
 def sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:

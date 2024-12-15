@@ -3,6 +3,14 @@ Achieve every goal you set for yourself with formidable drive, unwavering determ
 用强大的动力、坚定的决心和敏锐的智慧来实现你为自己设定的每一个目标。
 
 ========================================================================
+>>> San Francisco, CA
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1072
+San Francisco, CA
+旧金山，加州
+
+========================================================================
 formidable    [美 'fɔrmɪdəbl / 英 'fɔːmɪdəb(ə)l; fɔː'mɪd-]
 adj. 强大的；可怕的；令人敬畏的；艰难的
 CET6 TEM4
@@ -40,6 +48,21 @@ Hermione Granger
 ≫   Darkest film yet: Emma Watson, who plays Hermione Granger, is seen holding up her blood-covered hands. 在最黑暗的电影：艾玛·华生赫敏格兰杰的扮演者满手覆血。
 ≫   Emma Watson, who plays Hermione Granger, says she looks forward to "finally being free, being my own person" - a transformation signalled by the actress's dramatic new pixie cut. 赫敏格兰杰的扮演者爱玛·沃特森说，她期待着能“最终获得自由，做回自己”。这位女演员最近剪了个夸张的“精灵头”，预示着这一内心的转变。
 ≫   One was named Hermione Granger, the other Emma Watson. 一个叫赫敏·格兰杰，另一个叫艾玛·沃特森。
+
+========================================================================
+explicit    [美 ɪk'splɪsɪt / 英 ɪk'splɪsɪt; ek-]
+adj. 明确的；清楚的；直率的；详述的
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is explicit is expressed or shown clearly and openly, without any attempt to hide anything. 明确表达的; 公开显露的
+   ≫   Sexually explicit scenes in movies and books were taboo under the old regime.  电影和书籍中露骨的性爱场景在旧体制下是禁忌的。
+2. (ADV) explicitly 明确表达地; 公开显露地
+   ≫   The play was the first commercially successful work dealing explicitly with homosexuality.  该剧是首部在商业上获得成功的公然描写同性恋的作品。
+3. [v-link ADJ, oft ADJ 'about' n] If you are explicit about something, you speak about it very openly and clearly. 直言不讳的
+   ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
+4. [ADV with v] explicitly 直言不讳地
+   ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+
 
 ========================================================================
 罗恩韦斯莱
@@ -88,6 +111,14 @@ plunge into    [美 plʌndʒ ˈɪntə]
 ≫   The train derailed and plunged into the river. 火车脱轨栽进了河里。《牛津词典》
 
 ========================================================================
+>>> San Francisco, CA
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1072
+San Francisco, CA
+旧金山，加州
+
+========================================================================
 >>> retrieval augmented generatioin
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
@@ -98,3 +129,18 @@ retrieval augmented generatioin
 ========================================================================
 Neural Radiance Fields
 神经辐射场
+
+========================================================================
+explicit    [美 ɪk'splɪsɪt / 英 ɪk'splɪsɪt; ek-]
+adj. 明确的；清楚的；直率的；详述的
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is explicit is expressed or shown clearly and openly, without any attempt to hide anything. 明确表达的; 公开显露的
+   ≫   Sexually explicit scenes in movies and books were taboo under the old regime.  电影和书籍中露骨的性爱场景在旧体制下是禁忌的。
+2. (ADV) explicitly 明确表达地; 公开显露地
+   ≫   The play was the first commercially successful work dealing explicitly with homosexuality.  该剧是首部在商业上获得成功的公然描写同性恋的作品。
+3. [v-link ADJ, oft ADJ 'about' n] If you are explicit about something, you speak about it very openly and clearly. 直言不讳的
+   ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
+4. [ADV with v] explicitly 直言不讳地
+   ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+
