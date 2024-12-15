@@ -31429,3 +31429,35 @@ n．奶奶，外婆（复数）：母亲或父亲的母亲。
 1. (N-FAMILY) Your grandma is your grandmother. 奶奶; 外婆 [非正式]
    ≫   Grandma was from Scotland.  奶奶来自苏格兰。
 
+========================================================================
+>>> orchestration
+------------------------------------------------------------------------
+orchestration    [美 ,ɔkɛs'treʃən]
+n. 管弦乐编曲；和谐的结合
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An orchestration is a piece of music that has been rewritten so that it can be played by an orchestra. 改编成的管弦乐曲
+   ≫   Mahler's own imaginative orchestration was heard in the same concert.  在同一场音乐会上，听到了马勒自己改编的充满想像力的管弦乐曲。
+
+========================================================================
+>>> orchestra
+------------------------------------------------------------------------
+orchestra    [英 'ɔːkɪstrə / 美 'ɔrkɪstrə]
+n. 管弦乐队；乐队演奏处
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An orchestra is a large group of musicians who play a variety of different instruments together. Orchestras usually play classical music. 管弦乐队
+   ≫   ...the Los Angeles Philharmonic Orchestra.  …洛杉矶爱乐乐团。
+2. → see also
+3. [美国英语] Theorchestra or the orchestra seats in a theatre or concert hall are the seats on the first floor directly in front of the stage. 舞台前方一楼座位
+   ≫   With the balcony blocked off, patrons filled most of the orchestra seats.  楼厅包厢被封闭了，赞助人几乎坐满了舞台前方的一楼座位。
+
+========================================================================
+>>> balcony
+------------------------------------------------------------------------
+balcony    [美 'bælkənɪ / 英 'bælkənɪ]
+n. 阳台；包厢；戏院楼厅
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A balcony is a platform on the outside of a building, above ground level, with a wall or railing around it. 阳台
+2. (N-SING) The balcony in a theatre or cinema is an area of seats above the main seating area. (戏院或电影院里的) 楼座
+
