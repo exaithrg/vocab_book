@@ -5110,10 +5110,6 @@ entry: kale
 first word: kale
 occurrences: 3
 
-entry: kd <text>	查单词、词组
-first word: kd
-occurrences: 1
-
 entry: kick off
 first word: kick
 occurrences: 1
@@ -9645,14 +9641,6 @@ occurrences: 1
 entry: “but we show that its parametrization yields worse prun ing results”
 first word: “but
 occurrences: 1
-
-entry: ☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
-first word: ☣
-occurrences: 6
-
-entry: ✘  请输入有效查询字符或参数
-first word: ✘
-occurrences: 2
 
 entry: 中山大学
 first word: 中山大学

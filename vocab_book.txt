@@ -1446,9 +1446,6 @@ abbr. 苏维埃社会主义共和国联盟（Union of Soviet Socialist Republics
 ≫   Proletarian, be aware of the raid to the USSR planned by the carrion crows! 无产者们，要看到由吃腐肉的乌鸦计划的突袭苏联行动！
 
 ========================================================================
-✘  请输入有效查询字符或参数
-
-========================================================================
 fluoroquinolone
 氟喹诺酮
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -4618,9 +4615,6 @@ adj. 寒武纪的；威尔斯的；威尔斯人的
 2. (N) the Cambrian period or rock system 寒武纪; 寒武系(寒武纪形成的岩石系统)
 
 ========================================================================
-✘  请输入有效查询字符或参数
-
-========================================================================
 iconic    [英 aɪ'kɒnɪk / 美 aɪ'kɑnɪk]
 adj. 图标的，形象的
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
@@ -5230,9 +5224,6 @@ CET6+ TEM8
    ≫   Seven men, all from North Carolina, admitted conspiracy to commit arson.  全都来自于北卡罗来纳州的七名男子承认了合谋纵火。
 2. (N-COUNT) A conspiracy is an agreement between a group of people which other people think is wrong or is likely to be harmful. 阴谋
    ≫   It's all part of a conspiracy to dispense with the town centre all together and move everything out to the suburbs.  这全都属于一个阴谋，以彻底放弃市中心而把一切搬到郊区。
-
-========================================================================
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
 
 ========================================================================
 conspiracy theories
@@ -6409,9 +6400,6 @@ CET6 TEM4
 4. (V) to jellify 使凝成胶状
 
 ========================================================================
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
-
-========================================================================
 river jelly
 河果冻
 
@@ -6599,9 +6587,6 @@ yield roe
 收益率roe案件的判决
 
 ========================================================================
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
-
-========================================================================
 fire quartz
 火石英
 
@@ -6734,9 +6719,6 @@ CET6+ TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A chore is a task that you must do but that you find unpleasant or boring. 琐事
    ≫   She sees exercise primarily as an unavoidable chore.  她把锻炼主要看作是不得不做的琐事。
-
-========================================================================
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
 
 ========================================================================
 house chores
@@ -7386,9 +7368,6 @@ n. （汉）钱
 ≫   "I will never forget a lecture I made in the playground of a small village school," says Qian. “我永远也忘不了那一次我在一所乡村学校的操场上做的一场报告，”钱迎倩说。
 ≫   By the time the next elections were due in 2008, Mr Qian was back in prison, this time because of an illegal land transaction. 2008年是又一次村委选举的时候，但钱却又重回狱中，这次是因为一次非法的土地交易。
 ≫   There are few people who ever made such a lasting impression on these two countries—whether Qian ever intended to be one of them or not. 很少有人能够在中美两国之间造成如此持久的影响，不管钱学森是否有意成为他们的一份子。
-
-========================================================================
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
 
 ========================================================================
 hsue-shen
@@ -12626,11 +12605,6 @@ CET4 TEM4
 6. [英国英语] Casual work is done for short periods and not on a permanent or regular basis. 临时的
 
 ========================================================================
-kd <text>	查单词、词组
-kd -t <text>	查长句
-kd -h    	查看详细帮助
-
-========================================================================
 formidable    [美 'fɔrmɪdəbl / 英 'fɔːmɪdəb(ə)l; fɔː'mɪd-]
 adj. 强大的；可怕的；令人敬畏的；艰难的
 CET6 TEM4
@@ -14544,9 +14518,6 @@ CET4 TEM4
 5. (ADV) casually 休闲地
    ≫   They were casually dressed.  他们穿着休闲。
 6. [英国英语] Casual work is done for short periods and not on a permanent or regular basis. 临时的
-
-========================================================================
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
 
 ========================================================================
 something casual
