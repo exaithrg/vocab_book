@@ -21,18 +21,25 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
             current_unit_lines = []
+            previous_line_empty = False  # Track whether the last line was empty
             for line in lines:
-                if line.startswith('========================================================================'):
+                stripped_line = line.strip()
+                if stripped_line.startswith('========================================================================'):
                     if current_unit_lines:  # If there's a unit accumulated, finalize it and add to the list.
                         entry, contents = extract_entry_and_contents(current_unit_lines)
-                        units.append(VocabularyUnit(entry, '\n'.join(current_unit_lines)))
-                        current_unit_lines = []
-                current_unit_lines.append(line)
-
+                        units.append(VocabularyUnit(entry, ''.join(current_unit_lines)))
+                        current_unit_lines = [line]  # Start new unit with separator
+                    else:
+                        current_unit_lines.append(line)  # Add separator for the first unit
+                    previous_line_empty = False  # Reset after a unit separator
+                else:
+                    if not (stripped_line == '' and previous_line_empty):  # Avoid consecutive empty lines
+                        current_unit_lines.append(line)
+                        previous_line_empty = stripped_line == ''
             # Handle the last unit if any
             if current_unit_lines:
                 entry, contents = extract_entry_and_contents(current_unit_lines)
-                units.append(VocabularyUnit(entry, '\n'.join(current_unit_lines)))
+                units.append(VocabularyUnit(entry, ''.join(current_unit_lines)))
 
     except FileNotFoundError:
         print(f"Error: The file at {file_path} was not found.")
@@ -101,3 +108,4 @@ if __name__ == "__main__":
             detail_file.write(f"{unit.contents}\n\n")
 
     print("Output has been written to brief_output.txt and detail_output.txt.")
+    
