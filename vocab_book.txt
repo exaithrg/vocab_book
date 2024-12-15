@@ -32589,3 +32589,71 @@ CET4 TEM4
 windy hill
 街道地址
 
+========================================================================
+>>> context
+------------------------------------------------------------------------
+context    [美 'kɑntɛkst / 英 'kɒntekst]
+n. 环境；上下文；来龙去脉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The context of an idea or event is the general situation that relates to it, and which helps it to be understood. 背景
+   ≫   We are doing this work in the context of reforms in the economic, social and cultural spheres.  我们正在经济、社会和文化领域改革的背景下从事这项工作。
+   ≫   It helps to understand the historical context in which Chaucer wrote.  这有助于理解乔叟创作时的历史背景。
+2. (N-VAR) The context of a word, sentence, or text consists of the words, sentences, or text before and after it which help to make its meaning clear. 语境
+   ≫   Without a context, I would have assumed it was written by a man.  如果没有一个语境，我会以为这是由一个男人写的。
+3. (PHRASE) If something is seen in context or if it is put into context, it is considered together with all the factors that relate to it. 联系背景地
+   ≫   Taxation is not popular in principle, merely acceptable in context.  征税原则上不受大众欢迎，只是联系背景看是可接受的。
+4. (PHRASE) If a statement or remark is quoted out of context, the circumstances in which it was said are not correctly reported, so that it seems to mean something different from the meaning that was intended. 脱离语境地
+   ≫   Thomas says that he has been quoted out of context.  托马斯说，他的话被断章取义了。
+
+========================================================================
+>>> 内容
+------------------------------------------------------------------------
+内容
+n. content ; details ; matter ; substance
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She is reluctant to discuss the content of the play. 她不愿讨论这部话剧的内容。《柯林斯英汉双解大词典》
+≫   The curriculum needs breadth and balance. 课程设置应该内容广泛而且均衡。《牛津词典》
+≫   The letter was brief, and couched in very polite terms. 这封信内容简短，措辞特别客气。《牛津词典》
+
+========================================================================
+>>> content
+------------------------------------------------------------------------
+content    [美 'kɑntɛnt / 英 kən'tent]
+n. 内容，目录；满足；容量
+adj. 满意的
+vt. 使满足
+n. (Content)人名；(法)孔唐
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) The contents of a container such as a bottle, box, or room are the things that are inside it. (瓶子、盒子或房间的) 所容之物
+   ≫   Empty the contents of the pan into the sieve.  将平锅里的东西全部倒入漏勺。
+2. (N-PLURAL) The contents of a book are its different chapters and sections, usually shown in a list at the beginning of the book. (书的) 目录
+   ≫   There is no Table of Contents.  没有目录。
+3. [also N in pl, usu N 'of' n] If you refer to the content or contents of something such as a book, television programme, or website, you are referring to the subject that it deals with, the story that it tells, or the ideas that it expresses. (书、电视节目或网站等的) 内容
+   ≫   She is reluctant to discuss the content of the play.  她不愿讨论这部话剧的内容。
+   ≫   Stricter controls were placed on the content of videos.  对录像的内容有了更严格的控制。
+4. (N-UNCOUNT) The content of something such as an educational course or a programme of action is the elements that it consists of. (课程或计划的) 内容
+   ≫   Previous students have had nothing but praise for the course content and staff.  以前的学生们对该课程的内容和教师只有称赞。
+5. (N-SING) You can use content to refer to the amount or proportion of something that a substance contains. 含量
+   ≫   Sunflower margarine has the same fat content as butter.  葵花籽人造黄油跟黄油的脂肪含量一样。
+6. (N-SING) 
+7. [v-link ADJ] If you are content with something, you are willing to accept it, rather than wanting something more or something better. 满足的
+   ≫   I am content to admire the mountains from below.  我满足于从山下观赏群山。
+   ≫   I'm perfectly content with the way the campaign has gone.  我对这次活动开展的情况感到心满意足。
+8. [v-link ADJ] If you are content, you are fairly happy or satisfied. 满意的
+   ≫   He says his daughter is quite content.  他说他的女儿颇为满意。
+9. (V) to make (oneself or another person) content or satisfied 使满足
+   ≫   to content oneself with property  
+10. to your heart's content →see
+
+========================================================================
+>>> 词条
+------------------------------------------------------------------------
+词条
+entry (in a dictionary)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The new edition of the dictionary carries 7,000 additions to the language, which purists say is under threat. 新版词典为该语种增加了7000个词条，纯粹派说该语种正受到威胁。《柯林斯英汉双解大词典》
+≫   The entry for 'polygraph' is cross-referred to the entry for 'lie detector'. 词条polygraph下注有指向词条lie detector的参照项。《牛津词典》
+≫   Double-click an entry to see the full log entry. 双击一个词条来查看完整的日志记录。
+
