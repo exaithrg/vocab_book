@@ -37,10 +37,15 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
     entry = entry_line if not entry_line.startswith('>>>') else entry_line[4:]
     return entry, ''.join(lines)
 
+def sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    return sorted(units, key=lambda unit: unit.entry)
+
 # Usage example
 if __name__ == "__main__":
     file_path = os.path.join(os.path.dirname(__file__), 'test_vocab_book.txt')
     vocab_units = parse_vocab_book(file_path)
-    for unit in vocab_units:
+    sorted_vocab_units = sort_units(vocab_units)
+
+    for unit in sorted_vocab_units:
         print(f"entry: {unit.entry}")
         print(f"contents: {unit.contents}\n")
