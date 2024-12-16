@@ -47563,3 +47563,727 @@ CET4 TEM4
 1. (N-COUNT) A noun is a word such as "car," "love," or "Anne" which is used to refer to a person or thing. 名词
 2. → see also ,
 
+========================================================================
+>>> drag abuse
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> drug abuse
+------------------------------------------------------------------------
+drug abuse    [美 drʌɡ əˈbjuːs]
+药物滥用：滥用或过度沉溺于药物；物质滥用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Drug abuse has long been a major problem for the authorities there. 毒品滥用长期以来一直是那里的当局的一大难题。《柯林斯英汉双解大词典》
+≫   The first step to stop drug abuse is knowing why people start to use drugs. 阻止药物滥用的第一步是了解人们一开始为何吸毒。
+≫   Dr. Peter Kastl and his colleagues report that they can use tears to detect drug abuse. 彼得·卡斯特尔博士和他的同事发现，他们可以用眼泪来检测药物滥用问题。
+
+========================================================================
+>>> cannabis
+------------------------------------------------------------------------
+cannabis    [美 'kænəbɪs / 英 'kænəbɪs]
+n. 印度大麻（等于hemp）；大麻烟原料；大麻雌花顶部
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cannabis is the hemp plant when it is used as a drug. 大麻
+   ≫   ...cannabis smokers.  …吸食大麻的人们。
+
+========================================================================
+>>> heroin
+------------------------------------------------------------------------
+heroin    [美 'hɛroɪn / 英 'herəʊɪn]
+n. [药][毒物] 海洛因，吗啡
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Heroin is a powerful drug which some people take for pleasure, but which they can become addicted to. 海洛因
+
+========================================================================
+>>> morphine
+------------------------------------------------------------------------
+morphine    [美 'mɔrfin / 英 'mɔːfiːn]
+n. [毒物][药] 吗啡
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Morphine is a drug used to relieve pain. 吗啡
+
+========================================================================
+>>> opium
+------------------------------------------------------------------------
+opium    [美 'opɪəm / 英 'əʊpɪəm]
+n. 鸦片；麻醉剂
+adj. 鸦片的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Opium is a powerful drug made from the seeds of a type of poppy. Opium is used in medicines that relieve pain or help someone sleep. 鸦片
+
+========================================================================
+>>> cocaine
+------------------------------------------------------------------------
+cocaine    [美 ko'ken / 英 kə(ʊ)'keɪn]
+n. [药] 可卡因
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cocaine is a powerful drug which some people take for pleasure, but which they can become addicted to. 可卡因
+
+========================================================================
+>>> dolantin
+------------------------------------------------------------------------
+dolantin    [英 dəˈlæntɪn]
+n. [药] 度冷丁；哌替啶
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Conclusion The pain relief effects of tramadol are superior to those of dolantin. 结论曲马多的镇痛疗效优于度冷丁。
+≫   Objective To investigate the synergistic analgesic action of rotundine combined with subthreshold dose of dolantin. 目的观察罗通定与阈下剂量哌替啶合用后对哌替啶镇痛作用的影响。
+≫   Conclusion The combined administration of dolantin and rotundine has significant synergistic action of analgesia, with reduced dose of dolantin and decreased incidence of addiction. 结论罗通定与阈下剂量派替啶合用可以增强镇痛效果，从而减少派替啶的用量，降低其药物依赖的发生概率。
+
+========================================================================
+>>> MDMA
+------------------------------------------------------------------------
+mdma
+abbr. 摇头丸，快乐丸；二亚甲基双氧苯丙胺（methylene dioxymetham-phetamine）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) 3,4-methylenedioxymethamphetamine 3,4-亚甲基二氧基甲基苯丙胺 (Also called (informal) ecstasy)
+
+========================================================================
+>>> crystal methamphetamine
+------------------------------------------------------------------------
+crystal methamphetamine
+冰毒：一种合成的刺激性毒品，通常以结晶状的形式出现。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> methamphetamine
+------------------------------------------------------------------------
+methamphetamine    [美 ,mɛθæm'fɛtəmin / 英 ,meθæm'fetəmiːn; -ɪn]
+n. 甲基苯丙胺；脱氧麻黄碱（中枢兴奋药，等于 meth，Speed）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a variety of amphetamine used for its stimulant action 甲基苯丙胺
+
+========================================================================
+>>> caffeine
+------------------------------------------------------------------------
+caffeine    [美 'kæfin / 英 'kæfiːn]
+n. [有化][药] 咖啡因；茶精（兴奋剂）
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Caffeine is a chemical substance found in coffee, tea, and cocoa, which affects your brain and body and makes you more active. 咖啡因
+
+========================================================================
+>>> ketamine
+------------------------------------------------------------------------
+ketamine    ['kitəmin]
+n. 克他命，[药] 氯胺酮（一种麻醉剂）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a drug, chemically related to PCP, that is used in medicine as a general anaesthetic, being administered by injection; cyclohexylamine 克他命; 一种麻醉剂
+
+========================================================================
+>>> marijuana
+------------------------------------------------------------------------
+marijuana    [美 ,mærə'wɑnə / 英 ,mærɪ'hwɑːnə]
+n. 大麻；大麻毒品
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Marijuana is a drug which is made from the dried leaves and flowers of the hemp plant, and which can be smoked. 大麻
+
+========================================================================
+>>> boo
+------------------------------------------------------------------------
+boo    [美 bu / 英 buː]
+vt. 嘘；向…喝倒采
+vi. 发出嘘声
+int. （表示不满、轻蔑等）嘘
+n. 嘘声
+n. (Boo)人名；(瑞典)博
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you boo a speaker or performer, you shout "boo" or make other loud sounds to indicate that you do not like them, their opinions, or their performance. 发出嘘声 (以示不满)
+   ≫   People were booing and throwing things at them.  人们发出嘘声，并朝他们扔东西。
+   ≫   Demonstrators booed and jeered him.  示威者发出嘘声嘲笑他。
+2. (N-COUNT) Boo is also a noun. 嘘声
+   ≫   She was greeted with boos and hisses.  迎接她的是一片喝倒彩的嘘声。
+3. (N-UNCOUNT) booing 发出嘘声
+   ≫   The fans are entitled to their opinion but booing doesn't help anyone.  狂热爱好者们有权表达自己的看法，但发出嘘声对任何人都没有好处。
+4. (INTERJ) You say "Boo!" loudly and suddenly when you want to surprise someone who does not know that you are there. 为吓唬人而发出的声音
+
+========================================================================
+>>> cheeba
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pot
+------------------------------------------------------------------------
+pot    [美 pɑt / 英 pɒt]
+n. 壶；盆；罐
+vt. 把…装罐；射击；节略
+vi. 随手射击
+n. (Pot)人名；(柬)布特；(捷)波特；(法)波
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pot is a deep round container used for cooking stews, soups, and other food. (深而圆的)锅
+   ≫   ...metal cooking pots.  …金属烹饪锅。
+2. (N-COUNT) You can use pot to refer to the pot and its contents, or to the contents only. (一)锅; (一)锅之物
+   ≫   He was stirring a pot of soup.  他当时在搅一锅汤。
+3. (N-COUNT) A pot of coffee or tea is an amount of it contained in a pot. (一)壶
+   ≫   He spilt a pot of coffee.  他洒了一壶咖啡。
+4. (N-COUNT) You can use pot to refer to a coffeepot or teapot. (咖啡、茶)壶
+   ≫   There's tea in the pot.  壶里有茶。
+5. [非正式] Pot is sometimes used to refer to the drug marijuana or the cannabis plant. 大麻
+   ≫   I started smoking pot when I was about eleven.  我大约十一岁的时候开始吸大麻。
+6. ['the' N] In a card game, the pot is the money from all the players which the winner of the game will take as a prize. (纸牌游戏一局的) 赌注总额
+7. (V-T) If you pot a young plant, or part of a plant, you put it into a container filled with soil, so it can grow there. 将…装盆
+   ≫   Pot the cuttings individually.  将这些剪枝一个个的装盆。
+8. [ADJ n] potted 盆栽的
+   ≫   ...potted plants.  …盆栽植物。
+9. [DIALECT] a deep hole or pothole 深洞; 壶穴
+10. (N) (capital when part of a name) (作为名字部分时大写字母)
+   ≫   Pen-y-Ghent Pot  
+11. [非正式] potentiometer的缩写 → short for
+12. → see also
+
+========================================================================
+>>> hemp
+------------------------------------------------------------------------
+hemp    [美 hɛmp / 英 hemp]
+n. 大麻；麻类植物；大麻烟卷
+adj. 大麻类植物的
+n. (Hemp)人名；(英)亨普
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Hemp is a plant used for making rope or the drug marijuana. 大麻(植物)
+
+========================================================================
+>>> hashins
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> hashish
+------------------------------------------------------------------------
+hashish    [英 'hæʃiːʃ; -ʃɪʃ; hæ'ʃiːʃ / 美 'hæʃiʃ]
+n. 以印度大麻提炼的麻药；印度大麻制剂（等于hasheesh）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [老式] Hashish is an illegal drug made from the hemp plant which some people smoke like a cigarette to make them feel relaxed. 大麻麻醉剂
+
+========================================================================
+>>> jay smoke
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pothead
+------------------------------------------------------------------------
+pothead    [美 'pɑt,hɛd / 英 'pɒthed]
+n. 瘾君子；巨头鲸鱼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] If you call someone a pothead, you disapprove of the fact that they spend a lot of time smoking marijuana. 大麻吸食者; 瘾君子
+   ≫   ...a long-haired hippy pothead.  ...一位长发嬉皮的瘾君子。
+
+========================================================================
+>>> pot smoker
+------------------------------------------------------------------------
+pot smoker
+吸食大麻的烟客
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Whenever the room inside was a smoker, put a pot as long as Chlorophytum, Chlorophytum can completely eat the smoke. 每当房间里面有人吸过烟，只要放一盆吊兰，吊兰就可以把烟味吃得一干二净。
+
+========================================================================
+>>> grasshopper
+------------------------------------------------------------------------
+grasshopper    [美 'ɡræshɑpɚ / 英 'grɑːshɒpə]
+n. 蚱蜢；[植保] 蝗虫；小型侦察机
+vi. 见异思迁；蚱蜢似地跳
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grasshopper is an insect with long back legs that jumps high into the air and makes a high, vibrating sound. 蚱蜢
+
+========================================================================
+>>> reefer
+------------------------------------------------------------------------
+reefer    [英 'riːfə / 美 'rifɚ]
+n. 冰箱；方形短茄克；缩帆结；双排扣水手上衣；收帆的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式，老式] A reefer is a cigarette containing marijuana. 大麻卷烟
+2. (N) a ship, lorry, or other form of transport designed to carry refrigerated cargo 装有冷藏货物的运输工具
+3. [nautical] a person who reefs, such as a midshipman 收帆的人
+
+========================================================================
+>>> skag
+------------------------------------------------------------------------
+skag    [美 skæɡ / 英 skæɡ]
+n. 海洛因；香烟头
+alsoskag
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → a slang name for heroin
+
+========================================================================
+>>> skag jones
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> jones
+------------------------------------------------------------------------
+Jones    [美 dʒəʊnz / 英 dʒəʊnz]
+n. 琼斯（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mr. Jones suddenly appeared in the doorway. 琼斯先生突然在门口出现。
+≫   Jack will debate Jones. Smith will debate Mary. 杰克将与琼斯辩论。史密斯将与玛丽辩论。
+≫   Please don't partner me up with Mr. Jones for the dinner. 在宴会上请别让我与琼斯先生排在一起入席。
+
+========================================================================
+>>> LSD
+------------------------------------------------------------------------
+LSD    [,eles'di:]
+abbr. 大屏显示（Large Screen Display）；激光信号装置（Laser Signal Device）；最小显著差别（Least Significant Difference）；最低有效位（Least Significant Digit）；麦角酸二乙基酰胺（一种麻醉药，lysergic acid diethylamide）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) LSD is a very powerful illegal drug which makes the user see things that only exist in their mind. 麦角酸酰二乙胺; 摇头丸; 非法的强致幻药物
+
+========================================================================
+>>> lysergic acid diethylamide
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：50665
+lysergic acid diethylamide
+麦角酸酰二乙氨（一种迷幻药，略作LSD, 等于 lysergide）
+
+========================================================================
+>>> pusher
+------------------------------------------------------------------------
+pusher    [美 'pʊʃɚ / 英 'pʊʃə]
+n. 推进器；推进式飞机；推销员；非法销售者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] A pusher is a person who sells illegal drugs. 毒贩子
+   ≫   His father accused him of acting as a carrier for some drug pushers.  他父亲指责他为某些毒贩子充当毒品运送人。
+
+========================================================================
+>>> bagman
+------------------------------------------------------------------------
+bagman    [英 ˈbæɡmæn]
+n. 推销员；行商
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a travelling salesman 推销员 [英国英语] [非正式]
+
+========================================================================
+>>> chiba
+------------------------------------------------------------------------
+Chiba    ['tʃi:bə]
+n. 千叶市（位于日本）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mikado and Tensei can get better educations in Chiba. 米卡多和田场在千叶能够获得更好的教育。
+≫   A collapsed road in Urayasu city, in Chiba prefecture. 千叶县浦安市崩裂的路。
+≫   Nobue Suzuki is a professor of anthropology at the Faculty of Letters, Chiba University, Japan. 铃木 伸枝 是日本千叶大学文化人类学教授。
+
+========================================================================
+>>> chiba shop
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> acetorphine
+------------------------------------------------------------------------
+acetorphine
+n. 醋托啡，乙酰氧戊甲吗啡
+
+========================================================================
+>>> narcotine
+------------------------------------------------------------------------
+narcotine    [英 ˈnɑːkəˌtiːn]
+n. 那可汀
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Even modest doses of narcotine can induce profound nausea and vomiting. 即使适量的那可汀也会引起严重的恶心和呕吐。
+
+========================================================================
+>>> pep pill
+------------------------------------------------------------------------
+pep pill    [美 ˈpep pɪl / 英 ˈpep pɪl]
+n. （安非他明等）兴奋药丸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a tablet containing a stimulant drug 兴奋丸 [非正式]
+
+========================================================================
+>>> amphetamine
+------------------------------------------------------------------------
+amphetamine    [美 æm'fɛtəmin / 英 æm'fetəmiːn; -ɪn]
+n. 苯丙胺，安非他明（解除忧郁、疲劳的药）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Amphetamine is a drug that increases people's energy, makes them excited, and reduces their desire for food. 安非他明
+
+========================================================================
+>>> ecstasy
+------------------------------------------------------------------------
+ecstasy    [美 'ɛkstəsi / 英 'ekstəsɪ]
+n. 狂喜；入迷；忘形
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Ecstasy is a feeling of very great happiness. 狂喜
+   ≫   ...a state of almost religious ecstasy.  …一种近乎宗教极乐的状态。
+2. (N-UNCOUNT) Ecstasy is an illegal drug that makes people feel happy and energetic. 摇头丸
+   ≫   The teenager died after taking ecstasy on her birthday.  那个少女在她生日当天服用摇头丸后丧生。
+
+========================================================================
+>>> MDMA
+------------------------------------------------------------------------
+mdma
+abbr. 摇头丸，快乐丸；二亚甲基双氧苯丙胺（methylene dioxymetham-phetamine）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) 3,4-methylenedioxymethamphetamine 3,4-亚甲基二氧基甲基苯丙胺 (Also called (informal) ecstasy)
+
+========================================================================
+>>> stimulant
+------------------------------------------------------------------------
+stimulant    [美 'stɪmjələnt / 英 'stɪmjʊl(ə)nt]
+n. [药] 兴奋剂；刺激物；酒精饮料
+adj. 激励的；使人兴奋的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A stimulant is a drug that makes your body work faster, often increasing your heart rate and making you less likely to sleep. 兴奋剂
+   ≫   It is not a good idea to fight fatigue by taking stimulants.  服兴奋剂来抗疲劳不是个好主意。
+
+========================================================================
+>>> sedative
+------------------------------------------------------------------------
+sedative    [英 'sedətɪv / 美 'sɛdətɪv]
+n. [药] 镇静剂；能使安静的东西；止痛药
+adj. 使镇静的；使安静的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A sedative is a medicine or drug that calms you or makes you sleep. 镇静剂
+   ≫   They use opium as a sedative, rather than as a narcotic.  他们把鸦片作为镇静剂，而不是作为麻醉剂。
+
+========================================================================
+>>> nicotine
+------------------------------------------------------------------------
+nicotine    [美 'nɪkətɪn / 英 'nɪkətiːn]
+n.
+【化学】烟碱，尼古丁
+
+========================================================================
+>>> drug lords
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51111
+drug lords
+毒枭
+
+========================================================================
+>>> narcotics
+------------------------------------------------------------------------
+narcotics    [nɑr'kɑtɪks]
+n. 麻醉剂（narcotic的复数）；麻醉毒品
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Narcotics are drugs such as opium or heroin which make you sleepy and stop you from feeling pain. You can also use narcotics to mean any kind of illegal drugs. 麻醉剂; 毒品
+   ≫   He was indicted for dealing in narcotics.  他因贩卖毒品而受到起诉。
+2. (ADJ) If something, especially a drug, has a narcotic effect, it makes the person who uses it feel sleepy. 麻醉的
+   ≫   ...hormones that have a narcotic effect on the immune system.  …对免疫系统有麻醉作用的激素。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> anti-narcotics
+------------------------------------------------------------------------
+anti-narcotics
+adj．反毒品的：与打击毒品、防止毒品滥用有关的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Morales said the planned center would be at an airport in Chimore, a coca producing region of the Andean nation, that he said previously served as a base for U.S. anti-narcotics operations. Evo Morales说，计划的中心将在Chimore机场建造，Chimore此前是美国缉毒行动的基地。
+
+========================================================================
+>>> bureau
+------------------------------------------------------------------------
+bureau    [英 'bjʊərəʊ / 美 'bjʊro]
+n. 局，处；衣柜；办公桌
+n. (Bureau)人名；(法)比罗
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A bureau is an office, organization, or government department that collects and distributes information. 局
+   ≫   ...the Federal Bureau of Investigation.  …联邦调查局。
+2. [商业] A bureau is an office of a company or organization that has its main office in another city or country. 分公司
+   ≫   ...the Wall Street Journal's Washington bureau.  …《华尔街日报》的华盛顿分社。
+3. [美国英语] A bureau is a chest of drawers. 五斗橱
+4. [英国英语] A bureau is a writing desk with shelves and drawers and a lid that opens to form the writing surface. 写字台
+
+========================================================================
+>>> narcotics control bureau
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51240
+narcotics control bureau
+禁毒局
+
+========================================================================
+>>> anti-narcotics police
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51277
+anti-narcotics police
+缉毒警
+
+========================================================================
+>>> rings
+------------------------------------------------------------------------
+rings    [英 riŋz /  riŋz]
+n. 吊环（ring的复数）
+n. (Rings)人名；(德)林斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When a telephone rings, it makes a sound to let you know that someone is phoning you. (电话) 响铃
+   ≫   As soon as he got home, the phone rang.  他一到家，电话就响了。
+2. (N-COUNT) Ring is also a noun. (电话) 响铃声
+   ≫   After at least eight rings, an ancient-sounding maid answered the phone.  电话至少八声后，一位听上去很老的女仆接了。
+3. (N-UNCOUNT) ringing (电话) 响铃
+   ≫   She was jolted out of her sleep by the ringing of the telephone.  她被电话响铃惊醒了。
+4. [英国英语] When you ring someone, you telephone them. 给…打电话
+   ≫   Would you ring me as soon as you find out? My number's in the phone book.  你一查清就给我打电话好吗？我的号码在电话簿里。
+   ≫   A friend of mine gave me this number to call.  我的一个朋友让我打这个号码。
+5. (PHRASAL VERB) Ring up means the same as ring. 给…打电话; 打电话
+6. (V) to emit or cause to emit a sonorous or resonant sound, characteristic of certain metals when struck (撞击金属时)叮叮响
+7. (V-T/V-I) When you ring a bell or when a bell rings, it makes a sound. 使 (铃) 响; (铃) 响
+   ≫   He heard the school bell ring.  他听见学校的铃响了。
+8. (N-COUNT) Ring is also a noun. (铃的) 响声
+   ≫   There was a ring of the bell.  铃响了。
+9. (N-UNCOUNT) ringing (铃) 响
+   ≫   ...the ringing of church bells.  …教堂的钟响。
+10. [文学性] If you say that a place is ringing with sound, usually pleasant sound, you mean that the place is completely filled with that sound. (优美的声音) 回荡
+   ≫   The whole place was ringing with music.  整个地方回荡着音乐声。
+11. (N-SING) You can use ring to describe a quality that something such as a statement, discussion, or argument seems to have. For example, if an argument has a familiar ring, it seems familiar. 感觉
+   ≫   His proud boast of leading "the party of low taxation" has a hollow ring.  他有关领导“主张低税收的政党”的豪言有空洞的感觉。
+12. [非正式] If you give someone a ring, you phone them. 给某人电话
+   ≫   We'll give him a ring as soon as we get back.  我们一回来就会给他电话。
+13. (PHRASE) If a statement rings true, it seems to be true or genuine. If it rings hollow, it does not seem to be true or genuine. 听起来真实
+   ≫   Joanna's denial rang true.  乔安娜的否认听上去像是真的。
+14. → see also
+15. (PHRASE) 
+16. (N-COUNT) A ring is a small circle of metal or other substance that you wear on your finger as jewellery. 戒指
+   ≫   ...a gold wedding ring.  …一枚黄金婚戒。
+17. (N-COUNT) An object or substance that is in the shape of a circle can be described as a ring. 环状物; 圈
+   ≫   Frank took a large ring of keys from his pocket.  弗兰克从口袋里拿出了一个大串钥匙。
+18. (N-COUNT) A group of people or things arranged in a circle can be described as a ring. (人或物围成的) 圈
+   ≫   They then formed a ring around the square.  他们随后沿广场围成了一圈。
+19. (N-COUNT) At a boxing or wrestling match or a circus, the ring is the place where the contest or performance takes place. It consists of an enclosed space with seats around it. 圆形 (表演、竞技) 场地
+   ≫   He will never again be allowed inside a boxing ring.  他将再也不会被允许进入拳击场了。
+20. (N-COUNT) You can refer to an organized group of people who are involved in an illegal activity as a ring. 团伙
+   ≫   Police are investigating the suspected drug ring at the school.  警方正在调查这所学校贩毒嫌疑团伙。
+21. [英国英语] →see
+22. [usu passive] If a building or place is ringed with or by something, it is surrounded by it. 围住
+   ≫   The areas are sealed off and ringed by troops.  这一地区被封锁了，被军队包围了。
+
+========================================================================
+>>> cartels
+------------------------------------------------------------------------
+cartels    [kɑ:'tel]
+n. 卡特尔；联合企业（cartel的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] A cartel is an association of similar companies or businesses that have grouped together in order to prevent competition and to control prices. 卡特尔; 同业联盟
+   ≫   ...a drug cartel.  …药业联盟。
+
+========================================================================
+>>> drug trafficking rings
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51388
+drug trafficking rings
+贩毒集团
+
+========================================================================
+>>> drug trafficking cartels
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51434
+drug trafficking cartels
+贩毒集团
+
+========================================================================
+>>> drug rehabilitation center
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51472
+drug rehabilitation center
+戒毒康复中心：一个专门帮助吸毒者戒除毒瘾、恢复健康和重建生活的机构。
+
+========================================================================
+>>> rehabilitation
+------------------------------------------------------------------------
+rehabilitation    [美 ˌriːəˌbɪlɪ'teʃn / 英 'riːhə,bɪlɪ'teɪʃən]
+n. 复原
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They can start the rehabilitation immediately. 他们马上能开始复原。
+≫   The doodle is the latest in the recent rehabilitation of Confucius. 在近来孔子复兴热中这个涂鸦是最新的表现。
+≫   The man, who appears to have some authority in the region, clearly wants money for reconstruction, and Christmas offers to fund the rehabilitation of a mosque and a local restaurant in the bazaar. 这名看起来似乎在当地有些影响的男子很明显是为了重建要求资金，而克里斯莫斯表示愿意为复原清真寺和一座集市里的饭店筹资。
+
+========================================================================
+>>> rehab center
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：51564
+rehab center
+康复中心：一种为了帮助那些患有身体或精神疾病的人恢复健康和正常生活的专业机构。
+
+========================================================================
+>>> addict
+------------------------------------------------------------------------
+addict    [美 'ædɪkt (for n.); əˈdɪkt (for v.) / 英 'ædɪkt (for n.); əˈdɪkt (for v.)]
+n. 有瘾的人；入迷的人
+vt. 使沉溺；使上瘾
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An addict is someone who takes harmful drugs and cannot stop taking them. (吸毒) 上瘾者
+   ≫   He's only 24 years old and a drug addict.  他只有24岁，可已经是一个瘾君子。
+2. (N-COUNT) If you say that someone is an addict, you mean that they like a particular activity very much and spend as much time doing it as they can. 对…入迷的人
+   ≫   She is a TV addict and watches as much as she can.  她是一个电视迷，看尽可能多的电视。
+
+========================================================================
+>>> addiction
+------------------------------------------------------------------------
+addiction    [英 ə'dɪkʃ(ə)n / 美 ə'dɪkʃən]
+n. 上瘾，沉溺；癖嗜
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Addiction is the condition of taking harmful drugs and being unable to stop taking them. (毒品) 瘾
+   ≫   She helped him fight his drug addiction.  她帮助了他对抗自己的毒瘾。
+2. (N-VAR) An addiction to something is a very strong desire or need for it. 瘾
+   ≫   He needed money to feed his addiction to gambling.  他需要钱来满足他的赌瘾。
+
+========================================================================
+>>> drug smuggler
+------------------------------------------------------------------------
+drug smuggler
+毒品走私贩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   His only late act of clemency, announced on January 19th, was to commute the jail sentences of two former Border-Patrol agents convicted of shooting a drug-smuggler on the Mexican border. 唯一一次体现他仁慈的举动，就是在一月十九号布什宣布为两名原边境巡逻警察减刑，他们是因在美国与墨西哥的边境上射杀一名毒贩而被判无期徒刑的。
+
+========================================================================
+>>> mules
+------------------------------------------------------------------------
+mules    [mju:l]
+[服装] 拖鞋
+n. (Mules)人名；(英)米尔斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [AUSTRALIAN] to perform the Mules operation on (a sheep) (给羊)割皮
+
+========================================================================
+>>> drug mules
+------------------------------------------------------------------------
+drug mules
+毒骡（充当运输毒品工具的人）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They may work as burglars, drug mules, or bodyguards in private security firms. 他们也许是窃贼、毒贩，也许是地下保安公司的保镖。
+≫   This, obviously, creates a financial incentive for individuals to become drug mules and risk the hazardous journey across the border with illicit substances. 很明显，这将使得更多的人由于物质的激励变成“毒品骡子”（即人体带毒者——译者注），冒着风险非法穿越边境。
+≫   Malaysian officials say international drug syndicates are using social networking websites like Facebook to recruit young Malaysian women as drug mules, BBC reported. 据英国广播公司报道，马来西亚官员表示，国际贩毒团伙正在利用“脸谱”这类社交网站招募年轻马来西亚女子充当运毒人。
+
+========================================================================
+>>> drug trafficker
+------------------------------------------------------------------------
+drug trafficker
+毒品贩子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Police said they believed the attack was in retaliation for the death of the drug trafficker. 警方说他们认为这起袭击是为那个毒贩的死而实施的报复。《柯林斯英汉双解大词典》
+≫   Iran hangs drug trafficker in public. 伊朗公开绞死毒贩。
+≫   A drug trafficker was arrested by the police yesterday. 一名贩毒分子昨日被警方捕获。
+
+========================================================================
+>>> methamphetamine hydrochloride
+------------------------------------------------------------------------
+methamphetamine hydrochloride
+冰毒替代物
+
+========================================================================
+>>> hydrochloride
+------------------------------------------------------------------------
+hydrochloride    [英 ,haɪdrə(ʊ)'klɔːraɪd / 美 ,haɪdrə'kloraɪd]
+n. 盐酸盐；盐酸化物；氢氯化物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a quaternary salt formed by the addition of hydrochloric acid to an organic base, such as aniline hydrochloride, [C6H5NH3]+Cl- 盐酸盐
+
+========================================================================
+>>> methamphetamine
+------------------------------------------------------------------------
+methamphetamine    [美 ,mɛθæm'fɛtəmin / 英 ,meθæm'fetəmiːn; -ɪn]
+n. 甲基苯丙胺；脱氧麻黄碱（中枢兴奋药，等于 meth，Speed）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a variety of amphetamine used for its stimulant action 甲基苯丙胺
+
+========================================================================
+>>> nitrous
+------------------------------------------------------------------------
+nitrous    [美 'naɪtrəs / 英 'naɪtrəs]
+adj. 氮的；硝石的；含氮的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Nitrous means coming from, relating to, or containing nitrogen. 氮的; 与氮有关的; 含氮的
+   ≫   ...nitrous oxides.  ...氮氧化物。
+
+========================================================================
+>>> nitrous oxide
+------------------------------------------------------------------------
+nitrous oxide    [英 ˌnaɪtrəs ˈɒksaɪd]
+一氧化二氮：一种无色、无味、不可燃的气体，化学式为N2O。在医学上常用作麻醉剂和镇痛剂，同时也被用于火箭推进剂和食品添加剂。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a colourless nonflammable slightly soluble gas with a sweet smell: used as an anaesthetic in dentistry and surgery. Formula: N2O 一氧化二氮 (Systematic name dinitrogen oxideAlso called laughing gas)
+
+========================================================================
+>>> thrive
+------------------------------------------------------------------------
+thrive    [美 θraɪv / 英 θraɪv]
+vi. 繁荣，兴旺；茁壮成长
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If someone or something thrives, they do well and are successful, healthy, or strong. 兴旺发达; 茁壮成长
+   ≫   He appears to be thriving.  他看起来兴旺发达蒸蒸日上。
+   ≫   Today her company continues to thrive.  如今，她的公司继续蓬勃发展。
+2. (V-I) If you say that someone thrives on a particular situation, you mean that they enjoy it or that they can deal with it very well, especially when other people find it unpleasant or difficult. 喜欢; 从容应对 (尤指别人不喜欢或认为困难的事)
+   ≫   Many people thrive on a stressful lifestyle.  许多人喜欢有压力的生活方式。
+
+========================================================================
+>>> emit
+------------------------------------------------------------------------
+emit    [美 ɪ'mɪt / 英 ɪ'mɪt]
+vt. 发出，放射；发行；发表
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something emits heat, light, gas, or a smell, it produces it and sends it out by means of a physical or chemical process. 发出; 散发 (热、光、气体或气味)
+   ≫   The new device emits a powerful circular column of light.  这个新装置发出一束强烈的环形光柱。
+2. [正式] To emit a sound or noise means to produce it. 发出 (声音或噪音)
+   ≫   Whitney blinked and emitted a long, low whistle.  惠特尼眨了眨眼，吹出了一声长而低沉的口哨。
+
+========================================================================
+>>> anesthesia
+------------------------------------------------------------------------
+anesthesia    [美 ,ænəs'θiʒə / 英 ,ænɪs'θiːzɪə]
+n. 麻醉；麻木（等于anaesthesia）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Studies in rodents and monkeys have repeatedly shown that exposure to anesthesia at a very young age kills brain cells. 对于啮齿动物和猴子的研究也多次说明在年龄非常小的时候接受麻醉会杀死脑细胞。
+≫   For example, a certain kind of muscle relaxant for anesthesia will make certain kind of people choke. Finally, scientists found it was because they had certain kind of genes. 例如，某种麻醉用肌肉松弛剂会导致特定的人无法呼吸，最终，科学家发现这种现象的原因在于他们拥有特定的基因。
+≫   Another Sierra is a Doctor of anatomy. He was credited fot inventing the first anesthetic. The anesthesia allowed him to operate on his patients without causing pain. 另一位席埃拉是名解剖学博士。他被誉为发明麻醉药的第一人。在麻醉作用下，他可以为病无痛做手术。
+
+========================================================================
+>>> inhaling
+------------------------------------------------------------------------
+inhaling    [in'heil]
+n. 吸入；吸气
+v. 吸入；吸气；猛喝（inhale的现在分词）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you inhale, you breathe in. When you inhale something such as smoke, you take it into your lungs when you breathe in. 吸入; 吸气
+   ≫   He took a long slow breath, inhaling deeply.  他缓缓地深吸了一口气。
+
+========================================================================
+>>> laughing gas
+------------------------------------------------------------------------
+laughing gas    [美 ˈlæfɪŋ ɡæs / 英 ˈlɑːfɪŋ ɡæs]
+笑气：一种化学物质，其化学名称为一氧化氮（N2O），吸入后会产生短暂的欢愉和笑声，常用于牙科麻醉和娱乐用途。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Laughing gas is a type of anaesthetic gas which sometimes has the effect of making people laugh uncontrollably. (用作麻醉剂的)笑气
+
+========================================================================
+>>> Herrenrasse
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Herrenrasse
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Untermensch
+------------------------------------------------------------------------
+untermensch
+n. <贬>下等人（尤指在纳粹的种族等级制度中）
+
