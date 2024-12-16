@@ -33896,3 +33896,63 @@ Not found :(
 Coppersmith–Winograd
 铜匠Winograd
 
+========================================================================
+>>> locust
+------------------------------------------------------------------------
+locust    [美 'lokəst / 英 'ləʊkəst]
+n. [植保] 蝗虫，[昆] 蚱蜢
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Locusts are large insects, similar to grasshoppers, that live mainly in hot areas and often cause serious damage to crops. 蝗虫
+   ≫   ...a swarm of locusts.  …一群蝗虫。
+2. (N-COUNT) a North American leguminous tree, Robinia pseudoacacia, having prickly branches, hanging clusters of white fragrant flowers, and reddish-brown seed pods 洋槐树 (Also called locust tree, false acacia)
+
+========================================================================
+>>> mosquitoes
+------------------------------------------------------------------------
+mosquitoes    [美 məˈskitoz / 英 məsˈki:təʊz]
+n. 蚊子（mosquito的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Mosquitos are small flying insects which bite people and animals in order to suck their blood. 蚊子
+
+========================================================================
+>>> crocodiles
+------------------------------------------------------------------------
+crocodiles    ['krɔkə,dail]
+n. 鳄类，鳄鱼（crocodile的复数形式）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A crocodile is a large reptile with a long body and strong jaws. Crocodiles live in rivers and eat meat. 鳄鱼
+
+========================================================================
+>>> guyana
+------------------------------------------------------------------------
+Guyana    [英 ɡai'ænə /  ɡai'ænə]
+n. 圭亚那（拉丁美洲国家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In Guyana, the "wearing of female attire by men" is prohibited, with violators facing a $36 fine. 在圭亚那，男人穿女人的衣服是被禁止的。 违者将面临36美元的罚款。
+≫   But Guyana still has a long way to go before the disease is eradicated, as does the rest of the world. 但是圭亚那和世界上其它国家一样，要彻底消除这种疾病还有很长的路要走。
+≫   The chemical had been in the salt for years, but seeing cyanide on the label gave Guyana’s residents pause. 这种物质在盐里面已经有好多年了，但是圭亚那居民看到标签上有氰化物，就显得犹豫起来。
+
+========================================================================
+>>> parasites
+------------------------------------------------------------------------
+parasites    ['pærə,saɪt]
+n. [基医] 寄生虫；[生物] 寄生生物（parasite的复数）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A parasite is a small animal or plant that lives on or inside a larger animal or plant, and gets its food from it. 寄生虫; 寄生植物
+   ≫   Kangaroos harbour a vast range of parasites.  袋鼠身上有各种各样的寄生虫。
+2. [表不满] If you disapprove of someone because you think that they get money or other things from other people but do not do anything in return, you can call them a parasite. 靠他人为生的人; 寄生虫
+   ≫   ...a parasite, who produced nothing but lived on the work of others.  …一个什么都不做而靠他人的劳动为生的寄生虫。
+
+========================================================================
+>>> luminary
+------------------------------------------------------------------------
+luminary    [美 'lʊmə'nɛri / 英 'luːmɪn(ə)rɪ]
+n. 发光体；杰出人物；知识渊博的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] If you refer to someone as a luminary, you mean that they are an expert in a particular subject or activity. 方家; 大师; 泰斗
+   ≫   ...the political opinions of such luminaries as Sartre or de Beauvoir.  ...诸如萨特、波伏娃等大家的政见。
+
