@@ -33239,3 +33239,61 @@ CET6 TEM4
 1. (ADJ) Something that is an integral part of something is an essential part of that thing. 构成整体所必需的
    ≫   Rituals, celebrations, and festivals form an integral part of every human society.  仪式、庆典和节日是每个人类社会不可缺少的组成部分。
 
+========================================================================
+>>> blackpen
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> redpen
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Dissertator
+------------------------------------------------------------------------
+dissertator    [美 ˈdɪsərˌtetər / 英 ˈdɪsəˌteɪtə(r)]
+n. 论述者，讲演者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The dissertator figures out that promoting the all-round development of people must be the key respect. 本文认为，促进人的全面发展应当是文化建设的着眼点。
+
+========================================================================
+>>> dissert
+------------------------------------------------------------------------
+dissert    [美 dɪˈsɜːrt / 英 dɪˈsɜːt]
+vi. 论述；写论文；讨论；作学术讲演
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Before leaving campus, dissert your graduation thesis carefully! 毕业离校前，认真写毕业论文！
+≫   The paper systematically dissert various auxiliary information application models and methods in domain estimation. 本文主要针对辅助信息在域估计中的应用模型与方法作了系统的阐述。
+
+========================================================================
+>>> desert
+------------------------------------------------------------------------
+desert    [美 (for v.) dɪˈzɝ​t; (for n.) 'dɛzɚt / 英 (for v.) dɪ'zɜːt; (for n.) 'dezət]
+vt. 遗弃；放弃；逃跑
+vi. 遗弃；开小差；逃掉
+n. 沙漠；荒原；应得的赏罚
+adj. 沙漠的；荒凉的；不毛的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A desert is a large area of land, usually in a hot region, where there is almost no water, rain, trees, or plants. 沙漠
+   ≫   ...the Sahara Desert.  …撒哈拉沙漠。
+2. (V-T) If people or animals desert a place, they leave it and it becomes empty. 遗弃
+   ≫   Poor farmers are deserting their parched farm fields and coming here looking for jobs.  贫穷的农民丢下干旱的农田，来这里寻找工作。
+3. (ADJ) deserted 被遗弃的
+   ≫   She led them into a deserted sidestreet.  她领他们来到一条废弃的小巷。
+4. (V-T) If someone deserts you, they go away and leave you, and no longer help or support you. 抛弃
+   ≫   Mrs. Roding's husband deserted her years ago.  罗丁太太的丈夫数年前抛弃了她。
+5. (N-VAR) desertion 遗弃
+   ≫   It was a long time since she'd referred to her father's desertion.  自从她谈到被父亲遗弃已经很长时间了。
+6. (V-T/V-I) If you desert something that you support, use, or are involved with, you stop supporting it, using it, or being involved with it. 放弃
+   ≫   The sport is being written off as boring and predictable and the fans are deserting in droves.  这项运动因为枯燥且易于预测而不再吸引人，爱好者们正成批地退出。
+   ≫   He was pained to see many youngsters deserting kibbutz life.  他痛心地看到许多年轻人放弃集体农场生活。
+7. (N-VAR) desertion 放弃
+   ≫   They blamed his proposal for much of the mass desertion by the Republican electorate.  他们把共和党选民的大批离弃主要原因归咎于他的提议。
+8. (V-T/V-I) If someone deserts, or deserts a job, especially a job in the armed forces, they leave that job without permission. 开小差
+   ≫   He was a second lieutenant in the army until he deserted.  他在开小差之前是个少尉。
+   ≫   He deserted from army intelligence last month.  他上个月从军队情报部门开了小差。
+9. [情感] If you say that someone got their just deserts, you mean that they deserved the unpleasant things that happened to them, because they did something bad. 应受的惩罚
+   ≫   At the end of the book the child's true identity is discovered, and the bad guys get their just deserts.  在书的结尾，这孩子的真实身份被揭开了，那些坏人也受到了应有的惩罚。
+
