@@ -33062,3 +33062,180 @@ TEM8
 1. [ADJ n] Textual means relating to written texts, especially literary texts. 文本的
    ≫   ...close textual analysis of Shakespeare.  ...对莎士比亚作品文本的仔细分析。
 
+========================================================================
+>>> Lexical Semantics
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1685
+Lexical Semantics
+词汇语义学：研究词汇如何表示现实世界中的事物或概念的学科。
+
+========================================================================
+>>> lexical
+------------------------------------------------------------------------
+lexical    [美 'lɛksɪkl / 英 'leksɪk(ə)l]
+adj. 词汇的；[语] 词典的；词典编纂的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Lexical means relating to the words of a language. 词汇的
+   ≫   We chose a few of the commonest lexical items in the languages.  我们选取了各语言中最常见的几个词汇。
+
+========================================================================
+>>> Multi-Genre Natural Language Inference Corpus
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1763
+Multi-Genre Natural Language Inference Corpus
+多体裁自然语言推理语料库
+
+========================================================================
+>>> multi-genre
+------------------------------------------------------------------------
+multi-genre
+adj．多种类型的：涵盖或结合多种类型、风格或流派的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   LUCKY 7, a multi-genre roller-coaster ride of a feature film, is the result of this experiment. 《七影篇》这部如过山车般起伏的多体裁故事片，就是这个实验的结果。
+
+========================================================================
+>>> hypothesis
+------------------------------------------------------------------------
+hypothesis    [美 haɪ'pɑθəsɪs / 英 haɪ'pɒθɪsɪs]
+n. 假设
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A hypothesis is an idea which is suggested as a possible explanation for a particular situation or condition, but which has not yet been proved to be correct. 假设
+   ≫   Work will now begin to test the hypothesis in rats.  在老鼠身上验证这一假设的工作现在要开始了。
+
+========================================================================
+>>> contradiction
+------------------------------------------------------------------------
+contradiction    [美 ,kɑntrə'dɪkʃən / 英 kɒntrə'dɪkʃ(ə)n]
+n. 矛盾；否认；反驳
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you describe an aspect of a situation as a contradiction, you mean that it is completely different from other aspects, and so makes the situation confused or difficult to understand. 矛盾
+   ≫   The militants see no contradiction in using violence to bring about a religious state.  好战分子认为使用暴力与建立宗教国家不矛盾。
+
+========================================================================
+>>> contradicts
+------------------------------------------------------------------------
+contradicts
+v．
+1. 反驳，驳斥：表示与某人的观点或说法相反，表示不同意或不支持。
+2. 与……矛盾，与……不一致：表示某事物与另一事物在性质、特点、观点等方面存在差异或冲突。
+★ CET6 TEM4 contradicting,contradicted,contradicts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you contradict someone, you tell them that what they have just said is wrong, or suggest that it is wrong by saying something different. 反驳
+   ≫   She dared not contradict him.  她不敢反驳他。
+   ≫   His comments appeared to contradict remarks made earlier in the day by the chairman.  他的评论好像在反驳主席当天早些时候的言论。
+2. (V-T) If one statement or piece of evidence contradicts another, the first one makes the second one appear to be wrong. 与…矛盾
+   ≫   Her version contradicted her daughter's.  她的说法与她女儿的说法相矛盾。
+
+========================================================================
+>>> entail
+------------------------------------------------------------------------
+entail    [美 ɪn'tel / 英 ɪn'teɪl; en-]
+vt. 使需要，必需；承担；遗传给；蕴含
+n. 引起；需要；继承
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If one thing entails another, it involves it or causes it. 牵连; 导致
+   ≫   Such a decision would entail a huge political risk in the midst of the presidential campaign.  这样的决定会在总统大选之际导致一个巨大的政治风险。
+
+========================================================================
+>>> entailment
+------------------------------------------------------------------------
+entailment    [ɪn'telmənt]
+n. （不动产）继承人之限制；需要
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act of entailing or the condition of being entailed 限定继承; 继承的限制
+
+========================================================================
+>>> Recognizing Textual Entailment
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1973
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> Winograd Schema Challenge
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2009
+Winograd Schema Challenge
+Winograd模式挑战
+
+========================================================================
+>>> schema
+------------------------------------------------------------------------
+schema    [美 'skimə / 英 'skiːmə]
+n. [计][心理] 模式；计划；图解；概要
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A schema is an outline of a plan or theory. 概要
+   ≫   ...a definite position in the schema of the economic process.  ...在经济进程概要中的明确位置。
+
+========================================================================
+>>> winograd
+------------------------------------------------------------------------
+Winograd
+n. （Winograd）人名；（英）威诺格拉德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> lexical
+------------------------------------------------------------------------
+lexical    [美 'lɛksɪkl / 英 'leksɪk(ə)l]
+adj. 词汇的；[语] 词典的；词典编纂的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Lexical means relating to the words of a language. 词汇的
+   ≫   We chose a few of the commonest lexical items in the languages.  我们选取了各语言中最常见的几个词汇。
+
+========================================================================
+>>> lexical entailment
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2151
+lexical entailment
+词汇蕴涵
+
+========================================================================
+>>> pronoun
+------------------------------------------------------------------------
+pronoun    [美 'pronaʊn / 英 'prəʊnaʊn]
+n. 代词
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pronoun is a word that you use to refer to someone or something when you do not need to use a noun, often because the person or thing has been mentioned earlier. Examples are "it," "she," "something," and "myself." 代词
+
+========================================================================
+>>> diagnostic dataset
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2235
+diagnostic dataset
+诊断数据集
+
+========================================================================
+>>> diagnostic
+------------------------------------------------------------------------
+diagnostic    [美 ,daɪəɡ'nɑstɪk / 英 daɪəg'nɒstɪk]
+adj. 诊断的；特征的
+n. 诊断法；诊断结论
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Diagnostic equipment, methods, or systems are used for discovering what is wrong with people who are ill or with things that do not work properly. 诊断的
+   ≫   ...X-rays and other diagnostic tools.  …X光和其他诊断工具。
+
+========================================================================
+>>> integral
+------------------------------------------------------------------------
+integral    [美 'ɪntɪɡrəl / 英 ˈɪntɪɡrəl]
+adj. 积分的；完整的，整体的；构成整体所必须的
+n. 积分；部分；完整
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is an integral part of something is an essential part of that thing. 构成整体所必需的
+   ≫   Rituals, celebrations, and festivals form an integral part of every human society.  仪式、庆典和节日是每个人类社会不可缺少的组成部分。
+
