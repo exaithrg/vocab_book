@@ -13,3 +13,8 @@ as ⸺+\n will always be appended to the original file.
 
 注意，python脚本不能解决这个问题，因为python只会保留第一次查询的记录。
 我希望修改一下python脚本，让它更新为最后一次查询的记录，可能就能解决这个问题。
+
+然后就是使用ff查询的时候会出现
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3176
+比较烦。
