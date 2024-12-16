@@ -32809,3 +32809,256 @@ n. 蒸馏器；蒸馏酒者
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A distiller is a person or a company that makes whisky or a similar strong alcoholic drink by a process of distilling. 蒸馏酒者; 蒸馏酒公司
 
+========================================================================
+>>> adhesive
+------------------------------------------------------------------------
+adhesive    [美 əd'hisɪv / 英 əd'hiːsɪv; -zɪv]
+n. 粘合剂；胶黏剂
+adj. 粘着的；带粘性的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) An adhesive is a substance such as glue, which is used to make things stick firmly together. 黏合剂
+   ≫   Glue the mirror in with a strong adhesive.  用一种强力黏合剂把镜子粘进去。
+2. (ADJ) An adhesive substance is able to stick firmly to something else. 带黏性的
+   ≫   ...adhesive tape.  …胶布。
+
+========================================================================
+>>> pharmaceutical
+------------------------------------------------------------------------
+pharmaceutical    [美 ,fɑrmə'sutɪkl / 英 ,fɑːmə'suːtɪk(ə)l; -'sjuː-]
+adj. 制药（学）的
+n. 药物
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Pharmaceutical means connected with the industrial production of medicines. 制药的
+   ≫   ...a Swiss pharmaceutical company.  …一家瑞士制药公司。
+2. (N-PLURAL) Pharmaceuticals are medicines. 药品
+   ≫   Antibiotics were of no use, neither were other pharmaceuticals.  抗生素没有用，其他药物也没有用。
+
+========================================================================
+>>> epoxy
+------------------------------------------------------------------------
+epoxy    [美 ɪ'pɑːksi / 英 ɪ'pɒksɪ; e-]
+adj. 环氧的
+n. 环氧基树脂
+vt. 用环氧树脂胶合
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N n] Epoxy resin or adhesive contains an artificial substance used as a very strong glue. 环氧树脂
+
+========================================================================
+>>> Paraphrase
+------------------------------------------------------------------------
+paraphrase    [美 ˈpærəfreɪz / 英 'pærəfreɪz]
+n. 释义；改述；演释曲
+vt. 改述
+vi. 释义；意译
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you paraphrase someone or paraphrase something that they have said or written, you express what they have said or written in a different way. 释义; 改述
+   ≫   To paraphrase President Bush, we must restore confidence in our economic sector.  布什总统的意思是，我们必须在我们的经济领域恢复自信。
+   ≫   Baxter paraphrased the contents of the press release.  巴克斯特解释了新闻发布的内容。
+2. (N-COUNT) A paraphrase of something written or spoken is the same thing expressed in a different way. 释义; 改述
+   ≫   The last two clauses were an exact quote rather than a paraphrase of Mr. Forth's remarks.  最后两个分句是对福思先生言论的准确引用而不是改述。
+
+========================================================================
+>>> adversarially
+------------------------------------------------------------------------
+adversarially
+adv.对抗地，敌对地
+
+========================================================================
+>>> crowdworkers
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> crowdworker
+------------------------------------------------------------------------
+crowdworker
+n. 众包工人
+
+========================================================================
+>>> Plausible
+------------------------------------------------------------------------
+plausible    [美 'plɔzəbl / 英 'plɔːzɪb(ə)l]
+adj. 貌似可信的，花言巧语的；貌似真实的，貌似有理的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An explanation or statement that is plausible seems likely to be true or valid. (解释或叙述) 看似合理的
+   ≫   A more plausible explanation would seem to be that people are fed up with the administration.  一个更合理的解释似乎是人们对行政机关感到厌倦。
+2. [ADV with v] plausibly 看似合理地
+   ≫   Having bluffed his way in without paying, he could not plausibly demand his money back.  没付钱混了进去，他不大可能理直气壮地要回自己的钱。
+3. (ADJ) If you say that someone is plausible, you mean that they seem to be telling the truth and to be sincere and honest. (人) 看似可信的
+   ≫   All I can say is that he was so plausible it wasn't just me that he conned.  我只能说，他看上去好像那么可信，他骗的可不只我一个。
+
+========================================================================
+>>> Endangered
+------------------------------------------------------------------------
+endangered    [美 ɪn'dendʒɚd / 英 ɪn'deɪndʒəd]
+adj. 濒临灭绝的；有生命危险的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To endanger something or someone means to put them in a situation where they might be harmed or destroyed completely. 危害
+   ≫   The debate could endanger the proposed Mideast peace talks.  这场争论可能会危害中东和谈的倡议。
+
+========================================================================
+>>> f legislation
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> legislation
+------------------------------------------------------------------------
+legislation    [美 ,lɛdʒɪs'leʃən / 英 ledʒɪs'leɪʃ(ə)n]
+n. 立法；法律
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Legislation consists of a law or laws passed by a government. 立法
+   ≫   ...a letter calling for legislation to protect women's rights.  …呼吁立法保护妇女权利的一封信。
+
+========================================================================
+>>> Migratory
+------------------------------------------------------------------------
+migratory    [美 'maɪɡrətɔri / 英 'maɪgrət(ə)rɪ; maɪ'greɪt(ə)rɪ]
+adj. 迁移的；流浪的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A migratory bird, fish, or animal is one that migrates every year. 季节迁徙的
+2. [ADJ n] Migratory means relating to the migration of people, birds, fish, or animals. (人、鸟、鱼等动物)移居的; 迁徙的; 流动的
+   ≫   ...migratory farm labour.  ...流动的农业劳动力。
+
+========================================================================
+>>> bald eagle
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1085
+bald eagle
+秃鹰：一种北美大型鹰，头部为白色，被用作美国的象征。
+
+========================================================================
+>>> logistic
+------------------------------------------------------------------------
+logistic    [美 lo'dʒɪstɪk / 英 lə'dʒɪstɪk]
+adj. 后勤学的；[数] 符号逻辑的
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Logistic or logistical means relating to the organization of something complicated. 在组织上的
+   ≫   Logistical problems may be causing the delay.  组织上的一些问题可能正在造成延误。
+   ≫   She described the distribution of food and medical supplies as a logistical nightmare.  她将食物和医疗供给的分发描述为一个组织上的梦魇。
+2. (ADV) logistically 在组织上
+   ≫   Some women find breast-feeding logistically difficult because of work.  因为工作，有些妇女感到母乳喂养在安排上有困难。
+   ≫   It is about time that the U.N. considers logistically deploying additional military resources.  联合国到了该考虑有组织地部署额外军事资源的时候了。
+   ≫   Logistically it is very difficult to value unit-linked policies.  在组织上很难重视基金连锁政策。
+3. (N) an uninterpreted calculus or system of symbolic logic 数理逻辑; 符号逻辑
+
+========================================================================
+>>> corpus
+------------------------------------------------------------------------
+corpus    [美 'kɔrpəs / 英 'kɔːpəs]
+n. [计] 语料库；文集；本金
+n. (Corpus)人名；(西)科尔普斯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with supp] A corpus is a large collection of written or spoken texts that is used for language research. 语料库
+
+========================================================================
+>>> Corpus of Linguistic Acceptability
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1207
+Corpus of Linguistic Acceptability
+语言可接受性语料库
+
+========================================================================
+>>> corpus
+------------------------------------------------------------------------
+corpus    [美 'kɔrpəs / 英 'kɔːpəs]
+n. [计] 语料库；文集；本金
+n. (Corpus)人名；(西)科尔普斯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with supp] A corpus is a large collection of written or spoken texts that is used for language research. 语料库
+
+========================================================================
+>>> Stanford Sentiment Treebank
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1270
+Stanford Sentiment Treebank
+斯坦福情感树库
+
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [美 'sɛntɪmənt / 英 'sentɪm(ə)nt]
+n. 感情，情绪；情操；观点；多愁善感
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+>>> treebank
+------------------------------------------------------------------------
+treebank    [英 ˈtriːbænk]
+n. 树图资料库
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   How can I train NLTK on the entire Penn Treebank corpus? 我怎样才能培养NLTK整个宾州树库语料？
+≫   It is laborious to collect the corpus with chunk tags, and thus its acquisition is mostly carried out through the transformation of the existing treebank. 同时组块库的获取和收集也是一项迫切的任务，由于不易直接获取具有组块标注的语料，当前大多组块语料库是通过转化现有树库获得。
+≫   Experiments on Chinese TreeBank from different training set size are made. It shows that our approach improves the accuracy of POS tagging over the four training sets with different sizes. 本文以宾州中文树库为实验语料，考查了不同规模的标注数据对模型性能的影响，实验结果表明，本文提出的无监督词性标注方法提高了中文词性标注的性能。
+
+========================================================================
+>>> Microsoft Research Paraphrase Corpus
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1367
+Microsoft Research Paraphrase Corpus
+微软研究释义语料库
+
+========================================================================
+>>> Semantic Textual Similarity Benchmark
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1441
+Semantic Textual Similarity Benchmark
+语义文本相似度基准
+
+========================================================================
+>>> senmatic
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> semantic
+------------------------------------------------------------------------
+semantic    [美 sɪ'mæntɪk / 英 sɪ'mæntɪk]
+adj. 语义的；语义学的（等于semantical）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] Semantic is used to describe things that deal with the meanings of words and sentences. 语义的
+   ≫   He did not want to enter into a semantic debate.  他不想卷入一场关于语义的争论。
+
+========================================================================
+>>> semantical
+------------------------------------------------------------------------
+semantical    [美 sɪˈmæntɪkəl / 英 sɪˈmæntɪkəl]
+adj. 语义的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Toad Extension does semantical and syntactical validation of the database related code. 该Toad扩展可以对数据库相关代码进行语义和语法上的验证。
+≫   Conceptualizations, on the other hand, are the semantical counterpart of ontological theories. 概念化的另一方面是本体理论的语义副本。
+≫   First, I will make clear what the semantical presuppositions of an epistemology of moral beliefs are. 首先，我将要澄清一种道德信念的知识论之语意学前提为何。
+
+========================================================================
+>>> textual
+------------------------------------------------------------------------
+textual    [英 'tekstjʊəl / 美 'tɛkstʃuəl]
+adj. 本文的；按原文的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Textual means relating to written texts, especially literary texts. 文本的
+   ≫   ...close textual analysis of Shakespeare.  ...对莎士比亚作品文本的仔细分析。
+
