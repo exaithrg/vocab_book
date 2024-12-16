@@ -32479,3 +32479,45 @@ CET4
 5. (V-T/V-I) If you deliberate, you think about something carefully, especially before making a very important decision. 仔细考虑
    ≫   She deliberated over the decision for a good few years before she finally made up her mind.  在她最终下定决心之前，她仔细考虑了这个决定多年。
 
+========================================================================
+>>> premier
+------------------------------------------------------------------------
+premier    [美 prɪ'mɪr / 英 'premɪə; 'priː-]
+adj. 第一的；最初的
+n. 总理，首相
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The leader of the government of a country is sometimes referred to as the country's premier. 总理
+   ≫   ...Australian premier Paul Keating.  …澳大利亚总理保罗·基廷。
+2. [ADJ n] Premier is used to describe something that is considered to be the best or most important thing of a particular type. 最好的; 首要的
+   ≫   ...the country's premier opera company.  …这个国家最好的歌剧团。
+
+========================================================================
+>>> Transposable
+------------------------------------------------------------------------
+transposable    [træns'pəuzəbl]
+adj. 转座的；可换位的；有换位可能的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In particular, they tracked the positions of transposable elements. 尤其是，他们跟踪了转位因子的位置。
+≫   The instability of morphological variation in flower of Z. grandiflora might be related to transposable genetic element. 花形变异的不稳定性可能与转座遗传因子有关。
+≫   The scientists based this ancestral census on a reading of modern human genomes. In particular, they tracked the positions of transposable elements. 科学家们是解读现代人类基因组后得出这个远古数据的，他们还特别追踪了转位因子的位置。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> genetic
+------------------------------------------------------------------------
+genetic    [美 dʒə'nɛtɪk / 英 dʒɪ'netɪk]
+adj. 遗传的；基因的；起源的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use genetic to describe something that is concerned with genetics or with genes. 遗传的
+   ≫   Cystic fibrosis is the most common fatal genetic disease in the United States.  囊肿性纤维化在美国是最常见的致命性遗传疾病。
+2. (ADV) genetically 遗传地
+   ≫   Some people are genetically predisposed to diabetes.  有些人因遗传因素而易患糖尿病。
+
+========================================================================
+>>> genetic element
+------------------------------------------------------------------------
+genetic element
+遗传元件：指在生物体内具有遗传信息并能在细胞内进行复制、表达和遗传的生物大分子，如DNA、RNA等。
+
