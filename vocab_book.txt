@@ -33475,3 +33475,59 @@ CET4 TEM4
 6. (N-UNCOUNT) Someone's conduct is the way they behave in particular situations. (某人在某情形中的) 行为方式
    ≫   For Europeans, the law is a statement of basic principles of civilized conduct.  对欧洲人来说，该法律是对基本文明行为原则的表述。
 
+========================================================================
+>>> uranium
+------------------------------------------------------------------------
+uranium    [美 jʊ'renɪəm / 英 jʊ'reɪnɪəm]
+n. [化学] 铀
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Uranium is a naturally occurring radioactive metal that is used to produce nuclear energy and weapons. 铀
+
+========================================================================
+>>> uranus
+------------------------------------------------------------------------
+Uranus    [美 ˈjʊrənəs; jʊˈrenəs / 英 ˈjʊərənəs;jʊˈreɪnəs]
+n. [天] 天王星
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [Greek myth] the personification of the sky, who, as a god, ruled the universe and fathered the Titans and Cyclopes on his wife and mother Gaea (earth). He was overthrown by his son Cronus 乌拉诺斯; 天空的拟人化身，掌管宇宙，被其子克洛诺斯推翻
+2. (N) 
+3. (N) one of the giant planets, the seventh planet from the sun, sometimes visible to the naked eye. It has about 15 satellites, a ring system, and an axis of rotation almost lying in the plane of the orbit. Mean distance from sun: 2870 million km; period of revolution around sun: 84 years; period of axial rotation: 17.23 hours; diameter and mass: 4 and 14.5 times that of earth respectively 天王星
+
+========================================================================
+>>> neptunium
+------------------------------------------------------------------------
+neptunium    [美 nepˈtjuːniəmˌnepˈtuːniəm / 英 nepˈtjuːniəm]
+n. [化学] 镎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a silvery metallic transuranic element synthesized in the production of plutonium and occurring in trace amounts in uranium ores. Symbol: Np; atomic no: 93; half-life of most stable isotope, 237Np: 2.14 × 106 years; valency: 3, 4, 5, or 6; relative density: 20.25; melting pt: 639±1°C; boiling pt: 3902°C (est) 镎
+
+========================================================================
+>>> neptune
+------------------------------------------------------------------------
+Neptune    [美 'nɛptjun / 英 ˈneptju:n]
+n. [天] 海王星；海神
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the Roman god of the sea (古罗马神话中的)海神尼普顿 (Greek counterpart Poseidon)
+2. (N) 
+3. (N) the eighth planet from the sun, having eight satellites, the largest being Triton and Nereid, and a faint planar system of rings or ring fragments. Mean distance from sun: 4497 million km; period of revolution around sun: 164.8 years; period of rotation: 14 to 16 hours; diameter and mass: 4.0 and 17.2 times that of earth respectively 海王星
+
+========================================================================
+>>> plutonium
+------------------------------------------------------------------------
+plutonium    [美 plu'tonɪəm / 英 pluː'təʊnɪəm]
+n. [化学] 钚（94号元素）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Plutonium is a radioactive element used especially in nuclear weapons and as a fuel in nuclear power stations. 钚 (一种放射性元素)
+
+========================================================================
+>>> pluto
+------------------------------------------------------------------------
+pluto    ['plʊto]
+n. 冥王；冥王星
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [classical myth] the god of the underworld; Hades 冥王
+2. (N) 
+3. (N) the second-largest dwarf planet in the solar system, located in the Kuiper belt; discovered in 1930 by Clyde Tombaugh (1906–97); classified as a planet until 2006, when it was reclassified as a dwarf planet. It has a diameter of 2390 km 冥王星
+
