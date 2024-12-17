@@ -33440,3 +33440,38 @@ TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. [英国英语] Maize is the same as . 玉米
 
+========================================================================
+>>> progency
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> progeny
+------------------------------------------------------------------------
+progeny    [美 'prɑdʒəni / 英 'prɒdʒənɪ]
+n. 子孙；后裔；成果
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with poss] You can refer to a person's children or to an animal's young as their progeny. (人的)后裔; (动物的)后代
+   ≫   ...the freed slaves and their progeny.  ...被释放的奴隶和他们的后代。
+
+========================================================================
+>>> conducted
+------------------------------------------------------------------------
+conducted    [美 ˈkɑndʌktid / 英 ˈkɒndʌktid]
+v. 管理（conduct的过去分词）；引导；指挥
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you conduct an activity or task, you organize it and do it. 组织并实施
+   ≫   I decided to conduct an experiment.  我决定做一项实验。
+2. (V-T) If you conduct yourself in a particular way, you behave in that way. (以某种方式) 表现
+   ≫   The way he conducts himself reflects on the family.  他的行为方式折射出他的家庭。
+3. (V-T/V-I) When someone conducts an orchestra or choir, they stand in front of it and direct its performance. 指挥 (交响乐、合唱等)
+   ≫   Dennis had recently begun a successful career conducting opera.  丹尼斯最近成功地开始了指挥歌剧的生涯。
+   ≫   Solti continued to conduct here and abroad.  佐尔蒂继续在国内外指挥。
+4. [no cont] If something conducts heat or electricity, it allows heat or electricity to pass through it or along it. 传导 (热、电)
+   ≫   Water conducts heat faster than air.  水比空气导热快。
+5. (N-SING) The conduct of a task or activity is the way in which it is organized and carried out. 进行实施
+   ≫   Also up for discussion will be the conduct of free and fair elections.  还需讨论的是公平自由的选举如何进行。
+6. (N-UNCOUNT) Someone's conduct is the way they behave in particular situations. (某人在某情形中的) 行为方式
+   ≫   For Europeans, the law is a statement of basic principles of civilized conduct.  对欧洲人来说，该法律是对基本文明行为原则的表述。
+
