@@ -33531,3 +33531,14 @@ n. 冥王；冥王星
 2. (N) 
 3. (N) the second-largest dwarf planet in the solar system, located in the Kuiper belt; discovered in 1930 by Clyde Tombaugh (1906–97); classified as a planet until 2006, when it was reclassified as a dwarf planet. It has a diameter of 2390 km 冥王星
 
+========================================================================
+>>> interlude
+------------------------------------------------------------------------
+interlude    [美 'ɪntɚ'lʊd / 英 'ɪntəl(j)uːd]
+n. 插曲；穿插；幕间节目；[数] 插算
+vt. 使中断
+vi. 插入
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An interlude is a short period of time when an activity or situation stops and something else happens. 间歇
+
