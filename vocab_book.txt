@@ -33846,3 +33846,84 @@ Winograd
 n. （Winograd）人名；（英）威诺格拉德
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 
+========================================================================
+>>> prompt
+------------------------------------------------------------------------
+prompt    [美 prɑmpt / 英 prɒm(p)t]
+adj. 敏捷的，迅速的；立刻的
+vt. 提示；促进；激起；（给演员）提白
+n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格
+adv. 准时地
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To prompt someone to do something means to make them decide to do it. 促使
+   ≫   Japan's recession has prompted consumers to cut back on buying cars.  日本的经济衰退已促使消费者们削减购车花销。
+2. (V-T) If you prompt someone when they stop speaking, you encourage or help them to continue. If you prompt an actor, you tell them what their next line is when they have forgotten what comes next. 提示; 给 (演员) 提示词
+   ≫   "You wouldn't have wanted to bring those people to justice anyway, would you?" Brand prompted him.  “你本不想将那些人绳之以法的，是吧？”布兰德提示他说。
+3. (ADJ) A prompt action is done without any delay. 立即的 (行动)
+   ≫   It is not too late, but prompt action is needed.  还不太晚，但需要立即行动。
+4. [v-link ADJ] If you are prompt to do something, you do it without delay or you are not late. (做某事) 迅速的
+   ≫   You have been so prompt in carrying out all these commissions.  你执行所有这些任务非常迅速。
+
+========================================================================
+>>> hint
+------------------------------------------------------------------------
+hint    [美 hɪnt / 英 hɪnt]
+n. 暗示；线索
+vt. 暗示；示意
+vi. 示意
+n. (Hint)人名；(英)欣特；(法)安特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hint is a suggestion about something that is made in an indirect way. 暗示
+   ≫   I'd dropped a hint about having an exhibition of his work up here.  我暗示要在这里举办一次他的作品展。
+2. (PHRASE) If you take a hint, you understand something that is suggested to you indirectly. 领会暗示
+   ≫   "I think I hear the telephone ringing."—"Okay, I can take a hint."  “我想我听见了电话在响。”—“好的，我明白你的意思。”
+3. (V-I) If you hint at something, you suggest it in an indirect way. 暗示
+   ≫   She hinted at the possibility of a treat of some sort.  她暗示可以找找乐子什么的。
+4. (N-COUNT) A hint is a helpful piece of advice, usually about how to do something. 建议
+   ≫   Here are some helpful hints to make your journey easier.  这里是一些有用的建议，可以使你的旅途更舒适。
+5. (N-SING) A hint of something is a very small amount of it. 微量
+   ≫   She added only a hint of vermouth to the gin.  她往杜松子酒里只加了一点儿苦艾酒。
+
+========================================================================
+>>> indicate
+------------------------------------------------------------------------
+indicate    [美 'ɪndɪket / 英 'ɪndɪkeɪt]
+vt. 表明；指出；预示；象征
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing indicates another, the first thing shows that the second is true or exists. 表明
+   ≫   A survey of retired people has indicated that most are independent and enjoying life.  一项对退休人员的调查表明，他们中的大部分人生活自立而愉快。
+   ≫   Our vote today indicates a change in United States policy.  我们今天的投票表明了美国政策的变化。
+2. (V-T) If you indicate an opinion, an intention, or a fact, you mention it in an indirect way. 暗示
+   ≫   Mr. Rivers has indicated that he may resign.  里弗斯先生已经暗示他可能要辞职。
+3. [正式] If you indicate something to someone, you show them where it is, especially by pointing to it. 指示
+   ≫   He indicated a chair. "Sit down."  他指着一把椅子说，“坐下。”
+4. (V-T) If one thing indicates something else, it is a sign of that thing. 象征; 代表
+   ≫   Dreams can help indicate your true feelings.  梦能代表你的真实情感。
+5. (V-T) If a technical instrument indicates something, it shows a measurement or reading. (仪器等) 指示
+   ≫   ...an instrument used to indicate wind direction.  …一台用于指示风向的仪器。
+6. [英国英语] When drivers indicate, they make lights flash on one side of their vehicle to show that they are going to turn in that direction. (车辆打转向灯) 指示转向
+
+========================================================================
+>>> indicated
+------------------------------------------------------------------------
+indicated    [美 'ɪndə,ketɪd / 英 'ɪndə,keɪtɪd]
+adj. 表明的；指示的
+v. 表明（indicate的过去分词）；指出；显示
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing indicates another, the first thing shows that the second is true or exists. 表明
+   ≫   A survey of retired people has indicated that most are independent and enjoying life.  一项对退休人员的调查表明，他们中的大部分人生活自立而愉快。
+   ≫   Our vote today indicates a change in United States policy.  我们今天的投票表明了美国政策的变化。
+2. (V-T) If you indicate an opinion, an intention, or a fact, you mention it in an indirect way. 暗示
+   ≫   Mr. Rivers has indicated that he may resign.  里弗斯先生已经暗示他可能要辞职。
+3. [正式] If you indicate something to someone, you show them where it is, especially by pointing to it. 指示
+   ≫   He indicated a chair. "Sit down."  他指着一把椅子说，“坐下。”
+4. (V-T) If one thing indicates something else, it is a sign of that thing. 象征; 代表
+   ≫   Dreams can help indicate your true feelings.  梦能代表你的真实情感。
+5. (V-T) If a technical instrument indicates something, it shows a measurement or reading. (仪器等) 指示
+   ≫   ...an instrument used to indicate wind direction.  …一台用于指示风向的仪器。
+6. [英国英语] When drivers indicate, they make lights flash on one side of their vehicle to show that they are going to turn in that direction. (车辆打转向灯) 指示转向
+
