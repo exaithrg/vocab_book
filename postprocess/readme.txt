@@ -18,3 +18,6 @@ as ⸺+\n will always be appended to the original file.
 ≫  未找到守护进程，正在启动...
 ✔  成功启动守护进程，PID：3176
 比较烦。
+
+=======================================================================
+need to remove " xx > see also ...."
