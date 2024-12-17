@@ -33897,135 +33897,22 @@ Coppersmith–Winograd
 铜匠Winograd
 
 ========================================================================
->>> locust
+>>> coppersmith
 ------------------------------------------------------------------------
-locust    [美 'lokəst / 英 'ləʊkəst]
-n. [植保] 蝗虫，[昆] 蚱蜢
-CET6 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) Locusts are large insects, similar to grasshoppers, that live mainly in hot areas and often cause serious damage to crops. 蝗虫
-   ≫   ...a swarm of locusts.  …一群蝗虫。
-2. (N-COUNT) a North American leguminous tree, Robinia pseudoacacia, having prickly branches, hanging clusters of white fragrant flowers, and reddish-brown seed pods 洋槐树 (Also called locust tree, false acacia)
+coppersmith    [美 ˈkɑːpərˌsmɪθ / 英 ˈkɒpəˌsmɪθ]
+n. 铜匠；铜器制造人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who works copper or copper alloys 铜匠
 
 ========================================================================
->>> mosquitoes
-------------------------------------------------------------------------
-mosquitoes    [美 məˈskitoz / 英 məsˈki:təʊz]
-n. 蚊子（mosquito的复数）
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) Mosquitos are small flying insects which bite people and animals in order to suck their blood. 蚊子
-
-========================================================================
->>> crocodiles
-------------------------------------------------------------------------
-crocodiles    ['krɔkə,dail]
-n. 鳄类，鳄鱼（crocodile的复数形式）
-CET6+ TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A crocodile is a large reptile with a long body and strong jaws. Crocodiles live in rivers and eat meat. 鳄鱼
-
-========================================================================
->>> guyana
-------------------------------------------------------------------------
-Guyana    [英 ɡai'ænə /  ɡai'ænə]
-n. 圭亚那（拉丁美洲国家）
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   In Guyana, the "wearing of female attire by men" is prohibited, with violators facing a $36 fine. 在圭亚那，男人穿女人的衣服是被禁止的。 违者将面临36美元的罚款。
-≫   But Guyana still has a long way to go before the disease is eradicated, as does the rest of the world. 但是圭亚那和世界上其它国家一样，要彻底消除这种疾病还有很长的路要走。
-≫   The chemical had been in the salt for years, but seeing cyanide on the label gave Guyana’s residents pause. 这种物质在盐里面已经有好多年了，但是圭亚那居民看到标签上有氰化物，就显得犹豫起来。
-
-========================================================================
->>> parasites
-------------------------------------------------------------------------
-parasites    ['pærə,saɪt]
-n. [基医] 寄生虫；[生物] 寄生生物（parasite的复数）
-CET6 TEM8
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A parasite is a small animal or plant that lives on or inside a larger animal or plant, and gets its food from it. 寄生虫; 寄生植物
-   ≫   Kangaroos harbour a vast range of parasites.  袋鼠身上有各种各样的寄生虫。
-2. [表不满] If you disapprove of someone because you think that they get money or other things from other people but do not do anything in return, you can call them a parasite. 靠他人为生的人; 寄生虫
-   ≫   ...a parasite, who produced nothing but lived on the work of others.  …一个什么都不做而靠他人的劳动为生的寄生虫。
-
-========================================================================
->>> luminary
-------------------------------------------------------------------------
-luminary    [美 'lʊmə'nɛri / 英 'luːmɪn(ə)rɪ]
-n. 发光体；杰出人物；知识渊博的人
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [文学性] If you refer to someone as a luminary, you mean that they are an expert in a particular subject or activity. 方家; 大师; 泰斗
-   ≫   ...the political opinions of such luminaries as Sartre or de Beauvoir.  ...诸如萨特、波伏娃等大家的政见。
-
-========================================================================
->>> Oryon
+>>> winograde
 ------------------------------------------------------------------------
 Not found :(
 
 ========================================================================
->>> Zack
+>>> winograd
 ------------------------------------------------------------------------
-zack    [zæk]
-n. 六便士之硬币
-n. (Zack)人名；(英)扎克；(瑞典)萨克
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   The study was headed by Matthew Zack, M.D., a medical epidemiologist with the Centers for Disease Control and Prevention in Atlanta. 这项研究是在亚特兰大疾病控制与预防中心的流行病学家Matthew Zack, M.D．的带领下进行的。
-≫   While cutting into the bones of the man, Zack accidentally releases a deadly fungus, that causes the team to be quarantined over Christmas. 在切割尸骨之时，Zack不小心把一种致命病菌释放了出来，导致大家都只能在隔离环境中过圣诞了。
-≫   And in general, people with higher incomes and college degrees report fewer instances of prolonged depression or stress, said study author Matthew Zack, a medical with the CDC. 一般来说，更高的收入和学历水平意味着更少更短期的失落失望和压抑。 此项研究的负责人，CDC的流行病学家Matthew Zack说。
-
-========================================================================
->>> fungus
-------------------------------------------------------------------------
-fungus    [美 'fʌŋɡəs / 英 'fʌŋgəs]
-n. 真菌，霉菌；菌类
-CET6+ TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-MASS) A fungus is a plant that has no flowers, leaves, or green colouring, such as a mushroom or a toadstool. Other types of fungus such as mould are extremely small and look like a fine powder. 菌类
-
-========================================================================
->>> imperious
-------------------------------------------------------------------------
-imperious    [美 ɪm'pɪrɪəs / 英 ɪm'pɪərɪəs]
-adj. 专横的；迫切的；傲慢的
-TEM8
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. [ADV with v] If you describe someone as imperious, you mean that they have a proud manner and expect to be obeyed. 专横的; 傲慢的; 飞扬跋扈的
-   ≫   Her attitude is imperious at times.  她的态度有时很专横。
-2. (ADV) imperiously
-   ≫   Imperiously she beckoned me out of the room.  她傲慢地挥手把我赶出了房间。
-
-========================================================================
->>> appeal
-------------------------------------------------------------------------
-appeal    [美 ə'pil / 英 ə'piːl]
-vi. 呼吁，恳求；上诉；诉诸，求助；有吸引力，迎合爱好；（体育比赛中）诉诸裁判
-n. 呼吁，请求；吸引力，感染力；上诉；诉诸裁判
-vt. 将…上诉，对…上诉
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (V-I) If you appeal to someone to do something, you make a serious and urgent request to them. 呼吁
-   ≫   He appealed to voters to go to the polls tomorrow.  他呼吁选民们明天去投票站。
-   ≫   He will appeal to the state for an extension of unemployment benefits.  他将呼吁国家延长失业救济。
-2. (V-T) If you appeal a decision to someone in authority, you formally ask them to change it. 申诉
-   ≫   We intend to appeal the verdict.  我们打算对此裁决提出申诉。
-3. (V-I) If something appeals to you, you find it attractive or interesting. 有吸引力
-   ≫   On the other hand, the idea appealed to him.  另一方面，这个主意对他有吸引力。
-4. (N-COUNT) An appeal is a serious and urgent request. 呼吁
-   ≫   He has a message from King Fahd, believed to be an appeal for Arab unity.  他有个来自法赫德国王的口信，相信是对阿拉伯团结的呼吁。
-5. (N-COUNT) An appeal is an attempt to raise money for a charity or for a good cause. (为慈善或好的事业所做的) 筹款努力
-   ≫   ...an appeal to save a library containing priceless manuscripts.  …为挽救一个藏有无价手稿图书馆的一次筹款努力。
-6. (N-VAR) An appeal is a formal request for a decision to be changed. 申诉
-   ≫   They took their appeal to the Supreme Court.  他们上诉到了最高法院。
-7. (N-UNCOUNT) The appeal of something is a quality that people find attractive or interesting. 吸引力
-   ≫   Its new title was meant to give the party greater public appeal.  其新的名字意在给予该党更大的公众吸引力。
-8. → see also
-
-========================================================================
->>> nouns
-------------------------------------------------------------------------
-nouns    [美 'naʊnz / 英 'naʊnz]
-n. [语] 名词（noun的复数）
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A noun is a word such as "car," "love," or "Anne" which is used to refer to a person or thing. 名词
-2. → see also ,
+Winograd
+n. （Winograd）人名；（英）威诺格拉德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 

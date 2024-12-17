@@ -1,4 +1,14 @@
 ========================================================================
+>>> nouns
+------------------------------------------------------------------------
+nouns    [美 'naʊnz / 英 'naʊnz]
+n. [语] 名词（noun的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A noun is a word such as "car," "love," or "Anne" which is used to refer to a person or thing. 名词
+2. → see also ,
+
+========================================================================
 >>> lettuce
 ------------------------------------------------------------------------
 lettuce    [美 'lɛtɪs / 英 'letɪs]
@@ -14265,4 +14275,2821 @@ Not found :(
 ------------------------------------------------------------------------
 untermensch
 n. <贬>下等人（尤指在纳粹的种族等级制度中）
+
+========================================================================
+>>> locust
+------------------------------------------------------------------------
+locust    [美 'lokəst / 英 'ləʊkəst]
+n. [植保] 蝗虫，[昆] 蚱蜢
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Locusts are large insects, similar to grasshoppers, that live mainly in hot areas and often cause serious damage to crops. 蝗虫
+   ≫   ...a swarm of locusts.  …一群蝗虫。
+2. (N-COUNT) a North American leguminous tree, Robinia pseudoacacia, having prickly branches, hanging clusters of white fragrant flowers, and reddish-brown seed pods 洋槐树 (Also called locust tree, false acacia)
+
+========================================================================
+>>> mosquitoes
+------------------------------------------------------------------------
+mosquitoes    [美 məˈskitoz / 英 məsˈki:təʊz]
+n. 蚊子（mosquito的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Mosquitos are small flying insects which bite people and animals in order to suck their blood. 蚊子
+
+========================================================================
+>>> crocodiles
+------------------------------------------------------------------------
+crocodiles    ['krɔkə,dail]
+n. 鳄类，鳄鱼（crocodile的复数形式）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A crocodile is a large reptile with a long body and strong jaws. Crocodiles live in rivers and eat meat. 鳄鱼
+
+========================================================================
+>>> guyana
+------------------------------------------------------------------------
+Guyana    [英 ɡai'ænə /  ɡai'ænə]
+n. 圭亚那（拉丁美洲国家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In Guyana, the "wearing of female attire by men" is prohibited, with violators facing a $36 fine. 在圭亚那，男人穿女人的衣服是被禁止的。 违者将面临36美元的罚款。
+≫   But Guyana still has a long way to go before the disease is eradicated, as does the rest of the world. 但是圭亚那和世界上其它国家一样，要彻底消除这种疾病还有很长的路要走。
+≫   The chemical had been in the salt for years, but seeing cyanide on the label gave Guyana’s residents pause. 这种物质在盐里面已经有好多年了，但是圭亚那居民看到标签上有氰化物，就显得犹豫起来。
+
+========================================================================
+>>> parasites
+------------------------------------------------------------------------
+parasites    ['pærə,saɪt]
+n. [基医] 寄生虫；[生物] 寄生生物（parasite的复数）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A parasite is a small animal or plant that lives on or inside a larger animal or plant, and gets its food from it. 寄生虫; 寄生植物
+   ≫   Kangaroos harbour a vast range of parasites.  袋鼠身上有各种各样的寄生虫。
+2. [表不满] If you disapprove of someone because you think that they get money or other things from other people but do not do anything in return, you can call them a parasite. 靠他人为生的人; 寄生虫
+   ≫   ...a parasite, who produced nothing but lived on the work of others.  …一个什么都不做而靠他人的劳动为生的寄生虫。
+
+========================================================================
+>>> luminary
+------------------------------------------------------------------------
+luminary    [美 'lʊmə'nɛri / 英 'luːmɪn(ə)rɪ]
+n. 发光体；杰出人物；知识渊博的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] If you refer to someone as a luminary, you mean that they are an expert in a particular subject or activity. 方家; 大师; 泰斗
+   ≫   ...the political opinions of such luminaries as Sartre or de Beauvoir.  ...诸如萨特、波伏娃等大家的政见。
+
+========================================================================
+>>> Oryon
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Zack
+------------------------------------------------------------------------
+zack    [zæk]
+n. 六便士之硬币
+n. (Zack)人名；(英)扎克；(瑞典)萨克
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The study was headed by Matthew Zack, M.D., a medical epidemiologist with the Centers for Disease Control and Prevention in Atlanta. 这项研究是在亚特兰大疾病控制与预防中心的流行病学家Matthew Zack, M.D．的带领下进行的。
+≫   While cutting into the bones of the man, Zack accidentally releases a deadly fungus, that causes the team to be quarantined over Christmas. 在切割尸骨之时，Zack不小心把一种致命病菌释放了出来，导致大家都只能在隔离环境中过圣诞了。
+≫   And in general, people with higher incomes and college degrees report fewer instances of prolonged depression or stress, said study author Matthew Zack, a medical with the CDC. 一般来说，更高的收入和学历水平意味着更少更短期的失落失望和压抑。 此项研究的负责人，CDC的流行病学家Matthew Zack说。
+
+========================================================================
+>>> fungus
+------------------------------------------------------------------------
+fungus    [美 'fʌŋɡəs / 英 'fʌŋgəs]
+n. 真菌，霉菌；菌类
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) A fungus is a plant that has no flowers, leaves, or green colouring, such as a mushroom or a toadstool. Other types of fungus such as mould are extremely small and look like a fine powder. 菌类
+
+========================================================================
+>>> imperious
+------------------------------------------------------------------------
+imperious    [美 ɪm'pɪrɪəs / 英 ɪm'pɪərɪəs]
+adj. 专横的；迫切的；傲慢的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with v] If you describe someone as imperious, you mean that they have a proud manner and expect to be obeyed. 专横的; 傲慢的; 飞扬跋扈的
+   ≫   Her attitude is imperious at times.  她的态度有时很专横。
+2. (ADV) imperiously
+   ≫   Imperiously she beckoned me out of the room.  她傲慢地挥手把我赶出了房间。
+
+========================================================================
+>>> appeal
+------------------------------------------------------------------------
+appeal    [美 ə'pil / 英 ə'piːl]
+vi. 呼吁，恳求；上诉；诉诸，求助；有吸引力，迎合爱好；（体育比赛中）诉诸裁判
+n. 呼吁，请求；吸引力，感染力；上诉；诉诸裁判
+vt. 将…上诉，对…上诉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you appeal to someone to do something, you make a serious and urgent request to them. 呼吁
+   ≫   He appealed to voters to go to the polls tomorrow.  他呼吁选民们明天去投票站。
+   ≫   He will appeal to the state for an extension of unemployment benefits.  他将呼吁国家延长失业救济。
+2. (V-T) If you appeal a decision to someone in authority, you formally ask them to change it. 申诉
+   ≫   We intend to appeal the verdict.  我们打算对此裁决提出申诉。
+3. (V-I) If something appeals to you, you find it attractive or interesting. 有吸引力
+   ≫   On the other hand, the idea appealed to him.  另一方面，这个主意对他有吸引力。
+4. (N-COUNT) An appeal is a serious and urgent request. 呼吁
+   ≫   He has a message from King Fahd, believed to be an appeal for Arab unity.  他有个来自法赫德国王的口信，相信是对阿拉伯团结的呼吁。
+5. (N-COUNT) An appeal is an attempt to raise money for a charity or for a good cause. (为慈善或好的事业所做的) 筹款努力
+   ≫   ...an appeal to save a library containing priceless manuscripts.  …为挽救一个藏有无价手稿图书馆的一次筹款努力。
+6. (N-VAR) An appeal is a formal request for a decision to be changed. 申诉
+   ≫   They took their appeal to the Supreme Court.  他们上诉到了最高法院。
+7. (N-UNCOUNT) The appeal of something is a quality that people find attractive or interesting. 吸引力
+   ≫   Its new title was meant to give the party greater public appeal.  其新的名字意在给予该党更大的公众吸引力。
+8. → see also
+
+========================================================================
+>>> food allergens
+------------------------------------------------------------------------
+food allergen
+食品过敏原
+食物过敏原
+食物变应原
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And they were nearly 50 percent more likely to have antibodies to food allergens. 而且他们中约有50%更容易对食物过敏原产生抗体。
+≫   Undigested food allergens will continue to be deposited in fat cells, leading to greater obesity. 食物过敏会继续增加脂肪的储存，并导致更严重的肥胖。
+≫   Methods 301 children with asthma were tested using 14 kinds of inhalation allergens and 4 kinds of food allergens. 方法应用阿罗格点刺液，对301例支气管哮喘患儿进行14种吸入性变应原及4种食物变应原测试。
+
+========================================================================
+>>> peanuts
+------------------------------------------------------------------------
+peanuts    [英 'pi:nʌts /  'pi:nʌts]
+n. [作物] 花生；小人物；小零碎；微不足道的钱（peanut的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [slang] a trifling amount of money 少量的钱
+
+========================================================================
+>>> tree nuts
+------------------------------------------------------------------------
+tree nuts    [美 triː nʌts]
+树坚果，指生长在树上的坚果，如杏仁、核桃、榛子等
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tree nuts, such as walnuts and pecans. 树坚果，如核桃和胡桃。
+≫   This product contains no wheat (gluten), milk, eggs, peanuts, tree nuts, soy or preservatives. 本产品不含有小麦(面筋)，牛奶，鸡蛋，花生，坚果，大豆或防腐剂。
+≫   The findings apply to tree nuts such as walnuts, almonds, pistachios, macadamias, hazelnuts and peanuts. 研究用的是树生坚果，例如核桃、杏仁、开心果、澳洲坚果、榛子、花生。
+
+========================================================================
+>>> gluten
+------------------------------------------------------------------------
+gluten    [美 'ɡlutn / 英 'gluːt(ə)n]
+n. 面筋；麸质；谷蛋白
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Gluten is a substance found in cereal grains such as wheat. 面筋
+
+========================================================================
+>>> walnuts
+------------------------------------------------------------------------
+walnuts    ['wɔ:lnʌt; -nət]
+n. [园艺] 核桃（walnut的复数形式）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Walnuts are edible nuts that have a wrinkled shape and a hard round shell that is light brown in colour. 胡桃; 核桃
+   ≫   ...chopped walnuts.  …砸碎了的核桃。
+
+========================================================================
+>>> almonds
+------------------------------------------------------------------------
+almonds    ['ɑ:mənd]
+n. [食品] 杏仁；杏仁粉（almond的复数）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Almonds are pale oval nuts. They are often used in cooking. 杏仁
+   ≫   ...sponge cake flavoured with almonds.  …带杏仁味的松糕。
+2. (N-VAR) An almond or an almond tree is a tree on which almonds grow. 杏树
+   ≫   On the left was a plantation of almond trees.  在左边曾是一个杏树种植园。
+
+========================================================================
+>>> pistachios
+------------------------------------------------------------------------
+pistachios    [pis'ta:ʃiəuz]
+n. 开心果（pistachio的复数）；阿月浑子的果实
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Pistachios or pistachio nuts are small, green, edible nuts. 开心果
+
+========================================================================
+>>> macadamias
+------------------------------------------------------------------------
+macadamias
+n. 夏威夷果（macadamia 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any tree of the Australian proteaceous genus Macadamia, esp M. ternifolia, having clusters of small white flowers and edible nutlike seeds 澳洲坚果; 长有小白花簇和可食用的像坚果的种子
+
+========================================================================
+>>> hazelnuts
+------------------------------------------------------------------------
+hazelnuts    ['heizəlnʌt]
+n. [园艺] 榛子；榛子粉（hazelnut的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Hazelnuts are nuts from a hazel tree, which can be eaten. 榛子
+
+========================================================================
+>>> preservatives
+------------------------------------------------------------------------
+preservatives    [prɪ'zɝvətɪv]
+n. 防腐的（preservative的复数）；[助剂] 防腐剂；保存剂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) A preservative is a chemical that prevents things from decaying. Some preservatives are added to food, and others are used to treat wood or metal. 防腐剂
+   ≫   Nitrates are used as preservatives in food processing.  硝酸盐在食品加工中被用作防腐剂。
+
+========================================================================
+>>> cashews
+------------------------------------------------------------------------
+cashews    ['kæʃu:]
+n. [园艺] 腰果；腰果树（cashew的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cashew or a cashew nut is a curved nut that you can eat. 腰果
+
+========================================================================
+>>> shellfish
+------------------------------------------------------------------------
+shellfish    [美 'ʃɛl'fɪʃ / 英 'ʃelfɪʃ]
+n. 甲壳类动物；贝类等有壳的水生动物
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Shellfish are small creatures that live in the sea and have a shell. 甲壳类水生动物
+   ≫   Fish and shellfish are the specialties.  鱼和甲壳类水生动物是特产。
+
+========================================================================
+>>> shrimp
+------------------------------------------------------------------------
+shrimp    [英 ʃrɪmp / 美 ʃrɪmp]
+n. 虾；小虾；矮小的人
+vi. 捕虾
+adj. 有虾的；虾制的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Shrimps are small shellfish with long tails and many legs. 小虾
+
+========================================================================
+>>> crab
+------------------------------------------------------------------------
+crab    [美 kræb / 英 kræb]
+n. 螃蟹；蟹肉；脾气乖戾的人；起重机
+vt. 抱怨；破坏；使偏航
+vi. 捕蟹；发牢骚；抱怨
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A crab is a sea creature with a flat round body covered by a shell, and five pairs of legs with large claws on the front pair. Crabs usually move sideways. 螃蟹
+2. (N-UNCOUNT) Crab is the flesh of this creature eaten as food. 蟹肉
+   ≫   I can't remember when I last had crab.  我不记得上次吃蟹是什么时候了。
+3. (N-COUNT) crab apple的缩写 → short for
+4. (V) to hunt or catch crabs 捕蟹
+
+========================================================================
+>>> lobster
+------------------------------------------------------------------------
+lobster    [美 'lɑbstɚ / 英 'lɒbstə]
+n. 龙虾
+龙虾肉
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A lobster is a sea creature that has a hard shell, two large claws, and eight legs. 龙虾
+   ≫   She sold me a couple of live lobsters.  她卖给了我几只活龙虾。
+2. (N-UNCOUNT) Lobster is the flesh of a lobster eaten as food. 龙虾肉
+   ≫   ...lobster on a bed of fresh vegetables.  …放在一层新鲜蔬菜上的龙虾肉。
+
+========================================================================
+>>> tuna
+------------------------------------------------------------------------
+tuna    [英 'tjuːnə / 美 'tunə]
+n. 金枪鱼，鲔鱼
+n. (Tuna)人名；(葡、匈、捷、土、塞)图纳
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tuna or tuna fish are large fish that live in warm seas and are caught for food. 金枪鱼
+   ≫   ...a shoal of tuna.  …一群金枪鱼。
+2. (N-UNCOUNT) Tuna or tuna fish is this fish eaten as food. 金枪鱼肉
+   ≫   She began opening a can of tuna.  她开始打开一罐金枪鱼。
+3. (N) any of various tropical American prickly pear cacti, esp Opuntia tuna, that are cultivated for their sweet edible fruits 刺梨仙人掌(尤指金枪仙人掌)
+
+========================================================================
+>>> salmon
+------------------------------------------------------------------------
+salmon    [美 'sæmən / 英 'sæmən]
+n. 鲑鱼；大马哈鱼；鲑肉色；鲑鱼肉；橙红色，粉橙色
+adj. 浅澄色的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A salmon is a large silver-coloured fish. 三文鱼
+2. (N-UNCOUNT) Salmon is the orangey-pink flesh of this fish which is eaten as food. It is often smoked and eaten raw. 鲑鱼肉
+   ≫   He gave them a splendid lunch of smoked salmon.  他款待了他们一顿极好的熏三文鱼午餐。
+
+========================================================================
+>>> gluten
+------------------------------------------------------------------------
+gluten    [美 'ɡlutn / 英 'gluːt(ə)n]
+n. 面筋；麸质；谷蛋白
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Gluten is a substance found in cereal grains such as wheat. 面筋
+
+========================================================================
+>>> sulphites
+------------------------------------------------------------------------
+sulphites
+n. 亚硫酸盐（sulphite 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any salt or ester of sulphurous acid, containing the ions SO3 2– or HSO3 – (hydrogen sulphite) or the groups –SO3 or –HSO3. The salts are usually soluble crystalline compounds 亚硫酸盐
+
+========================================================================
+>>> cellulose
+------------------------------------------------------------------------
+cellulose    [美 'sɛljulos / 英 'seljʊləʊz; -s]
+n. 纤维素；（植物的）细胞膜质
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cellulose is a substance that exists in the cell walls of plants and is used to make paper, plastic, and various fabrics and fibres. 纤维素
+
+========================================================================
+>>> lignin
+------------------------------------------------------------------------
+lignin    [美 'lɪgnɪn / 英 'lɪgnɪn]
+n. [木] 木质素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a complex polymer occurring in certain plant cell walls making the plant rigid 木质素; 出现在植物细胞壁中，能使植物僵硬的复杂的聚合物
+
+========================================================================
+>>> nitrites
+------------------------------------------------------------------------
+nitrites    ['naitrait]
+n. [无化] 亚硝酸盐（nitrite的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any salt or ester of nitrous acid 亚硝酸盐
+
+========================================================================
+>>> pregnance
+------------------------------------------------------------------------
+pregnance    ['pregnənsi]
+n. 妊娠
+
+========================================================================
+>>> pregnancy
+------------------------------------------------------------------------
+pregnancy    [美 'prɛgnənsi / 英 'pregnənsɪ]
+n. 怀孕；丰富，多产；意义深长
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Pregnancy is the condition of being pregnant or the period of time during which a female is pregnant. 怀孕; 怀孕期
+   ≫   It would be wiser to cut out all alcohol during pregnancy.  怀孕期间最好完全戒酒。
+
+========================================================================
+>>> pregant
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pregnant
+------------------------------------------------------------------------
+pregnant    [美 'prɛɡnənt / 英 'pregnənt]
+adj. 怀孕的；富有意义的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a woman or female animal is pregnant, she has a baby or babies developing in her body. 怀孕的
+   ≫   Lena got pregnant and married.  莉娜怀了孕并结了婚。
+2. [ADJ n, v-link ADJ 'with' n] A pregnant silence or moment has a special meaning that is not obvious but that people are aware of. 耐人寻味的
+   ≫   There was a long, pregnant silence, which Mrs. Madrigal punctuated by reaching for the cheque.  马德里加尔太太伸手去拿那支票，打破了那一阵长时间的、耐人寻味的沉默。
+
+========================================================================
+>>> conceive
+------------------------------------------------------------------------
+conceive    [美 kən'siv / 英 kən'siːv]
+vt. 怀孕；构思；以为；持有
+vi. 怀孕；设想；考虑
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with brd-neg] If you cannot conceive of something, you cannot imagine it or believe it. 想像; 相信
+   ≫   I just can't even conceive of that quantity of money.  我简直无法想像那样一笔数量的钱。
+   ≫   We could not conceive that he might soon be dead.  我们无法相信他可能很快就会死去。
+2. (V-T/V-I) If you conceive something as a particular thing, you consider it to be that thing. 认为
+   ≫   The ancients conceived the earth as afloat in water.  古人认为地球漂浮在水里。
+   ≫   We conceive of the family as being in a constant state of change.  我们认为家庭是处于不断变化之中的。
+3. (V-T) If you conceive a plan or idea, you think of it and work out how it can be done. 构想出
+   ≫   She had conceived the idea of a series of novels, each of which would reveal some aspect of Chinese life.  她已经想出了个关于一个系列小说的主意，每一部都将反映中国人生活的某一方面。
+4. (V-T/V-I) When a woman conceives a child or conceives, she becomes pregnant. 怀 (胎); 怀孕
+   ≫   Women, he says, should give up alcohol before they plan to conceive.  他说女人在计划怀孕前应该戒酒。
+
+========================================================================
+>>> conception
+------------------------------------------------------------------------
+conception    [美 kən'sɛpʃən / 英 kən'sepʃ(ə)n]
+n. 怀孕；概念；设想；开始
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A conception of something is an idea that you have of it in your mind. (对某事物的) 概念
+   ≫   My conception of a garden was based on gardens I had visited in England.  我对花园的概念是基于我在英格兰参观过的一些花园的。
+2. (N-VAR) Conception is the process in which the egg in a woman is fertilized and she becomes pregnant. 受孕
+   ≫   Six weeks after conception, your baby is the size of your little fingernail.  受孕六周后你的孩子有你小手指甲那么大。
+
+========================================================================
+>>> gestation
+------------------------------------------------------------------------
+gestation    [美 dʒɛ'steʃən / 英 dʒe'steɪʃ(ə)n]
+n. 酝酿；怀孕；妊娠期
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] Gestation is the process in which babies grow inside their mother's body before they are born. 妊娠
+   ≫   ...the seventeenth week of gestation.  ...妊娠第17周。
+   ≫   The gestation period can be anything between 95 and 150 days.  妊娠期从95天至150天不等。
+2. [正式] Gestation is the process in which an idea or plan develops. 酝酿
+   ≫   ...the period of gestation of this design.  ...这项设计的构思阶段。
+
+========================================================================
+>>> lupin
+------------------------------------------------------------------------
+lupin    ['lupɪn]
+n. 羽扇豆
+n. (Lupin)人名；(法)吕潘
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any leguminous plant of the genus Lupinus, of North America, Europe, and Africa, with large spikes of brightly coloured flowers and flattened pods 羽扇豆
+
+========================================================================
+>>> allergens
+------------------------------------------------------------------------
+allergens    ['ælədʒən]
+n. [医] 过敏原（allergen的复数）；过敏素；致敏原
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] An allergen is a substance that causes an allergic reaction in someone. 过敏源
+
+========================================================================
+>>> mites
+------------------------------------------------------------------------
+mites    [maɪt]
+n. 螨虫类（mite的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Mites are very tiny creatures that live on plants, for example, or in animals' fur. (生活在植物或动物皮毛中的) 螨
+   ≫   ...an itching skin disorder caused by parasitic mites.  …寄生螨虫引起的一种皮肤瘙痒病。
+2. (N-COUNT) a very small particle, creature, or object 微粒; 微小的生物(或物体)
+
+========================================================================
+>>> dust mites
+------------------------------------------------------------------------
+dustmites
+n．尘螨：一种微小的蜘蛛类动物，通常生活在家庭环境中，以人类和动物的皮屑为食。尘螨是许多过敏症状和哮喘的常见原因。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Research suggests that while an unmade bed may look scruffy, it is also unappealing to house dust mites thought to cause asthma and other allergies. 研究表明，虽然一张未经整理的床看起来很肮脏，但它无法吸引那些被认为会引发哮喘和过敏症的屋尘螨。
+≫   Dust mites can trigger allergies. 尘螨会导致过敏。
+≫   Dust the house. Dust mites can trigger allergies. 清理房间灰尘。尘螨会导致过敏。
+
+========================================================================
+>>> dander
+------------------------------------------------------------------------
+dander    [美 'dændɚ / 英 'dændə]
+n. 头皮屑（等于dandruff）；怒气；（苏格兰）闲逛；（英）颤抖
+vi. 说话语无伦次；闲逛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) small particles or scales of hair or feathers 头皮屑; 羽毛碎片
+2. (N) 
+3. (N) a stroll 溜达
+4. (V) to stroll 溜达
+
+========================================================================
+>>> cat dander
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cat dander
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5065
+cat dander
+猫毛
+
+========================================================================
+>>> dog dander
+------------------------------------------------------------------------
+dog dander
+狗皮屑：狗身上脱落的皮屑，是引起过敏的主要原因之一。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you have allergies to dog hair, dander or saliva, you will probably have problems with a Lab. 如果你对头皮屑，狗毛，狗口水过敏，你可能会对拉拉有意见。
+
+========================================================================
+>>> cat hair
+------------------------------------------------------------------------
+cat hair
+猫毛：猫身上的毛发，通常会掉落在家具、衣物等物品上。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I am allergic to cat hair. 我对猫毛过敏。《柯林斯英汉双解大词典》
+≫   It was cat hair I plucked off Millicent Bulstrode's robes. 我从米莉森的长袍上拿到的是一根猫毛。
+≫   Yet when we received an E-mail announcing a book called "Crafting With Cat Hair," we have to admit, it caught our attention. 最近又收到一封，主题是关于新书发表，书名叫《利用猫毛做手工》，不得不承认，这题目还挺引人注目。
+
+========================================================================
+>>> dog hair
+------------------------------------------------------------------------
+dog hair
+狗毛：狗身上的毛发。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "My wife can't take the dog hair," he lied. “我妻子受不了狗毛的。”他撒了个谎。
+≫   What do you think? Would you wear a dog hair sweater? 你觉得这个想法怎么样？你会不会穿件狗毛毛衣？
+≫   If you have allergies to dog hair, dander or saliva, you will probably have problems with a Lab. 如果你对头皮屑，狗毛，狗口水过敏，你可能会对拉拉有意见。
+
+========================================================================
+>>> pollen
+------------------------------------------------------------------------
+pollen    [美 'pɑlən / 英 'pɒlən]
+vt. 传授花粉给
+n. [植] 花粉
+n. (Pollen)人名；(英)波伦
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Pollen is a fine powder produced by flowers. It fertilizes other flowers of the same species so that they produce seeds. 花粉
+
+========================================================================
+>>> weed
+------------------------------------------------------------------------
+weed    [美 wid / 英 wiːd]
+vt. 除草；铲除
+n. 杂草，野草；菸草
+vi. 除草
+n. (Weed)人名；(英)威德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A weed is a wild plant that grows in gardens or fields of crops and prevents the plants that you want from growing properly. 杂草
+   ≫   With repeated applications of weedkiller, the weeds were overcome.  反复的施除草剂后，杂草终于被消灭了。
+2. (V-T/V-I) If you weed an area, you remove the weeds from it. 除草
+   ≫   Caspar was weeding the garden.  卡斯帕正在给花园除草。
+   ≫   Try not to walk on the flowerbeds while weeding.  除草的时候尽量不要在花坛上走。
+
+========================================================================
+>>> weed pollen
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> weed pollen
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5271
+weed pollen
+杂草花粉
+
+========================================================================
+>>> spores
+------------------------------------------------------------------------
+spores    [spor]
+n. [生物] 孢子（spore的复数）
+v. 形成芽孢（spore的三单形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Spores are cells produced by bacteria and fungi which can develop into new bacteria or fungi. 孢子
+
+========================================================================
+>>> mold
+------------------------------------------------------------------------
+mold    [美 mold / 英 məʊld]
+vt. 塑造；使发霉；用模子制作
+vi. 发霉
+n. 霉菌；模子
+n. (Mold)人名；(英)莫尔德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The plastic was poured into the mold and left to set until it was firm. 塑料被注入模子后， 便放在一边让它慢慢凝结硬化。
+≫   Because of its flexibility, we can mold software into any form to do almost anything. 由于灵活性，我们可以将软件塑造成任何形式从而处理几乎所有的问题。
+≫   God uses all of it to mold you for your ministry to others and shape you for your service to him. 无论大小，神会使用一切事来塑造你，好叫你能为他服务，也能在教会里承担一定责任。
+
+========================================================================
+>>> mold spores
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5378
+mold spores
+霉菌孢子：一种微小的生物结构，由霉菌产生并释放到空气中，可以在适宜的环境条件下生长和繁殖。
+
+========================================================================
+>>> cockroach
+------------------------------------------------------------------------
+cockroach    [美 'kɑk'rotʃ / 英 'kɒkrəʊtʃ]
+n. [昆] 蟑螂
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cockroach is a large brown insect that is sometimes found in warm places or where food is kept. 蟑螂
+
+========================================================================
+>>> particles
+------------------------------------------------------------------------
+particles    ['pɑrtɪkl]
+n. 微粒，粒子；粒子系统；碎木料（particle的复数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A particle of something is a very small piece or amount of it. 微粒; 极小量
+   ≫   ...a particle of hot metal.  …热金属微粒。
+   ≫   There is a particle of truth in his statement.  在他的声明中只有极少的事实。
+2. [技术] In physics, a particle is a piece of matter smaller than an atom such as an electron or a proton. 粒子
+   ≫   ...the sub-atomic particles that make up matter.  …构成物质的次原子微粒。
+
+========================================================================
+>>> electron
+------------------------------------------------------------------------
+electron    [美 ɪ'lɛktrɑn / 英 ɪ'lektrɒn]
+n. 电子
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] An electron is a tiny particle of matter that is smaller than an atom and has a negative electrical charge. 电子
+   ≫   Most things are balanced - with equal numbers of electrons and protons.  大部分物体都是电荷平衡的——含等量的电子和质子。
+
+========================================================================
+>>> proton
+------------------------------------------------------------------------
+proton    [美 'protɑn / 英 'prəʊtɒn]
+n. [物] 质子
+n. (Proton)人名；(法)普罗东
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] A proton is an atomic particle that has a positive electrical charge. 质子
+
+========================================================================
+>>> medication
+------------------------------------------------------------------------
+medication    [美 'mɛdɪ'keʃən / 英 medɪ'keɪʃ(ə)n]
+n. 药物；药物治疗；药物处理
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Medication is medicine that is used to treat and cure illness. 药物
+   ≫   When somebody comes for treatment I always ask them if they are on any medication.  有人来治疗时，我总是会问他们是否在服药。
+
+========================================================================
+>>> penicillin
+------------------------------------------------------------------------
+penicillin    [美 ,pɛnɪ'sɪlɪn / 英 penɪ'sɪlɪn]
+n. 盘尼西林（青霉素）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Penicillin is a drug that kills bacteria and is used to treat infections. 青霉素
+
+========================================================================
+>>> aspirin
+------------------------------------------------------------------------
+aspirin    [美 'æsprɪn / 英 'æsp(ə)rɪn]
+n. 阿司匹林（解热镇痛药）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Aspirin is a mild drug that reduces pain and fever. 阿司匹林
+
+========================================================================
+>>> ibuprofen
+------------------------------------------------------------------------
+ibuprofen    [美 ,aɪbju'profɛn / 英 ,aɪbjuː'prəʊf(ə)n]
+n. 布洛芬，异丁苯丙酸（抗炎，镇痛药）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a drug, isobutylphenylpropionic acid, that relieves pain and reduces inflammation: used to treat arthritis and muscular strains. Formula: C13H18O2 异丁苯丙酸
+
+========================================================================
+>>> antibiotics
+------------------------------------------------------------------------
+antibiotics    [美 ,æntɪbaɪ'ɑtɪks / 英 ,æntɪbaɪ'ɒtɪks]
+n. [药] 抗生素；抗生学
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Antibiotics are medical drugs used to kill bacteria and treat infections. 抗生素
+   ≫   Your doctor may prescribe antibiotics.  你的大夫可能会开抗生素。
+
+========================================================================
+>>> sulfa drug
+------------------------------------------------------------------------
+Sulfa drug    [美 ˈsʌlfə drʌɡ]
+磺胺类药
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of a group of sulfonamide compounds that inhibit the activity of bacteria and are used in medicine to treat bacterial infections 磺胺药物
+
+========================================================================
+>>> anesthetics
+------------------------------------------------------------------------
+anesthetics    [ænis'θitiks]
+n. 麻醉药；麻醉剂（anesthetic的复数）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   However, the study adds to understanding of how the brain processes pain, which could help the development of new types of anesthetics. 然而，这项研究增加了对大脑如何处理疼痛的了解，这可能有助于开发新型的麻醉药。
+≫   Usage of ether and chloroform later declined after the development of safer, more effective inhalation anesthetics, and they are no longer used in surgery today. 在开发出更安全更有效的吸入式麻醉剂之后，乙醚和氯仿的使用逐渐的减少，直到如今已不在外科手术中使用了。
+≫   Jackson told Metzger near the end of his life that intravenous anesthetics were the only thing that could give him sleep. 杰克逊与梅次格说，在杰克逊生命的最后一段时光里，他只能靠注射静脉麻醉剂来帮助自己入睡。
+
+========================================================================
+>>> lidocaine
+------------------------------------------------------------------------
+lidocaine    [美 'lɪdəken / 英 'lɪdə(ʊ)keɪn]
+n. 利多卡因（一种局部麻醉剂，常见品牌是赛罗卡因（Xylocaine））
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a powerful local anaesthetic administered by injection, or topically to mucous membranes. Formula: C14H22N2O.HCl.H2O 利多卡因 (Also called lignocaine)
+
+========================================================================
+>>> insulin
+------------------------------------------------------------------------
+insulin    [美 'ɪnsəlɪn / 英 'ɪnsjʊlɪn]
+n. [生化][药] 胰岛素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Insulin is a substance that most people produce naturally in their body and that controls the level of sugar in their blood. 胰岛素
+   ≫   Sufferers from the more severe form of diabetes have faulty insulin-producing cells.  患有更严重类型的糖尿病患者其胰岛素分泌细胞存在问题。
+
+========================================================================
+>>> chemotherapy
+------------------------------------------------------------------------
+chemotherapy    [美 ,kimo'θɛrəpi / 英 ,kiːmə(ʊ)'θerəpɪ; ,kem-]
+n. [临床] 化学疗法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Chemotherapy is the treatment of disease using chemicals. It is often used in treating cancer. 化疗
+   ≫   He had been undergoing chemotherapy for lung cancer.  他因为肺癌曾接受过化疗。
+
+========================================================================
+>>> radiotherapy
+------------------------------------------------------------------------
+radiotherapy    [美 'redɪo'θɛrəpi / 英 ,reɪdɪə(ʊ)'θerəpɪ]
+n. [特医] 放射疗法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Radiotherapy is the treatment of diseases such as cancer by using radiation. 放射治疗
+
+========================================================================
+>>> therapy
+------------------------------------------------------------------------
+therapy    [英 'θerəpɪ / 美 'θɛrəpi]
+n. 治疗，疗法
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Therapy is the process or talking to a trained counsellor about your emotional and mental problems and your relationships in order to understand and improve the way you feel and behave. 心理治疗
+   ≫   Children may need therapy to help them deal with grief and death.  孩子可能需要心理治疗来帮助他们应对悲伤和死亡。
+   ≫   Since I've been in therapy, I've grown to be a better husband and father.  自从我接受心理治疗后，我成了个更称职的丈夫和父亲。
+2. [医学] Therapy or a therapy is a treatment for a particular illness or condition. (针对某种病情的) 治疗
+   ≫   ...hormonal therapies.  …激素疗法。
+
+========================================================================
+>>> grief
+------------------------------------------------------------------------
+grief    [美 ɡrif / 英 griːf]
+n. 悲痛；忧伤；不幸
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Grief is a feeling of extreme sadness. 悲痛
+   ≫   ...a huge outpouring of national grief for the victims of the shootings.  …举国上下对枪杀案受害者们所表现出的巨大悲痛之情。
+2. (PHRASE) If something comes to grief, it fails. If someone comes to grief, they fail in something they are doing, and may be hurt. 失败; 受伤
+   ≫   So many marriages have come to grief over lack of money.  如此多的婚姻因为缺钱而破裂。
+3. [情感] Some people say "Good grief" when they are surprised or shocked. (表示惊奇或震惊) 哎呀
+   ≫   "He's been arrested for theft and burglary."—"Good grief!"  “他因为偷窃和入室盗窃被逮捕了。”—“我的天哪！”
+
+========================================================================
+>>> insect
+------------------------------------------------------------------------
+insect    [美 'ɪnsɛkt / 英 'ɪnsekt]
+n. 昆虫；卑鄙的人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An insect is a small animal that has six legs. Most insects have wings. Ants, flies, butterflies, and beetles are all insects. 昆虫
+
+========================================================================
+>>> beetles
+------------------------------------------------------------------------
+beetles    [英 'biːt(ə)lz / 美 'biːt(ə)lz]
+n. 甲壳虫，[昆] 甲虫
+v. 忙碌地来回（beetle的第三人称单数形式）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A beetle is an insect with a hard covering to its body. 甲虫
+2. (N) a heavy hand tool, usually made of wood, used for ramming, pounding, or beating 大槌
+3. [非正式] to scuttle or scurry; hurry 急促地跑
+4. (V) to overhang; jut 突出
+5. (N) a game played with dice in which the players draw or assemble a beetle-shaped form 拼甲虫(一种掷骰子的游戏)
+
+========================================================================
+>>> dice
+------------------------------------------------------------------------
+dice    [美 daɪs / 英 daɪs]
+vt. 切成方块
+n. 骰子
+vi. 掷骰子
+n. (Dice)人名；(英)戴斯
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dice is a small cube which has between one and six spots or numbers on its sides, and which is used in games to provide random numbers. In old-fashioned English, "dice" was used only as a plural form, and the singular was , but now "dice" is used as both the singular and the plural form. 骰子 (古英语中，)(dice)(仅用作复数，单数为)(die)(；现在，)(dice)(既作单数，又作复数)
+   ≫   I throw both dice and get double 6.  我掷出2个骰子，开了2个6点。
+2. (V-T) If you dice food, you cut it into small cubes. 把…切成小块
+   ≫   Dice the onion and boil in the water for about fifteen minutes.  把洋葱切成小块，在水里煮15分钟左右。
+3. (PHRASE) If you are trying to achieve something and you say that it's no dice, you mean that you are having no success or luck with it. If someone asks you for something and you reply no dice, you are refusing to do what they ask. 徒劳; 没运气; 不行 (用于拒绝要求)
+   ≫   If there'd been a halfway decent house for rent on this island, I would have taken it. But it was no dice.  如果这座岛上有稍微像样的房子出租，我就租下来了。但连那样的房子都租不到。
+   ≫   If the Republicans were to say "no dice," the Democrats would think they have a campaign issue.  如果共和党说“不行”，民主党就会认为这正好可以在竞选上大做文章。
+
+========================================================================
+>>> glucose
+------------------------------------------------------------------------
+glucose    [美 'ɡlukos / 英 'gluːkəʊs; -z]
+n. 葡萄糖；葡糖（等于dextrose）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Glucose is a type of sugar that gives you energy. 葡萄糖
+
+========================================================================
+>>> dextrose
+------------------------------------------------------------------------
+dextrose    [美 'dɛkstroz / 英 'dekstrəʊz; -s]
+n. [生化] 右旋糖，[有化] 葡萄糖
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Dextrose is a natural form of sugar that is found in fruits, honey, and in the blood of animals. 葡萄糖
+
+========================================================================
+>>> dextrose
+------------------------------------------------------------------------
+dextrose    [美 'dɛkstroz / 英 'dekstrəʊz; -s]
+n. [生化] 右旋糖，[有化] 葡萄糖
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Dextrose is a natural form of sugar that is found in fruits, honey, and in the blood of animals. 葡萄糖
+
+========================================================================
+>>> electrolyte
+------------------------------------------------------------------------
+electrolyte    [美 ɪ'lɛktrəlaɪt / 英 ɪ'lektrəlaɪt]
+n. 电解液，电解质；电解
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] An electrolyte is a substance, usually a liquid, that electricity can pass through. 电解质
+
+========================================================================
+>>> lithium-ion
+------------------------------------------------------------------------
+Lithium-Ion
+n. 锂离子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But not all lithium-ion batteries are alike. 但并非所有的锂离子电池都是相同的。
+≫   A sheet containing one layer, but with a coating of metallic lithium on the other side, acts as a lithium-ion battery. 如果单层纳米管道的另一面被覆盖了金属锂的涂层，这样的平板就颇似一个锂离子电池。
+≫   In a standard lithium-ion battery one electrode is made from a material such as lithium iron phosphate and the other from graphite. 标准的锂离子电池中一个电极是由例如锂离子磷酸盐这种材料制成的另外一个电极是碳制成。
+
+========================================================================
+>>> solvent
+------------------------------------------------------------------------
+solvent    [美 'sɑlvənt / 英 'sɒlv(ə)nt]
+adj. 有偿付能力的；有溶解力的
+n. 溶剂；解决方法
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] If a person or a company is solvent, they have enough money to pay all their debts. 有偿债能力的
+   ≫   They're going to have to show that the company is now solvent.  他们将不得不证明公司现在是具备偿债能力的。
+2. (N-MASS) A solvent is a liquid that can dissolve other substances. 溶剂
+   ≫   ...a small amount of cleaning solvent.  …少量的清洗剂。
+
+========================================================================
+>>> polar sovent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> polar solvent
+------------------------------------------------------------------------
+polar solvent
+[化工] 极性溶剂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The product was recrystallized by non-polar or low-polar solvent. 并用非极性溶剂或弱极性溶剂进行重结晶。
+≫   In the liquefying reaction of swollen coal, polar solvent enhanced the reaction activity. 在溶胀煤的液化反应中，极性溶胀溶剂明显提高了煤的反应活性。
+≫   The paper studied a method of preparing noncovalent molecular imprinting polymer(MIP) in polar solvent. 本文对极性溶剂中非共价型分子烙印聚合物的制备条件进行了研究。
+
+========================================================================
+>>> deposition
+------------------------------------------------------------------------
+deposition    [美 ,dɛpə'zɪʃən / 英 ,depə'zɪʃ(ə)n; diː-]
+n. 沉积物；矿床；革职；[律]（在法庭上的）宣誓作证，证词
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A deposition is a formal written statement, made for example, by a witness to a crime, which can be used in a court of law if the witness cannot be present. 证词
+   ≫   The material would be checked against the depositions from other witnesses.  这份材料会与其他证人的证词对照加以核对。
+
+========================================================================
+>>> vacuum deposition
+------------------------------------------------------------------------
+vacuum deposition    [美 ˈvækjuːm ˌdepəˈzɪʃn]
+[冶] 真空沉积
+真空沉降
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In vacuum deposition, using of the cold cathode ion source can reduce the deposition period. 论述了冷阴极离子源及其在真空镀膜中的应用。
+≫   The vacuum deposition limits the thickness of solid-state batteries, which, in turn, limits their energy storage capacity. 真空沉积限制了固态电池的厚度，从而限制了它的储能能力。
+≫   A novel method has been developed for the growth of organic thin films, by vacuum deposition combined with vacuum hot press method. 提出了一种用真空蒸发和真空热压相结合的技术来制备优质有机光学薄膜的方法。
+
+========================================================================
+>>> inorganic
+------------------------------------------------------------------------
+inorganic    [美 'ɪnɔr'gænɪk / 英 ɪnɔː'gænɪk]
+adj. [无化] 无机的；无生物的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Inorganic substances are substances such as stone and metal that do not come from living things. 无机的
+   ≫   ...roofing made from organic and inorganic fibres.  …由有机和无机纤维制成的屋顶材料。
+
+========================================================================
+>>> inorganic acid
+------------------------------------------------------------------------
+inorganic acid
+[无化] 无机酸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Isoamyl propionate was synthesized by using solid iron system super strong acid as catalyzer instead of inorganic acid in present research. 采用固体铁系超强酸代替无机酸作催化剂催化合成了丙酸异戊酯。
+≫   The pullulan aminoalkyl ether according to claim1, wherein the pullulan aminoalkyl ether is in its free amine form or its organic or inorganic acid salt form. 根据权利要求1中的普鲁兰氨基烃基醚，它应为自由胺形式或有机、无机盐形式。
+≫   The method has good sensitivity and selectivity. Proper amount of other halide ions, inorganic acid radical ions and metal ions dont interfere the determination. 方法具有较高的灵敏度和选择性，相当量的其他卤离子、酸根离子及一定量的金属离子不干扰测定。
+
+========================================================================
+>>> organic acid
+------------------------------------------------------------------------
+organic acid
+有机酸：一种含有碳元素的化合物，具有酸性质。它可以从天然来源（如水果、蔬菜）或人工合成中获得。有机酸在食品、药物、化妆品等领域有广泛的应用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Also, it is discussed about the role of organic acid on fractionation. 同时，探讨了弱有机酸的存在对轻重稀土分馏的影响。
+≫   CONCLUSION the organic acid of the drug is responsible for its antituberculosis effect. 结论有机酸部位应为药材的抗结核有效部位之一。
+≫   Gastric acid is low, do not eat plum, lemon, hawthorn and other organic acid containing more fruits. 胃酸较低的人，不要吃李子、山楂、柠檬等含有机酸较多的水果。
+
+========================================================================
+>>> polyanion
+------------------------------------------------------------------------
+polyanion    [美 pɑːlɪˈænjən / 英 pɒlɪˈænaɪən]
+n. 聚阴离子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Compound 4 is a 3d structure built from polyanion, sulfate ion, water molecules through hydrogen bonding interactions. 化合物4是由多酸阴离子、硫酸根离子、水分子通过氢键胶合在一起，形成3d结构。
+≫   The thickness of membrane and mechanical strength of microcapsule could be regulated by varying the CMC concentration in polyanion solution. 通过CMC浓度可以调节微胶囊的膜厚和机械强度。
+≫   Phosphate titanium has important applications in many fields, such as inorganic ion exchanger and polyanion cathode materials of lithium battery etc. 磷酸钛在无机离子交换剂和聚阴离子型锂电池正极材料等领域有着重要应用。
+
+========================================================================
+>>> polycation
+------------------------------------------------------------------------
+polycation    [美 pɑːlɪˈkeɪʃn / 英 pɒlɪˈkeɪʃ(ə)n]
+n. 聚合阳离子，聚阳离子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective: To study synthesis and characterization of polycation-membrane material. 目的制备聚阳离子膜材料并表征。
+≫   The invention relates to new polycation bioconjugates and to a method for producing them. 本发明涉及新的聚阳离子生物结合物及其制备方法。
+≫   A rat model of minimal change nephrotic syndrome was induced by kidney artery infusion with the polycation protamine. 作者用多价阳离子化合物鱼精蛋白经主动脉恒压灌注大鼠活体肾，造成实验性微小病变型肾病综合征模型。
+
+========================================================================
+>>> cation
+------------------------------------------------------------------------
+cation    [美 'kætaɪən / 英 'kætaɪən]
+n. [化学] 阳离子；[化学] 正离子
+n. (Cation)人名；(英)凯申
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a positively charged ion; an ion that is attracted to the cathode during electrolysis 阳离子 → compare
+
+========================================================================
+>>> cationic
+------------------------------------------------------------------------
+cationic    [美 ,kæt'aɪənɪk / 英 ,kætaɪ'ɒnɪk]
+adj. 阳离子的
+n. 阳离子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Some of the cationic proteins are bactericidal . 一些阳离子蛋白质是能杀菌的。
+≫   Cationic-type polyacrylamide is one of the polymers which have the widest uses in paper making industries. 阳离子型聚丙烯酰胺是造纸工业中应用最广泛的高分子材料之一。
+≫   With the absorption in near UV and visible light region, iron arene complexes have become a kind of efficient cationic photoinitiators. 芳茂铁盐由于其在近紫外以及可见光区的较强吸收，成为一类有效的阳离子光引发剂。
+
+========================================================================
+>>> anionic
+------------------------------------------------------------------------
+anionic    [美 ,ænaɪ'ɑnɪk / 英 ,ænaɪ'ɒnɪk]
+adj. 阴离子的，带负电荷的离子的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The main origins and hazards of anionic trashes in wet end chemistry were introduced in this paper. 介绍造纸湿部化学过程中阴离子垃圾的主要来源、危害及处理对策。
+≫   Diatomite and bentonite before modification has higher cationic dye absorption ability than anionic dyes, while fly ash has the contrary. 改性前硅藻土及膨润土对阳离子染料吸附力大于阴离子染料，粉煤灰与此相反。
+≫   It was explored the feasibility of using malachite green reagent to determine anionic surfactant in surface water, through the contrast experiments. 通过比对实验来探讨用孔雀绿试剂法测定地面水中阴离子表面活性剂的可行性。
+
+========================================================================
+>>> anion
+------------------------------------------------------------------------
+anion    [美 'ænaɪən / 英 'ænɪən]
+n. 阴离子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a negatively charged ion; an ion that is attracted to the anode during electrolysis 阴离子 → compare
+
+========================================================================
+>>> insection
+------------------------------------------------------------------------
+insection    [in'sekʃən]
+n. 齿纹；切开，切口
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The dissolution step is the release of the drug inthe dissolution medium and sampling. The analytical finish is defined insection 3. 溶出步骤是指药物在溶出介质中的释放和取样，分析方法的定义详见第3章节分析方法。
+≫   Objective To explore a new approach on the avulsion fracture of tibial insection of anterior cruciate ligament with arthroscopic reduction and steel wire internal fixation. 目的探索前交叉韧带胫骨止点撕脱骨折错位在关节镜下复位及钢丝内固定的新途径。
+≫   Danshen insection and tetramethylpyrazine have been used in animal experiments and clinical studies for preventing radioactivity lung injury which have given us some good results. 目前已经有丹参和川芎嗪用于防治放射性肺损伤的实验和临床研究的报道，并取得了一定的成效。
+
+========================================================================
+>>> inseption
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> inception
+------------------------------------------------------------------------
+inception    [英 ɪn'sepʃ(ə)n / 美 ɪn'sɛpʃən]
+n. 起初；获得学位
+n. 《盗梦空间》（电影名）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [with poss] The inception of an institution or activity is the start of it. 开始; 开端
+   ≫   Since its inception the company has produced 53 different aircraft designs.  该公司自成立以来已经设计出53种不同的飞行器。
+
+========================================================================
+>>> bee stings
+------------------------------------------------------------------------
+bee stings
+蜜蜂蜇伤：当蜜蜂用其尾部的毒刺刺入人或动物皮肤时造成的伤害。
+alsobiestingsorbeastings
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the first milk secreted by the mammary glands of a cow or similar animal immediately after giving birth; colostrum (尤指母牛的)初乳
+
+========================================================================
+>>> wasp stings
+------------------------------------------------------------------------
+wasp sting
+黄蜂蜇伤
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Wasp stings can be very painful. 黄蜂哲人有时很疼。
+≫   Her face was covered in wasp stings. 她脸上满是黄蜂蜇过的伤痕。
+≫   Years of dealing with plasters and wasp stings on the beach mean handbags and subsequently backpacks are stuffed with remedies. 和药膏和沙滩上黄蜂叮咬打了多年交道，结果是我的手提包和背包里塞满了药物。
+
+========================================================================
+>>> wasp
+------------------------------------------------------------------------
+wasp    [美 wɑsp / 英 wɒsp]
+n. 黄蜂；[昆] 胡蜂；易怒的人
+vi. 黄蜂似的直扑
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A wasp is an insect with wings and yellow and black stripes across its body. Wasps have a painful sting like a bee but do not produce honey. 黄蜂
+
+========================================================================
+>>> formaldehyde
+------------------------------------------------------------------------
+formaldehyde    [美 fɔr'mældɪhaɪd / 英 fɔː'mældɪhaɪd]
+n. 蚁醛，[有化] 甲醛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Formaldehyde is a strong-smelling gas, used especially to preserve parts of animals or plants for biological study. 甲醛
+
+========================================================================
+>>> perfumes
+------------------------------------------------------------------------
+perfumes    [pə'fju:m]
+n. 香水（perfume的复数）；[轻] 香料
+v. 使充满香气；撒香水于（perfume的三单形式）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Perfume is a pleasant-smelling liquid that women put on their skin to make themselves smell nice. 香水
+   ≫   The hall smelled of her mother's perfume.  大厅里弥漫着她母亲的香水味。
+   ≫   ...a bottle of perfume.  …一瓶香水。
+2. (N-MASS) Perfume is the ingredient that is added to some products to make them smell nice. 香料
+   ≫   ...a delicate white soap without perfume.  …一块不含香料的气味清淡的白色肥皂。
+3. (V-T) If something is used to perfume a product, it is added to the product to make it smell nice. 给…添加香味
+   ≫   The oil is used to flavour and perfume soaps, foam baths, and scents.  这种油用来给肥皂、泡沫浴液和香水添加特殊气味和香味。
+
+========================================================================
+>>> fragrances
+------------------------------------------------------------------------
+fragrances    ['freiɡrəns]
+n. 芳香剂，香水（fragrance复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A fragrance is a pleasant or sweet smell. 香味
+   ≫   ...a shrubby plant with a strong characteristic fragrance.  …一种有独特浓郁香味的灌木。
+2. (N-MASS) Fragrance is a pleasant-smelling liquid which people put on their bodies to make themselves smell nice. 香水
+   ≫   The advertisement is for a men's fragrance.  这则广告介绍一款男士香水。
+
+========================================================================
+>>> shrubby
+------------------------------------------------------------------------
+shrubby    [美 'ʃrʌbi / 英 'ʃrʌbɪ]
+adj. 灌木的；灌木繁茂的；灌木一般的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A shrubby plant is like a shrub. 灌木状的
+   ≫   ...a shrubby tree.  ...一棵灌木状的树木。
+
+========================================================================
+>>> shrubby plant
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> nickel
+------------------------------------------------------------------------
+nickel    [美 'nɪkl / 英 'nɪk(ə)l]
+n. 镍；镍币；五分镍币
+vt. 镀镍于
+n. (Nickel)人名；(德、英)尼克尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Nickel is a silver-coloured metal that is used in making steel. 镍
+2. (N-COUNT) In the United States and Canada, a nickel is a coin worth five cents. (美国和加拿大的) 五分镍币
+   ≫   ...a large glass jar filled with pennies, nickels, dimes, and quarters.  …一个装满1分、5分、10分和25分硬币的大玻璃罐。
+
+========================================================================
+>>> chromium
+------------------------------------------------------------------------
+chromium    [美 'kromɪəm / 英 'krəʊmɪəm]
+n. [化学] 铬（24号元素，符号Cr）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Chromium is a hard, shiny, metallic element, used to make steel alloys and to coat other metals. 铬
+   ≫   ...chromium-plated fire accessories.  …镀铬的消防配件。
+
+========================================================================
+>>> cobalt
+------------------------------------------------------------------------
+cobalt    [美 'kobɔlt / 英 'kəʊbɔːlt; -ɒlt]
+n. [化学] 钴；钴类颜料；由钴制的深蓝色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cobalt is a hard, silvery-white metal which is used to harden steel and for producing a blue dye. 钴
+   ≫   ...a country rich in copper, cobalt, and diamonds.  ...一个铜、钴和钻石资源丰富的国家。
+2. (COLOR) Cobalt or cobalt blue is a deep blue colour. 钴蓝色
+   ≫   ...a woman in a soft cobalt blue dress.  ...一个穿着质地柔软的钴蓝色连衣裙的女人。
+
+========================================================================
+>>> epinephrine
+------------------------------------------------------------------------
+epinephrine    [美 ,ɛpə'nɛfrɪn / 英 ,epɪ'nefrɪn; -riːn]
+n. [生化][药] 肾上腺素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → a us name for
+
+========================================================================
+>>> epinephrine auto-injector
+------------------------------------------------------------------------
+epinephrine auto-injector
+肾上腺素自动注射器：一种用于紧急情况下注射肾上腺素的医疗器械，常用于过敏反应或哮喘发作等情况。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> cold
+------------------------------------------------------------------------
+cold    [美 kold / 英 kəʊld]
+adj. 寒冷的；冷淡的，不热情的；失去知觉的
+n. 寒冷；感冒
+adv. 完全地
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is cold has a very low temperature or a lower temperature than is normal or acceptable. 冷的
+   ≫   Rinse the vegetables under cold running water.  用冷自来水冲洗蔬菜。
+   ≫   He likes his tea neither too hot nor too cold.  他喜欢茶不太烫也不太凉。
+2. (N-UNCOUNT) coldness 冷
+   ≫   She complained about the coldness of his hands.  她抱怨他的那双手冷冰冰的。
+3. (ADJ) If it is cold, or if a place is cold, the temperature of the air is very low. 寒冷的
+   ≫   It was bitterly cold.  天气冷得刺骨。
+   ≫   The house is cold because I can't afford to turn the heat on.  屋子冷冰冰的，因为我开不起暖气。
+4. (N-UNCOUNT) coldness 寒冷
+   ≫   Within a quarter of an hour, the coldness of the night had gone.  一刻钟之内，夜晚的寒冷就消退了。
+5. (ADJ) If you are cold, your body is at an unpleasantly low temperature. 感觉冷的
+   ≫   I was freezing cold.  我快冻僵了。
+6. (ADJ) Cold colours or cold light give an impression of coldness. (颜色或灯光) 冷的
+   ≫   Generally, warm colours advance in painting and cold colours recede.  一般来说，先上暖色调油漆，再上冷色调油漆。
+7. [表不满] A cold person does not show much emotion, especially affection, and therefore seems unfriendly and unsympathetic. If someone's voice is cold, they speak in an unfriendly, unsympathetic way. 冷漠的; 不友好的
+   ≫   What a cold, unfeeling woman she was.  她是一个多么冷漠无情的女人啊。
+8. (ADV) coldly 冷漠地; 不友好地
+   ≫   "I'll see you in the morning," Hugh said coldly.  “我会在早上见你，”休冷冷地说。
+9. [also 'the' N] Cold weather or low temperatures can be referred to as the cold. (天气或气温的) 寒冷
+   ≫   He must have come inside to get out of the cold.  他肯定进来避过寒。
+10. in cold blood →see
+11. to get cold feet →see
+12. to blow hot and cold →see
+13. to pour cold water on something →see
+14. (N-COUNT) If you have a cold, you have a mild, very common illness which makes you sneeze a lot and gives you a sore throat or a cough. 感冒
+   ≫   I had a pretty bad cold.  我得了很重的感冒。
+15. (PHRASE) If you catch cold, or catch a cold, you become ill with a cold. 患感冒
+   ≫   Let's dry our hair so we don't catch cold.  我们把头发弄干吧，省得患感冒。
+16. (PHRASE) If someone is out cold, they are unconscious or sleeping very heavily. 失去知觉的; 沉睡的
+   ≫   She was out cold but still breathing.  她失去了知觉，但还在呼吸。
+
+========================================================================
+>>> common cold
+------------------------------------------------------------------------
+common cold
+普通感冒：一种上呼吸道急性疾病，其特征是鼻子、喉咙、眼睛和听管粘膜的炎症，伴随着水样然后是化脓性的分泌物，由多种病毒引起。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The common cold is a mild illness. If you have it, your nose is blocked or runny and you may have a sore throat or a cough. 普通感冒 [usu sing, 'the' N]
+
+========================================================================
+>>> influenza
+------------------------------------------------------------------------
+influenza    [美 ,ɪnflu'ɛnzə / 英 ɪnflʊ'enzə]
+n. [内科] 流行性感冒（简写flu）；家畜流行性感冒
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Influenza is the same as . 同flu
+
+========================================================================
+>>> flu
+------------------------------------------------------------------------
+flu    [美 flu / 英 fluː]
+n. 流感
+n. (Flu)人名；(法)弗吕
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also 'the' N] Flu is an illness which is similar to a bad cold but more serious. It often makes you feel very weak and makes your muscles hurt. 流感
+   ≫   I got the flu.  我得了流感。
+
+========================================================================
+>>> asthma
+------------------------------------------------------------------------
+asthma    [美 'æzmə / 英 'æsmə]
+n. [内科][中医] 哮喘，气喘
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Asthma is a lung condition that causes difficulty in breathing. 哮喘
+
+========================================================================
+>>> allergies
+------------------------------------------------------------------------
+allergies    ['ælədʒi]
+n. 过敏；敏感（allergy的复数）；敏感症
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you have a particular allergy, you become ill or get a rash when you eat, smell, or touch something that does not normally make people ill. 过敏
+   ≫   Food allergies can result in an enormous variety of different symptoms.  食物过敏会导致大量不同种类的症状。
+
+========================================================================
+>>> rhinitis
+------------------------------------------------------------------------
+rhinitis    [美 raɪ'naɪtɪs / 英 raɪ'naɪtɪs; rɪ-]
+n. [耳鼻喉] 鼻炎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [医学] If you suffer from rhinitis or allergic rhinitis, your nose is very sore and liquid keeps coming out of it. 鼻炎
+
+========================================================================
+>>> nasitis
+------------------------------------------------------------------------
+nasitis    [nei'saitis]
+n. [耳鼻喉] 鼻炎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   OBJECTIVE: To apply Yiqi Kangmin Granules for the treatment of perennial allergic nasitis. 目的：应用益气抗敏冲剂治疗常年性变应性鼻炎。
+
+========================================================================
+>>> naso-ocular
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ocular
+------------------------------------------------------------------------
+ocular    [美 'ɑkjəlɚ / 英 'ɒkjʊlə]
+adj. 眼睛的；视觉的；目击的
+n. [光] 目镜
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Ocular means relating to the eyes or the ability to see. 眼睛的; 视觉的
+   ≫   Other ocular signs include involuntary rhythmic movement of the eyeball.  其它眼睛特征包括眼球无意识而有节奏的运动。
+
+========================================================================
+>>> prescription
+------------------------------------------------------------------------
+prescription    [美 prɪ'skrɪpʃən / 英 prɪ'skrɪpʃ(ə)n]
+n. 药方；指示；惯例
+adj. 凭处方方可购买的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prescription is the piece of paper on which your doctor writes an order for medicine and which you give to a pharmacist to get the medicine. 处方
+   ≫   The new drug will not require a physician's prescription.  这种新药不需要医生的处方。
+2. (N-COUNT) A prescription is a medicine that a doctor has told you to take. 处方药
+   ≫   I'm not sleeping even with the prescription Ackerman gave me.  我服用了阿克曼开给我的处方药还是睡不着。
+3. (PHRASE) If a medicine is available by or on prescription, you can only get it from a pharmacist if a doctor gives you a prescription for it. 凭处方
+4. (N-COUNT) A prescription is a proposal or a plan that gives ideas about how to solve a problem or improve a situation. 方案
+   ≫   There's not much difference in the economic prescriptions of Ireland's two main political parties.  爱尔兰两大政党的经济方案没有多大差异。
+
+========================================================================
+>>> nasal sprays
+------------------------------------------------------------------------
+nasal spray    [美 ˈneɪzl spreɪ]
+鼻喷雾：一种通过鼻子吸入的喷雾药物，用作解除鼻塞的药物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   However, nasal sprays can overcome this problem. 然而，鼻喷剂可以克服这一问题。
+≫   She tried decongestants, antihistamines and steroid nasal sprays. 她也试过减充血剂，抗组胺药和类固醇鼻喷剂。
+≫   Some people have also reported that they lost their sense of smell after using zinc nasal sprays. 不过另有报道发现锌鼻腔喷雾剂引起嗅觉丧失。
+
+========================================================================
+>>> allergic rhinitis
+------------------------------------------------------------------------
+allergic rhinitis
+过敏性鼻炎：由暴露于过敏原引起的鼻炎，尤其是花粉热。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) [pathol] →see rhinitis
+
+========================================================================
+>>> eczema
+------------------------------------------------------------------------
+eczema    [美 ɪɡ'zimə / 英 'eksɪmə; 'ekzɪmə]
+n. [皮肤] 湿疹
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Eczema is a skin condition that makes your skin itch and become sore, rough, and broken. 湿疹
+
+========================================================================
+>>> AR
+------------------------------------------------------------------------
+AR    [,e 'ɑr]
+abbr. 应收款（Account Receivable）；验收条件（Acceptance Requirement）；陆军条例（Army Regulation）
+n. (Ar)人名；(土)阿尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (the INTERNET DOMAIN NAME for) Argentina 阿根廷
+
+========================================================================
+>>> deviated septum
+------------------------------------------------------------------------
+deviated septum    [美 ˈdiːvieɪtɪd ˈseptəm]
+偏曲鼻中隔：鼻子的常见身体障碍，涉及鼻中隔的位移。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is more often seen with a deviated septum or enlarged adenoids. 这是更经常看到一个鼻中隔偏曲或扩大腺样体。
+≫   To investigate the approach and experience of endoscopic surgery in sphenoid sinus occupying lesions associated with a deviated septum. 目的探讨利用鼻内镜手术治疗蝶窦良性病变伴有鼻中隔偏曲的方法和体会。
+≫   Measurement showed the septum pellucid deviated from falx cerebrum and midline. 透明隔移位的测量提示透明隔偏离大脑镰及中线。
+
+========================================================================
+>>> nasal septum
+------------------------------------------------------------------------
+nasal septum    [美 ˈneɪzl ˈseptəm]
+鼻中隔：鼻腔中的骨质和软骨分隔，将鼻腔分为左右两个通道并分开两个鼻孔的结构。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Adenoid cystic carcinoma of the nasal septum is extremely rare. 摘要鼻中隔腺样囊状癌为一相当罕见的疾病。
+≫   If your nasal septum is deviated, you may need to have an operation to straighten it. 如果您的鼻中隔是偏离，您可能需要有一个运作，以端正。
+≫   Objective To evaluate the safety and efficacy of nasal septum surgery combined with multi-sinus surgery. 目的评价鼻中隔与多个副鼻窦联合手术的安全性和治疗效果。
+
+========================================================================
+>>> septum
+------------------------------------------------------------------------
+septum    [英 'septəm / 美 'sɛptəm]
+n. [无脊椎] 隔膜；[电子] 隔板
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [biology] a dividing partition between two tissues or cavities 隔膜
+
+========================================================================
+>>> deviated
+------------------------------------------------------------------------
+deviated    ['di:vieit; 'di:viət]
+偏离
+越轨（ deviate的过去式和过去分词 ）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To deviate from something means to start doing something different or not planned, especially in a way that causes problems for others. 偏离
+   ≫   They stopped you as soon as you deviated from the script.  你一偏离剧本，他们就会叫停。
+
+========================================================================
+>>> deviate
+------------------------------------------------------------------------
+deviate    [美 'divɪet / 英 'diːvɪeɪt]
+vi. 脱离；越轨
+vt. 使偏离
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To deviate from something means to start doing something different or not planned, especially in a way that causes problems for others. 偏离
+   ≫   They stopped you as soon as you deviated from the script.  你一偏离剧本，他们就会叫停。
+
+========================================================================
+>>> rectifying
+------------------------------------------------------------------------
+rectifying    ['rektifaiiŋ]
+n. [电] 整流；求曲线长
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you rectify something that is wrong, you change it so that it becomes correct or satisfactory. 矫正; 改正
+   ≫   Only an act of Congress could rectify the situation.  只有国会的法案才能扭转这种局面。
+
+========================================================================
+>>> inferior
+------------------------------------------------------------------------
+inferior    [美 ɪn'fɪrɪɚ / 英 ɪn'fɪərɪə]
+adj. 差的；自卑的；下级的，下等的
+n. 下级；次品
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is inferior is not as good as something else. 较差的
+   ≫   The cassettes were of inferior quality.  这些盒式磁带质量较差。
+   ≫   This resulted in overpriced and often inferior products.  这就导致产品标价过高而往往质量较次。
+2. (ADJ) If one person is regarded as inferior to another, they are regarded as less important because they have less status or ability. 低等的; 次要的
+   ≫   He preferred the company of those who were intellectually inferior to himself.  他喜欢与那些智力不如他的人为伍。
+3. (N-COUNT) Inferior is also a noun. (能力或地位) 低于他人者; 部下
+   ≫   It was a gentleman's duty always to be civil, even to his inferiors.  一个绅士的责任是一直保持彬彬有礼，即使是对比自己地位低的人。
+4. (N-UNCOUNT) inferiority 自卑
+   ≫   I found it difficult to shake off a sense of social inferiority.  我发现很难摆脱社会地位低下的自卑感。
+
+========================================================================
+>>> convenient
+------------------------------------------------------------------------
+convenient    [美 kənˈvinjənt / 英 kən'viːnɪənt]
+adj. 方便的；[废语]适当的；[口语]近便的；实用的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a way of doing something is convenient, it is easy, or very useful or suitable for a particular purpose. 方便的
+   ≫   ...a flexible and convenient way of paying for business expenses.  …一种灵活方便的支付商务费用的方式。
+2. (N-UNCOUNT) convenience 方便
+   ≫   They may use a credit card for convenience.  他们可以为了方便而使用信用卡。
+3. [表赞许] If you describe a place as convenient, you are pleased because it is near to where you are, or because you can reach another place from there quickly and easily. 近便的
+   ≫   The town is well placed for easy access to Washington D.C. and convenient for Dulles Airport.  这个小镇离华盛顿和杜勒斯机场都很近。
+4. (ADV) conveniently 近便地
+   ≫   It was very conveniently situated just across the road from the City Reference Library.  它所处位置非常便利，就在市参考图书馆的马路对面。
+5. (ADJ) A convenient time to do something, for example to meet someone, is a time when you are free to do it or would like to do it. 方便的
+   ≫   She will try to arrange a mutually convenient time and place for an interview.  她会尽量把面谈安排在一个双方都方便的时间和地点。
+
+========================================================================
+>>> conventional
+------------------------------------------------------------------------
+conventional    [美 kən'vɛnʃənl / 英 kən'venʃ(ə)n(ə)l]
+adj. 符合习俗的，传统的；常见的；惯例的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is conventional has behaviour or opinions that are ordinary and normal. (行为观念等) 传统的
+   ≫   ...a respectable married woman with conventional opinions.  …一个可敬的观念传统的已婚妇女。
+2. (ADV) conventionally 传统地
+   ≫   Men still wore their hair short and dressed conventionally.  男人还是留着短发，着装传统。
+3. (ADJ) A conventional method or product is one that is usually used or that has been in use for a long time. 传统的 (方法或产品等)
+   ≫   ...the risks and drawbacks of conventional family planning methods.  …传统计划生育方法的风险和缺陷。
+4. [ADV with v] conventionally 传统地
+   ≫   Organically grown produce does not differ greatly in appearance from conventionally grown crops.  有机农产品与传统方法种植的农产品在外观上没有太大的区别。
+5. (ADJ) Conventional weapons and wars do not involve nuclear explosives. 常规的 (武器); 不用核武器的 (战争)
+   ≫   We must reduce the danger of war by controlling nuclear, chemical, and conventional arms.  我们必须通过控制核武器、化学武器和常规武器来降低战争的危险。
+
+========================================================================
+>>> inferiority
+------------------------------------------------------------------------
+inferiority    [英 ɪn,fɪərɪ'ɒrɪtɪ / 美 ɪn,fɪrɪ'ɔrəti]
+n. 自卑；下属；次等；下部
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The superiorities and inferiorities of the end-port furnace on its structural characteristics were discussed. 从熔窑结构特征上探讨了马蹄焰熔窑的优势和劣势。
+≫   All leaderships favor straight line allegiance in the world, don't like the inferiorities horizontal line above nice terms, this truth attends to Ye in the court nature also know; 世界上所有的领导都喜欢直线忠诚，不喜欢下属们横线交好，这个道理顾廷烨自然也明白；
+≫   In this paper, the superiorities and inferiorities of research and development on the photo-electronic crystal materials and apparatus in our country have been pointed out, respectively. 光电子晶体材料与器件在科技、军事、先进制造等领域发挥日益重要的作用。
+
+========================================================================
+>>> superiority
+------------------------------------------------------------------------
+superiority    [美 su,pɪrɪ'ɔrəti / 英 suː,pɪərɪ'ɒrɪtɪ; sjuː-]
+n. 优越，优势；优越性
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If one side in a war or conflict has superiority, it has an advantage over its enemy, for example because it has more soldiers or better equipment. 优势
+   ≫   We have air superiority.  我们有空中优势。
+2. → see also
+
+========================================================================
+>>> confidence
+------------------------------------------------------------------------
+confidence    [美 'kɑnfɪdəns / 英 'kɒnfɪd(ə)ns]
+n. 信心；信任；秘密
+adj. （美）诈骗的；骗得信任的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you have confidence in someone, you feel that you can trust them. 信任
+   ≫   I have every confidence in you.  我对你有完全的信任。
+   ≫   This has contributed to the lack of confidence in the FDA.  这导致了对食品与药品管理局信任的缺乏。
+2. (N-UNCOUNT) If you have confidence, you feel sure about your abilities, qualities, or ideas. 自信心
+   ≫   The band is in excellent form and brimming with confidence.  该乐队处于极好的状态，表现得充满信心。
+3. (N-UNCOUNT) If you can say something with confidence, you feel certain it is correct. 把握
+   ≫   I can say with confidence that such rumours were totally groundless.  我可以很有把握地说这些传言完全没有根据。
+4. (N-UNCOUNT) If you tell someone something in confidence, you tell them a secret. 保密
+   ≫   We told you all these things in confidence.  我们告诉你的这些事情都是保密的。
+   ≫   Even telling Lois seemed a betrayal of confidence.  甚至告诉洛伊斯似乎也是对保密的背叛。
+5. (PHRASE) If you take someone into your confidence, you tell them a secret. 向某人吐露秘密
+
+========================================================================
+>>> urticaria
+------------------------------------------------------------------------
+urticaria    [美 ,ɝtɪ'kɛrɪə / 英 ,ɜːtɪ'keərɪə]
+n. [皮肤] 荨麻疹；风团
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a skin condition characterized by the formation of itchy red or whitish raised patches, usually caused by an allergy 荨麻疹 (Nontechnical names hives, nettle rash)
+
+========================================================================
+>>> hives
+------------------------------------------------------------------------
+hives    [美 haɪvz / 英 haɪvz]
+n. 蜂巢，蜂房（hive的复数）；[皮肤] 荨麻疹；假膜性喉头炎
+v. 使（蜜蜂）入蜂箱（hive的第三人称单数）
+n. (Hives)人名；(匈)希韦什；(英)海夫斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [pathol] → a nontechnical name for
+
+========================================================================
+>>> acute
+------------------------------------------------------------------------
+acute    [美 ə'kjut / 英 ə'kjuːt]
+adj. 严重的，[医] 急性的；敏锐的；激烈的；尖声的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You can use acute to indicate that an undesirable situation or feeling is very severe or intense. 严峻的
+   ≫   The war has aggravated an acute economic crisis.  这场战争加剧了一场严峻的经济危机。
+   ≫   The report has caused acute embarrassment to the government.  这份报告使政府极其尴尬。
+2. [ADJ n] An acute illness is one that becomes severe very quickly but does not last very long. Compare . 急性的
+   ≫   ...a patient with acute rheumatoid arthritis.  …一位患急性风湿性关节炎的病人。
+3. (ADJ) If a person's or animal's sight, hearing, or sense of smell is acute, it is sensitive and powerful. 敏锐的
+   ≫   When she lost her sight, her other senses grew more acute.  失明以后，她的其他感官变得更加敏锐了。
+4. (ADJ) An acute angle is less than 90°. Compare angle. 锐 (角)
+5. [ADJ n, n ADJ] An acute accent is a symbol that is placed over vowels in some languages in order to indicate how that vowel is pronounced or over one letter in a word to indicate where it is stressed. You refer to a letter with this accent as, for example, e acute. For example, there is an acute accent over the letter "e" in the French word "café." 尖音符的 (E)(上的符号)
+
+========================================================================
+>>> acute urticaria
+------------------------------------------------------------------------
+acute urticaria
+急性荨麻疹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective To investigate the effect of acute urticaria on heart in children. 目的了解儿童急性荨麻疹对心脏的影响。
+≫   Conclusion children with acute urticaria might be associated with heart injury. 结论急性荨麻疹患儿可伴有心脏的损害，临床上应予以重视。
+≫   Methods Serum CK content was detected in 176 patients with acute urticaria and 128 healthy controls. 方法测定176例急性荨麻疹患者及128例健康人血清肌酸激酶水平。
+
+========================================================================
+>>> chronic
+------------------------------------------------------------------------
+chronic    [美 'krɑnɪk / 英 'krɒnɪk]
+adj. 慢性的；长期的；习惯性的
+n. (Chronic)人名；(英)克罗尼克
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A chronic illness or disability lasts for a very long time. Compare . 慢性的; 长期的
+   ≫   ...chronic back pain.  …长期背痛。
+2. [ADV adj/-ed] chronically 慢性地; 长期地
+   ≫   Most of them were chronically ill.  他们中大部分人都有慢性病。
+3. [ADJ n] You can describe someone's bad habits or behaviour as chronic when they have behaved like that for a long time and do not seem to be able to stop themselves. 积习难改的
+   ≫   ...a chronic worrier.  …一个老是发愁的人。
+4. (ADJ) A chronic situation or problem is very severe and unpleasant. 严重的
+   ≫   One cause of the artist's suicide seems to have been chronic poverty.  那位艺术家自杀的原因之一好像是极度贫困。
+5. [ADV adj/-ed] chronically 严重地
+   ≫   Research and technology are said to be chronically underfunded.  据说研究和技术资金严重不足。
+
+========================================================================
+>>> autoimmune
+------------------------------------------------------------------------
+autoimmune    [美 ,ɔtoɪ'mjʊn / 英 ,ɔːtəʊɪ'mjuːn]
+adj.
+【免疫学】自身免疫的，自体免疫的
+
+========================================================================
+>>> immune
+------------------------------------------------------------------------
+immune    [美 ɪ'mjʊn / 英 ɪ'mjuːn]
+adj. 免疫的；免于……的，免除的
+n. 免疫者；免除者
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [v-link ADJ] If you are immune to a particular disease, you cannot be affected by it. 免疫的
+   ≫   About 93 percent of U.S. residents are immune to measles either because they were vaccinated or they had the disease as a child.  大约93%的美国居民对麻疹是免疫的，他们要么因为接种过疫苗，要么就是小时候得过麻疹。
+2. (N-UNCOUNT) immunity 免疫力
+   ≫   Birds in outside cages develop immunity to airborne bacteria.  养在户外笼子里的鸟对空气传播的病毒有免疫力。
+3. [v-link ADJ] If you are immune to something that happens or is done, you are not affected by it. 不受影响的
+   ≫   Higher education is no longer immune to state budget cuts.  高等教育不再受州预算削减的影响。
+4. [v-link ADJ] Someone or something that is immune from a particular process or situation is able to escape it. 免除的
+   ≫   People with diplomatic passports are immune from criminal prosecution.  持有外交护照者享有刑事起诉豁免权。
+5. (N-UNCOUNT) immunity 免除
+   ≫   The police are offering immunity to witnesses who help identify the murderers.  警方对帮助他们指认杀人凶手的证人免予起诉。
+
+========================================================================
+>>> clinical
+------------------------------------------------------------------------
+clinical    [美 'klɪnɪkl / 英 'klɪnɪk(ə)l]
+adj. 临床的；诊所的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [医学] Clinical means involving or relating to the direct medical treatment or testing of patients. 临床的
+   ≫   The first clinical trials were expected to begin next year.  第一批临床试验预计明年开始。
+2. (ADV) clinically 临床地
+   ≫   She was diagnosed as being clinically depressed.  她被诊断为患临床抑郁症。
+3. [表不满] You use clinical to describe thought or behaviour that is very logical and does not involve any emotion. 无人情味的
+   ≫   All this questioning is so clinical – it kills romance.  所有这些发问是如此如此无人情味–使浪漫荡然无存。
+
+========================================================================
+>>> cholinergic
+------------------------------------------------------------------------
+cholinergic    [美 ,kolə'nɚdʒɪk / 英 ,kəʊlɪ'nɜːdʒɪk]
+adj. 类胆碱的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) denoting nerve fibres that release acetylcholine when stimulated (被刺激后)神经纤维释放出乙酰胆碱的
+
+========================================================================
+>>> cholinergic ueticaria
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cholinergic ueticaria
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8165
+cholinergic ueticaria
+胆碱能ueticaria
+
+========================================================================
+>>> cholinergic urticaria
+------------------------------------------------------------------------
+cholinergic urticaria
+胆硷性荨麻疹；胆素型荨麻疹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The onset frequency of cholinergic urticaria and depression-index tested by SDS before and after being treated were compared. 观察其治疗前后发病次数和用SDS测量的抑郁严重度指数的变化。
+
+========================================================================
+>>> hypothesis
+------------------------------------------------------------------------
+hypothesis    [美 haɪ'pɑθəsɪs / 英 haɪ'pɒθɪsɪs]
+n. 假设
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A hypothesis is an idea which is suggested as a possible explanation for a particular situation or condition, but which has not yet been proved to be correct. 假设
+   ≫   Work will now begin to test the hypothesis in rats.  在老鼠身上验证这一假设的工作现在要开始了。
+
+========================================================================
+>>> hypertension
+------------------------------------------------------------------------
+hypertension    [英 haɪpə'tenʃ(ə)n / 美 ,haɪpɚ'tɛnʃən]
+n. 高血压；过度紧张
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Hypertension is a medical condition in which a person has very high blood pressure. 高血压
+
+========================================================================
+>>> hypotension
+------------------------------------------------------------------------
+hypotension    [美 ,haɪpə'tɛnʃən / 英 haɪpə(ʊ)'tenʃ(ə)n]
+n. 低血压，血压过低
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [pathol] abnormally low blood pressure 低血压
+
+========================================================================
+>>> systemic
+------------------------------------------------------------------------
+systemic    [美 sɪ'stɛmɪk / 英 sɪ'stemɪk; -'stiːm-]
+adj. 系统的；全身的；体系的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Systemic means affecting the whole of something. 影响全局的
+   ≫   The economy is locked in a systemic crisis.  经济陷入全面的危机。
+
+========================================================================
+>>> diabetes
+------------------------------------------------------------------------
+diabetes    [美 ,daɪə'bitiz / 英 ,daɪə'biːtiːz]
+n. 糖尿病；多尿症
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Diabetes is a medical condition in which someone has too much sugar in their blood. 糖尿病
+
+========================================================================
+>>> coronary
+------------------------------------------------------------------------
+coronary    [英 'kɒr(ə)n(ə)rɪ / 美 'kɔrənɛri]
+adj. 冠的；冠状的；花冠的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Coronary means belonging or relating to the heart. 心脏的
+   ≫   If all the coronary arteries are free of significant obstructions, all parts of the heart will receive equal amounts of oxygen.  如果冠状动脉没有重大堵塞，心脏的各个部位会收到等量的氧气。
+2. (N-COUNT) If someone has a coronary, they collapse because the flow of blood to their heart is blocked by a large lump of blood called a clot. 冠心病
+
+========================================================================
+>>> artery
+------------------------------------------------------------------------
+artery    [英 'ɑːtərɪ / 美 'ɑrtəri]
+n. 动脉；干道；主流
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Arteries are the tubes in your body that carry blood from your heart to the rest of your body. Compare . 动脉
+   ≫   ...patients suffering from blocked arteries.  …患动脉堵塞的病人们。
+2. (N-COUNT) You can refer to an important main route within a complex road, railway, or river system as an artery. 干线
+   ≫   ...Connecticut Ave., one of the main arteries of Washington.  …康涅狄格大道，华盛顿的主干道之一。
+
+========================================================================
+>>> coronary artery disease
+------------------------------------------------------------------------
+coronary artery disease
+冠状动脉疾病
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This increases your risk of developing coronary artery disease. 它会增加患冠心病的危险。
+≫   Coronary artery disease, other heart problems and previous heart surgery. 冠心病或其它心脏病，及心脏手术史。
+≫   Beginning in 1985 I initiated a study of seriously ill coronary artery disease patients. 从1985年开始，我对重度冠心病患者进行研究。
+
+========================================================================
+>>> heart failure
+------------------------------------------------------------------------
+heart failure    [英 ˈhɑːt feɪljə(r)]
+心力衰竭：一种病症，指心脏无法以足够的速率或足够的容量泵血的情况。在某些情况下，它也可以指心跳停止，即死亡。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Heart failure is a serious medical condition in which someone's heart does not work as well as it should, sometimes stopping completely so that they die. 心力衰竭
+   ≫   He remained in a critical condition after suffering heart failure.  他患心力衰竭之后一直处于危险状况。
+
+========================================================================
+>>> stroke
+------------------------------------------------------------------------
+stroke    [美 strok / 英 strəʊk]
+n. 中风；冲程；笔画；打击；尝试；轻抚
+vt. 抚摸；敲击；划尾桨；划掉
+vi. 击球；作尾桨手；敲击键盘
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you stroke someone or something, you move your hand slowly and gently over them. 轻抚
+   ≫   Carla, curled up on the sofa, was smoking a cigarette and stroking her cat.  卡拉蜷曲在沙发上，抽着一支烟，轻抚着她的猫。
+2. (N-COUNT) If someone has a stroke, a blood vessel in their brain bursts or becomes blocked, which may kill them or make them unable to move one side of their body. 中风
+   ≫   He had a minor stroke in 1987, which left him partly paralysed.  他在1987年患了轻度中风，这使他半身不遂了。
+3. (N-COUNT) The strokes of a pen or brush are the movements or marks that you make with it when you are writing or painting. 笔画
+   ≫   Fill in gaps by using short, upward strokes of the pencil.  用铅笔画出短的、向上的笔画来填空。
+4. (N-COUNT) When you are swimming or rowing, your strokes are the repeated movements that you make with your arms or the oars. 划水; 划桨
+   ≫   I turned and swam a few strokes further out to sea.  我转过身又向海里游了几下。
+5. (N-COUNT) A swimming stroke is a particular style or method of swimming. 游泳姿势
+   ≫   She spent hours practising the breast stroke.  她花了几个小时练习蛙泳。
+6. (N-COUNT) The strokes of a clock are the sounds that indicate each hour. 钟声
+   ≫   On the stroke of 12, fireworks suddenly exploded into the night.  12点的钟声敲响时，焰火突然冲破了夜空。
+7. (N-COUNT) In sports such as tennis, baseball, golf, and cricket, a stroke is the action of hitting the ball. 击球
+   ≫   Compton was sending the ball here, there, and everywhere with each stroke.  康普顿把球发到这儿，发到那儿，每一次击球都打到不同地方。
+8. (N-SING) A stroke of luck or good fortune is something lucky that happens. 一次 (好运)
+   ≫   It didn't rain, which turned out to be a stroke of luck.  天没下雨，结果成为一次好运。
+9. (N-SING) A stroke of genius or inspiration is a very good idea that someone suddenly has. (天才或灵感的) 一举
+   ≫   At the time, his appointment seemed a stroke of genius.  当时，他的任命似乎是天才之举。
+10. [非正式] If someone does not do a stroke of work, they are very lazy and do no work at all. 干一点儿
+   ≫   I never did a stroke of work in college.  我在大学里从来不干一点儿活。
+
+========================================================================
+>>> arthritis
+------------------------------------------------------------------------
+arthritis    [英 ɑː'θraɪtɪs / 美 ɑr'θraɪtɪs]
+n. [外科] 关节炎
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Arthritis is a medical condition in which the joints in someone's body are swollen and painful. 关节炎
+   ≫   I have a touch of arthritis in the wrist.  我的手腕有轻微关节炎。
+
+========================================================================
+>>> osteoarthritis
+------------------------------------------------------------------------
+osteoarthritis    [美 'ɑstɪoɑr'θraɪtɪs / 英 ,ɒstɪəʊɑː'θraɪtɪs]
+n. [外科] 骨关节炎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) chronic inflammation of the joints, esp those that bear weight, with pain and stiffness 骨关节炎 (Also called degenerative joint disease)
+
+========================================================================
+>>> rheumatoid
+------------------------------------------------------------------------
+rheumatoid    [美 'rʊmətɔɪd / 英 'ruːmətɒɪd]
+adj. 患风湿症的；风湿症的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of the symptoms of a disease) resembling rheumatism (疾病的症状)类风湿的
+
+========================================================================
+>>> rheumatoid arthritis
+------------------------------------------------------------------------
+rheumatoid arthritis    [英 ˌruːmətɔɪd ɑːˈθraɪtɪs]
+类风湿性关节炎：一种通常为慢性自身免疫性疾病，其特征包括关节疼痛、僵硬、炎症、肿胀，有时还会导致关节破坏。RA是其缩写形式，与骨关节炎进行比较。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Rheumatoid arthritis is a long-lasting disease that causes your joints, for example your hands or knees, to swell up and become painful. 类风湿性关节炎
+
+========================================================================
+>>> arthrosynovitis
+------------------------------------------------------------------------
+arthrosynovitis
+关节滑膜炎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Abstract : Objective To evaluate the effect of low-power laser therapy in treatment of painful arthrosynovitis of temporomandibular joint. 摘要 目的 探讨半导体激光疗法对颞下颌关节滑膜炎的临床疗效，为滑膜炎的治疗提供依据。
+
+========================================================================
+>>> migraine
+------------------------------------------------------------------------
+migraine    [美 'maɪɡren / 英 'miːgreɪn; 'maɪ-]
+n. [内科] 偏头痛
+n. (Migraine)人名；(法)米格雷纳
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A migraine is an extremely painful headache that makes you feel very ill. 偏头痛
+   ≫   Her mother suffered from migraines.  她母亲患了偏头痛。
+
+========================================================================
+>>> depression
+------------------------------------------------------------------------
+depression    [美 dɪ'prɛʃən / 英 dɪ'preʃ(ə)n]
+n. 沮丧；洼地；不景气；忧愁；低气压区
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Depression is a mental state in which you are sad and feel that you cannot enjoy anything, because your situation is so difficult and unpleasant. 抑郁
+   ≫   Mr. Thomas was suffering from depression.  托马斯先生当时正受抑郁症折磨。
+2. (N-COUNT) A depression is a time when there is very little economic activity, which causes a lot of unemployment and poverty. 萧条期
+   ≫   He never forgot the hardships he witnessed during the Great Depression of the 1930s.  他从未忘记20世纪30年代经济大萧条时期他所目睹的艰辛。
+3. (N-COUNT) A depression in a surface is an area which is lower than the parts surrounding it. 洼地
+   ≫   ...an area pockmarked by rain-filled depressions.  …一个到处都是积满雨水的洼坑的地带。
+4. (N-COUNT) A depression is a mass of air that has a low pressure and that often causes rain. 低气压
+   ≫   To the northwest lies a depression with clouds and rain.  西北方向有一个云雨密布的低气压。
+
+========================================================================
+>>> anxiety disorder
+------------------------------------------------------------------------
+anxiety disorder
+焦虑症：各种焦虑症（如恐慌症、强迫症、恐惧症或广泛性焦虑症）等疾病，焦虑是其主要特征。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various mental disorders characterized by extreme anxiety and including panic disorder, post-traumatic stress disorder, and generalized anxiety disorder 焦虑性障碍
+
+========================================================================
+>>> disorder
+------------------------------------------------------------------------
+disorder    [美 dɪs'ɔrdɚ / 英 dɪs'ɔːdə]
+n. 混乱；骚乱
+vt. 使失调；扰乱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A disorder is a problem or illness which affects someone's mind or body. 紊乱
+   ≫   ...a rare nerve disorder that can cause paralysis of the arms.  …一种罕见的能导致手臂瘫痪的神经紊乱疾病。
+2. (N-VAR) Disorder is violence or rioting in public. 动乱
+   ≫   Six months ago America's worst civil disorder in more than 100 years erupted in the city of Los Angeles.  6个月前，美国100多年来最严重的市民骚乱在洛杉矶市爆发了。
+3. (N-UNCOUNT) Disorder is a state of being untidy, badly prepared, or badly organized. 混乱
+   ≫   The emergency room was in disorder.  急救室一片混乱。
+
+========================================================================
+>>> COPD
+------------------------------------------------------------------------
+COPD
+abbr. 慢性阻塞性肺病（chronic obstructive pulmonary disease）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Because COPD develops slowly, it is most frequently diagnosed in people aged 40 years or over. 因为慢性阻塞性肺病发展缓慢，最经常得到诊断的人年龄为40岁或以上。
+≫   Due to low awareness of lung conditions, many COPD patients in Georgia do not know what causes the disease. 由于对肺病的认识很少，格鲁吉亚的许多慢性阻塞性肺病患者并不知道病因。
+≫   But 10 years ago she was diagnosed with COPD, an incurable type of emphysema. 然而10年前，她被诊为患有慢性阻塞性肺病，那是一种无药可治的恶疾。
+
+========================================================================
+>>> chronic
+------------------------------------------------------------------------
+chronic    [美 'krɑnɪk / 英 'krɒnɪk]
+adj. 慢性的；长期的；习惯性的
+n. (Chronic)人名；(英)克罗尼克
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A chronic illness or disability lasts for a very long time. Compare . 慢性的; 长期的
+   ≫   ...chronic back pain.  …长期背痛。
+2. [ADV adj/-ed] chronically 慢性地; 长期地
+   ≫   Most of them were chronically ill.  他们中大部分人都有慢性病。
+3. [ADJ n] You can describe someone's bad habits or behaviour as chronic when they have behaved like that for a long time and do not seem to be able to stop themselves. 积习难改的
+   ≫   ...a chronic worrier.  …一个老是发愁的人。
+4. (ADJ) A chronic situation or problem is very severe and unpleasant. 严重的
+   ≫   One cause of the artist's suicide seems to have been chronic poverty.  那位艺术家自杀的原因之一好像是极度贫困。
+5. [ADV adj/-ed] chronically 严重地
+   ≫   Research and technology are said to be chronically underfunded.  据说研究和技术资金严重不足。
+
+========================================================================
+>>> obstructive
+------------------------------------------------------------------------
+obstructive    [英 əb'strʌktɪv /  əb'strʌktɪv]
+adj. 阻碍的；妨碍的
+n. 妨碍物；障碍物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that someone is being obstructive, you think that they are deliberately causing difficulties for other people. 故意刁难的
+   ≫   Mr. Smith was obstructive and refused to follow correct procedure.  史密斯先生故意刁难，拒绝照章办事。
+
+========================================================================
+>>> obstruct
+------------------------------------------------------------------------
+obstruct    [美 əb'strʌkt / 英 əb'strʌkt]
+vt. 妨碍；阻塞；遮断
+vi. 阻塞；设障碍
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something obstructs a road or path, it blocks it, stopping people or vehicles getting past. 阻塞
+   ≫   A knot of black and white cars obstructed the intersection.  挤作一团的黑白轿车阻塞了那个十字路口。
+2. (V-T) To obstruct someone or something means to make it difficult for them to move forward by blocking their path. 阻拦
+   ≫   A number of local people have been arrested for trying to obstruct trucks loaded with logs.  许多当地人因试图阻拦装有原木的卡车被逮捕了。
+3. (V-T) To obstruct progress or a process means to prevent it from happening properly. 阻挠
+   ≫   The authorities are obstructing a United Nations investigation.  当局在阻挠一次联合国调查。
+4. (V-T) If someone or something obstructs your view, they are positioned between you and the thing you are trying to look at, stopping you from seeing it completely. 阻挡
+   ≫   Claire positioned herself so as not to obstruct David's line of sight.  克莱尔让自己就位以便不挡住戴维的视线。
+
+========================================================================
+>>> pulmonary
+------------------------------------------------------------------------
+pulmonary    [美 'pʌlmənɛri / 英 'pʌlmən(ə)rɪ]
+adj. 肺的；有肺的；肺状的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Pulmonary means relating to your lungs. 肺的
+   ≫   ...respiratory and pulmonary disease.  ...呼吸及肺部疾病。
+
+========================================================================
+>>> bronchitis
+------------------------------------------------------------------------
+bronchitis    [美 brɑŋ'kaɪtɪs / 英 brɒŋ'kaɪtɪs]
+n. [内科] 支气管炎
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Bronchitis is an illness like a very bad cough, in which your bronchial tubes become sore and infected. 支气管炎
+   ≫   He was in bed with bronchitis.  他身患支气管炎，卧病在床。
+
+========================================================================
+>>> pneumonia
+------------------------------------------------------------------------
+pneumonia    [美 nʊ'monɪə / 英 njuː'məʊnɪə]
+n. 肺炎
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Pneumonia is a serious disease that affects your lungs and makes it difficult for you to breathe. 肺炎
+   ≫   She nearly died of pneumonia.  她差点死于肺炎。
+
+========================================================================
+>>> GERD
+------------------------------------------------------------------------
+GERD    [gə:d]
+abbr. 胃食管反流病（gastroesophageal reflux disease）
+n. (Gerd)人名；(英、德)格尔德；(西)赫尔德；(瑞典)耶德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   One measure of this is GERD, gross domestic expenditure on R&D. 这方面的一个衡量指标是国内研发支出总额（GERD）。
+≫   Another study, this one in 2001, involved 36 people, some of them with diagnosed cases of GERD and others who were healthy controls. 另一项于2001年进行的研究选择了36个实验对象，他们中的一些人已经确诊为胃食管反流病而另一些人则是健康者。
+≫   “I was quite dissatisfied with Italy's surprise decision to pass on its problems to all the others without prior notice,” said Gerd Leers, the Dutch minister for immigration and asylum. “意大利在没有事前通知，就将自身问题传递到别国，我对意大利的这一突然决定深感不满。” 荷兰移民和避难事务部部长Gerd Leers说道。
+
+========================================================================
+>>> IBS
+------------------------------------------------------------------------
+IBS
+abbr. 情报库系统（Intelligent Building System）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) irritable bowel syndrome 肠道易激综合症
+
+========================================================================
+>>> irritable
+------------------------------------------------------------------------
+irritable    [美 'ɪrɪtəbl / 英 'ɪrɪtəb(ə)l]
+adj. 过敏的；急躁的；易怒的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are irritable, you are easily annoyed. 易怒的
+   ≫   He had been waiting for over an hour and was beginning to feel irritable.  他已经等了一个多小时，开始觉得有些烦躁了。
+2. [ADV with v] irritably 易怒地
+   ≫   "Why are you whispering?" he asked irritably.  “你们为什么窃窃私语？”他生气地问。
+
+========================================================================
+>>> reflux
+------------------------------------------------------------------------
+reflux    [美 'ri,flʌks / 英 'riːflʌks]
+n. 逆流；退潮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [chem] to boil or be boiled in a vessel attached to a condenser, so that the vapour condenses and flows back into the vessel 回流
+2. (N) an act of refluxing 回流
+3. (N) (as modifier) 回流的
+   ≫   a reflux condenser  
+
+========================================================================
+>>> bowel
+------------------------------------------------------------------------
+bowel    [美 'baʊəl / 英 'baʊəl]
+n. 肠；内部；同情
+vt. 将……的肚肠取出
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your bowels are the tubes in your body through which digested food passes from your stomach to your anus. 肠
+   ≫   Symptoms such as stomach pains and irritable bowels can be signs of bowel cancer.  胃痛和肠易激等症状都可能是肠癌的征兆。
+
+========================================================================
+>>> syndrome
+------------------------------------------------------------------------
+syndrome    [美 'sɪndrəm / 英 'sɪndrəʊm]
+n. [临床] 综合症状；并发症状；校验子；并发位
+n. (Syndrome)人名；(英)辛德罗姆
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A syndrome is a medical condition that is characterized by a particular group of signs and symptoms. 综合症状
+   ≫   Irritable bowel syndrome seems to affect more women than men.  肠易激综合症对女性比对男性影响更大。
+
+========================================================================
+>>> thyroid
+------------------------------------------------------------------------
+thyroid    [美 'θaɪrɔɪd / 英 'θaɪrɒɪd]
+n. 甲状腺；甲状软骨；甲状腺剂
+adj. 甲状腺的；盾状的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your thyroid or your thyroid gland is a gland in your neck that produces chemicals which control the way your body grows and functions. 甲状腺
+
+========================================================================
+>>> hypothyroidism
+------------------------------------------------------------------------
+hypothyroidism    [美 'haɪpo'θaɪrɔɪ'dɪzəm / 英 ,haɪpəʊ'θaɪrɒɪdɪz(ə)m]
+n. 甲状腺功能减退；甲状腺官能不足病
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [pathol] insufficient production of thyroid hormones by the thyroid gland 甲状腺功能减退
+
+========================================================================
+>>> hyerthyroidism
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> hyperthyroidism
+------------------------------------------------------------------------
+hyperthyroidism    [美 ,haɪpɚ'θaɪrɔɪdɪzəm / 英 ,haɪpə'θaɪrɒɪdɪz(ə)m]
+n. 甲状腺机能亢进
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat 甲状腺机能亢进 (Also called thyrotoxicosis) →see
+
+========================================================================
+>>> kidney
+------------------------------------------------------------------------
+kidney    [美 'kɪdni / 英 'kɪdnɪ]
+n. [解剖] 肾脏；腰子；个性
+n. (Kidney)人名；(英)基德尼
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your kidneys are the organs in your body that take waste matter from your blood and send it out of your body as urine. 肾脏
+   ≫   ...a kidney transplant.  …一次肾脏移植。
+2. (N-VAR) Kidneys are the kidneys of an animal, for example a lamb, calf, or pig, that are eaten as meat. 腰子
+   ≫   ...lambs' kidneys.  …羊腰子。
+
+========================================================================
+>>> kidey
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> kindey
+------------------------------------------------------------------------
+kindey
+肾
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Take tonifying the kindey essence as the principle, USES of auricular points coordination to the method of tonifying the kindey essence for POF have the good curative effect. 以补肾填精为原则，采用耳穴贴压法配合补肾填精方治疗卵巢早衰有良好的疗效。
+
+========================================================================
+>>> essence
+------------------------------------------------------------------------
+essence    [英 'es(ə)ns / 美 'ɛsns]
+n. 本质，实质；精华；香精
+n. (Essence)人名；(英)埃森丝
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The essence of something is its basic and most important characteristic that gives it its individual identity. 本质
+   ≫   The essence of consultation is to listen to, and take account of, the views of those consulted.  咨询的本质是倾听并把那些被咨询者的观点考虑进来。
+2. [正式] If you say that something is of the essence, you mean that it is absolutely necessary in order for a particular action to be successful. 至关重要
+   ≫   Speed was of the essence in a project of this type.  速度在一个这种类型的项目中至关重要。
+3. [正式] You use in essence to emphasize that you are talking about the most important or central aspect of an idea, situation, or event. 本质上
+   ≫   Though complicated in detail, local taxes are in essence simple.  虽然细节复杂，地方税本质上是简单的。
+4. (N-MASS) Essence is a very concentrated liquid that is used for flavouring food or for its smell. 精油
+   ≫   ...a few drops of vanilla essence.  …几滴香草精油。
+
+========================================================================
+>>> POF
+------------------------------------------------------------------------
+pof
+abbr. 卵巢早衰（Premature Ovarian Failure）；塑料光纤（Plastic Optical Fiber）；由买方出具的资金证明（Proof of Funds）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Unlike menopause, it is possible for POF to be temporary. 不同于更年期，卵巢早衰很可能是一个暂时期。
+≫   To identify the genes of POF is the basis for treating and preventing this disease. 鉴定卵巢早衰的致病基因是从根本上治疗和预防该病的基础。
+≫   The characteristic of LED light field via tapered POF was investigated systemically. 对LED经锥形塑料光纤输出的光场特性进行了研究。
+
+========================================================================
+>>> tonifying
+------------------------------------------------------------------------
+tonifying
+滋补
+补
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Its nourishing and tonifying effect and the therapeutic action are indeed worthy of attention. 铁类矿物药所具有的营养与补益作用、治疗作用值得引起重视。
+≫   When it's cold and damp outside, it's good to eat some temperately tonifying foods such as beef and mutton. 当外界湿冷的时候，最好吃些如牛羊肉这类稍微滋补的食物。
+≫   To explore the clinical effect and mechanism of Chinese medicine tonifying Qi kidney and activating blood circulation on DN. 观察益气补肾活血中药治疗糖尿病肾病患者临床疗效并研究其作用机理。
+
+========================================================================
+>>> curative
+------------------------------------------------------------------------
+curative    [美 'kjʊrətɪv / 英 'kjʊərətɪv]
+adj. 有疗效的；治病的
+n. 药品；治疗法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Something that has curative properties can cure people's illnesses. 有疗效的
+   ≫   Ancient civilizations believed in the curative powers of fresh air and sunlight.  远古文明相信新鲜空气和阳光具有治病的功效。
+
+========================================================================
+>>> kidney stones
+------------------------------------------------------------------------
+kidney stones
+肾结石：在肾脏内形成的固体结晶物质，通常由尿液中的矿物质沉积而成。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a hard mass formed in the kidney, usually composed of oxalates, phosphates, and carbonates 肾结石 (Also called renal calculus) [pathol]
+
+========================================================================
+>>> liver disease
+------------------------------------------------------------------------
+liver disease
+肝脏疾病：一种疾病，其中一个人的免疫系统攻击其肝脏，导致肝脏肿胀和疼痛，可能会导致患者患上肝炎。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Get regular monitoring for early diagnosis of liver disease. 进行定期检查，以便对肝病进行及早诊断。
+≫   Hepatitis a is a viral liver disease that can cause mild to severe illness. 甲型肝炎是一种病毒性肝脏疾病，它可造成轻度或严重疾患。
+≫   Fat cats and dogs were more vulnerable to diabetes, arthritis, heart problems and liver disease. 而肥胖的猫狗更容易出现糖尿病、关节炎、心脏病和肝脏疾病。
+
+========================================================================
+>>> hepatitis
+------------------------------------------------------------------------
+hepatitis    [美 ,hɛpə'taɪtɪs / 英 ,hepə'taɪtɪs]
+n. 肝炎
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Hepatitis is a serious disease which affects the liver. 肝炎
+
+========================================================================
+>>> HAV
+------------------------------------------------------------------------
+HAV    [hæv]
+abbr. 甲型肝炎病毒（Hepatitis A virus）；热空气硫化（Hot Air Vulcanization）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Hepatitis A is a liver infection caused by the hepatitis A virus (HAV). 甲型肝炎是甲肝病毒（HAV）造成的一种肝脏感染病症。
+≫   In areas where the virus is widespread, most HAV infections occur during early childhood. 在病毒传播广泛的地区，大多数甲型肝炎感染发生在儿童早期。
+≫   Hepatitis E virus (HEV), like HAV, is transmitted through consumption of contaminated water or food. 戊肝病毒同甲肝病毒一样，也通过食用受污染的水或食物感染。
+
+========================================================================
+>>> HBV
+------------------------------------------------------------------------
+hbv
+abbr. 乙型肝炎病毒（hepatitis B virus）；高码率视频（High Bit Rate Video）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   HBV can also cause a chronic liver infection that can later develop into cirrhosis of the liver or liver cancer. 乙型肝炎病毒也会造成慢性肝脏感染，以后可能发展成肝硬化或肝癌。
+≫   Liver cancer caused by HBV is among the first three causes of death from cancer in men, and a major cause of cancer in women. 乙型肝炎病毒造成的肝癌是导致男子因癌症死亡的三大原因之一，也是导致妇女因癌症死亡的一个主要原因。
+≫   Hepatitis B vaccine is 95% effective in preventing HBV infection and its chronic consequences, and is the first vaccine against a major human cancer. 乙型肝炎疫苗对预防乙型肝炎病毒感染及其慢性后果的效果达到95%，是预防一种主要人类癌症的最早疫苗。
+
+========================================================================
+>>> HCV
+------------------------------------------------------------------------
+hcv
+abbr. 丙型肝炎病毒（hepatitis C virus）；高超声速巡航飞行器（Hypersonic Cruise Vehicle）；手控阀（hand-controlling valve）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   HCV is generally considered to be a curable disease but for many persons this is not a reality. 一般情况下，丙肝病毒被认为是可治愈的疾病，然而，对许多人而言，事实却并非如此。
+≫   HCV infection is found worldwide. Countries with high rates of chronic infection are Egypt (22%), Pakistan (4.8%) and China (3.2%). 世界各地均存在丙肝病毒感染，慢性感染率高的国家包括埃及（22%）、巴基斯坦（4.8%）和中国（3.2%）。
+≫   Scientific advances and intense research and development have led to the development of many new oral antiviral drugs for HCV infection. 科学进步及密集的研究与开发使人们研制出许多新型口服抗丙肝病毒感染的药物。
+
+========================================================================
+>>> vaccine
+------------------------------------------------------------------------
+vaccine    [美 væk'sin / 英 'væksiːn; -ɪn]
+n. 疫苗；牛痘苗
+adj. 疫苗的；牛痘的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) A vaccine is a substance containing a harmless form of the germs that cause a particular disease. It is given to people, usually by injection, to prevent them from getting that disease. 疫苗
+   ≫   Anti-malarial vaccines are now undergoing trials.  抗疟疾疫苗现在正处于试验阶段。
+
+========================================================================
+>>> swine-flu
+------------------------------------------------------------------------
+swine flu    [英 ˈswaɪn fluː / 美 ˈswaɪn fluː]
+猪流感：一种由不同于猪中发现的H1N1亚型的正黏液病毒株引起的人类流感。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   How do I know if it's swine flu? 我怎么知道是不是猪流感？
+≫   The outbreak of swine flu that was first deteccted in Mexico was declared a global epidemic on June 11, 2009. 2009年6月11日，墨西哥首次爆发的猪流感被宣布为全球流行病。
+≫   I have family and friends who have had swine flu, though I doubt if they appear in the figures. 我有家人和朋友感染了猪流感，尽管我怀疑他们是否出现在数据中。
+
+========================================================================
+>>> bird flu
+------------------------------------------------------------------------
+bird flu    [英 ˈbɜːd fluː]
+禽流感：由引起禽流感的亚型（H5N1）的病原性正黏液病毒株引起的严重且常常致命的流感。这种流感在亚洲的家禽中曾经引发过流行病，并偶尔伴有人类感染病例。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Bird flu is a virus that can be transmitted from chickens, ducks, and other birds to people. 禽流感
+
+========================================================================
+>>> cirrhosis
+------------------------------------------------------------------------
+cirrhosis    [美 sə'rosɪs / 英 sɪ'rəʊsɪs]
+n. 硬化；[内科] 肝硬化
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cirrhosis or cirrhosis of the liver is a disease which destroys a person's liver and which can kill them. It is often caused by drinking too much alcohol. 肝硬化
+
+========================================================================
+>>> obesity
+------------------------------------------------------------------------
+obesity    [美 o'bisəti / 英 ə(ʊ)'biːsɪtɪ]
+n. 肥大，肥胖
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All obesities result from an excess of energy intake over energy expenditure, so any treatment must have effects on either or both arms of the equation. 所有的肥胖都是因为能量摄入大于消耗，因此每一种治疗方法必然要作用于这一平衡的一侧或双侧。
+
+========================================================================
+>>> psoriasis
+------------------------------------------------------------------------
+psoriasis    [英 sɒ'raɪəsɪs / 美 sə'raɪəsɪs]
+n. [皮肤] 牛皮癣；银屑癣
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Psoriasis is a disease that causes dry red patches on the skin. 牛皮癣
+
+========================================================================
+>>> acne
+------------------------------------------------------------------------
+acne    [美 'ækni / 英 'æknɪ]
+n. [皮肤] 痤疮，[皮肤] 粉刺
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If someone has acne, they have a skin condition which causes a lot of pimples on their face and neck. 粉刺
+   ≫   She wore no makeup, and her face was dotted with acne.  她没有化妆，脸上长满了粉刺。
+
+========================================================================
+>>> cancer
+------------------------------------------------------------------------
+cancer    [美 'kænsɚ / 英 'kænsə]
+n. 癌症；恶性肿瘤
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Cancer is a serious disease in which cells in a person's body increase rapidly in an uncontrolled way, producing abnormal growths. 癌症
+   ≫   Her mother died of breast cancer.  她母亲死于乳腺癌。
+   ≫   Jane was just 25 when she learned she had cancer.  珍妮得知自己患了癌症时才25岁。
+
+========================================================================
+>>> breast cancer
+------------------------------------------------------------------------
+breast cancer
+乳腺癌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Meanwhile, another woman, the same age, has not received a breast-cancer diagnosis. 而另外一个和她同龄的女人没有接受乳房癌检测。
+≫   Researchers have just sequenced the entire DNA code of one type of breast-cancer tumor. 研究人员刚刚排出一种乳腺癌肿瘤的全部DNA代码顺序来。
+≫   She is an active member of a breast-cancer-survivor group, and she closely monitors the latest developments on the Web. 她是一个乳房癌幸存者组织中非常活跃的成员，她通过互联网关注着最新的进展。
+
+========================================================================
+>>> prostate
+------------------------------------------------------------------------
+prostate    [美 'prɑstet / 英 'prɒsteɪt]
+adj. 前列腺的
+n. [解剖] 前列腺
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The prostate or the prostate gland is an organ in the body of male mammals situated at the neck of the bladder that produces a liquid which forms part of semen. 前列腺
+
+========================================================================
+>>> prostate cancer
+------------------------------------------------------------------------
+prostate cancer
+前列腺癌：一种男性常见的癌症，可以通过多种治疗方法进行治疗。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Men over 55 should be regularly screened for prostate cancer. 55岁以上的男性应定期做前列腺癌检查。《牛津词典》
+≫   The Prostate Cancer Foundation agrees with the American Urological Association that PSA screening provides important information for men and their doctors. PSA检查能为病人和他们的医生提供重要信息，在这一点上前列腺癌基金会和美国泌尿协会意见一致。
+≫   Too much animal protein, especially red meat, has been linked with significantly increased risks of heart disease, prostate cancer, breast cancer and colon cancer. 动物蛋白过多，尤其是红肉类，已经同增加心脏病、前列腺癌、乳腺癌，结肠癌的危险性联系到一起了。
+
+========================================================================
+>>> amoxicillin
+------------------------------------------------------------------------
+amoxicillin    [ə,mɑksɪ'sɪlɪn]
+n. 阿莫西林；羟氨苄青霉素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Amoxicillin was the most commonly used antibiotic (58%). 阿莫西林是最常用的抗生素（58%）。
+≫   One is levofloxacin triple therapy, which consists of a PPI (proton-pump inhibitor) along with amoxicillin and levofloxacin. 一个是左氧氟沙星三联疗法，将PPI和阿莫西林及左氧氟沙星结合使用。
+≫   Although health systems are gearing to change to amoxicillin for the treatment of childhood pneumonia, this will take time and considerable resources. 虽然卫生系统会调整到使用阿莫西林来治疗儿童肺炎，然而这也是很费时费力的。
+
+========================================================================
+>>> azithromycin
+------------------------------------------------------------------------
+azithromycin    [英 eɪzɪθrəˈmaɪsɪn / 美 eɪzɪθrəˈmaɪsɪn]
+n. 阿奇霉素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Azithromycin and Josamycin are the first drugs for it. 阿奇霉素和交沙霉素为首选药物。
+≫   Objective: To improve the produce technology of azithromycin granules. 前言：目的：改进阿奇霉素颗粒的制备工艺。
+≫   Objective to investigate the influence of azithromycin on unstable angina pectoris. 目的探讨阿奇霉素对不稳定型心绞痛的影响。
+
+========================================================================
+>>> cephalexin
+------------------------------------------------------------------------
+cephalexin    [美 ˌsefəˈleksɪn / 英 ˌsefəˈleksɪn]
+n. 头孢氨苄
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   After oral administration, Cephalexin is absorbed through the intestinal barrier. 口服后，头孢氨苄是通过肠道吸收障碍。
+≫   OBJECTIVE: To develop the assay of compound cephalexin capsules by flow injection. 目的：建立复方头孢氨苄胶囊的流动注射分析法。
+≫   The modified conditions of AuE and hydrolytic conditions of cephalexin were optimized. 对金电极的修饰条件、头孢氨苄的水解条件等进行了优化。
+
+========================================================================
+>>> clindamycin
+------------------------------------------------------------------------
+clindamycin    [美 klɪndəˈmaɪsɪn / 英 ˌklɪndəˈmaɪsɪn]
+n. 克林霉素；[微] 氯林肯霉素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Pseudomembranous colitis has been reported with topical clindamycin. 局部用克林霉素有报道可致假膜性结肠炎。
+≫   The infection is treated with drugs such as pyrimethamine, sulfadiazine and clindamycin. 对于这种感染可用乙嘧啶，磺胺嘧啶和氯林可霉素等药物进行治疗。
+≫   Objective To observe the effects of the Clindamycin Phosphate injection and evaluate its safety. 目的评价国产注射用克林霉素磷酸酯的安全性。
+
+========================================================================
+>>> vancomycin
+------------------------------------------------------------------------
+vancomycin    [美 ,væŋkə'maɪsɪn; ,vænkə'maɪsɪn / 英 ,væŋkə'maɪsɪn]
+n. 万古霉素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an antibiotic effective against most Gram-positive organisms. It is given by intravenous infusions for serious infections that are resistant to other antibiotics 万古霉素
+
+========================================================================
+>>> relievers
+------------------------------------------------------------------------
+relievers
+n．
+1. 缓解剂：用于减轻症状或疼痛的药物或物品。
+2. 救援投手：棒球比赛中替换先发投手的投手，负责维持或改变比赛局势。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) [baseball] → another name for relief pitcher
+
+========================================================================
+>>> pain relievers
+------------------------------------------------------------------------
+pain reliever
+止痛药：一种能够减轻或消除疼痛的药物或其他物品。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Other alternative pain relievers. 其他代替止痛药。
+≫   Endorphins serve as powerful pain relievers. 内啡肽可以作为强效止痛药。
+≫   When Taking Occasional Pain Relievers Leads to an Ulcer 偶然服用消炎药导致溃疡。
+
+========================================================================
+>>> acetaminophen
+------------------------------------------------------------------------
+acetaminophen    [美 ə,sitə'mɪnəfɛn / 英 ə,siːtə'mɪnəfen; ə,setə-]
+n. 对乙酰氨基酚；[药] 醋氨酚；退热净；扑热息痛（一种替代阿司匹林的解热镇痛药，常见品牌有泰诺（Tylenol）, 必理痛（Panadol）, 埃克塞德林（Excedrin）等）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   To deal with the pain, your easiest option is an over-the-counter painkiller such as aspirin or acetaminophen. 为对付这种疼痛，最容易的选择就是非处方止痛药，例如阿司匹林或退热净。
+≫   In a related study, functional MRIs showed that people who had taken acetaminophen also had less activity in the brain regions that respond to emotional pain. 在一个相关联的研究中，有作用的那组的核磁共振成像表明服用了退热净的人的大脑在感情痛觉区域同样活力减少了。
+≫   One thing I want to explore is whether acetaminophen can also help reduce these behavioral consequences. 我想探究一件事就是退热净能否减轻这些行为表现。
+
+========================================================================
+>>> ototoxicity
+------------------------------------------------------------------------
+ototoxicity    [,əutə'tɔksik]
+n. 耳毒性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective To approach the effective measure to prevent and monitor the ototoxicity of amikacin. 目的探讨预防和监测阿米卡星耳毒性的有效措施。
+≫   Objective:To primarily find out the effect about luteolin rivalizing ototoxicity of gentamicin. 目的：初步了解木樨草素对庆大霉素耳毒性的影响。
+≫   In case of purulent nasal discharge, may be under the guidance of a doctor use of antimicrobial drugs, but disable the ototoxicity of antibiotics such as streptomycin, gentamicin, kanamycin and so on. 在脓涕情况下，可能是下一个医生使用抗菌药物的指导，但禁用耳毒性抗生素如链霉素，庆大霉素，卡那霉素等。
+
+========================================================================
+>>> toto
+------------------------------------------------------------------------
+toto    ['təutəu]
+n. 全部；总数
+n. (Toto)人名；(意、南非、印尼)托托
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At last she crawled over the swaying floor to her bed, and lay down upon it; and Toto followed and lay down beside her. 她从依旧摇摆着的木地板上爬起来，摸索到自己的小床边，并躺了上去，托托在后面跟着，也趴在了她的身旁。
+≫   Models costing anywhere from $150 to $6, 000 now account for about 5% of the toilets sold in China each year, according to Toto officials. 根据Toto官方统计，那些从150美元到6000美元的模型占每年在中国市场售出马桶总额的百分之五。
+≫   So like Dorothy and Toto, we mentors are blown by whirlwinds of impending disaster into new territories where our presence naturally disrupts the status quo. 因此就像 Dorothy 和 Toto 一样，我们咨询师就是被一阵灾难性的旋风卷到新的大陆, 在那里我们的出现自然会导致现状的破坏。
+
+========================================================================
+>>> salicylate
+------------------------------------------------------------------------
+salicylate    [美 'sælɪsɪlet / 英 sə'lɪsɪlət]
+n. [有化] 水杨酸盐
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any salt or ester of salicylic acid 水杨酸盐
+
+========================================================================
+>>> aspirin
+------------------------------------------------------------------------
+aspirin    [美 'æsprɪn / 英 'æsp(ə)rɪn]
+n. 阿司匹林（解热镇痛药）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Aspirin is a mild drug that reduces pain and fever. 阿司匹林
+
+========================================================================
+>>> salicylic acid
+------------------------------------------------------------------------
+salicylic acid    [美 ˌsælɪsɪlɪk ˈæsɪd / 英 ˌsælɪsɪlɪk ˈæsɪd]
+水杨酸：一种结晶性的酚酸，主要用于医学上的皮肤去角质，以及作为盐和其他衍生物的镇痛剂和退热剂。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a white crystalline slightly water-soluble substance with a sweet taste and bitter aftertaste, used in the manufacture of aspirin, dyes, and perfumes, and as a fungicide. Formula: C6H4(OH)(COOH) 水杨酸
+
+========================================================================
+>>> nicotinylsalicylic acid
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> salicin
+------------------------------------------------------------------------
+salicin    [美 ˈsæləsɪn / 英 ˈsælɪsɪn]
+n. [生化] 水杨苷
+alsosalicine
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a colourless or white crystalline water-soluble glucoside obtained from the bark of poplar trees and used as a medical analgesic. Formula: C13H18O7 水杨苷
+
+========================================================================
+>>> citric
+------------------------------------------------------------------------
+citric    [英 'sɪtrɪk / 美 'sɪtrɪk]
+adj. 柠檬的；采自柠檬的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or derived from citrus fruits or citric acid 柠檬的; 柠檬酸的
+
+========================================================================
+>>> citric acid
+------------------------------------------------------------------------
+citric acid    [美 ˌsɪtrɪk ˈæsɪd / 英 ˌsɪtrɪk ˈæsɪd]
+n. 柠檬酸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Citric acid is a weak acid found in many kinds of fruit, especially citrus fruit such as oranges and lemons. 柠檬酸
+
+========================================================================
+>>> salicin acid
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> acetosalicylic acid
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> acetosalicylic acid
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10713
+acetosalicylic acid
+acetosalicylic酸
+
+========================================================================
+>>> acetylsalicylic acid
+------------------------------------------------------------------------
+acetylsalicylic acid
+阿司匹林：一种白色结晶衍生物，化学式为C9H8O4，常被用于缓解疼痛和发热。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → the chemical name for aspirin
+
+========================================================================
+>>> acetylsalicylic acid
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10791
+acetylsalicylic acid
+阿司匹林：一种白色结晶衍生物，化学式为C9H8O4，常被用于缓解疼痛和发热。
+
+========================================================================
+>>> ibuprofen
+------------------------------------------------------------------------
+ibuprofen    [美 ,aɪbju'profɛn / 英 ,aɪbjuː'prəʊf(ə)n]
+n. 布洛芬，异丁苯丙酸（抗炎，镇痛药）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a drug, isobutylphenylpropionic acid, that relieves pain and reduces inflammation: used to treat arthritis and muscular strains. Formula: C13H18O2 异丁苯丙酸
+
+========================================================================
+>>> naproxen
+------------------------------------------------------------------------
+naproxen    [美 nəˈprɑːksən / 英 nəˈprɒksɛn]
+n. 萘普生；甲氧萘丙酸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective To study the microbial transformation of naproxen. 目的研究微生物对萘普生的转化能力。
+≫   Other products such as Naproxen, Mefenamic acid also take the lead in domestic market. 其他产品如萘普生、甲灭酸等均处于国内领先地位。
+≫   The first part of this research involved the studies of NSAIDs-carprofen and naproxen . 第一部份以研究NSAID药物包括卡普洛芬及那普洛辛。
+
+========================================================================
+>>> antihistamines
+------------------------------------------------------------------------
+antihistamines    [,ænti'histəmi:n]
+n. 抗组胺（antihistamine的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An antihistamine is a drug that is used to treat allergies. 抗组胺剂
+
+========================================================================
+>>> histamine
+------------------------------------------------------------------------
+histamine    [美 'hɪstəmin / 英 'hɪstəmiːn]
+n. [生化] 组胺
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an amine formed from histidine and released by the body tissues in allergic reactions, causing irritation. It also stimulates gastric secretions, dilates blood vessels, and contracts smooth muscle. Formula: C5H9N3 组胺 → see also
+
+========================================================================
+>>> loratadine
+------------------------------------------------------------------------
+loratadine
+n. 氯雷他定（药名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   OBJECTIVE: to preparation loratadine tablets and to establish a methods of quality for it. 目的：制备氯雷他定片并建立其质量控制方法。
+≫   Results Arachidonic acid-induced ear edema was reduced by mizolastine, but loratadine and cetirizine were not. 结果咪唑斯汀可抑制花生四烯酸诱导的小鼠耳部水肿，但氯雷他定和西替利嗪均不能；
+≫   Efficacy and Safety of Mizolastine Sustained Release Tablets Comparison with Loratadine Tablets in Patients with Urticaria; 目的比较咪唑斯汀缓释片与氯雷他定片治疗荨麻疹的有效性与安全性。
+
+========================================================================
+>>> claritin
+------------------------------------------------------------------------
+Claritin
+克敏能
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Among the best non-drowsy choices would have to be Claritin 24 hour and Tylenol severe allergy non-drowsy formula. 在所有没有产生睡意副作用的非处方药中，开瑞坦和泰诺应该算是最好的两种药。
+≫   Schering-Plough seems pretty fired up about its joint venture with Merck to create a single pill combining Schering's allergy medicine Claritin with Merck's asthma drug Singulair. 先灵葆雅似乎决意通过其与默克合作开发的一种复合了先灵的抗过敏药克敏能和默克的抗哮喘药顺尔宁的药丸来打一场翻身仗。
+≫   Other self-care steps to try include irrigating the nasal passages with a saline nasal spray and taking a nonsedating allergy medication such as Claritin if you suspect congestion from allergies. 其他可以尝试的自助措施包括用含盐的喷鼻剂冲洗鼻腔通道或服用不具有镇静作用的过敏药，比如克敏能，如果你推测你的鼻塞是由过敏症引起的。
+
+========================================================================
+>>> cetirizine
+------------------------------------------------------------------------
+cetirizine
+n. 西替利嗪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Cetirizine for the first generation of anti-drug hydroxyzine amine derivatives. 西替利嗪为第一代抗胺药物羟嗪的衍生物。
+≫   Objective: To establish a capillary zone electrophoretic method for determining cetirizine in cetirizine HCL syrup. 目的：建立毛细管电泳法测定盐酸西替利嗪糖浆剂中西替利嗪含量的方法。
+≫   AIM: To evaluate the efficacy and safety of levocetirizine and cetirizine in the treatment of perennial allergic rhinitis. 目的：评价左西替利嗪治疗常年性过敏性鼻炎的有效性和安全性。
+
+========================================================================
+>>> fexofenadine
+------------------------------------------------------------------------
+fexofenadine
+非索非那定
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Isolation and purification of fexofenadine were also studied. 对非索非那定的分离纯化进行了初步研究。
+≫   Fexofenadine was the second era antihistamine drug used to treat anaphylaxis, and was not sedative and heart toxicity. 非索非那定是第二代抗组胺药物，用于治疗过敏性疾病，无嗜睡，无心脏毒性，副作用小。
+≫   Those who drank the grapefruit juice absorbed only half the amount of fexofenadine, compared to those who drank plain water. 或普通的水。和那些喝普通的水的相比，这些喝了葡萄柚汁的人只是吸收了一半量的非索非那定。
+
+========================================================================
+>>> antidepressants
+------------------------------------------------------------------------
+antidepressants    [,æntidi'presənt]
+n. [药] 抗抑郁药（antidepressant的复数形式）；抗忧郁剂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An antidepressant is a drug which is used to treat people who are suffering from depression. 抗抑郁药
+
+========================================================================
+>>> fluoxetinie
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fluoxetine
+------------------------------------------------------------------------
+fluoxetine    ['fluəksiti:n]
+n. 氟西汀；氟苯氧丙胺
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a drug that prolongs the action of serotonin in the brain. It is used as an antidepressant 氟西汀; 一种抗抑郁药物
+
+========================================================================
+>>> sertraline
+------------------------------------------------------------------------
+sertraline
+舍曲林
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Anxiety disorder; Depressive disorder; Sertraline; Doxepin. 焦虑症；抑郁症；舍曲林；多虑平。
+≫   Fluoxetine or sertraline can be given during the 14 days before the menstrual period. 氟西丁或舍曲林可以在经前14天开始服用。
+≫   Objective To appraise the efficacy and side effects of sertraline in treatment of senile depressive disorder. 目的评价舍曲林对老年期抑郁症的疗效和安全性。
+
+========================================================================
+>>> escitalopram
+------------------------------------------------------------------------
+escitalopram
+依他普仑（药名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Conclusions: Duloxetine and Escitalopram are both effective and safe in the treatment of depression. 结论：度洛西汀和艾司西酞普兰对抑郁症患者同样安全有效。
+≫   Objective:To evaluate the efficacy and safety of escitalopram in elderly patients with major depression. 目的：研究艾司西酞普兰治疗老年性抑郁症的疗效和安全性。
+≫   The results of the study showed that women who used bupropion and citalopram or escitalopram all reduced their smoking. 研究结果表明使用安非他酮和西酞普兰或者依他普仑的女性均较少了她们的吸烟量。
+
+========================================================================
+>>> diabetes medications
+------------------------------------------------------------------------
+Diabetes medication
+抗糖尿病药
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The researchers were interested in which diet for diabetes would prove best for keeping people off of diabetes medications. 研究人员对证明那种饮食对糖尿病患者最有利，能够使人们远离糖尿病的困扰充满兴趣。
+≫   All had high blood pressure and high cholesterol. Both groups were taking standard diabetes medications, high blood pressure medicines and cholesterol-lowering drugs. 所有的试验者都存在高血压和高胆固醇情况，在实验过程中都服用规定的糖尿病治疗药物、高血压药物以及降胆固醇药物。
+≫   Cataracts that arise in younger people can have a variety of causes, including tumors and diabetes, as well as side effects from certain medications. 但由于各种原因，如肿瘤、糖尿病和某些药物的副作用，白内障也能发生在年青人中。
+
+========================================================================
+>>> metformin
+------------------------------------------------------------------------
+metformin    [mɛt'fɔrmɪn]
+n. 二甲双胍（抗糖尿病药、降血糖药）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There was metformin HCl and glipizide for his diabetes; lisinopril for his blood pressure; and Viagra. 药单包括治疗糖尿病的盐酸二甲双胍和格列吡嗪、治疗高血压的赖诺普利、伟哥。
+≫   As a result, sage is sometimes called nature's metformin since it performs like the common antidiabetes drug. 因此 鼠尾草有时被称为天然的二甲双胍，这就是因为它表现出了一般降糖药的特性。
+≫   About 80 percent of women who took metformin while following a modified carbohydrate diet lost about 10 percent of their body weight within a year, a New York Medical College study found. 一项纽约医科大学的研究结果显示，服用二甲双胍，并改变饮食中碳水化合物含量的女士中大概有百分之八十在一年内减掉了百分之十的体重。
+
+========================================================================
+>>> insulin
+------------------------------------------------------------------------
+insulin    [英 'ɪnsjʊlɪn / 美 'ɪnsəlɪn]
+n. [生化][药] 胰岛素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Insulin is a substance that most people produce naturally in their body and that controls the level of sugar in their blood. 胰岛素
+   ≫   Sufferers from the more severe form of diabetes have faulty insulin-producing cells.  患有更严重类型的糖尿病患者其胰岛素分泌细胞存在问题。
+
+========================================================================
+>>> glipizide
+------------------------------------------------------------------------
+glipizide
+n. 格列吡嗪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective:To study the bioequivalence of domestic and imported glipizide tablets. 目的：研究国产格列吡嗪片剂的生物等效性。
+≫   The top 3 hypoglycemic drugs in respect of sales amount were acarbose, gliclazide, and glipizide. 用药金额排名前3位的药物是阿卡波糖、格列齐特、格列吡嗪。
+≫   AIM: To provide a method for study of glipizide pharmacokinetics and development of it's products. 目的：为研究格列吡嗪的药物动力学及其制剂的开发提供方法。
+
+========================================================================
+>>> cardiovascular
+------------------------------------------------------------------------
+cardiovascular    [美 ,kɑrdɪo'væskjəlɚ / 英 ,kɑːdɪəʊ'væskjʊlə]
+adj. [解剖] 心血管的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Cardiovascular means relating to the heart and blood vessels. 心血管的
+   ≫   Smoking places you at serious risk of cardiovascular and respiratory disease.  吸烟会严重增加罹患心血管和呼吸道疾病的风险。
+
+========================================================================
+>>> cardiovascular medications
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cardiovascular medications
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11426
+cardiovascular medications
+心血管药物
+
+========================================================================
+>>> atorvastatin
+------------------------------------------------------------------------
+atorvastatin    [ə,tɔrvə'stætn]
+n. 阿托伐他汀（降血脂药）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective To study the clinical effect of atorvastatin on arteriosclerosis plaque of carotid artery. 目的探讨阿托伐他汀对颈动脉粥样斑块的临床影响。
+≫   Atorvastatin can suppress the expression and release of inflammatory mediator by adipose tissue and endothelial cells. 阿托伐他汀可通过脂肪组织及内皮细胞抑制炎症介质的分泌及表达。
+≫   Lifetime sales of Pfizer's cholesterol-lowering drug Lipitor (atorvastatin), the world's top-selling prescription medicine. It loses patent protection from 30 November. 辉瑞制药的降血脂药立普妥（阿活他汀），世界上销售最好的处方药，将在11月30日失支专利保护。
+
+========================================================================
+>>> amlodipine
+------------------------------------------------------------------------
+amlodipine    [英 æmˈləʊdɪpɪn]
+n. 氨氯地平（抗高血压药）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   AIM: To evaluate the efficacy and safety of amlodipine on renal hypertension. 目的：观察氨氯地平治疗肾性高血压的疗效和安全性。
+≫   Amlodipine (ALDP) is a new kind of calcium channel blocker of dihydropyridine. 氨氯地平是新型二氢吡啶类钙通道阻滞剂。
+≫   Also, this combination can decrease the side effects of amlodipine such as edema. 此外，这一组合可降低氨氯地平的不良反应如水肿。
+
+========================================================================
+>>> lisinopril
+------------------------------------------------------------------------
+lisinopril    [英 lɪzɪˈnəʊprɪl]
+n. 赖诺普利（一种抑制剂）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Results: Both valsartan and lisinopril were effective at lowering blood pressure. 结果：缬沙坦与赖诺普利均能有效降低血压。
+≫   Objective To explore the effects of lisinopril on senile hypertensives′ volume of cerebral blood flow. 目的观察赖诺普利对老年人高血压的治疗效果及对脑血流的影响。
+≫   The first involves the use of the drugs lisinopril carvedilol spironolactone and losartan to enhance reverse remodel ling. 第一个阶段包括药物赖诺普利，卡维地洛、螺内酯和洛沙坦的应用，以提高逆转重塑。
+
+========================================================================
+>>> respiratory medications
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> respiratory medications
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11603
+respiratory medications
+呼吸系统药物
+
+========================================================================
+>>> respiratory
+------------------------------------------------------------------------
+respiratory    [英 rɪ'spaɪərətrɪ; 'respɪrətrɪ / 美 rɪ'spaɪərətɔːrɪ; rɪ'spaɪrəˌtɔrɪ]
+adj. 呼吸的
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Respiratory means relating to breathing. 呼吸的
+   ≫   ...people with severe respiratory problems.  …有严重呼吸问题的人们。
+
+========================================================================
+>>> gastrointestinal
+------------------------------------------------------------------------
+gastrointestinal    [美 ,ɡæstroɪn'tɛstɪnl / 英 ,gæstrəʊɪn'testɪn(ə)l; -ɪntes'taɪn(ə)l]
+adj. 胃肠的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Gastrointestinal means relating to the stomach and intestines. 肠胃的
+
+========================================================================
+>>> intestinal
+------------------------------------------------------------------------
+intestinal    [美 ɪn'tɛstɪnl / 英 ɪnte'staɪn(ə)l; ɪn'testɪn(ə)l]
+adj. 肠的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Intestinal means relating to the intestines. 肠的
+
+========================================================================
+>>> gastral
+------------------------------------------------------------------------
+gastral    [美 ˈɡæstrəl / 英 ˈɡæstrəl]
+adj. 胃的；消化道的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The size of the gastral basket reportedly increases with body size in the Theropoda. 据报道，在兽脚类中，腹肋腔的大小与个体大小正相关。
+≫   Objective To study the false negative of occult blood detection by monoclonal antibody method of gastral fluid. 目的针对胃液潜血单克隆抗体法假阴性实例进行初探试验。
+≫   Here we investigate the size and morphology of the gastral basket in non-neornithine Mesozoic birds and their close non-avian dinosaur relatives. 摘要：对中生代鸟类及与其亲缘关系密切的非鸟兽脚类腹肋腔的大小和形态进行了研究。
+
+========================================================================
+>>> stomach
+------------------------------------------------------------------------
+stomach    [美 'stʌmək / 英 'stʌmək]
+n. 胃；腹部；胃口
+vt. 忍受；吃下
+vi. 忍受
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your stomach is the organ inside your body where food is digested before it moves into the intestines. 胃
+   ≫   He had an upset stomach.  他胃部不适。
+2. (N-COUNT) You can refer to the front part of your body below your waist as your stomach. 肚子
+   ≫   The children lay down on their stomachs.  孩子们俯身趴着。
+3. (N-COUNT) If the front part of your body below your waist feels uncomfortable because you are feeling worried or frightened, you can refer to it as your stomach. 心窝
+   ≫   His stomach was in knots.  他的心揪得紧紧的。
+4. (N-COUNT) If you say that someone has a strong stomach, you mean that they are not disgusted by things that disgust most other people. 忍耐力
+   ≫   Surgery often demands actual physical strength, as well as the possession of a strong stomach.  外科手术常常要求有实际体力，也要有很强的忍耐力。
+5. [with brd-neg] If you cannot stomach something, you cannot accept it because you dislike it or disapprove of it. 忍受
+   ≫   I could never stomach the cruelty involved in the wounding of animals.  我永远无法忍受伤害动物的残暴行为。
+6. (PHRASE) If you do something on an empty stomach, you do it without having eaten. 空腹
+   ≫   Avoid drinking on an empty stomach.  避免空腹喝酒。
+
+========================================================================
+>>> gastrointestinal medications
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> gastrointestinal medications
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11838
+gastrointestinal medications
+胃肠道药物
+
+========================================================================
+>>> omeprazole
+------------------------------------------------------------------------
+omeprazole    ['ɔmipreizəul]
+n. 奥美拉唑
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Conclusion The pharmacodynamic effects of omeprazole and its pharmacokinetics depend on the CYP2C19 genotype status in Chinese volunteers. 结论CYP2C19基因多态性对奥美拉唑在中国人体内的药物动力学和药效学有明显影响。
+≫   CONCLUSION: The therapeutic effect of intravenous large dosage famotidine on peptic ulcer with acute massive bleeding was similar to omeprazole. 结论：大剂量法莫替丁治疗消化性溃疡急性大出血的疗效与奥美拉唑相似。
+≫   In these studies, there were fewer heart attacks or other heart problems reported in the patients treated with omeprazole compared to patients that were given a placebo. 在这些研究中，与安慰剂组比较，使用奥美拉唑治疗的患者中较少有心脏病发作或其他心脏疾患的报告。
+
+========================================================================
+>>> simuth
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> bismuth
+------------------------------------------------------------------------
+bismuth    [美 'bɪzməθ / 英 'bɪzməθ]
+n. [化学] 铋
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a brittle pinkish-white crystalline metallic element having low thermal and electrical conductivity, which expands on cooling. It is widely used in alloys, esp low-melting alloys in fire safety devices; its compounds are used in medicines. Symbol: Bi; atomic no: 83; atomic wt: 208.98037; valency: 3 or 5; relative density: 9.747; melting pt: 271.4°C; boiling pt: 1564±5°C 铋
+
+========================================================================
+>>> subsalicylate
+------------------------------------------------------------------------
+subsalicylate    [,sʌbsə'lisə,leit]
+n. 碱式水杨酸盐
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   OBJECTIVE: To evaluate the efficacy and safety of bismuth subsalicylate oral solution(BSOS) in the treatment of some gastrointestinal symptoms in Chinese. 目的：评价碱式水杨酸铋口服液治疗急性消化系统症状的临床疗效和安全性。
+
+========================================================================
+>>> bismuth subsalicylate
+------------------------------------------------------------------------
+bismuth subsalicylate
+次水杨酸铋：一种常用的非处方药，主要用于治疗轻度腹泻、消化不良、胃痛等症状。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   OBJECTIVE: To evaluate the efficacy and safety of bismuth subsalicylate oral solution(BSOS) in the treatment of some gastrointestinal symptoms in Chinese. 目的：评价碱式水杨酸铋口服液治疗急性消化系统症状的临床疗效和安全性。
+
+========================================================================
+>>> aspirin
+------------------------------------------------------------------------
+aspirin    [美 'æsprɪn / 英 'æsp(ə)rɪn]
+n. 阿司匹林（解热镇痛药）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Aspirin is a mild drug that reduces pain and fever. 阿司匹林
+
+========================================================================
+>>> acetylsalicylic acid
+------------------------------------------------------------------------
+acetylsalicylic acid
+阿司匹林：一种白色结晶衍生物，化学式为C9H8O4，常被用于缓解疼痛和发热。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → the chemical name for aspirin
+
+========================================================================
+>>> acetylsalicylic
+------------------------------------------------------------------------
+acetylsalicylic    [美 əˈsiːt(ə)lˌsæləˌsɪlɪk / 英 əˈsiːtɪlˌsælɪˈsɪlɪk]
+adj. 乙酰水杨酸的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Affected patients should receive dose-adjusted acetylsalicylic acid. 相关的患者应该接受校正剂量的阿司匹林治疗。
+≫   It is important to maintain hydration. Use of acetylsalicylic acid e.g. 重要的是要保持不脱水。
+≫   This was important for the production of acetylsalicylic acid (aspirin). 这对乙酰水杨酸（阿斯匹林）的生产意义重大。
+
+========================================================================
+>>> hydrocortisone
+------------------------------------------------------------------------
+hydrocortisone    [美 ,haɪdrə'kɔrtəson / 英 ,haɪdrə(ʊ)'kɔːtɪzəʊn]
+n. [药] 氢化可的松；[生化] 皮质醇
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the principal glucocorticoid secreted by the adrenal cortex; 17-hydroxycorticosterone. The synthesized form is used mainly in treating rheumatic, allergic, and inflammatory disorders. Formula: C21H30O5 氢羟肾上腺皮质素 (Also called cortisol)
+
+========================================================================
+>>> lozenges
+------------------------------------------------------------------------
+lozenges    ['lɔzindʒ]
+n. [数] 菱形，菱形花纹；菱形窗玻璃（lozenge的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Lozenges are sweet tablets which you can suck to make a cough or sore throat better. 止咳糖(含片); 润喉糖
+   ≫   ...throat lozenges.  ...润喉糖。
+2. (N-COUNT) A lozenge is a shape with four corners. The two corners that point up and down are further away than the two pointing sideways. (上下对角为锐角的)菱形
+
+========================================================================
+>>> zinc lozenges
+------------------------------------------------------------------------
+zinc lozenges
+锌含片：锌含片是一种常用于治疗普通感冒的膳食补充剂。在感冒症状出现后24小时内使用超过75毫克/天的锌含片已被证明可以减少感冒症状的持续时间约1天。口服锌含片的副作用包括口感不佳和恶心。使用含锌鼻喷剂可能导致嗅觉丧失，因此，美国食品和药物管理局（USFDA）在2009年6月警告消费者停止使用含锌鼻喷剂。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Though sucking zinc lozenges has been promoted as a treatment for the common cold, research has revealed no consistent effect. 虽然吸锌片已经被推广为治疗普通感冒的药物，但研究显示并没有一致的效果。
+≫   These taste so much better than any other zinc lozenges I've ever had. 比我以前用过的其他锌片滋味好很多。
+≫   And I was disabused of the notion that the zinc lozenges that my family has always used actually had some effect. 我家里常用的锌含化糖片确实有些效果，这个现象也提醒了我，我们人类确实是一个很容易被骗到的种族。
+
+========================================================================
+>>> USFDA
+------------------------------------------------------------------------
+USFDA
+abbr. 美国食品药品监督管理局（United States Food and Drug Administration）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> FBI
+------------------------------------------------------------------------
+FBI    [,ef bi: 'ai]
+abbr. （美国）联邦调查局（Federal Bureau of Investigation）；英国工业联合会（Federation of British Industries）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. ['the' N] The FBI is a government agency in the United States that investigates crimes in which a national law is broken or in which the country's security is threatened. FBI is an abbreviation for "Federal Bureau of Investigation." 美国联邦调查局; Federal Bureau of Investigation的缩写
+
+========================================================================
+>>> bureau
+------------------------------------------------------------------------
+bureau    [美 'bjʊro / 英 'bjʊərəʊ]
+n. 局，处；衣柜；办公桌
+n. (Bureau)人名；(法)比罗
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A bureau is an office, organization, or government department that collects and distributes information. 局
+   ≫   ...the Federal Bureau of Investigation.  …联邦调查局。
+2. [商业] A bureau is an office of a company or organization that has its main office in another city or country. 分公司
+   ≫   ...the Wall Street Journal's Washington bureau.  …《华尔街日报》的华盛顿分社。
+3. [美国英语] A bureau is a chest of drawers. 五斗橱
+4. [英国英语] A bureau is a writing desk with shelves and drawers and a lid that opens to form the writing surface. 写字台
+
+========================================================================
+>>> federal
+------------------------------------------------------------------------
+federal    [美 'fɛdərəl / 英 'fed(ə)r(ə)l]
+adj. 联邦的；同盟的；联邦政府的； 联邦制的
+adv. 联邦政府地
+n. (Federal)人名；(英)费德勒尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] A federal country or system of government is one in which the different states or provinces of the country have important powers to make their own laws and decisions. 联邦制的
+   ≫   Five of the six provinces are to become autonomous regions in a new federal system of government.  在新的联邦政府体制下，6个省中的5个将成为自治区。
+2. [ADJ n] Federal also means belonging or relating to the national government of a federal country rather than to one of the states within it. 联邦政府的
+   ≫   The federal government controls just 6% of the education budget.  联邦政府只掌控教育预算的6％。
+3. [ADV -ed] federally 联邦政府地
+   ≫   ...residents of public housing and federally subsidized apartments.  …公共住房的住户和享受联邦政府补贴的公寓住户。
 
