@@ -29223,3 +29223,1342 @@ Not found :(
 Tom Marvolo Riddle
 汤姆·马沃罗·里德尔
 
+========================================================================
+>>> Matsutake
+------------------------------------------------------------------------
+matsutake    [美 ˌmɑːtsəˈtɑːki / 英 ˌmætsʊˈtɑːki; ˌmætsʊˈtækɪ]
+松茸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Zhuoma has found matsutake under the pine needles. 卓玛在松针下找到的是松茸。
+≫   We can usually only find one matsutake every kilometer. 一般走一公里的路才能找到一朵松茸。
+≫   Matsutake yields were once high, but the price was low. 以前的产量是很多，但是价格很低。
+
+========================================================================
+>>> Tricholoma
+------------------------------------------------------------------------
+tricholoma    [,trikə'ləumə]
+n. 口蘑属；[植] 缘毛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective:To study the chemical constituents of Tricholoma saponaceum. 目的：研究皂味口蘑的化学成分。
+≫   Result: Tricholoma Matsutake markedly inhibited K562 cell proliferation. 结果：松茸对K562细胞增殖具有明显的抑制作用。
+≫   Objective: To study the antitumor effect of Tricholoma Matsutake on K562 cells. 前言：目的：研究松茸多糖对K562细胞增殖与分化的影响。
+
+========================================================================
+>>> Tricholoma Matsutake
+------------------------------------------------------------------------
+tricholoma matsutake
+松茸：一种高级食用菌，具有独特的香味和口感，常用于烹饪和料理。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Result: Tricholoma Matsutake markedly inhibited K562 cell proliferation. 结果：松茸对K562细胞增殖具有明显的抑制作用。
+≫   Objective: To study the antitumor effect of Tricholoma Matsutake on K562 cells. 前言：目的：研究松茸多糖对K562细胞增殖与分化的影响。
+≫   Ions resin used to the removal of Tricholoma matsutake polysaccharide protein effects reasonably well. 采用阴阳离子树脂法来脱除松茸多糖中的蛋白质效果相当理想。
+
+========================================================================
+>>> truffle
+------------------------------------------------------------------------
+truffle    [美 'trʌfl / 英 'trʌf(ə)l]
+n. [植] 松露；块菌；松露巧克力糖
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A truffle is a soft round sweet made with chocolate. 圆形巧克力软糖
+2. (N-COUNT) A truffle is a round type of fungus which is expensive and considered very good to eat. 松露
+
+========================================================================
+>>> matsutake
+------------------------------------------------------------------------
+matsutake    [美 ˌmɑːtsəˈtɑːki / 英 ˌmætsʊˈtɑːki; ˌmætsʊˈtækɪ]
+松茸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Zhuoma has found matsutake under the pine needles. 卓玛在松针下找到的是松茸。
+≫   We can usually only find one matsutake every kilometer. 一般走一公里的路才能找到一朵松茸。
+≫   Matsutake yields were once high, but the price was low. 以前的产量是很多，但是价格很低。
+
+========================================================================
+>>> black truffle
+------------------------------------------------------------------------
+black truffle    [美 blæk ˈtrʌfl / 英 blæk ˈtrʌfl]
+黑松露：一种黑色的可食用地下子实体，尤其是生长在法国、西班牙和意大利的黑色松露。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Marinade: 1tsp Salt, 2tsp White wine, some Black truffle oil. 腌料：盐1茶匙、白酒2茶匙、黑松露油少许。
+≫   Italian Black Truffle, Wild Fungus, Tomato Sauce and Mozzarella Cheese. 意大利黑松露，野生菌类，番茄酱及马苏里拉芝士。
+≫   Black Truffle, Porcini, chanterelle, Butter Mushroom, Cream, Garlic Bread. 黑松露菌，牛肝菌，鸡油菌，白菌，奶油，蒜香面包。
+
+========================================================================
+>>> white truffle
+------------------------------------------------------------------------
+white truffle    [美 waɪt ˈtrʌfl]
+白松露：一种珍贵的食材，产自意大利皮埃蒙特地区，具有独特的香气和味道，常用于烹饪高级菜肴。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And it's the biggest white truffle of 2008, weighing in just over a kilo. 这是2008年最大的白松露菌，重达一千克有余。
+≫   Gunther IV has bought a Miami villa from Madonna and won a rare white truffle in an auction. 冈瑟四世拥有一座从麦当娜手里买来的迈阿密豪宅，还从拍卖会上买来了个稀有的白松露。
+≫   Popular ingredients for dinner parties were Russian caviar, white truffle and champagne. 最受欢迎的晚宴料理有俄罗斯鱼子酱，白松露和香槟。
+
+========================================================================
+>>> morel
+------------------------------------------------------------------------
+morel    [英 mə'rel]
+n. 草笠竹；龙葵
+n. (Morel)人名；(德、法、意、西、罗、捷、葡、英)莫雷尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any edible saprotrophic ascomycetous fungus of the genus Morchella, in which the mushroom has a pitted cap: order Pezizales 羊肚菌
+
+========================================================================
+>>> morchella
+------------------------------------------------------------------------
+Morchella    [英 ˈmɔːtʃeɪlə]
+n. 羊肚菌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Morchella is the worldwide famous edible and medical fungus. 羊肚菌属是世界性著名的野生食、药用真菌。
+≫   Morchella spp. were edible officinal valuable fungi which distributed all of the world widely and the resource was abundant for the wild. 羊肚菌属真菌是珍贵的食药用菌，在世界各地均有分布，野生资源丰富。
+≫   The quantified method of judging inoculating age of Morchella were established, which has avoided human error and the result was satisfactory. 本文建立了羊肚菌液体发酵确定接种菌龄的量化方法，经验证，此方法避免了人为误差，结果比较准确。
+
+========================================================================
+>>> wagyu
+------------------------------------------------------------------------
+wagyu
+和牛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of several Japanese breeds of beef cattle, raised to produce Kobe beef 以及牛; 用于出产神户牛肉的几种日本肉牛
+
+========================================================================
+>>> wagyu beef
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Kobe
+------------------------------------------------------------------------
+Kobe    [英 'kəubi; -bei /  'kəubi; -bei]
+n. 神户（日本本州岛西南岸港市）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   However, it de facto started around the time of the Kobe disaster. 然而，事实上这是从神户灾难时开始的。
+≫   Koichi and Yukiko Fujii, an elderly couple now living in Tokyo, were residents of Kobe when the quake hit there. 一对现在生活在东京的老年夫妇，藤井光一和藤井夕纪子曾是阪神地震时神户的居民。
+≫   These reflections have occurred to me because I read in this morning's paper that Edward Hyde Burton had died at Kobe. 我产生这些想法，是因为我在今天早上的报纸上看到爱德华·海德·伯顿在神户去世的消息。
+
+========================================================================
+>>> Kobe beef
+------------------------------------------------------------------------
+Kobe beef
+神户牛肉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a grade of beef from cattle raised in Kobe, Japan, which is extremely tender and full-flavoured as a result of the cattle being massaged with sake and fed a special diet including large quantities of beer 神户牛肉 (Also called Wagyu)
+
+========================================================================
+>>> Japanese Black Cattle
+------------------------------------------------------------------------
+Japanese black cattle
+日本和牛：指日本培育的黑毛和牛，是一种高品质的肉牛品种。
+
+========================================================================
+>>> Cattle
+------------------------------------------------------------------------
+cattle    [美 'kætl / 英 'kæt(ə)l]
+n. 牛；牲畜（骂人的话）；家畜；无价值的人
+n. (Cattle)人名；(意)卡特莱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Cattle are cows and bulls. 牛
+   ≫   ...the finest herd of beef cattle for two hundred miles.  …方圆200英里内最佳的肉牛群。
+
+========================================================================
+>>> Iberico
+------------------------------------------------------------------------
+iberico
+黑毛猪
+伊比利亚猪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Iberico ham, fine herbs croutons, Mediterranean Caesar dressing. 伊比利亚火腿，香草面包丁，地中海沙拉汁。
+≫   ABSTRACT: Iberico Ham and wine, a delicacy that you can't imagine. 摘要：黑毛猪火腿配红酒，你想不到的美味。
+
+========================================================================
+>>> Iberico Ham
+------------------------------------------------------------------------
+Iberico ham
+伊比利亚火腿
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Iberico ham, fine herbs croutons, Mediterranean Caesar dressing. 伊比利亚火腿，香草面包丁，地中海沙拉汁。
+≫   ABSTRACT: Iberico Ham and wine, a delicacy that you can't imagine. 摘要：黑毛猪火腿配红酒，你想不到的美味。
+
+========================================================================
+>>> Ham
+------------------------------------------------------------------------
+ham    [美 hæm / 英 hæm]
+n. 火腿；业余无线电爱好者；蹩脚演员
+vi. 表演过火
+vt. 演得过火
+adj. 过火的；做作的
+n. (Ham)人名；(英、瑞典、塞)哈姆；(老)罕；(柬)汉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Ham is meat from the top of the back leg of a pig, specially treated so that it can be kept for a long period of time. 火腿
+   ≫   ...ham sandwiches.  …火腿三明治。
+2. (N) the part of the hindquarters of a pig or similar animal between the hock and the hip (猪及其他动物的)后腿肉
+3. [非正式] 
+4. (N) an actor who overacts or relies on stock gestures or mannerisms 表演过火的演员
+5. (N) overacting or clumsy acting 过火的表演; 拙劣的表演
+6. (ADJ) (as modifier) 表演过火的; 表演拙劣的
+   ≫   a ham actor  
+7. [非正式] to overact 过火地表演
+
+========================================================================
+>>> Foie
+------------------------------------------------------------------------
+foie    [fwɑ]
+n. 鹅肝酱；大嘴狼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The affair has provoked a flurry of letters from those for and against foie gras. 此事激起了一连串来自鹅肝支持者和反对者的来信。
+
+========================================================================
+>>> Foie Gras
+------------------------------------------------------------------------
+foie gras    [美 ˌfwɑː ˈɡrɑː / 英 ˌfwɑː ˈɡrɑː]
+肥肝酱：动物（尤其是鹅）的肥肝，通常作为鹅肝酱食用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Foie gras is a food made from the livers of geese that were specially fed so that their livers became very large. 鹅肝
+
+========================================================================
+>>> game meat
+------------------------------------------------------------------------
+game meat    [美 ɡeɪm miːt]
+猎物肉：指从野生动物中获取的肉类，通常包括鹿、野猪、野鸡等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Game Meat Hygiene In Focus: Microbiology, Epidemiology, Risk Analysis And Quality Assurance. 聚焦野味肉类卫生学：微生物学，流行病学，风险分析和质量保证。
+≫   No meat, no wine, no rich game, no women. Only fruit and paraffin oil, arnica drops and adrenalin ointment. 没有肉，没有酒，没有肥野味，也没有女人，只有水果和石蜡油、碘酒和肾上腺素油膏。
+≫   In some regions other animal species such as camels, yaks, horses, ostriches and game animals are also eaten as meat. 在一些地区，其它动物品种，例如：骆驼、牦牛、马、鸵鸟，狩猎动物，也被作为肉类动物食用。
+
+========================================================================
+>>> venison
+------------------------------------------------------------------------
+venison    [英 'venɪs(ə)n; 'venɪz(ə)n / 美 'vɛnəsn]
+n. 鹿肉；野味
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Venison is the meat of a deer. 鹿肉
+   ≫   They had a wonderful lunch of salmon salad and roast venison.  他们吃了一顿很棒的午餐，有鲑鱼沙拉和烤鹿肉。
+
+========================================================================
+>>> pheasant
+------------------------------------------------------------------------
+pheasant    [美 'fɛznt / 英 'fez(ə)nt]
+n. 野鸡；雉科鸟
+n. (Pheasant)人名；(英)菲桑特
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pheasant is a bird with a long tail. Pheasants are often shot as a sport and then eaten. 野鸡
+2. (N-UNCOUNT) Pheasant is the flesh of this bird eaten as food. 野鸡肉
+   ≫   ...roast pheasant.  …烤野鸡肉。
+
+========================================================================
+>>> quail
+------------------------------------------------------------------------
+quail    [美 kwel / 英 kweɪl]
+vi. 畏缩，胆怯；感到恐惧
+n. 鹌鹑
+n. (Quail)人名；(英)奎尔
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A quail is a type of bird that lives on the ground and is often shot and eaten. 鹌鹑
+2. [文学性] If someone or something makes you quail, they make you feel very afraid, often so that you hesitate. 畏缩
+   ≫   The very words make many of us quail.  这几个字眼让我们中的很多人都感到畏缩。
+   ≫   He told Naomi she was becoming just like Maya. Naomi quailed at the thought.  他告诉内奥米说，她正变得像玛雅一样。内奥米让该念头吓住了。
+
+========================================================================
+>>> snow crab
+------------------------------------------------------------------------
+snow crab
+雪蟹：生活在东北太平洋和阿拉斯加以及西北大西洋的几种长腿蟹，常被用作食物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an edible crab with long thin legs found off the coasts of Eastern Canada (东加拿大)雪蟹 [Canadian]
+
+========================================================================
+>>> king crab
+------------------------------------------------------------------------
+king crab    [美 kɪŋ kræb]
+帝王蟹：马蹄蟹或北太平洋的一种非常大的螃蟹，被商业捕捞用于食品。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → another name for the horseshoe crab
+
+========================================================================
+>>> toro
+------------------------------------------------------------------------
+toro    ['tɔːrəʊ / 英 'tɔːrəʊ]
+n. （斗牛用的）公牛
+n. (Toro)人名；(英、西、意、葡、芬、刚(金)、乌干)托罗；(日)瀞(姓)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   “Groovy name, groovy man, groovy politics!” del Toro said of his character. 对于这个角色，del Toro 说：“名字很酷，人很帅，政治很给劲！”
+≫   Toro Rosso confirm GP2 graduate Sebastien Buemi will drive for them in ’09, but his team mate remains unconfirmed. Toro Rosso确认GP2 graduate布艾米将代表他们参加09赛季，但是他的队友仍然没有确定。
+≫   It was a very open, brightly lit place that smelled like vinegar and soy, and I remember the chef calling the names of fish and food - "toro! gyoku!" - for each order. 这是个很宽敞，灯火通明的地方，空气中弥漫着醋和酱油的问道，我还记得主厨念着每一份菜单上鱼和食物的名字“toro! Gyoku!”
+
+========================================================================
+>>> otoro
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> chutoro
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> uni
+------------------------------------------------------------------------
+UNI    ['juni]
+abbr. 印度联合新闻社（United News of India）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] university的缩写 → short for
+
+========================================================================
+>>> oysters
+------------------------------------------------------------------------
+oysters    ['ɔɪstɚ]
+n. [无脊椎] 牡蛎，[无脊椎] 蚝（oyster的复数形式）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An oyster is a large flat shellfish. Some oysters can be eaten and others produce valuable objects called pearls. 牡蛎
+   ≫   He had two dozen oysters and enjoyed every one of them.  他吃了两打牡蛎，每一个都吃得津津有味。
+2. (PHRASE) If you say that the world is someone's oyster, you mean that they can do anything or go anywhere that they want to. 某人可以随心所欲
+   ≫   You're young, you've got a lot of opportunity. The world is your oyster.  你年轻，又得到了很多机会。你可以随心所欲地施展自己。
+
+========================================================================
+>>> reggiano
+------------------------------------------------------------------------
+Reggiano
+巴马干酪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Launched in September 2008 and now called the "Parma reg" by regulars, the beef burger features Italy's popular Parmigiano Reggiano cheese, as well as other key regional ingredients. Parmigiano Reggiano这种牛肉汉堡于2008年9月推出，现在麦当劳的常客们将其称为Parma Reg。这种汉堡用到了在意大利非常受欢迎的Parmigiano Reggian o奶酪以及其他主要具有地方特色的作料。
+
+========================================================================
+>>> brie
+------------------------------------------------------------------------
+Brie    [bri:]
+n. 布里干酪（一种白色柔软的干酪）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Brie is a type of cheese that comes from France. It is soft and creamy with a white skin. 法国布里乳酪
+
+========================================================================
+>>> saffron
+------------------------------------------------------------------------
+saffron    [美 'sæfrən / 英 'sæfr(ə)n]
+n. 藏红花；橙黄色
+adj. 藏红花色的，橘黄色的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Saffron is a yellowish-orange powder obtained from a flower and used to give flavour and colouring to some foods. 藏红花粉
+   ≫   ...saffron rice.  ...藏红花粉米。
+2. (COLOR) Saffron is a yellowish-orange colour. 橘黄色
+   ≫   ...a Buddhist in saffron robes.  ...一尊披着橘黄袍服的佛像。
+
+========================================================================
+>>> caviar
+------------------------------------------------------------------------
+caviar    [美 'kævɪ'ɑr / 英 'kævɪɑː; ,kævɪ'ɑː]
+n. 鱼子酱
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Caviar is the salted eggs of a fish called a sturgeon. 鱼子酱
+
+========================================================================
+>>> matcha
+------------------------------------------------------------------------
+matcha    [美 ˈmɑːtʃə / 英 ˈmætʃə]
+n. 抹茶
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Then he quipped: "As a child, I was more focused on the matcha (green tea) ice cream. 接着他打趣说：“当我还是孩子的时候，我更感兴趣的是抹茶（绿茶）冰激凌。
+≫   Then he quipped: "as a child, I was more focused on the matcha (green tea) ice cream." 接着他打趣说：“当我还是孩子的时候，我更感兴趣的是抹茶(绿茶)冰激凌。”
+≫   Matcha is being used in ice cream, cheese-cakes, cream cheese spreads, white chocolate, latte beverages, hot chocolate etc. 冰淇淋、奶酪蛋糕、奶油干酪片、白巧克力、拿铁饮料和热巧克力等等都可以添加抹茶。
+
+========================================================================
+>>> darjeeling
+------------------------------------------------------------------------
+Darjeeling    [da:'dʒi:liŋ / 英 da:'dʒi:liŋ]
+n. 大吉岭（印度东北部）；大吉岭茶
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the last few decades, farmers in the heavily-forested Darjeeling Hills of the Himalayas in India and Nepal have noticed something strange. 在过去的数十年间，耕耘在印度和尼泊尔境内的喜马拉雅山大吉岭密林深处的农民们，注意到了一些不同寻常的现象。
+≫   Then my brother thought of going to the Darjeeling hills. 之后我哥哥想到大吉岭去。
+
+========================================================================
+>>> earl grey
+------------------------------------------------------------------------
+Earl Grey    [英 ˌɜːl ˈɡreɪ]
+伯爵茶（一种红茶）；格雷伯爵（英国贵族头衔）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a variety of China tea flavoured with oil of bergamot 格雷伯爵茶
+
+========================================================================
+>>> earl
+------------------------------------------------------------------------
+earl    [英 ɜːl / 美 ɜːl]
+n. （英）伯爵
+n. (Earl)人名；(英、挪)厄尔；
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An earl is a British nobleman. 伯爵
+   ≫   ...the first Earl of Birkenhead.  …第一位伯肯黑德伯爵。
+
+========================================================================
+>>> grey
+------------------------------------------------------------------------
+grey    [英 greɪ / 美 ɡre]
+adj. 灰色的；灰白的
+vt. 使变成灰色；使变老
+vi. 变成灰色；老化
+n. 灰色
+n. (Grey)人名；(英、法)格雷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Grey is the colour of ashes or of clouds on a rainy day. 灰色的
+   ≫   ...a grey suit.  …一套灰色西装。
+2. (ADJ) If the weather is grey, there are many clouds in the sky and the light is dull. (天气) 阴沉的
+   ≫   It was a grey, wet, April Sunday.  那是一个阴沉、潮湿、4月里的星期天。
+3. (ADJ) If you describe a situation as grey, you mean that it is dull, unpleasant, or difficult. 阴郁的
+   ≫   Brazilians look gloomily forward to a New Year that even the president admits will be grey and cheerless.  巴西民众沮丧地期待着一个连总统都承认将会是阴郁而沉闷的新年。
+4. [表不满] If you describe someone or something as grey, you think that they are boring and unattractive, and very similar to other things or other people. 无特色的
+   ≫   Miles is one of those little grey men you find in every company.  迈尔斯是那种你在每家公司都找得到的毫无特色的小个子男人。
+
+========================================================================
+>>> Kopi Luwak
+------------------------------------------------------------------------
+Kopi Luwak
+努瓦克咖啡
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Kopi Luwak from Indonesia costs about $160 per pound. 科皮鲁哇克从每磅160美元左右印度尼西亚成本。
+≫   Kopi Luwak coffee, Indonesia. This coffee is made from beans that have been digested by the Asian Palm Civet (a cat sized mammal). Kopi Luwak咖啡：产自印度尼西亚，这种咖啡是用经过一种亚洲棕榈麝香猫(猫般大小的哺乳动物)消化以后的咖啡豆加工的。
+≫   Kopi Luwak. The coffee comes from the Indonesian island of Sumatra and the total annual production is only around 500 pounds of beans. 努瓦克咖啡，这种咖啡产自印度尼西亚的苏门答腊岛，每年仅产500磅的咖啡豆。
+
+========================================================================
+>>> mangoes
+------------------------------------------------------------------------
+mangoes    ['mæŋɡəu]
+n. [园艺] 芒果（mango复数）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A mango is a large, sweet, yellowish fruit which grows on a tree in hot areas. 芒果
+   ≫   Peel, stone, and dice the mango.  把芒果削皮、去核、切成丁。
+2. (N-COUNT) A mango is the tree that this fruit grows on. 芒果树
+   ≫   ...orchards of lime and mango trees.  …有酸橙树和芒果树的果园。
+
+========================================================================
+>>> lychees
+------------------------------------------------------------------------
+lychees
+n. [园艺]荔枝（lychee 的复数）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Lychees are Chinese fruit which have white flesh and a large seed inside and a pinkish-brown skin. 荔枝
+
+========================================================================
+>>> lavender
+------------------------------------------------------------------------
+lavender    [美 'lævəndɚ / 英 'lævəndə]
+n. 薰衣草；淡紫色
+adj. 淡紫色的
+vt. 用薰衣草熏
+n. (Lavender)人名；(英)拉文德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Lavender is a garden plant with sweet-smelling, bluish-purple flowers. 熏衣草
+
+========================================================================
+>>> jam
+------------------------------------------------------------------------
+jam    [美 dʒæm / 英 dʒæm]
+n. 果酱；拥挤；困境；扣篮
+vt. 使堵塞；挤进，使塞满；混杂；压碎
+vi. 堵塞；轧住
+n. (Jam)人名；(伊朗、巴基)贾姆
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you jam something somewhere, you push or put it there roughly. 胡乱地塞
+   ≫   Pete jammed his hands into his pockets.  皮特把他的双手胡乱塞进了他的兜里。
+2. (V-T/V-I) If something such as a part of a machine jams, or if something jams it, the part becomes fixed in position and is unable to move freely or work properly. 卡住
+   ≫   The second time he fired his gun jammed.  他开第二枪时，枪卡壳了。
+   ≫   A rope jammed the boat's propeller.  一条绳子卡住了船的推进器。
+3. (V-T) If vehicles jam a road, there are so many of them that they cannot move. (车辆) 堵塞
+   ≫   Hundreds of departing motorists jammed roads that had been closed during the height of the storm.  数百名要开走的驾车者堵住了在风暴最猛烈时被关闭了的那些公路。
+4. (N-COUNT) Jam is also a noun. 堵塞
+   ≫   400 trucks may sit in a jam for ten hours waiting to cross the limited number of bridges.  400 辆卡车可能会堵上10个小时才能通过有限的几座桥。
+5. (ADJ) jammed 堵塞了的
+   ≫   Nearby roads and the dirt track to the beach were jammed with cars.  附近的公路和通往海滩的土路都堵满了汽车。
+6. (V-T/V-I) If a lot of people jam a place, or jam into a place, they are pressed tightly together so that they can hardly move. 挤满
+   ≫   Hundreds of people jammed the boardwalk to watch.  上百人挤在木板道上观看。
+7. (ADJ) jammed 挤满的
+   ≫   The stadium was jammed and they had to turn away hundreds of disappointed fans.  该体育场挤满了人，他们不得不谢绝上百名失望的球迷入场。
+8. (V-T) To jam a radio or electronic signal means to interfere with it and prevent it from being received or heard clearly. 干扰 (无线电、电子信号等)
+   ≫   They will try to jam the transmissions electronically.  他们会设法用电子手段干扰这些发射。
+9. (N-UNCOUNT) jamming 干扰
+   ≫   The plane is used for electronic jamming and radar detection.  这架飞机用于进行电子干扰和雷达探测。
+10. (V-T) If callers are jamming telephone lines, there are so many callers that the people answering the telephones find it difficult to deal with them all. 堵塞 (电话线路)
+   ≫   Hundreds of callers jammed the switchboard for more than an hour.  上百个来电者堵塞了总机一个多小时。
+11. [英国英语] Jam is a sweet food consisting of pieces of fruit cooked with a large amount of sugar until it is thickened. It is usually spread on bread. 果酱
+   ≫   I had two jam sandwiches.  我吃了两个花生酱果酱三明治。
+
+========================================================================
+>>> lavender jam
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fig jam
+------------------------------------------------------------------------
+fig jam    [美 fɪɡ dʒæm]
+无花果酱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a very conceited person 自负之人 [AUSTRALIAN] [slang]
+
+========================================================================
+>>> creme brulee
+------------------------------------------------------------------------
+creme brulee    [美 ˌkrem bruːˈleɪ / 英 ˌkrem bruːˈleɪ]
+烤奶油布丁：一种甜点，由烤过的奶油和糖构成。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Chocolate platter "chocolate fondant, white chocolate creme brulee, double chocolate chip ice cream"" 巧克力甜品汇“软心巧克力蛋糕，白巧克力奶油布丁，巧克力冰淇淋”
+
+========================================================================
+>>> livestock
+------------------------------------------------------------------------
+livestock    [美 'laɪvstɑk / 英 'laɪvstɒk]
+n. 牲畜；家畜
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT-COLL) Animals such as cattle and sheep which are kept on a farm are referred to as livestock. 家畜
+   ≫   The heavy rains and flooding killed scores of livestock.  大雨和洪水淹死了许多家畜。
+
+========================================================================
+>>> poultry
+------------------------------------------------------------------------
+poultry    [美 'poltri / 英 'pəʊltrɪ]
+n. 家禽
+家禽肉
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) You can refer to chickens, ducks, and other birds that are kept for their eggs and meat as poultry. 家禽
+   ≫   ...a poultry farm.  …一个家禽饲养场。
+2. (N-UNCOUNT) Meat from these birds is also referred to as poultry. 家禽肉
+   ≫   The menu features roast meats and poultry.  菜单以各种烤肉和家禽肉为特色。
+
+========================================================================
+>>> livestock and poultry
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14196
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> cattle and cows
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cattle and cows
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14270
+cattle and cows
+牛和奶牛
+
+========================================================================
+>>> cattle, cow, bull and calf
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14326
+cattle, cow, bull and calf
+牛，母牛，公牛和小牛
+
+========================================================================
+>>> calf
+------------------------------------------------------------------------
+calf    [美 kæf / 英 kɑːf]
+n. [解剖] 腓肠，小腿；小牛；小牛皮；(鲸等大哺乳动物的)幼崽
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A calf is a young cow. 牛犊
+2. (N-COUNT) Some other young animals, including elephants and whales, are called calves. (大象、鲸鱼等的) 幼兽
+3. (N-COUNT) Your calf is the thick part at the back of your leg, between your ankle and your knee. 腓; 小腿肚
+   ≫   ...a calf injury.  …一处小腿的伤。
+
+========================================================================
+>>> Chicken, Hen, Rooster and Cock
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14419
+Chicken, Hen, Rooster and Cock
+鸡，母鸡，公鸡和公鸡
+
+========================================================================
+>>> Chicken, Hen, Rooster and Cock
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14451
+Chicken, Hen, Rooster and Cock
+鸡，母鸡，公鸡和公鸡
+
+========================================================================
+>>> Sheep, Ewe, Ram and Lamb
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14516
+Sheep, Ewe, Ram and Lamb
+绵羊，母羊，公绵羊和小羊羔
+
+========================================================================
+>>> ewe
+------------------------------------------------------------------------
+ewe    [美 ju / 英 juː]
+n. [畜牧] 母羊
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ewe is an adult female sheep. 母羊
+
+========================================================================
+>>> ram
+------------------------------------------------------------------------
+ram    [英 ræm / 美 ræm]
+abbr. 随机存取存储器（random access memory的缩写）；随机访问内存（random-access memory的缩写）
+n. 公羊；撞锤；撞击装置；有撞角的军舰；（水压机的）[机] 活塞
+v. 撞击；填塞；强迫通过或接受
+n. (Ram)人名；(英、印、尼、不丹、瑞典)拉姆
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a vehicle rams something such as another vehicle, it crashes into it with a lot of force, usually deliberately. (通常指故意地) 猛烈撞击
+   ≫   The thieves fled, ramming the policeman's car.  小偷们撞了警车，逃跑了。
+2. (V-T) If you ram something somewhere, you push it there with great force. 猛推
+   ≫   He rammed the key into the lock and kicked the front door open.  他猛地把钥匙插进锁里，踢开了前门。
+3. (N-COUNT) A ram is an adult male sheep. 公羊
+4. (PHRASE) If something rams home a message or a point, it makes it clear in a way that is very forceful and that people are likely to listen to. 充分讲明
+   ≫   The report by the chairman will ram this point home.  主席的报告将充分地讲明这一点。
+5. to ram something down someone's throat →see
+
+========================================================================
+>>> hen
+------------------------------------------------------------------------
+hen    [美 hɛn / 英 hen]
+n. 母鸡；女人；雌禽
+n. (Hen)人名；(日)边(姓)；(法)昂；(波、柬)亨
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hen is a female chicken. People often keep hens in order to eat or sell their eggs. 母鸡
+
+========================================================================
+>>> calf
+------------------------------------------------------------------------
+calf    [美 kæf / 英 kɑːf]
+n. [解剖] 腓肠，小腿；小牛；小牛皮；(鲸等大哺乳动物的)幼崽
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A calf is a young cow. 牛犊
+2. (N-COUNT) Some other young animals, including elephants and whales, are called calves. (大象、鲸鱼等的) 幼兽
+3. (N-COUNT) Your calf is the thick part at the back of your leg, between your ankle and your knee. 腓; 小腿肚
+   ≫   ...a calf injury.  …一处小腿的伤。
+
+========================================================================
+>>> swine
+------------------------------------------------------------------------
+swine    [美 swaɪn / 英 swaɪn]
+n. 猪；卑贱的人
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] If you call someone a swine, you dislike them or think that they are a bad person, usually because they have behaved unpleasantly toward you. 讨厌鬼; 下流坯
+2. [老式] A swine is a pig. 猪
+   ≫   ...imports of live swine from Canada.  ...从加拿大进口的活猪。
+
+========================================================================
+>>> sow
+------------------------------------------------------------------------
+sow    [美 so / 英 səʊ]
+vt. 播种；散布；使密布
+vi. 播种
+n. 母猪
+n. (Sow)人名；(几、马里、乍、毛里塔、塞内)索乌
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you sow seeds or sow an area of land with seeds, you plant the seeds in the ground. 播 (种)
+   ≫   Sow the seed in a warm place in February/March.  2/3月里把种子播在温暖的地方。
+2. (V-T) If someone sows an undesirable feeling or situation, they cause it to begin and develop. 散布
+   ≫   He cleverly sowed doubts into the minds of his rivals.  他巧妙地在他对手们的心里布下了疑云。
+3. (PHRASE) If one thing sows the seeds of another, it starts the process which leads eventually to the other thing. 播下某事的种子
+   ≫   Rich industrialized countries have sown the seeds of global warming.  富裕的工业化国家已经播下了使全球变暖的种子。
+4. (PHRASE) 
+5. (N-COUNT) A sow is an adult female pig. 成年母猪
+
+========================================================================
+>>> boar
+------------------------------------------------------------------------
+boar    [美 bɔr / 英 bɔː]
+n. 野猪；（未阉的）公猪
+n. (Boar)人名；(罗)博阿尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A boar or a wild boar is a wild pig. 野猪
+   ≫   Wild boar are numerous in the valleys.  这些山谷里有无数的野猪。
+2. (N-COUNT) A boar is a male pig. 公猪
+
+========================================================================
+>>> piglet
+------------------------------------------------------------------------
+piglet    [美 'pɪɡlət / 英 'pɪɡlət]
+n. 小猪（尤指乳猪）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A piglet is a young pig. 小猪
+
+========================================================================
+>>> pig, swine, sow, boar and piglet
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14822
+pig, swine, sow, boar and piglet
+猪，猪，母猪，公猪和小猪
+
+========================================================================
+>>> turkey
+------------------------------------------------------------------------
+turkey    [英 'tɜːkɪ / 美 'tɝki]
+n. 火鸡；笨蛋；失败之作
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A turkey is a large bird that is kept on a farm for its meat. 火鸡
+2. (N-UNCOUNT) Turkey is the meat of this bird eaten as food. 火鸡肉
+   ≫   They will sit down to a traditional turkey dinner early this afternoon.  他们今天下午早些时候将坐下来吃一顿传统的火鸡宴。
+
+========================================================================
+>>> Turkiye
+------------------------------------------------------------------------
+Turkiye    [美 ˈtʊrkɪə / 英 ˈtʊəkɪə]
+n. 土耳其语；土耳其
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   BBVA agreed to purchase a 24.9 percent stake in Turkiye Garanti Bankasi AS for $5.8 billion. 西班牙对外银行同意以58亿美元收购土耳其担保银行（Turkiye Garanti Bankasi）24.9%的股份。
+≫   Mark: But I would like to go on — I think in Europe, especially, if you go to a place like Turkiye, Spain, you can do like four and five day raft trips, where you camp as well at the side. 马克：不过我很想继续玩，如果要是在土耳其和西班牙这样的地方，可以进行四五天的漂流之旅，在漂流地附近露营。
+
+========================================================================
+>>> canary
+------------------------------------------------------------------------
+canary    [美 kə'nɛri / 英 kə'neərɪ]
+n. [鸟] 金丝雀；淡黄色
+n. (Canary)人名；(英)卡纳里
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Canaries are small, yellow birds which sing beautifully and are often kept as pets. 金丝雀
+
+========================================================================
+>>> budgerigar
+------------------------------------------------------------------------
+budgerigar    [美 'bʌdʒərɪɡɑr / 英 'bʌdʒ(ə)rɪgɑː]
+n. [鸟] 虎皮鹦鹉；相思鹦鹉（等于budgie）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Budgerigars are small, brightly-coloured birds from Australia that people often keep as pets. 虎皮鹦鹉
+
+========================================================================
+>>> hamster
+------------------------------------------------------------------------
+hamster    [美 'hæmstɚ / 英 'hæmstə]
+n. 仓鼠；仓鼠毛皮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hamster is a small furry animal which is similar to a mouse, and which is often kept as a pet. 仓鼠
+
+========================================================================
+>>> guinea pig
+------------------------------------------------------------------------
+guinea pig    [美 ˈɡɪni pɪɡ / 英 ˈɡɪni pɪɡ]
+豚鼠：一种小型、矮胖、无尾巴的家养啮齿动物（Cavia porcellus），原产于南美洲，通常作为宠物饲养，并广泛用于生物研究。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If someone is used as a guinea pig in an experiment, something is tested on them that has not been tested on people before. 作为实验对象的人
+   ≫   Dr. Roger Altounyan used himself as a human guinea pig.  罗杰• 奥托扬医生拿自己作为实验对象。
+2. (N-COUNT) A guinea pig is a small, furry animal without a tail. Guinea pigs are often kept as pets. 豚鼠
+
+========================================================================
+>>> cavie
+------------------------------------------------------------------------
+cavie
+n. 母鸡栏
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a hen coop 母鸡栏 [SCOTTISH]
+
+========================================================================
+>>> ferret
+------------------------------------------------------------------------
+ferret    [美 'fɛrɪt / 英 'ferɪt]
+vt. 搜出，查获；驱出；用雪貂猎取
+vi. 搜索，侦破
+n. 雪貂；白鼬；侦探
+n. (Ferret)人名；(法)费雷；(英)费里特
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ferret is a small, fierce animal which is used for hunting rabbits and rats. 白鼬
+2. (N) silk binding tape 丝制粘胶带
+3. (V) to find by persistent investigation (经常性地)搜查
+
+========================================================================
+>>> sable
+------------------------------------------------------------------------
+sable    [英 'seɪb(ə)l / 美 'sebl]
+n. [脊椎] 黑貂；黑貂皮；丧服
+adj. 黑的；黑貂皮的；昏暗的
+n. (Sable)人名；(英)塞布尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A sable is a small furry animal with valued fur. 黑貂
+2. [oft N n] Sable is the fur of a sable. 黑貂皮
+   ≫   ...a full-length sable coat.  ...一件黑貂长大衣。
+
+========================================================================
+>>> lizard
+------------------------------------------------------------------------
+lizard    [美 'lɪzɚd / 英 'lɪzəd]
+n. 蜥蜴；类蜥蜴爬行动物
+n. (Lizard)人名；(法)利扎尔
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A lizard is a reptile with short legs and a long tail. 蜥蜴
+
+========================================================================
+>>> gecko
+------------------------------------------------------------------------
+gecko    [美 'gɛko / 英 'gekəʊ]
+n. [脊椎] 壁虎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any small insectivorous terrestrial lizard of the family Gekkonidae, of warm regions. The digits have adhesive pads, which enable these animals to climb on smooth surfaces 壁虎
+
+========================================================================
+>>> leopard gecko
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15215
+leopard gecko
+豹纹守宫：一种小型、夜行性的蜥蜴，原产于亚洲和中东地区，以昆虫为食，因其豹纹般的斑点而得名。
+
+========================================================================
+>>> leopard cat
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15253
+leopard cat
+豹猫：一种小型有斑点的野猫，主要分布在东南亚地区。
+
+========================================================================
+>>> edible
+------------------------------------------------------------------------
+edible    [美 'ɛdəbl / 英 'edɪb(ə)l]
+adj. 可食用的
+n. 食品；食物
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is edible, it is safe to eat and not poisonous. 可食用的
+   ≫   ...edible fungi.  …食用菌。
+
+========================================================================
+>>> edible birds
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> edible birds
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15350
+edible birds
+可食用的鸟类
+
+========================================================================
+>>> quail
+------------------------------------------------------------------------
+quail    [美 kwel / 英 kweɪl]
+vi. 畏缩，胆怯；感到恐惧
+n. 鹌鹑
+n. (Quail)人名；(英)奎尔
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A quail is a type of bird that lives on the ground and is often shot and eaten. 鹌鹑
+2. [文学性] If someone or something makes you quail, they make you feel very afraid, often so that you hesitate. 畏缩
+   ≫   The very words make many of us quail.  这几个字眼让我们中的很多人都感到畏缩。
+   ≫   He told Naomi she was becoming just like Maya. Naomi quailed at the thought.  他告诉内奥米说，她正变得像玛雅一样。内奥米让该念头吓住了。
+
+========================================================================
+>>> pigeon
+------------------------------------------------------------------------
+pigeon    [美 'pɪdʒɪn / 英 'pɪdʒɪn; 'pɪdʒ(ə)n]
+n. 鸽子
+n. (Pigeon)人名；(法)皮容；(英)皮金
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pigeon is a bird, usually grey in colour, that has a fat body. Pigeons often live in cities and towns. 鸽子
+2. [非正式] concern or responsibility (often in the phrase it's his, her, etc, pigeon) 问题或责任(常出现在“这是他的、她的”等短语中)
+
+========================================================================
+>>> squab
+------------------------------------------------------------------------
+squab    [美 skwɑːb / 英 skwɒb]
+n. 雏鸟；矮胖子
+adj. 矮胖的；刚孵出的，羽毛未丰的
+adv. 沉重地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a young unfledged bird, esp a pigeon 乳鸽
+2. (ADJ) (of birds) recently hatched and still unfledged (鸟)刚孵出的; 羽翼未丰的
+
+========================================================================
+>>> rock pigeon
+------------------------------------------------------------------------
+rock pigeon
+原鸽，野鸽
+alsorockpigeon
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a common dove, Columba livia, from which domestic and feral pigeons are descended. It has a pale grey plumage with black-striped wings 原鸽
+
+========================================================================
+>>> edible insects
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15515
+edible insects
+可食用昆虫：指那些可以安全食用的昆虫，通常富含蛋白质和营养，是一种可持续的食物来源。
+
+========================================================================
+>>> scorpion
+------------------------------------------------------------------------
+scorpion    [美 skɔrpɪən / 英 'skɔːpɪən]
+n. 蝎子；蝎尾鞭；心黑的人
+n. (Scorpion)人名；(英)斯科皮恩
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A scorpion is a small creature which looks like a large insect. Scorpions have a long curved tail, and some of them are poisonous. 蝎子
+
+========================================================================
+>>> grasshopper
+------------------------------------------------------------------------
+grasshopper    [美 'ɡræshɑpɚ / 英 'grɑːshɒpə]
+n. 蚱蜢；[植保] 蝗虫；小型侦察机
+vi. 见异思迁；蚱蜢似地跳
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grasshopper is an insect with long back legs that jumps high into the air and makes a high, vibrating sound. 蚱蜢
+
+========================================================================
+>>> silkworm pupage
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> silkworm pupae
+------------------------------------------------------------------------
+silkworm pupae
+蚕蛹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The nutrition of oak silkworm pupae was analysed and compared. 通过对柞蚕蛹营养成份的分析及比较 ，进行了营养的评价。
+≫   The results showed that the Protein from Silkworm Pupae is abundant in Amino acid. 实验结果表明，蚕蛹蛋白氨基酸含量丰富，种类齐全。
+≫   With a 10% lower cost, silkworm pupae offer a sound evidence for the mass production in industry. 蚕蛹酱油口感更加鲜香，成本降低10%，为工业化生产提供了依据。
+
+========================================================================
+>>> pupae
+------------------------------------------------------------------------
+pupae    ['pju:pi:]
+n. 蛹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "In the good old days, we could find individual leaves at the right time of year covered in pupae," he says. “在过去的美好的日子里，我们能在合适的时间找到正确的叶子上面覆盖这瓢虫的蛹，”他说。
+≫   The bacteria can also spread to mosquito offspring, as they were found in the eggs, ovaries and testes of mosquitoes and also in pupae and larvae. 这种细菌还可以传给蚊子的后代，因为在蚊子的卵细胞、生殖腺、蛹和幼虫体内都发现了这种细菌。
+≫   Healthy larvae form small cocoons, become pupae, then emerge as young bees. 健康的幼虫形成小茧，变成蛹，然后破茧而出，长成幼蜂。
+
+========================================================================
+>>> silkworm
+------------------------------------------------------------------------
+silkworm    [美 ˈsɪlkwɜːrm / 英 ˈsɪlkwɜːm]
+n. 蚕，桑蚕
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A silkworm is the young form of a Chinese moth and it produces silk. 蚕
+
+========================================================================
+>>> cricket
+------------------------------------------------------------------------
+cricket    [美 'krɪkɪt / 英 'krɪkɪt]
+n. 板球，板球运动；蟋蟀
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cricket is an outdoor game played between two teams. Players try to score points, called runs, by hitting a ball with a wooden bat. 板球
+   ≫   During the summer term we would play cricket at the village ground.  夏季学期里我们常在村里的空地上玩板球。
+2. (N-COUNT) A cricket is a small jumping insect that produces short, loud sounds by rubbing its wings together. 蟋蟀
+3. (N-COUNT) a small low stool 小矮凳
+4. (V) to play cricket 打板球
+
+========================================================================
+>>> bamboo worm
+------------------------------------------------------------------------
+bamboo worm
+缩头虫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He has fed these robins a formula of “hamburg, chicken mash, kibbled worm and orange juice” for several days from a “yellow bamboo stick, split at one end, like a robin’s bill.” 连续几天，我用一根“像鸟嘴一样、黄色、一头削尖的的竹签”给它们喂食，食料的配方是“汉堡包、鸡肉泥、碎虫子、橘子汁”。
+≫   Bamboo charcoal has great functions such as absorbing, conditioning humidity, removing stink, eliminating strange odor avoiding worm etc. 竹炭具有超强的吸附、调湿、消臭、除味、防虫等诸多功能。
+
+========================================================================
+>>> worm
+------------------------------------------------------------------------
+worm    [英 wɜːm / 美 wɝm]
+n. 虫，蠕虫；蜗杆；螺纹；小人物
+vt. 使蠕动；给除虫；使缓慢前进
+vi. 慢慢前进；蠕行
+n. (Worm)人名；(德、丹、葡)沃尔姆
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A worm is a small animal with a long thin body, no bones, and no legs. 蠕虫
+2. [表不满] If you say that someone is worming their way to success, or is worming their way into someone else's affection, you disapprove of the way that they are gradually making someone trust them or like them, often in order to deceive them or gain some advantage. 赢得 (欢心等)
+   ≫   She never misses a chance to worm her way into the public's hearts.  她从不错过任何讨公众喜爱的机会。
+3. [计算机] A worm is a computer program that contains a virus which duplicates itself many times in a network. 蠕虫病毒
+   ≫   ...a new computer worm that disables security software.  …一种使安全软件失灵的新型计算机蠕虫病毒。
+4. (PHRASE) If you say that someone is opening a can of worms, you are warning them that they are planning to do or talk about something that is much more complicated, unpleasant, or difficult than they realize and that might be better left alone. 马蜂窝
+   ≫   Introducing this legislation would be like opening a can of worms.  提出这项法规会像捅了马蜂窝一样。
+
+========================================================================
+>>> hedgehog
+------------------------------------------------------------------------
+hedgehog    [英 ˈhedʒhɒg / 美 ˈhedʒhɔ:g;ˈhɛdʒˌhɑɡ]
+n. 刺猬
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hedgehog is a small brown animal with sharp spikes covering its back. 刺猬
+
+========================================================================
+>>> groundhog
+------------------------------------------------------------------------
+groundhog    [英 'graʊndhɒg]
+n. 土拨鼠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A groundhog is a type of small animal with reddish brown fur that is found in North America. 土拨鼠
+   ≫   We once watched a red fox attacking a groundhog.  我们曾看见一只红狐攻击一只土拨鼠。
+
+========================================================================
+>>> premium
+------------------------------------------------------------------------
+premium    [美 'primɪəm / 英 'priːmɪəm]
+n. 额外费用；奖金；保险费;(商)溢价
+adj. 高价的；优质的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A premium is a sum of money that you pay regularly to an insurance company for an insurance policy. 保险费
+   ≫   It is too early to say whether insurance premiums will be affected.  保险费会不会受到影响现在判定还为时过早。
+2. (N-COUNT) A premium is a sum of money that you have to pay for something in addition to the normal cost. 附加费
+   ≫   Even if customers want "solutions," most are not willing to pay a premium for them.  即使顾客们想要“解决方案”，大部分人不愿意为此支付附加费。
+3. [ADJ n] Premium products are of a higher than usual quality and are often expensive. 高端的
+   ≫   At the premium end of the market, business is booming.  在市场的高端销售区，生意火暴。
+4. (PHRASE) If something is at a premium, it is wanted or needed, but is difficult to get or achieve. 求之难得
+   ≫   If space is at a premium, choose adaptable furniture that won't fill the room.  如果空间很有限，就选购不太占地方的可改装家具。
+5. (PHRASE) If you buy or sell something at a premium, you buy or sell it at a higher price than usual, for example, because it is in short supply. 以高价 (买、卖)
+   ≫   He eventually sold the shares back to the bank at a premium.  他最终以高价将股票返售给了银行。
+
+========================================================================
+>>> tonic
+------------------------------------------------------------------------
+tonic    [美 'tɑnɪk / 英 'tɒnɪk]
+n. 补药；主调音或基音
+adj. 滋补的；声调的；使精神振作的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Tonic or tonic water is a colourless carbonated drink that has a slightly bitter flavour and is often mixed with alcoholic drinks, especially gin. 奎宁水
+   ≫   Keeler sipped at his gin and tonic.  基勒小口呷着杜松子酒奎宁水。
+2. (N-MASS) A tonic is a medicine that makes you feel stronger, healthier, and less tired. 补药
+   ≫   People are spending twice as much on health tonics as they were five years ago.  人们花在保健补药上的钱是5年前的两倍。
+
+========================================================================
+>>> tonic water
+------------------------------------------------------------------------
+tonic water
+通宁水：一种碳酸饮料，加入少量的奎宁、柠檬和青柠味道。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Here you are, your tonic water. 这是您的汤力水，请慢用。
+≫   Fill with tonic water. 填写与奎宁水。
+≫   Grey Goose, tonic water, grapefruit wedge. 灰雁伏特加，汤力水，西柚角。
+
+========================================================================
+>>> premium tonic foods
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15990
+premium tonic foods
+优质滋补食品
+
+========================================================================
+>>> cucumber
+------------------------------------------------------------------------
+cucumber    [美 'kjʊ,kʌmbɚ / 英 'kjuːkʌmbə]
+n. 黄瓜；胡瓜
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A cucumber is a long thin vegetable with a hard green skin and wet transparent flesh. It is eaten raw in salads. 黄瓜
+   ≫   ...a cheese and cucumber sandwich.  …一个奶酪黄瓜三明治。
+
+========================================================================
+>>> trepang
+------------------------------------------------------------------------
+trepang    [美 trɪˈpæŋ / 英 trɪˈpæŋ]
+n. 海参
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various large sea cucumbers of tropical Oriental seas, the body walls of which are used as food by the Japanese and Chinese (产于热带东方海域的)海参 (Also called bêche-de-mer)
+
+========================================================================
+>>> sea cucumber
+------------------------------------------------------------------------
+sea cucumber    [英 ˌsiː ˈkjuːkʌmbə(r)]
+海参：一种具有坚韧的肌肉伸长体和环绕口的触手的棘皮动物纲（Holothurioidea）的任何一种，也称为海参。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any echinoderm of the class Holothuroidea, having an elongated body covered with a leathery skin and bearing a cluster of tentacles at the oral end. They usually creep on the sea bed or burrow in sand 海参
+
+========================================================================
+>>> abalone
+------------------------------------------------------------------------
+abalone    [英 ,æbə'ləʊnɪ / 美 ,æbə'loni]
+n. [无脊椎] 鲍鱼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Abalone is a shellfish that you can eat and that has a shiny substance called mother-of-pearl inside its shell. 鲍鱼
+
+========================================================================
+>>> bird's nest
+------------------------------------------------------------------------
+bird's nest
+鸟巢：指鸟类用来产卵和孵化幼鸟的巢。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is also called "the Bird's Nest". 它也被称为“鸟巢”。
+≫   Have you ever been to the Bird's Nest? 你去过鸟巢吗？
+≫   They call it "The Bird's Nest". 人们把它叫做“鸟巢”。
+
+========================================================================
+>>> swift
+------------------------------------------------------------------------
+swift    [美 swɪft / 英 swɪft]
+n. 褐雨燕
+adj. 快的；迅速的；敏捷的；立刻的
+adv. 迅速地
+n. (Swift)人名；(英)斯威夫特
+n. 苹果公司开创的新款编程语言，应用于iOS 8及以上的应用程序
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A swift event or process happens very quickly or without delay. 迅速的
+   ≫   Our task is to challenge the U.N. to make a swift decision.  我们的任务是敦促联合国做出迅速的决定。
+2. (ADV) swiftly 迅速地
+   ≫   Wall Street reacted swiftly to yesterday's verdict.  华尔街对昨天的裁决迅速地做出了反应。
+3. (ADJ) Something that is swift moves very quickly. 快速移动的
+   ≫   With a swift movement, Matthew Jerrold sat upright.  马修·杰罗德迅速地坐直了。
+4. [ADV with v] swiftly 快速移动地
+   ≫   Lenny moved swiftly and silently across the front lawn.  兰尼快速并且无声地穿过前面的草坪。
+5. (N-COUNT) A swift is a small bird with long curved wings. 雨燕
+
+========================================================================
+>>> swiftlet
+------------------------------------------------------------------------
+swiftlet    [美 ˈswɪftlɪt / 英 ˈswɪftlɪt]
+n. 金丝燕
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various small swifts of the Asian genus Collocalia that often live in caves and use echolocation: the nests, which are made of hardened saliva, are used in oriental cookery to make birds' nest soup 金丝燕
+
+========================================================================
+>>> swiftlet nest
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> swiftlet nest
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16270
+swiftlet nest
+金丝燕巢
+
+========================================================================
+>>> shark fin
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16311
+shark fin
+鱼翅：鲨鱼的鳍，特指背鳍、胸鳍或尾鳍。
+
+========================================================================
+>>> maw
+------------------------------------------------------------------------
+maw    [美 mɔ / 英 mɔː]
+n. （动物的）胃；嗉囊（鸟的）；（动物的）咽喉
+n. (Maw)人名；(英、缅)莫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing, usu with supp] If you describe something as a maw, you mean that it is like a big open mouth which swallows everything near it. (像吞噬一切的)大嘴
+   ≫   They were helping to chop wood to feed the red maw of the stove.  他们在帮助劈木头，然后丢进炉子那火红的大嘴里。
+
+========================================================================
+>>> fish maw
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16383
+fish maw
+鱼鳔：鱼的气囊。
+
+========================================================================
+>>> bladder
+------------------------------------------------------------------------
+bladder    [美 'blædɚ / 英 'blædə]
+n. 膀胱；囊状物，可充气的囊袋
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your bladder is the part of your body where urine is stored until it leaves your body. See also . 膀胱
+   ≫   ...an opportunity to empty a full bladder.  …将涨满的膀胱排空的机会。
+
+========================================================================
+>>> fish bladder
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16457
+fish bladder
+鱼鳔
+
+========================================================================
+>>> cordyceps
+------------------------------------------------------------------------
+Cordyceps    ['kɔ:diseps]
+n. 冬虫夏草（药材）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The product is a new resource food made of main raw materials, including cordyceps fungi powder, ginsenoside, donkey spermary, hartshorn and so on. 这种产品是以虫草菌粉、人参皂苷、驴睾丸、鹿茸等为主要原料制成的新资源食品。
+≫   The broth of Cordyceps militaris fermentation contained antimicrobial active substances. 蛹虫草发酵液中具有抗菌活性物质。
+≫   Cordyceps hence the name. 冬虫夏草因此得名。
+
+========================================================================
+>>> caterpillar
+------------------------------------------------------------------------
+caterpillar    [美 'kætɚpɪlɚ / 英 'kætəpɪlə]
+n. [无脊椎] 毛虫；履带车
+adj. 有履带装置的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A caterpillar is a small, worm-like animal that feeds on plants and eventually develops into a butterfly or moth. 毛虫
+
+========================================================================
+>>> pillar
+------------------------------------------------------------------------
+pillar    [美 'pɪlɚ / 英 'pɪlə]
+n. 柱子，柱形物；栋梁；墩
+vt. 用柱支持
+n. (Pillar)人名；(英)皮勒
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pillar is a tall solid structure that is usually used to support part of a building. 柱子
+   ≫   ...the pillars supporting the roof.  …支撑屋顶的柱子。
+2. (N-COUNT) If something is the pillar of a system or agreement, it is the most important part of it or what makes it strong and successful. (系统、协议的) 核心
+   ≫   The pillar of her economic policy was keeping tight control over money supply.  她的经济政策的核心就是严格控制货币供应。
+3. [表赞许] If you describe someone as a pillar of society or as a pillar of the community, you approve of them because they play an important and active part in society or in the community. 栋梁
+   ≫   My father is a pillar of the community.  我父亲是社区的顶梁柱。
+
+========================================================================
+>>> fungus
+------------------------------------------------------------------------
+fungus    [英 'fʌŋgəs / 美 'fʌŋɡəs]
+n. 真菌，霉菌；菌类
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) A fungus is a plant that has no flowers, leaves, or green colouring, such as a mushroom or a toadstool. Other types of fungus such as mould are extremely small and look like a fine powder. 菌类
+
+========================================================================
+>>> sinensis
+------------------------------------------------------------------------
+sinensis
+拉丁词，表示“来自中国”或“与中国有关”。常用于生物学命名，表示某种生物的原产地或特征与中国有关。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The property of polysaccharide gums in Gleditsia sinensis Lam is studied. 对皂荚的多糖胶性质进行了研究。
+≫   The sporogony duration of Plasmodium vivax in An. sinensis were observed. 观察疟原虫的产孢期。
+≫   The methods were applied to study the face of tunica mucosa of the Trionyx sinensis. 该方法用于研究中华鳖消化道粘膜表面。
+
+========================================================================
+>>> cordyceps sinensis
+------------------------------------------------------------------------
+cordyceps sinensis
+冬虫夏草：一种珍贵的中草药，被认为具有多种保健功效，包括增强免疫力、提高体力和抗疲劳等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What is the price of Cordyceps sinensis now? 现在冬虫夏草的价格是多少？
+≫   Does buying where to have Cordyceps sinensis discuss? 哪里有冬虫夏草的收购商?。
+≫   Result:Same strain of anamorph of Cordyceps sinensis was obtained with 4 different methods. 结果：采用4种方法获得了性状特证与中国被毛孢相同的无性型菌株。
+
+========================================================================
+>>> caterpillar fungus
+------------------------------------------------------------------------
+caterpillar fungus
+冬虫夏草：一种属于冬虫夏草属（Cordyceps）的真菌。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Duck with Chinese Caterpillar Fungus? 虫草鸭子？那是一种保健食品，对吧？
+≫   Notably, a speculative craze has gripped the market for caterpillar fungus. 更值得注意的是，投机热潮已经紧紧覆盖了冬虫夏草市场。
+≫   If you want to buy Chinese caterpillar fungus, welcome to our customer service consulting the most timely price. 如果你要购买冬虫夏草，欢迎向我们的客服咨询最及时的价格。
+
+========================================================================
+>>> antler
+------------------------------------------------------------------------
+antler    [美 'æntlɚ / 英 'æntlə]
+n. 鹿角，茸角；多叉鹿角
+n. (Antler)人名；(法)安特莱；(英)安特勒
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A male deer's antlers are the branched horns on its head. 鹿角
+
+========================================================================
+>>> velvet
+------------------------------------------------------------------------
+velvet    [英 ˈvɛlvɪt / 美 'vɛlvɪt]
+n. 天鹅绒，丝绒；天鹅绒似的东西
+adj. 天鹅绒的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Velvet is soft material made from cotton, silk, or nylon, that has a thick layer of short cut threads on one side. 天鹅绒
+   ≫   ...a charcoal-grey overcoat with a velvet collar.  …一件带天鹅绒衣领的深灰色大衣。
+
+========================================================================
+>>> velvet antler
+------------------------------------------------------------------------
+velvet antler
+鹿茸
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   New Zealand offers the best environment to Grow Velvet antler. 纽西兰提供了培养鹿茸的最佳环境。
+≫   The estrogen hormone most affected by velvet antler is estradiol. 鹿茸也能提高雌性激素的水平，雌性激素主要支持雌性特征。
+≫   Main chemical composition of Northeast sika deer (Cervus nippon hortulorum) velvet antler was analyzed in this study. 本试验通过两个方面对东北梅花鹿茸的化学成分进行了比较性研究。
+
+========================================================================
+>>> deer antler
+------------------------------------------------------------------------
+deer antler
+鹿茸：一种中药材，取自雄性鹿的新生角，具有滋补强壮、益气补血等功效。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sika deer is a deer antler velvet produced by the most in the top grade. 梅花鹿所产的鹿茸是鹿茸中的最上品。
+≫   The methods of isolation and culture sika deer antler chondrocytes were established. 建立梅花鹿鹿茸软骨细胞的分离培养方法，培养鹿茸软骨细胞。
+≫   Note: lu jiao shuang can be used to substitute lu jiao jiao (deer antler glue) but the effect is weaker. 注﹕鹿角霜可以代替鹿角胶入药，但功力略缓。
+
+========================================================================
+>>> deer antler velvet
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> deer antler velvet
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：16879
+deer antler velvet
+鹿茸绒
+
+========================================================================
+>>> ginseng
+------------------------------------------------------------------------
+ginseng    [美 'dʒɪnsɛŋ / 英 'dʒɪnseŋ]
+n. 高丽参，人参
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Ginseng is the root of a plant found in China, Korea, and America which some people believe is good for your health. 人参
+
+========================================================================
+>>> goji
+------------------------------------------------------------------------
+goji
+枸杞
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → another name for wolfberry
+
+========================================================================
+>>> goji berry
+------------------------------------------------------------------------
+Goji berry
+n. 枸杞，枸杞子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Goji Berry Eye Cream 1oz from Home Health with organic arnica and vitamin K. 枸杞眼霜1盎司家庭健康与有机山金车和维生素k。
+≫   Avocado and Baobab lock in moisture while goji berry encourages a dewy complexion. 鳄梨和猴面包树锁住水分，枸杞浆果调整肤色。
+≫   Many people describe the goji berry plant as a mix between a grape vine, and a tomato creeper. 很多人形容评为浆果厂作为组合之间，葡萄，番茄蔓。
+
+========================================================================
+>>> wolfberry
+------------------------------------------------------------------------
+wolfberry    [英 ˈwʊlfberi / 美 ˈwʊlfˌberi]
+n. 西方雪果（尤指枸杞子）
+alsogoji
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the berry of either of two plants of the genus Lycium, valued for its nutritional qualities 枸杞子
+
