@@ -33783,3 +33783,40 @@ n. 描写，叙述
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-VAR) A depiction of something is a picture or a written description of it. 描画; 描述
 
+========================================================================
+>>> shepherd
+------------------------------------------------------------------------
+shepherd    [美 'ʃɛpɚd / 英 'ʃepəd]
+vt. 牧羊；带领；指导；看管
+n. 牧羊人；牧师；指导者
+n. (Shepherd)人名；(英)谢泼德
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shepherd is a person, especially a man, whose job is to take care of sheep. 牧羊人
+2. [usu passive] If you are shepherded somewhere, someone takes you there to make sure that you arrive at the right place safely. 护送
+   ≫   She was shepherded by her guards up the rear ramp of the aircraft.  她由她的警卫们护送登上飞机后部的活动舷梯。
+
+========================================================================
+>>> purse
+------------------------------------------------------------------------
+purse    [美 pɝs / 英 pɜːs]
+n. (女士)手提袋
+n. (Purse)人名；(英)珀斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] A purse is a small bag or a handbag that women carry. 女式手袋
+   ≫   She looked at me and then reached in her purse for cigarettes.  她看了看我，然后从手袋里掏香烟。
+2. [英国英语] A purse is a very small bag that people, especially women, keep their money in. (尤指女式) 钱包
+3. (N-SING) Purse is used to refer to the total amount of money that a country, family, or group has. (国家、家庭、团体等的) 财力
+   ≫   The money could simply go into the public purse, helping to lower taxes.  这笔钱可以直接划入国库，来帮助降低税收。
+4. (V-T) If you purse your lips, you move them into a small, rounded shape, usually because you disapprove of something or when you are thinking. 撅 (嘴)
+   ≫   She pursed her lips in disapproval.  她噘起嘴唇反对。
+
+========================================================================
+>>> pursed her lips
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3780
+pursed her lips
+她噘起嘴唇
+
