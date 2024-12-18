@@ -33845,3 +33845,140 @@ TEM4
 2. [usu pl] The Cantonese are the people who live in or come from the city of Canton or Guangdong province. 广州人; 广东人
 3. (N-UNCOUNT) Cantonese is the language spoken in the city of Canton, Guangdong and Guanxi provinces, Hong Kong, and elsewhere outside China. 粤语
 
+========================================================================
+>>> AUTOMOTIVE INDUSTRY
+------------------------------------------------------------------------
+automotive industry
+汽车工业：生产、设计、销售和维修汽车的行业。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Consider the automotive industry. 考虑一下汽车行业。
+≫   Production delays or stoppages are common in the electronics and automotive industry. 在电子产品业及汽车业界，延迟生产或停产都是非常普遍的。
+≫   The automotive industry has been an early user of this track and trace technology in shipping containers. 汽车业是集装箱跟踪和追踪技术的早期用户。
+
+========================================================================
+>>> expressway
+------------------------------------------------------------------------
+expressway    [美 ɪk'sprɛswe / 英 ɪk'spresweɪ; ek-]
+n. （美）高速公路
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An expressway is a wide road that is specially designed to carry a lot of traffic moving quickly. It has no stop signs or signals, and traffic travelling in one direction is separated from the traffic travelling in the opposite direction. 高速公路
+
+========================================================================
+>>> forklift
+------------------------------------------------------------------------
+forklift    [美 'fɔrk,lɪft / 英 'fɔːklɪft]
+n. 铲车；堆高机；叉式升降机
+vt. 用铲车搬运
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He would study his surroundings for more answers, and might note how a forklift has the axle bend around or the R-Model lamp, examining the movement. 他开始观察学习以获取答案，比如说他会在观察中记下铲车是如何弯曲车轴的等等。
+≫   Some of these cars don't have a single kilometer on them. They basically forklift it and put it down at home because they don't want to put any miles on the car. 这些车有的里程表上显示为零，这些车一路上被货车和铲车运到家里，因为他们的主人不希望里程表上的数字有任何的变动。
+≫   His productivity on any given day is completely unpredictable — sometimes he wakes up excited to work, and on other days you couldn’t pry him off the couch with a forklift. 他的工作效率完全无法预测——有时候他工作起来干劲十足，但其他日子里他都倒在沙发上，简直连铲车都难把他给撬起来。
+
+========================================================================
+>>> transportation
+------------------------------------------------------------------------
+transportation    [英 trænspɔː'teɪʃ(ə)n; trɑːns- / 美 ,trænspɔr'teʃən]
+n. 运输；运输系统；运输工具；流放
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] Transportation refers to any type of vehicle that you can travel in or carry goods in. 交通工具
+   ≫   The company will provide transportation.  这家公司将提供交通工具。
+2. [美国英语] Transportation is a system for taking people or goods from one place to another, for example, using buses or trains. 交通运输系统
+   ≫   Campuses are usually accessible by public transportation.  到校园通常可以乘坐公交。
+3. [美国英语] Transportation is the activity of taking goods or people from one place to another in a vehicle. 运输
+   ≫   The baggage was being rapidly stowed away for transportation.  行李正迅速被装好收起以便运输。
+
+========================================================================
+>>> logistics
+------------------------------------------------------------------------
+logistics    [美 lə'dʒɪstɪks / 英 lə'dʒɪstɪks]
+n. [军] 后勤；后勤学
+物流
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT-COLL) If you refer to the logistics of doing something complicated that involves a lot of people or equipment, you are referring to the skilful organization of it so that it can be done successfully and efficiently. 后勤
+   ≫   The skills and logistics of getting such a big show on the road pose enormous practical problems.  这样的一个大型节目进行巡演在技术和后勤方面都会面临大量实际问题。
+
+========================================================================
+>>> nether
+------------------------------------------------------------------------
+nether    [美 'nɛðɚ / 英 'neðə]
+adj. 下面的，下方的；地下的，下界的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Nether means the lower part of a thing or place. 下面的
+   ≫   He was escorted back to the nether regions of Main Street.  他被护送回到主街下面的地段。
+
+========================================================================
+>>> netherland
+------------------------------------------------------------------------
+Netherland
+n. 荷兰（正式名称为尼德兰王国The Kingdom of the Netherlands）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Some of the best parts of “Netherland” are Chuck’s rambling political and cultural monologues, delivered as Hans drives him around the boroughs. 《荷兰》的一些最好的部分就是恰克漫谈政治和文化时的独白，是在汉斯开车带他时发表的。
+≫   It currently contains data from four countries - India, Netherland, UK, and US –, filed under three main sections – companies, applications, services – each containing several hundred of items. 目前它拥有来自四个国家的数据——印度、荷兰、英国和美国。 分成三个部分进行归档——公司，应用和服务，每个主题都包含数百项数据。
+≫   There’s a moment in “Netherland” involving a father, the son who has been taken from him, and Google Earth that’s among the most moving set pieces I’ve read in a recent novel. 《荷兰》中有一个情节是关于一个爸爸，和不归他养的儿子，以及Google地球的，这是近期我读的小说中最动人的片段之一。
+
+========================================================================
+>>> conglomerate
+------------------------------------------------------------------------
+conglomerate    [英 kən'glɒm(ə)rət / 美 kən'ɡlɑːmərət]
+vi. 凝聚成团
+n. [岩] 砾岩；企业集团；聚合物
+adj. 成团的；砾岩性的
+vt. 使聚结；凝聚成团
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] A conglomerate is a large business firm consisting of several different companies. 企业集团
+   ≫   ...the world's second-largest media conglomerate.  …世界第二大传媒集团。
+
+========================================================================
+>>> headquartered
+------------------------------------------------------------------------
+headquartered    [英 ,hed'kwɔ:təd /  ,hed'kwɔ:təd]
+adj. 以…为总部所在地的
+v. 设立总部于（headquarter的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T PASSIVE) If an organization is headquartered in a particular place, that is where its main offices are. 总部设在...
+   ≫   The company is headquartered in Chicago.  公司总部设在芝加哥。
+
+========================================================================
+>>> revenue
+------------------------------------------------------------------------
+revenue    [美 'rɛvənu / 英 'revənjuː]
+n. 税收，国家的收入；收益
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also N in pl] Revenue is money that a company, organization, or government receives from people. (公司、组织或政府的) 收入
+   ≫   ...a boom year at the movies, with record advertising revenue and the highest ticket sales since 1980.  …电影业欣欣向荣的一年，广告及票房收入都创下1980年以来的最高纪录。
+2. → see also
+
+========================================================================
+>>> defect
+------------------------------------------------------------------------
+defect    [美 ‘dɪfɛkt / 英 'diːfekt; dɪ'fekt]
+n. 缺点，缺陷；不足之处
+vi. 变节；叛变
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A defect is a fault or imperfection in a person or thing. 缺陷
+   ≫   He was born with a hearing defect.  他天生听力就有缺陷。
+   ≫   A report has pointed out the defects of the present system.  一份报告指出了现有体制的缺陷。
+2. (V-I) If you defect, you leave your country, political party, or other group, and join an opposing country, party, or group. 背叛
+   ≫   ...a KGB officer who defected in 1963.  …一个1963年叛变的克格勃官员。
+3. (N-VAR) defection 背叛
+   ≫   ...the defection of at least sixteen parliamentary deputies.  …至少16位国会议员的背叛。
+
+========================================================================
+>>> karaok
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> karaoke
+------------------------------------------------------------------------
+karaoke    [美 ,kærɪ'oki / 英 ,kærɪ'əʊkɪ]
+n. 卡拉OK；卡拉OK录音，自动伴奏录音
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Karaoke is a form of entertainment in which a machine plays the tunes of songs, and people take turns singing the words. 卡拉OK
+
