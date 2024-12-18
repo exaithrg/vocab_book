@@ -33542,3 +33542,19 @@ TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) An interlude is a short period of time when an activity or situation stops and something else happens. 间歇
 
+========================================================================
+>>> unwilling
+------------------------------------------------------------------------
+unwilling    [美 ʌn'wɪlɪŋ / 英 ʌn'wɪlɪŋ]
+adj. 不愿意的；不情愿的；勉强的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are unwilling to do something, you do not want to do it and will not agree to do it. 不愿意的
+   ≫   Initially the government was unwilling to accept the defeat.  最初，政府不愿意接受失败。
+2. (N-UNCOUNT) unwillingness 不愿意
+   ≫   ...their unwillingness to accept responsibility for mistakes.  …他们不愿意承担出错的责任。
+3. (ADJ) You can use unwilling to describe someone who does not really want to do the thing they are doing. 不情愿的
+   ≫   A youthful teacher, he finds himself an unwilling participant in school politics.  作为一位青年教师，他发现自己很不情愿地卷入了学校的权术之争。
+4. (ADV) unwillingly 不情愿地
+   ≫   He accepted his orders very unwillingly.  他非常不情愿地接受了他的命令。
+
