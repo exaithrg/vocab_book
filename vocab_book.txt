@@ -33735,3 +33735,22 @@ CET6 TEM8
 4. (N-COUNT) The orientation of a structure or object is the direction it faces. 朝向
    ≫   Farnese had the orientation of the church changed so that the front would face a square.  法尔内塞把教堂的朝向改了，使其正面对着一个广场。
 
+========================================================================
+>>> thrust
+------------------------------------------------------------------------
+thrust    [英 θrʌst / 美 θrʌst]
+v. 猛推，猛塞；刺，扎；（人）推进，挤过；上伸，伸出；强使接受
+n. 要点，要旨；猛推，刺；（飞机、火箭等的）驱动力，推力；强攻，挺进；（拱、椽的）侧向压力；（地质）冲断层，逆断层；苛评
+★★ CET4 TEM4 thrusting,thrust,thrusts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you thrust something or someone somewhere, you push or move them there quickly with a lot of force. 猛推; 猛塞; 猛刺
+   ≫   They thrust him into the back of a jeep.  他们把他猛推入吉普车的后部。
+2. (N-COUNT) Thrust is also a noun. 猛推; 猛塞; 猛刺
+   ≫   Two of the knife thrusts were fatal.  猛刺的其中两刀是致命的。
+3. (V-T) If you thrust your way somewhere, you move there, pushing between people or things which are in your way. 挤; 推
+   ≫   She thrust her way into the crowd.  她挤进了人群。
+4. (V-I) If something thrusts up or out of something else, it sticks up or sticks out in a noticeable way. 竖起; 挺出 [文学性]
+   ≫   ...a seedling ready to thrust up into any available light.  …一株正要挺出来迎接光线的幼苗。
+5. (N-UNCOUNT) Thrust is the power or force that is required to make a vehicle move in a particular direction. (车辆等的) 推力
+   ≫   It provides the thrust that makes the craft move forward.  它提供了使飞机前进的推力。
+
