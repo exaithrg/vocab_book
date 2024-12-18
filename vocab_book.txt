@@ -33775,3 +33775,11 @@ CET4 TEM4
 6. (ADJ) stimulating 刺激的
    ≫   ...the stimulating effect of adrenaline.  …肾上腺素的刺激作用。
 
+========================================================================
+>>> depiction
+------------------------------------------------------------------------
+depiction    [美 dɪ'pɪkʃən / 英 dɪ'pɪkʃn]
+n. 描写，叙述
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A depiction of something is a picture or a written description of it. 描画; 描述
+
