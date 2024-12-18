@@ -34942,3 +34942,320 @@ TEM8
 winograd schema challenge
 威诺格拉德模式挑战
 
+========================================================================
+>>> episode
+------------------------------------------------------------------------
+episode    [美 'ɛpɪsod / 英 'epɪsəʊd]
+n. 插曲；一段情节；插话；有趣的事件
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to an event or a short period of time as an episode if you want to suggest that it is important or unusual, or has some particular quality. 事件; 经历
+   ≫   This episode is bound to be a deep embarrassment for Washington.  这一事件必然使华盛顿大为尴尬。
+2. (N-COUNT) An episode of something such as a series on television or a story in a magazine is one of the separate parts in which it is broadcast or published. (电视连续剧的) 集; (连载小说的) 节
+   ≫   The final episode will be shown next Sunday.  最后一集将于下周日播放。
+
+========================================================================
+>>> discord
+------------------------------------------------------------------------
+discord    [美 'dɪskɔrd / 英 'dɪskɔːd]
+n. 不和；不调和；嘈杂声
+vi. 不一致；刺耳
+n. (Discord)人名；(法)迪斯科尔
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] Discord is disagreement and argument between people. 不和
+
+========================================================================
+>>> reputation
+------------------------------------------------------------------------
+reputation    [美 ,rɛpju'teʃən / 英 repjʊ'teɪʃ(ə)n]
+n. 名声，名誉；声望
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) To have a reputation for something means to be known or remembered for it. 名声
+   ≫   Alice Munro has a reputation for being a very depressing writer.  艾丽斯•门罗有文风抑郁的名声。
+2. (N-COUNT) Something's or someone's reputation is the opinion that people have about how good they are. If they have a good reputation, people think they are good. 声誉
+   ≫   This college has a good academic reputation.  这所大学拥有良好的学术声誉。
+3. (PHRASE) If you know someone by reputation, you have never met them but you have heard of their reputation. 久闻
+   ≫   She was by reputation a good organizer.  久闻她是个出色的组织者。
+
+========================================================================
+>>> diagnostic
+------------------------------------------------------------------------
+diagnostic    [美 ,daɪəɡ'nɑstɪk / 英 daɪəg'nɒstɪk]
+adj. 诊断的；特征的
+n. 诊断法；诊断结论
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Diagnostic equipment, methods, or systems are used for discovering what is wrong with people who are ill or with things that do not work properly. 诊断的
+   ≫   ...X-rays and other diagnostic tools.  …X光和其他诊断工具。
+
+========================================================================
+>>> lasana
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lasagna
+------------------------------------------------------------------------
+lasagna    [美 ləˈsɑnjə / 英 lə'zænjə]
+n. 烤宽面条（等于lasagne）；卤汁面条
+n. (Lasagna)人名；(意)拉萨尼亚
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tell us you love the lasagna we made. 告诉我们你喜欢吃我们做的宽面条。
+≫   "If you go out to an Italian restaurant and you have triple cheese-meat-sausage lasagna but then you have a little olive oil on your bread, you're not doing much for your heart, " Rosenbloom says. “如果你在一家意大利餐馆里先享用了一份三重奶酪加肉的香肠烤宽面条，然后在你的面包上加一点橄榄油，这样对你的心脏并不会有什么好处。” 罗说。
+≫   How did I go from a college graduate with the world at my fingertips to bringing my mom's leftover lasagna to work for lunch? 从游戏世界的大学毕业生到带着父母剩下的烤宽面条去上班，这一转变又是怎样发生的呢？
+
+========================================================================
+>>> arrange from
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> arrange from
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：896
+arrange from
+安排从
+
+========================================================================
+>>> arrangement
+------------------------------------------------------------------------
+arrangement    [美 ə'rendʒmənt / 英 ə'reɪn(d)ʒm(ə)nt]
+n. 布置；整理；准备
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Arrangements are plans and preparations that you make so that something will happen or be possible. 安排
+   ≫   The staff is working frantically on final arrangements for the summit.  工作人员在紧张忙碌地为该峰会做最后的安排。
+   ≫   She telephoned Ellen, but made no arrangements to see her.  她给埃伦打了电话，但没安排见她。
+2. [also 'by' N] An arrangement is an agreement that you make with someone to do something. 商定
+   ≫   The caves can be visited only by prior arrangement.  这些洞穴只能预约参观。
+3. (N-COUNT) An arrangement of things, for example, flowers or furniture, is a group of them displayed in a particular way. 布置
+   ≫   The house was always decorated with imaginative flower arrangements.  该房子那时经常装饰着富有创意的插花。
+4. (N-COUNT) If someone makes an arrangement of a piece of music, they change it so that it is suitable for particular voices or instruments, or for a particular performance. (乐曲的) 改编
+   ≫   ...an arrangement of a well-known piece by Mozart.  …对莫扎特的一首名曲的改编。
+
+========================================================================
+>>> rob me
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> robbing me
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1003
+robbing me
+抢劫我
+
+========================================================================
+>>> possess
+------------------------------------------------------------------------
+possess    [美 pə'zɛs / 英 pə'zes]
+vt. 控制；使掌握；持有；迷住；拥有，具备
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no passive] If you possess something, you have it or own it. 拥有
+   ≫   He was then arrested and charged with possessing an offensive weapon.  他之后被逮捕了并被指控拥有攻击性武器。
+
+========================================================================
+>>> possession
+------------------------------------------------------------------------
+possession    [美 pə'zɛʃən / 英 pə'zeʃ(ə)n]
+n. 拥有；财产；领地；自制；着迷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you are in possession of something, you have it, because you have obtained it or because it belongs to you. 拥有
+   ≫   Those documents are now in the possession of the Washington Post.  那些文件现在归《华盛顿邮报》所有。
+   ≫   He was also charged with illegal possession of firearms.  他还被指控非法拥有火器。
+2. (N-COUNT) Your possessions are the things that you own or have with you at a particular time. 财产; 所有物
+   ≫   People had lost their homes and all their possessions.  人们已失去了家园和所有的财产。
+
+========================================================================
+>>> loyal
+------------------------------------------------------------------------
+loyal    [美 'lɔɪəl / 英 'lɒɪəl]
+adj. 忠诚的，忠心的；忠贞的
+n. 效忠的臣民；忠实信徒
+n. (Loyal)人名；(英、德、西、匈、法)洛亚尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] Someone who is loyal remains firm in their friendship or support for a person or thing. 忠诚的
+   ≫   They had remained loyal to the president.  他们一直忠于总统。
+2. [ADV with v] loyally 忠诚地
+   ≫   They have loyally supported their party and their leader.  他们忠心耿耿地支持自己的政党和领导人。
+
+========================================================================
+>>> approval
+------------------------------------------------------------------------
+approval    [美 əˈpruvl / 英 ə'pruːv(ə)l]
+n. 批准；认可；赞成
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you win someone's approval for something that you ask for or suggest, they agree to it. 赞同
+   ≫   ...efforts to win congressional approval for an aid package for Moscow.  …为赢得国会赞同对莫斯科的一揽子援助计划而做的努力。
+   ≫   The chairman has also given his approval for an investigation into the case.  该主席也对此案的调查表示赞同。
+2. (N-UNCOUNT) If someone or something has your approval, you like and admire them. 赞赏
+   ≫   His son had an obsessive drive to gain his father's approval.  他儿子渴望得到他的赞赏。
+3. (N-VAR) Approval is a formal or official statement that something is acceptable. 批准
+   ≫   The testing and approval of new drugs will be speeded up.  新药的检测与审批将会加速。
+
+========================================================================
+>>> perceive
+------------------------------------------------------------------------
+perceive    [美 pɚ'siv / 英 pə'siːv]
+vt. 察觉，感觉；理解；认知
+vi. 感到，感知；认识到
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you perceive something, you see, notice, or realize it, especially when it is not obvious. 感知到
+   ≫   Students must perceive for themselves the relationship between success and effort.  学生们必须自己去认识到成功与努力之间的关系。
+2. (V-T) If you perceive someone or something as doing or being a particular thing, it is your opinion that they do this thing or that they are that thing. 认为
+   ≫   Stress is widely perceived as contributing to coronary heart disease.  压力普遍被认为能造成冠心病。
+
+========================================================================
+>>> egotistic
+------------------------------------------------------------------------
+egotistic    [英 ˌeɡəˈtɪstɪk]
+adj. 自我本位的；自负的；自高自大的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is egotistic or egotistical behaves selfishly and thinks they are more important than other people. 利己主义的; 自我中心的 [表不满]
+   ≫   Susan and Deborah share an intensely selfish, egotistic streak.  苏珊和黛博拉两个人都十分自私，以自我为中心。
+
+========================================================================
+>>> accompany
+------------------------------------------------------------------------
+accompany    [美 ə'kʌmpəni / 英 ə'kʌmpənɪ]
+vt. 陪伴，伴随；伴奏
+vi. 伴奏，伴唱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you accompany someone, you go somewhere with them. 陪伴
+   ≫   Ken agreed to accompany me on a trip to Africa.  肯同意陪我去非洲旅行。
+   ≫   She was accompanied by her younger brother.  她由她的弟弟陪着。
+2. [正式] If one thing accompanies another, it happens or exists at the same time, or as a result of it. 与…相伴
+   ≫   This volume of essays was designed to accompany an exhibition in Seattle.  这部论文集是为配合西雅图的展览设计的。
+3. (V-T) If you accompany a singer or a musician, you play one part of a piece of music while they sing or play the main tune. 为…伴奏
+   ≫   On Meredith's new recording, Eddie Higgins accompanies her on all but one song.  在梅瑞迪斯的新唱片中，艾迪·希金斯为她伴奏了除一首歌以外的所有歌曲。
+
+========================================================================
+>>> scrumming
+------------------------------------------------------------------------
+scrumming
+v．进行scrum（橄榄球比赛中的一种战术）：在橄榄球比赛中，两队前锋球员紧密地站在一起，争夺地面上的球。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪk'sklusɪv / 英 ɪk'skluːsɪv; ek-]
+adj. 独有的；排外的；专一的
+n. 独家新闻；独家经营的项目；排外者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> inclusive
+------------------------------------------------------------------------
+inclusive    [美 ɪn'klusɪv / 英 ɪn'kluːsɪv]
+adj. 包括的，包含的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a group or organization as inclusive, you mean that it allows all kinds of people to belong to it, rather than just one kind of person. 兼收并蓄的
+   ≫   The academy is far more inclusive now than it used to be.  该学院如今比过去更为兼收并蓄。
+2. [n ADJ] After stating the first and last item in a set of things, you can add inclusive to make it clear that the items stated are included in the set. 首末项包括在内的
+   ≫   You are also invited to join us on our prayer days (this year, June 6 to June 14 inclusive).  你也受邀加入我们的祷告日（今年从6月6日（含）至6月14日（含））。
+3. (ADJ) If a price is inclusive, it includes all the charges connected with the goods or services offered. If a price is inclusive of shipping and handling, it includes the charge for this. 包括一切费用在内的
+   ≫   ...all prices are inclusive of delivery.  …所有价格包括运费。
+4. [amount ADV] Inclusive is also an adverb. 包括一切费用在内地
+   ≫   The outpatient programme costs $105 per day, all inclusive.  门诊病人方案收费每人每天105美元，一切费用包括在内。
+
+========================================================================
+>>> deliberately
+------------------------------------------------------------------------
+deliberately    [美 dɪ'lɪbərətli]
+adv. 故意地；谨慎地；慎重地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He deliberately roughed the goal-keeper. 他故意冲撞守门员。
+≫   She deliberately stayed behind after work to go with me. 下班后她故意留下来等我一起走。
+≫   The acrobat deliberately faulted the performance once to make it look difficult. 表演者故意把表演做错一次，以显得表演很难。
+
+========================================================================
+>>> decoration
+------------------------------------------------------------------------
+decoration    [美 ,dɛkə'reʃən / 英 dekə'reɪʃ(ə)n]
+n. 装饰，装潢；装饰品；奖章
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The decoration of a room is its furniture, wallpaper, and ornaments. 装饰
+   ≫   The decoration and furnishings had to be practical enough for a family home.  装修和家具陈设必须对一个家庭住房来说够实用。
+2. (N-VAR) Decorations are features that are added to something in order to make it look more attractive. 装饰品
+   ≫   The only wall decorations are candles and a single mirror.  墙上仅有的装饰品就是一些蜡烛和一面镜子。
+3. (N-COUNT) Decorations are brightly coloured objects such as pieces of paper and balloons, which you put up in a room on special occasions to make it look more attractive. 颜色鲜艳的饰品
+   ≫   Colourful streamers and paper decorations had been hung from the ceiling.  五颜六色的飘带和彩纸饰品被挂在天花板上。
+4. → see also
+
+========================================================================
+>>> immersive
+------------------------------------------------------------------------
+immersive    [ɪ'mɝsɪv]
+adj. 拟真的；沉浸式的；沉浸感的；增加沉浸感的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) providing information or stimulation for a number of senses, not only sight and sound 拟真的
+   ≫   immersive television sets  
+
+========================================================================
+>>> flirt
+------------------------------------------------------------------------
+flirt    [美 flɝt / 英 flɜːt]
+vi. 调情；玩弄；轻率地对待；摆动
+vt. 挥动；忽然弹出
+n. 急扔；调情的人；卖弄风骚的人
+n. (Flirt)人名；(法)弗利尔特
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If you flirt with someone, you behave as if you are sexually attracted to them, in a playful or not very serious way. 跟…调情
+   ≫   Dad's flirting with all the ladies, or they're all flirting with him, as usual.  爸爸在和所有的女士打情骂俏，或者说她们都在和他调情，跟平常一样。
+2. (N-VAR) flirtation 调情
+   ≫   She was aware of his attempts at flirtation.  她知道他想跟她调情。
+3. (N-COUNT) Someone who is a flirt likes to flirt a lot. 喜欢调情的人
+   ≫   I've always been a real flirt, I had a different boyfriend every week.  我是个不折不扣的调情老手，每个星期的男朋友都不一样。
+4. (V-I) If you flirt with the idea of something, you consider it but do not do anything about it. 有…的想法
+   ≫   My mother used to flirt with Anarchism.  我的母亲过去有过无政府主义的想法。
+5. (N-VAR) flirtation 不经意的考虑
+   ≫   ...the party's brief flirtation with economic liberalism.  …该党一度考虑过的经济自由主义。
+
+========================================================================
+>>> casanova
+------------------------------------------------------------------------
+Casanova    [,kæzə'nəuvə / 英 ,kæzə'nəuvə]
+n. 卡萨诺瓦式人物（意大利浪荡公子）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any man noted for his amorous adventures; a rake 卡萨诺瓦式人物; 放荡的人
+
+========================================================================
+>>> maneuver
+------------------------------------------------------------------------
+maneuver    [美 mə'nʊvɚ; mə'njʊvɚ / 英 mə'nʊvə]
+n. [军] 机动；演习；策略；调遣
+vi. [军] 机动；演习；调遣；用计谋
+vt. [军] 机动；演习；用计；调遣
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All the fighters landed safely on the airport after the military maneuver. 在军事演习后，所有战斗机都安全降落在机场上。
+≫   First off, Obama will have little room to maneuver in the support and operations budget, even if he pulls our troops out of Iraq. 即使他把军队全部撤出伊拉克，在支持性和经营性预算方面奥巴马很快也没有多少回旋余地。
+≫   “The smaller the bird, the more viscous the air is,” he said, which is partly why hummingbirds can maneuver so well and for so long. 鸟儿越小，空气就越有粘性“ ，他说。 这也部分说明了为什么蜂鸟能飞行的那么好那么久的原因。
+
