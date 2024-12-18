@@ -34342,3 +34342,32 @@ TEM8
 2. [非正式] If you binge, you do too much of something, such as drinking alcohol, eating, or spending money. 放纵
    ≫   I haven't binged since 1986.  我从1986年以来从未放纵过自己。
 
+========================================================================
+>>> moratorium
+------------------------------------------------------------------------
+moratorium    [美 ,mɔrə'tɔrɪəm / 英 ,mɒrə'tɔːrɪəm]
+n. 暂停，中止；[金融] 延期偿付
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A moratorium on a particular activity or process is the stopping of it for a fixed period of time, usually as a result of an official agreement. 暂停
+   ≫   The House voted to impose a one-year moratorium on nuclear testing.  议会投票要强行暂停核试验一年。
+
+========================================================================
+>>> regulatory
+------------------------------------------------------------------------
+regulatory    [ˈrɛɡjʊˌleɪtɔri]
+adj. 管理的；控制的；调整的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That is the judgment of our Nuclear Regulatory Commission and many other experts. 这是我们的核管理委员会和许多其他专家的判断。
+≫   It is the 36th country to have its vaccine regulatory system approved by the WHO. 它是疫苗管理体系被世界卫生组织验证通过的第36个国家。
+≫   Okay any other questions related to process, regulatory roles? The regulator is real and they are there at the plant sites. 好了，还有任何其他的与过程，管理规则相关的问题吗，调整器是真的,他们就在电站的那里。
+
+========================================================================
+>>> regulatory tax
+------------------------------------------------------------------------
+regulatory tax
+调节税，管制税
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Since 1991, we have lowered import taxes on 6.537 products and abolished the import regulatory tax. 自1991年以来，我们降低了6,537项产品的进口关税，取消了进口调节税。
+≫   Although the country's big companies have long thrived, the regulatory and tax climate is chilly to newer and smaller companies. 尽管该国的大企业长期繁荣，管理和税收的环境对新公司和小公司而言却很不利。
+≫   Nothing seems likely to stop the upward pay spiral for top executives: not reasoned argument, name-calling, tax and/or regulatory change. 似乎没有什么可以阻止高管薪酬上升的趋势：无论是合理的论证、言语的中伤还是税收和/或监管政策的改变。
+
