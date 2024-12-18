@@ -33821,3 +33821,27 @@ pursed her lips
 她噘起嘴唇
 
 
+========================================================================
+>>> mandarin
+------------------------------------------------------------------------
+mandarin    [美 'mændərɪn / 英 'mænd(ə)rɪn]
+n. （中国）普通话；国语；官话；满清官吏；柑橘
+adj. 紧身马褂的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Mandarin is the official language of China. (中国)普通话
+2. (N-COUNT) A mandarin or a mandarin orange is a small orange whose skin comes off easily. 柑橘
+3. (N-COUNT) A mandarin was, in former times, an important government official in China. (旧中国的)官员
+
+========================================================================
+>>> cantonese
+------------------------------------------------------------------------
+cantonese    [,kæntə'ni:z]
+n. 广东话；广东人
+adj. 广州的，广州人的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Cantonese means belonging or relating to the city of Canton or Guangdong province. 广州的; 广东省的
+2. [usu pl] The Cantonese are the people who live in or come from the city of Canton or Guangdong province. 广州人; 广东人
+3. (N-UNCOUNT) Cantonese is the language spoken in the city of Canton, Guangdong and Guanxi provinces, Hong Kong, and elsewhere outside China. 粤语
+
