@@ -27821,3 +27821,1405 @@ TEM4
 2. [正式] A person's nobility is their noble character and behaviour. 高尚品格; 高贵行为
    ≫   ...his nobility of character, and his devotion to his country.  …他的高尚品格和他对他国家的献身精神。
 
+========================================================================
+>>> broomstick
+------------------------------------------------------------------------
+broomstick    [美 'brumstɪk / 英 'bruːmstɪk]
+n. 扫帚柄；帚柄
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A broomstick is an old-fashioned broom that has a bunch of small sticks at the end. (旧式)长柄细枝扫帚
+2. (N-COUNT) A broomstick is the handle of a broom. 扫帚柄
+
+========================================================================
+>>> Hogwarts
+------------------------------------------------------------------------
+Hogwarts
+n. 霍格沃茨；霍格华兹（《哈利·波特》里的魔法学校名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Harry and Hermione clutch The Life and Lies of Albus Dumbledore by Rita Skeeter, which reveals the secret past of the late Hogwarts headmaster. 哈利与赫敏紧握丽塔·斯基特写的《邓布利多的人生与谎言》，其中披露了已故霍格沃茨校长的秘密往事。
+≫   Hogwarts: First Class? 霍格·沃茨：第一课？
+≫   Portraits line the walls of Hogwarts castle. 哈格霍兹城堡墙上的画像。
+
+========================================================================
+>>> Hogsmedae
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Hogsmeade
+------------------------------------------------------------------------
+Hogsmeade
+n.霍格莫德（英国奇幻小说《哈利·波特》中的虚构村庄）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Hogwarts Express arrives at Hogsmeade Station. 霍格·沃兹号火车到达霍格·莫德村车站。
+≫   "There we were in Hogsmeade, waiting to surprise him -" said George. “我们还在霍格·莫德，等着给他个惊喜——”乔治说。
+≫   So this Hogsmeade weekend day actually is Valentine's Day, not just the closest weekend. 所以这个霍格莫德周末正好是情人节，而不仅仅是最近的一个周末。
+
+========================================================================
+>>> Golden Snitch
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Golden Snitch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5691
+Golden Snitch
+金色的告密者
+
+========================================================================
+>>> Snitch
+------------------------------------------------------------------------
+snitch    [美 snɪtʃ / 英 snɪtʃ]
+vi. 告密；进行小偷小摸
+vt. 偷；顺手牵羊
+n. 告密者；告发者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] To snitch on a person means to tell someone in authority that the person has done something bad or wrong. 打小报告
+   ≫   She felt like a fifth-grader who had snitched on a classmate.  她觉得自己就像个打同学小报告的小学五年级学生。
+2. [非正式] A snitch is a person who snitches on other people. 告密者; 打小报告的人
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> Quidditch
+------------------------------------------------------------------------
+Quidditch
+n. 魁地奇球赛（出自《哈利·波特》系列故事）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an imaginary game in which players fly on broomsticks 魁地奇比赛(参赛者在飞天扫帚上进行的一种虚构比赛)
+
+========================================================================
+>>> Gryffindor
+------------------------------------------------------------------------
+Gryffindor
+n. 格兰芬多
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She... she acted like a Gryffindor, " Harry replied. 她……她表现得像个格兰芬多。” 哈利回答道。
+≫   If you want proof why you belong in Gryffindor, then I suggest you look more closely at this. 如果你希望得到证明，为什么你是属于葛来分多的，那么我建议你再仔细看看这把剑。
+≫   Consider, if you will, how excited she gets when she realises that Harry is a born Seeker and just what Gryffindor's Quidditch team needs, in the very first film. 看看第一部电影，当她发现哈利是一个天生的找球手且格兰芬多正需找球手时，她是多么的高兴啊。
+
+========================================================================
+>>> Ravenclaw
+------------------------------------------------------------------------
+Ravenclaw
+n. 拉文克劳
+n. 罗伊纳·拉文克劳（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It might have belonged to Ravenclaw. 它可能是属于拉文·克劳的。
+≫   So how do we know that the Grey Lady is the Ravenclaw ghost? 那么，我们是怎么得知灰白女士是拉文克劳的常驻幽灵的呢？
+≫   Chapter Twelve mentions Slytherin's narrow defeat of Ravenclaw in their match in January. 第十二章中提起在一月的比赛中斯莱特林小比分战胜了拉文·克劳。
+
+========================================================================
+>>> Hufflepuff
+------------------------------------------------------------------------
+Hufflepuff
+赫奇帕奇（《哈利·波特》系列中霍格沃茨魔法学校的四大学院之一）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Hufflepuff or Slytherin, it's a question. 赫奇·帕奇还是斯莱特林，这是个问题。
+≫   In Chapter Nine, Gryffindor's loss to Hufflepuff is told. 在第九章中，格兰芬多输给了赫奇帕奇的比赛被讲述了。
+≫   To the south is a door leading to the Hufflepuff common room and the kitchens. 楼梯南边是一个通向赫奇·帕奇公共休息室和厨房的大门。
+
+========================================================================
+>>> Slytherin
+------------------------------------------------------------------------
+Slytherin
+n. 斯莱特林
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There are no girls on the Slytherin team. 斯莱特林队中没有女生。
+≫   Harry: So the Sorting Hat was right. I should be a Slytherin. 哈里：所有分类帽是对的。我应该去斯雷瑟林学院。
+≫   Oh, Slytherin all the way. Gryffindor is far too goody-goody. 噢，肯定是斯莱特林。格来芬多实在太乖宝宝了。
+
+========================================================================
+>>> Astronomy
+------------------------------------------------------------------------
+astronomy    [美 ə'strɑnəmi / 英 ə'strɒnəmɪ]
+n. 天文学
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Astronomy is the scientific study of the stars, planets, and other natural objects in space. 天文学
+
+========================================================================
+>>> Herbology
+------------------------------------------------------------------------
+herbology    [美 hɜːrˈbɑːləɡi / 英 hɜːbˈɒlədʒi]
+n. [中医] 草药学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But supporters of Herbology believe it works. 但是支持者认为草药学是行之有效的。
+≫   He's Herbology professor. I think most people know that. 他长大后变成了草药学教授，我想大部分人应该知道他的结局。
+≫   You know, if you're interested in plants, you'd be better off with Goshawk's Guide to Herbology. 要知道，如果你对植物感兴趣的话，你最好阅读一下《高夏克的草药指南》。
+
+========================================================================
+>>> Transfiguration
+------------------------------------------------------------------------
+transfiguration    [美 ,trænzfɪɡjʊ'reʃən / 英 ,trænsfɪgə'reɪʃ(ə)n; ,trɑːns-; -gjʊr-; -nz-]
+n. 变形；变容；变貌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or an instance of transfiguring or the state of being transfigured 变形
+
+========================================================================
+>>> Arithmacy
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Arithmancy
+------------------------------------------------------------------------
+arithmancy    [英 əˈrɪθmənsɪ]
+n. 数字算命法；算数占卜
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   One of her favourite subjects at school is Arithmancy. 她最喜欢的学科之一就是算数占卜学。
+≫   She hitched up the long roll of parchment on which she was writing her Arithmancy essay and continued to scratch away with her quill. 她把那卷长长的羊皮纸朝上拉了拉，刷刷地接着写她那篇算术占卜课论文。
+≫   Arithmancy class at Hogwarts is taught by Professor Vector. In her class, students are expected to write essays and to create and be able to understand complicated number charts (PA12). 在霍格沃兹魔法学校，数字占卜术由维克多教授任教。她要求她的学生在课堂上写论文，去创造，能够完全明白数字图表。（PA12）
+
+========================================================================
+>>> Beater
+------------------------------------------------------------------------
+beater    [美 'bitɚ / 英 'biːtə]
+n. 搅拌器；[纸] 打浆机；助猎者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft n N] A beater is a tool or part of a machine that is used for beating things like eggs and cream. 搅拌器
+   ≫   Whisk the batter with a wire whisk or hand beater until it is smooth and light.  用搅拌器搅拌糊状物直到糊状物变得光滑酥松。
+
+========================================================================
+>>> Bludger
+------------------------------------------------------------------------
+bludger    [美 ˈblʌdʒər / 英 ˈblʌdʒə(r)]
+n. 游手好闲的人；二流子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who scrounges 二流子
+
+========================================================================
+>>> Chaser
+------------------------------------------------------------------------
+chaser    [美 'tʃesɚ / 英 'tʃeɪsə]
+n. 驱逐舰；猎人；饮烈酒后喝的饮料；[机] 螺纹梳刀
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft n N] A chaser is an alcoholic drink that you have after you have drunk a stronger or weaker alcoholic drink. 喝一种酒之后配合喝的酒精含量不同的酒
+   ≫   ...whisky with beer chasers.  ...威士忌配啤酒。
+2. [oft n N] a person or thing that chases 追逐者; 追逐物
+3. [oft n N] a person who engraves 雕刻者
+
+========================================================================
+>>> Quaffle
+------------------------------------------------------------------------
+Quaffle
+n. 鬼飞球
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Quaffle is released and the game begins. 鬼飞球被放出来了，比赛开始！
+≫   During his first practice as Gryffindor Keeper, a nervous Ron passed her the Quaffle so hard that she missed the catch and was hit in the face, causing a nosebleed. 罗恩加入格兰芬多球队作守门员，第一次训练时紧张过度，把球鬼飞球抛给她时用力过大，她没有接住，球打在脸上，流起了鼻血。
+
+========================================================================
+>>> Astronomy Tower
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6420
+Astronomy Tower
+天文学塔
+
+========================================================================
+>>> Azkaban
+------------------------------------------------------------------------
+azkaban
+阿兹卡班（Azkaban地名，来自《哈利波特》）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And that is why he has escaped from Azkaban. 这就是为什么他要从阿兹卡班逃狱。
+≫   Watson, 14, shows some shoulder at the New York premiere of Prisoner of Azkaban. 14岁的沃特森，在《哈利波特与阿兹卡班的囚徒》纽约首映式上，已经开始坦露香肩。
+≫   "Getting punched by Hermione, that one gets brought up a bit with me, " Felton admitted of the infamous "Prisoner of Azkaban" scene. "A lot of street cred was lost on that film, " he sighed. Felton承认这出了名儿的《阿兹卡班的囚徒》中的这一幕让他叹息：“被赫敏揍了一拳真的是很那啥的……那部电影里真是颜面扫地哈。”
+
+========================================================================
+>>> alley
+------------------------------------------------------------------------
+alley    [美 'æli / 英 'ælɪ]
+n. 小巷；小路；小径
+n. (Alley)人名；(英)阿利
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An alley is a narrow passage or street with buildings or walls on both sides. 小巷
+2. (N-COUNT) a large playing marble 大弹珠
+
+========================================================================
+>>> Diagon
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Diagon Alley
+------------------------------------------------------------------------
+Diagon Alley
+n. 斜角巷
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Scene 3: Harry meets the Malfoys in the Diagon Alley. 场景三：在对角巷，哈利遇见马尔福父子。
+≫   He did not want help or companionship on his trip to Diagon Alley. 他自己去对角巷，不需要别人的帮助和陪同。
+≫   For everyone who has dreamt of walking the streets of Diagon Alley, they soon will have the chance. "the." 对于所有梦想走进对角巷的人来说，他们即将有一个实现梦想的机会。
+
+========================================================================
+>>> Gringotts
+------------------------------------------------------------------------
+Gringotts
+n. 古灵阁（奇幻小说《哈利波特》中的巫师银行）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I hate them Gringotts carts. 我讨厌古灵阁的小车。
+≫   It is possible to exchange Muggle money for wizarding coins at Gringotts. 在古灵阁可以将麻瓜货币兑换成巫师的硬币。
+≫   You approach the burnished bronze front doors of Gringotts up steps of white marble. 你从白色大理石的台阶走上去，走向古灵阁亮闪闪的青铜大门。
+
+========================================================================
+>>> Knockturn Alley
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Leaky
+------------------------------------------------------------------------
+leaky    [美 'liki / 英 'liːkɪ]
+adj. 漏的；有漏洞的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is leaky has holes, cracks, or other faults which allow liquids and gases to pass through. 漏的; 有裂缝的
+   ≫   They were very worried about the cost of repairing the leaky roof.  他们非常担心维修漏雨屋顶的费用。
+
+========================================================================
+>>> Cauldron
+------------------------------------------------------------------------
+cauldron    [美 'kɔldrən / 英 'kɔːldr(ə)n; 'kɒl-]
+n. 大汽锅，大锅；煮皂锅
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] A cauldron is a very large, round metal pot used for cooking over a fire. (金属) 大锅
+   ≫   ...a witch's cauldron.  …一个女巫的大锅。
+
+========================================================================
+>>> Leaky Cauldron
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：6836
+Leaky Cauldron
+破釜酒吧（《哈利波特》中伦敦一家酒吧名）
+
+========================================================================
+>>> Owlery
+------------------------------------------------------------------------
+owlery    [英 ˈaʊləri]
+猫头鹰栖息地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She sometimes flew in to nibble his ear and have a bit of toast before going off to sleep in the owlery with the other school owls. 她有时会飞过来啄一下哈利的耳朵，吃一片烤面包后，就和其它的校园猫头鹰一起飞回去睡觉。
+
+========================================================================
+>>> Emporium
+------------------------------------------------------------------------
+emporium    [美 ɛm'pɔrɪəm / 英 em'pɔːrɪəm; ɪm-]
+n. 商场，大百货商店；商业中心
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] An emporium is a store or large shop. 店铺; 大型商场
+
+========================================================================
+>>> Flourish
+------------------------------------------------------------------------
+flourish    [美 ˈflɜːrɪʃ / 英 'flʌrɪʃ]
+n. 兴旺；茂盛；挥舞；炫耀；华饰
+vt. 夸耀；挥舞
+vi. 繁荣，兴旺；茂盛；活跃；处于旺盛时期
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If something flourishes, it is successful, active, or common, and developing quickly and strongly. 繁荣; 兴旺
+   ≫   Business flourished and within six months they were earning 18,000 roubles a day.  生意兴隆，6个月中他们每天挣18000卢布。
+2. (ADJ) flourishing 繁荣的; 兴旺的
+   ≫   Boston quickly became a flourishing port.  波斯顿迅速成为一个繁荣的港口。
+3. (V-I) If a plant or animal flourishes, it grows well or is healthy because the conditions are right for it. (动植物因环境适宜而) 旺盛
+   ≫   The plant flourishes particularly well in slightly harsher climes.  这种植物在较为恶劣一点的气候中长得特别茂盛。
+4. (ADJ) flourishing 繁盛的
+   ≫   ...a flourishing fox population.  …不断繁衍的狐狸群。
+5. (V-T) If you flourish an object, you wave it about in a way that makes people notice it. 挥舞
+   ≫   He flourished the glass to emphasize the point.  他挥舞着杯子来强调这一点。
+6. (N-COUNT) Flourish is also a noun. 挥动
+   ≫   He took his cap from under his arm with a flourish and pulled it low over his eyes.  他挥手从腋下取出帽子，拉低帽檐盖住眼睛。
+
+========================================================================
+>>> Blotts
+------------------------------------------------------------------------
+blott
+vt. 涂掉；吸干
+
+========================================================================
+>>> gambol
+------------------------------------------------------------------------
+gambol    [美 ˈɡæmb(ə)l / 英 ˈɡæmb(ə)l]
+v. 跳跃，嬉戏
+n. 雀跃，嬉戏
+gambolling,gambolled,gambols
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If animals or people gambol, they run or jump about in a playful way. 嬉戏; 雀跃
+   ≫   ...the sight of newborn lambs gambolling in the fields.  …初生羊羔在牧场上跳跃的景象。
+
+========================================================================
+>>> japes
+------------------------------------------------------------------------
+japes    [美 dʒeɪps / 英 dʒeɪps]
+n. （Japes）人名；（德）雅佩斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a jest or joke 玩笑
+2. (V) to joke or jest (about) 开玩笑
+
+========================================================================
+>>> joke shop
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> curses and countercurse
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7200
+curses and countercurse
+诅咒和反诅咒
+
+========================================================================
+>>> Inferno
+------------------------------------------------------------------------
+inferno    [英 ɪn'fɜːnəʊ /  ɪn'fɜːnəʊ]
+n. 阴间，地狱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing] If you refer to a fire as an inferno, you mean that it is burning fiercely and causing great destruction. 大火灾
+   ≫   Rescue workers fought to get to victims inside the inferno.  救援人员奋力营救大火中的受害者。
+
+========================================================================
+>>> fungi
+------------------------------------------------------------------------
+fungi    [美 ˈfʌnˌdʒaɪ; ˈfʌŋˌgaɪ / 英 ˈfʌŋɡaɪ; ˈfʌndʒaɪ; ˈfʌndʒɪ]
+n. 真菌；菌类；蘑菇（fungus的复数）
+n. (Fungi)人名；(意)丰吉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. Fungi is the plural of . fungus的复数形式
+
+========================================================================
+>>> herbs
+------------------------------------------------------------------------
+herbs    [美 hɜ:bs / 英 hɜ:bs]
+n. [植] 药草；[植] 草本植物（herb的复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A herb is a plant whose leaves are used in cooking to add flavour to food, or as a medicine. (调味或药用的) 香草
+   ≫   ...beautiful, fragrant herbs such as basil and coriander.  …罗勒和芫荽等美丽芬芳的香草。
+
+========================================================================
+>>> banshee
+------------------------------------------------------------------------
+banshee    [英 bæn'ʃiː; 'bænʃiː]
+n. （爱尔兰和苏格兰传说中）预告死亡的女妖精
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In Irish folk stories, a banshee is a female spirit who warns you by her long, sad cry that someone in your family is going to die. 预告死亡的女鬼; 爱尔兰传说中的女鬼，以长长的哀嚎预报家中要有丧事发生
+
+========================================================================
+>>> enchantment
+------------------------------------------------------------------------
+enchantment    [美 ɪn'tʃæntm(ə)nt / 英 ɪn'tʃɑːntm(ə)nt]
+n. 魅力；魔法；着迷；妖术
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you say that something has enchantment, you mean that it makes you feel great delight or pleasure. Your enchantment with something is the fact of your feeling great delight and pleasure because of it. 魅力; 陶醉
+   ≫   The wilderness campsite had its own peculiar enchantment.  此野营地有其自身独特的魅力。
+   ≫   Alonzo's enchantment with orchids dates back to 1951.  阿伦佐对兰花的痴迷可追溯到1951年。
+2. (N-COUNT) In fairy tales and legends, an enchantment is a magic spell. (童话及传说中的)魔法; 魔咒
+
+========================================================================
+>>> encyclopedia
+------------------------------------------------------------------------
+encyclopedia    [美 ɪnˌsaɪkləˈpidiɚ / 英 ɪnˌsaɪkləˈpiːdiə]
+n. 百科全书（亦是encyclopaedia）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An encyclopedia is a book or set of books in which facts about many different subjects or about one particular subject are arranged for reference, usually in alphabetical order. 百科全书
+
+========================================================================
+>>> encyclopaedia
+------------------------------------------------------------------------
+encyclopaedia    [美 ɪn,saɪklə'pidɪə / 英 ɪn,saɪklə'pidɪə]
+n. 百科全书
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They were still driving away at the encyclopaedia. 他们仍在孜孜不倦地编写那部百科全书。
+≫   I might do an eighth book for charity, a kind of encyclopaedia of the world so that I could use all the extra material that's not in the books ... we'll see! 我可能出于慈善的目的写第八本书，大概是有关这个世界的百科全书，这样我可以使用书中没能出现的所有额外材料······敬请期待！
+≫   An encyclopaedia's-worth of knowledge feels trivialised when it can be generated with just a few strokes on the keyboard, just as the live chatter of the world becomes so much waste paper. 当仅靠敲打几下键盘就能创作出那样的作品时，一种百科全书式的学问感瞬间变得微不足道，正如同那对这个世界鲜活的唠叨变成这里的一堆废纸那样。
+
+========================================================================
+>>> wikipedia
+------------------------------------------------------------------------
+wikipedia    [美 viki'pidi:ə / 英 vɪkɪ'pɪdiːə]
+维基百科（一个基于wiki技术的多语言的百科全书协作计划，也是一部用不同语言写成的网络百科全书， 其目标及宗旨是为全人类提供自由的百科全书）；开放性的百科全书
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Or do you prefer accessing Wikipedia via the web? 或者你更喜欢通过网络浏览维基百科？
+≫   This is yet another important milestone in the evolution of Wikipedia. 这对维基百科的发展而言是又一个里程碑。
+≫   So are you among the ones who go over to the other Wikis for information or do you remain rooted to the main Wikipedia? 那么你会是到其他的维基上面寻找信息中的一个，还是根深蒂固的到维基百科主站寻找信息？
+
+========================================================================
+>>> toadstools
+------------------------------------------------------------------------
+toadstool    [美 ˈtoʊdstuːl / 英 ˈtəʊdstuːl]
+n. 毒菌；伞菌；羊肚菌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A toadstool is a mushroom that you cannot eat because it is poisonous. 毒蘑菇
+
+========================================================================
+>>> hags
+------------------------------------------------------------------------
+hag    [美 hæɡ / 英 hæɡ]
+n. 女巫；丑老太婆
+n. （Hag）人名；（阿拉伯）哈吉；（瑞典）哈格；（法）阿格；（匈）豪格
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If someone refers to a woman as a hag, they mean that she is ugly, old, and unpleasant. 丑老太婆 [侮辱]
+2. (N-COUNT) a firm spot in a bog 沼泽地中之硬地 [SCOTTISH] [DIALECT]
+
+========================================================================
+>>> moste
+------------------------------------------------------------------------
+moste    [英 məʊst]
+v. （古语）可能，也许（mote的过去式）
+n. （Moste）（美）莫斯特（人名）
+
+========================================================================
+>>> potente
+------------------------------------------------------------------------
+potente
+adj. （纹章装饰）T型拼花毛皮样的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> moste potente potions
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7799
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> moste potente
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：7844
+moste potente
+也许potente
+
+========================================================================
+>>> voyage
+------------------------------------------------------------------------
+voyage    [美 'vɔɪɪdʒ / 英 'vɒɪɪdʒ]
+n. 航行；航程；旅行记
+vi. 航行；航海
+vt. 飞过；渡过
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A voyage is a long journey on a ship or in a spacecraft. 航程
+   ≫   He aims to follow Columbus's voyage to the West Indies.  他打算沿着哥伦布的航程到达西印度群岛。
+
+========================================================================
+>>> vampires
+------------------------------------------------------------------------
+vampires    ['væmpaiə]
+n. 吸血鬼；榨取别人钱财者；勾引男子的荡妇；吸血蝠（vampire的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vampire is a creature in legends and horror stories. Vampires are said to come out of graves at night and suck the blood of living people. 吸血鬼
+
+========================================================================
+>>> werewolves
+------------------------------------------------------------------------
+werewolves    ['wiəwulvz]
+n. 狼人（werewolf的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In stories and movies, a werewolf is a person who changes into a wolf. (故事、电影中的)狼人
+
+========================================================================
+>>> yeti
+------------------------------------------------------------------------
+yeti    [美 'jɛti / 英 'jetɪ]
+n. 雪人（等于Abominable Snowman）
+n. (Yeti)人名；(西)耶蒂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → same as
+
+========================================================================
+>>> abominable
+------------------------------------------------------------------------
+abominable    [美 ə'bɑmɪnəbl / 英 ə'bɒm(ə)nəb(ə)l]
+adj. 讨厌的；令人憎恶的；糟透的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is abominable is very unpleasant or bad. 恶劣的
+   ≫   The president described the killings as an abominable crime.  总统称这系列杀戮为恶劣的罪行。
+
+========================================================================
+>>> snowman
+------------------------------------------------------------------------
+snowman    [美 'snomæn / 英 'snəʊmæn]
+n. 雪人
+n. (Snowman)人名；(英)斯诺曼
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snowman is a large shape which is made out of snow, especially by children, and is supposed to look like a person. 雪人
+
+========================================================================
+>>> sorcery
+------------------------------------------------------------------------
+sorcery    [美 'sɔrsəri / 英 'sɔːs(ə)rɪ]
+n. 魔术，巫术
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Sorcery is magic performed by using the power of evil spirits. 巫术
+
+========================================================================
+>>> liquorice
+------------------------------------------------------------------------
+liquorice    [美 'lɪkərɪʃ / 英 'lɪk(ə)rɪʃ; -rɪs]
+n. 甘草；甘草根；由甘草根熬成的精
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Spices, like cinnamon stick, liquorice root or vanilla pod. 肉桂棒，甘草根、香草荚。
+≫   Both garlic and echinacea are antiviral and antibacterial and liquorice is a good immune system enhancer. 大蒜和松果菊属植物都是既抗病毒又抗细菌, 甘草也具有极佳的增强免疫的功能。
+≫   The formula used in the experiment consists of four herbs – extract of peonies, a pretty purple flower called skullcap, together with liquorice and fruit from a buckthorn tree. 试验所用到的方剂由四味药组成：芍药、黄芩、甘草和大枣。
+
+========================================================================
+>>> glory
+------------------------------------------------------------------------
+glory    [美 'ɡlɔri / 英 'glɔːrɪ]
+n. 光荣，荣誉；赞颂
+vi. 自豪，骄傲；狂喜
+n. (Glory)人名；(法)格洛里
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Glory is the fame and admiration that you gain by doing something impressive. 荣耀
+   ≫   Walsham had his moment of glory when he won a 20km race.  沃尔沙姆有过赢得20公里赛跑的光荣时刻。
+2. (N-PLURAL) A person's glories are the occasions when they have done something people greatly admire which makes them famous. 辉煌成就
+   ≫   The album sees them re-living past glories but not really breaking any new ground.  在这张专辑中他们重温了昔日的辉煌成就，却没有任何真正新的突破。
+
+========================================================================
+>>> blowing gum
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> humbug
+------------------------------------------------------------------------
+humbug    [英 'hʌmbʌg / 美 'hʌmbʌɡ]
+n. 骗子；欺骗；谎话
+vt. 欺骗；哄骗
+vi. 行骗
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you describe someone's language or behaviour as humbug, you mean that it is dishonest or insincere. 欺骗; 空话
+   ≫   There was all the usual humbug and obligatory compliments from ministers.  全都是些部长们常说的谎言和奉承恭维。
+
+========================================================================
+>>> dementor
+------------------------------------------------------------------------
+Dementor
+n. 摄魂怪（哈利·波特中的角色名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Two years later (2004), he drove the Dementor, rescued his godfather. 两年后(2004)，他赶走了摄魂怪，救出了他的教父。
+≫   A dementor is a Dark creature, considered one of the foulest to inhabit the world. 摄魂怪是一种黑暗生物，被认为是世界上最令人痛恶的种族。
+≫   On the evening of August 2, 1995, Dudley was attacked by a Dementor in the alley between Wisteria Walk and Magnolia Crescent, about two streets away from his home. 在1995年8月2日的傍晚，达力在紫藤路和木兰花新月街之间的小巷遭到了摄魂怪的袭击，那里离他的家大概有两条街的距离。
+
+========================================================================
+>>> veela
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> veela
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8456
+veela
+休闲套装
+
+========================================================================
+>>> leprechaun
+------------------------------------------------------------------------
+leprechaun    [英 'leprəkɔːn / 美 'lɛprəkɔn]
+n. （爱尔兰民间传说中的）小妖精
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In Irish folklore, a leprechaun is an imaginary creature that looks like a little old man. (爱尔兰)小老头精灵
+   ≫   You could search forever in Ireland, but you'd never find a leprechaun.  你在爱尔兰无休止地找也不会找到一个小老头精灵。
+
+========================================================================
+>>> bobby
+------------------------------------------------------------------------
+bobby    [美 'bɑbi / 英 'bɒbɪ]
+n. 警察
+n. (Bobby)人名；(英)博比
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] a British policeman 英国警察
+
+========================================================================
+>>> bobby-trapped
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> serpent
+------------------------------------------------------------------------
+serpent    [美 'sɝpənt / 英 'sɜːp(ə)nt]
+n. 蛇（尤指大蛇或毒蛇）；狡猾的人
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] A serpent is a snake. 蛇
+   ≫   ...the serpent in the Garden of Eden.  …伊甸园里的那条蛇。
+
+========================================================================
+>>> vampire
+------------------------------------------------------------------------
+vampire    [英 'væmpaɪə /  'væmpaɪə]
+n. 吸血鬼；[脊椎] 吸血蝙蝠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vampire is a creature in legends and horror stories. Vampires are said to come out of graves at night and suck the blood of living people. 吸血鬼
+
+========================================================================
+>>> dracula
+------------------------------------------------------------------------
+dracula    [英 'drækjulə /  'drækjulə]
+n. 吸血鬼，又叫惊情四百年（电影名）；德拉库拉（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They dress up as ghosts, witches or frightening Dracula. 他们装扮成鬼、巫婆或者可怕的吸血鬼。
+≫   In the novel, Dracula roams about in daylight, though his strength is weakened. 在小说里，吸血鬼在白天出没，虽然这时他的力量很弱。
+≫   The novel itself is an epistolary, written entirely in letters by its cast of characters, though Dracula himself is revealed only through the impressions of others. 这部小说本身是由主演以书信的形式记录的，虽然吸血鬼本身只能通过其他人想象才能显示出来。
+
+========================================================================
+>>> gnome
+------------------------------------------------------------------------
+gnome    [英 nəʊm /  nəʊm]
+n. 土地神；格言；箴言
+linux下的桌面环境
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In children's stories, a gnome is an imaginary creature that is like a tiny old man with a beard and pointed hat. 小矮人
+2. (N-COUNT) a short pithy saying or maxim expressing a general truth or principle 格言
+
+========================================================================
+>>> pixie
+------------------------------------------------------------------------
+pixie    [英 'pɪksɪ / 美 'pɪksi]
+n. 小精灵，小仙子
+adj. 调皮捣蛋的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pixie is an imaginary little creature like a fairy. Pixies have pointed ears and wear pointed hats. (童话中长着尖耳、头戴尖顶帽的)小精灵; 小仙子
+
+========================================================================
+>>> basilisk
+------------------------------------------------------------------------
+basilisk    [美 ˈbæzɪlɪsk / 英 ˈbæzɪlɪsk]
+n. 巴西利斯克（西方传说的蛇怪）；一种老式火炮；一种美洲有冠蜥蜴
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) (in classical legend) a serpent that could kill by its breath or glance (古典传说中能够用呼吸和眼神杀死人或动物的)蛇怪
+
+========================================================================
+>>> fluffy
+------------------------------------------------------------------------
+fluffy    [美 'flʌfi / 英 'flʌfɪ]
+adj. 蓬松的；松软的；毛茸茸的；无内容的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something such as a towel or a toy animal as fluffy, you mean that it is very soft. 柔软的
+   ≫   ...fluffy white towels.  …柔软的白毛巾。
+2. (ADJ) A cake or other food that is fluffy is very light because it has a lot of air in it. (蛋糕或其它食品) 松软的
+   ≫   Cream together the margarine and sugar with a wooden spoon until light and fluffy.  用一只木勺将人造黄油和食糖搅拌为稀松的糊状。
+
+========================================================================
+>>> phoenix
+------------------------------------------------------------------------
+phoenix    [美 'finɪks / 英 'fiːnɪks]
+n. 凤凰；死而复生的人
+n. (Phoenix)人名；(英)菲尼克斯
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing] A phoenix is an imaginary bird that, according to ancient stories, burns itself to ashes every five hundred years and is then born again. 凤凰
+2. [文学性] If you describe someone or something as a phoenix, you mean that they return again after seeming to disappear or be destroyed. 失而复现或毁而再生者
+   ≫   Out of the ashes of the economic shambles, a phoenix of recovery can arise.  复苏之凤会从经济废墟的灰烬中腾飞而起。
+
+========================================================================
+>>> shambles
+------------------------------------------------------------------------
+shambles    [英 'ʃæmb(ə)lz /  'ʃæmb(ə)lz]
+n. 混乱；废墟；屠宰场（shamble的复数）
+v. 蹒跚而行（shamble的第三人称单数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) If a place, event, or situation is a shambles or is in a shambles, everything is in disorder. 混乱
+   ≫   The ship's interior was an utter shambles.  那艘船的内部一片狼藉。
+
+========================================================================
+>>> griffin
+------------------------------------------------------------------------
+griffin    [英 'grɪfɪn / 美 'ɡrɪfɪn]
+n. 格里芬（姓氏）；希腊神话中半狮半鹫的怪兽
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In mythology, a griffin is a winged creature with the body of a lion and the head of an eagle. (神话中的)狮鹫
+2. (N-COUNT) a newcomer to the Orient, esp one from W Europe (从西欧)初到远东的人
+
+========================================================================
+>>> merpeople
+------------------------------------------------------------------------
+merpeople
+n. 人鱼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They marry in a wonderful wedding attended by humans and merpeople. 奇妙的婚礼还在人和鱼族里进行。
+≫   There was a soft splashing noise to his left and he saw that the merpeople had broken the surface to listen too. 左边传来了水花泼溅的声音，他扭头一看，那些人鱼都冒出了水面，也在仔细地倾听。
+
+========================================================================
+>>> ghoul
+------------------------------------------------------------------------
+ghoul    [美 ɡul / 英 guːl]
+n. （东方神话中的）食尸鬼；盗墓者；以做恐怖事情为乐者
+n. (Ghoul)人名；(阿拉伯)古勒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ghoul is an imaginary evil spirit. Ghouls are said to steal bodies from graves and eat them. 食尸鬼
+
+========================================================================
+>>> centaru
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> centaur
+------------------------------------------------------------------------
+centaur    [美 'sɛntɔr / 英 'sentɔː]
+n. 半人马座；人首马身的怪物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In classical mythology, a centaur is a creature with the head, arms, and chest of a man, and the body and legs of a horse. (古典神话中)人首马身的动物
+
+========================================================================
+>>> unicorn
+------------------------------------------------------------------------
+unicorn    [美 'junɪkɔrn / 英 'juːnɪkɔːn]
+n. 独角兽；麒麟
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In stories and legends, a unicorn is an imaginary animal that looks like a white horse and has a horn growing from its forehead. 独角兽; 神话中似马前额有直角的动物
+
+========================================================================
+>>> sphinx
+------------------------------------------------------------------------
+sphinx    [英 sfɪŋks / 美 sfɪŋks]
+n. （古埃及）狮身人面像；难于理解的人；天蛾
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'the' N in sing] The sphinx is a large ancient statue of a creature with a human head and a lion's body that stands near the pyramids in Egypt. In mythology, sphinxes gave people puzzles to solve, and so a person who is mysterious or puzzling is sometimes referred to as a sphinx. 狮身人面像
+
+========================================================================
+>>> kappa
+------------------------------------------------------------------------
+kappa    [美 'kæpə / 英 'kæpə]
+n. 希腊文第十个字母
+n. (Kappa)人名；(匈)考保；(巴布)卡帕；(日)合羽 (姓)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the tenth letter in the Greek alphabet (Κ, κ), a consonant, transliterated as c or k 希腊文字母第十个字母
+
+========================================================================
+>>> gnome
+------------------------------------------------------------------------
+gnome    [英 nəʊm /  nəʊm]
+n. 土地神；格言；箴言
+linux下的桌面环境
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In children's stories, a gnome is an imaginary creature that is like a tiny old man with a beard and pointed hat. 小矮人
+2. (N-COUNT) a short pithy saying or maxim expressing a general truth or principle 格言
+
+========================================================================
+>>> hippogriff
+------------------------------------------------------------------------
+hippogriff    [美 ˈhɪpoʊˌɡrɪf / 英 ˈhɪpəʊˌɡrɪf]
+n. 鹰头马身有翅怪兽
+alsohippogryph
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a monster of Greek mythology with a griffin's head, wings, and claws and a horse's body 希腊神话中鹰头马身有翅、爪的怪兽
+
+========================================================================
+>>> hieroglyphs
+------------------------------------------------------------------------
+hieroglyphs    ['haiərəuɡlif]
+象形文字（ hieroglyph的名词复数 ）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Hieroglyphs are symbols in the form of pictures, which are used in some writing systems, especially those of ancient Egypt. (尤指古埃及)象形字; 象形符号
+
+========================================================================
+>>> logograms
+------------------------------------------------------------------------
+logogram    [美 ˈlɔːɡəɡræm / 英 ˈlɒɡəɡræm]
+n. 简写；速记用略字；标记
+alsologograph
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a single symbol representing an entire morpheme, word, or phrase, as for example the symbol (%) meaning per cent 语标; 词符
+
+========================================================================
+>>> servicing kit
+------------------------------------------------------------------------
+service kit
+维修工具包：一种包含各种维修工具和备件的工具包，通常用于维修机器、设备或车辆等。
+
+========================================================================
+>>> cloal
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cloak
+------------------------------------------------------------------------
+cloak    [英 kləʊk / 美 klok]
+n. 斗蓬；宽大外衣；托词
+vt. 遮掩；隐匿
+n. (Cloak)人名；(英)克洛克
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cloak is a long, loose, sleeveless piece of clothing which people used to wear over their other clothes when they went out. 斗篷
+2. (N-SING) A cloak of something such as mist or snow completely covers and hides something. (如雾雪的) 掩盖
+   ≫   Today most of New England will be under a cloak of thick mist.  今天新英格兰大部分地区会在浓雾的笼罩中。
+3. (N-SING) If you refer to something as a cloak, you mean that it is intended to hide the truth about something. 幌子
+   ≫   Preparations for the wedding were made under a cloak of secrecy.  婚礼的准备工作是在秘密的掩饰中进行的。
+
+========================================================================
+>>> daily prophet
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：9670
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> prophet
+------------------------------------------------------------------------
+prophet    [美 'prɑfɪt / 英 'prɒfɪt]
+n. 先知；预言者；提倡者
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prophet is a person who is believed to be chosen by God to say the things that God wants to tell people. 先知
+   ≫   ...the sacred name of the Holy Prophet of Islam.  …伊斯兰教神圣先知之圣名。
+
+========================================================================
+>>> parchment
+------------------------------------------------------------------------
+parchment    [美 'pɑrtʃmənt / 英 'pɑːtʃm(ə)nt]
+n. 羊皮纸；羊皮纸文稿
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) In former times, parchment was the skin of a sheep or goat that was used for writing on. 羊皮纸
+   ≫   ...old manuscripts written on parchment.  ...书写在羊皮纸上的旧手稿。
+2. (N-UNCOUNT) Parchment is a kind of thick yellowish paper. 仿羊皮纸
+   ≫   ...an old lamp with a parchment shade.  ...装着仿羊皮纸灯罩的一盏旧台灯。
+
+========================================================================
+>>> quill
+------------------------------------------------------------------------
+quill    [美 kwɪl / 英 kwɪl]
+n. 大翎毛；羽茎；（豪猪、刺猬的）刚毛
+vt. 刺穿
+n. (Quill)人名；(英)奎尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A quill is a pen made from a bird's feather. 羽毛笔
+   ≫   She dipped a quill in ink, then began to write.  她把羽毛笔蘸进墨水中，然后开始写字。
+2. (N-COUNT) A bird's quills are large, stiff feathers on its wings and tail. 鸟类翅膀及尾部的羽毛
+3. (N-COUNT) The quills of a porcupine are the long sharp points on its body. (豪猪身上的)刺
+
+========================================================================
+>>> revealer
+------------------------------------------------------------------------
+revealer    [美 rɪˈvilər / 英 rɪˈvi:lə]
+n. 启示者；探测器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A new machine called 'The Revealer' has been invented. 一种叫“探宝器”的新机器已经发明出来。
+≫   But he is the creator and definer and revealer of love and mercy, not us. 但是，祂才是“慈爱”和“怜悯”的创造者、定义者和启示者，我们不是。
+≫   In spite of this, many people are confident that 'The Revealer 'may reveal something of value fairly soon. 如此，许多人相信，这架探测器不久便会探出有价值的东西来。
+
+========================================================================
+>>> sneak
+------------------------------------------------------------------------
+sneak    [美 snik / 英 sniːk]
+vi. 溜；鬼鬼祟祟做事；向老师打小报告
+vt. 偷偷地做；偷偷取得
+n. 鬼鬼祟祟的人；偷偷摸摸的行为；告密者
+adj. 暗中进行的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you sneak somewhere, you go there very quietly on foot, trying to avoid being seen or heard. 偷偷地走
+   ≫   Sometimes he would sneak out of his house late at night to be with me.  有时候他会在深夜偷偷溜出他的家来陪伴我。
+2. (V-T) If you sneak something somewhere, you take it there secretly. 偷偷地拿
+   ≫   He smuggled papers out each day, photocopied them, and snuck them back.  他每天都把文件偷带出来，复印后又偷偷送回去。
+3. (V-T) If you sneak a look at someone or something, you secretly have a quick look at them. 偷偷地看
+   ≫   You sneak a look at your watch to see how long you've got to wait.  你偷偷看一眼手表，看还要等多久。
+
+========================================================================
+>>> sneakoscope
+------------------------------------------------------------------------
+sneakoscope
+窥镜
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sneakoscope - A device which looks something like a gyroscope and which gives off a whistling sound when someone untrustworthy is around. 当周围有不可信任的人时，它就会发出像口哨一样的声音。
+
+========================================================================
+>>> invisibility cloak
+------------------------------------------------------------------------
+invisibility cloak
+隐形斗篷：一种虚构的魔法道具，可以使穿戴者变得隐形。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Scientists are getting damn close to inventing a true invisibility cloak. 科学家们已无限接近于制成一件真正隐身衣的事实了。
+≫   Read about another Harry Potter-like technology: "New Invisibility Cloak Close to Working 'Magic.'" 阅读另一篇有关哈利·波特式科技的文章：《如施了“魔法”的新型隐形斗篷》。
+≫   However, an invisibility cloak designed to hide something from people who were looking for it would not work. 而设计用来遁形于搜寻者视线之外的隐身斗篷却不会起什么作用。
+
+========================================================================
+>>> Marauder
+------------------------------------------------------------------------
+marauder    [mə'rɔ:də]
+n. 掠夺者；抢劫者；猛虎
+n. (Marauder)人名；(英)马劳德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] If you describe a group of people or animals as marauders, you mean they are unpleasant and dangerous, because they wander around looking for opportunities to steal or kill. 强盗; 劫掠者; 攫食的动物
+   ≫   They were raided by roaming bands of marauders.  他们遭到了流窜作案的抢劫团伙的袭击。
+
+========================================================================
+>>> The Marauder's Map
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10088
+The Marauder's Map
+活点地图
+
+========================================================================
+>>> robes
+------------------------------------------------------------------------
+robes    [美 robz / 英 rəʊbz]
+n. 长袍；礼服
+v. （使）穿上长袍，礼服等（robe的第三人称单数）
+n. (Robes)人名；(西)罗韦斯
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A robe is a loose piece of clothing that covers all of your body and reaches the ground. You can describe someone as wearing a robe or as wearing robes. 长袍
+   ≫   Pope John Paul II knelt in his white robes before the simple altar.  约翰•保罗二世教皇身着白色长袍跪在简朴的祭坛前。
+2. (N-COUNT) A robe is a piece of clothing, usually made of towelling, which people wear in the house, especially when they have just got up or taken a bath. 睡袍; 浴衣
+   ≫   Kyle put on a robe and went down to the kitchen.  凯尔穿上睡袍，下楼去了厨房。
+
+========================================================================
+>>> cauldron
+------------------------------------------------------------------------
+cauldron    [美 'kɔldrən / 英 'kɔːldr(ə)n; 'kɒl-]
+n. 大汽锅，大锅；煮皂锅
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] A cauldron is a very large, round metal pot used for cooking over a fire. (金属) 大锅
+   ≫   ...a witch's cauldron.  …一个女巫的大锅。
+
+========================================================================
+>>> Imperio
+------------------------------------------------------------------------
+Imperio
+n. （意）因佩里奥（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Imperio alludes to sovereignty or territorial control and may be exercised over a stato. “Imperio”暗示着对主权和领土的控制，也许可以由一个“ stato ”来执行。
+≫   Harry acted without thinking: Pointing his wand at Travers, he muttered, "Imperio! " once more. 哈利不假思索地采取行动，他将魔杖指向了特拉弗斯，再次低声喝道：“魂魄出窍！”
+≫   Some of the most famous flamenco artists are shown, but seldom in performance: postcards of Pastor Imperio in repose; close-ups of Carmen Amaya's hands (even in death). 部分最著名的弗拉明戈艺术家出现在展览中，但是很少是在表演：在明信片中，牧师因佩里奥正在休息；在特写镜头中有卡门·阿马亚的双手(甚至是他去世之后拍的)。
+
+========================================================================
+>>> Crucio
+------------------------------------------------------------------------
+Crucio
+钻心剜骨
+
+========================================================================
+>>> Avada Kedavra
+------------------------------------------------------------------------
+Avada Kedavra
+阿瓦达诅咒：在哈利·波特系列小说中，这是一种黑魔法咒语，被认为是最致命的咒语之一，可以立即杀死目标。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A spell can be "deflected" and "rebound," as Voldemort's attempted Avada Kedavra against Harry in 1981 did (GF 33). 一个咒语可以“偏斜”或“反弹”，就像在1981年，伏地魔被哈利反弹回的阿瓦达索命咒击中(火焰杯第33章)。
+
+========================================================================
+>>> Expecto Patronum
+------------------------------------------------------------------------
+Expecto Patronum
+意指“期待守护神”，这是《哈利·波特》系列中的一个咒语，用于驱散摄魂怪等黑暗生物。
+
+========================================================================
+>>> Alohomora
+------------------------------------------------------------------------
+Alohomora
+n. 阿拉霍洞开（《哈利波特》系列中的开锁咒）
+
+========================================================================
+>>> Wingardium Leviosa
+------------------------------------------------------------------------
+Wingardium Leviosa
+羽加迪姆勒维奥萨（《哈利·波特》中的悬浮咒）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In desperation Harry pointed his wand at the sidecar and shouted, "Wingardium Leviosa! "" 绝望中，哈利用魔杖指着挎斗，大喊一声：“羽加迪姆勒维奥萨！”
+
+========================================================================
+>>> Lumos Maxima
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Lumos
+------------------------------------------------------------------------
+Lumos
+n. 魔杖照明咒（《哈利波特》中的咒语名）
+n. 荧光闪烁 （J.K.罗琳成立的英国慈善机构名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "Lumos," said Dumbledore, as he reached the boulder closest to the cliff face. “荧光闪烁！”邓布利多下到最靠近悬崖正面的那块巨型卵石上，蹲下身念了句咒语。
+≫   Description: a charm to cancel out lumos. Removes the light from the spell-caster's wand. 描述：取消荧光闪烁，移除施咒者魔杖上发出的光。
+
+========================================================================
+>>> Maxima
+------------------------------------------------------------------------
+maxima    ['mæksəmə]
+n. 最大数，极大值；最大限度，极限；顶点，最高；maximum的复数
+n. (Maxima)人名；(葡)马克西马
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → a plural of
+
+========================================================================
+>>> Burrow
+------------------------------------------------------------------------
+burrow    [美 'bɝro / 英 'bʌrəʊ]
+vi. 探索，寻找；挖地洞，挖通道；住入地洞，躲藏起来；钻进某处；偎依著
+vt. 挖掘，挖出；在…挖洞（或通道）；使躲入洞穴
+n. （兔、狐等的）洞穴，地道；藏身处，住处
+n. (Burrow)人名；(英)伯罗
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A burrow is a tunnel or hole in the ground that is dug by an animal such as a rabbit. 洞穴
+   ≫   Normally timid, they rarely stray far from their burrows.  它们通常很胆小，极少远离自己的洞穴。
+2. (V-I) If an animal burrows into the ground or into a surface, it moves through it by making a tunnel or hole. 掘地洞
+   ≫   The larvae burrow into cracks in the floor.  幼虫钻进地板的裂缝中。
+3. (V-I) If you burrow in a container or pile of things, you search there for something using your hands. 翻找
+   ≫   ...the enthusiasm with which he burrowed through old records in search of facts.  …他为了弄清事实在老档案中翻查的热情。
+4. (V-I) If you burrow into something, you move underneath it or press against it, usually in order to feel warmer or safer. 钻进
+   ≫   She turned her face away from him, burrowing into her heap of covers.  她从他那边背过脸去，钻进她的被窝里。
+
+========================================================================
+>>> wizard and witch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10693
+wizard and witch
+男巫和女巫
+
+========================================================================
+>>> warlock and witch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10756
+warlock and witch
+男巫和女巫
+
+========================================================================
+>>> warlock
+------------------------------------------------------------------------
+warlock    [美 'wɔrlɑk / 英 'wɔːlɒk]
+n. 术士；魔术师
+n. (Warlock)人名；(英)沃洛克
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a man who practises black magic; sorcerer 男巫
+
+========================================================================
+>>> sorcerer
+------------------------------------------------------------------------
+sorcerer    [美 'sɔrsərɚ / 英 'sɔːs(ə)rə]
+n. 魔术师；男巫士
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In fairy tales, a sorcerer is a person who performs magic by using the power of evil spirits. (童话故事中会施魔法的)方士
+
+========================================================================
+>>> corcery
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> sorcery
+------------------------------------------------------------------------
+sorcery    [美 'sɔrsəri / 英 'sɔːs(ə)rɪ]
+n. 魔术，巫术
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Sorcery is magic performed by using the power of evil spirits. 巫术
+
+========================================================================
+>>> muggle
+------------------------------------------------------------------------
+muggle    [英 'mʌg(ə)l /  'mʌg(ə)l]
+n. 麻瓜（不会魔法的人）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What a boring muggle this man is. 这男的是一个多无趣的麻瓜啊。
+≫   Muggle flocked to see Harry Potter and the Sorcerer's Stone which grosses nearly a billion dollars worldwide. 麻瓜们成群结队去看哈利波特和魔法石，这部电影在世界上净收十万美元。
+≫   In the Muggle world, there is all kind of work that could make this possible, for instance drugs to dampen down traumatic memories. 在麻瓜世界里，有很多种方法也可以实现记忆消除，比如，使用药物来消退创伤记忆。
+
+========================================================================
+>>> tournament
+------------------------------------------------------------------------
+tournament    [美 ˈtɝ​nəmənt / 英 ˈtɔ:nəmənt]
+n. 锦标赛，联赛；比赛
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tournament is a sports competition in which players who win a match continue to play further matches in the competition until just one person or team is left. 锦标赛
+   ≫   ...the biggest golf tournament to be held in Australia.  …即将在澳大利亚举行的最大规模的高尔夫球锦标赛。
+
+========================================================================
+>>> sorting hat
+------------------------------------------------------------------------
+sorting hat
+分院帽：一个神奇的帽子，出现在《哈利·波特》系列中，用于将霍格沃茨魔法学院的新生分配到四个学院之一。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Sorting Hat takes your choice into account. 分院帽会考虑你的选择的。
+≫   Harry: So the Sorting Hat was right. I should be a Slytherin. 哈里：所有分类帽是对的。我应该去斯雷瑟林学院。
+≫   As for the reception? Hang onto your sorting hat, things are about to get crazy! 至于接待？你得抓紧自己的分院帽，事情正开始变得疯狂！
+
+========================================================================
+>>> goblin
+------------------------------------------------------------------------
+goblin    [英 'gɒblɪn / 美 'ɡɑblɪn]
+n. 小妖精；顽皮的丑小鬼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In fairy stories, a goblin is a small, ugly creature which usually enjoys causing trouble. (童话中爱生事的)小丑怪
+
+========================================================================
+>>> thestral
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Voldemort
+------------------------------------------------------------------------
+Voldemort    ['vɔldəmɔ:(t)]
+n. 伏地魔（《哈利波特》里的人物）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tom: Voldemort is my past, present and future! 汤姆：伏地魔是我的过去，也是现在和未来！
+≫   As the film begins, the Ministry of Magic is crumbling in the malefic grip of Voldemort (Ralph Fiennes), and Harry has a price on his head. 在剧情的开始，魔法部在伏地魔（拉尔夫·费因斯）势力的渗透下危机四伏，而哈利的价值正是他的生命。
+≫   Voldemort was after your time. 伏地魔是在你之后的事。
+
+========================================================================
+>>> Harry Potter
+------------------------------------------------------------------------
+Harry Potter
+哈利·波特（著名系列小说《哈利·波特》中的主人公）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The college hall is used in the Harry Potter films. 该学院礼堂出现在《哈利·波特》系列电影中。
+≫   So far, I have read all her works about Harry Potter. 到目前为止，我读了她所有关于哈利·波特的作品。
+≫   I was lonely, and Harry Potter helped me get better. 我很孤独，《哈利·波特》帮助我变得更好。
+
+========================================================================
+>>> Ron Weasley
+------------------------------------------------------------------------
+Ron Weasley
+n. 罗恩·韦斯莱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Ron Weasley: No… Can you introduce me. 罗恩：“这个……你能介绍的吧？”
+≫   Ron Weasley: No... Can you introduce me? 罗恩：“这个……你能给我介绍的吧？”
+≫   Ron Weasley: Bre we forming some sort of wizard army? 罗恩·韦斯莱：咱们是在组建一支神巫军吗？
+
+========================================================================
+>>> Hermione Granger
+------------------------------------------------------------------------
+Hermione Granger
+n. 赫敏·格兰杰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   One was named Hermione Granger, the other Emma Watson. 一个叫赫敏·格兰杰，另一个叫艾玛·沃特森。
+≫   Hermione Granger: The staircases change, remember? 赫敏·格兰杰：楼梯会变来变去，记得吗？
+≫   Looks like Draco Malfoy cast a love spell on Hermione Granger! 看来德拉克·马尔福对赫敏·格兰杰用过爱情咒语哦！
+
+========================================================================
+>>> Albus Dumbledore
+------------------------------------------------------------------------
+Albus Dumbledore
+n. 阿不思·邓不利多
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Harry and Hermione clutch The Life and Lies of Albus Dumbledore by Rita Skeeter, which reveals the secret past of the late Hogwarts headmaster. 哈利与赫敏紧握丽塔·斯基特写的《邓布利多的人生与谎言》，其中披露了已故霍格沃茨校长的秘密往事。
+≫   Albus Dumbledore is the greatest sorcerer in the world! 阿不思·邓不利多才是世界上最伟大的魔法师！ ！
+≫   Albus Dumbledore: Professor, I would trust Hagrid with my life. 阿不思。邓不利多：教授，我能把我的性命交付给海格。
+
+========================================================================
+>>> Lord Voldemort
+------------------------------------------------------------------------
+Lord Voldemort
+n. 伏地魔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   You lied to Lord Voldemort, Ollivander! 你欺骗了伏地魔大人，奥利凡德！
+≫   The boy wizard landed fourth place, and Lord Voldemort only just made the top twenty at number 17. 这个小男巫排在第四位，而伏地魔则在前二十名中排第17位。
+≫   If the boy had destroyed any of his Horcruxes, he, Lord Voldemort, would have known, would have felt it? 如果那男孩销毁了他的某个魂器，他，伏地魔，肯定会知道，肯定会感觉到吧？
+
+========================================================================
+>>> Peter Pettigrew
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Sirius Black
+------------------------------------------------------------------------
+Sirius Black
+小天狼星布莱克：《哈利·波特》系列小说中的角色，是哈利波特的教父，一位勇敢而忠诚的巫师。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Young Sirius Black lent it to me. 年轻的小天狼星·布莱克借给我的。
+≫   It was searching the train for Sirius Black. 它在火车上搜寻小天狼星布莱克。
+≫   HOW DARE YOU SPEAK LIKE THAT ABOUT SIRIUS BLACK? 居然敢那么说小天狼星·布莱克？
+
+========================================================================
+>>> Remembrall
+------------------------------------------------------------------------
+remembrall
+记忆球
+
+========================================================================
+>>> Pensieve
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Pensieve
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11627
+Pensieve
+冥想盆
+
+========================================================================
+>>> Deathly Hallows
+------------------------------------------------------------------------
+Deathly Hallows
+n. 死神圣物；死亡圣器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Harry might have saved Griphook's wrinkly skin at the end of Deathly Hallows Part 1, but that doesn't mean the goblin is ready to join the fight . 在《死亡圣器（上）》中，哈利也许救下了地精拉环皱皱的皮肤，但这并不意味着这个地精会立刻加入到对抗中。
+≫   Harry Potter and the Deathly hallows. 《哈利·波特与致命圣物》。
+≫   Harry doesn't do a lot of especially interesting things in Deathly Hallows. 哈利在《死亡圣器》里并没有太多出彩的戏份。
+
+========================================================================
+>>> Hallows
+------------------------------------------------------------------------
+Hallows
+n. （Hallows）人名；（英）哈洛斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to consecrate or set apart as being holy 作为神圣以和…区分; 把…奉为神圣
+
+========================================================================
+>>> House-elf
+------------------------------------------------------------------------
+house-elf
+n. 家养小精灵
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Dobby was a house-elf who served the Malfoy family. 多比是马尔福家族的家养小精灵。
+≫   This first one came from a very old house-elf by the name of Hokey. 他说，“第一个来自一个很老的家养小精灵，她叫郝琪。”
+≫   Harry: I see. Not to be rude or anything, but this isn't a great time for me to have a house-elf in my bedroom. 哈里：我知道了。不是我粗鲁，但是我认为在我的卧室里养一只房屋小精灵还不是时候。
+
+========================================================================
+>>> elf
+------------------------------------------------------------------------
+elf    [英 elf / 美 ɛlf]
+n. 小精灵；淘气鬼
+n. (Elf)人名；(芬、瑞典)埃尔夫
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In fairy tales, elves are small magical beings who play tricks on people. 小精灵
+
+========================================================================
+>>> Severus Snape
+------------------------------------------------------------------------
+Severus Snape
+n. 西弗勒斯·斯内普
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Severus Snape: Then prove it! 西弗勒斯·斯内普：那就证明它！
+≫   Severus Snape looked up at the lowering sky and sighed. 西弗勒斯抬头看了看天，叹了口气。
+≫   Severus Snape: you won't last two seconds if he invades your mind. 西弗勒斯·斯内普：如果他想侵入你的大脑，你连两秒钟都挺不住。
+
+========================================================================
+>>> Lupin
+------------------------------------------------------------------------
+lupin    ['lupɪn]
+n. 羽扇豆
+n. (Lupin)人名；(法)吕潘
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any leguminous plant of the genus Lupinus, of North America, Europe, and Africa, with large spikes of brightly coloured flowers and flattened pods 羽扇豆
+
+========================================================================
+>>> Tom Riddle
+------------------------------------------------------------------------
+Tom Riddle
+n. 汤姆·里德尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tom Riddle : Voldemort is my past, present, and future. 汤姆里德尔：伏地魔就是我的过去、现在还有未来。
+≫   "Yes, I dare," said Harry. "I know things you don't know, Tom Riddle." “是的，我敢，”哈利说，“我知道你所不知道的事情，汤姆·里德尔。”
+≫   And that was the last that was seen or heard of Tom Riddle for a very long time. 汤姆·里德尔在很长一段时间里销声匿迹了。
+
+========================================================================
+>>> Ronald Weasley
+------------------------------------------------------------------------
+Ronald Weasley
+罗恩·韦斯莱：《哈利·波特》系列小说中的一个角色，是哈利·波特的好友之一，来自一个巫师家庭。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I have seen your dreams, Ronald Weasley, and I have seen your fears. 我看见你的梦，罗恩韦斯利，我看见你的恐惧。
+≫   Second, to Mr. Ronald Weasley, for the best-played game of chess that Hogwarts has seen these many years, 50 points. 其次是罗恩·韦斯莱先生，霍格沃茨许多年都没出现过这样优秀的棋手了，加50分。
+≫   Second, to Mr. Ronald Weasley, for the best played game of chess that Hogwarts has seen these many years, 50 points. 其次是罗恩·韦斯莱先生，他下赢了许多年来霍格沃茨最精彩的一盘棋，加五十分。
+
+========================================================================
+>>> Minerva McGonagll
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Minerva McGonagall
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Minerva McGonagall
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12112
+Minerva McGonagall
+n. 米勒娃·麦格
+
+========================================================================
+>>> Rubeus Hagrid
+------------------------------------------------------------------------
+Rubeus Hagrid
+鲁伯·海格
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Rubeus Hagrid: It's changing out there. There's a storm coming, Harry, just like the last time. 鲁伯·海格：哈利，这里正在发生变化，一场暴风雨即将来临，就像上次一样。
+≫   Rubeus Hagrid: Little tyke fell asleep as we were flying over Bristol. Try not to wake him. There you go. 海格：小家伙一飞到布里斯托就睡着了。当心别吵醒他。你看。
+
+========================================================================
+>>> Gilderoy Lockhard
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Gilderoy Lockhart
+------------------------------------------------------------------------
+Gilderoy Lockhart
+n. 吉德罗·洛哈
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   One of the many exploits Gilderoy Lockhart claimed to have performed was to have defeated the Wagga Wagga Werewolf (CS10). 吉德罗•洛哈特声称的他的许多次英勇行为之一就是击败了沃加沃加狼人(《密室》第10章)。
+
+========================================================================
+>>> Remus Lupin
+------------------------------------------------------------------------
+Remus Lupin
+雷莫斯·卢平：《哈利·波特》系列小说中的角色，霍格沃茨魔法学校的前任黑魔法防御术老师，也是一位狼人。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Remus Lupin: You're blinded by hatred. 卢平：你是被冤仇蒙蔽拉双眼。
+≫   Remus Lupin: You "re blinded by hatred." 卢平：你是被仇恨蒙蔽了双眼。
+≫   Remus Lupin: Harry is the best hope we have. Trust him. 卢平：哈利是我们最宝贵的希望，相信他。
+
+========================================================================
+>>> Dolores Umbridge
+------------------------------------------------------------------------
+Dolores Umbridge
+n. 桃乐丝·恩不里居
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Dolores Umbridge: You were told that a certain Dark Wizard is back. Thellos is a lie. 多洛雷斯·乌姆里奇：有人告诉你某个黑神巫归来了，但那是假话。
+≫   He raised his right fist. There, shining white on the back of his cold hand, were the scars which Dolores Umbridge had forced him to carve into his own flesh: I must not tell lies. 他举起右拳，冰冷的手背上那道伤痕发着白光，那是乌姆里奇逼他刻下的字迹：我不可以说谎。
+≫   Cornelius Fudge: the Ministry of Magic is pleased to announce the appointment of Dolores Jane Umbridge as High Inquisitor, to address the falling standards at Hogwarts School. 康奈利·福吉：魔法部很高兴地宣布，多洛雷斯·简·乌姆里奇将出任高级调查官，挽救霍格·沃茨正在下降的整体水准。
+
+========================================================================
+>>> Horace Slughorn
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Horace Slughorn
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12446
+Horace Slughorn
+霍拉斯•斯拉格霍恩
+
+========================================================================
+>>> Tom Marvolo Riddle
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Tom Marvolo Riddle
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12542
+Tom Marvolo Riddle
+汤姆·马沃罗·里德尔
+
