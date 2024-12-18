@@ -34153,3 +34153,149 @@ CET6 TEM4
 1. [商业] A tariff is a tax that a government collects on goods coming into a country. (政府对进口货物征收的) 关税
    ≫   America wants to eliminate tariffs on items such as electronics.  美国想要取消电子类产品的关税。
 
+========================================================================
+>>> invasion
+------------------------------------------------------------------------
+invasion    [美 ɪn'veʒn / 英 ɪn'veɪʒ(ə)n]
+n. 入侵，侵略；侵袭；侵犯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is an invasion of a country, a foreign army enters it by force. 入侵
+   ≫   ...seven years after the Roman invasion of Britain.  …罗马人入侵大不列颠岛之后的7年。
+2. (N-VAR) If you refer to the arrival of a large number of people or things as an invasion, you are emphasizing that they are unpleasant or difficult to deal with. 大群涌入
+   ≫   ...this year's annual invasion of flies, wasps and ants.  …今年苍蝇、黄蜂和蚂蚁像往年一样的大量涌入。
+3. [表不满] If you describe an action as an invasion, you disapprove of it because it affects someone or something in a way that is not wanted. 侵扰
+   ≫   Is reading a child's diary always a gross invasion of privacy?  看孩子的日记在任何情况下都是严重侵犯隐私的行为吗？
+
+========================================================================
+>>> trojan
+------------------------------------------------------------------------
+trojan    ['trodʒən]
+n. 勇士；特洛伊人；勤勉的人
+adj. 特洛伊的；特洛伊人的
+n. (Trojan)人名；(德、塞、捷、波)特罗扬
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a native or inhabitant of ancient Troy 古代特洛伊人
+2. (ADJ) of or relating to ancient Troy or its inhabitants 古代特洛伊的; 古代特洛伊人的
+
+========================================================================
+>>> trojan horse
+------------------------------------------------------------------------
+Trojan Horse    [英 ˌtrəʊdʒən ˈhɔːs]
+特洛伊木马；特洛伊木马（一种计算机病毒）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you describe a person or thing as a Trojan horse, you mean that they are being used to hide someone's true purpose or intentions. 特洛伊木马; 指用于掩盖真实目的或意图的人或事 [usu sing, oft N 'for/of' n] [表不满]
+   ≫   Was Colombo the emissary of Pope Paul, his Trojan horse within the commission?  科隆博是教皇保罗的特使吗？是他在委员会内安排的卧底吗？
+2. (N-COUNT) A Trojan horse is a computer virus which is inserted into a program or system and is designed to take effect after a particular period of time or a certain number of operations. 木马病毒 [计算机]
+
+========================================================================
+>>> allege
+------------------------------------------------------------------------
+allege    [美 ə'lɛdʒ / 英 ə'ledʒ]
+vt. 宣称，断言；提出…作为理由
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you allege that something bad is true, you say it but do not prove it. 指称 (但还未被证实)
+   ≫   She alleged that there was rampant drug use among the male members of the group.  她指称该组织中有大量的男性成员吸毒。
+   ≫   The accused is alleged to have killed a man.  该被告据称杀了一个男子。
+
+========================================================================
+>>> substantiate
+------------------------------------------------------------------------
+substantiate    [美 səb'stænʃɪet / 英 səb'stænʃɪeɪt]
+vt. 证实；使实体化
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To substantiate a statement or a story means to supply evidence which proves that it is true. 证实
+   ≫   There is little scientific evidence to substantiate the claims.  几乎没有能证实这些断言的科学证据。
+
+========================================================================
+>>> substantial
+------------------------------------------------------------------------
+substantial    [美 səbˈstænʃəl / 英 səb'stænʃ(ə)l]
+adj. 大量的；实质的；内容充实的
+n. 本质；重要材料
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Substantial means large in amount or degree. 大量的; 很大程度的
+   ≫   A substantial number of mothers with young children are deterred from undertaking paid work because they lack access to childcare.  很多有小孩的母亲找不到人照顾小孩，从而无法从事有薪工作。
+
+========================================================================
+>>> substant
+------------------------------------------------------------------------
+substant
+adj. <罕>真实的；实质性的；牢固的
+n. <罕>真实存在的事物
+
+========================================================================
+>>> substantive
+------------------------------------------------------------------------
+substantive    [美 səb'stæntɪv / 英 'sʌbst(ə)ntɪv]
+adj. 有实质的；大量的；真实的；独立存在的
+n. 名词性实词；独立存在的实体
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Substantive negotiations or issues deal with the most important and central aspects of a subject. 实质性的
+   ≫   They plan to meet again in Rome very soon to begin substantive negotiations.  他们计划很快在罗马再次会面以开始实质性的谈判。
+
+========================================================================
+>>> sbustance
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> substance
+------------------------------------------------------------------------
+substance    [英 'sʌbst(ə)ns / 美 'sʌbstəns]
+n. 物质；实质；资产；主旨
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A substance is a solid, powder, liquid, or gas with particular properties. 物质
+   ≫   There's absolutely no regulation of cigarettes to make sure that they don't include poisonous substances.  绝对没有确保香烟不含有毒物质的规定。
+2. [正式] Substance is the quality of being important or significant. 实质
+   ≫   It's questionable whether anything of substance has been achieved.  是否已取得任何实质性的进展值得质疑。
+3. (N-SING) The substance of what someone says or writes is the main thing that they are trying to say. 要旨
+   ≫   The substance of his discussions doesn't really matter.  他讨论的要旨实际并不重要。
+4. [正式] If you say that something has no substance, you mean that it is not true. 正确性
+   ≫   There is no substance in any of these allegations.  这些指控没有一个是正确的。
+
+========================================================================
+>>> substitution
+------------------------------------------------------------------------
+substitution    [美 ,sʌbstə'tjʊʃən / 英 sʌbstɪ'tjuːʃn]
+n. 代替；[数] 置换；代替物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Substitution may have its merits in other domains. 置换的优点可能体现在其他领域。
+≫   The great law of substitution is the answer to fear. 置换的伟大的法则就是解决恐惧的答案。
+≫   But simple substitution cyphers can be fun to play with, especially in an RPG context by handing someone an encoded message that they can work out during game play. 但是简单的置换密码玩起来很有趣，尤其是在 RPG 环境中给某个人传递一条可以在玩游戏的过程中破解出来的编码信息。
+
+========================================================================
+>>> substitute
+------------------------------------------------------------------------
+substitute    [美 'sʌbstɪtut / 英 'sʌbstɪtjuːt]
+n. 代用品；代替者
+vi. 替代
+vt. 代替
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you substitute one thing for another, or if one thing substitutes for another, it takes the place or performs the function of the other thing. 以…代替; 代替
+   ≫   They were substituting violence for dialogue.  他们那时在以暴力代替对话。
+   ≫   He was substituting for the injured William Wales.  他那时在代替受伤的威廉·威尔士。
+2. (N-VAR) substitution 代替
+   ≫   In my experience a straight substitution of carob for chocolate doesn't work.  以我的经验，角豆直接代替巧克力不会奏效。
+3. (N-COUNT) A substitute is something that you have or use instead of something else. 替代者
+   ≫   She is seeking a substitute for the very man whose departure made her cry.  他在寻找一个男人的替代者，这个男人的离去曾使她伤心落泪。
+4. (N-COUNT) If you say that one thing is no substitute for another, you mean that it does not have certain desirable features that the other thing has, and is therefore unsatisfactory. If you say that there is no substitute for something, you mean that it is the only thing which is really satisfactory. 可替代者
+   ≫   The printed word is no substitute for personal discussion with a great thinker.  印刷字无法替代与伟大思想家的当面交流。
+5. (N-COUNT) In team games such as football, a substitute is a player who is brought into a game to replace another player. 替补队员
+   ≫   Jefferson entered as a substitute in the 60th minute.  杰斐逊在第60分钟时作为替补队员上了场。
+
+========================================================================
+>>> scaremongering
+------------------------------------------------------------------------
+scaremongering    [美 ˈskermɑːŋɡərɪŋ / 英 ˈskeəmʌŋɡərɪŋ]
+n. 散布恐怖消息，制造恐慌
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If one person or group accuses another person or group of scaremongering, they accuse them of deliberately spreading worrying stories to try and frighten people. 散布骇人听闻的消息
+   ≫   The government yesterday accused Greenpeace of scaremongering.  政府昨天指责“绿色和平”组织危言耸听。
+
