@@ -27754,3 +27754,70 @@ Harvard Style Grading
 Stanford Honor Code
 斯坦福大学荣誉守则
 
+========================================================================
+>>> duke
+------------------------------------------------------------------------
+duke    [美 dʊk / 英 djuːk]
+n. 公爵，（公国的）君主；公爵（种）樱桃
+n. (Duke)人名；(西、俄、瑞典、英)杜克
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A duke is a man with a very high social rank in the nobility of some countries. 公爵
+   ≫   ...the Queen and the Duke of Edinburgh.  …女王和爱丁堡公爵。
+
+========================================================================
+>>> marquess
+------------------------------------------------------------------------
+marquess    ['mɑːkwɪs / 英 'mɑːkwɪs]
+n. 侯爵；侯爵长子的尊称（等于marquis）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At the time of publication, Victoria was queen, the 3rd Marquess of Salisbury was the Conservative Prime Minister, and the Second Boer War was raging. 在出版这份报纸的时候，维多利亚仍然是女王，保守党的索尔兹伯里侯爵担任首相，第二次布尔战争蓄势待发。
+≫   Two days after the wedding, Queen Victoria created him Duke of Fife and Marquess of Macduff in the Peerage of the United Kingdom . 两天后的婚礼，维多利亚女王在他在英国的贵族法夫和麦克达夫侯爵公爵。
+
+========================================================================
+>>> earl
+------------------------------------------------------------------------
+earl    [美 ɜːl / 英 ɜːl]
+n. （英）伯爵
+n. (Earl)人名；(英、挪)厄尔；
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An earl is a British nobleman. 伯爵
+   ≫   ...the first Earl of Birkenhead.  …第一位伯肯黑德伯爵。
+
+========================================================================
+>>> viscount
+------------------------------------------------------------------------
+viscount    [美 'vaɪkaʊnt / 英 'vaɪkaʊnt]
+n. （英国的）子爵
+n. (Viscount)人名；(英)怀康特(人名)
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE) A viscount is a British nobleman who is below an earl and above a baron in rank. (英国的)子爵
+   ≫   ...a biography of Viscount Mourne.  ...一部关于莫恩子爵的传记。
+
+========================================================================
+>>> baron
+------------------------------------------------------------------------
+baron    [美 'bærən / 英 'bær(ə)n]
+n. 男爵；大亨；巨头
+n. (Baron)人名；(英、汤)巴伦；(匈)鲍龙；(法、俄、德、意、捷、荷、罗、以、瑞典、印尼)巴龙
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [英国英语] A baron is a man who is a member of the lowest rank of the nobility. 男爵 (英国贵族的最低爵位)
+   ≫   ...their stepfather, Baron Michael Distemple.  …他们的继父迈克尔• 迪斯坦普尔男爵
+2. (N-COUNT) You can use baron to refer to someone who controls a large part of a particular industry or activity and who is therefore extremely powerful. 大亨
+   ≫   ...the battle against the drug barons.  …与大毒枭们的斗争。
+
+========================================================================
+>>> nobility
+------------------------------------------------------------------------
+nobility    [美 no'bɪləti / 英 nə(ʊ)'bɪlɪtɪ]
+n. 贵族；高贵；高尚
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING-COLL) The nobility of a society are all the people who have titles and belong to a high social class. 贵族阶层
+   ≫   They married into the nobility and entered the highest ranks of state administration.  他们与贵族阶层联姻，进入了国家行政机关的最高级别。
+2. [正式] A person's nobility is their noble character and behaviour. 高尚品格; 高贵行为
+   ≫   ...his nobility of character, and his devotion to his country.  …他的高尚品格和他对他国家的献身精神。
+
