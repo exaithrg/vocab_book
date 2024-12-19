@@ -32693,3 +32693,32 @@ CET4 TEM4
    ≫   He was priming the bomb to go off in an hour's time.  他在事先准备炸弹在一小时后爆炸。
    ≫   He kept a primed shotgun in his office.  他在办公室放了一杆装好子弹的散弹猎枪。
 
+========================================================================
+>>> really a pity
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2137
+really a pity
+非常遗憾：表示对某件事情感到非常失望或遗憾。
+
+========================================================================
+>>> pity
+------------------------------------------------------------------------
+pity    [美 'pɪti / 英 'pɪtɪ]
+n. 怜悯，同情；遗憾
+vt. 对……表示怜悯；对……感到同情
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you feel pity for someone, you feel very sorry for them. 同情心
+   ≫   He felt a sudden tender pity for her.  他突然对她起了温柔的同情心。
+2. → see also
+3. (V-T) If you pity someone, you feel very sorry for them. 同情
+   ≫   I don't know whether to hate or pity him.  我不知道是该恨他还是该同情他。
+4. [情感] If you say that it is a pity that something is the case, you mean that you feel disappointment or regret about it. 遗憾的事
+   ≫   It is a great pity that all students in the city cannot have the same chances.  很遗憾的是，并非该市所有学生都能拥有同样的机会。
+   ≫   It's a pity you've arrived so late in the year.  真遗憾，你这一年来得太迟了。
+5. (N-UNCOUNT) If someone shows pity, they do not harm or punish someone they have power over. 仁慈; 怜悯
+   ≫   Noncommunist forces have some pity toward people here.  非共产主义者的军队有些怜悯这里的人们。
+6. (PHRASE) If you take pity on someone, you feel sorry for them and help them. 同情
+   ≫   No woman had ever felt the need to take pity on him before.  之前，没有哪个女人觉得有必要同情他。
+
