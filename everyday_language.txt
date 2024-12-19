@@ -32722,3 +32722,435 @@ CET4 TEM4
 6. (PHRASE) If you take pity on someone, you feel sorry for them and help them. 同情
    ≫   No woman had ever felt the need to take pity on him before.  之前，没有哪个女人觉得有必要同情他。
 
+========================================================================
+>>> alas
+------------------------------------------------------------------------
+alas    [美 ə'læs / 英 ə'læs; ə'lɑːs]
+int. 唉（表悲伤、遗憾、恐惧、关切等等）
+n. (Alas)人名；(西、葡、捷、土)阿拉斯
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with cl] You use alas to say that you think that the facts you are talking about are sad or unfortunate. 唉 (表示难过或不幸的惊叹声)
+   ≫   Such scandals have not, alas, been absent.  唉，这样的丑闻也不是没有。
+
+========================================================================
+>>> scandals
+------------------------------------------------------------------------
+scandals    ['skændəl]
+n. 丑闻；耻辱（scandal的复数）
+v. （英）诋毁；说某人的坏话（scandal的第三人称单数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A scandal is a situation or event that is thought to be shocking and immoral and that everyone knows about. 丑闻
+   ≫   ...a financial scandal.  …一桩金融丑闻。
+2. (N-UNCOUNT) Scandal is talk about the shocking and immoral aspects of someone's behaviour or something that has happened. 流言蜚语
+   ≫   He loved gossip and scandal.  他喜欢闲话和流言蜚语。
+
+========================================================================
+>>> integrity
+------------------------------------------------------------------------
+integrity    [美 ɪn'tɛɡrəti / 英 ɪn'tegrɪtɪ]
+n. 完整；正直；诚实；廉正
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you have integrity, you are honest and firm in your moral principles. 正直; 诚实
+   ≫   I have always regarded him as a man of integrity.  我一直把他当作一个正直诚实的人。
+2. [正式] The integrity of something such as a group of people or a text is its state of being a united whole. 完整
+   ≫   Separatist movements are a threat to the integrity of the nation.  分裂活动是对国家领土完整的威胁。
+
+========================================================================
+>>> virtue
+------------------------------------------------------------------------
+virtue    [美 'vɝtʃʊ / 英 'vɜːtjuː; -tʃuː]
+n. 美德；优点；贞操；功效
+n. (Virtue)人名；(英)弗丘
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Virtue is thinking and doing what is right and avoiding what is wrong. 正直的品性
+   ≫   Virtue is not confined to the Christian world.  正直的品性并不限于基督教世界。
+2. (N-COUNT) A virtue is a good quality or way of behaving. 美德
+   ≫   His virtue is patience.  他的美德就是耐心。
+3. (N-COUNT) The virtue of something is an advantage or benefit that it has, especially in comparison with something else. 优势; 益处
+   ≫   There was no virtue in returning to Calvi the way I had come.  按我来的路线返回卡尔维并不可取。
+4. [正式] You use by virtue of to explain why something happens or is true. 因为
+   ≫   The article stuck in my mind by virtue of one detail.  该文章因一细节而印入我脑海。
+
+========================================================================
+>>> accolade
+------------------------------------------------------------------------
+accolade    [美 'ækəled / 英 'ækəleɪd; ,ækə'leɪd]
+n. 荣誉；荣誉称号授予仪式；连谱号；称赞
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone is given an accolade, something is done or said about them which shows how much people admire them. 荣誉
+   ≫   The Nobel Prize has become the ultimate accolade in the sciences.  诺贝尔奖已成为科学界的最高荣誉。
+   ≫   He won accolades as one of America's top test pilots.  他作为美国顶级试飞员之一赢得了众多荣誉。
+
+========================================================================
+>>> virtuoso
+------------------------------------------------------------------------
+virtuoso    [美 ,vɝtʃu'oso / 英 ,vɜːtjʊ'əʊzəʊ; -səʊ]
+n. 艺术品鉴赏家；古董收藏家；艺术大师
+adj. 行家里手的；艺术爱好者的
+n. (Virtuoso)人名；(意、葡)维尔托索
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A virtuoso is someone who is extremely good at something, especially at playing a musical instrument. 大师 (尤指乐器演奏高手)
+   ≫   ...one of the nation's leading violin virtuosos.  …该国最杰出的小提琴大师之一。
+2. [ADJ n] A virtuoso performance or display shows great skill. 技艺精湛的
+   ≫   The game was a triumph; the team gave a virtuoso performance.  比赛大获全胜；该队表演精彩。
+
+========================================================================
+>>> virulent
+------------------------------------------------------------------------
+virulent    [美 'vɪrələnt / 英 'vɪrʊl(ə)nt; 'vɪrjʊ-]
+adj. 剧毒的；恶性的；有恶意的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Virulent feelings or actions are extremely bitter and hostile. 恶毒的
+   ≫   Now he faces virulent attacks from the Italian media.  现在他面临着意大利媒体的恶毒攻击。
+2. (ADV) virulently 恶毒地
+   ≫   The talk was virulently hostile to the leadership.  这次谈话对领导层充满了恶毒的敌意。
+3. (ADJ) A virulent disease or poison is extremely powerful and dangerous. 致命的
+   ≫   A very virulent form of the disease appeared in Belgium.  该疾病的一种极其致命形式在比利时出现。
+
+========================================================================
+>>> nobility
+------------------------------------------------------------------------
+nobility    [美 no'bɪləti / 英 nə(ʊ)'bɪlɪtɪ]
+n. 贵族；高贵；高尚
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING-COLL) The nobility of a society are all the people who have titles and belong to a high social class. 贵族阶层
+   ≫   They married into the nobility and entered the highest ranks of state administration.  他们与贵族阶层联姻，进入了国家行政机关的最高级别。
+2. [正式] A person's nobility is their noble character and behaviour. 高尚品格; 高贵行为
+   ≫   ...his nobility of character, and his devotion to his country.  …他的高尚品格和他对他国家的献身精神。
+
+========================================================================
+>>> noble
+------------------------------------------------------------------------
+noble    [美 'nobl / 英 'nəʊb(ə)l]
+adj. 高尚的；贵族的；惰性的；宏伟的
+n. 贵族
+vt. 抓住；逮捕
+n. (Noble)人名；(英、法、意)诺布尔；(西)诺夫莱；(阿拉伯)努布莱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] If you say that someone is a noble person, you admire and respect them because they are unselfish and morally good. 高尚的
+   ≫   He was an upright and noble man who was always willing to help in any way he could.  他是一个正直、高尚的人，总是愿意尽其所能来帮忙。
+2. [ADV with v] nobly 高尚地
+   ≫   Eric's sister had nobly volunteered to help with the gardening.  埃里克的姐姐无私地主动帮忙做些园艺工作。
+3. [表赞许] If you say that something is a noble idea, goal, or action, you admire it because it is based on high moral principles. 崇高的
+   ≫   He had implicit faith in their noble intentions.  他对他们的崇高目标深信不疑。
+   ≫   We'll always justify our actions with noble sounding theories.  我们将始终用崇高的理论思想指导我们的行动。
+4. (ADJ) If you describe something as noble, you think that its appearance or quality is very impressive, making it superior to other things of its type. 卓越的; 超群的
+   ≫   ...the great parks with their noble trees.  …树木参天的大公园。
+5. (ADJ) Noble means belonging to a high social class and having a title. 高贵的; 贵族的
+   ≫   ...rich and noble families.  …富有而高贵的家族。
+
+========================================================================
+>>> noble prize
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> noble prize
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2693
+noble prize
+诺贝尔奖
+
+========================================================================
+>>> ironies
+------------------------------------------------------------------------
+ironies
+n．讽刺，反讽：一种表达方式，通过表面上的字面意义暗示与之相反的含义，以表达对某事物或某人的嘲讽或批评。
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Irony is a subtle form of humour that involves saying things that are the opposite of what you really mean. 讽刺
+   ≫   His tone was tinged with irony.  他的语气中微含讽刺。
+2. (N-VAR) If you talk about the irony of a situation, you mean that it is odd or amusing because it involves a contrast. 具有讽刺意味的事
+   ≫   The irony is that many officials in Washington agree in private that their policy is inconsistent.  具有讽刺意味的是，华盛顿的许多官员私下里承认他们的政策是前后矛盾的。
+3. (ADJ) of, resembling, or containing iron 铁的; 似铁的; 含铁的
+
+========================================================================
+>>> irony
+------------------------------------------------------------------------
+irony    [美 'aɪrəni / 英 'aɪrənɪ]
+n. 讽刺；反语；具有讽刺意味的事
+adj. 铁的；似铁的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Irony is a subtle form of humour that involves saying things that are the opposite of what you really mean. 讽刺
+   ≫   His tone was tinged with irony.  他的语气中微含讽刺。
+2. (N-VAR) If you talk about the irony of a situation, you mean that it is odd or amusing because it involves a contrast. 具有讽刺意味的事
+   ≫   The irony is that many officials in Washington agree in private that their policy is inconsistent.  具有讽刺意味的是，华盛顿的许多官员私下里承认他们的政策是前后矛盾的。
+3. (ADJ) of, resembling, or containing iron 铁的; 似铁的; 含铁的
+
+========================================================================
+>>> ironic
+------------------------------------------------------------------------
+ironic    [美 aɪ'rɑnɪk / 英 aɪ'rɒnɪk]
+adj. 讽刺的；反话的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) When you make an ironic remark, you say the opposite of what you really mean, as a joke. 讽刺的
+   ≫   At the most solemn moments he will flash a mocking smile or make an ironic remark.  在最庄严的的时刻他也会露出嘲弄的微笑或是说些讽刺挖苦的话。
+2. (ADJ) If you say that it is ironic that something happens, you mean that it is odd or amusing because it involves a contrast. 具有讽刺意味的
+   ≫   It is ironic that so many women are anti-feminist.  具有讽刺意味的是，竟然有那么多妇女是反对女权主义的。
+
+========================================================================
+>>> ironization
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> feminist
+------------------------------------------------------------------------
+feminist    [英 'femənɪst / 美 'fɛmənɪst]
+n. 女权主义者
+adj. 主张女权的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A feminist is a person who believes in and supports feminism. 女权主义者
+   ≫   Only 16 percent of young women in a 1990 survey considered themselves feminists.  只有16%的年轻女性在1990年的一次调查中认为自己是女权主义者。
+2. [ADJ n] Feminist groups, ideas, and activities are involved in feminism. 女权主义的
+
+========================================================================
+>>> feminism
+------------------------------------------------------------------------
+feminism    [美 'fɛmənɪzəm / 英 'femɪnɪz(ə)m]
+n. 女权主义；女权运动；男女平等主义
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Feminism is the belief and aim that women should have the same rights, power, and opportunities as men. 女权主义
+   ≫   ...Barbara Johnson, that champion of radical feminism.  …芭芭拉·约翰逊，激进女权主义的拥护者。
+
+========================================================================
+>>> misogynist
+------------------------------------------------------------------------
+misogynist    [美 mɪ'sɑdʒɪnɪst]
+n. 厌恶女人的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A misogynist is a man who dislikes women. 厌恶女性者
+2. [usu ADJ n] Misogynist attitudes or actions are ones that involve or show a strong dislike of women. (态度、行为)厌恶女性的
+
+========================================================================
+>>> sexist
+------------------------------------------------------------------------
+sexist    [美 'sɛksɪst / 英 'seksɪst]
+n. 性别歧视者；男性至上主义者
+adj. 性别主义者的；性别歧视者的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you describe people or their behaviour as sexist, you mean that they are influenced by the belief that the members of one sex, usually women, are less intelligent or less capable than those of the other sex and need not be treated equally. (尤指对女性) 性别歧视的
+   ≫   Old-fashioned sexist attitudes are still common.  老套的性别歧视态度仍然很普遍。
+2. (N-COUNT) A sexist is someone with sexist views or behaviour. 性别歧视者
+   ≫   It's got nothing to do with sexism. You know I'm not a sexist.  这与性别歧视毫无关系。你知道我不是个性别歧视者。
+
+========================================================================
+>>> antifeminist
+------------------------------------------------------------------------
+antifeminist    [英 ˌæntɪˈfemɪnɪst]
+adj. 反对女权主义的；反男女平等主义的
+n. 反女权扩张者；反对女权主义的人
+
+========================================================================
+>>> duke and duchess
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3125
+duke and duchess
+公爵和公爵夫人
+
+========================================================================
+>>> duke
+------------------------------------------------------------------------
+duke    [美 dʊk / 英 djuːk]
+n. 公爵，（公国的）君主；公爵（种）樱桃
+n. (Duke)人名；(西、俄、瑞典、英)杜克
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A duke is a man with a very high social rank in the nobility of some countries. 公爵
+   ≫   ...the Queen and the Duke of Edinburgh.  …女王和爱丁堡公爵。
+
+========================================================================
+>>> duchess
+------------------------------------------------------------------------
+duchess    [美 'dʌtʃəs / 英 'dʌtʃɪs; -es]
+n. 公爵夫人；女公爵；雍容华贵的妇女；小老板娘
+vt. （澳）盛情款待；讨好
+vi. 热情款待；讨好
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A duchess is a woman who has the same rank as a duke, or who is a duke's wife or widow. 女公爵; 公爵夫人
+   ≫   ...the Duchess of Kent.  …肯特公爵夫人。
+
+========================================================================
+>>> marquess
+------------------------------------------------------------------------
+marquess    ['mɑːkwɪs / 英 'mɑːkwɪs]
+n. 侯爵；侯爵长子的尊称（等于marquis）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At the time of publication, Victoria was queen, the 3rd Marquess of Salisbury was the Conservative Prime Minister, and the Second Boer War was raging. 在出版这份报纸的时候，维多利亚仍然是女王，保守党的索尔兹伯里侯爵担任首相，第二次布尔战争蓄势待发。
+≫   Two days after the wedding, Queen Victoria created him Duke of Fife and Marquess of Macduff in the Peerage of the United Kingdom . 两天后的婚礼，维多利亚女王在他在英国的贵族法夫和麦克达夫侯爵公爵。
+
+========================================================================
+>>> marchioness
+------------------------------------------------------------------------
+marchioness    [美 ,mɑrʃə'nɛs / 英 ,mɑːʃə'nes; 'mɑːʃ(ə)nɪs]
+n. 女侯爵，侯爵夫人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE) A marchioness is the wife of a marquis, or a woman with the same rank as a marquis. 侯爵夫人; 女侯爵
+
+========================================================================
+>>> marquis
+------------------------------------------------------------------------
+marquis    [美 'mɑrkwɪs / 英 'mɑːkwɪs]
+n. （法）侯爵；世袭贵族（等于marquess）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE) A marquis is a male member of the nobility who has a rank between duke and earl. 侯爵
+
+========================================================================
+>>> marquise
+------------------------------------------------------------------------
+marquise    [美 mɑːrˈkiːz / 英 mɑːˈkiːz]
+n. 侯爵夫人；女侯爵
+n. （Marquise）人名；（英）马奎斯；（法）马基斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → (in various countries) another word for marchioness
+
+========================================================================
+>>> earl
+------------------------------------------------------------------------
+earl    [美 ɜːl / 英 ɜːl]
+n. （英）伯爵
+n. (Earl)人名；(英、挪)厄尔；
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An earl is a British nobleman. 伯爵
+   ≫   ...the first Earl of Birkenhead.  …第一位伯肯黑德伯爵。
+
+========================================================================
+>>> countness
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3471
+countness
+短语
+
+========================================================================
+>>> countess
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3523
+countess
+n. 伯爵夫人；女伯爵 [ 复数 countesses ]
+
+========================================================================
+>>> countess
+------------------------------------------------------------------------
+countess    [美 'kaʊntəs / 英 'kaʊntɪs]
+n. 伯爵夫人；女伯爵
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE/N-VOC) A countess is a woman who has the same rank as a count or earl, or who is married to a count or earl. 女伯爵; 伯爵夫人
+   ≫   ...the Countess of Lichfield.  ...利奇菲尔德女伯爵。
+
+========================================================================
+>>> count and countess
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3625
+count and countess
+伯爵和伯爵夫人
+
+========================================================================
+>>> viscount
+------------------------------------------------------------------------
+viscount    [美 'vaɪkaʊnt / 英 'vaɪkaʊnt]
+n. （英国的）子爵
+n. (Viscount)人名；(英)怀康特(人名)
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE) A viscount is a British nobleman who is below an earl and above a baron in rank. (英国的)子爵
+   ≫   ...a biography of Viscount Mourne.  ...一部关于莫恩子爵的传记。
+
+========================================================================
+>>> viscountess
+------------------------------------------------------------------------
+viscountess    [英 'vaɪkaʊntɪs / 美 'vaɪkaʊntəs]
+n. 女子爵；子爵夫人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-TITLE) A viscountess is the wife of a viscount or a woman who holds the same position as a viscount. 子爵夫人; 女子爵
+
+========================================================================
+>>> Wisconsin
+------------------------------------------------------------------------
+Wisconsin    [英 wis'kɔnsin /  wis'kɔnsin]
+n. 威斯康星州（美国州名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But if you live in a little town like Madison, Wisconsin, there is, really, no red eye. 但是如果你住在一些小城镇，例如威斯康星州的麦迪逊，那里连红眼航班都没有。
+≫   That’s what sets people on fire and gets their confidence and their votes, whether they live in Wisconsin or Montana or New York. 是优秀的品质点燃了人们的激情，赢得了他们的信心和选票，不论他们住在威斯康星州、蒙大拿州，还是纽约州。
+≫   There’s a bitter irony here. The fiscal crisis in Wisconsin, as in other states, was largely caused by the increasing power of America’s oligarchy. 这里辛辣的讽刺在于，与其它州一样，威斯康星州的财政危机主要是由于不断增大的美国寡头政治造成的。
+
+========================================================================
+>>> baron
+------------------------------------------------------------------------
+baron    [美 'bærən / 英 'bær(ə)n]
+n. 男爵；大亨；巨头
+n. (Baron)人名；(英、汤)巴伦；(匈)鲍龙；(法、俄、德、意、捷、荷、罗、以、瑞典、印尼)巴龙
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [英国英语] A baron is a man who is a member of the lowest rank of the nobility. 男爵 (英国贵族的最低爵位)
+   ≫   ...their stepfather, Baron Michael Distemple.  …他们的继父迈克尔• 迪斯坦普尔男爵
+2. (N-COUNT) You can use baron to refer to someone who controls a large part of a particular industry or activity and who is therefore extremely powerful. 大亨
+   ≫   ...the battle against the drug barons.  …与大毒枭们的斗争。
+
+========================================================================
+>>> braoness
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> baroness
+------------------------------------------------------------------------
+baroness    [美 ,bærə'nɛs / 英 'bær(ə)nɪs; -nes]
+n. 男爵夫人；女男爵；（欧洲某些国家）男爵之女
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the wife or widow of a baron 男爵夫人
+
+========================================================================
+>>> baronet
+------------------------------------------------------------------------
+baronet    [美 'bærənət / 英 'bær(ə)nɪt]
+n. 从男爵；准男爵
+vt. 封…为准男爵
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) (in Britain) a commoner who holds the lowest hereditary title of honour, ranking below a baron (在英国)从男爵; 拥有世袭荣誉称号，职位在男爵之下的平民 (Abbreviation Bart., Bt)
+
+========================================================================
+>>> baronetess
+------------------------------------------------------------------------
+baronetess
+n. 女男爵士：女性男爵士，是英国贵族头衔的一种，位于男爵士和骑士之间。
+
+========================================================================
+>>> dame
+------------------------------------------------------------------------
+dame    [英 deɪm /  deɪm]
+n. 夫人；年长妇女
+n. (Dame)人名；(法)达姆
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式，老式] A dame is a woman. This use could cause offence. 女人(可能造成冒犯)
+   ≫   Who does that dame think she is?  那个女的以为她自己是谁啊？
+2. [英国英语] Dame is a title given to a woman as a special honour because of important service or work that she has done. 女爵士
+   ≫   ...Dame Judi Dench.  ...朱迪·丹奇爵士。
+
+========================================================================
+>>> knight and dame
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4044
+knight and dame
+骑士与夫人
+
