@@ -30562,3 +30562,1216 @@ alsogoji
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) the berry of either of two plants of the genus Lycium, valued for its nutritional qualities 枸杞子
 
+========================================================================
+>>> episode
+------------------------------------------------------------------------
+episode    [美 'ɛpɪsod / 英 'epɪsəʊd]
+n. 插曲；一段情节；插话；有趣的事件
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to an event or a short period of time as an episode if you want to suggest that it is important or unusual, or has some particular quality. 事件; 经历
+   ≫   This episode is bound to be a deep embarrassment for Washington.  这一事件必然使华盛顿大为尴尬。
+2. (N-COUNT) An episode of something such as a series on television or a story in a magazine is one of the separate parts in which it is broadcast or published. (电视连续剧的) 集; (连载小说的) 节
+   ≫   The final episode will be shown next Sunday.  最后一集将于下周日播放。
+
+========================================================================
+>>> discord
+------------------------------------------------------------------------
+discord    [美 'dɪskɔrd / 英 'dɪskɔːd]
+n. 不和；不调和；嘈杂声
+vi. 不一致；刺耳
+n. (Discord)人名；(法)迪斯科尔
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] Discord is disagreement and argument between people. 不和
+
+========================================================================
+>>> reputation
+------------------------------------------------------------------------
+reputation    [美 ,rɛpju'teʃən / 英 repjʊ'teɪʃ(ə)n]
+n. 名声，名誉；声望
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) To have a reputation for something means to be known or remembered for it. 名声
+   ≫   Alice Munro has a reputation for being a very depressing writer.  艾丽斯•门罗有文风抑郁的名声。
+2. (N-COUNT) Something's or someone's reputation is the opinion that people have about how good they are. If they have a good reputation, people think they are good. 声誉
+   ≫   This college has a good academic reputation.  这所大学拥有良好的学术声誉。
+3. (PHRASE) If you know someone by reputation, you have never met them but you have heard of their reputation. 久闻
+   ≫   She was by reputation a good organizer.  久闻她是个出色的组织者。
+
+========================================================================
+>>> diagnostic
+------------------------------------------------------------------------
+diagnostic    [美 ,daɪəɡ'nɑstɪk / 英 daɪəg'nɒstɪk]
+adj. 诊断的；特征的
+n. 诊断法；诊断结论
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Diagnostic equipment, methods, or systems are used for discovering what is wrong with people who are ill or with things that do not work properly. 诊断的
+   ≫   ...X-rays and other diagnostic tools.  …X光和其他诊断工具。
+
+========================================================================
+>>> lasana
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lasagna
+------------------------------------------------------------------------
+lasagna    [美 ləˈsɑnjə / 英 lə'zænjə]
+n. 烤宽面条（等于lasagne）；卤汁面条
+n. (Lasagna)人名；(意)拉萨尼亚
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tell us you love the lasagna we made. 告诉我们你喜欢吃我们做的宽面条。
+≫   "If you go out to an Italian restaurant and you have triple cheese-meat-sausage lasagna but then you have a little olive oil on your bread, you're not doing much for your heart, " Rosenbloom says. “如果你在一家意大利餐馆里先享用了一份三重奶酪加肉的香肠烤宽面条，然后在你的面包上加一点橄榄油，这样对你的心脏并不会有什么好处。” 罗说。
+≫   How did I go from a college graduate with the world at my fingertips to bringing my mom's leftover lasagna to work for lunch? 从游戏世界的大学毕业生到带着父母剩下的烤宽面条去上班，这一转变又是怎样发生的呢？
+
+========================================================================
+>>> arrange from
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> arrange from
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：896
+arrange from
+安排从
+
+========================================================================
+>>> arrangement
+------------------------------------------------------------------------
+arrangement    [美 ə'rendʒmənt / 英 ə'reɪn(d)ʒm(ə)nt]
+n. 布置；整理；准备
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Arrangements are plans and preparations that you make so that something will happen or be possible. 安排
+   ≫   The staff is working frantically on final arrangements for the summit.  工作人员在紧张忙碌地为该峰会做最后的安排。
+   ≫   She telephoned Ellen, but made no arrangements to see her.  她给埃伦打了电话，但没安排见她。
+2. [also 'by' N] An arrangement is an agreement that you make with someone to do something. 商定
+   ≫   The caves can be visited only by prior arrangement.  这些洞穴只能预约参观。
+3. (N-COUNT) An arrangement of things, for example, flowers or furniture, is a group of them displayed in a particular way. 布置
+   ≫   The house was always decorated with imaginative flower arrangements.  该房子那时经常装饰着富有创意的插花。
+4. (N-COUNT) If someone makes an arrangement of a piece of music, they change it so that it is suitable for particular voices or instruments, or for a particular performance. (乐曲的) 改编
+   ≫   ...an arrangement of a well-known piece by Mozart.  …对莫扎特的一首名曲的改编。
+
+========================================================================
+>>> rob me
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> robbing me
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1003
+robbing me
+抢劫我
+
+========================================================================
+>>> possess
+------------------------------------------------------------------------
+possess    [美 pə'zɛs / 英 pə'zes]
+vt. 控制；使掌握；持有；迷住；拥有，具备
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no passive] If you possess something, you have it or own it. 拥有
+   ≫   He was then arrested and charged with possessing an offensive weapon.  他之后被逮捕了并被指控拥有攻击性武器。
+
+========================================================================
+>>> possession
+------------------------------------------------------------------------
+possession    [美 pə'zɛʃən / 英 pə'zeʃ(ə)n]
+n. 拥有；财产；领地；自制；着迷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you are in possession of something, you have it, because you have obtained it or because it belongs to you. 拥有
+   ≫   Those documents are now in the possession of the Washington Post.  那些文件现在归《华盛顿邮报》所有。
+   ≫   He was also charged with illegal possession of firearms.  他还被指控非法拥有火器。
+2. (N-COUNT) Your possessions are the things that you own or have with you at a particular time. 财产; 所有物
+   ≫   People had lost their homes and all their possessions.  人们已失去了家园和所有的财产。
+
+========================================================================
+>>> loyal
+------------------------------------------------------------------------
+loyal    [美 'lɔɪəl / 英 'lɒɪəl]
+adj. 忠诚的，忠心的；忠贞的
+n. 效忠的臣民；忠实信徒
+n. (Loyal)人名；(英、德、西、匈、法)洛亚尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] Someone who is loyal remains firm in their friendship or support for a person or thing. 忠诚的
+   ≫   They had remained loyal to the president.  他们一直忠于总统。
+2. [ADV with v] loyally 忠诚地
+   ≫   They have loyally supported their party and their leader.  他们忠心耿耿地支持自己的政党和领导人。
+
+========================================================================
+>>> approval
+------------------------------------------------------------------------
+approval    [美 əˈpruvl / 英 ə'pruːv(ə)l]
+n. 批准；认可；赞成
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you win someone's approval for something that you ask for or suggest, they agree to it. 赞同
+   ≫   ...efforts to win congressional approval for an aid package for Moscow.  …为赢得国会赞同对莫斯科的一揽子援助计划而做的努力。
+   ≫   The chairman has also given his approval for an investigation into the case.  该主席也对此案的调查表示赞同。
+2. (N-UNCOUNT) If someone or something has your approval, you like and admire them. 赞赏
+   ≫   His son had an obsessive drive to gain his father's approval.  他儿子渴望得到他的赞赏。
+3. (N-VAR) Approval is a formal or official statement that something is acceptable. 批准
+   ≫   The testing and approval of new drugs will be speeded up.  新药的检测与审批将会加速。
+
+========================================================================
+>>> perceive
+------------------------------------------------------------------------
+perceive    [美 pɚ'siv / 英 pə'siːv]
+vt. 察觉，感觉；理解；认知
+vi. 感到，感知；认识到
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you perceive something, you see, notice, or realize it, especially when it is not obvious. 感知到
+   ≫   Students must perceive for themselves the relationship between success and effort.  学生们必须自己去认识到成功与努力之间的关系。
+2. (V-T) If you perceive someone or something as doing or being a particular thing, it is your opinion that they do this thing or that they are that thing. 认为
+   ≫   Stress is widely perceived as contributing to coronary heart disease.  压力普遍被认为能造成冠心病。
+
+========================================================================
+>>> egotistic
+------------------------------------------------------------------------
+egotistic    [英 ˌeɡəˈtɪstɪk]
+adj. 自我本位的；自负的；自高自大的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is egotistic or egotistical behaves selfishly and thinks they are more important than other people. 利己主义的; 自我中心的 [表不满]
+   ≫   Susan and Deborah share an intensely selfish, egotistic streak.  苏珊和黛博拉两个人都十分自私，以自我为中心。
+
+========================================================================
+>>> accompany
+------------------------------------------------------------------------
+accompany    [美 ə'kʌmpəni / 英 ə'kʌmpənɪ]
+vt. 陪伴，伴随；伴奏
+vi. 伴奏，伴唱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you accompany someone, you go somewhere with them. 陪伴
+   ≫   Ken agreed to accompany me on a trip to Africa.  肯同意陪我去非洲旅行。
+   ≫   She was accompanied by her younger brother.  她由她的弟弟陪着。
+2. [正式] If one thing accompanies another, it happens or exists at the same time, or as a result of it. 与…相伴
+   ≫   This volume of essays was designed to accompany an exhibition in Seattle.  这部论文集是为配合西雅图的展览设计的。
+3. (V-T) If you accompany a singer or a musician, you play one part of a piece of music while they sing or play the main tune. 为…伴奏
+   ≫   On Meredith's new recording, Eddie Higgins accompanies her on all but one song.  在梅瑞迪斯的新唱片中，艾迪·希金斯为她伴奏了除一首歌以外的所有歌曲。
+
+========================================================================
+>>> scrumming
+------------------------------------------------------------------------
+scrumming
+v．进行scrum（橄榄球比赛中的一种战术）：在橄榄球比赛中，两队前锋球员紧密地站在一起，争夺地面上的球。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪk'sklusɪv / 英 ɪk'skluːsɪv; ek-]
+adj. 独有的；排外的；专一的
+n. 独家新闻；独家经营的项目；排外者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> inclusive
+------------------------------------------------------------------------
+inclusive    [美 ɪn'klusɪv / 英 ɪn'kluːsɪv]
+adj. 包括的，包含的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a group or organization as inclusive, you mean that it allows all kinds of people to belong to it, rather than just one kind of person. 兼收并蓄的
+   ≫   The academy is far more inclusive now than it used to be.  该学院如今比过去更为兼收并蓄。
+2. [n ADJ] After stating the first and last item in a set of things, you can add inclusive to make it clear that the items stated are included in the set. 首末项包括在内的
+   ≫   You are also invited to join us on our prayer days (this year, June 6 to June 14 inclusive).  你也受邀加入我们的祷告日（今年从6月6日（含）至6月14日（含））。
+3. (ADJ) If a price is inclusive, it includes all the charges connected with the goods or services offered. If a price is inclusive of shipping and handling, it includes the charge for this. 包括一切费用在内的
+   ≫   ...all prices are inclusive of delivery.  …所有价格包括运费。
+4. [amount ADV] Inclusive is also an adverb. 包括一切费用在内地
+   ≫   The outpatient programme costs $105 per day, all inclusive.  门诊病人方案收费每人每天105美元，一切费用包括在内。
+
+========================================================================
+>>> deliberately
+------------------------------------------------------------------------
+deliberately    [美 dɪ'lɪbərətli]
+adv. 故意地；谨慎地；慎重地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He deliberately roughed the goal-keeper. 他故意冲撞守门员。
+≫   She deliberately stayed behind after work to go with me. 下班后她故意留下来等我一起走。
+≫   The acrobat deliberately faulted the performance once to make it look difficult. 表演者故意把表演做错一次，以显得表演很难。
+
+========================================================================
+>>> decoration
+------------------------------------------------------------------------
+decoration    [美 ,dɛkə'reʃən / 英 dekə'reɪʃ(ə)n]
+n. 装饰，装潢；装饰品；奖章
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The decoration of a room is its furniture, wallpaper, and ornaments. 装饰
+   ≫   The decoration and furnishings had to be practical enough for a family home.  装修和家具陈设必须对一个家庭住房来说够实用。
+2. (N-VAR) Decorations are features that are added to something in order to make it look more attractive. 装饰品
+   ≫   The only wall decorations are candles and a single mirror.  墙上仅有的装饰品就是一些蜡烛和一面镜子。
+3. (N-COUNT) Decorations are brightly coloured objects such as pieces of paper and balloons, which you put up in a room on special occasions to make it look more attractive. 颜色鲜艳的饰品
+   ≫   Colourful streamers and paper decorations had been hung from the ceiling.  五颜六色的飘带和彩纸饰品被挂在天花板上。
+4. → see also
+
+========================================================================
+>>> immersive
+------------------------------------------------------------------------
+immersive    [ɪ'mɝsɪv]
+adj. 拟真的；沉浸式的；沉浸感的；增加沉浸感的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) providing information or stimulation for a number of senses, not only sight and sound 拟真的
+   ≫   immersive television sets  
+
+========================================================================
+>>> flirt
+------------------------------------------------------------------------
+flirt    [美 flɝt / 英 flɜːt]
+vi. 调情；玩弄；轻率地对待；摆动
+vt. 挥动；忽然弹出
+n. 急扔；调情的人；卖弄风骚的人
+n. (Flirt)人名；(法)弗利尔特
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If you flirt with someone, you behave as if you are sexually attracted to them, in a playful or not very serious way. 跟…调情
+   ≫   Dad's flirting with all the ladies, or they're all flirting with him, as usual.  爸爸在和所有的女士打情骂俏，或者说她们都在和他调情，跟平常一样。
+2. (N-VAR) flirtation 调情
+   ≫   She was aware of his attempts at flirtation.  她知道他想跟她调情。
+3. (N-COUNT) Someone who is a flirt likes to flirt a lot. 喜欢调情的人
+   ≫   I've always been a real flirt, I had a different boyfriend every week.  我是个不折不扣的调情老手，每个星期的男朋友都不一样。
+4. (V-I) If you flirt with the idea of something, you consider it but do not do anything about it. 有…的想法
+   ≫   My mother used to flirt with Anarchism.  我的母亲过去有过无政府主义的想法。
+5. (N-VAR) flirtation 不经意的考虑
+   ≫   ...the party's brief flirtation with economic liberalism.  …该党一度考虑过的经济自由主义。
+
+========================================================================
+>>> casanova
+------------------------------------------------------------------------
+Casanova    [,kæzə'nəuvə / 英 ,kæzə'nəuvə]
+n. 卡萨诺瓦式人物（意大利浪荡公子）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any man noted for his amorous adventures; a rake 卡萨诺瓦式人物; 放荡的人
+
+========================================================================
+>>> maneuver
+------------------------------------------------------------------------
+maneuver    [美 mə'nʊvɚ; mə'njʊvɚ / 英 mə'nʊvə]
+n. [军] 机动；演习；策略；调遣
+vi. [军] 机动；演习；调遣；用计谋
+vt. [军] 机动；演习；用计；调遣
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All the fighters landed safely on the airport after the military maneuver. 在军事演习后，所有战斗机都安全降落在机场上。
+≫   First off, Obama will have little room to maneuver in the support and operations budget, even if he pulls our troops out of Iraq. 即使他把军队全部撤出伊拉克，在支持性和经营性预算方面奥巴马很快也没有多少回旋余地。
+≫   “The smaller the bird, the more viscous the air is,” he said, which is partly why hummingbirds can maneuver so well and for so long. 鸟儿越小，空气就越有粘性“ ，他说。 这也部分说明了为什么蜂鸟能飞行的那么好那么久的原因。
+
+========================================================================
+>>> appreciate
+------------------------------------------------------------------------
+appreciate    [美 əˈpriːʃieɪt / 英 əˈpriːʃieɪt]
+v. 欣赏，鉴赏；理解，明白；感谢，感激；升值，增值
+★★★ CET4 TEM4 appreciating,appreciated,appreciates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you appreciate something, for example, a piece of music or good food, you like it because you recognize its good qualities. 欣赏
+   ≫   Anyone can appreciate our music.  任何人都能欣赏我们的音乐。
+2. (V-T) If you appreciate a situation or problem, you understand it and know what it involves. 理解
+   ≫   She never really appreciated the depth and bitterness of the family's conflict.  她从未真正理解该家庭矛盾的深度与激烈程度。
+3. (V-T) If you appreciate something that someone has done for you or is going to do for you, you are grateful for it. 感激
+   ≫   Peter stood by me when I most needed it. I'll always appreciate that.  彼得在我最需要时支持了我。我对此将永远感激。
+4. (V-I) If something that you own appreciates over a period of time, its value increases. 增值
+   ≫   They don't have any confidence that houses will appreciate in value.  他们对房屋增值没有一点信心。
+
+========================================================================
+>>> deterministic
+------------------------------------------------------------------------
+deterministic    [美 dɪ,tɝmɪn'ɪstɪk / 英 dɪ,tɜːmɪ'nɪstɪk]
+adj. 确定性的；命运注定论的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Deterministic ideas or explanations are based on determinism. 决定论的
+   ≫   ...a deterministic view of human progress.  ...一个关于人类进步的决定论观点。
+2. [正式] Deterministic forces and factors cause things to happen in a way that cannot be changed. 不可抗拒的
+   ≫   The rise or decline of the United States is not a function of deterministic forces.  美国的兴衰不是不可抗拒力的作用。
+
+========================================================================
+>>> wasabi
+------------------------------------------------------------------------
+wasabi    [美 wə'sɑbi / 英 wə'sɑːbɪ]
+n. 芥末酱；山葵
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a Japanese cruciferous plant, Eutrema Wasabi, cultivated for its thick green pungent root 山葵
+
+========================================================================
+>>> yoasobi
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> chinese noodles
+------------------------------------------------------------------------
+Chinese noodles
+中式面条：指中国传统的面食，由面粉制成，通常用于炒菜或煮汤。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The earliest Chinese noodles were little pieces of dough thrown into boiling water. 中国最早的面条是扔进沸水里的小片面团。
+≫   Chinese noodles, please. 请来中国面条。
+≫   She likes both Italian and Chinese noodles. 她同时喜欢意大利面和中国面。
+
+========================================================================
+>>> kimichi
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> chesseballs
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> affine
+------------------------------------------------------------------------
+affine    [英 ˈæfaɪn / 美 əˈfaɪn]
+adj. （数）仿射的
+n. 姻亲
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, characterizing, or involving transformations which preserve collinearity, esp in classical geometry, those of translation, rotation and reflection in an axis 仿射的 [maths]
+
+========================================================================
+>>> affine transform
+------------------------------------------------------------------------
+affine transform
+仿射变换：在几何学中，仿射变换是一种将向量空间进行线性变换并加上平移的变换，保持了图形的平行性。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   How to apply affine transform so that it works well with all transforms including translation? 如何应用仿射变换，以便它能够很好地处理所有的转换包括翻译吗？
+≫   The normal methods of translation, rotating and scaling can not be applied to the affine transform of fractal images. 通常分形图不能用常规的平移、旋转和比例变换方法来进行仿射变换。
+≫   The affine transform as a model to register input image and referenced image based on the parameters of transform were used. 利用仿射变换作为变换模型，根据变换参数将输入图像与参考图像进行配准。
+
+========================================================================
+>>> churning out
+------------------------------------------------------------------------
+churning out
+大量生产或制造：快速而大量地生产或制造某物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Television producers seem irresponsibly insouciant about churning out violence. 电视制片人似乎对大量制作暴力节目抱着不负责任的无所谓的态度。《柯林斯英汉双解大词典》
+≫   Factories will keep churning out goods. 工厂将会继续出产大量商品。
+≫   He has been churning out detective stories for more than ten years. 十多年来，他一直在大量粗制滥造侦探小说。
+
+========================================================================
+>>> churning
+------------------------------------------------------------------------
+churning    [美 'tʃɝnɪŋ]
+n. 搅乳；一次提制的奶油
+v. 搅拌（churn的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Churning water is moving about violently. 漩涡的
+   ≫   ...anything to take our minds off that gap and the brown, churning water below.  ...任何能让我们把思绪离开那个裂缝和它下面棕色漩涡的事。
+
+========================================================================
+>>> crux
+------------------------------------------------------------------------
+crux    [美 krʌks / 英 krʌks]
+n. 关键；难题；十字架形，坩埚
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The cruxof a problem or argument is the most important or difficult part of it which affects everything else. 症结
+   ≫   He said the crux of the matter was economic policy.  他说该问题的症结在于经济政策。
+
+========================================================================
+>>> creative slump
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> slump
+------------------------------------------------------------------------
+slump    [美 slʌmp / 英 slʌmp]
+vi. 下降，衰落；倒下；大幅度下降，暴跌
+vt. 使降低；使衰落；使倒下
+n. 衰退；暴跌；消沉
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If something such as the value of something slumps, it falls suddenly and by a large amount. (价值等) 暴跌
+   ≫   Net profits slumped by 41%.  净利润暴跌了41%。
+2. (N-COUNT) Slump is also a noun. (价值等的) 暴跌
+   ≫   The council's land is now worth much less than originally hoped because of a slump in property prices.  由于地产价格的暴跌，委员会的土地目前大不如原来所希望的那么值钱了。
+3. (N-COUNT) A slump is a time when many people in a country are unemployed and poor. 经济萧条时期
+   ≫   ...the slump of the early 1980s.  …20世纪80年代初期的经济萧条时期。
+4. (V-T/V-I) If you slump somewhere, you fall or sit down there heavily, for example, because you are very tired or you feel ill. 瘫倒; (因劳累或生病等) 跌坐
+   ≫   She slumped into a chair.  她瘫倒在一张椅子上。
+
+========================================================================
+>>> creative slump
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2748
+creative slump
+创造性的衰退
+
+========================================================================
+>>> lost their torch
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> torch
+------------------------------------------------------------------------
+torch    [美 tɔrtʃ / 英 tɔːtʃ]
+n. 火把，火炬；手电筒；启发之物
+vi. 像火炬一样燃烧
+vt. 用火炬点燃
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A torch is a long stick with burning material at one end, used to provide light or to set things on fire. 火把
+   ≫   The shepherd followed, carrying a torch to light his way.  牧羊人跟在后面，举着火把把路照亮。
+2. (N-COUNT) A torch is a device that produces a hot flame and is used for tasks such as cutting or joining pieces of metal. 吹管
+   ≫   The gang worked for up to ten hours with acetylene torches to open the vault.  这帮强盗为了打开金库，用乙炔吹管干了长达10个小时。
+3. [英国英语] A torch is a small electric light which is powered by batteries and which you can carry in your hand. 手电筒
+   ≫   Len studied it a moment in the beam of his torch.  莱恩借着手电筒的光把它仔细察看了一会儿。
+
+========================================================================
+>>> lost their touch
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lost their touch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2930
+lost their touch
+失去了他们的触觉
+
+========================================================================
+>>> phoning it in
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2981
+phoning it in
+敷衍了事：指某人在工作或表演中没有投入真正的精力和热情，只是敷衍了事。
+
+========================================================================
+>>> bankrupt
+------------------------------------------------------------------------
+bankrupt    [美 'bæŋkrʌpt / 英 'bæŋkrʌpt]
+adj. 破产的
+vt. 使破产
+n. [经] 破产者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] People or organizations that go bankrupt do not have enough money to pay their debts. 破产的
+   ≫   If the firm cannot sell its products, it will go bankrupt.  如果这家公司无法销售其产品，它将面临破产。
+2. [商业] To bankrupt a person or organization means to make them go bankrupt. 使破产
+   ≫   The move to the market nearly bankrupted the firm and its director.  走向市场的行动几乎使这家公司及其董事破产。
+3. (N-COUNT) A bankrupt is a person who has been declared bankrupt by a court of law. 破产者
+   ≫   In total, 80% of bankrupts are men.  总体来看，有80%的破产者为男性。
+4. [强调] If you say that something is bankrupt, you are emphasizing that it lacks any value or worth. 无价值的
+   ≫   He really thinks that European civilization is morally bankrupt.  他确实认为欧洲文明在道德上全无价值。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> run out of juice
+------------------------------------------------------------------------
+run out of juice
+耗尽电量：指电池或电子设备的电量用尽。也可用于形容人精力不足或失去动力。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I don't want to run out of juice and be stranded by the side of the road. 我可不想等车没电了被困在马路边。
+≫   LAW 11: Golf carts always run out of juice at the farthest point from the clubhouse. 定律十一：高尔夫球车总是在离会所最远的地方耗尽燃料。
+≫   But this mindset is changing as more people swap the pump for the plug when they run out of juice. 但是这种习惯正在改变，因为当没油的时候越来越多的人正在将油泵换成插头。
+
+========================================================================
+>>> bizarre
+------------------------------------------------------------------------
+bizarre    [英 bɪ'zɑː / 美 bɪ'zɑr]
+adj. 奇异的（指态度，容貌，款式等）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is bizarre is very odd and strange. 怪异的
+   ≫   The game was also notable for the bizarre behaviour of the team's manager.  这场比赛另一值得注意的地方是该队经理人异乎寻常的表现。
+2. (ADV) bizarrely 怪异地
+   ≫   She dressed bizarrely.  她穿着怪异。
+
+========================================================================
+>>> neighborhood
+------------------------------------------------------------------------
+neighborhood    [英 'neɪbə,hʊd / 美 'nebɚ,hʊd]
+n. 附近；街坊；接近；街区
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What happened in the factory is being whispered about the neighborhood. 工厂里发生的事正在附近居民中私下传说。
+≫   No matter if a couple met through the internet or at the neighborhood church, you have your share of scandals and mistreatment. 不管一对夫妇是在网上认识的或是在附近的教会，这些丑闻和虐待，你也有份。
+≫   I see the same people when I run in my neighborhood. 同样的，我在家附近跑步时也能见到类似的人。
+
+========================================================================
+>>> examinee
+------------------------------------------------------------------------
+examinee    [美 ɪɡˌzæmɪˈniː / 英 ɪɡˌzæmɪˈniː]
+n. 应试人，参加考试者；受检查（或审查、查询的人）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An examinee is someone who is taking an exam. 考生 [正式]
+
+========================================================================
+>>> examier
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> examiner
+------------------------------------------------------------------------
+examiner    [美 ɪg'zæmɪnɚ / 英 ɪg'zæmɪnə]
+n. 检验员；主考人；[专利] 审查员
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An examiner is a person who conducts an examination. 检查员; 考官
+   ≫   ...FBI senior fingerprint examiner Terry Green.  …联邦调查局高级指纹检验官特里·格林。
+2. → see also
+
+========================================================================
+>>> candidate
+------------------------------------------------------------------------
+candidate    [美 ˈkændɪˌdet, -dɪt / 英 'kændɪdeɪt; -dət]
+n. 候选人，候补者；应试者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A candidate is someone who is being considered for a position, for example someone who is running in an election or applying for a job. 候选人
+   ≫   The Democratic candidate is still leading in the polls.  那名民主党候选人仍在民意测验中领先。
+   ≫   He is a candidate for the office of governor.  他是州长的候选人。
+2. [美国英语] A candidate is someone who is studying for a degree at a college. 攻读学位者
+   ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
+3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
+   ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
+
+========================================================================
+>>> sit the exam
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14543
+sit the exam
+参加考试：参加一项正式的考试。
+
+========================================================================
+>>> counicl
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> council
+------------------------------------------------------------------------
+council    [美 'kaʊnsl / 英 'kaʊns(ə)l; -sɪl]
+n. 委员会；会议；理事会；地方议会；顾问班子
+n. (Council)人名；(英)康斯尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL/N-IN-NAMES) A council is a group of people who are elected to govern a local area such as a city. 政务委员会
+   ≫   The city council has voted almost unanimously in favour.  市议会几乎全部投了赞成票。
+2. (N-COUNT-COLL) Council is used in the names of some organizations. 委员会
+   ≫   ...the National Council for Civil Liberties.  …国家公民自由委员会。
+   ≫   ...the Arts Council.  …艺术委员会。
+3. (N-COUNT-COLL) In some organizations, the council is the group of people that controls or governs it. 管理委员会
+   ≫   The permanent council of the Organization of American States meets today here in Washington.  美洲国家组织常务委员会今天在华盛顿召开会议。
+4. (N-COUNT) A council is a specially organized, formal meeting that is attended by a particular group of people. 会议
+   ≫   President Najibullah said he would call a grand council of all Afghans.  纳吉布拉总统说他将召开全阿富汗人大会。
+
+========================================================================
+>>> hesitation
+------------------------------------------------------------------------
+hesitation    [美 ,hɛzə'teʃən / 英 hezɪ'teɪʃn]
+n. 犹豫
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Hesitation is an unwillingness to do something, or a delay in doing it, because you are uncertain, worried, or embarrassed about it. 迟疑; 不愿意
+   ≫   He promised there would be no more hesitations in pursuing reforms.  他保证在实行改革时不会再有迟疑。
+2. → see also
+3. [强调] If you say that you have no hesitation in doing something, you are emphasizing that you will do it immediately or willingly because you are certain that it is the right thing to do. 毫不犹豫
+   ≫   The board said it had no hesitation in unanimously rejecting the offer.  董事会说它毫不犹豫地一致否决了那项提议。
+4. [强调] If you say that someone does something without hesitation, you are emphasizing that they do it immediately and willingly. 毫不犹豫地
+   ≫   The great majority of players would, of course, sign the contract without hesitation.  绝大多数运动员当然会毫不犹豫地签这份合同。
+
+========================================================================
+>>> mirage
+------------------------------------------------------------------------
+mirage    [美 mə'rɑʒ / 英 'mɪrɑːʒ; mɪ'rɑːʒ]
+n. 海市蜃楼；幻想，妄想
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mirage is something that you see when it is extremely hot, for example in the desert, and which appears to be quite near but is actually a long way away or does not really exist. 海市蜃楼; 幻境
+   ≫   It hovered before his eyes like the mirage of an oasis.  它在他眼前晃动，好像海市蜃楼里的绿洲。
+2. [usu sing] If you describe something as a mirage, you mean that it is not real or true, although it may seem to be. 幻想; 妄想
+   ≫   The girl was a mirage, cast up by his troubled mind.  那个女孩是他的幻觉，是他混乱的头脑中妄想出来的。
+
+========================================================================
+>>> migraine
+------------------------------------------------------------------------
+migraine    [美 'maɪɡren / 英 'miːgreɪn; 'maɪ-]
+n. [内科] 偏头痛
+n. (Migraine)人名；(法)米格雷纳
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A migraine is an extremely painful headache that makes you feel very ill. 偏头痛
+   ≫   Her mother suffered from migraines.  她母亲患了偏头痛。
+
+========================================================================
+>>> migrate
+------------------------------------------------------------------------
+migrate    [英 maɪ'greɪt; 'maɪgreɪt / 美 'maɪɡret]
+vi. 移动；随季节而移居；移往
+vt. 使移居；使移植
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If people migrate, they move from one place to another, especially in order to find work or to live somewhere for a short time. 迁移
+   ≫   People migrate to cities like Jakarta in search of work.  人们移居到雅加达这样的城市找工作。
+2. (N-VAR) migration 迁移
+   ≫   ...the migration of Soviet Jews to Israel.  …苏联犹太人向以色列的迁移。
+3. (V-I) When birds, fish, or animals migrate, they move at a particular season from one part of the world or from one part of a country to another, usually in order to breed or to find new feeding grounds. 迁徙
+   ≫   Most birds have to fly long distances to migrate.  大多数的鸟类不得不飞行很长的距离进行迁徙。
+4. (N-VAR) migration 迁徙
+   ≫   ...the migration of animals in the Serengeti.  …塞伦盖蒂的动物迁徙。
+
+========================================================================
+>>> migration
+------------------------------------------------------------------------
+migration    [美 maɪ'ɡreʃən / 英 maɪ'greɪʃ(ə)n]
+n. 迁移；移民；移动
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What does this migration not do? 这种迁移不能做什么？
+≫   Therefore, you must perform this step manually with any of the migration approaches. 因此，您必须采用任意一种迁移方式手工执行这一步骤。
+≫   Because of this and other differences in the two versions, we recommend that you test the maps after migration. 由于这两个版本之间的种种差异，我们建议您在完成迁移后对映射进行测试。
+
+========================================================================
+>>> preposition
+------------------------------------------------------------------------
+preposition    [美 ,prɛpə'zɪʃən / 英 ,prepə'zɪʃ(ə)n]
+n. 介词；前置词
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A preposition is a word such as "by," "for," "into," or "with" that usually has a noun group as its object. 介词
+   ≫   There is nothing in the rules of grammar to suggest that ending a sentence with a preposition is wrong.  在语法规则中没有哪一条表明以介词结束一个句子是错误的。
+
+========================================================================
+>>> banned from
+------------------------------------------------------------------------
+ban from    [美 bæn frəm]
+禁止进入/禁止参加：指某人或某物被禁止进入或参加某个地方、组织或活动。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He was banned from the meeting. 他被取消了出席会议的资格。《牛津词典》
+≫   He was banned from practising medicine. 他被禁止行医。《牛津词典》
+≫   He was banned from driving for six months. 他被禁止驾驶六个月。《牛津词典》
+
+========================================================================
+>>> nevertheless
+------------------------------------------------------------------------
+nevertheless    [美 ,nɛvɚðə'lɛs / 英 nevəðə'les]
+adv. 然而，不过；虽然如此
+conj. 然而，不过
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADV with cl] You use nevertheless when saying something that contrasts with what has just been said. 然而
+   ≫   Although the market has been flat, residential property costs remain high. Nevertheless, the fall-off in demand has had an impact on resale values.  尽管市场一直疲软，房价持续偏高。然而需求的减少还是对二手房价格产生了影响。
+
+========================================================================
+>>> all in all
+------------------------------------------------------------------------
+all in all
+总而言之；头等重要的东西
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   All in all, as Mr Kudrin acknowledges, Russia is only just recovering the standard of living that it enjoyed in 1990. 总而言之，如库尔德林承认的那样，俄罗斯现在仅仅是在将人民的生活水平恢复到1990年时的档次。
+≫   All in all, we should see an OK recovery, not a great one, and that might be a reason for higher volatility next year. 总而言之,我们应会看到一个不错的反弹,而非巨大的反弹,这可能是明年波动性会更高的原因之一.
+≫   All in all, this solution should help you save a lots of time and work more efficiently when deploying and managing a stable of virtual machines. 总而言之，在部署和管理一组虚拟机时，此解决方案应当可以帮助您节省大量时间并且更高效地工作。
+
+========================================================================
+>>> elevates
+------------------------------------------------------------------------
+elevates
+v．
+1. 提升，升高：使某物或某人的位置、地位、品质等上升。
+2. 提高，增强：使某物的程度、数量、力量等变得更高。
+★★ CET6 TEM4 elevating,elevated,elevates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When someone or something achieves a more important rank or status, you can say that they are elevated to it. 提拔 [正式] [usu passive]
+   ≫   He was elevated to the post of president.  他被提拔到总裁的职位。
+2. (N-UNCOUNT) elevation N-UNCOUNT 提拔
+   ≫   The elevation of the assistant coach to the head coaching position within only 9 months was a surprise.  这位助理教练仅仅在9个月内就被提拔到总教练的位置是件令人惊讶的事。
+3. (V-T) If you elevate something to a higher status, you consider it to be better or more important than it really is. 抬高 (地位)
+   ≫   Don't elevate your superiors to superstar status.  不要把你的上级抬高到超级明星的地位。
+4. (V-T) To elevate something means to increase it in amount or intensity. 提高 [正式]
+   ≫   Emotional stress can elevate blood pressure.  情绪紧张会使血压升高。
+5. (V-T) If you elevate something, you raise it higher. 举起; 抬高
+   ≫   A few times a day, elevate feet above heart level.  一天几次把脚抬到高过心脏的位置。
+   ≫   I built a platform to elevate the bed.  我搭了一个台子把床抬高了。
+
+========================================================================
+>>> payment
+------------------------------------------------------------------------
+payment    [美 'pemənt / 英 'peɪm(ə)nt]
+n. 付款，支付；报酬，报答；偿还；惩罚，报应
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A payment is an amount of money that is paid to someone, or the act of paying this money. 支付的款项; 支付
+2. (N-UNCOUNT) Payment is the act of paying money to someone or of being paid. 支付
+   ≫   He had sought to obtain payment of a sum which he had claimed was owed to him.  他曾试图获得一笔他声称是欠他的钱。
+3. → see also ,
+
+========================================================================
+>>> household
+------------------------------------------------------------------------
+household    [美 'haʊshold / 英 'haʊshəʊld]
+adj. 家庭的；日常的；王室的
+n. 全家人，一家人；(包括佣工在内的)家庭，户
+n. (Household)人名；(英)豪斯霍尔德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A household is all the people in a family or group who live together in a house. 家庭; 同住一所房子的人
+   ≫   ...growing up in a male-only household.  …在全体成员均为男性的家庭里长大。
+2. (N-SING) The household is your home and everything that is connected with taking care of it. 家务
+   ≫   ...household chores.  …家务活。
+3. [ADJ n] Someone or something that is a household name or word is very well known. 家喻户晓的
+   ≫   Today, fashion designers are household names.  如今，服装设计师们家喻户晓。
+
+========================================================================
+>>> snuggling up
+------------------------------------------------------------------------
+snuggle up    [美 ˈsnʌɡl ʌp]
+舒适地躺或坐着，抱着他人或某物：指在舒适的环境中，靠近他人或某物，以获得温暖和安慰的感觉。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She seized grandmother's hands and arms and snuggling up to her did not for joy utter one more word. 她抓住奶奶的手和胳膊，紧抱着她，高兴得说不出话来。
+≫   Elizabeth is snuggling up to me, exactly like a sweet and helpless bird. 伊丽莎白偎贴在我身边，真是小鸟依人。
+≫   Start by finding an excellent deal on something for your home. Finish by snuggling up in the midst of people you love. 开始为家里找个绝佳的交易。最后要与所爱的亲人相互依偎。
+
+========================================================================
+>>> drama
+------------------------------------------------------------------------
+drama    [美 'drɑmə / 英 'drɑːmə]
+n. 戏剧，戏剧艺术；剧本；戏剧性事件
+n. (Drama)人名；(刚(金))德拉马
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A drama is a serious play for the theatre, television, or radio, or a serious film. 戏剧
+   ≫   He acted in radio dramas.  他演过广播剧。
+   ≫   The film is a drama about a woman searching for her children.  这部电影是关于一个女人寻找她孩子的戏。
+2. (N-UNCOUNT) You use drama to refer to plays in general or to work that is connected with plays and the theatre, such as acting or producing. 戏剧; 戏剧工作
+   ≫   He knew nothing of Greek drama.  他对希腊戏剧一无所知。
+3. (N-VAR) You can refer to a real situation which is exciting or distressing as drama. 戏剧性场面
+   ≫   There was none of the drama and relief of a hostage release.  丝毫没有人质释放的戏剧性场面和放松。
+
+========================================================================
+>>> TOEFL
+------------------------------------------------------------------------
+TOEFL    ['təufəl]
+abbr. 托福考试（Test of English as a Foreign Language）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) TOEFL is an English language examination which is often taken by foreign students who want to study at universities in English-speaking countries. TOEFL is an abbreviation of "Test of English as a Foreign Language." 托福考试; Test of English as a Foreign Language的缩写
+
+========================================================================
+>>> IELTS
+------------------------------------------------------------------------
+IELTS    [美 ˈaɪelts / 英 ˈaɪelts]
+abbr. 雅思（The International English Language Testing System）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   IELTS is very hot at the moment. 雅思目前很热门。
+≫   What is IELTS useful for? 雅思考试的用途是什么？
+≫   Are there any IELTS materials for sale? 是否有雅思考试的资料？
+
+========================================================================
+>>> holy
+------------------------------------------------------------------------
+holy    [美 'holi / 英 'həʊlɪ]
+adj. 圣洁的，神圣的；至善的
+n. 神圣的东西
+（俚）太棒了
+n. (Holy)人名；(英、德、匈)霍利
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as holy, you mean that it is considered to be special because it is connected with God or a particular religion. 有关上帝的; 神圣的
+   ≫   To them, as to all Poles, this is a holy place.  正如对所有的极地人一样，对他们来说，这里是个神圣的地方。
+
+========================================================================
+>>> holy shit
+------------------------------------------------------------------------
+holy shit
+天哪：俚语，表示恐惧、敬畏、惊讶、震惊等情绪，通常用于第一次看到或者刚刚记起某事时。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They're good employees, holy shit! 他们是多好的员工啊，，天！
+≫   Or, as your childhood selves would understand it: Holy Shit! We get to swing on webs now! 或者，以你儿童本我的理解就是：神哪，我也可以大展蜘蛛网神功了。
+≫   Were you thinking, "holy shit, holy shit, a swordfish almost went through my head"? If so, then yes. 你要是在想“要命，真要命，这条剑鱼差点戳穿我脑袋了”的话，那我们就想一块儿去了。
+
+========================================================================
+>>> swordfish
+------------------------------------------------------------------------
+swordfish    [英 'sɔːdfɪʃ / 美 'sɔrdfɪʃ]
+n. 箭鱼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A swordfish is a large sea fish with a very long upper jaw. 箭鱼
+2. (N-UNCOUNT) Swordfish is this fish eaten as food. (可食用的)箭鱼
+   ≫   ...grilled swordfish with a yoghurt dressing.  ...浇上酸奶酪的烤箭鱼。
+
+========================================================================
+>>> yoghurt
+------------------------------------------------------------------------
+yoghurt    [英 'jɒɡət / 美 'jogɚt]
+n. 酸奶（等于yoghourt）；酸乳酪
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He is showing his classmates how to make yoghurt. 他正在向他的同学演示如何做酸奶。
+≫   In would come vegetables and pulses, together with yoghurt. 该多吃的是蔬菜和豆类，另外加上酸奶。
+≫   They will eat mostly rice and sauces made from yoghurt and tamarind, spiced with peppers. 他们主要吃米饭和由酸乳酪和罗望子果加胡椒制成的调味汁。
+
+========================================================================
+>>> tamarind
+------------------------------------------------------------------------
+tamarind    [美 'tæmərɪnd / 英 'tæm(ə)rɪnd]
+n. 罗望子；罗望子的果实；酸角
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A tamarind is a sour fruit which grows on a tropical evergreen tree and is used in cooking. You can also refer to the tree on which this fruit grows as a tamarind. 罗望子果
+
+========================================================================
+>>> UVB
+------------------------------------------------------------------------
+UVB
+abbr. 紫外线b（ultraviolet b）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) ultraviolet radiation with a range of 280–315 nanometres 中波紫外线
+
+========================================================================
+>>> UVA
+------------------------------------------------------------------------
+UVA
+abbr. 长波紫外线（Ultraviolet A）；美国弗吉尼亚大学（The University of Virginia）
+n. (Uva)人名；(意、葡)乌瓦
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) ultraviolet radiation with a range of 315–380 nanometres 长波紫外线
+
+========================================================================
+>>> virginia
+------------------------------------------------------------------------
+Virginia    [英 və(:)'dʒinjə /  və(:)'dʒinjə]
+n. 弗吉尼亚（女子名）；弗吉尼亚州
+adj. 弗吉尼亚州的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a type of flue-cured tobacco grown originally in Virginia 弗吉尼亚烟草
+
+========================================================================
+>>> virgin
+------------------------------------------------------------------------
+virgin    [美 'vɝdʒɪn / 英 'vɜːdʒɪn]
+adj. 处女的；纯洁的；未经利用的，处于原始状态的
+n. 处女
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A virgin is someone, especially a woman or girl, who has never had sex. 处女
+   ≫   I was a virgin until I was thirty years old.  我到30岁时还是个处女。
+2. (ADJ) You use virgin to describe something such as land that has never been used or spoiled. (土地等) 未使用过的
+   ≫   Within 40 years there will be no virgin forest left.  过不了40年原始森林将所剩无几。
+3. (PHRASE) If you say that a situation is virgin territory, you mean that you have no experience of it and it is completely new for you. 处女地; 全新领域
+   ≫   The World Cup is virgin territory for Ecuador.  世界杯对厄瓜多尔来说尚为一片全新的领域。
+4. (N-COUNT) You can use virgin to describe someone who has never done or used a particular thing before. 生手
+   ≫   Until he appeared in "In the Line of Fire" Malkovich had been an action-movie virgin.  在出演《火线》之前，马尔科维奇还是一个动作片的生手。
+
+========================================================================
+>>> virgin forest
+------------------------------------------------------------------------
+virgin forest
+原始森林：指未被人类开垦、砍伐或干扰的自然森林，通常具有高度的生物多样性和生态系统稳定性。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a forest in its natural state, before it has been explored or exploited by man 原始森林
+
+========================================================================
+>>> illuminated
+------------------------------------------------------------------------
+illuminated    [美 ɪ'lumɪnetɪd / 英 ɪ'ljuːmɪneɪtɪd]
+adj. 被照明的
+v. 照明；启发；兴奋（illuminate的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is illuminated is lit up, usually by electric lighting. 灯火通明的; 照亮的
+   ≫   ...an illuminated sign.  ...一个灯光闪烁的招牌。
+
+========================================================================
+>>> illuminate
+------------------------------------------------------------------------
+illuminate    [美 ɪ'lumɪnet / 英 ɪ'l(j)uːmɪneɪt]
+vt. 阐明，说明；照亮；使灿烂；用灯装饰
+vi. 照亮
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To illuminate something means to shine light on it and to make it brighter and more visible. 照亮
+   ≫   No streetlights illuminated the street.  一盏照亮街道的路灯也没有。
+2. [正式] If you illuminate something that is unclear or difficult to understand, you make it clearer by explaining it carefully or giving information about it. 阐明
+   ≫   Instead of formulas and charts, the two instructors use games and drawings to illuminate their subject.  这两位教师用游戏和图画而不是公式和图表来阐明他们的题旨。
+3. (ADJ) illuminating 富有启发性的
+   ≫   It would be illuminating to hear the views of the club vice-chairman.  听听俱乐部副主席的观点或许会有启发。
+
+========================================================================
+>>> luminary
+------------------------------------------------------------------------
+luminary    [美 'lʊmə'nɛri / 英 'luːmɪn(ə)rɪ]
+n. 发光体；杰出人物；知识渊博的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] If you refer to someone as a luminary, you mean that they are an expert in a particular subject or activity. 方家; 大师; 泰斗
+   ≫   ...the political opinions of such luminaries as Sartre or de Beauvoir.  ...诸如萨特、波伏娃等大家的政见。
+
+========================================================================
+>>> luminary tree
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> luminary tree
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：22937
+luminary tree
+知识渊博的树
+
+========================================================================
+>>> reindeer
+------------------------------------------------------------------------
+reindeer    [美 'rendɪr / 英 'reɪndɪə]
+n. [脊椎][畜牧] 驯鹿
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A reindeer is a deer with large horns called antlers that lives in northern areas of Europe, Asia, and America. 驯鹿
+   ≫   ...a herd of reindeer.  …一群驯鹿。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> 圣诞树
+------------------------------------------------------------------------
+圣诞树
+christmas trees
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The altar was flanked by two Christmas trees. 圣坛的两侧有两棵圣诞树。《柯林斯英汉双解大词典》
+≫   We put up the decorations and the tree and started to feel Christmassy at last. 我们布置好了装饰品和圣诞树，这才开始感受到圣诞节的气氛。《牛津词典》
+≫   We have a big tree this year. 我们今年有一棵很高的圣诞树！
+
+========================================================================
+>>> christmassy
+------------------------------------------------------------------------
+Christmassy    [美 ˈkrɪsməsi / 英 ˈkrɪsməsi]
+adj. 有圣诞气氛的
+alsoChristmasy
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is Christmassy is typical of or suitable for Christmas. 有圣诞气氛的 [非正式]
+   ≫   Choose Christmassy colours such as red and green.  选择像红色和绿色那样的有圣诞气氛的颜色。
+
+========================================================================
+>>> cygnus
+------------------------------------------------------------------------
+Cygnus    ['sɪgnəs]
+n. [天] 天鹅座
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a constellation in the N hemisphere lying between Pegasus and Draco in the Milky Way. The constellation contains the Cygnus Loop supernova remnant, the intense radio galaxy Cygnus A, and the intense galactic X-ray source Cygnus X–1, which is probably a black hole 天鹅座
+
+========================================================================
+>>> dewa
+------------------------------------------------------------------------
+dewa
+迪拜水电局（Dubai Electricity and Water Authority）
+n. （Dewa）人名；（印）德瓦
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "Everybody from Misrata wants to see him," Dewa said later, after the body was moved again. “来自米苏拉塔的每个人都想看到，”Dewa后来说，在遗体被转移后。
+
+========================================================================
+>>> papilio
+------------------------------------------------------------------------
+papilio    [英 pəˈpɪlɪəʊ]
+n. 凤蝶；蝴蝶
+n. （Papilio）人名；（法）帕皮利奥
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The impact of temperature on diapause pupae development of Papilio memnon L. 利用人工气候箱，研究了温度对美凤蝶滞育蛹发育的影响。
+≫   Morphology of immature stages and biological characteristics of two papilionid butterflies, Papilio memnon L. 记述了美凤蝶和玉斑凤蝶的幼期形态特征、成虫和幼虫的主要习性。
+≫   Patterns in Nature: Butterflies Colorful gerbera daisies highlight the rich coloration of a spicebush swallowtail butterfly (Papilio troilus). 蝴蝶在自然界的模式。华美的大丁草雏菊突出其富有的染色――西美腊梅燕尾蝴蝶。
+
+========================================================================
+>>> muskmelon
+------------------------------------------------------------------------
+muskmelon    [美 ˈmʌskˌmelən / 英 ˈmʌskˌmelən]
+n. 甜瓜
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of several varieties of the melon Cucumis melo, such as the cantaloupe and honeydew 甜瓜
+
+========================================================================
+>>> accessory
+------------------------------------------------------------------------
+accessory    [美 ək'sɛsəri / 英 ək'ses(ə)rɪ]
+n. 配件；附件；[法] 从犯
+adj. 副的；同谋的；附属的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Accessories are items of equipment that are not usually essential, but can be used with or added to something else in order to make it more efficient, useful, or decorative. 附件
+   ≫   ...an exclusive range of hand-made bedroom and bathroom accessories.  …一个高档系列的手工制作的卧室及卫生间设备附件。
+2. (N-COUNT) Accessories are articles such as belts and scarves which you wear or carry but which are not part of your main clothing. 配饰
+   ≫   It also has a good range of accessories, including sunglasses, handbags and belts.  它还有多种配饰，包括墨镜、手包和皮带。
+3. [法律] If someone is guilty of being an accessory to a crime, they helped the person who committed it, or knew it was being committed but did not tell the police. 从犯
+   ≫   She had been charged with being an accessory to the embezzlement of funds from a cooperative farm.  她已被指控为挪用一个合作农场资金的一个从犯。
+
+========================================================================
+>>> everyday language
+------------------------------------------------------------------------
+everyday language    [美 ˈevrideɪ ˈlæŋɡwɪdʒ]
+日常用语
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Acronyms are part of our everyday language. 缩略词是我们日常语言的一部分。
+≫   A business question, expressed in everyday language. 以日常用语表达的一个业务问题。
+≫   Literature, unlike everyday language, begins on the far side of this knowledge. 文学，与日常生活中的语言不同，它始于知识的边缘。
+
+========================================================================
+>>> common language
+------------------------------------------------------------------------
+common language
+共同语言：指在跨越不同文化、语言、地域等差异的情况下，人们所使用的相互理解的语言。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Moldavians and Romanians share a common language. 摩尔达维亚人和罗马尼亚人使用一种共同的语言。《柯林斯英汉双解大词典》
+≫   One of the fundamental bars to communication is the lack of a universally spoken, common language. 沟通的根本障碍之一就是缺乏一种通用的共同语言。《柯林斯英汉双解大词典》
+≫   The failure to arrive at a common language on many problems is not to be wondered at. 在很多问题上没有共同语言是不足怪的。《新英汉大辞典》
+
+========================================================================
+>>> layman
+------------------------------------------------------------------------
+layman    [美 'lemən / 英 'leɪmən]
+n. 外行；门外汉；俗人；一般信徒
+n. (Layman)人名；(英)莱曼
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A layman is a person who is not trained, qualified, or experienced in a particular subject or activity. 外行人
+   ≫   The mere mention of the words "heart failure" can conjure up, to the layman, the prospect of imminent death.  一提到“心力衰竭”几个字，外行人就会想到立即死亡。
+
+========================================================================
+>>> Colloquial
+------------------------------------------------------------------------
+colloquial    [美 kə'lokwɪəl / 英 kə'ləʊkwɪəl]
+adj. 白话的；通俗的；口语体的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Colloquial words and phrases are informal and are used mainly in conversation. 口语的
+   ≫   ...a colloquial expression.  …一个口语表达法。
+
+========================================================================
+>>> Colloquial language
+------------------------------------------------------------------------
+colloquial language
+口语：用于非正式交流的语言风格，也称为日常用语或通俗语言。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Almost all idiomatic expressions are colloquial language. 几乎所有的惯用语都是口头语言。
+≫   The song USES colloquial language. 那首歌使用了白话。
+≫   Almost all idiomatic expression_rs are colloquial language. 几乎所有的习惯用语都是口头语言。
+
+========================================================================
+>>> Colloquialisms
+------------------------------------------------------------------------
+colloquialisms
+口语
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A colloquialism is a colloquial word or phrase. 口语; 白话
+
+========================================================================
+>>> Informal language
+------------------------------------------------------------------------
+informal language
+非正式语言：指在非正式场合或非正式交流中使用的语言，通常包括口语、俚语、方言等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Formal language is different from informal language in several ways. 正式语言与非正式语言在许多方面都不同。
+≫   Another difference between formal and informal language is some of the vocabularies. 正式语言和非正式语言的另一个区别是一些词汇的不同。
+≫   Informal language is used in conversation with colleagues, family members and friends, and when we write personal notes or letters to close friends. 在与同事、家人和朋友的交谈中，以及在给亲密朋友写私人便条或信件时，我们会使用非正式的语言。
+
+========================================================================
+>>> Formal language
+------------------------------------------------------------------------
+formal language
+形式语言：一种由有限符号（称为字母表）组成的有限字符串集合（称为单词）的计算理论。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a language designed for use in situations in which natural language is unsuitable, as for example in mathematics, logic, or computer programming. The symbols and formulas of such languages stand in precisely specified syntactic and semantic relations to one another 形式语言; 用精确的数学或机器可处理的公式定义的语言
+
+========================================================================
+>>> Vernacular
+------------------------------------------------------------------------
+vernacular    [美 vɚ'nækjəlɚ / 英 və'nækjʊlə]
+adj. 本国的；地方的；用本地语写成的
+n. 本地话，方言；动植物的俗名
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Thevernacular is the language or dialect that is most widely spoken by ordinary people in a region or country. 方言
+   ≫   ...books or plays written in the vernacular.  …用此方言写的一些书或剧本。
+
+========================================================================
+>>> slang
+------------------------------------------------------------------------
+slang    [英 slæŋ / 美 slæŋ]
+n. 俚语；行话
+adj. 俚语的
+vi. 用粗话骂
+vt. 用俚语说
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Slang consists of words, expressions, and meanings that are informal and are used by people who know each other very well or who have the same interests. 俚语; 行话
+   ≫   Archie liked to think he kept up with current slang.  阿奇乐于自认为能跟得上时新俚语。
+
+========================================================================
+>>> Terminology
+------------------------------------------------------------------------
+terminology    [美 ,tɝmə'nɑlədʒi / 英 ,tɜːmɪ'nɒlədʒɪ]
+n. 术语，术语学；用辞
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The terminology of a subject is the set of special words and expressions used in connection with it. 术语
+   ≫   ...gastritis, which in medical terminology means an inflammation of the stomach.  …胃炎这个词在医学术语里的意思是胃部发炎。
+
+========================================================================
+>>> Scholarly language
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> jargon
+------------------------------------------------------------------------
+jargon    [美 'dʒɑrɡən / 英 'dʒɑːg(ə)n]
+n. 行话，术语；黄锆石
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) You use jargon to refer to words and expressions that are used in special or technical ways by particular groups of people, often making the language difficult to understand. 行话
+   ≫   The manual is full of the jargon and slang of self-improvement courses.  该手册中满是自我完善课程的行话和俚语。
+2. (V) to use or speak in jargon 说行话; 使用术语
+3. [RARE] a golden yellow, smoky, or colourless variety of zircon 黄锆英石 (Also jargoon)
+
+========================================================================
+>>> slang
+------------------------------------------------------------------------
+slang    [美 slæŋ / 英 slæŋ]
+n. 俚语；行话
+adj. 俚语的
+vi. 用粗话骂
+vt. 用俚语说
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Slang consists of words, expressions, and meanings that are informal and are used by people who know each other very well or who have the same interests. 俚语; 行话
+   ≫   Archie liked to think he kept up with current slang.  阿奇乐于自认为能跟得上时新俚语。
+
+========================================================================
+>>> parlance
+------------------------------------------------------------------------
+parlance    [美 'pɑrləns / 英 'pɑːl(ə)ns]
+n. 说法；用语；语调；发言
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [supp N, usu 'in' N] You use parlance when indicating that the expression you are using is normally used by a particular group of people. 术语
+   ≫   The phrase is common diplomatic parlance for spying.  这种说法是对间谍行为的常用外交辞令。
+
+========================================================================
+>>> discourse
+------------------------------------------------------------------------
+discourse    [美 'dɪskɔrs / 英 'dɪskɔːs; -'kɔːs]
+n. 论述；谈话；演讲
+vi. 演说；谈论；讲述
+vt. 说出；演奏出
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Discourse is spoken or written communication between people, especially serious discussion of a particular subject. (某专题的) 会话
+   ≫   ...a tradition of political discourse.  …一个政治对话的传统。
+2. → see also ,
+
