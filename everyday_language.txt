@@ -32445,3 +32445,251 @@ CET6+ TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-MASS) Granite is a very hard rock used in building. 花岗岩
 
+========================================================================
+>>> histamine
+------------------------------------------------------------------------
+histamine    [美 'hɪstəmin / 英 'hɪstəmiːn]
+n. [生化] 组胺
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an amine formed from histidine and released by the body tissues in allergic reactions, causing irritation. It also stimulates gastric secretions, dilates blood vessels, and contracts smooth muscle. Formula: C5H9N3 组胺 → see also
+
+========================================================================
+>>> antihistamine
+------------------------------------------------------------------------
+antihistamine    [美 ,æntɪ'hɪstəmin / 英 æntɪ'hɪstəmɪn; -miːn]
+n. 抗组胺剂
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An antihistamine is a drug that is used to treat allergies. 抗组胺剂
+
+========================================================================
+>>> motion sickness pill
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：760
+motion sickness pill
+防晕药
+
+========================================================================
+>>> motion
+------------------------------------------------------------------------
+motion    [美 'moʃən / 英 'məʊʃ(ə)n]
+n. 动作；移动；手势；请求；意向；议案
+vi. 运动；打手势
+vt. 运动；向…打手势
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Motion is the activity or process of continually changing position or moving from one place to another. 运动
+   ≫   ...the laws governing light, sound, and motion.  …支配光、声和运动的规律。
+   ≫   One group of muscles sets the next group in motion.  一组肌肉带动下一组肌肉运动。
+2. (N-COUNT) A motion is an action, gesture, or movement. 动作; 手势
+   ≫   He made a neat chopping motion with his hand.  他用手做了一个干净利落的砍的动作。
+3. (N-COUNT) A motion is a formal proposal or statement in a meeting, debate, or trial, which is discussed and then voted on or decided on. 动议
+   ≫   The conference is now debating the motion and will vote on it shortly.  大会现在正在讨论这个动议，并将马上就此投票。
+   ≫   Opposition parties are likely to bring a no-confidence motion against the government.  反对党可能会对政府提出一项不信任议案。
+4. (V-T/V-I) If you motion to someone, you move your hand or head as a way of telling them to do something or telling them where to go. (用手势或头) 示意
+   ≫   She motioned for the locked front doors to be opened.  她打手势示意把锁着的前门打开。
+   ≫   He stood aside and motioned Don to the door.  他站在一边，示意唐到门口。
+5. → see also
+6. (PHRASE) If you say that someone is going through the motions, you think they are only saying or doing something because it is expected of them without being interested, enthusiastic, or sympathetic. 敷衍了事
+   ≫   "You really don't care, do you?" she said quietly. "You're just going through the motions."  “你真的不在意，是吗？”她平静地说。“你只是在敷衍了事。”
+7. (PHRASE) If a process or event is in motion, it is happening. If it is set in motion, it is happening or beginning to happen. 在进行中
+   ≫   The current chain of events was set in motion by that kidnapping.  目前的一系列事件都是由那次绑架引发的。
+8. (PHRASE) If someone sets the wheels in motion, they take the necessary action to make something start happening. 开动
+   ≫   I have set the wheels in motion to sell their Arizona ranch.  我已着手出售他们在亚利桑那州的大农场。
+
+========================================================================
+>>> rosacea
+------------------------------------------------------------------------
+rosacea    [美 roʊˈzeɪʃə / 英 rəʊˈzeɪʃɪə]
+n. [皮肤] 酒渣鼻；[皮肤] 红斑痤疮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a chronic inflammatory disease causing the skin of the face to become abnormally flushed and sometimes pustular 红斑痤疮 (Also called acne rosacea)
+
+========================================================================
+>>> cetirizine
+------------------------------------------------------------------------
+cetirizine
+n. 西替利嗪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Cetirizine for the first generation of anti-drug hydroxyzine amine derivatives. 西替利嗪为第一代抗胺药物羟嗪的衍生物。
+≫   Objective: To establish a capillary zone electrophoretic method for determining cetirizine in cetirizine HCL syrup. 目的：建立毛细管电泳法测定盐酸西替利嗪糖浆剂中西替利嗪含量的方法。
+≫   AIM: To evaluate the efficacy and safety of levocetirizine and cetirizine in the treatment of perennial allergic rhinitis. 目的：评价左西替利嗪治疗常年性过敏性鼻炎的有效性和安全性。
+
+========================================================================
+>>> hydrochloride
+------------------------------------------------------------------------
+hydrochloride    [美 ,haɪdrə'kloraɪd / 英 ,haɪdrə(ʊ)'klɔːraɪd]
+n. 盐酸盐；盐酸化物；氢氯化物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a quaternary salt formed by the addition of hydrochloric acid to an organic base, such as aniline hydrochloride, [C6H5NH3]+Cl- 盐酸盐
+
+========================================================================
+>>> cetirizine hydrochloride
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：940
+cetirizine hydrochloride
+盐酸西替利嗪：一种长效、非镇静、口服抗组胺药物，主要用于治疗过敏性鼻炎和慢性荨麻疹。
+
+========================================================================
+>>> eczema
+------------------------------------------------------------------------
+eczema    [美 ɪɡ'zimə / 英 'eksɪmə; 'ekzɪmə]
+n. [皮肤] 湿疹
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Eczema is a skin condition that makes your skin itch and become sore, rough, and broken. 湿疹
+
+========================================================================
+>>> allergies
+------------------------------------------------------------------------
+allergies    ['ælədʒi]
+n. 过敏；敏感（allergy的复数）；敏感症
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you have a particular allergy, you become ill or get a rash when you eat, smell, or touch something that does not normally make people ill. 过敏
+   ≫   Food allergies can result in an enormous variety of different symptoms.  食物过敏会导致大量不同种类的症状。
+
+========================================================================
+>>> sleeplessness
+------------------------------------------------------------------------
+sleeplessness    ['sliplɪsnɪs]
+n. 失眠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sleeplessness was telling on her health. 失眠正影响着她的健康。
+≫   But more than that may cause nervousness, rapid heartbeat, palpitations, sleeplessness, and irritability. 但是再多就会导致神经过敏、心跳加快、心悸、失眠、和烦躁。
+≫   “Racing is something you cannot win unless you go through a period of sleeplessness and desperation and develop new technology in a very short period of time,” he says via an interpreter. 他通过翻译表示：“如果你不曾经历过一个失眠和绝望的时期，并在极短的时间内开发出新技术，就无法在赛车场上获胜。”
+
+========================================================================
+>>> neurotransmitter
+------------------------------------------------------------------------
+neurotransmitter    [美 'nʊrotrænzmɪtɚ / 英 ,njʊərəʊtrænz'mɪtə]
+n. [生理] 神经递质；[生理] 神经传递素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a chemical by which a nerve cell communicates with another nerve cell or with a muscle 神经传递素
+
+========================================================================
+>>> neuromodulatory
+------------------------------------------------------------------------
+neuromodulatory
+adj．神经调节的：与神经调节有关的，神经调节是指神经递质对神经元活动产生调节作用的过程。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Histamine is a medium of inflammation, and yet is an important neurotransmitter or neuromodulatory in central nerve system. 组胺是一种炎症介质和生物活性物质，更是中枢神经系统中的一种重要的神经递质或神经调质。
+
+========================================================================
+>>> modulatory
+------------------------------------------------------------------------
+modulatory    ['mɔdjulətəri, -dʒu-]
+adj. 调节的；调制的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This effect may be directly caused by a modulatory effect of on-line hemofiltration on proinflammatory cells or by a complex interaction that encompasses a wider removal of uremic toxins. 这种效应可能是由于在线血液滤过对促炎症细胞的直接调节作用或者通过复杂的相互作用包括广泛清除尿毒症毒素所致。
+≫   "The zeitgeist is that sex is a modulatory factor and doesn't play a big role, " says Arthur Arnold, a professor of integrative biology and physiology at the University of California-Los Angeles. “目前普遍认为性别只是调节因素，并无太大作用。” 洛杉矶加州大学综合生物和生理学教授Arthur Arnold如是说道。
+≫   Objective:To investigate the modulatory effect of gonadal hormone on peripheral pain. 目的：探讨性激素对外周痛觉的调节作用。
+
+========================================================================
+>>> central nerve system
+------------------------------------------------------------------------
+central nerve system
+中枢神经系统：指由大脑、脊髓和其他神经组织组成的神经系统，负责接收、处理和传递信息。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   CXCR4 widely express in immunity system and central nerve system. CXCR4在免疫系统和中枢神经系统的细胞中广泛表达。
+≫   Consequently, It is very significant to study the mechanism that bilirubin damage central nerve system. 因此，有必要研究胆红素对神经系统的损伤机理。
+≫   Conclusion: Manganese was harmful to not only the central nerve system but also the peripheral nerve system. 结论：提示锰不仅对中枢神经系统产生损害，对周围神经系统也产生不同程度的损害。
+
+========================================================================
+>>> primates
+------------------------------------------------------------------------
+primates    [praɪ'metiz]
+n. 灵长类
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A primate is a member of the group of mammals that includes humans, monkeys, and apes. 灵长目动物
+   ≫   The woolly spider monkey is the largest primate in the Americas.  绒毛蛛猴是美洲最大的灵长目动物。
+2. (ADJ) of, relating to, or belonging to the order Primates 大主教的; 首席主教的
+3. (N-COUNT) The Primate of a particular country or region is the most important priest in that country or region. 大主教
+   ≫   ...the Roman Catholic Primate of All Ireland.  …全爱尔兰罗马天主教大主教。
+
+========================================================================
+>>> prolonged
+------------------------------------------------------------------------
+prolonged    [英 prə'lɒŋd / 美 pro'lɔŋd]
+adj. 延长的；拖延的；持续很久的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A prolonged event or situation continues for a long time, or for longer than expected. 长期的; 延长了的
+   ≫   ...a prolonged period of low interest rates.  …一段很长的低利率期。
+
+========================================================================
+>>> primary
+------------------------------------------------------------------------
+primary    [美 'praɪmɛri / 英 'praɪm(ə)rɪ]
+adj. 主要的；初级的；基本的
+n. 原色；最主要者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use primary to describe something that is very important. 首要的
+   ≫   That's the primary reason the company's share price has held up so well.  这就是那家公司的股票价格一直保持得这么好的首要原因。
+   ≫   His misunderstanding of language was the primary cause of his other problems.  他对语言的误解是他其他问题的主要原因。
+2. [ADJ n] Primary education is the first few years of formal education for children. 初级的
+   ≫   The content of primary education should be the same for everyone.  初级教育的内容对每个人都应该是相同的。
+   ≫   Ninety-nine percent of primary pupils now have hands-on experience of computers.  99%的小学生如今都有电脑实际操作经验。
+3. [ADJ n] Primary is used to describe something that occurs first. 最初的
+   ≫   It is not the primary tumour that kills, but secondary growths elsewhere in the body.  致命的并不是原发肿瘤，而是在身体其他部位的继发。
+4. (N-COUNT) A primary or a primary election is an election in an American state in which people vote for someone to become a candidate for a political office. Compare . (美国各州的) 初选
+   ≫   ...the 1968 New Hampshire primary.  …1968年新罕布什尔州的初选。
+
+========================================================================
+>>> primer
+------------------------------------------------------------------------
+primer    [美 'praɪmɚ / 英 'praɪmə]
+n. 初级读本；识字课本；原始物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Primer is a type of paint that is put onto wood in order to prepare it for the main layer of paint. 底漆; 底层涂料
+2. (N-COUNT) A primer is a book containing basic facts about a subject, which is used by someone who is beginning to study that subject. 入门书
+3. (N-COUNT) A primer is a book, written in very simple language, that teaches children how to read. (教儿童阅读的)初级读物
+   ≫   ...the language used in reading primers.  ...初级读物中使用的语言。
+4. (N-COUNT) A primer is a small explosive device that is used to set off a larger explosion. (爆炸物的)引信
+   ≫   The potentially lethal device was made from a length of hose packed with gunpowder, primers, and shrapnel.  这个能致命的装置是用一根装满火药、引信和弹片的软管做出来的。
+5. (N) a person or thing that primes 装填工; 装填物
+
+========================================================================
+>>> prim
+------------------------------------------------------------------------
+prim    [美 prɪm / 英 prɪm]
+adj. 拘谨的；整洁的；呆板的
+vt. 使显得一本正经；把…打扮得整整齐齐
+vi. 显得一本正经
+n. (Prim)人名；(法、德、匈、捷、瑞典、西、葡)普里姆
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you describe someone as prim, you disapprove of them because they behave too correctly and are too easily shocked by anything vulgar. 古板的
+   ≫   We tend to imagine that the Victorians were very prim and proper.  我们往往认为维多利亚时代的人非常古板、循规蹈矩。
+2. [ADV with v] primly 古板地
+   ≫   We sat primly at either end of a long bench.  我们古板地坐在一张长凳的两端。
+
+========================================================================
+>>> prime
+------------------------------------------------------------------------
+prime    [美 praɪm / 英 praɪm]
+adj. 主要的；最好的；基本的
+adv. 极好地
+n. 初期；青年；精华；全盛时期
+vt. 使准备好；填装
+vi. 作准备
+n. (Prime)人名；(英)普赖姆；(德)普里梅
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use prime to describe something that is most important in a situation. 主要的
+   ≫   Political stability, meanwhile, will be a prime concern.  与此同时，政治稳定将是头等大事。
+   ≫   It could be a prime target for guerrilla attack.  它会是游击队进攻的一个主要目标。
+2. [ADJ n] You use prime to describe something that is of the best possible quality. 最佳的
+   ≫   The location of these beaches makes them prime sites for development.  这些海滩的位置使它们成为开发的最佳选址。
+3. [ADJ n] You use prime to describe an example of a particular kind of thing that is absolutely typical. 最典型的
+   ≫   The prime example is Macy's, once the undisputed king of California retailers.  最典型的例子是梅西百货，曾是加州零售商们公认的王者。
+4. (N-UNCOUNT) If someone or something is in their prime, they are at the stage in their existence when they are at their strongest, most active, or most successful. 鼎盛时期
+   ≫   Maybe I'm just coming into my prime now.  可能我刚迈入我的最佳时期。
+   ≫   We've had a series of athletes trying to come back well past their prime.  我们有不少早已过了鼎盛时期的运动员在试图复出。
+5. (V-T) If you prime someone to do something, you prepare them to do it, for example, by giving them information about it beforehand. 事先交代 (某人做某事)
+   ≫   Claire wished she'd primed Sarah beforehand.  克莱尔希望她事先交代过萨拉。
+   ≫   Marianne had not known until Arnold primed her for her duties that she was to be the sole female.  直到阿诺德向她交待她的职责时，玛丽安娜才知道她将是惟一的女性。
+6. (V-T) If someone primes a bomb or a gun, they prepare it so that it is ready to explode or fire. 事先准备 (炸弹、枪)
+   ≫   He was priming the bomb to go off in an hour's time.  他在事先准备炸弹在一小时后爆炸。
+   ≫   He kept a primed shotgun in his office.  他在办公室放了一杆装好子弹的散弹猎枪。
+
