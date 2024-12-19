@@ -31892,3 +31892,556 @@ TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) the act of scintillating 发火花; 闪烁; 闪耀
 
+========================================================================
+>>> 护照
+------------------------------------------------------------------------
+护照
+n. passport ; protection
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He had a nasty moment when he thought he'd lost his passport. 他以为护照丢了，苦恼极了。《牛津词典》
+≫   In my hurry to leave, I forgot my passport. 我匆忙动身，忘了带护照。《牛津词典》
+≫   We had to give our passports up to the authorities. 我们得把护照交给当局。《牛津词典》
+
+========================================================================
+>>> hukou
+------------------------------------------------------------------------
+hukou
+户口
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In theory you can transfer your hukou from one place to another. 从理论上讲，你可以把户口从一个地方迁到另一个地方。
+≫   In education, the hukou system's absurdity is particularly glaring. 在教育方面，户口系统暴露的弊端显而易见。
+≫   In practice, the hukou system is no longer as strictly enforced as before. 实际上，户籍制度已经不像从前那样严苛了。
+
+========================================================================
+>>> pivot
+------------------------------------------------------------------------
+pivot    [美 'pɪvət / 英 'pɪvət]
+n. 枢轴；中心点；旋转运动
+vt. 以…为中心旋转；把…置于枢轴上
+vi. 在枢轴上转动；随…转移
+adj. 枢轴的；关键的
+n. (Pivot)人名；(德)皮福特；(法)皮沃
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The pivot in a situation is the most important thing that everything else is based on or arranged around. 中心点
+   ≫   Forming the pivot of the exhibition is a large group of watercolours.  构成这个展览核心的是一大批水彩画。
+2. (V-I) If something or someone pivots, they balance or turn on a central point. 绕支点运动
+   ≫   The wheels pivot for easy manoeuvring.  这些轮子绕轴转动，以方便操控。
+   ≫   He pivoted on his heels and walked on down the hall.  他以脚跟着地转身，沿着走廊走去。
+3. (N-COUNT) A pivot is the pin or the central point on which something balances or turns. 枢轴; 支点
+   ≫   The pedal had sheared off at the pivot.  这个踏板已经在轴处断裂。
+
+========================================================================
+>>> pivit
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> a pivot
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> grip
+------------------------------------------------------------------------
+grip    [英 grɪp / 美 ɡrɪp]
+n. 紧握；柄；支配；握拍方式；拍柄绷带
+vt. 紧握；夹紧
+vi. 抓住
+n. (Grip)人名；(英、瑞典)格里普
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you grip something, you take hold of it with your hand and continue to hold it firmly. 紧握
+   ≫   She gripped the rope.  她紧紧抓住绳子。
+2. (N-COUNT) A grip is a firm, strong hold on something. 紧握
+   ≫   His strong hand eased the bag from her grip.  他强有力的手使她把紧握的包松开。
+3. (N-SING) Someone's grip on something is the power and control they have over it. 掌控
+   ≫   The president maintains an iron grip on his country.  总统保持着对国家的铁腕统治。
+4. (V-T) If something grips you, it affects you very strongly. 强烈地影响
+   ≫   The entire community has been gripped by fear.  整个社区已被恐惧笼罩着。
+5. [usu passive] If you are gripped by something such as a story or a series of events, your attention is concentrated on it and held by it. 吸引
+   ≫   The nation is gripped by the dramatic story.  整个国家都被这个戏剧性的故事所吸引。
+6. (ADJ) gripping 吸引人的
+   ≫   The film turned out to be a gripping thriller.  这部电影原来是一部扣人心弦的惊险片。
+7. (N-UNCOUNT) If things such as shoes or car tyres have grip, they do not slip. 抓力
+   ≫   ...a new way of reinforcing rubber which gives car tyres a better grip.  …一种增强橡胶使汽车轮胎抓力加强的新方法。
+8. (PHRASE) If you come to grips with a problem, you consider it seriously, and start taking action to deal with it. 认真着手处理
+   ≫   The administration's first task is to come to grips with the economy.  该政府首要的任务是认真着手处理经济问题。
+9. (PHRASE) If you get a grip on yourself, you make an effort to control or improve your behaviour or work. 控制 ; 完善
+   ≫   Part of me was very frightened and I consciously had to get a grip on myself.  我其实非常害怕，但又不得不有意识地控制住自己。
+10. (PHRASE) If a person, group, or place is in the grip of something, they are being severely affected by it. 在某事的强烈影响下
+11. (PHRASE) If you lose your grip, you become less efficient and less confident, and less able to deal with things. 失去掌控
+   ≫   He wondered if perhaps he was getting old and losing his grip.  他怀疑自己或许在变老，对事情感到力不从心。
+12. (PHRASE) If you say that someone has a grip on reality, you mean they recognize the true situation and do not have mistaken ideas about it. 面对现实
+   ≫   Shakur loses his fragile grip on reality and starts blasting away at friends and foes alike.  沙库尔丧失了对现实脆弱的控制力，无论对朋友还是敌人都开始猛烈抨击起来。
+13. (N) a part by which an object is grasped; handle 抓住 (Also called handgrip)
+14. [医学] → a variant spelling of
+
+========================================================================
+>>> correct grip
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1710
+correct grip
+正确的控制
+
+========================================================================
+>>> squeezing
+------------------------------------------------------------------------
+squeezing    [skwi:z]
+n. 压榨；推挤；挤出酌；轧水
+v. 挤压；握住；硬塞进；紧抱；敲诈（squeeze的ing形式）
+adj. 挤压的；压榨的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you squeeze something, you press it firmly, usually with your hands. (常指用手) 挤压; 紧捏
+   ≫   He squeezed her arm reassuringly.  他安慰地捏了捏她的手臂。
+2. (N-COUNT) Squeeze is also a noun. 紧捏; 挤压
+   ≫   I liked her way of reassuring you with a squeeze of the hand.  我喜欢她捏捏手来安慰人的方式。
+3. (V-T) If you squeeze a liquid or a soft substance out of an object, you get the liquid or substance out by pressing the object. 挤; 压榨 (液体等)
+   ≫   Joe put the plug in the sink and squeezed some detergent over the dishes.  乔把塞子插进水槽，往盘子上挤了些洗洁精。
+4. (V-T/V-I) If you squeeze a person or thing somewhere or if they squeeze there, they manage to get through or into a small space. 塞进; 挤进
+   ≫   They lowered him gradually into the cockpit. Somehow they squeezed him in the tight space, and strapped him in.  他们缓缓地把他向下放入驾驶舱，设法把他塞进那狭小的空间，并给系上了安全带。
+5. [非正式] If you say that getting a number of people into a small space is a squeeze, you mean that it is only just possible for them all to get into it. 满塞
+
+========================================================================
+>>> repetition
+------------------------------------------------------------------------
+repetition    [美 'rɛpə'tɪʃən / 英 repɪ'tɪʃ(ə)n]
+n. 重复；背诵；副本
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is a repetition of an event, usually an undesirable event, it happens again. (尤指令人不快的事情) 重演
+   ≫   Today the city government has taken measures to prevent a repetition of last year's confrontation.  今天市政府已经采取了措施来防止去年的冲突重演。
+2. (N-VAR) Repetition means using the same words again. 重复的语句
+   ≫   He could also have cut out much of the repetition and thus saved many pages.  他本来也可以删掉很多重复的语句，省去很多页数。
+
+========================================================================
+>>> surfshark
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪk'sklusɪv / 英 ɪk'skluːsɪv; ek-]
+adj. 独有的；排外的；专一的
+n. 独家新闻；独家经营的项目；排外者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> inclusive
+------------------------------------------------------------------------
+inclusive    [美 ɪn'klusɪv / 英 ɪn'kluːsɪv]
+adj. 包括的，包含的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a group or organization as inclusive, you mean that it allows all kinds of people to belong to it, rather than just one kind of person. 兼收并蓄的
+   ≫   The academy is far more inclusive now than it used to be.  该学院如今比过去更为兼收并蓄。
+2. [n ADJ] After stating the first and last item in a set of things, you can add inclusive to make it clear that the items stated are included in the set. 首末项包括在内的
+   ≫   You are also invited to join us on our prayer days (this year, June 6 to June 14 inclusive).  你也受邀加入我们的祷告日（今年从6月6日（含）至6月14日（含））。
+3. (ADJ) If a price is inclusive, it includes all the charges connected with the goods or services offered. If a price is inclusive of shipping and handling, it includes the charge for this. 包括一切费用在内的
+   ≫   ...all prices are inclusive of delivery.  …所有价格包括运费。
+4. [amount ADV] Inclusive is also an adverb. 包括一切费用在内地
+   ≫   The outpatient programme costs $105 per day, all inclusive.  门诊病人方案收费每人每天105美元，一切费用包括在内。
+
+========================================================================
+>>> throwback
+------------------------------------------------------------------------
+throwback    [美 'θrobæk / 英 'θrəʊbæk]
+（俚）复古队服
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu sing, oft N 'to' n] If you say that something is a throwback to a former time, you mean that it is like something that existed a long time ago. 复古; 回归
+   ≫   The hall is a throwback to another era with its old prints and stained glass.  这个大厅的古老图案和彩色玻璃是对一个过往时代风格的回归。
+
+========================================================================
+>>> throwback thursday
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1963
+throwback thursday
+怀旧星期四：指一个流行的网络自创节日，在Facebook、Instagram和Twitter上很流行。很多人通常会发布过去的怀旧照片，并附上#TBT或ThrowbackThursday的标签，可以让网络两端的彼此更加认识对方，十分有趣，也可以脱离每天惯行的规则。
+
+========================================================================
+>>> relive
+------------------------------------------------------------------------
+relive    [美 ,ri'lɪv / 英 riː'lɪv]
+vt. 再体验
+vi. 复活；再生
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you relive something that has happened to you in the past, you remember it and imagine that you are experiencing it again. 重温; 回味
+   ≫   There is no point in reliving the past.  回味过去毫无意义。
+
+========================================================================
+>>> pratical lessons
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pratical lessons
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2068
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> practical lessons
+------------------------------------------------------------------------
+practical lessons
+实践课程：指与理论课程相对应的实践性课程，通常包括实验、实习、实训等形式。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Here are some practical lessons we learned from real engagements. 以下是我们从实际项目中获得一些实践经验。
+≫   Practical lessons, like woodwork and cookery, are not considered as important as maths. 一般认为像木工和烹饪之类的实用课程不如数学重要。
+≫   Beyond the spiritual lessons taught in these verses, I think there are some practical lessons to be learned about employment. 以后这些诗的精神上课，我想有一些实用的就业教训。
+
+========================================================================
+>>> infrastructure
+------------------------------------------------------------------------
+infrastructure    [英 'ɪnfrəstrʌktʃə / 美 'ɪnfrə'strʌktʃɚ]
+n. 基础设施；公共建设；下部构造
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The infrastructure of a country, society, or organization consists of the basic facilities such as transportation, communications, power supplies, and buildings, which enable it to function. (国家、社会、组织赖以行使职能的) 基础设施
+   ≫   ...improvements in the country's infrastructure.  …国家基础设施的改善。
+
+========================================================================
+>>> on occasion
+------------------------------------------------------------------------
+on occasion
+有时；偶尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   His favorite book was the Koran, so on occasion he would entertain those who would ask by reciting the Koran word for word. 他最喜欢的书是古兰经，所以有时候父亲会以逐字背诵古兰经的方式来娱乐那些挑战他的人。
+≫   Its biggest downside is that, on occasion, computers fail to 'awaken' properly from this mode, and you have to do a full restart. 这样做最大的一个不利之处是，有时电脑不会从这种状态下正常“唤醒”，你需要完全重新启动电脑。
+≫   But on occasion they wondered where the Blue Jay had gone and how he was doing and, most of all, if he was still the color blue and what it had all meant. 但是,偶尔他们会想冠蓝鸦飞去了哪里,现在过得怎样,最重要的是,它是否依然是那鲜艳的蓝色,以及曾经发生的一切究竟意味着什么。
+
+========================================================================
+>>> on occasion
+------------------------------------------------------------------------
+on occasion
+有时；偶尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   His favorite book was the Koran, so on occasion he would entertain those who would ask by reciting the Koran word for word. 他最喜欢的书是古兰经，所以有时候父亲会以逐字背诵古兰经的方式来娱乐那些挑战他的人。
+≫   Its biggest downside is that, on occasion, computers fail to 'awaken' properly from this mode, and you have to do a full restart. 这样做最大的一个不利之处是，有时电脑不会从这种状态下正常“唤醒”，你需要完全重新启动电脑。
+≫   But on occasion they wondered where the Blue Jay had gone and how he was doing and, most of all, if he was still the color blue and what it had all meant. 但是,偶尔他们会想冠蓝鸦飞去了哪里,现在过得怎样,最重要的是,它是否依然是那鲜艳的蓝色,以及曾经发生的一切究竟意味着什么。
+
+========================================================================
+>>> ignorance
+------------------------------------------------------------------------
+ignorance    [美 'ɪɡnərəns / 英 'ɪgn(ə)r(ə)ns]
+n. 无知，愚昧；不知，不懂
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Ignoranceof something is lack of knowledge about it. 无知
+   ≫   I am beginning to feel embarrassed by my complete ignorance of world history.  我开始为自己对世界历史的一无所知感到尴尬。
+
+========================================================================
+>>> enlighten
+------------------------------------------------------------------------
+enlighten    [美 ɪn'laɪtn / 英 ɪn'laɪt(ə)n; en-]
+vt. 启发，启蒙；教导，开导；照耀
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] To enlighten someone means to give them more knowledge and greater understanding about something. 启迪
+   ≫   A few dedicated doctors have fought for years to enlighten the profession.  少数富有献身精神的医生为启蒙这一行业而奋斗多年。
+2. (ADJ) enlightening 具有启发性的
+   ≫   ...an enlightening talk on the work done at the zoo.  …一段关于动物园工作的具有启发性的讲话。
+
+========================================================================
+>>> excels in
+------------------------------------------------------------------------
+excelsin
+n. 巴西果蛋白
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Pisces excels in the art of listening. 双鱼座擅长倾听的艺术。
+≫   He excels in virtue. 他品德高尚。《新英汉大辞典》
+≫   He excels in art and music. 他擅长艺术和音乐。
+
+========================================================================
+>>> virtue
+------------------------------------------------------------------------
+virtue    [美 'vɝtʃʊ / 英 'vɜːtjuː; -tʃuː]
+n. 美德；优点；贞操；功效
+n. (Virtue)人名；(英)弗丘
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Virtue is thinking and doing what is right and avoiding what is wrong. 正直的品性
+   ≫   Virtue is not confined to the Christian world.  正直的品性并不限于基督教世界。
+2. (N-COUNT) A virtue is a good quality or way of behaving. 美德
+   ≫   His virtue is patience.  他的美德就是耐心。
+3. (N-COUNT) The virtue of something is an advantage or benefit that it has, especially in comparison with something else. 优势; 益处
+   ≫   There was no virtue in returning to Calvi the way I had come.  按我来的路线返回卡尔维并不可取。
+4. [正式] You use by virtue of to explain why something happens or is true. 因为
+   ≫   The article stuck in my mind by virtue of one detail.  该文章因一细节而印入我脑海。
+
+========================================================================
+>>> excels in math
+------------------------------------------------------------------------
+excel in math
+擅长数学：指在数学方面表现出色，具有出色的数学能力。
+
+========================================================================
+>>> resort
+------------------------------------------------------------------------
+resort    [美 rɪ'zɔrt / 英 rɪ'zɔːt]
+n. 凭借，手段；度假胜地；常去之地
+vi. 求助，诉诸；常去；采取某手段或方法
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you resort to a course of action that you do not really approve of, you adopt it because you cannot see any other way of achieving what you want. 不得不求助
+   ≫   His punishing work schedule had made him resort to drugs.  他那累人的工作日程已经使他不得不求助于毒品了。
+2. (N-UNCOUNT) If you achieve something without resort to a particular course of action, you succeed without carrying out that action. To have resort to a particular course of action means to have to do that action in order to achieve something. 诉诸
+   ≫   Congress has a responsibility to ensure that all peaceful options are exhausted before resort to war.  国会有责任确保在所有和平的手段用尽之后再诉诸武力。
+3. (PHRASE) If you do something as a last resort, you do it because you can find no other way of getting out of a difficult situation or of solving a problem. 作为最后手段
+   ≫   Nuclear weapons should be used only as a last resort.  核武器应该只被用作最后手段。
+4. (N-COUNT) A resort is a place where a lot of people spend their holiday. (度假) 胜地
+   ≫   The ski resorts are expanding to meet the growing number of skiers that come here.  该滑雪胜地正在扩建以应付来这里滑雪的不断增长的人数。
+
+========================================================================
+>>> the last resort
+------------------------------------------------------------------------
+the last resort
+最后的手段：如果所有其他方法都失败了，才会使用的手段。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the last resort we can always walk home. 顶多我们走回家就是了。《牛津词典》
+≫   She is a very independent person who would ask others for help only in the last resort. 她是一个非常独立的人，只有在实在没有办法的时候她才会向别人寻求帮助。
+≫   But that is very much the last resort. 但是，这是最后的办法了。
+
+========================================================================
+>>> rapine
+------------------------------------------------------------------------
+rapine    [美 ˈræpɪn / 英 ˈræpaɪn]
+n. 掠夺；劫掠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the seizure of property by force; pillage 掠夺
+
+========================================================================
+>>> rapine economy
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> rapine economy
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2511
+rapine economy
+掠夺经济
+
+========================================================================
+>>> invasion
+------------------------------------------------------------------------
+invasion    [美 ɪn'veʒn / 英 ɪn'veɪʒ(ə)n]
+n. 入侵，侵略；侵袭；侵犯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is an invasion of a country, a foreign army enters it by force. 入侵
+   ≫   ...seven years after the Roman invasion of Britain.  …罗马人入侵大不列颠岛之后的7年。
+2. (N-VAR) If you refer to the arrival of a large number of people or things as an invasion, you are emphasizing that they are unpleasant or difficult to deal with. 大群涌入
+   ≫   ...this year's annual invasion of flies, wasps and ants.  …今年苍蝇、黄蜂和蚂蚁像往年一样的大量涌入。
+3. [表不满] If you describe an action as an invasion, you disapprove of it because it affects someone or something in a way that is not wanted. 侵扰
+   ≫   Is reading a child's diary always a gross invasion of privacy?  看孩子的日记在任何情况下都是严重侵犯隐私的行为吗？
+
+========================================================================
+>>> ideology
+------------------------------------------------------------------------
+ideology    [英 ,aɪdɪ'ɒlədʒɪ; ɪd- /  ,aɪdɪ'ɒlədʒɪ; ɪd-]
+n. 意识形态；思想意识；观念学
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An ideology is a set of beliefs, especially the political beliefs on which people, parties, or countries base their actions. 意识形态
+   ≫   ...capitalist ideology.  …资本主义意识形态。
+
+========================================================================
+>>> the fog of
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> the fog of
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2643
+the fog of
+迷雾
+
+========================================================================
+>>> the fog of war
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2684
+the fog of war
+战争的迷雾
+
+========================================================================
+>>> coexist
+------------------------------------------------------------------------
+coexist    [美 ,koɪɡ'zɪst / 英 ,kəʊɪg'zɪst]
+vi. 共存；和平共处
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one thing coexists with another, they exist together at the same time or in the same place. You can also say that two things coexist. 共存
+   ≫   Newspaper Web sites can coexist with the newspapers and still bring in healthy profit margins.  网络报纸可以与纸质报纸共存，仍能带来不错的利润。
+   ≫   The different cultures had coexisted peacefully for many years.  不同文化曾和平共存了很多年。
+
+========================================================================
+>>> hustle
+------------------------------------------------------------------------
+hustle    [美 'hʌsl / 英 'hʌs(ə)l]
+vt. 催促；猛推；强夺
+vi. 赶紧；硬挤过去；拼命挣钱
+n. 推；奔忙；拥挤喧嚷
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you hustle someone, you try to make them go somewhere or do something quickly, for example by pulling or pushing them along. 猛拉; 猛推
+   ≫   The guards hustled Harry out of the car.  卫兵们把哈里从车子里拉了出来。
+2. (V-I) If you hustle, you go somewhere or do something as quickly as you can. 快速行进; 赶快做
+   ≫   You'll have to hustle if you're to get home for supper.  你想回家吃晚饭的话，得赶紧走了。
+3. [美国英语] If someone hustles, they try hard to earn money or to gain an advantage from a situation. 奋力争取
+   ≫   I like it here. It forces you to hustle and you can earn money.  我喜欢在这里生活。这个想法迫使你拼命干活，这样可以挣到钱。
+   ≫   Hustling for social contacts isn't something that just happens. You have to make it happen.  社会关系不是说建立就建立起来的，你得想尽一切办法去争取。
+4. [美国英语] If someone hustles you, or if they hustle something, they try hard to get something, often by using dishonest or illegal means. 诈取 (通常用不正当或非法的手段)
+   ≫   Two teenage boys asked us for money, saying they were forming a baseball team. Anna said they were hustling us.  两个小男孩向我们要钱，说他们要成立棒球队。安娜说他们在骗钱。
+   ≫   He hustled several daytime jobs and finished his education at night.  他骗得了几份白班工作，利用晚上完成了学业。
+5. (N-UNCOUNT) Hustle is busy, noisy activity. 忙碌; 熙熙攘攘
+   ≫   ...the hustle and bustle of New York.  …纽约的熙攘喧闹。
+
+========================================================================
+>>> mecilum
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pdozol
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> podzol
+------------------------------------------------------------------------
+podzol    [英 ˈpɒdzɒl]
+n. [土壤] 灰化土，[地质] 灰壤
+alsopodsol
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a type of soil characteristic of coniferous forest regions having a greyish-white colour in its upper leached layers 灰化土
+
+========================================================================
+>>> stuffed
+------------------------------------------------------------------------
+stuffed    [美 stʌft / 英 stʌft]
+已经喂饱了的；塞满了的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) filled with something, esp (of poultry and other food) filled with stuffing 塞满了的; 吃饱了的
+
+========================================================================
+>>> double stuffed
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3810
+double stuffed
+双塞
+
+========================================================================
+>>> teleported
+------------------------------------------------------------------------
+teleported
+vt. （心灵学用语）心灵运输（物体、人）( teleport 的过去式和过去分词 )
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) (in science fiction) to transport (a person or object) across a distance instantaneously (科幻小说)瞬移; 瞬间可把人或物运输到远处
+
+========================================================================
+>>> teleport
+------------------------------------------------------------------------
+teleport    [美 ˈtelɪpɔːrt / 英 ˈtelɪpɔːt]
+v. 心灵运输（物体、人）；远距离传送
+n. 通信卫星；心灵传输
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) (in science fiction) to transport (a person or object) across a distance instantaneously (科幻小说)瞬移; 瞬间可把人或物运输到远处
+
+========================================================================
+>>> enclose ofo
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> enclose off
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> enclose off
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3988
+enclose off
+附上了
+
+========================================================================
+>>> enclose off this area
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4032
+enclose off this area
+把这个区域围起来
+
+========================================================================
+>>> comedian
+------------------------------------------------------------------------
+comedian    [美 kə'midɪən / 英 kə'miːdɪən]
+n. 喜剧演员；滑稽人物
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A comedian is an entertainer whose job is to make people laugh, by telling jokes or funny stories. 喜剧演员
+   ≫   ...a stand-up comedian.  …一位单人喜剧表演演员。
+
+========================================================================
+>>> diorite
+------------------------------------------------------------------------
+diorite    [英 ˈdaɪəraɪt / 美 ˈdaɪəˌraɪt]
+n. [岩] 闪长岩；闪绿岩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a dark coarse-grained igneous plutonic rock consisting of plagioclase feldspar and ferromagnesian minerals such as hornblende 闪长岩
+
+========================================================================
+>>> f basalt
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> basalt
+------------------------------------------------------------------------
+basalt    [美 bə'sɔlt / 英 'bæsɔːlt; -(ə)lt]
+n. [岩] 玄武岩；黑陶器
+n. (Basalt)人名；(西)巴萨尔特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Basalt is a type of black rock that is produced by volcanoes. 玄武岩
+
+========================================================================
+>>> andesite
+------------------------------------------------------------------------
+andesite    [英 ˈændɪzaɪt / 美 ˈændɪˌzaɪt]
+n. 安山岩，安山石，中性长石
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a fine-grained tan or grey volcanic rock consisting of plagioclase feldspar, esp andesine, amphibole, and pyroxene 安山岩
+
+========================================================================
+>>> granite
+------------------------------------------------------------------------
+granite    [英 'grænɪt / 美 'grænɪt]
+n. 花岗岩；坚毅；冷酷无情
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Granite is a very hard rock used in building. 花岗岩
+

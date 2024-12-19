@@ -35700,3 +35700,22 @@ CET4 TEM4
 fast aggregation
 快速聚合
 
+========================================================================
+>>> pivot
+------------------------------------------------------------------------
+pivot    [美 'pɪvət / 英 'pɪvət]
+n. 枢轴；中心点；旋转运动
+vt. 以…为中心旋转；把…置于枢轴上
+vi. 在枢轴上转动；随…转移
+adj. 枢轴的；关键的
+n. (Pivot)人名；(德)皮福特；(法)皮沃
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The pivot in a situation is the most important thing that everything else is based on or arranged around. 中心点
+   ≫   Forming the pivot of the exhibition is a large group of watercolours.  构成这个展览核心的是一大批水彩画。
+2. (V-I) If something or someone pivots, they balance or turn on a central point. 绕支点运动
+   ≫   The wheels pivot for easy manoeuvring.  这些轮子绕轴转动，以方便操控。
+   ≫   He pivoted on his heels and walked on down the hall.  他以脚跟着地转身，沿着走廊走去。
+3. (N-COUNT) A pivot is the pin or the central point on which something balances or turns. 枢轴; 支点
+   ≫   The pedal had sheared off at the pivot.  这个踏板已经在轴处断裂。
+
