@@ -31775,3 +31775,13 @@ CET6+ TEM4
    ≫   ...a tradition of political discourse.  …一个政治对话的传统。
 2. → see also ,
 
+========================================================================
+>>> CORDIC
+------------------------------------------------------------------------
+cordic
+abbr. 坐标旋转数字计算机（Coordinated Rotation Digital Computer）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And a novel synchronization model based on CORDIC algorithm in digital field is proposed. 提出了一种基于CORDIC算法的数字域同步模型。
+≫   Thus, software radio DDFS based on CORDIC algorithm can help to reduce chip area, power dissipation and cost. 所以CORDIC算法来实现软件无线电直接数字频率合成器有助于节省芯片面积、降低功耗、减少成本。
+≫   The CORDIC algorithm based on shift and add operations is the simplest algorithm of the transcendental function. 基于移位加的坐标旋转数字计算机算法是用硬件实现超越函数的最简单方法。
+

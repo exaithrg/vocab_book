@@ -34942,3 +34942,34 @@ TEM8
 winograd schema challenge
 威诺格拉德模式挑战
 
+========================================================================
+>>> CORDIC
+------------------------------------------------------------------------
+cordic
+abbr. 坐标旋转数字计算机（Coordinated Rotation Digital Computer）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And a novel synchronization model based on CORDIC algorithm in digital field is proposed. 提出了一种基于CORDIC算法的数字域同步模型。
+≫   Thus, software radio DDFS based on CORDIC algorithm can help to reduce chip area, power dissipation and cost. 所以CORDIC算法来实现软件无线电直接数字频率合成器有助于节省芯片面积、降低功耗、减少成本。
+≫   The CORDIC algorithm based on shift and add operations is the simplest algorithm of the transcendental function. 基于移位加的坐标旋转数字计算机算法是用硬件实现超越函数的最简单方法。
+
+========================================================================
+>>> coordinated
+------------------------------------------------------------------------
+coordinated    [美 ko,ɔrd'netɪd / 英 kəʊ'ɔ:dɪneɪtɪd]
+vt. 调整；使调和（coordinate的过去分词）；调节；整理
+adj. 协调的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you coordinate an activity, you organize the various people and things involved in it. 协调
+   ≫   Government officials visited the earthquake zone on Thursday morning to coordinate the relief effort.  政府官员星期四上午视察了地震灾区以协调救灾工作。
+2. (ADJ) coordinated 协调的
+   ≫   Coalition forces were planning a coordinated effort to attack the drug trade.  联合部队正在计划共同打击毒品买卖。
+   ≫   ...a well-coordinated surprise attack.  …一次完美配合的突袭。
+3. (V-T) If you coordinate the different parts of your body, you make them work together efficiently to perform particular movements. 使 (身体各部位) 协调
+   ≫   You need to coordinate legs, arms, and breathing for the front crawl.  匍匐前进时，你要协调双腿、胳膊和呼吸。
+4. (V-RECIP) If you coordinate clothes or furnishings that are used together, or if they coordinate, they are similar in some way and look nice together. 搭配 (衣服、饰品)
+   ≫   She'll show you how to coordinate pattern and colours.  她会向你展示如何搭配款式和颜色。
+   ≫   Tie it with fabric bows that coordinate with other furnishings.  扎上和其他的饰品相配的布制蝴蝶结。
+5. [技术] The coordinates of a point on a map or graph are the two sets of numbers or letters that you need in order to find that point. 坐标
+   ≫   Can you give me your coordinates?  能给我你的坐标吗？
+
