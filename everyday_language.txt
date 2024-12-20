@@ -37191,3 +37191,11 @@ fair enough
 ≫   If you don't like it, fair enough, but that's hardly a justification to attack the whole thing. 如果你不喜欢它，可以，但把它说得一无是处就没什么道理了。《柯林斯英汉双解大词典》
 ≫   The first paragraph is fair enough. 第一段倒也算公正。
 
+========================================================================
+>>> riptide
+------------------------------------------------------------------------
+riptide    [美 ˈrɪpˌtaɪd / 英 ˈrɪptaɪd]
+n. 激流；洪涛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A riptide is an area of sea where two different currents meet or where the water is extremely deep. Riptides make the water very rough and dangerous. 激流
+
