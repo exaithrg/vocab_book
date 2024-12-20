@@ -33475,3 +33475,64 @@ n. (Vibe)人名；(挪)维伯
 1. [非正式] Vibes are the good or bad atmosphere that you sense with a person or in a place. 感应; 气氛
    ≫   Sorry, Chris, but I have bad vibes about this guy.  对不起，克里斯，但我对这家伙感觉不太好。
 
+========================================================================
+>>> loyalty
+------------------------------------------------------------------------
+loyalty    [美 'lɔɪəlti / 英 'lɒɪəltɪ]
+n. 忠诚；忠心；忠实；忠于…感情
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Loyalty is the quality of staying firm in your friendship or support for someone or something. 忠诚
+   ≫   I have sworn an oath of loyalty to the monarchy.  我已经发誓效忠君主制。
+2. (N-COUNT) Loyalties are feelings of friendship, support, or duty toward someone or something. 效忠的义务
+   ≫   She had developed strong loyalties to the Manet family.  她深深感到对马奈一家有效忠的义务。
+
+========================================================================
+>>> reside on
+------------------------------------------------------------------------
+reside on
+居住在：指在某个地方定居或居住。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The utility can also reside on a central server. 该实用程序还可以驻留在一个中央服务器上。
+≫   Web applications also reside on application servers. Web应用程序也驻留在应用服务器上。
+≫   The guest operating systems reside on the hypervisor. 来宾操作系统位于管理程序中。
+
+========================================================================
+>>> frontier
+------------------------------------------------------------------------
+frontier    [美 frʌn'tɪr / 英 'frʌntɪə; frʌn'tɪə]
+n. 前沿；边界；国境
+adj. 边界的；开拓的
+n. (Frontier)人名；(法)弗龙捷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) When you are talking about the western part of America before the twentieth century, you use frontier to refer to the area beyond the part settled by Europeans. (20世纪前美国) 西部边疆
+   ≫   ...a far-flung outpost on the frontier.  …远驻西部边疆的一个哨所。
+2. (N-COUNT) Thefrontiers of something, especially knowledge, are the limits to which it extends. (尤指知识的) 前沿
+   ≫   ...pushing back the frontiers of science.  …推进科学前沿。
+3. (N-COUNT) A frontier is a border between two countries. 国界
+   ≫   It wasn't difficult then to cross the frontier.  那时候穿越国界并不难。
+
+========================================================================
+>>> precedented
+------------------------------------------------------------------------
+precedented    [美 ˈpresɪdentɪd / 英 ˈpresɪˌdentɪd]
+adj. 有先例的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of a decision, etc) supported by having a precedent (决策等)有先例的
+
+========================================================================
+>>> accommodate
+------------------------------------------------------------------------
+accommodate    [美 ə'kɑmədet / 英 ə'kɒmədeɪt]
+vt. 容纳；使适应；供应；调解
+vi. 适应；调解
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] If a building or space can accommodate someone or something, it has enough room for them. 容纳
+   ≫   The school was not big enough to accommodate all the children.  学校没有足够的地方容纳所有的学生。
+2. (V-T) To accommodate someone means to provide them with a place to live or stay. 为…提供住宿
+   ≫   ...a hotel built to accommodate guests for the wedding of King Alfonso.  …一个为来参加阿方索国王婚礼的客人提供住宿而建造的宾馆。
+3. [正式] If something is planned or changed to accommodate a particular situation, it is planned or changed so that it takes this situation into account. 使…适应
+   ≫   The roads are built to accommodate gradual temperature changes.  这些道路是为适应气温的逐渐变化而建的。
+

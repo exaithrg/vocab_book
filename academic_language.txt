@@ -35719,3 +35719,227 @@ TEM8
 3. (N-COUNT) A pivot is the pin or the central point on which something balances or turns. 枢轴; 支点
    ≫   The pedal had sheared off at the pivot.  这个踏板已经在轴处断裂。
 
+========================================================================
+>>> alleviate
+------------------------------------------------------------------------
+alleviate    [美 ə'livɪ'et / 英 ə'liːvɪeɪt]
+vt. 减轻，缓和
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you alleviate pain, suffering, or an unpleasant condition, you make it less intense or severe. 减轻 (不适)
+   ≫   Nowadays, a great deal can be done to alleviate back pain.  如今，很多方法可以被用来减轻背部疼痛。
+2. [usu N 'of' n] alleviation 减轻
+   ≫   Their energies were focused on the alleviation of the refugees' misery.  他们把精力集中在了对难民苦难的减轻上。
+
+========================================================================
+>>> consolidatoin
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> consolidation
+------------------------------------------------------------------------
+consolidation    [美 kən,sɑlə'deʃən / 英 kən,sɒlɪ'deɪʃən]
+n. 巩固；合并；团结
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act of consolidating or state of being consolidated 巩固; 变坚固
+
+========================================================================
+>>> pervasively
+------------------------------------------------------------------------
+pervasively    [pə:'veisiv; pə-]
+遍布地
+普遍地
+流行地
+弥漫地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Many of my clients have too much legacy code and momentum to change pervasively. 我的许多客户有太多的遗留代码，修改起来工作量太大。
+≫   More pervasively, by repeatedly putting the wrong people into the wrong jobs, they waste both human and financial capital when those people don't perform. 更普遍的，不断的选错误人做错误的事，他们浪费人力和财务资本的同时，还毫无业绩。
+≫   They acknowledge that privacy and data theft are legitimate concerns in a pervasively connected environment, but they feel it is already too late to stop the juggernaut of change. 他们提到，在普遍联系的环境中，对隐私和数据窃取的考虑是理所应当的，但是，他们感到现在停止对变化的崇拜已经太晚了。
+
+========================================================================
+>>> frontier
+------------------------------------------------------------------------
+frontier    [美 frʌn'tɪr / 英 'frʌntɪə; frʌn'tɪə]
+n. 前沿；边界；国境
+adj. 边界的；开拓的
+n. (Frontier)人名；(法)弗龙捷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) When you are talking about the western part of America before the twentieth century, you use frontier to refer to the area beyond the part settled by Europeans. (20世纪前美国) 西部边疆
+   ≫   ...a far-flung outpost on the frontier.  …远驻西部边疆的一个哨所。
+2. (N-COUNT) Thefrontiers of something, especially knowledge, are the limits to which it extends. (尤指知识的) 前沿
+   ≫   ...pushing back the frontiers of science.  …推进科学前沿。
+3. (N-COUNT) A frontier is a border between two countries. 国界
+   ≫   It wasn't difficult then to cross the frontier.  那时候穿越国界并不难。
+
+========================================================================
+>>> unprecedented
+------------------------------------------------------------------------
+unprecedented    [美 ʌn'prɛsɪdɛntɪd / 英 ʌn'presɪdentɪd]
+adj. 空前的；无前例的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is unprecedented, it has never happened before. 史无前例的
+   ≫   Such a move is rare, but not unprecedented.  这样的举动少见，但并非从来没有过。
+2. [强调] If you describe something as unprecedented, you are emphasizing that it is very great in quality, amount, or scale. (质量、数量或规模) 空前的
+   ≫   The mission has been hailed as an unprecedented success.  这次使命已被宣布为一次空前的成功。
+
+========================================================================
+>>> autonomy
+------------------------------------------------------------------------
+autonomy    [美 ɔ'tɑnəmi / 英 ɔː'tɒnəmɪ]
+n. 自治，自治权
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Autonomy is the control or government of a country, organization, or group by itself rather than by others. 自治
+   ≫   Activists stepped up their demands for local autonomy last month.  活动的积极分子上个月提高了其对地方自治的要求。
+2. [正式] Autonomy is the ability to make your own decisions about what to do rather than being influenced by someone else or told what to do. 独立自主
+   ≫   Each of the area managers enjoys considerable autonomy in the running of his own area.  每一位地区经理在各自主管的区域都享有相当大的自主权。
+
+========================================================================
+>>> drastically
+------------------------------------------------------------------------
+drastically    [英 'dræstikəli /  'dræstikəli]
+adv. 彻底地；激烈地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The US, especially the southeast and southwest, have been affected drastically by these fires. 在美国，特别是东南部和西南部，已经受到这些大火的剧烈影响。
+≫   And that’s no accident because although this new style of printing comes with many advantages, it is simultaneously drastically transforming the market. 这并不意外，因为尽管这种新的印刷方式有许多优点，它同时也彻底地改变了整个市场。
+≫   But with so many eyes now on this emerging Asian giant, what happens there continues to have an exceptional ability to draw attention and to shift perceptions drastically and suddenly. 但是，现在有如此多的目光注视着这个新兴的亚洲巨人，那里发生的事情能异乎寻常地一再引人注目，突然并彻底地改变人们的看法。
+
+========================================================================
+>>> excerpts
+------------------------------------------------------------------------
+excerpts    [英 'eksə:pt /  'eksə:pt]
+n. 摘由，节选（excerpt复数形式）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An excerpt is a short piece of writing or music taken from a larger piece. 摘录; 节选
+   ≫   ...an excerpt from Tchaikovsky's Nutcracker.  …柴可夫斯基的《胡桃夹子》选段。
+
+========================================================================
+>>> explicitl
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> explicitly
+------------------------------------------------------------------------
+explicitly    [ɪk'splɪsɪtli]
+adv. 明确地；明白地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   You have to grant us control explicitly. 你们必须允许我们明确地控制。
+≫   Tell them explicitly you want to continue the friendship. 明确地告诉他们你想继续这段友谊。
+≫   Therefore, you need to include these in your source files explicitly. 因此，您需要将这些都明确地包含进源文件中。
+
+========================================================================
+>>> empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> compelling
+------------------------------------------------------------------------
+compelling    [美 kəm'pɛlɪŋ / 英 kəm'pelɪŋ]
+adj. 引人注目的；强制的；激发兴趣的
+v. 强迫；以强力获得（compel的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A compelling argument or reason is one that convinces you that something is true or that something should be done. 令人信服的
+   ≫   Factual and forensic evidence makes a suicide verdict the most compelling answer to the mystery of his death.  事实和法庭证据使自杀的判定成为对他死亡之谜最令人信服的解答。
+2. (ADJ) If you describe something such as a film or book, or someone's appearance, as compelling, you mean you want to keep looking at it or reading it because you find it so interesting. 引人入胜的
+   ≫   ...a frighteningly violent yet compelling film.  …一部充满恐怖暴力但却引人入胜的电影。
+
+========================================================================
+>>> data leakage
+------------------------------------------------------------------------
+data leakage
+数据泄露：在统计学和机器学习中，模型训练过程中使用了在预测时不应该可用的信息，导致在生产环境中运行时，预测得分（指标）高估了模型的效用。
+
+========================================================================
+>>> accomodate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> accomodate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> accommodate
+------------------------------------------------------------------------
+accommodate    [美 ə'kɑmədet / 英 ə'kɒmədeɪt]
+vt. 容纳；使适应；供应；调解
+vi. 适应；调解
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] If a building or space can accommodate someone or something, it has enough room for them. 容纳
+   ≫   The school was not big enough to accommodate all the children.  学校没有足够的地方容纳所有的学生。
+2. (V-T) To accommodate someone means to provide them with a place to live or stay. 为…提供住宿
+   ≫   ...a hotel built to accommodate guests for the wedding of King Alfonso.  …一个为来参加阿方索国王婚礼的客人提供住宿而建造的宾馆。
+3. [正式] If something is planned or changed to accommodate a particular situation, it is planned or changed so that it takes this situation into account. 使…适应
+   ≫   The roads are built to accommodate gradual temperature changes.  这些道路是为适应气温的逐渐变化而建的。
+
+========================================================================
+>>> encompass
+------------------------------------------------------------------------
+encompass    [美 ɪn'kʌmpəs / 英 ɪn'kʌmpəs; en-]
+vt. 包含；包围，环绕；完成
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something encompasses particular things, it includes them. 包含
+   ≫   His repertoire encompassed everything from Bach to Schoenberg.  他的表演曲目从巴赫到勋伯格，样样俱全。
+2. (V-T) To encompass a place means to completely surround or cover it. 围住; 覆盖
+   ≫   The map shows the rest of the western region, encompassing nine states.  这地图显示了其余西部区域，覆盖了9个州。
+
+========================================================================
+>>> stark
+------------------------------------------------------------------------
+stark    [美 stɑrk / 英 stɑːk]
+adj. 完全的；荒凉的；刻板的；光秃秃的；朴实的
+adv. 完全；明显地；突出地；质朴地
+n. (Stark)人名；(俄、罗)斯塔尔克；(英、芬、法、瑞典)斯塔克；(德)施塔克
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Stark choices or statements are harsh and unpleasant. 严酷的
+   ≫   Companies face a stark choice if they want to stay competitive.  各公司要想保持竞争力就要面临一个严酷的选择。
+2. (ADV) starkly 严酷地
+   ≫   That issue is presented starkly and brutally by Bob Graham and David Cairns.  那个问题被鲍勃·格雷厄姆和戴维·凯恩斯冷酷无情地提了出来。
+3. (ADJ) If two things are in stark contrast to one another, they are very different from each other in a way that is very obvious. (对比) 鲜明的
+   ≫   ...secret cooperation between London and Washington that was in stark contrast to official policy.  …伦敦和华盛顿之间的与官方政策明显相悖的秘密合作。
+4. (ADV) starkly 鲜明地
+   ≫   Angus's child-like paintings contrast starkly with his adult subject matter in these portraits.  安格斯孩子般的绘画和他这些肖像画里的成人主题对比鲜明。
+5. (ADJ) Something that is stark is very plain in appearance. 普通的
+   ≫   ...the stark white, characterless fireplace in the drawing room.  …起居室里平淡无奇的白色壁炉。
+6. (ADV) starkly 普通地
+   ≫   The room was starkly furnished.  那房间布置得很普通。
+
+========================================================================
+>>> hurdle
+------------------------------------------------------------------------
+hurdle    [美 'hɝdl / 英 'hɜːd(ə)l]
+n. 障碍；栏；跳栏
+vt. 克服
+vi. 克服；跳过
+n. (Hurdle)人名；(英)赫德尔
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hurdle is a problem, difficulty, or part of a process that may prevent you from achieving something. 障碍; 困难
+   ≫   Two-thirds of candidates fail at this first hurdle and are sent home.  2/3的候选人未能通过这第一关，被打发回家了。
+2. (N-COUNT-COLL) Hurdles is a race in which people have to jump over a number of obstacles that are also called hurdles. You can use hurdles to refer to one or more races. 跨栏赛跑
+   ≫   Davis won the 400 metre hurdles in a new Olympic time of 49.3 sec.  戴维斯以49.3秒这一新的奥运会记录在400米跨栏赛跑中夺冠。
+3. (V-T/V-I) If you hurdle, you jump over something while you are running. (奔跑中) 跨越
+   ≫   He crossed the lawn and hurdled the short fence.  他穿过草坪，越过低矮的栅栏。
+
+========================================================================
+>>> laoding
+------------------------------------------------------------------------
+Not found :(
+
