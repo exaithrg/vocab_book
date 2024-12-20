@@ -33173,3 +33173,34 @@ CET6 TEM4
    ≫   They'll question them as to whether anyone was seen acting suspiciously in the area over the last few days.  他们将询问这些人过去几天是否在该地区发现行迹可疑的人。
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+>>> guts
+------------------------------------------------------------------------
+guts    [英 ɡʌts /  ɡʌts]
+n. 内脏；飞碟游戏（比赛双方每组5人，相距15码，互相掷接飞碟）；狭道；贪食者（gut的复数）
+v. 取出…的内脏；毁坏…的内部；贪婪地吃（gut的第三人称单数）
+n. (Guts)人名；(德)古茨
+n. （俚语）勇气；决心
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) A person's or animal's guts are all the organs inside them. 内脏
+   ≫   By the time they finish, the crewmen are standing ankle-deep in fish guts.  到他们结束时，船员们正站在齐脚踝深的鱼内脏堆里。
+2. (V-T) When someone guts a dead animal or fish, they prepare it for cooking by removing all the organs from inside it. 取出…的内脏
+   ≫   It is not always necessary to gut the fish prior to freezing.  在冷冻鱼之前没有必要总是取出其内脏。
+3. ['the'/poss N] The gut is the tube inside the body of a person or animal through which food passes while it is being digested. 肠
+   ≫   Toxins can leak from the gut into the bloodstream.  毒素能够从肠道渗透到血液里。
+4. [非正式] Guts is the will and courage to do something that is difficult or unpleasant, or which might have unpleasant results. 胆量
+   ≫   The new governor has the guts to push through unpopular tax increases.  新任州长有胆量强制通过不得人心的增税方案通过。
+5. (ADJ) A gut feeling is based on instinct or emotion rather than reason. 直觉的
+   ≫   Let's have your gut reaction to the facts as we know them.  请告诉我们你对这些我们了解的事实的直觉反应。
+6. [非正式] You can refer to someone's stomach as their gut, especially when it is very large and sticks out. 肚腩
+   ≫   His gut sagged out over his belt.  他的肚腩垂在腰带上。
+7. (V-T) To gut a building means to destroy the inside of it so that only its outside walls remain. 损毁 (建筑物) 的内部
+   ≫   Over the weekend, a firebomb gutted a building where 60 people lived.  周末，一颗燃烧弹焚毁了一座住着60人的建筑内部。
+8. (N-UNCOUNT) Gut is string made from part of the stomach of an animal. Traditionally, it is used to make the strings of sports rackets or musical instruments such as violins. (用于制网球拍、琴弦等的) 肠线
+   ≫   Gerald's violin strings are made of gut rather than steel.  杰拉尔德的小提琴弦是用肠线而不是钢丝制成的。
+9. [非正式] If you hate someone's guts, you dislike them very much. 对某人恨之入骨
+   ≫   We hate each other's guts.  我们对彼此恨之入骨。
+10. [非正式] If you say that you are working your guts out, you are emphasizing that you are working as hard as you can. 拼命工作
+   ≫   Most have worked their guts out and made sacrifices.  大多数人都拼命工作并做出了牺牲。
+
