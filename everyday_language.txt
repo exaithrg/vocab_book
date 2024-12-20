@@ -36247,3 +36247,947 @@ faux leather
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> fiber
+------------------------------------------------------------------------
+fiber    ['faɪbɚ]
+n. 纤维；光纤（等于fibre）
+n. (Fiber)人名；(匈)菲贝尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And remember nuts like almonds with their skins on have more fiber than those without. 记住，向杏仁那样有皮的坚果比那些没有皮的更富含纤维素。
+≫   Not only do they offer antioxidants, they contain higher content of vitamins, minerals, and fiber. 它们不仅提供抗氧化剂，还含有较高含量的维生素、矿物质和纤维。
+≫   I believe with every fiber of my being that we – as Americans – can still come together behind a common purpose. 我相信，存在的每一根纤维，仍然能够让我们，作为美国人由于共同的目标走到一起。
+
+========================================================================
+>>> enzyme
+------------------------------------------------------------------------
+enzyme    [美 'ɛnzaɪm / 英 'enzaɪm]
+n. [生化] 酶
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] An enzyme is a chemical substance found in living creatures that produces changes in other substances without being changed itself. 酶
+
+========================================================================
+>>> tragedy
+------------------------------------------------------------------------
+tragedy    [美 'trædʒədi / 英 'trædʒɪdɪ]
+n. 悲剧；灾难；惨案
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A tragedy is an extremely sad event or situation. 灾难
+   ≫   They have suffered an enormous personal tragedy.  他们遭受了一场巨大的个人灾难。
+2. (N-VAR) Tragedy is a type of literature, especially drama, that is serious and sad, and often ends with the death of the main character. 悲剧
+   ≫   The story has elements of tragedy and farce.  这个故事含有悲剧和闹剧的成分。
+
+========================================================================
+>>> farce
+------------------------------------------------------------------------
+farce    [美 fɑrs / 英 fɑːs]
+n. 闹剧；胡闹；笑剧
+n. (Farce)人名；(法)法尔斯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A farce is a humorous play in which the characters become involved in complicated and unlikely situations. 滑稽戏
+   ≫   ...an off-Broadway farce called "Lucky Stiff."  …一场名为“幸运的家伙”的外百老汇滑稽戏。
+2. (N-UNCOUNT) Farce is the style of acting and writing that is typical of farces. 滑稽风格
+   ≫   The plot often borders on farce.  那种情节常常近乎滑稽。
+3. [表不满] If you describe a situation or event as a farce, you mean that it is so disorganized or ridiculous that you cannot take it seriously. 闹剧; 荒唐事
+   ≫   The elections have been reduced to a farce.  那些选举已经沦为一场闹剧。
+
+========================================================================
+>>> comedy
+------------------------------------------------------------------------
+comedy    [美 'kɑmədi / 英 'kɒmɪdɪ]
+n. 喜剧；喜剧性；有趣的事情
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Comedy consists of types of entertainment, such as plays and film, or particular scenes in them, that are intended to make people laugh. 喜剧
+   ≫   Actor Dom Deluise talks about his career in comedy.  演员多姆·德卢斯谈论他的喜剧事业。
+2. (N-COUNT) A comedy is a play, film, or television programme that is intended to make people laugh. 喜剧
+   ≫   The movie is a romantic comedy.  这部电影是一个浪漫喜剧。
+
+========================================================================
+>>> pantomime
+------------------------------------------------------------------------
+pantomime    [英 'pæntəmaɪm / 美 'pæntəmaɪm]
+n. 哑剧；舞剧；手势
+vi. 打手势；演哑剧
+vt. 打手势；演哑剧
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [英国英语] If you say that a situation or a person's behaviour is a pantomime, you mean that it is silly or exaggerated and that there is something false about it. 闹剧
+   ≫   They were made welcome with the usual pantomime of exaggerated smiles and gestures.  他们以那种具有夸张的微笑和动作的一般闹剧受到欢迎。
+
+========================================================================
+>>> drama
+------------------------------------------------------------------------
+drama    [美 'drɑmə / 英 'drɑːmə]
+n. 戏剧，戏剧艺术；剧本；戏剧性事件
+n. (Drama)人名；(刚(金))德拉马
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A drama is a serious play for the theatre, television, or radio, or a serious film. 戏剧
+   ≫   He acted in radio dramas.  他演过广播剧。
+   ≫   The film is a drama about a woman searching for her children.  这部电影是关于一个女人寻找她孩子的戏。
+2. (N-UNCOUNT) You use drama to refer to plays in general or to work that is connected with plays and the theatre, such as acting or producing. 戏剧; 戏剧工作
+   ≫   He knew nothing of Greek drama.  他对希腊戏剧一无所知。
+3. (N-VAR) You can refer to a real situation which is exciting or distressing as drama. 戏剧性场面
+   ≫   There was none of the drama and relief of a hostage release.  丝毫没有人质释放的戏剧性场面和放松。
+
+========================================================================
+>>> musical
+------------------------------------------------------------------------
+musical    [美 'mjuzɪkl / 英 'mjuːzɪk(ə)l]
+adj. 音乐的；悦耳的
+n. 音乐片
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use musical to indicate that something is connected with playing or studying music. 关于音乐的
+   ≫   We have a wealth of musical talent in this region.  我们在该地区有丰富的音乐人才。
+2. (ADV) musically 关于音乐地
+   ≫   Musically there is a lot to enjoy.  在音乐方面有许多可欣赏。
+3. (N-COUNT) A musical is a play or film that uses singing and dancing in the story. 音乐剧; 音乐歌舞片
+   ≫   ...the smash hit musical, Miss Saigon.  …轰动一时的音乐剧《西贡小姐》。
+4. (ADJ) Someone who is musical has a natural ability and interest in music. 有音乐天赋的; 喜爱音乐的
+   ≫   I came from a musical family.  我来自一个音乐家庭。
+5. (ADJ) Sounds that are musical are light and pleasant to hear. 悦耳的
+   ≫   He had a soft, almost musical voice.  他有着轻柔悦耳的嗓音。
+
+========================================================================
+>>> opera
+------------------------------------------------------------------------
+opera    [美 'ɑprə / 英 'ɒp(ə)rə]
+n. 歌剧；歌剧院；歌剧团
+n. (Opera)人名；(意)奥佩拉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An opera is a play with music in which all the words are sung. 歌剧
+   ≫   ...a one-act opera about contemporary women in America.  …关于当代美国妇女的一部独幕歌剧。
+   ≫   ...an opera singer.  …一名歌剧演员。
+2. → see also
+3. Opera is an alternative plural of . (opus)的两种复数形式之一
+
+========================================================================
+>>> ballet
+------------------------------------------------------------------------
+ballet    [美 bæ'le / 英 'bæleɪ; -lɪ]
+n. 芭蕾舞剧；芭蕾舞乐曲
+n. (Ballet)人名；(西)巴列特；(法)巴莱
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also 'the' N, oft N n] Ballet is a type of very skilled and artistic dancing with carefully planned movements. 芭蕾舞
+   ≫   I trained as a ballet dancer.  我受过做芭蕾舞演员的训练。
+2. (N-COUNT) A ballet is an artistic work that is performed by ballet dancers. 芭蕾舞剧
+   ≫   The performance will include the premiere of three new ballets.  这次演出将包括3部新芭蕾舞剧的首演。
+
+========================================================================
+>>> mime
+------------------------------------------------------------------------
+mime    [美 maɪm / 英 maɪm]
+n. 哑剧；小丑；滑稽戏
+vi. 摸拟表演
+vt. 摸拟表演
+n. (Mime)人名；(塞)米梅
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Mime is the use of movements and gestures in order to express something or tell a story without using speech. 用手势语; 哑剧表演
+   ≫   Music, mime, and strong visual imagery play a strong part in the productions.  音乐、哑剧动作以及强烈的视觉影像在这些作品中起重要作用。
+2. (V-T/V-I) If you mime something, you describe or express it using mime rather than speech. 用哑剧动作表现
+   ≫   It featured a solo dance in which a woman mimed a lot of dainty housework.  它展示了一段独舞，一位妇女在其中用哑剧动作表演了许多细致的家务活。
+3. [英国英语] If you mime, you pretend to be singing or playing an instrument, although the music is in fact coming from a CD or cassette. 假唱; 假装演奏
+
+========================================================================
+>>> monodrama
+------------------------------------------------------------------------
+monodrama    [美 ˈmɑːnədrɑːmə / 英 ˈmɒnədrɑːmə]
+n. 独角戏；单人剧；单人剧剧本
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a play or other dramatic piece for a single performer 独角戏
+
+========================================================================
+>>> satire
+------------------------------------------------------------------------
+satire    [美 'sætaɪɚ / 英 'sætaɪə]
+n. 讽刺；讽刺文学，讽刺作品
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Satire is the use of humour or exaggeration in order to show how foolish or wicked some people's behaviour or ideas are. 讽刺
+   ≫   The commercial side of the Christmas season is an easy target for satire.  圣诞节期间商业化的一面很容易成为讽刺的对象。
+2. (N-COUNT) A satire is a play, movie, or novel in which humour or exaggeration is used to criticize something. 讽刺作品
+   ≫   ...a sharp satire on the American political process.  …一部关于美国政治进程的尖锐的讽刺作品。
+
+========================================================================
+>>> mystery
+------------------------------------------------------------------------
+mystery    [美 ˈmɪstri / 英 ˈmɪstri]
+n. 秘密，谜；神秘，神秘的事物；推理小说，推理剧；常作 mysteries 秘技，秘诀
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mystery is something that is not understood or known about. 迷
+   ≫   The source of the gunshots still remains a mystery.  枪弹来自何处依然是一个迷。
+2. (N-UNCOUNT) If you talk about the mystery of someone or something, you are talking about how difficult they are to understand or know about, especially when this gives them a rather strange or magical quality. 神秘 (性)
+   ≫   She's a lady of mystery.  她是一个神秘的女人。
+3. [ADJ n] A mystery person or thing is one whose identity or nature is not known. 来历不明的
+   ≫   The mystery hero immediately alerted police after spotting a bomb.  那个不知名的英雄发觉炸弹后马上报了警。
+4. (N-COUNT) A mystery is a story in which strange things happen that are not explained until the end. 悬疑 (推理) 故事
+   ≫   His fourth novel is a murder mystery set in London.  他的第4本小说是一个以伦敦为背景的凶杀疑案。
+
+========================================================================
+>>> morality
+------------------------------------------------------------------------
+morality    [美 məˈræləti / 英 məˈræləti]
+n. 道德；品行，美德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Morality is the belief that some behaviour is right and acceptable and that other behaviour is wrong. 道德观念
+   ≫   ...standards of morality and justice in society.  …社会中道德和正义的标准。
+2. (N-COUNT) A morality is a system of principles and values concerning people's behaviour, which is generally accepted by a society or by a particular group of people. 道德规范
+   ≫   ...a morality that is sexist.  …性别歧视的道德规范。
+3. (N-UNCOUNT) Themoralityof something is how right or acceptable it is. 道德性
+   ≫   ...the arguments about the morality of blood sports.  …关于流血运动的道德性的争论。
+
+========================================================================
+>>> bravo
+------------------------------------------------------------------------
+bravo    [美 ,brɑ'vo / 英 brɑː'vəʊ; 'brɑːvəʊ]
+n. 喝彩；亡命徒
+vt. 喝彩
+int. 好极了
+n. (Bravo)人名；(英、法、西、意、葡、塞)布拉沃
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [老式] Some people say "bravo" to express appreciation when someone has done something well. 好样的
+   ≫   "Bravo, Rena! You're right," the students said.  “好样的，雷娜！你是对的，”学生们说道。
+
+========================================================================
+>>> appreciate
+------------------------------------------------------------------------
+appreciate    [美 əˈpriːʃieɪt / 英 əˈpriːʃieɪt]
+v. 欣赏，鉴赏；理解，明白；感谢，感激；升值，增值
+★★★ CET4 TEM4 appreciating,appreciated,appreciates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you appreciate something, for example, a piece of music or good food, you like it because you recognize its good qualities. 欣赏
+   ≫   Anyone can appreciate our music.  任何人都能欣赏我们的音乐。
+2. (V-T) If you appreciate a situation or problem, you understand it and know what it involves. 理解
+   ≫   She never really appreciated the depth and bitterness of the family's conflict.  她从未真正理解该家庭矛盾的深度与激烈程度。
+3. (V-T) If you appreciate something that someone has done for you or is going to do for you, you are grateful for it. 感激
+   ≫   Peter stood by me when I most needed it. I'll always appreciate that.  彼得在我最需要时支持了我。我对此将永远感激。
+4. (V-I) If something that you own appreciates over a period of time, its value increases. 增值
+   ≫   They don't have any confidence that houses will appreciate in value.  他们对房屋增值没有一点信心。
+
+========================================================================
+>>> appreciation
+------------------------------------------------------------------------
+appreciation    [美 ə,priʃɪ'eʃən / 英 əpriːʃɪ'eɪʃ(ə)n; -sɪ-]
+n. 欣赏，鉴别；增值；感谢
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also no det, oft N 'of' n] Appreciationof something is the recognition and enjoyment of its good qualities. 欣赏
+   ≫   ...an investigation into children's understanding and appreciation of art.  …关于孩子对艺术的理解与欣赏的一个调查。
+2. [also no det] Your appreciation for something that someone does for you is your gratitude for it. 感激
+   ≫   He expressed his appreciation for what he called Saudi Arabia's moderate and realistic oil policies.  他表达了对他所称的沙特阿拉伯温和而务实的石油政策的感激。
+3. [also no det] An appreciation of a situation or problem is an understanding of what it involves. 了解
+   ≫   They have a stronger appreciation of the importance of economic incentives.  他们对经济激励的重要性有了更深的了解。
+4. (N-UNCOUNT) Appreciation in the value of something is an increase in its value over a period of time. 增值
+   ≫   You have to take capital appreciation of the property into account.  你得将那个房产的资本增值考虑进来。
+
+========================================================================
+>>> landmine
+------------------------------------------------------------------------
+landmine    [美 ˈlændmaɪn / 英 ˈlændmaɪn]
+n. 地雷（等于 land mine）
+CET6 alsolandmine
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A landmine is an explosive device which is placed on or under the ground and explodes when a person or vehicle touches it. 地雷
+
+========================================================================
+>>> land mine
+------------------------------------------------------------------------
+land mine    [美 lænd maɪn]
+地雷：一种通常埋在地面下方、设计用于被车辆或部队的重量触发引爆的地雷。
+CET6 alsolandmine
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A landmine is an explosive device which is placed on or under the ground and explodes when a person or vehicle touches it. 地雷
+
+========================================================================
+>>> high-explosive grenades
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> high-explosive grenades
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12970
+high-explosive grenades
+高爆榴弹
+
+========================================================================
+>>> grenades fragments
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> grenades fragments
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13097
+grenades fragments
+手榴弹碎片
+
+========================================================================
+>>> bomb
+------------------------------------------------------------------------
+bomb    [美 bɑm / 英 bɒm]
+vt. 轰炸，投弹于
+vi. 轰炸，投弹；失败
+n. 炸弹
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bomb is a device that explodes and damages or destroys a large area. 炸弹
+   ≫   Bombs went off at two London train stations.  炸弹在伦敦的两个火车站爆炸了。
+   ≫   It's not known who planted the bomb.  不知是谁放置了这颗炸弹。
+2. (N-SING) Nuclear weapons are sometimes referred to as the bomb. 核武器
+   ≫   They are generally thought to have the bomb.  他们被普遍认为拥有核武器。
+3. (V-T) When people bomb a place, they attack it with bombs. 轰炸
+   ≫   Air force jets bombed the airport.  空军喷气机轰炸了机场。
+4. (N-VAR) bombing 轰炸
+   ≫   Aerial bombing of rebel positions is continuing.  对叛军阵地的空中轰炸仍在继续。
+
+========================================================================
+>>> artillery
+------------------------------------------------------------------------
+artillery    [美 ɑr'tɪləri / 英 ɑː'tɪlərɪ]
+n. 火炮；大炮；炮队；炮术
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Artillery consists of large, powerful guns that are transported on wheels and used by an army. 大炮
+   ≫   Using tanks and heavy artillery, they seized the town.  他们使用坦克和重炮攻下了这座城市。
+2. (N-SING-COLL) The artillery is the section of an army that is trained to use large, powerful guns. 炮兵部队
+   ≫   From 1935 to 1937 he was in the artillery.  从1935年到1937年他在炮兵部队。
+
+========================================================================
+>>> artillery shell
+------------------------------------------------------------------------
+artillery shell
+炮弹：一种用于火炮的弹药，通常由炸药、弹头和引信组成，用于远距离攻击目标。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   When a hospital collapses, or an artillery shell destroys a ward or an ambulance, health staff are killed or injured. 当一所医院倒塌或一枚炮弹炸毁了病房或者救护车时，卫生工作者因此而丧生或受伤。
+≫   At the start of the 1800s, a new artillery shell appeared on the battlefields of Europe. It was the brainchild of an English officer who had spent 30 years perfecting it. 十九世纪初，欧洲战场上出现了一种新炮弹，那是英国一名军官发明的，花了他三十年研制，精益求精。
+≫   The last one I carried out was an artillery man who nearly had half his leg blown off by a shell. 我抬出的最后一个人是一个炮兵，一发炮弹几乎炸掉了他半条腿。
+
+========================================================================
+>>> explosives
+------------------------------------------------------------------------
+explosives    [美 ɪk'splosɪv]
+n. 爆炸物，[化工] 炸药；爆炸品（explosive的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An explosive is a substance or device that can cause an explosion. 炸药; 爆炸物
+   ≫   ...one-hundred-and-fifty pounds of Semtex explosive.  …150磅的塞姆汀塑料炸药。
+2. (ADJ) Something that is explosive is capable of causing an explosion. 能引起爆炸的
+   ≫   The explosive device was timed to go off at the rush hour.  该爆炸装置定在交通高峰时间爆炸。
+3. (ADJ) An explosive growth is a sudden, rapid increase in the size or quantity of something. 暴涨的
+   ≫   The explosive growth in casinos is one of the most conspicuous signs of Westernization.  赌场数量的暴涨是最明显的西化标志之一。
+4. (ADJ) An explosive situation is likely to have difficult, serious, or dangerous effects. 爆炸性的 (局势)
+   ≫   He appeared to be treating the potentially explosive situation with some sensitivity.  他似乎正在有些敏感地处理潜在的爆炸性局面。
+5. (ADJ) If you describe someone as explosive, you mean that they tend to express sudden violent anger. 脾气暴躁的
+   ≫   He's inherited his father's explosive temper.  他遗传了他父亲的火暴性子。
+
+========================================================================
+>>> propellant
+------------------------------------------------------------------------
+propellant    [美 prə'pɛlənt / 英 prə'pel(ə)nt]
+n. 推进物；推进燃料；发射火药
+adj. 推进的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Propellant is a substance that causes something to move forward. 推进剂
+   ≫   ...a propellant for nuclear rockets.  ...一批核火箭燃料。
+2. (N-MASS) Propellant is a gas that is used in spray cans to force the contents out of the can when you press the button. 压缩气体
+   ≫   By 1978, the use of CFCs in aerosol propellants was banned.  自1978年起，含氯氟烃的喷雾剂压缩气体已被禁止使用。
+
+========================================================================
+>>> initiating explosives
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13332
+initiating explosives
+起爆炸药
+
+========================================================================
+>>> projectile
+------------------------------------------------------------------------
+projectile    [英 prə(ʊ)'dʒektaɪl; -tɪl / 美 prə'dʒɛktl]
+adj. 抛射的；抛掷的；供抛射用的；（触角等）能伸出的
+n. 射弹；抛射体；自动推进武器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A projectile is an object that is fired from a gun or other weapon. (枪炮或其他武器的)射弹
+
+========================================================================
+>>> warhead
+------------------------------------------------------------------------
+warhead    [英 'wɔːhed / 美 'wɔrhɛd]
+n. 弹头
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A warhead is the front part of a bomb or missile where the explosives are carried. (炸弹或导弹的) 弹头
+   ≫   ...nuclear warheads.  …核弹头。
+
+========================================================================
+>>> fuze
+------------------------------------------------------------------------
+fuze    [英 fjuːz / 美 fjuːz]
+n. 引信；保险丝；导火管
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Another project recently released by Dassault / SolidWorks is n!Fuze. 另一款产品是达索的SolidWorks最近发布的n!
+≫   Box.net has partnered with Fuze meeting to add real-time online meetings and screen sharing. net已经与Fuze Meeting达成合作关系，为其网站添加实时在线会议和屏幕分享功能。
+≫   Fuze automatically includes all related files to help prevent broken assemblies or missing parts. Fuze将自动带上所有文件关联以防装配破坏或零件遗失。
+
+========================================================================
+>>> fuse
+------------------------------------------------------------------------
+fuse    [美 fjuz / 英 fjuːz]
+vi. 融合；熔化，熔融
+vt. 使融合；使熔化，使熔融
+n. 保险丝，熔线；导火线，雷管
+n. (Fuse)人名；(意)富塞；(法)菲斯
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A fuse is a safety device in an electric plug or circuit. It contains a piece of wire which melts when there is a fault so that the flow of electricity stops. 保险丝
+   ≫   The fuse blew as he pressed the button to start the motor.  保险丝在他按下按钮发动车子时烧断了。
+2. (N-COUNT) A fuse is a device on a bomb or firework which delays the explosion so that people can move a safe distance away. 导火线
+   ≫   A bomb was deactivated at the last moment, after the fuse had been lit.  一枚炸弹在导火线已被点燃后的最后一刻被解除。
+3. (V-RECIP) When things fuse or are fused, they join together physically or chemically, usually to become one thing. You can also say that one thing fuses with another. 结合; 融合; 熔合
+   ≫   The skull bones fuse between the ages of fifteen and twenty-five.  颅骨在15和25岁之间长合。
+   ≫   Manufactured glass is made by fusing various types of sand.  人造玻璃是通过熔合不同种类的沙子制造出来的。
+
+========================================================================
+>>> proximity
+------------------------------------------------------------------------
+proximity    [美 prɑk'sɪməti / 英 prɒk'sɪmɪtɪ]
+n. 接近，[数]邻近；接近；接近度，距离；亲近
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Proximityto a place or person is nearness to that place or person. 接近
+   ≫   Part of the attraction is Darwin's proximity to Asia.  达尔文港的部分吸引力在于她与亚洲比邻。
+   ≫   He became aware of the proximity of the Afghans.  他开始意识到那些阿富汗人的接近。
+
+========================================================================
+>>> detonator
+------------------------------------------------------------------------
+detonator    [英 'detəneɪtə / 美 'dɛtə'netɚ]
+n. 雷管；炸药；导火索
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A detonator is a small amount of explosive or a piece of electrical or electronic equipment which is used to explode a bomb or other explosive device. 雷管; 引爆装置
+
+========================================================================
+>>> blasting cap
+------------------------------------------------------------------------
+blasting cap
+爆破帽：一种与导火线结合使用以引爆更大炸药的小型爆炸装置。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> primer
+------------------------------------------------------------------------
+primer    [英 'praɪmə / 美 'praɪmɚ]
+n. 初级读本；识字课本；原始物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Primer is a type of paint that is put onto wood in order to prepare it for the main layer of paint. 底漆; 底层涂料
+2. (N-COUNT) A primer is a book containing basic facts about a subject, which is used by someone who is beginning to study that subject. 入门书
+3. (N-COUNT) A primer is a book, written in very simple language, that teaches children how to read. (教儿童阅读的)初级读物
+   ≫   ...the language used in reading primers.  ...初级读物中使用的语言。
+4. (N-COUNT) A primer is a small explosive device that is used to set off a larger explosion. (爆炸物的)引信
+   ≫   The potentially lethal device was made from a length of hose packed with gunpowder, primers, and shrapnel.  这个能致命的装置是用一根装满火药、引信和弹片的软管做出来的。
+5. (N) a person or thing that primes 装填工; 装填物
+
+========================================================================
+>>> igniter
+------------------------------------------------------------------------
+igniter    [英 ɪɡˈnaɪtə(r) / 美 ɪɡˈnaɪtər]
+n. 点火器；点火剂；发火器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person or thing that ignites 点火人; 点火器
+
+========================================================================
+>>> casing
+------------------------------------------------------------------------
+casing    [美 'kesɪŋ / 英 'keɪsɪŋ]
+n. 套；盒；（香肠的）肠衣；包装
+v. 把…装入箱内（case的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft supp N] A casing is a substance or object that covers something and protects it. 保护套
+   ≫   ...the outer casings of missiles.  ...导弹的外部保护层。
+
+========================================================================
+>>> cartidge
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cartridge
+------------------------------------------------------------------------
+cartridge    [美 'kɑrtrɪdʒ / 英 'kɑːtrɪdʒ]
+弹药筒，打印机的（墨盒）；[摄] 暗盒；笔芯；一卷软片
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cartridge is a metal or cardboard tube containing a bullet and an explosive substance. Cartridges are used in guns. 弹药筒
+   ≫   Only four of the five spent cartridges were recovered by police.  5个子弹壳中只有4个被警方收回。
+2. (N-COUNT) A cartridge is part of a machine or device that can be easily removed and replaced when it is worn out or empty. (机器或装置中可替换的部分) 套筒
+   ≫   Change the filter cartridge as often as instructed by the manufacturer.  要按制造商要求的频率更换过滤套筒。
+
+========================================================================
+>>> cartridge case
+------------------------------------------------------------------------
+cartridge case
+弹壳：用于装填火药、弹头等组件的金属容器，通常用于火器中。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   However tile plastic cartridge case has been used in some large caliber gun in recent years. 近年来，在某大口径火炮上，试图改用塑料药筒。
+≫   Hence it provides high dense explosive charge in guns using combustible cartridge case for a new type of ignition method. 从而为采用可燃药筒的高装填密度火炮装药提供了一种新型点火理论与方法。
+≫   The fast evaluation method for the storage life of flammable cartridge case was established based on the similar product method. 利用相似产品预测法，建立了快速评价可燃药筒长期贮存寿命的方法。
+
+========================================================================
+>>> insfinity
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> crew dragon
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> crew dragon
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：13990
+crew dragon
+船员龙
+
+========================================================================
+>>> astranis
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> wagon
+------------------------------------------------------------------------
+wagon    [美 'wægən / 英 'wæg(ə)n]
+n. 货车，四轮马车
+vt. 用运货马车运输货物
+n. (Wagon)人名；(法、德)瓦贡
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A wagon is a strong vehicle with four wheels, usually pulled by horses or oxen and used for carrying heavy loads. 四轮运货马 (或牛) 车
+2. [英国英语] A wagon is a large container on wheels which is pulled by a train. (火车的) 货车车厢
+
+========================================================================
+>>> bandwagon
+------------------------------------------------------------------------
+bandwagon    [英 'bændwægən / 美 'bændwæɡən]
+n. 流行，时尚；乐队花车
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to an activity or movement that has suddenly become fashionable or popular as a bandwagon. (指活动或运动) 潮流
+   ≫   ...the environmental bandwagon.  …环保潮流。
+2. [表不满] If someone, especially a politician, jumps or climbs on the bandwagon, they become involved in an activity or movement because it is fashionable or likely to succeed and not because they are really interested in it. (尤指政客追赶的) 浪头
+   ≫   In recent months many conservative politicians have jumped on the anti-immigrant bandwagon.  最近几个月，许多保守党政客赶上了反移民的浪头。
+
+========================================================================
+>>> multiplantary
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> plantary
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> starship
+------------------------------------------------------------------------
+starship    [美 'stɑrʃɪp]
+n. 星际飞船
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] A starship is a large spacecraft that can travel outside our solar system. 星际飞船
+   ≫   He finds himself on a starship populated by escaping political prisoners from various alien cultures.  他发现自己在一艘载有来自不同外星文化的在逃政治犯的星际飞船上。
+
+========================================================================
+>>> gals
+------------------------------------------------------------------------
+gals
+n. 女孩儿们（gal的复数，等于girls）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-VOC) Gal is used in written English to represent the word "girl" as it is pronounced in a particular accent. 女孩
+   ≫   ...a Southern gal who wants to make it in the movies.  …一个想演电影的南方女孩。
+2. (N-COUNT) a unit of acceleration equal to 1 centimetre per second per second 伽(重力加速度单位=1厘米/平方秒)
+
+========================================================================
+>>> nightclub
+------------------------------------------------------------------------
+nightclub    [英 'naɪtklʌb /  'naɪtklʌb]
+n. 夜总会
+vi. 去夜总会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A nightclub is a place where people go late in the evening to drink and dance. 夜总会
+
+========================================================================
+>>> discrimination
+------------------------------------------------------------------------
+discrimination    [美 dɪ,skrɪmɪ'neʃən / 英 dɪ,skrɪmɪ'neɪʃ(ə)n]
+n. 歧视；区别，辨别；识别力
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Discrimination is the practice of treating one person or group of people less fairly or less well than other people or groups. 歧视
+   ≫   She is exempt from sex discrimination laws.  她不用遵守性别歧视法规。
+2. (N-UNCOUNT) Discrimination is knowing what is good or of high quality. 鉴赏力
+   ≫   They cooked without skill and ate without discrimination.  他们做饭没厨艺，吃饭没品味。
+3. (N-UNCOUNT) Discrimination is the ability to recognize and understand the differences between two things. 辨别力
+   ≫   We will then have an objective measure of how colour discrimination and visual acuity develop at the level of the brain.  我们随后将进行一项客观的测量，看色彩辨别力和视觉敏锐度如何在大脑的层面形成。
+
+========================================================================
+>>> mindset
+------------------------------------------------------------------------
+mindset    [美 'maɪndsɛt / 英 'maɪn(d)set]
+n. 心态；倾向；习惯；精神状态
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you refer to someone's mindset, you mean their general attitudes and the way they typically think about things. 思维模式; 思想倾向
+   ≫   The greatest challenge for the Americans is understanding the mindset of Eastern Europeans.  对美国人来说，最大的挑战在于理解东欧人的思维方式。
+
+========================================================================
+>>> gunslinger
+------------------------------------------------------------------------
+gunslinger    [英 'gʌnslɪŋə / 美 'ɡʌnslɪŋɚ]
+n. 枪手；带枪的歹徒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A gunslinger is someone, especially a criminal, who uses guns in fighting. 持枪歹徒
+
+========================================================================
+>>> a stance of
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> the stance of
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> the stance of
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：14443
+the stance of
+的立场
+
+========================================================================
+>>> stance
+------------------------------------------------------------------------
+stance    [美 stæns / 英 stɑːns; stæns]
+n. 立场；姿态；位置；准备击球姿势
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your stance on a particular matter is your attitude to it. (对某事的) 态度; 立场
+   ≫   Congress had agreed to reconsider its stance on the armed struggle.  国会已经同意重新考虑其对本次武装斗争的态度。
+2. [正式] Your stance is the way that you are standing. 站姿
+   ≫   Take a comfortably wide stance and flex your knees a little.  取两腿自然分开的站姿，双膝微屈。
+
+========================================================================
+>>> additive
+------------------------------------------------------------------------
+additive    [美 'ædətɪv / 英 'ædɪtɪv]
+n. 添加剂，添加物
+adj. 附加的；[数] 加法的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An additive is a substance which is added in small amounts to foods or other things in order to improve them or to make them last longer. 添加剂
+   ≫   Strict safety tests are carried out on food additives.  对食品添加剂进行了严格的安全检测。
+
+========================================================================
+>>> aerospace
+------------------------------------------------------------------------
+aerospace    [英 'eərəspeɪs / 美 'ɛrospes]
+n. 航空宇宙；[航] 航空航天空间
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu N n] Aerospace companies are involved in developing and making rockets, missiles, space vehicles, and related equipment. 航空航天
+   ≫   ...the U.S. aerospace industry.  …美国航空航天工业。
+
+========================================================================
+>>> Lawsuit
+------------------------------------------------------------------------
+lawsuit    [英 'lɔːsuːt; -sjuːt / 美 'lɔsut]
+n. 诉讼（尤指非刑事案件）；诉讼案件
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A lawsuit is a case in a court of law which concerns a dispute between two people or organizations. 诉讼案
+   ≫   The dispute culminated last week in a lawsuit against the government.  这场针对政府诉讼案的争论在上星期达到了高潮。
+
+========================================================================
+>>> agency
+------------------------------------------------------------------------
+agency    [英 'eɪdʒ(ə)nsɪ / 美 'edʒənsi]
+n. 代理，中介；代理处，经销处
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] An agency is a business that provides a service on behalf of other businesses. 代理公司
+   ≫   We had to hire maids through an agency.  我们得通过代理公司雇用女佣。
+2. → see also ,
+3. (N-COUNT) An agency is a government organization responsible for a certain area of administration. 地区政府
+   ≫   She is calling for a collaboration of local, state and federal agencies to deal with the problem.  她在呼吁地方、州和联邦等各级政府通力合作来处理这个问题。
+
+========================================================================
+>>> permits
+------------------------------------------------------------------------
+permits    [pə'mit]
+许可
+许可证
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone permits something, they allow it to happen. If they permit you to do something, they allow you to do it. 允许
+   ≫   He can let the court's decision stand and permit the execution.  他能让法院的判决成立，并允许处决。
+   ≫   The guards permitted me to bring my camera and tape recorder.  守卫允许我带上相机和录音机。
+2. (N-COUNT) A permit is an official document which says that you may do something. For example, you usually need a permit to work in a foreign country. 许可证
+   ≫   He has to apply for a permit, and we have to find him a job.  他必须申请一个许可证，而我们必须给他找一份工作。
+3. [正式] If a situation permits something, it makes it possible for that thing to exist, happen, or be done or it provides the opportunity for it. 使成为可能; 成为可能
+   ≫   Try to go out for a walk at lunchtime, if the weather permits.  如果天气条件允许，午饭时尽量出去散散步。
+   ≫   This method of cooking also permits heat to penetrate evenly from both sides.  这种烹调方法还能使两面均匀受热。
+
+========================================================================
+>>> reluctant
+------------------------------------------------------------------------
+reluctant    [美 rɪ'lʌktənt / 英 rɪ'lʌkt(ə)nt]
+adj. 不情愿的；勉强的；顽抗的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are reluctant to do something, you are unwilling to do it and hesitate before doing it, or do it slowly and without enthusiasm. 不愿意的; 勉强的
+   ≫   Mr. Spero was reluctant to ask for help.  斯珀洛先生不愿意请求帮助。
+2. [ADV with v] reluctantly 不愿意地; 勉强地
+   ≫   We have reluctantly agreed to let him go.  我们已勉强同意让他走了。
+
+========================================================================
+>>> in pursuit of
+------------------------------------------------------------------------
+in pursuit of
+寻求，追求
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   More and more people move to another city or country in pursuit of their dreams. 越来越多的人为了追求自己的梦想而搬到另一个城市或国家。
+≫   She travelled the world in pursuit of her dreams. 她走遍天下，追寻她的梦想。《牛津词典》
+≫   They are prepared to use violence in pursuit of their ends. 他们准备使用暴力来达到目的。《牛津词典》
+
+========================================================================
+>>> protest
+------------------------------------------------------------------------
+protest    [美 prəˈtɛst;protɛst / 英 prəˈtest;ˈprəʊtest]
+vi. 抗议；断言
+vt. 抗议；断言
+n. 抗议
+adj. 表示抗议的；抗议性的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you protest something or protest against something, you say or show publicly that you object to it. 抗议
+   ≫   They were protesting soaring prices.  他们在抗议不断飞涨的物价。
+2. (N-VAR) A protest is the act of saying or showing publicly that you object to something. 抗议
+   ≫   The opposition now seems too weak to stage any serious protests against the government.  反对党现在似乎太弱小，无力针对政府组织什么重大的抗议。
+   ≫   The Mexican president cancelled a trip to Texas in protest at the state's execution of a Mexican national.  墨西哥总统取消了得克萨斯之行，以抗议该州对一名墨西哥侨民的处决。
+3. (V-T) If you protest that something is the case, you insist that it is the case, when other people think that it may not be. 断言
+   ≫   When we tried to protest that Mo was beaten up they didn't believe us.  当我们坚持说莫遭到了毒打时，他们都不相信。
+   ≫   "I never said any of that to her," he protested.  “我从来没有对她说过那种话，”他断然否认。
+
+========================================================================
+>>> Golden Dunes, Olden Tunes
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：15913
+Golden Dunes, Olden Tunes
+金色沙丘，金色曲调
+
+========================================================================
+>>> phantom
+------------------------------------------------------------------------
+phantom    [美 'fæntəm / 英 'fæntəm]
+n. 幽灵；幻影；虚位
+adj. 幽灵的；幻觉的；有名无实的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A phantom is a ghost. 幽灵
+   ≫   They vanished down the stairs like two phantoms.  他们像两个幽灵似的下楼不见了。
+2. [ADJ n] You use phantom to describe something that you think you experience but that is not real. 幻觉的
+   ≫   ...phantom pregnancies.  …精神性假妊娠。
+3. [ADJ n] Phantom is used to describe business organizations, agreements, or goods that do not really exist, but that someone pretends do exist in order to cheat people. (企业、协议或商品等) 有名无实的
+   ≫   A phantom trading scheme at a Wall Street investment bank went unnoticed for three years.  一家华尔街投资银行的虚构的交易方案历经3年都未被察觉。
+
+========================================================================
+>>> cardigan
+------------------------------------------------------------------------
+cardigan    [美 'kɑrdɪɡən / 英 'kɑːdɪg(ə)n]
+n. 羊毛衫，开襟羊毛衫（等于cardigan sweater）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cardigan is a knitted woollen sweater that you can fasten at the front with buttons or a zipper. 开襟羊毛衫
+
+========================================================================
+>>> underneath
+------------------------------------------------------------------------
+underneath    [美 ,ʌndɚ'niθ / 英 ʌndə'niːθ]
+prep. 在…的下面；在…的形式下；在…的支配下
+adv. 在下面；在底下
+n. 下面；底部
+adj. 下面的；底层的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PREP) If one thing is underneath another, it is directly under it, and may be covered or hidden by it. 在…下面; 在…底下
+   ≫   The device exploded underneath a van.  那个装置在一辆面包车底下爆炸了。
+   ≫   ...using dogs to locate people trapped underneath collapsed buildings.  …利用狗来寻找困在倒塌楼房下面的人。
+2. (ADV) Underneath is also an adverb. 在下面; 在底下
+   ≫   He has on his jeans and a long-sleeved blue denim shirt with a white T-shirt underneath.  他身穿牛仔裤和一件蓝色长袖粗斜纹棉布衬衫，里面还有件白色T恤衫。
+   ≫   The shooting-range is lit from underneath by rows of ruby-red light fixtures.  射击场被一排排宝石红照明装置从下面照亮。
+3. (ADV) The part of something which is underneath is the part which normally touches the ground or faces toward the ground. 在下面; 在底部
+   ≫   Check the actual construction of the chair by looking underneath.  看一下椅子的底部来检查它的实际结构。
+   ≫   The sand martin is a brown bird with white underneath.  崖沙燕是一种腹部为白色的褐色的鸟。
+4. (N-SING) Underneath is also a noun. 下面; 底部
+   ≫   Now I know what the underneath of a car looks like.  现在我知道汽车的底部是什么样子了。
+5. [ADV with cl] You use underneath when talking about feelings and emotions that people do not show in their behaviour. 在内心
+   ≫   He was as violent as Nick underneath.  他在内心和尼克一样暴烈。
+6. (PREP) Underneath is also a preposition. 在…内
+   ≫   Underneath his outgoing behaviour Luke was shy.  卢克表面外向、内心羞怯。
+
+========================================================================
+>>> algebra
+------------------------------------------------------------------------
+algebra    [美 'ældʒɪbrə / 英 'ældʒɪbrə]
+n. 代数学
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Algebra is a type of mathematics in which letters are used to represent possible quantities. 代数
+
+========================================================================
+>>> ceasefire
+------------------------------------------------------------------------
+ceasefire    [美 'sisfaɪɚ / 英 'siːsfaɪə]
+n. 停火
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ceasefire is an arrangement in which countries or groups of people that are fighting each other agree to stop fighting. 停火; 休战
+   ≫   They have agreed to a ceasefire after three years of conflict.  他们在3年冲突之后同意停火。
+
+========================================================================
+>>> Hezbollah
+------------------------------------------------------------------------
+Hezbollah    [,hezbə'lɑ:]
+n. （黎巴嫩）真主党（等于Hizbollah）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an organization of militant Shiite Muslims based in Lebanon 赫兹布拉派; 建于黎巴嫩的激进什叶派穆斯林组织
+
+========================================================================
+>>> cabinet
+------------------------------------------------------------------------
+cabinet    [美 ˈkæbənət / 英 'kæbɪnɪt]
+n. 内阁；橱柜；展览艺术品的小陈列室
+adj. 内阁的；私下的，秘密的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cabinet is a cupboard used for storing things such as medicine or alcoholic drinks or for displaying decorative things in. 贮藏橱; 陈列柜
+   ≫   She looked in the medicine cabinet and found some aspirin.  她在药橱中翻看了一下，找到几片阿司匹林。
+2. (N-COUNT) The cabinet is a group of the most senior advisers or ministers in a government, who meet regularly to discuss policies. 内阁
+   ≫   The announcement came after a three-hour cabinet meeting.  这项公告是在3小时的内阁会议之后发布的。
+
+========================================================================
+>>> advisory
+------------------------------------------------------------------------
+advisory    [美 əd'vaɪzəri / 英 əd'vaɪz(ə)rɪ]
+adj. 咨询的；顾问的；劝告的
+n. 报告；公告
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] An advisory is an official announcement or report that warns people about bad weather, diseases, or other dangers or problems. 警告
+   ≫   26 states have issued health advisories.  26个州已经发布了卫生警告。
+2. [正式] An advisory group regularly gives suggestions and help to people or organizations, especially about a particular subject or area of activity. 咨询性的 (团体)
+   ≫   ...members of the advisory committee on the safety of nuclear installations.  …核设施安全咨询委员会的成员们。
+
+========================================================================
+>>> transcript
+------------------------------------------------------------------------
+transcript    [美 'trænskrɪpt / 英 'trænskrɪpt; 'trɑːn-]
+n. 成绩单；抄本，副本；文字记录
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A transcript of a conversation or speech is a written text of it, based on a recording or notes. (根据录音或笔记整理的) 文字本
+   ≫   A transcript of this PBS programme is available through our website, pbs.com.  这个公共广播公司节目的文字本可通过我们的网址查阅。
+
+========================================================================
+>>> riddle
+------------------------------------------------------------------------
+riddle    [英 'rɪd(ə)l / 美 'rɪdl]
+vt. 解谜；给...出谜；充满于
+n. 谜语；粗筛；谜一般的人、东西、事情等
+vi. 出谜
+n. (Riddle)人名；(英)里德尔
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A riddle is a puzzle or joke in which you ask a question that seems to be nonsense but which has a clever or amusing answer. 谜语
+   ≫   All comers to the Sphinx were asked a riddle, and failure to solve it meant death.  所有来到斯芬克斯面前的人都被问了一个谜语，解答不了就意味着死亡。
+2. (N-COUNT) You can describe something as a riddle if people have been trying to understand or explain it but have not been able to. 谜
+   ≫   Scientists claimed yesterday to have solved the riddle of the birth of the universe.  科学家们昨天宣布已经解开了宇宙诞生之谜。
+3. (V) to solve, explain, or interpret (a riddle or riddles) 猜(谜); 解(谜)
+4. (V-T) If someone riddles something with bullets or bullet holes, they fire a lot of bullets into it. (用子弹) 把…打得千疮百孔
+   ≫   Unknown attackers riddled two homes with gunfire.  不明来路的袭击者用枪把两座房屋打得千疮百孔。
+5. (N) a sieve, esp a coarse one used for sand, grain, etc 粗筛
+6. (V-T) to put through a sieve; sift
+
+========================================================================
+>>> come alive with
+------------------------------------------------------------------------
+come alive with
+因……而变得生动活泼：形容某物因某种因素而变得更加有生气或活力。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She made history come alive with tales from her own memories. 她用自己记忆中的往事使历史变得生动有趣起来。《柯林斯英汉双解大词典》
+≫   Deptford had come alive with the advent of the new priest at st Paul's. 圣保罗教堂新牧师的到来使德特福德变得生机勃勃。
+≫   Then at night, the canopies will come alive with special lighting and projected media. 夜间，树顶由特殊照明及媒介照亮。
+
+========================================================================
+>>> wind
+------------------------------------------------------------------------
+wind    [美 wɪnd; (for v.) waɪnd / 英 wɪnd; (for v.) waɪnd]
+n. 风；呼吸；气味；卷绕
+vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人
+vi. 缠绕；上发条；吹响号角
+n. (Wind)人名；(英、德、瑞典)温德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A wind is a current of air that is moving across the earth's surface. 风
+   ≫   There was a strong wind blowing.  正刮着一阵大风。
+2. (N-COUNT) Journalists often refer to a trend or factor that influences events as a wind of a particular kind. (影响事态发展的) 趋势; 因素
+   ≫   The winds of change are blowing across the country.  转变之风正吹遍全国。
+3. (V-T) If you are winded by something such as a blow, the air is suddenly knocked out of your lungs so that you have difficulty breathing for a short time. 呼吸困难
+   ≫   He was winded and shaken.  他呼吸困难，身体发抖。
+4. (PHRASE) If someone breaks wind, they release gas from their intestines through their anus. 放屁
+   ≫   If I break wind at dinner, should I say "Pardon," or pretend nothing has happened?  如果我在用餐的时候放屁，我是应该说“对不起”，还是假装什么事情都没发生？
+5. [非正式] If you get wind of something, you hear about it, especially when someone else did not want you to know about it. 听到…的消息 (尤指在别人不想让知道的情况下)
+   ≫   I don't want the public, and especially not the press, to get wind of it at this stage.  我不想让公众，尤其是新闻界，在这个阶段听到什么消息。
+6. (PHRASE) 
+7. (V-T/V-I) If a road, river, or line of people winds in a particular direction, it goes in that direction with a lot of bends or twists in it. (路、河流或一行人) 蜿蜒而行
+   ≫   Quiet mountain roads wind through groves of bamboo and cedar.  幽静的山路蜿蜒穿过竹林和雪松林。
+   ≫   ...a narrow winding road.  …一条狭窄蜿蜒的道路。
+   ≫   We wound our way southeast.  我们向东南方向蜿蜒前行。
+8. (V-T) When you wind something flexible around something else, you wrap it around it several times. 缠绕
+   ≫   The horse jumped forward and around her, winding the rope around her waist.  那匹马向前一跳，然后围着她把绳子缠在她的腰际。
+9. (V-T) When you wind a mechanical device, for example, a watch or a clock, you turn a knob, key, or handle on it several times in order to make it operate. 给 (钟表等) 上发条
+   ≫   I still hadn't wound my watch so I didn't know the time.  我还没给手表上发条，所以我不知道时间。
+10. (PHRASAL VERB) Wind up means the same as wind. 给 (钟表等) 上发条
+   ≫   I wound up the watch and listened to it tick.  我给手表上好发条，听着它滴答作响。
+11. (V-T) To wind a tape or film back or forward means to make it move toward its starting or ending position. 倒/快进 (磁带或胶卷)
+   ≫   The camcorder winds the tape back or forward at high speed.  便携式摄像机可以高速度倒带或快进。
+12. (N) a single turn, bend, etc 拐弯
+   ≫   a wind in the river  
+
+========================================================================
+>>> fair enough
+------------------------------------------------------------------------
+fair enough
+有道理；说得对；敢情好
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you don't want to come, fair enough, but let Bill know. 你要是不想来，可以，不过要让比尔知道。《牛津词典》
+≫   If you don't like it, fair enough, but that's hardly a justification to attack the whole thing. 如果你不喜欢它，可以，但把它说得一无是处就没什么道理了。《柯林斯英汉双解大词典》
+≫   The first paragraph is fair enough. 第一段倒也算公正。
+
