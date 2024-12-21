@@ -37363,3 +37363,17 @@ CET4 TEM4
 3. (V) to move or drag (a boat) onto a shore 把(船)拖上海岸
 4. (V) to prop or make safe with or as if with a shore 用支柱撑住; 使稳住
 
+========================================================================
+>>> prominent
+------------------------------------------------------------------------
+prominent    [美 'prɑmɪnənt / 英 'prɒmɪnənt]
+adj. 突出的，显著的；杰出的；卓越的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is prominent is important and well-known. 重要的; 著名的
+   ≫   ...the children of very prominent or successful parents.  …非常知名或成功的人士们的孩子们。
+2. (ADJ) Something that is prominent is very noticeable or is an important part of something else. 突出的
+   ≫   Here the window plays a prominent part in the design.  这里，窗户在设计中有着突出的作用。
+3. [ADV with v] prominently 突出地
+   ≫   Trade will figure prominently in the second day of talks in Washington.  贸易在华盛顿会谈的第二天将成为突出的议题。
+
