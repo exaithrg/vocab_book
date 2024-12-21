@@ -37335,3 +37335,31 @@ CET4 TEM4
 1. (V-T) If you accomplish something, you succeed in doing it. 完成
    ≫   If we'd all work together, I think we could accomplish our goal.  如果我们齐心协力，我想我们能实现我们的目标。
 
+========================================================================
+>>> prisoner
+------------------------------------------------------------------------
+prisoner    [美 'prɪznɚ / 英 'prɪz(ə)nə]
+n. 囚犯，犯人；俘虏；刑事被告
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prisoner is a person who is kept in a prison as a punishment for a crime that they have committed. 囚犯
+   ≫   The committee is concerned about the large number of prisoners sharing cells.  该委员会很关心共用牢房的大量犯人。
+2. [also 'hold/take' n N] A prisoner is a person who has been captured by an enemy, for example, in war. 俘虏
+   ≫   ...wartime hostages and concentration-camp prisoners.  …战时的人质们和集中营的战俘们。
+
+========================================================================
+>>> shore
+------------------------------------------------------------------------
+shore    [英 ʃɔː / 美 ʃɔr]
+vt. 支撑，使稳住；用支柱撑住
+n. 海滨；支柱
+n. (Shore)人名；(英)肖尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also prep N] The shores or the shore of a sea, lake, or wide river is the land along the edge of it. Someone who is on shore is on the land rather than on a ship. 岸
+   ≫   They walked down to the shore.  他们往下走到了岸边。
+   ≫   ...elephants living on the shores of Lake Kariba.  …生活在卡里巴湖滨的大象。
+2. (N) a prop, post, or beam used to support a wall, building, ship in dry dock, etc 支柱
+3. (V) to move or drag (a boat) onto a shore 把(船)拖上海岸
+4. (V) to prop or make safe with or as if with a shore 用支柱撑住; 使稳住
+
