@@ -37315,3 +37315,23 @@ CET6 TEM4
 1. (N-COUNT) Peanuts are small nuts that grow under the ground. Peanuts are often eaten as a snack, especially roasted and salted, and their oil is used in cooking. 花生
    ≫   ...a packet of peanuts.  …一袋花生。
 
+========================================================================
+>>> accomplishment
+------------------------------------------------------------------------
+accomplishment    [美 ə'kɑmplɪʃmənt / 英 ə'kʌmplɪʃm(ə)nt; ə'kɒm-]
+n. 成就；完成；技艺，技能
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An accomplishment is something remarkable that has been done or achieved. 成就
+   ≫   For a novelist, that's quite an accomplishment.  对于一个小说家来说，那是一个了不起的成就。
+
+========================================================================
+>>> accomplish
+------------------------------------------------------------------------
+accomplish    [美 ə'kɑmplɪʃ / 英 ə'kʌmplɪʃ; ə'kɒm-]
+vt. 完成；实现；达到
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you accomplish something, you succeed in doing it. 完成
+   ≫   If we'd all work together, I think we could accomplish our goal.  如果我们齐心协力，我想我们能实现我们的目标。
+
