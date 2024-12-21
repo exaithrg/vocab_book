@@ -37199,3 +37199,119 @@ n. 激流；洪涛
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A riptide is an area of sea where two different currents meet or where the water is extremely deep. Riptides make the water very rough and dangerous. 激流
 
+========================================================================
+>>> woodland
+------------------------------------------------------------------------
+woodland    [美 'wʊdlənd / 英 'wʊdlənd]
+n. 林地；森林
+adj. 林地的；居住在森林中的
+n. (Woodland)人名；(英)伍德兰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Woodland is land with a lot of trees. 林地
+   ≫   ...an area of dense woodland.  …一片茂密的林区。
+
+========================================================================
+>>> gilded
+------------------------------------------------------------------------
+gilded    [美 'ɡɪldɪd / 英 'ɡɪldɪd]
+adj. 镀金的，装饰的；富有的
+v. 给…镀金（gild的过去分词）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you gild a surface, you cover it in a thin layer of gold or gold paint. 镀金
+   ≫   Carve the names and gild them.  刻上名字并镀金
+   ≫   ...gilded statues.  ...镀金雕像。
+2. (N) → a variant spelling of
+
+========================================================================
+>>> condult
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> conduit
+------------------------------------------------------------------------
+conduit    [美 'kɑnduɪt / 英 'kɒndjʊɪt; 'kɒndɪt]
+n. [电] 导管；沟渠；导水管
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A conduit is a small tunnel, pipe, or channel through which water or electrical wires go. 导管; 水管
+2. [oft N 'for/to' n] A conduit is a person or country that links two or more other people or countries. 渠道; 通道
+   ≫   Pakistan became a conduit for drugs produced in Afghanistan.  巴基斯坦成了阿富汗制造的毒品的贩运通道。
+
+========================================================================
+>>> chisel
+------------------------------------------------------------------------
+chisel    [美 'tʃɪzl / 英 'tʃɪz(ə)l]
+vt. 雕，刻；凿；欺骗
+vi. 雕，刻；凿；欺骗
+n. 凿子
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chisel is a tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. 凿子
+   ≫   ...a hammer and chisel.  …一把锤子和一把凿子。
+2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
+   ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
+
+========================================================================
+>>> chiseled
+------------------------------------------------------------------------
+chiseled    [英 'tʃɪzəld / 美 'tʃɪzld]
+adj. 轮廓分明的；凿刻的
+v. 镌刻；用凿子刻（chisel的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chisel is a tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. 凿子
+   ≫   ...a hammer and chisel.  …一把锤子和一把凿子。
+2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
+   ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
+
+========================================================================
+>>> bastion
+------------------------------------------------------------------------
+bastion    [英 'bæstɪən / 美 'bæstɪən]
+n. 堡垒；棱堡
+n. (Bastion)人名；(英)巴斯申
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If a system or organization is described as a bastion of a particular way of life, it is seen as being important and effective in defending that way of life. Bastion can be used both when you think that this way of life should be ended and when you think it should be defended. 堡垒; 精神支柱
+   ≫   ...a town which had been a bastion of white prejudice.  …一个曾经是白人偏见的堡垒的小镇。
+   ≫   ...a bastion of spiritual freedom.  …一座精神自由的堡垒。
+
+========================================================================
+>>> Nasi Lemak
+------------------------------------------------------------------------
+nasi lemak
+椰浆饭：一种马来西亚和新加坡等地的传统美食，主要由椰浆煮成的米饭、辣椒酱、黄瓜、炸小鱼干、炸花生和卤蛋等食材组成。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Noon tasting the Singaporean cuisine - nasi Lemak, taste good afternoon we came to the Chinatown (Chinatown) bought lots of souvenirs. 中午品尝了新加坡特色美食 椰浆饭，味道还不错下午我们来到了牛车水（华人街）买了许多纪念品。
+
+========================================================================
+>>> coconut rice
+------------------------------------------------------------------------
+coconut rice
+椰子饭
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Coconut Rice Balls is a creole dish. 椰丝粉团是一道克里奥尔菜。《柯林斯英汉双解大词典》
+≫   Jack: I'll have coconut rice please. 杰克：请给我椰浆米饭。
+≫   Waitress: Have you ever tried coconut rice? 服务员：您尝过椰子饭吗？
+
+========================================================================
+>>> seanut
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> peanutanut
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> peanut
+------------------------------------------------------------------------
+peanut    [美 'pinʌt / 英 'piːnʌt]
+n. 花生
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Peanuts are small nuts that grow under the ground. Peanuts are often eaten as a snack, especially roasted and salted, and their oil is used in cooking. 花生
+   ≫   ...a packet of peanuts.  …一袋花生。
+
