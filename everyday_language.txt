@@ -37673,3 +37673,28 @@ CET6+ TEM8
 2. (N-COUNT) Creak is also a noun. 嘎吱声
    ≫   The door was pulled open with a creak.  门嘎吱一声被拉开了。
 
+========================================================================
+>>> biography
+------------------------------------------------------------------------
+biography    [美 baɪ'ɑɡrəfi / 英 baɪ'ɒgrəfɪ]
+n. 传记；档案；个人简介
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A biography of someone is an account of their life, written by someone else. 传记
+   ≫   ...recent biographies of Stalin.  …近年的斯大林传记。
+2. (N-UNCOUNT) Biography is the branch of literature which deals with accounts of people's lives. 传记文学
+   ≫   ...a volume of biography and criticism.  …一册传记文学与评论。
+
+========================================================================
+>>> biology
+------------------------------------------------------------------------
+biology    [美 baɪ'ɑlədʒi / 英 baɪ'ɒlədʒɪ]
+n. （一个地区全部的）生物；生物学
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Biology is the science which is concerned with the study of living things. 生物学
+2. (N-COUNT) biologist 生物学家
+   ≫   ...biologists studying the fruit fly.  …研究果蝇的生物学家。
+3. (N-UNCOUNT) The biology of a living thing is the way in which its body or cells behave. (机体、细胞的) 作用方式
+   ≫   The biology of these diseases is terribly complicated.  这些疾病的作用方式极其复杂。
+
