@@ -36905,3 +36905,14 @@ linear algebra
 ≫   The text for the course is this book, Introduction to Linear Algebra. 该课程的教材是这本书：线代入门。
 ≫   It's a general fact that you will see more in detail in linear algebra if you take it. 如果你学线性代数的话,就会学到更多细节。
 
+========================================================================
+>>> corpus
+------------------------------------------------------------------------
+corpus    [美 'kɔrpəs / 英 'kɔːpəs]
+n. [计] 语料库；文集；本金
+n. (Corpus)人名；(西)科尔普斯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with supp] A corpus is a large collection of written or spoken texts that is used for language research. 语料库
+≫  未找到守护进程，正在启动...
+
