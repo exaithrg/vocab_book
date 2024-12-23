@@ -38108,13 +38108,6 @@ n. 多态性；多形性；同质多晶
 2. (N) the occurrence of more than one form in the individual polyps of a coelenterate colony (腔肠动物)多形态
 
 ========================================================================
->>> constructor and destructor
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：1320
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
-
-========================================================================
 >>> dynamic binding
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
@@ -38639,4 +38632,99 @@ pervasively    [美 pərˈveɪsɪvli / 英 pəˈveɪsɪvli]
 ≫   If you use continuation servers pervasively, the user experience will change. 如果大量使用延续服务器，用户体验就会改变。
 ≫   Many of my clients have too much legacy code and momentum to change pervasively. 我的许多客户有太多的遗留代码，修改起来工作量太大。
 ≫   But without fraternity, in a region so pervasively mauled and inter-connected, they risk souring. 但没有博爱的话，在一个受到如此变态的粗暴对待以及如此在内部彼此关联的区域，它们就会有变质的危险。
+
+========================================================================
+>>> constructor and destructor
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3806
+constructor and destructor
+构造函数和析构函数
+
+========================================================================
+>>> incident
+------------------------------------------------------------------------
+incident    [美 ˈɪnsɪdənt / 英 ˈɪnsɪdənt]
+n. 事件，事故；（两国间的）冲突，严重摩擦；<法律>（职务、财产等所有物的）附属特权
+adj. 由……产生的；<法律>附属的；入射的
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An incident is something that happens, often something that is unpleasant. 事件; 事故 [正式] [also 'without' N]
+   ≫   These incidents were the latest in a series of disputes between the two nations.  这些事件是两国一系列争端中最近的几起。
+
+========================================================================
+>>> surface
+------------------------------------------------------------------------
+surface    [美 ˈsɜːrfɪs / 英 ˈsɜːfɪs]
+n. 表面；水面，地面；桌面，台面；（物体的）一个面；外表，表象；表面积；运动场地，运动场地面铺设材料
+v. 浮出水面；（信息、情感或问题）显露，暴露，公开；（失踪或隐藏后）出现；<非正式>（尤指长睡后）起床；给（道路等）铺上硬面
+adj. 表面上的，外表上的；表面的；（与空中运输相对的）水陆运输的；水面舰船的（与潜水艇相对）；表层的
+★★★★ CET4 TEM4 surfacing,surfaced,surfaces
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The surface of something is the flat top part of it or the outside of it. 表面
+   ≫   Ozone forms a protective layer between 12 and 30 miles above the Earth's surface.  臭氧在距地球表面12至30英里的地方形成一个保护层。
+   ≫   ...tiny little waves on the surface of the water.  …水面的细小波浪。
+2. (N-COUNT) A work surface is a flat area, for example the top of a table, desk, or kitchen counter, on which you can work. 台面
+   ≫   It can simply be left on the work surface.  把它放在操作台面上就行了。
+3. (N-SING) When you refer to the surface of a situation, you are talking about what can be seen easily rather than what is hidden or not immediately obvious. 表面
+   ≫   Back home, things appear, on the surface, simpler.  回到家后，事情表面上看起来简单一些。
+4. (V-I) If someone or something under water surfaces, they come up to the surface of the water. 浮出水面
+   ≫   He surfaced, gasping for air.  他浮出了水面，大口喘着气。
+5. (V-I) When something such as a piece of news, a feeling, or a problem surfaces, it becomes known or becomes obvious. 显现
+   ≫   The paper says the evidence, when it surfaces, is certain to cause uproar.  该报纸说，该证据一旦出现肯定会引起骚动。
+
+========================================================================
+>>> lance
+------------------------------------------------------------------------
+lance    [美 læns / 英 lɑːns]
+n. 长矛；执矛战士；柳叶刀
+vt. 以长矛攻击；用柳叶刀割开；冲进
+vi. 急速前进
+n. （Lance）人名；（英）兰斯；（法）朗斯
+★ CET6+ TEM8 lancing,lanced,lances
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a boil on someone's body is lanced, a small cut is made in it so that the liquid inside comes out. 切开 (放脓) [医学] [usu passive]
+   ≫   It is a painful experience having the boil lanced.  将疖子切开是个痛苦的经历。
+2. (N-COUNT) A lance is a long spear used in former times by soldiers on horseback. 长矛
+   ≫   ...the clang of lances striking armour.  …长矛撞击盔甲的铿锵声。
+
+========================================================================
+>>> derived
+------------------------------------------------------------------------
+derived    [美 dɪˈraɪvd / 英 dɪˈraɪvd]
+adj. 导出的；衍生的，派生的
+v. 从……衍生出，源于；（从……中）得到，提取；导出（derive 的过去式和过去分词）
+★★ CET4 TEM4 deriving,derived,derives
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you derive something such as pleasure or benefit from a person or from something, you get it from them. 获得 [正式]
+   ≫   Mr. Ying is one of those happy people who derive pleasure from helping others.  英先生是那种助人为乐的快活人。
+2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
+   ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
+
+========================================================================
+>>> buildplates
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> plateau
+------------------------------------------------------------------------
+plateau    [英 ˈplætəʊ / 美 plæˈtoʊ]
+n. 高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘
+v. （在一段时间的发展之后）趋于平稳，进入停滞期
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plateau is a large area of high and fairly flat land. 高原
+   ≫   A broad valley opened up leading to a high, flat plateau of cultivated land.  一个宽阔的山谷展开，通向一片平坦的高原耕地。
+2. (N-COUNT) If you say that an activity or process has reached a plateau, you mean that it has reached a stage where there is no further change or development. (不再有变化或进展的) 稳定阶段
+   ≫   The U.S. heroin market now appears to have reached a plateau.  美国的海洛因市场目前似乎已进入了一个稳定阶段。
+
+========================================================================
+>>> ingot
+------------------------------------------------------------------------
+ingot    [美 ˈɪŋɡət / 英 ˈɪŋɡət]
+n. 锭；铸块
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An ingot is a lump of metal, usually shaped like a brick. 铸块; 锭 [oft n N]
+   ≫   ...gold ingots.  ...金锭。
 

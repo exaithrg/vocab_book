@@ -28293,16 +28293,9 @@ adj. （纹章装饰）T型拼花毛皮样的
 >>> moste potente potions
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：7799
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
-
-========================================================================
->>> moste potente
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：7844
-moste potente
-也许potente
+✔  成功启动守护进程，PID：3990
+moste potente potions
+最强大的魔药
 
 ========================================================================
 >>> voyage
@@ -28676,8 +28669,9 @@ CET6+ TEM4
 >>> daily prophet
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：9670
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+✔  成功启动守护进程，PID：4096
+daily prophet
+《预言家日报》（《哈利·波特》里的虚构报纸）
 
 ========================================================================
 >>> prophet
@@ -29747,8 +29741,9 @@ CET6+ TEM4
 >>> livestock and poultry
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：14196
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+✔  成功启动守护进程，PID：4174
+livestock and poultry
+家畜家禽：指人类饲养的各种动物，如牛、羊、猪、鸡、鸭等，用于生产食品、皮革、毛料等。
 
 ========================================================================
 >>> cattle and cows
@@ -36756,27 +36751,12 @@ cartridge case
 ≫   The fast evaluation method for the storage life of flammable cartridge case was established based on the similar product method. 利用相似产品预测法，建立了快速评价可燃药筒长期贮存寿命的方法。
 
 ========================================================================
->>> insfinity
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> crew dragon
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> crew dragon
 ------------------------------------------------------------------------
 ≫  未找到守护进程，正在启动...
 ✔  成功启动守护进程，PID：13990
 crew dragon
 船员龙
-
-========================================================================
->>> astranis
-------------------------------------------------------------------------
-Not found :(
 
 ========================================================================
 >>> wagon
@@ -38413,4 +38393,1110 @@ n. [数] 卷积；回旋；盘旋；卷绕
 1. (N-COUNT) Convolutions are curves on an object or design that has a lot of curves. 卷绕 [文学性] [usu pl]
 2. (N-VAR) You can use convolutions to refer to a situation that is very complicated. 过于复杂 [文学性] [oft N 'of' n]
    ≫   ...the thorny convolutions of love.  ...棘手而错综复杂的爱情。
+
+========================================================================
+>>> nostalgic
+------------------------------------------------------------------------
+nostalgic    [英 nɒˈstældʒɪk / 美 nɑːˈstældʒɪk]
+adj. 思乡的；引人怀旧的
+n. 怀旧的人
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Nostalgic things cause you to think affectionately about the past. 引起怀旧的
+   ≫   Although we still depict nostalgic snow scenes on Christmas cards, winters are now very much warmer.  虽然我们还在圣诞卡上描绘引人怀旧的雪景，但现在冬天温暖多了。
+2. (ADJ) If you feel nostalgic, you think affectionately about experiences you had in the past. 怀旧的
+   ≫   Many people were nostalgic for the good old days.  很多人都怀念过去的好时光。
+3. (ADV) nostalgically ADV 怀旧地
+   ≫   People look back nostalgically on the war period, simply because everyone pulled together.  人们怀旧地回忆战争时期，就因为当时大家齐心协力。
+
+========================================================================
+>>> maintenance
+------------------------------------------------------------------------
+maintenance    [美 ˈmeɪntənəns / 英 ˈmeɪntənəns]
+n. 维护，保养；保持，维持；（依法应负担的）生活费，抚养费；包揽诉讼罪，非法资助诉讼罪
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The maintenance of a building, vehicle, road, or machine is the process of keeping it in good condition by regularly checking it and repairing it when necessary. 检修
+   ≫   ...maintenance work on government buildings.  …政府各大楼的检修工作。
+   ≫   The window had been replaced last week during routine maintenance.  那窗在上星期的例行检修中已被换掉了。
+2. (N-UNCOUNT) Maintenance is money that someone gives regularly to another person to pay for the things that the person needs. 赡养费; 抚养费
+   ≫   ...the government's plan to make absent fathers pay maintenance for their children.  …让那些不在孩子身边的父亲为孩子提供抚养费的政府计划。
+3. (N-UNCOUNT) If you ensure the maintenance of a state or process, you make sure that it continues. 维持
+   ≫   ...the maintenance of peace and stability in Asia.  …亚洲和平与稳定的维持。
+
+========================================================================
+>>> boldness
+------------------------------------------------------------------------
+boldness    [美 ˈboʊldnəs / 英 ˈbəʊldnəs]
+n. 大胆；冒失；显著
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Boldness — a willingness to extend yourself to the extreme, is not one that can be acquired overnight. 勇敢就是愿意努力到极致，这不是一夜而就的。
+≫   In The Prince, he championed cunning, ruthlessness, and boldness, rather than virtue, mercy and justice, as the skills of successful leaders. 在《君主论》中，他将狡诈、无情和勇敢，而不是美德、仁慈和正义，作为成功领导人的技能。
+≫   But more boldness is needed. 但是他还需要更大的魄力。
+
+========================================================================
+>>> championed
+------------------------------------------------------------------------
+championed
+v．拥护，支持，捍卫：为某个观点、原则或人的权益而斗争。
+★★★★ CET4 TEM4 championing,championed,champions
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A champion is someone who has won the first prize in a competition, contest, or fight. 冠军
+   ≫   ...a former Olympic champion.  …一位前奥运冠军。
+   ≫   Kasparov became world champion.  卡斯帕罗夫成了世界冠军。
+2. (N-COUNT) If you are a champion of a person, a cause, or a principle, you support or defend them. 拥护者; 捍卫者
+   ≫   He received acclaim as a champion of the oppressed.  他作为被压迫者的捍卫者而受到了赞誉。
+3. (V-T) If you champion a person, a cause, or a principle, you support or defend them. 拥护; 捍卫
+   ≫   He passionately championed the poor.  他曾热情地捍卫穷人。
+
+========================================================================
+>>> cunning, ruthlessness, and boldness
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：9005
+cunning, ruthlessness, and boldness
+狡猾、无情和大胆
+
+========================================================================
+>>> cunning
+------------------------------------------------------------------------
+cunning    [美 ˈkʌnɪŋ / 英 ˈkʌnɪŋ]
+adj. 狡猾的，诡诈的；灵巧的，巧妙的；<美>可爱的，好看的
+n. 狡猾，诡诈；灵巧，巧妙
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is cunning has the ability to achieve things in a clever way, often by deceiving other people. 狡猾的
+   ≫   These disturbed kids can be cunning.  这些心理失常的小孩可能会很狡猾。
+2. (ADV) cunningly ADV 狡猾地
+   ≫   They were cunningly disguised in golf clothes.  他们狡猾地穿上高尔夫球服把自己伪装起来。
+3. (N-UNCOUNT) Cunning is the ability to achieve things in a clever way, often by deceiving other people. 狡猾
+   ≫   ...one more example of the cunning of today's art thieves.  …又一个关于当今艺术品大盗狡猾伎俩的例子。
+
+========================================================================
+>>> ruthlessness
+------------------------------------------------------------------------
+ruthlessness    [美 ˈruːθləsnəs / 英 ˈruːθləsnəs]
+n. 无情；冷酷；残忍
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She doesn't have the ruthlessness required to succeed in business. 要在生意场上干出一番名堂，她缺乏必要的冷酷心肠。《牛津词典》
+≫   In The Prince, he championed cunning, ruthlessness, and boldness, rather than virtue, mercy and justice, as the skills of successful leaders. 在《君主论》中，他将狡诈、无情和勇敢，而不是美德、仁慈和正义，作为成功领导人的技能。
+≫   The word suggests both ruthlessness and weakness. 地下堡垒这个词有两重意味：残酷和软弱。
+
+========================================================================
+>>> boldness
+------------------------------------------------------------------------
+boldness    [美 ˈboʊldnəs / 英 ˈbəʊldnəs]
+n. 大胆；冒失；显著
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Boldness — a willingness to extend yourself to the extreme, is not one that can be acquired overnight. 勇敢就是愿意努力到极致，这不是一夜而就的。
+≫   In The Prince, he championed cunning, ruthlessness, and boldness, rather than virtue, mercy and justice, as the skills of successful leaders. 在《君主论》中，他将狡诈、无情和勇敢，而不是美德、仁慈和正义，作为成功领导人的技能。
+≫   But more boldness is needed. 但是他还需要更大的魄力。
+
+========================================================================
+>>> virtue
+------------------------------------------------------------------------
+virtue    [美 ˈvɜːrtʃuː / 英 ˈvɜːtʃuː]
+n. 高尚的道德，德行；美德，优秀品质；优点，长处；<古>（尤指妇女的）贞操；功效；（传统基督教天使学）道德天使（天国九级制度的第七级）（virtues）
+【名】 （Virtue）弗丘（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Virtue is thinking and doing what is right and avoiding what is wrong. 正直的品性
+   ≫   Virtue is not confined to the Christian world.  正直的品性并不限于基督教世界。
+2. (N-COUNT) A virtue is a good quality or way of behaving. 美德
+   ≫   His virtue is patience.  他的美德就是耐心。
+3. (N-COUNT) The virtue of something is an advantage or benefit that it has, especially in comparison with something else. 优势; 益处
+   ≫   There was no virtue in returning to Calvi the way I had come.  按我来的路线返回卡尔维并不可取。
+4. (PHRASE) You use by virtue of to explain why something happens or is true. 因为 [正式]
+   ≫   The article stuck in my mind by virtue of one detail.  该文章因一细节而印入我脑海。
+
+========================================================================
+>>> cyberloaf
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> loaf
+------------------------------------------------------------------------
+loaf    [美 loʊf / 英 ləʊf]
+n. 一条，一块（面包）；（美味食物切碎压成块后烹制成的）糕
+v. 游荡，闲逛
+★ CET4 TEM4 loafing,loafed,loafs,loaves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A loaf of bread is bread which has been shaped and baked in one piece. It is usually large enough for more than one person and can be cut into slices. (一) 条 (面包)
+   ≫   ...a loaf of crusty bread.  …一条硬皮面包。
+2. (V-I) If you loaf, you spend time in a lazy way, doing nothing in particular, especially when you should be working. 闲着
+   ≫   There were always a lot of men loafing in the shop.  总有许多人在商店里闲逛。
+
+========================================================================
+>>> loaves
+------------------------------------------------------------------------
+loaves    [美 loʊvz / 英 ləʊvz]
+n. 一条（面包）；（食物）一大块；糕（loaf 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Outside the fence, hawkers had dripping bags of sachet water for sale; a few sold dead-looking loaves of bread and fried buns. 栏杆外面，小贩在兜售袋装水，袋子上还滴着水滴；一些则售卖看起来干枯的一条条面包和煎包。
+≫   The boys went through two whole loaves of bread. 这些男孩把整整两条面包吃得精光。《牛津词典》
+≫   Here are two loaves and a ham for you, so that you won't starve. 这里有两个面包和一个火腿给你，这样你就不会挨饿了。
+
+========================================================================
+>>> mutual
+------------------------------------------------------------------------
+mutual    [美 ˈmjuːtʃuəl / 英 ˈmjuːtʃuəl]
+adj. 相互的，彼此的；共同的，共有的；（保险公司、建筑协会等）互助的
+n. 互助公司
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use mutual to describe a situation, feeling, or action that is experienced, felt, or done by both of two people mentioned. 相互的
+   ≫   The East and the West can work together for their mutual benefit and progress.  东西方可以为互惠和进步而合作。
+2. (ADV) mutually ADV 相互地
+   ≫   Attempts to reach a mutually agreed solution had been fruitless.  想要达成一个彼此同意的解决方案，却无果而终。
+3. (ADJ) You use mutual to describe something such as an interest which two or more people share. 共同的
+   ≫   They do, however, share a mutual interest in design.  然而，他们确实对设计有共同的兴趣。
+4. (ADJ) If an insurance company or savings bank has mutual status, it is not owned by shareholders but by its customers, who receive a share of the profits. (保险公司或储蓄银行) 互助的 [商业] [ADJ n]
+   ≫   ...a mutual company based in Columbus, Ohio.  …一家总部在俄亥俄州哥伦布市的互助公司。
+
+========================================================================
+>>> mutual support
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：19811
+mutual support
+相互支持：指两个或多个人或组织之间互相提供支持和帮助的关系。
+
+========================================================================
+>>> river flows in you
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：20423
+river flows in you
+《你的心河》：指的是一首歌曲的名称，意为内心的河流。
+
+========================================================================
+>>> Thoughts Across Time
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：20460
+Thoughts Across Time
+跨越时间的思考
+
+========================================================================
+>>> Thoughts Across Time
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：20492
+Thoughts Across Time
+跨越时间的思考
+
+========================================================================
+>>> Inuyasha
+------------------------------------------------------------------------
+Inuyasha
+n. 犬夜叉（日本动漫名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Inuyasha, You Are My Forever Love! 犬夜叉，你是我永远的爱！
+≫   There she unseals Inuyasha and is discovered to be the reincarnation of Kikyo. 在那里，她解除了犬夜叉的封印，并发现是桔梗转世。
+≫   To meet the bell to hate, before human family have human lineages of inuyasha is a despise. 在遇到铃之前很讨厌人类，对家族中有人类血统的犬夜叉很是不屑。
+
+========================================================================
+>>> lancent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lancet
+------------------------------------------------------------------------
+lancet    [英 ˈlɑːnsɪt / 美 ˈlænsɪt]
+n. [外科] 小刀，柳叶刀；尖顶窗；小枪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a pointed surgical knife with two sharp edges (外科)柳叶刀 (Also called lance)
+
+========================================================================
+>>> lancend
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lance
+------------------------------------------------------------------------
+lance    [美 læns / 英 lɑːns]
+n. 长矛；执矛战士；柳叶刀
+vt. 以长矛攻击；用柳叶刀割开；冲进
+vi. 急速前进
+n. （Lance）人名；（英）兰斯；（法）朗斯
+★ CET6+ TEM8 lancing,lanced,lances
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a boil on someone's body is lanced, a small cut is made in it so that the liquid inside comes out. 切开 (放脓) [医学] [usu passive]
+   ≫   It is a painful experience having the boil lanced.  将疖子切开是个痛苦的经历。
+2. (N-COUNT) A lance is a long spear used in former times by soldiers on horseback. 长矛
+   ≫   ...the clang of lances striking armour.  …长矛撞击盔甲的铿锵声。
+
+========================================================================
+>>> clang
+------------------------------------------------------------------------
+clang    [美 klæŋ / 英 klæŋ]
+n. 叮当声；铿锵声
+vi. 发铿锵声
+vt. 使发铿锵声
+n. （Clang）人名；（法）克朗
+TEM4 clanging,clanged,clangs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When a large metal object clangs, it makes a loud noise. 发出响亮之声
+   ≫   The door clanged shut behind them.  门在他身后关上，发出很大的声响。
+2. (N-VAR) Clang is also a noun. 响亮的声音
+   ≫   He pulled the gates to with a clang.  他响声很大地拉开了门。
+
+========================================================================
+>>> striking
+------------------------------------------------------------------------
+striking    [美 ˈstraɪkɪŋ / 英 ˈstraɪkɪŋ]
+adj. 惊人的，异常的；妩媚动人的，标致的；罢工的；打击的
+n. 撞击，碰撞
+v. 打，撞；（用手或武器等）打；罢工（strike 的现在分词形式）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is striking is very noticeable or unusual. 显著的; 不同寻常的
+   ≫   The most striking feature of those statistics is the high proportion of suicides.  那些统计数据最显著的特征是高自杀率。
+   ≫   He bears a striking resemblance to Lenin.  他与列宁有着不同寻常的相似之处。
+2. (ADV) strikingly ADV 显著地; 不同寻常地
+   ≫   In one respect, however, the men really were strikingly similar.  然而，在一方面，这些男人的确惊人地相似。
+   ≫   ...a strikingly handsome man.  …一个异乎寻常地英俊的男人。
+3. (ADJ) Someone who is striking is very attractive, in a noticeable way. 俊秀的
+   ≫   She was a striking woman with long blonde hair.  她曾是一个留着金色长发的俊秀女子。
+
+========================================================================
+>>> arial
+------------------------------------------------------------------------
+arial
+n. 一种字体
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Set fontinfo to 10 pt Arial (bold). 将fontinfo设置为10 pt Arial (bold)。
+≫   To note, you don’t have to use Arial. 注意，你不必一定使用ARIAL字体。
+≫   Arial and Georgia are used for headlines (52%). 大标题用Arial和Georgia体；(52%)。
+
+========================================================================
+>>> breed
+------------------------------------------------------------------------
+breed    [美 brid / 英 briːd]
+vi. 繁殖；饲养；产生
+vt. 繁殖；饲养；养育，教育；引起
+n. [生物] 品种；种类，类型
+n. (Breed)人名；(英)布里德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A breed of a pet animal or farm animal is a particular type of it. For example, terriers are a breed of dog. (动物的) 品种
+   ≫   ...rare breeds of cattle.  …稀有牛种。
+2. (V-T) If you breed animals or plants, you keep them for the purpose of producing more animals or plants with particular qualities, in a controlled way. 养殖
+   ≫   He lived alone, breeding horses and dogs.  他独自生活,养殖马和狗。
+   ≫   He used to breed dogs for the police.  他过去为警察部门养殖狗。
+3. (N-UNCOUNT) breeding 养殖
+   ≫   There is potential for selective breeding for better yields.  以优产为目的的精选养殖是有潜力的。
+4. (V-I) When animals breed, they have babies. 繁殖
+   ≫   Frogs will usually breed in any convenient pond.  青蛙通常在任何适宜的水塘里繁殖。
+5. (N-UNCOUNT) breeding 繁殖
+   ≫   During the breeding season the birds come ashore.  在繁殖期鸟儿们上岸。
+6. (V-T) If you say that something breeds bad feeling or bad behaviour, you mean that it causes bad feeling or bad behaviour to develop. 酿成 (不良情绪或不良行为)
+   ≫   If they are unemployed it's bound to breed resentment.  如果他们失业了,一定会酿成怨恨。
+7. → see also
+
+========================================================================
+>>> domestic
+------------------------------------------------------------------------
+domestic    [美 dəˈmestɪk / 英 dəˈmestɪk]
+adj. 国内的，本国的；家用的，家庭的；喜爱家庭生活的，乐于操持家务的；非野生的，驯养的
+n. 家庭纠纷，家庭矛盾；佣人，家仆；<美>国货，本地产品
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Domestic political activities, events, and situations happen or exist within one particular country. 国内的
+   ≫   ...over 100 domestic flights a day to 30 leading U.S. destinations.  …每天飞往美国30个主要目的地的100多个国内航班。
+2. (ADJ) Domestic duties and activities are concerned with the running of a home and family. 家务的 [ADJ n]
+   ≫   ...a plan for sharing domestic chores.  …一份分担家务的计划。
+3. (ADJ) Domestic items and services are intended to be used in people's homes rather than in factories or offices. 家用的 [ADJ n]
+   ≫   ...domestic appliances.  …家用电器。
+4. (ADJ) A domestic situation or atmosphere is one which involves a family and their home. 家庭的
+   ≫   It was a scene of such domestic bliss.  这是一幕家庭美满的场景。
+5. (ADJ) A domestic animal is one that is not wild and is kept either on a farm to produce food or in someone's home as a pet. 家养的; 饲养的
+   ≫   ...a domestic cat.  …一只家猫。
+
+========================================================================
+>>> breed registry
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：24851
+breed registry
+品种登记
+
+========================================================================
+>>> standardized breed
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：24934
+standardized breed
+标准化的品种
+
+========================================================================
+>>> aficionado
+------------------------------------------------------------------------
+aficionado    [美 əˌfɪʃəˈnɑːdoʊ / 英 əˌfɪʃəˈnɑːdəʊ]
+n. 迷；狂热爱好者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If someone is an aficionado of something, they like it and know a lot about it. 迷
+   ≫   I happen to be an aficionado of the opera, and I love art museums.  碰巧我是个歌剧迷，而且喜欢艺术馆。
+   ≫   ...a jazz aficionado.  …一个爵士乐迷。
+
+========================================================================
+>>> derived
+------------------------------------------------------------------------
+derived    [英 dɪˈraɪvd / 美 dɪˈraɪvd]
+adj. 导出的；衍生的，派生的
+v. 从……衍生出，源于；（从……中）得到，提取；导出（derive 的过去式和过去分词）
+★★ CET4 TEM4 deriving,derived,derives
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you derive something such as pleasure or benefit from a person or from something, you get it from them. 获得 [正式]
+   ≫   Mr. Ying is one of those happy people who derive pleasure from helping others.  英先生是那种助人为乐的快活人。
+2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
+   ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
+
+========================================================================
+>>> mackerel
+------------------------------------------------------------------------
+mackerel    [美 ˈmækrəl / 英 ˈmækrəl]
+n. 鲭（产于北大西洋）；马鲛鱼
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A mackerel is a sea fish with a dark, patterned back. 鲭鱼
+   ≫   Almiro's boat had sailed out to the middle of the bay to fish for mackerel.  阿尔米罗的船已驶向海湾中部去捕鲭鱼。
+2. (N-UNCOUNT) Mackerel is this fish eaten as food. 鲭鱼肉
+   ≫   ...piles of smoked mackerel.  …成堆的熏鲭鱼肉。
+
+========================================================================
+>>> striped
+------------------------------------------------------------------------
+striped    [美 'straɪpɪd / 英 straɪpt]
+adj. 有条纹的；有斑纹的
+v. 被剥去（strip的过去分词）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is striped has stripes on it. 有条纹的
+   ≫   ...a bottle green and maroon striped tie.  …一条有深绿色和绛紫色条纹的领带。
+
+========================================================================
+>>> tabby
+------------------------------------------------------------------------
+tabby    [美 ˈtæbi / 英 ˈtæbi]
+n. 平纹；斑猫；长舌妇
+adj. 起波纹的；有斑纹的
+vt. 使起波纹
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tabby or a tabby cat is a cat whose fur has dark stripes on a lighter background. 斑猫
+2. (N) a fabric with a watered pattern, esp silk or taffeta 平纹布
+3. (ADJ) (esp of cats) brindled with dark stripes or wavy markings on a lighter background (尤指猫)有黑色条纹或波纹的
+
+========================================================================
+>>> wavy
+------------------------------------------------------------------------
+wavy    [美 ˈweɪvi / 英 ˈweɪvi]
+adj. （头发）鬈曲的；波纹状的，波浪形的；（纹章）波形的，波状的
+【名】 （Wavy）威维（人名）
+wavier,waviest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Wavy hair is not straight or curly, but curves slightly. (指头发) 波浪形的; 鬈曲的
+   ≫   She had short, wavy brown hair.  她有一头又短又卷的褐发。
+2. (ADJ) A wavy line has a series of regular curves along it. 波纹状的
+   ≫   The boxes were decorated with a wavy gold line.  这些盒子上装饰了一条波纹状的金边。
+
+========================================================================
+>>> stature
+------------------------------------------------------------------------
+stature    [美 ˈstætʃər / 英 ˈstætʃə(r)]
+n. 名望，声望；身高
+★ CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Someone's stature is their height. 身高
+   ≫   It's more than his physical stature that makes him remarkable.  不单单是他的身高使他气宇非凡。
+   ≫   Mother was of very small stature, barely five feet tall.  母亲身材娇小，仅有5英尺高。
+2. (N-UNCOUNT) The stature of a person is the importance and reputation that they have. 名望
+   ≫   Who can deny his stature as the world's greatest cellist?  谁能否认他是世界上最伟大的大提琴演奏家？
+
+========================================================================
+>>> reminiscent
+------------------------------------------------------------------------
+reminiscent    [美 ˌremɪˈnɪs(ə)nt / 英 ˌremɪˈnɪs(ə)nt]
+adj. 使人联想的；怀旧的，缅怀往事的；与……相像的
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that one thing is reminiscent of another, you mean that it reminds you of it. 令人想起的 [正式] [v-link ADJ 'of' n]
+   ≫   We drank from wax-coated paper cups reminiscent of a visit to the dentist.  我们喝水用的蜡纸杯让我想起了那次去看牙医的事。
+
+========================================================================
+>>> waz
+------------------------------------------------------------------------
+waz
+n. 撒尿，小便（同 wazz）
+n. （Waz）瓦兹（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   CQ DX, especially looking for zone 2 for my WAZ. 呼叫远距离台特别是2区的台，因为我想获得WAZ奖。
+≫   After 12 months intervention, a significantly gain of the weight for age Z score (WAZ) was observed in the intervention group. 干预12个月后强化组儿童年龄别体重的增加值、三头肌和腹部皮褶厚度及其增加值显著高于对照组。
+≫   At the end of the last decade, wide-azimuth (WAZ) acquisition and processing were providing the best available seismic images in the Gulf of Mexico. 在过去十年，宽方位角(WAZ)采集和处理技术为墨西哥湾提供了应用性最强的地震图像技术。
+
+========================================================================
+>>> wax
+------------------------------------------------------------------------
+wax    [美 wæks / 英 wæks]
+n. 蜡，蜂蜡；耳垢； <英，非正式，旧>一阵愤怒；<非正式>唱片；类似蜡的黏性物质（尤指液体或碳氢化合物）
+v. 给……上（或打）蜡；用蜡除去（身体部位）的毛发；（月亮）渐圆，渐满；（带着某种情绪）说，写；（数量、规模等）增加，变大；<非正式>把……灌制成唱片
+adj. 蜡制的，似蜡的
+【名】 （Wax）（德、罗、匈、英）瓦克斯（人名）
+★★ CET4 TEM4 waxing,waxed,waxes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Wax is a solid, slightly shiny substance made of fat or oil that is used to make candles and polish. It melts when it is heated. 蜡
+   ≫   There were coloured candles which had spread pools of wax on the furniture.  彩色蜡烛在家具上留下了一摊摊的蜡油。
+2. (V-T) If you wax a surface, you put a thin layer of wax onto it, especially in order to polish it. 给…上蜡
+   ≫   We'd have long talks while she helped me wax the floor.  她帮我给地板上蜡时，我们闲聊了很长时间。
+3. (N-UNCOUNT) Wax is the sticky yellow substance found in your ears. 耳垢
+   ≫   Use a cotton bud to remove the wax from your ears.  用棉花棒挖掉你耳朵里的耳垢。
+4. (V-T) If you have a part of your body waxed, for example your legs, you have the hair removed from the area by having wax put on it and then pulled off quickly. (用蜡) 去毛
+   ≫   She has just had her legs waxed at the local beauty parlour.  她刚在当地的美容院用蜡去了腿毛。
+5. (V) to become larger, more powerful, etc 变更大; 变更强大
+6. (N) a fit of rage or temper 发怒; 生气 [英国英语] [非正式，老式]
+   ≫   He's in a wax today.  
+
+========================================================================
+>>> wzx-coated
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> wax-coated
+------------------------------------------------------------------------
+wax-coated
+adj．涂蜡的：表面覆盖了一层蜡的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We drank from wax-coated paper cups reminiscent of a visit to the dentist. 我们喝水用的蜡纸杯让我想起了那次去看牙医的事。《柯林斯英汉双解大词典》
+≫   The process of preparing a printing surface for electrotyping by first engraving on a wax-coated metal plate. 蜡模，蜡刻制版法：一种通过先在涂蜡金属板上刻字来准备电版印刷平面的工序。
+≫   For the lower hardness of the surface, use slurry abrasive with wax-coated particles can reduce the polishing time and improve the accuracy of the surface polishing. 对于较低硬度的工件表面，采用蜡敷磨粒的磨料液可缩短抛光时间和提高抛光的表面精度。
+
+========================================================================
+>>> buildplates
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> plates
+------------------------------------------------------------------------
+plates    [美 plets / 英 pleɪts]
+n. 盘子（plate的复数）；板材；[建] 平板
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plate is a round or oval flat dish that is used to hold food. 盘子
+   ≫   Anita pushed her plate away; she had eaten virtually nothing.  安妮塔把盘子推开；她其实什么都没吃。
+2. (N-COUNT) A plate of food is the amount of food on a plate. 一盘子的量
+   ≫   ...a huge plate of bacon and eggs.  …一大盘子培根和鸡蛋。
+3. (N-COUNT) A plate is a flat piece of metal, especially on machinery or a building. 金属片
+   ≫   ...a recess covered by a brass plate.  …一个被一块铜板覆盖着的壁龛。
+4. (N-COUNT) A plate is a small, flat piece of metal with someone's name written on it, which you usually find beside the front door of an office or house. 金属牌子
+   ≫   ...a brass plate by the front door bearing his name.  …大门旁一块刻有他名字的铜牌。
+5. (N-PLURAL) On a road vehicle, the plates are the panels on the front and back that display the registration number. 牌照
+   ≫   ...dusty-looking cars with New Jersey plates.  …挂着新泽西牌照的落满灰尘的汽车。
+6. → see also
+7. (N-COUNT) A plate in a book is a picture or photograph that takes up a whole page and is usually printed on better quality paper than the rest of the book. 整页插图
+   ≫   The book has 55 colour plates.  这本书有55页彩色整页插图。
+8. (PHRASE) If you have enough on your plate or have a lot on your plate, you have a lot of work to do or a lot of things to deal with. 有许多事等着做
+   ≫   We have enough on our plate. There is plenty of work to be done on what we have.  我们有许多事干。我们手头就有大量的工作要做。
+
+========================================================================
+>>> Telltale
+------------------------------------------------------------------------
+telltale    [美 ˈtelteɪl / 英 ˈtelteɪl]
+adj. 报警的；泄密的；搬弄是非的
+n. 迹象；指示器；搬弄是非者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is described as telltale gives away information, often about something bad that would otherwise not be noticed. 泄露内情的 [ADJ n]
+   ≫   Only occasionally did the telltale redness around his eyes betray the fatigue he was suffering.  只有在他眼周发红的时候才偶尔显出他有多么疲劳。
+
+========================================================================
+>>> betray
+------------------------------------------------------------------------
+betray    [美 bɪˈtreɪ / 英 bɪˈtreɪ]
+v. 背叛，出卖；食言，辜负；违背（信仰、原则等）；泄露（机密，信息）；流露，显露出（情感或特性）；暴露（不易发觉的东西）
+★★ CET4 TEM4 betraying,betrayed,betrays
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you betray someone who loves or trusts you, your actions hurt and disappoint them. 辜负
+   ≫   When I tell someone I will not betray his confidence I keep my word.  当我对人说我不会辜负他的信任时，我会说到做到。
+2. (V-T) If someone betrays their country or their friends, they give information to an enemy, putting their country's security or their friends' safety at risk. 出卖; 背叛
+   ≫   They offered me money if I would betray my associates.  如果我出卖自己的同伴，他们就会给我钱。
+3. (V-T) If you betray an ideal or your principles, you say or do something which goes against those beliefs. 违背
+   ≫   We betray the ideals of our country when we support capital punishment.  我们赞同死刑就会违背我们国家的理想。
+4. (V-T) If you betray a feeling or quality, you show it without intending to. (无意中) 流露
+   ≫   She studied his face, but it betrayed nothing.  她审视着他的脸，但他却丝毫不露声色。
+
+========================================================================
+>>> fatigue
+------------------------------------------------------------------------
+fatigue    [美 fəˈtiːɡ / 英 fəˈtiːɡ]
+n. 疲乏，厌倦；（金属部件的）疲劳；（士兵穿的）工作服；士兵杂役（尤指作为惩罚,如做打扫、帮厨）
+v. 使疲劳，使劳累
+adj. 疲劳的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Fatigue is a feeling of extreme physical or mental tiredness. 疲惫
+   ≫   She continued to have severe stomach cramps, aches, fatigue, and depression.  她仍有严重的胃痉挛、疼痛、疲惫和抑郁症状。
+2. (N-UNCOUNT) You can say that people are suffering from a particular kind of fatigue when they have been doing something for a long time and feel they can no longer continue to do it. 疲乏
+   ≫   ...compassion fatigue caused by endless TV and celebrity appeals.  …电视和名人无休止的呼吁所引起的怜悯疲劳。
+3. (N-UNCOUNT) Fatigue in metal or wood is a weakness in it that is caused by repeated stress. Fatigue can cause the metal or wood to break. (金属、木材的) 疲劳
+   ≫   The problem turned out to be metal fatigue in the fuselage.  问题原来出在机身的金属疲劳。
+4. (N-PLURAL) Fatigues are clothes that soldiers wear when they are fighting or when they are doing routine jobs. 军服
+   ≫   He never expected to return home wearing combat fatigues.  他从未想到会穿着作战服回家。
+
+========================================================================
+>>> fuselage
+------------------------------------------------------------------------
+fuselage    [美 ˈfjuːsəlɑːʒ / 英 ˈfjuːzəlɑːʒ]
+n. [航] 机身（飞机）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The fuselage is the main body of an aeroplane, missile, or rocket. It is usually cylindrical in shape. (飞机、火箭的) 机身; (导弹的) 弹身
+   ≫   The force of the impact ripped apart the plane's fuselage.  冲击力使该飞机的机身断裂了。
+
+========================================================================
+>>> ripped apart
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：26878
+ripped apart
+彻底摧毁：将某物完全撕成碎片而毁坏。 严厉批评：以非常严厉、愤怒的方式批评（某人或某事物），特别是描述其弱点、缺陷等。
+
+========================================================================
+>>> episodic
+------------------------------------------------------------------------
+episodic    [美 ˌepɪˈsɑːdɪk / 英 ˌepɪˈsɒdɪk]
+adj. 由一系列独立部分（或事件）组成的；偶然发生的；（电视、小说等）连载的；暂时的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is episodic occurs at irregular and infrequent intervals. 偶然发生的; 不定期的 [正式]
+   ≫   ...episodic attacks of fever.  ...不定期的发烧。
+
+========================================================================
+>>> episode
+------------------------------------------------------------------------
+episode    [美 ˈepɪsoʊd / 英 ˈepɪsəʊd]
+n. 一段经历，一段时期；（电视剧或广播剧的）集，一集；疾病的发作，发病；插句，插段；（希腊悲剧中）两段合唱之间的部分
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to an event or a short period of time as an episode if you want to suggest that it is important or unusual, or has some particular quality. 事件; 经历
+   ≫   This episode is bound to be a deep embarrassment for Washington.  这一事件必然使华盛顿大为尴尬。
+2. (N-COUNT) An episode of something such as a series on television or a story in a magazine is one of the separate parts in which it is broadcast or published. (电视连续剧的) 集; (连载小说的) 节
+   ≫   The final episode will be shown next Sunday.  最后一集将于下周日播放。
+
+========================================================================
+>>> methylcytosine
+------------------------------------------------------------------------
+methylcytosine    [英 meθɪlˈsɪtəʊzɪn]
+甲基胞嘧啶
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Much is known about the "fifth base, " 5-methylcytosine, which arises when a chemical tag or methyl group is tacked onto a cytosine. 此前，科学家们已对第5种碱基有所了解——当一个化学标签或甲基被固定到一个胞嘧啶上时，第5种碱基就会出现。
+
+========================================================================
+>>> buddyfight
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fateland
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> jagged
+------------------------------------------------------------------------
+jagged    [美 ˈdʒæɡɪd / 英 ˈdʒæɡɪd]
+adj. 锯齿状的；参差不齐的
+v. 使成缺口；使成锯齿状（jag 的过去式）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is jagged has a rough, uneven shape or edge with lots of sharp points. 锯齿状的
+   ≫   ...jagged black cliffs.  …嶙峋的黑色峭壁。
+
+========================================================================
+>>> jagged peaks
+------------------------------------------------------------------------
+jagged peaks
+嶙峋的山峰：形状不规则、边缘锯齿状的山峰。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The jagged peaks of the Verras become covered with snow during the first cold days of October. 每年十月，当最初的寒流来到的时候，威拉嶙峋的山峰，便盈满了白雪。
+≫   In the north (right), the cloud cover is less uniform, with scattered clouds creating jagged peaks in the profile. 在北方(图中右侧)，云盖更加凌乱，云的散射使大气廓线中的峰值参差不齐。
+≫   In this sedate garrison town ringed by jagged peaks, the gentle thrum of the day is usually reduced to a whisper by night. 在这个群峰环绕、安详的卫戍小镇上，白天温柔的声响总是变成夜间温柔的窃窃私语。
+
+========================================================================
+>>> meadow
+------------------------------------------------------------------------
+meadow    [英 ˈmedəʊ / 美 ˈmedoʊ]
+n. 草地，牧场；河边低洼地
+【名】 （Meadow）（英）梅多（人名）
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A meadow is a field which has grass and flowers growing in it. 草地
+
+========================================================================
+>>> tundra
+------------------------------------------------------------------------
+tundra    [英 ˈtʌndrə / 美 ˈtʌndrə]
+n. [生态] 苔原；[地理] 冻原；冻土地带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tundra is one of the large flat areas of land in the north of Europe, Asia, and America. The ground below the top layer of soil is always frozen and no trees grow there. 冻原
+
+========================================================================
+>>> lukewarm
+------------------------------------------------------------------------
+lukewarm    [美 ,lʊk'wɔm / 英 'luːkwɔːm; luːk'wɔːm; lj-]
+adj. 冷淡的；微温的；不够热心的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something, especially a liquid, that is lukewarm is only slightly warm. (尤指液体) 微温的
+   ≫   Wash your face with lukewarm water.  用温水洗脸。
+2. (ADJ) If you describe a person or their attitude as lukewarm, you mean that they are not showing much enthusiasm or interest. 不热情的; 不感兴趣的
+   ≫   Economists have never been more than lukewarm toward him.  经济学家们从未对他有过多少兴趣。
+
+========================================================================
+>>> luke
+------------------------------------------------------------------------
+luke    [英 lu:k / 美 luːk]
+n. 卢克（男子名）；路加（基督教早期信徒之一）；路加福音
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a fellow worker of Paul and a physician (Colossians 4:14). Feast day: Oct 18 圣路加 [New Testament]
+
+========================================================================
+>>> grove
+------------------------------------------------------------------------
+grove    [美 ɡroʊv / 英 ɡrəʊv]
+n. 树丛，小树林；果树林，果园；（用于街道名）街，路（Grove）
+【名】 （Grove）格鲁夫（人名）
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grove is a group of trees that are close together. 树丛 [usu with supp]
+   ≫   ...an olive grove.  …一片橄榄树丛。
+
+========================================================================
+>>> cherry grove
+------------------------------------------------------------------------
+Cherry Grove
+n. 切里格罗夫（美国地名）
+
+========================================================================
+>>> cherry grove
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：27967
+cherry grove
+n. 切里格罗夫（美国地名）
+
+========================================================================
+>>> snowy slopes
+------------------------------------------------------------------------
+snowy slopes
+雪山斜坡：指满布积雪的山坡，通常用于滑雪或滑板等冬季运动。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The robot can automatically stride across ice crevasses and snowy slopes, Qin said. 这个机器人可以自动跨越冰缝和雪坡。
+≫   He hands me a picture of a robust young climber standing on the mountain's snowy slopes, looking fit and determined. 照片上一个强健的年轻的登山者站在有积雪的雪山斜坡之上，看起来坚定而有力。
+≫   The contrast between the soft, gentle, snowy slopes and the sharp, jagged black peaks makes me feel both seduced and afraid, which is surely how a mountain climber must feel. 柔软的，温和的，雪白嫩滑的斜坡和陡峭的，锯齿般锋利的山峰形成的鲜明对比，让我感觉到即充满诱惑又危机四伏，这个就是每一个登山者切身的感受。
+
+========================================================================
+>>> slopes
+------------------------------------------------------------------------
+slopes    [美 sloʊps / 英 sləʊps]
+n. 倾斜，斜坡；[数]斜率；山坡翱（slope 的复数形式）
+★★ CET4 TEM4 sloping,sloped,slopes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A slope is the side of a mountain, hill, or valley. (山丘或山谷的) 斜坡
+   ≫   Saint-Christo is perched on a mountain slope.  圣克里斯托坐落在山坡上。
+2. (N-COUNT) A slope is a surface that is at an angle, so that one end is higher than the other. 斜面
+   ≫   The street must have been on a slope.  那条街一定是一直在一个斜坡上。
+3. (V-I) If a surface slopes, it is at an angle, so that one end is higher than the other. 倾斜
+   ≫   The bank sloped down sharply to the river.  那座堤岸陡峭地朝着那条河倾斜下去。
+4. (ADJ) sloping ADJ 倾斜的
+   ≫   ...a brick building, with a sloping roof.  …一幢斜顶的砖建筑。
+5. (V-I) If something slopes, it leans to the right or to the left rather than being upright. 歪斜
+   ≫   The writing sloped backwards.  那字迹向后斜了。
+6. (N-COUNT) The slope of something is the angle at which it slopes. 斜度; 坡度
+   ≫   The slope increases as you go up the curve.  你顺着那条弯路往上走，坡度越来越大。
+
+========================================================================
+>>> windswept
+------------------------------------------------------------------------
+windswept    [美 ˈwɪndswept / 英 ˈwɪndswept]
+adj. 被风吹的；暴露在风中的；风刮的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A windswept place has no shelter and is not protected against strong winds. 受风吹的
+   ≫   ...the remote and windswept hillside.  ...偏僻的向风山坡。
+
+========================================================================
+>>> taiga
+------------------------------------------------------------------------
+taiga    [美 ˈtaɪɡə / 英 ˈtaɪɡə]
+n. 针叶树林地带；泰加群落（森林）；泰加林，北方针叶林
+n. （Taiga）（英、日、美等）大贺（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the coniferous forests extending across much of subarctic North America and Eurasia, bordered by tundra to the north and steppe to the south 针叶林
+
+========================================================================
+>>> plateau
+------------------------------------------------------------------------
+plateau    [美 plæˈtoʊ / 英 ˈplætəʊ]
+n. 高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘
+v. （在一段时间的发展之后）趋于平稳，进入停滞期
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plateau is a large area of high and fairly flat land. 高原
+   ≫   A broad valley opened up leading to a high, flat plateau of cultivated land.  一个宽阔的山谷展开，通向一片平坦的高原耕地。
+2. (N-COUNT) If you say that an activity or process has reached a plateau, you mean that it has reached a stage where there is no further change or development. (不再有变化或进展的) 稳定阶段
+   ≫   The U.S. heroin market now appears to have reached a plateau.  美国的海洛因市场目前似乎已进入了一个稳定阶段。
+
+========================================================================
+>>> dripstone
+------------------------------------------------------------------------
+dripstone    [英 ˈdrɪpstəʊn]
+n. [建] 滴水石；石笋
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the form of calcium carbonate existing in stalactites or stalagmites 钟乳石
+
+========================================================================
+>>> lush
+------------------------------------------------------------------------
+lush    [美 lʌʃ / 英 lʌʃ]
+adj. 茂盛的，郁郁葱葱的；豪华的，奢侈的；性感的，迷人的；（色彩，音乐）非常华丽的，赏心悦目的
+n. <非正式>酒鬼；酒
+v. 喝（酒等液体）
+【名】 （Lush）（英）勒什（人名）
+★ TEM8 lusher,lushest,lushes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Lush fields or gardens have a lot of very healthy grass or plants. 茂盛的
+   ≫   ...the lush green meadows bordering the river.  …河边青葱翠绿的草地。
+2. (ADJ) If you describe a place or thing as lush, you mean that it is very luxurious. 豪华的 [v-link ADJ]
+   ≫   The Carlton-intercontinental hotel is lush, plush, and very non- backpacker.  卡尔顿洲际酒店豪华舒适，背包徒步旅行者是绝对住不起的。
+3. (N-COUNT) If you describe someone as a lush, you mean that they drink too much alcohol. 酒鬼
+
+========================================================================
+>>> crimson
+------------------------------------------------------------------------
+crimson    [美 ˈkrɪmz(ə)n / 英 ˈkrɪmz(ə)n]
+adj. 深红色的；（脸）通红的
+n. 深红色
+v. （尤指因尴尬）（脸）变红；（使）深红
+n. （Crimson）（美）克里姆荪（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is crimson is deep red in colour. 深红色的
+   ≫   ...a mass of crimson flowers.  …一团深红色的花。
+
+========================================================================
+>>> warped
+------------------------------------------------------------------------
+warped    [英 wɔːpt / 美 wɔːrpt]
+adj. 弯曲的；反常的
+v. 弄歪（warp 的过去式和过去分词）
+★ CET6+ TEM8 warping,warped,warps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something warps or is warped, it becomes damaged by bending or curving, often because of the effect of heat or water. (尤指因受潮、受热而) 翘曲
+   ≫   Left out in the heat of the sun, tapes easily warp or get stuck in their cases.  放在太阳底下暴晒后，磁带容易翘曲变形或卡带。
+
+========================================================================
+>>> basalt
+------------------------------------------------------------------------
+basalt    [美 bəˈsɔːlt / 英 ˈbæsɔːlt]
+n. [岩]玄武岩；黑陶器
+n. （Basalt）人名；（西）巴萨尔特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Basalt is a type of black rock that is produced by volcanoes. 玄武岩
+
+========================================================================
+>>> deltas
+------------------------------------------------------------------------
+deltas    [美 ˈdeltəz]
+n. （河流的）三角洲（delta的复数）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A delta is an area of low, flat land shaped like a triangle, where a river splits and spreads out into several branches before entering the sea. (河流的) 三角洲
+   ≫   ...the Mississippi delta.  …密西西比河三角洲。
+
+========================================================================
+>>> legacy
+------------------------------------------------------------------------
+legacy    [英 ˈleɡəsi / 美 ˈleɡəsi]
+n. 遗产，遗赠物；遗留问题，后遗症
+adj. （软件或硬件）已过时但因使用范围广而难以替代的
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+
+========================================================================
+>>> tundra
+------------------------------------------------------------------------
+tundra    [美 ˈtʌndrə / 英 ˈtʌndrə]
+n. [生态] 苔原；[地理] 冻原；冻土地带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tundra is one of the large flat areas of land in the north of Europe, Asia, and America. The ground below the top layer of soil is always frozen and no trees grow there. 冻原
+
+========================================================================
+>>> rain forest
+------------------------------------------------------------------------
+rain forest
+雨林：年降雨量至少为100英寸（254厘米）的热带森林，由高大的阔叶常绿树木形成连续的树冠层。
+★ alsorainforest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A rain forest is a thick forest of tall trees which is found mainly in tropical areas where there is a lot of rain. 热带雨林
+   ≫   ...the destruction of the Amazon rain forest.  …对亚马逊河流域热带雨林的破坏。
+
+========================================================================
+>>> seasonal forest
+------------------------------------------------------------------------
+seasonal forest
+季节性森林
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Monoecy was significantly associated with the tree growth form and was relatively common in seasonal forest vegetation. 雌雄同株异花与乔木生活型显著相关并在季节性雨林植被中相对普遍。
+≫   Dried bamboo shoot workshop, Mid-Hill Pavilion, Ganxianliao, Bamboo Cultural Park, seasonal forest and wild fruit forest have been renovated. 修复竹笋干作坊、半山亭、干仙寮等景物竹、文化园、季相林营造、野果林保护等项目；
+≫   If one focuses on the wet months, one calls the Maya homeland a "seasonal tropical forest"; if one focuses on the dry months, one could instead describe it as a "seasonal desert". 如果一个人侧重雨季，就会把玛雅故土称为“季节性热带森林”；而如果侧重旱季，就可以把它描述为“季节性沙漠”。
+
+========================================================================
+>>> ice desert
+------------------------------------------------------------------------
+ice desert
+冰漠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It's possible that rain on the desert floor could turn to thin sheets of ice when temperatures drop at night. 当夜间气温下降时，沙漠地面上的雨水有可能变成薄冰。
+≫   Almost nothing grows on their land; their animals graze on desert bushes; the people mine ingots of salt from what looks like shimmering pack ice. 他们的土地几乎寸草不生；他们在沙漠荒野里放牧牲口；人们从看上去像闪光的浮冰的物质中提炼盐块。
+≫   The tropics could find themselves frozen under ice, and Antarctica would be transformed into a vast desert. 热带地区是一片冰天雪地，而南极则会变成无际的沙漠。
+
+========================================================================
+>>> shrubland
+------------------------------------------------------------------------
+shrubland    [美 ʃˈrʌblænd / 英 ˈʃrʌblænd]
+n. 灌木地；灌丛带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Once is established, shrubland thrives, particularly in the Arctic, because Arctic shrubs are good at taking advantage of increased nutrients in the soil, better than other Arctic plants. 一旦扎根土壤，灌木林地就会生长茂盛，特别是在北极地区，因为北极地区的灌木丛比其他植物更善于利用土壤中的营养成分。
+≫   Shrubland is the typical degraded ecosystems in the Three Gorges Region. 灌丛是三峡地区典型的退化生态系统类型。
+≫   The answer seems to be to pick your cleared area carefully. For best results you need patches of shrubland in the middle of open fields. 答案关键看来是得细心挑选荒地，其间要有灌木丛才能达到最佳效果。
+
+========================================================================
+>>> porkchop
+------------------------------------------------------------------------
+porkchop    [英 ˈpɔːktʃɒp]
+n. 猪排
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Doctor Porkchop is attacking the haunted bakery! 猪排博士正在袭击闹鬼的面包店！
+≫   The food of the launch was porkchop and other refreshments such as cakes and cola. 餐点主要是猪排，以及一些餐前餐后点心，例如蛋糕，可乐等。
+≫   The effects of different cooking technologies on nutrients of porkchop soup were studied, and which provided datas for technologies of cooking soup. 研究工艺参数对猪排汤营养成分的影响，为制汤工艺提供实验数据。
+
+========================================================================
+>>> steak
+------------------------------------------------------------------------
+steak    [英 steɪk / 美 stek]
+n. 牛排；肉排；鱼排
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A steak is a large flat piece of beef without much fat on it. You cook it by grilling or frying it. 牛排
+   ≫   ...a steak sizzling on the grill.  …一块儿在烤架上滋滋作响的牛排。
+2. (N-COUNT) A fish steak is a large piece of fish that contains few bones. (鱼) 排
+   ≫   ...fresh salmon steaks.  …新鲜的三文鱼排。
+
+========================================================================
+>>> rabbit stew
+------------------------------------------------------------------------
+rabbit stew
+兔肉炖菜：一种用兔肉和蔬菜炖制而成的菜肴。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   People stopped serving rabbit stew. 人们也停止了炖兔肉。
+≫   Rabbit stew is one of chef Giancarlo Moeri's signature dishes. 炖野兔是厨师詹卡洛·莫里的招牌菜之一。
+
+========================================================================
+>>> suspicious
+------------------------------------------------------------------------
+suspicious    [美 səˈspɪʃəs / 英 səˈspɪʃəs]
+adj. 感觉可疑的，怀疑的；不信任的，持怀疑态度的；令人怀疑的，引起怀疑的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are suspicious of someone or something, you do not trust them, and are careful when dealing with them. 怀疑的
+   ≫   He was rightly suspicious of meeting me until I reassured him I was not writing about him.  他对于见我充满疑虑，直到我向他再次保证我不是在写有关他的东西。
+2. (ADJ) suspiciously ADJ 怀疑地 [ADV after v]
+   ≫   "What is it you want me to do?" Adams asked suspiciously.  “你要我去干的是什么？”亚当斯怀疑地问道。
+3. (ADJ) If you are suspicious of someone or something, you believe that they are probably involved in a crime or some dishonest activity. 起疑心的
+   ≫   Two officers on patrol became suspicious of two men in a car.  两位巡警对一辆小汽车内的两名男子起了疑心。
+4. (ADJ) If you describe someone or something as suspicious, you mean that there is some aspect of them which makes you think that they are involved in a crime or a dishonest activity. 可疑的
+   ≫   He reported that two suspicious-looking characters had approached Callendar.  他报告说两名看似可疑的人曾靠近过卡兰德。
+5. (ADV) suspiciously ADV 可疑地
+   ≫   They'll question them as to whether anyone was seen acting suspiciously in the area over the last few days.  他们将询问这些人过去几天是否在该地区发现行迹可疑的人。
+
+========================================================================
+>>> beetroot
+------------------------------------------------------------------------
+beetroot    [美 ˈbiːtruːt / 英 ˈbiːtruːt]
+n. 甜菜的根
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) Beetroot is a dark red root that is eaten as a vegetable. It is often preserved in vinegar. 甜菜根 [英国英语]
+   ≫   It comes with a garnish of red beetroot, white cottage cheese and blueberries.  它配上红色甜菜头、白软干酪和蓝莓等装饰。
+
+========================================================================
+>>> beet
+------------------------------------------------------------------------
+beet    [美 biːt / 英 biːt]
+n. 甜菜；甜菜根
+vt. 生火；修理；改过
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Beet is a crop with a thick round root. 甜菜
+   ≫   ...fields of sweet corn and beet.  …甜玉米和甜菜地
+
+========================================================================
+>>> chorus
+------------------------------------------------------------------------
+chorus    [美 ˈkɔːrəs / 英 ˈkɔːrəs]
+n. 副歌，叠句；合唱团，歌咏队；齐声，异口同声；合唱歌曲；（古希腊戏剧）合唱队，解说演员；(伊丽莎白时期戏剧）旁白；乐器扩音器；（演出中伴舞的）歌舞队
+v. 齐声说，齐唱
+【名】 （Chorus）（法）肖吕斯（人名）
+★★ CET6 TEM4 chorusing,chorused,choruses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chorus is a part of a song which is repeated after each verse. 副歌
+   ≫   Caroline sang two verses and the chorus of her song.  卡罗琳唱了她歌中的两段主歌及副歌。
+2. (N-COUNT) A chorus is a large group of people who sing together. 合唱团
+   ≫   The chorus was singing "The Ode to Joy."  合唱团那时正在唱着《欢乐颂》。
+3. (N-COUNT) A chorus is a piece of music written to be sung by a large group of people. 合唱曲
+   ≫   ...the Hallelujah Chorus.  …哈利路亚合唱曲。
+4. (N-COUNT) A chorus is a group of singers or dancers who perform together in a show, in contrast to the soloists. 合唱团; 舞蹈队
+   ≫   Students played the lesser parts and sang in the chorus.  学生们扮演了一些次要角色，并参加了合唱团的演唱。
+5. (N-COUNT-COLL) In drama, a chorus is an actor or a group of actors who comment on the action of the play. (戏剧中的) 剧情解说演员
+   ≫   He decides to sort out her life for her, while a pushy Greek chorus dispenses advice from the sidelines.  他决定帮她理顺一下生活，而一位爱管闲事的希腊剧情解说演员则从旁观者的角度发表了建议。
+   ≫   ...commanding performances from Joe Savino as the chorus and Stephen Brennan as the ghost.  …由乔·萨维诺担任剧情解说演员、斯蒂芬·布伦南扮演幽灵的给人深刻印象的演出。
+6. (N-COUNT) When there is a chorus of criticism, disapproval, or praise, that attitude is expressed by a lot of people at the same time. 齐声 (批评、反对或赞扬)
+   ≫   The government is defending its economic policies against a growing chorus of criticism.  面对日益高涨的齐声批评，政府还在为其经济政策辩护。
+7. (V-T) When people chorus something, they say it or sing it together. 齐声说或唱 [书面]
+   ≫   "Hi," they chorused.  “嗨，”他们齐声说道。
+
+========================================================================
+>>> verses
+------------------------------------------------------------------------
+verses    [美 ˈvɜːrsəz]
+诗
+n. （Verses）人名；（匈）韦尔谢什
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) versed sine 正矢
+
+========================================================================
+>>> verse
+------------------------------------------------------------------------
+verse    [英 vɜːs / 美 vɜːrs]
+n. 诗，韵文；诗节，（歌曲的）节；（《圣经》或其他经文的）节，句；（赞美诗的）独唱部，小组唱部
+v. <古>作诗
+【名】 （Verse）（德）费尔泽（人名）
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Verse is writing arranged in lines that have rhythm and that often rhyme at the end. 诗; 韵文
+   ≫   I have been moved to write a few lines of verse.  我曾经被感动得写了几行诗。
+2. (N-COUNT) A verse is one of the parts into which a poem, a song, or a chapter of the Bible or the Koran is divided. 诗节; 歌曲的段落; (《圣经》、《古兰经》的) 节
+   ≫   This verse describes three signs of spring.  这节诗描述了春天的3个征兆。
+
+========================================================================
+>>> kelp
+------------------------------------------------------------------------
+kelp    [美 kelp / 英 kelp]
+n. [植]巨藻，海藻；海草灰
+vi. 烧制海草灰
+n. （Kelp）人名；（罗）凯尔普
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Kelp is a type of flat brown seaweed. 大型褐藻
+
+========================================================================
+>>> dried kelp
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> dried kelp
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：29678
+dried kelp
+干海带
+
+========================================================================
+>>> melon slice
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> melon slice
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：29829
+melon slice
+瓜切片
+
+========================================================================
+>>> poisonus
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> poisonous
+------------------------------------------------------------------------
+poisonous    [美 ˈpɔɪzənəs / 英 ˈpɔɪzənəs]
+adj. 有毒的；会产生毒素的；恶毒的，令人很不愉快的；有许多危害的，恶性的
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is poisonous will kill you or make you ill if you swallow or absorb it. (某物) 有毒的
+   ≫   All parts of the yew tree are poisonous, including the berries.  紫杉树全身都有毒，包括其果实。
+2. (ADJ) An animal that is poisonous produces a poison that will kill you or make you ill if the animal bites you. (动物) 产生毒的
+   ≫   There are hundreds of poisonous spiders and snakes.  有数百种毒蜘蛛和毒蛇。
+3. (ADJ) If you describe something as poisonous, you mean that it is extremely unpleasant and likely to spoil or destroy a good relationship or situation. 令人厌恶的; 恶毒的
+   ≫   ...poisonous comments.  …恶毒的评论。
+   ≫   ...lying awake half the night tormented by poisonous suspicions.  …半个晚上躺着都不能入眠，被恶毒的猜疑所煎熬。
+
+========================================================================
+>>> cocoa
+------------------------------------------------------------------------
+cocoa    [美 ˈkoʊkoʊ / 英 ˈkəʊkəʊ]
+n. 可可粉；可可豆；可可饮料；深褐色
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cocoa is a brown powder made from the seeds of a tropical tree. It is used in making chocolate. 可可粉
+   ≫   The Ivory Coast became the world's leading cocoa producer.  象牙海岸成了世界上领先的可可粉生产地。
+2. (N-UNCOUNT) Cocoa is a hot drink made from cocoa powder and milk or water. 热巧克力
+   ≫   ...a cup of cocoa.  …一杯热巧克力。
+
+========================================================================
+>>> cocoa beans
+------------------------------------------------------------------------
+cocoa beans
+可可豆：一种南美热带常绿树果实的干燥、发酵、富含脂肪的种子，用于制作可可粉、巧克力和可可脂。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the seed of the cacao 可可豆
+
+========================================================================
+>>> nugget
+------------------------------------------------------------------------
+nugget    [美 ˈnʌɡɪt / 英 ˈnʌɡɪt]
+n. 天然金块，矿块；（某些食物）小圆块；小块东西；珍闻，珍品；
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A nugget is a small lump of something, especially gold. 小块东西(尤指小金块) [oft n N, N 'of' n]
+   ≫   ...pure high-grade gold nuggets.  ...高纯度金块。
+   ≫   ...a small nugget of butter.  ...一小块黄油。
+
+========================================================================
+>>> gold ingot
+------------------------------------------------------------------------
+gold ingot
+金锭：一种金属制品，通常为长方形，用于储存和交易黄金。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Also, the shape of the dumpling is like gold ingot from ancient China. 同时， ，面团布丁的形状像来自远古的中国的金色的锭。
+≫   Also, the shape of the dumpling is like gold ingot from ancient China. 此外，饺子的形状就像是从中国古代的金元宝。
+≫   You said a moment ago you would charge me half price. I have returned one gold ingot to you. 你刚说只收半价，我已还你一个金锭，不就抵了半价吗？
+
+========================================================================
+>>> gold nugget
+------------------------------------------------------------------------
+gold nugget
+金块：天然出现的金块。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I thought that I would find a gold nugget and make my family rich. 我想我会找到天然金块，使我们家富起来。
+≫   Gold nugget is a kind of gold produced through mining, and of irregular shape. “狗头金”一般由挖矿时被发现，是一种形状不规则的金块。
+≫   Gold; but most known for this kind of natural gold nugget. A nugget of gold are mostly produced in the vicinity. 金；但多数通称这种天然块金为狗头金。狗头金大多产于金矿附近。
 
