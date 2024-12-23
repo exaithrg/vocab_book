@@ -38728,3 +38728,9 @@ n. 锭；铸块
 1. (N-COUNT) An ingot is a lump of metal, usually shaped like a brick. 铸块; 锭 [oft n N]
    ≫   ...gold ingots.  ...金锭。
 
+========================================================================
+>>> dimensity
+------------------------------------------------------------------------
+dimensity
+n. <旧>尺寸，范围（同 dimension）
+
