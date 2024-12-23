@@ -738,6 +738,15 @@ n. 蔓越橘（cranberry的复数）
 1. [usu pl, oft N n] Cranberries are red berries with a sour taste. They are often used to make juice, or a sauce or jelly that you eat with meat. 小红莓
 
 ========================================================================
+>>> tangerine
+------------------------------------------------------------------------
+tangerine    [美 'tændʒə'rin / 英 tæn(d)ʒə'riːn]
+n. 橘子
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tangerine is a small sweet orange. 蜜橘
+
+========================================================================
 >>> nectarines
 ------------------------------------------------------------------------
 nectarines    ['nektərin; ,nektə'ri:n]
@@ -37827,4 +37836,581 @@ adj. 洋红色的；品红色的
 n. (Magenta)人名；(意)马真塔
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (COLOR) Magenta is used to describe things that are dark reddish purple in colour. 紫红色
+
+========================================================================
+>>> examiee
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> examine
+------------------------------------------------------------------------
+examine    [英 ɪg'zæmɪn; eg- / 美 ɪg'zæmɪn]
+vt. 检查；调查； 检测；考试
+vi. 检查；调查
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you examine something, you look at it carefully. 仔细检查
+   ≫   He examined her passport and stamped it.  他仔细检查了她的护照，然后在上面盖了章。
+2. (N-VAR) examination 仔细检查
+   ≫   The navy is to carry out an examination of the wreck tomorrow.  海军明天将会对失事船只作仔细检查。
+3. (V-T) If a doctor examines you, he or she looks at your body, feels it, or does simple tests in order to check how healthy you are. 诊察
+   ≫   Another doctor examined her and could still find nothing wrong.  另一个医生对她进行了检查，仍然找不出任何毛病。
+4. (N-VAR) examination 诊察
+   ≫   He was later discharged after an examination at the hospital.  后来他在医院做过检查后就出院了。
+5. (V-T) If an idea, proposal, or plan is examined, it is considered very carefully. 审查
+   ≫   The plans will be examined by officials.  这些计划将由官员们审查。
+6. (N-VAR) examination 审查
+   ≫   The government said it was studying the implications, which "required very careful examination and consideration."  政府称正在对可能的影响进行研究，而这“需要仔细的审查和考虑”。
+7. [usu passive] If you are examined, you are given a formal test in order to show your knowledge of a subject. 考试
+   ≫   ...learning to cope with the pressures of being judged and examined by our teachers.  …学会应付被老师们评价和考试所带来的压力。
+
+========================================================================
+>>> examinee
+------------------------------------------------------------------------
+examinee    [美 ɪɡˌzæmɪˈniː / 英 ɪɡˌzæmɪˈniː]
+n. 应试人，参加考试者；受检查（或审查、查询的人）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An examinee is someone who is taking an exam. 考生 [正式]
+
+========================================================================
+>>> dim sum
+------------------------------------------------------------------------
+dim sum    [美 ˌdɪm ˈsʌm / 英 ˌdɪm ˈsʌm]
+点心：指一种包括各种蒸或炸食物的中国小吃或小菜。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Dim sum is a Chinese dish of dumplings filled with meat or other ingredients. (中国饺子等的)点心
+   ≫   ...huge portions of dim sum.  ...大量的点心。
+
+========================================================================
+>>> ingredients
+------------------------------------------------------------------------
+ingredients    [美 ɪn'ɡridɪənts / 英 ɪn'griːdɪənts]
+n. 材料；佐料
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Ingredients are the things that are used to make something, especially all the different foods you use when you are cooking a particular dish. (尤指烹调用的) 原料
+   ≫   Mix in the remaining ingredients.  掺入剩下的原料。
+2. (N-COUNT) An ingredient of a situation is one of the essential parts of it. 要素
+   ≫   The meeting had all the ingredients of high political drama.  这次会议拥有了极富戏剧性的政治紧张场面的全部要素。
+
+========================================================================
+>>> backed goods
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> backed goods
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1755
+backed goods
+支持商品
+
+========================================================================
+>>> baked goods
+------------------------------------------------------------------------
+baked goods    [美 beɪkt ɡʊdz]
+烘焙食品：指从面团或糊状物制成并烘烤的食品，如面包、蛋糕或饼干等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The trans fats from margarine, shortenings, and deep-fried foods and a lot of fast foods and baked goods have a negative impact on health. 反式脂肪可以在人造黄油、起酥油和油炸食品以及许多快餐和烘焙食品中找到，它对健康有负面影响。
+≫   Stores notice that the smell of baked goods encourages shopping, so they make their own bread each morning and then fan the bread smell into the store throughout the day. 一些商店注意到烘焙食品的香味会刺激人们的购买欲，所以他们每天早上自己做面包，然后一整天都会让面包的香味散发在店里。
+≫   In baked goods, use canola oil. 烘焙食物时，可使用蓖麻油。
+
+========================================================================
+>>> baozi
+------------------------------------------------------------------------
+Baozi
+n. 包子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Have you tasted baozza, a mixture of pizza and baozi? 你尝过比萨跟包子结合起来的包萨吗？
+≫   Thousands of baozza will be madeat a baozi factory in Yang zhou each day next month. 扬州的一家包子工厂将每天生产数千个包萨。
+≫   Their names were Shang , Tao and Baozi. 他们的名字叫做汤，桃和包子。
+
+========================================================================
+>>> baozza
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> steamed bun
+------------------------------------------------------------------------
+steamed bun    [美 stiːmd bʌn]
+蒸包子：一种用面粉和酵母发酵后制成的食品，通常在蒸锅中蒸熟，可以加入各种馅料，如肉、蔬菜等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Where do you buy these delicious steamed bun? 你在哪里买到这些好吃的馒头？
+≫   The two-year-old girl slapped jam on the steamed bun. 这个两岁的小女孩往馒头上涂了许多果酱。
+≫   Since steamed bun are standardized, what is local agency waiting for? 馒头都标准化了，本土广告公司还等什么？
+
+========================================================================
+>>> bao
+------------------------------------------------------------------------
+bao    [bao]
+n. 非洲石子游戏棋
+n. (Bao)人名；(中)包(广东话·威妥玛)；(塞拉)巴奥；(日)番长(姓)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Chinese spokesman said Bao only began feeling ill on his flight from Beijing to Chengdu, and went directly to a hospital in Chengdu after landing. 这位卫生部发言人说包是在从北京到成都的航班上才开始感觉不舒服的，并在着陆后兆直接去了成都的医院。
+≫   "Our society has produced plenty of technicians who possess both professional skills and knowledge, but who lack a proper cultural sensitivity" said Bao. 鲍还说：“我们社会已经有很多的技术人员，他们拥有专业技术和知识，但却缺乏适当的文化敏感性。”
+≫   But Ms. Bao decided on a destination that would keep her closer to home and cost substantially less, while giving her the chance to improve her English and converse with Chinese speakers. 但鲍女士决定去一个离家更近，而且价格较为适中的地方，而且在那个地方，她不仅有机会改进自己的英语水平，还可以与讲中文的人交流。
+
+========================================================================
+>>> pork bao
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pork bao
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1996
+pork bao
+猪肉包
+
+========================================================================
+>>> vegetable bao
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2042
+vegetable bao
+蔬菜包
+
+========================================================================
+>>> jiaozi
+------------------------------------------------------------------------
+jiaozi
+n. 饺子
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   When did Chinese people probably begin to have jiaozi? 中国人大概是什么时候开始吃饺子的？
+≫   There is a large bowl of jiaozi on the table. 桌子上有一大碗饺子。
+≫   Why do people choose to eat jiaozi on New Year's Eve? 为什么人们选择在除夕吃饺子？
+
+========================================================================
+>>> dumpling
+------------------------------------------------------------------------
+dumpling    [美 'dʌmplɪŋ / 英 'dʌmplɪŋ]
+n. 饺子，汤团；面团布丁
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Dumplings are small lumps of dough that are cooked and eaten, either with meat and vegetables or as a fruit-filled dessert. 饺子; 水果布丁
+
+========================================================================
+>>> boiled dumpling
+------------------------------------------------------------------------
+boiled dumpling    [美 bɔɪld ˈdʌmplɪŋ]
+水饺：一种传统的中国食物，由面粉皮包裹馅料，然后在沸水中煮熟。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Take your boiled dumpling today. 今天来拿你的水饺。
+≫   Dumpling boiled dumplings, after mother put out. 饺子煮好以后，妈妈把饺子捞出来。
+≫   This paper introduces main structure, operate principle of a new-type boiled dumpling making machine. 该文简述一种新型水饺机的主要结构和工作原理。
+
+========================================================================
+>>> pan-fried dumpling
+------------------------------------------------------------------------
+pan-fried dumpling
+锅贴
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Also surprising were some appetizers: an order of six steamed pork dumplings has 500 calories, and there's not much difference, about 10 calories per dumpling, if they're pan-fried. 另一个让人惊讶的是饭前甜点：一套6个蒸猪肉馅饺子有500卡路里，如果是平锅煎制的，则差不多每个饺子里有10卡路里。
+
+========================================================================
+>>> mantou
+------------------------------------------------------------------------
+mantou
+n.馒头（中国传统食物）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I usually eat porridge and mantou (steamed buns) and save the rest of my money. 我一般喝粥吃馒头，然后把剩下的钱存起来。
+≫   The next day, Mei Ling cleaned the shop and made a lot of mantou to sell in the shop. 第二天，美玲打扫了店铺并且做了很多馒头在店里卖。
+≫   For breakfast, Chinese people generally eat porridge, mantou (steamed bun), or pancakes. 早餐，中国人一般喝粥，吃馒头，或薄煎饼。
+
+========================================================================
+>>> steamed bread
+------------------------------------------------------------------------
+steamed bread    [美 stiːmd bred]
+蒸面包：一种通过蒸而不是烘烤制作的面包。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The steamed bread is very fluffy. 馒头很暄。《新英汉大辞典》
+≫   Put the steamed bread over the fire for a while. 把馒头在火上嘘一嘘。《新英汉大辞典》
+≫   Are we going to have rice or steamed bread? —吃米饭还是吃馒头？
+
+========================================================================
+>>> guotie
+------------------------------------------------------------------------
+guotie
+n. 锅贴
+
+========================================================================
+>>> potsticker
+------------------------------------------------------------------------
+potsticker
+n. 锅贴，煎饺
+
+========================================================================
+>>> shaobing
+------------------------------------------------------------------------
+shaobing
+n. 烧饼（一种中国特色面饼）
+
+========================================================================
+>>> burnt cake
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> burnt cake
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2405
+burnt cake
+烧焦的蛋糕
+
+========================================================================
+>>> cripsy
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> crispy
+------------------------------------------------------------------------
+crispy    [英 'krɪspɪ / 美 'krɪspi]
+adj. 酥脆的；易碎的；干净利落的；生气勃勃的
+n. (Crispy)人名；(法)克里斯皮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] Food that is crispy is pleasantly hard, or has a pleasantly hard surface. 酥脆的
+   ≫   ...crispy fried onions.  ...炸得酥脆的洋葱。
+   ≫   ...crispy bread rolls.  ...酥脆的面包卷。
+
+========================================================================
+>>> flatbread
+------------------------------------------------------------------------
+flatbread    [美 ˈflætbred / 英 ˈflætbred]
+小面包干
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a type of thin unleavened bread 薄松饼
+
+========================================================================
+>>> sesame shaobing
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2539
+sesame shaobing
+芝麻哨兵
+
+========================================================================
+>>> Rou Huoshao
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2585
+Rou Huoshao
+肾阳Huoshao
+
+========================================================================
+>>> Meat Pie
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2629
+Meat Pie
+含肉馅饼：一种含有肉的馅饼，通常作为外卖小吃食用。
+
+========================================================================
+>>> pastries
+------------------------------------------------------------------------
+pastries    [英 'peistriz /  'peistriz]
+n. 点心；甜点；酥皮糕点（pastry的复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Pastry is a food made from flour, fat, and water that is mixed together, rolled flat, and baked in the oven. It is used, for example, for making pies. 油酥面团
+2. (N-COUNT) A pastry is a small cake made with sweet pastry. 油酥糕点
+   ≫   ...a wide range of cakes and pastries.  …各种各样的蛋糕和油酥糕点。
+
+========================================================================
+>>> dim sum
+------------------------------------------------------------------------
+dim sum    [美 ˌdɪm ˈsʌm / 英 ˌdɪm ˈsʌm]
+点心：指一种包括各种蒸或炸食物的中国小吃或小菜。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Dim sum is a Chinese dish of dumplings filled with meat or other ingredients. (中国饺子等的)点心
+   ≫   ...huge portions of dim sum.  ...大量的点心。
+
+========================================================================
+>>> spring rools
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> spring rolls
+------------------------------------------------------------------------
+spring rolls
+春卷：一种中国食品，通常由蔬菜、肉类和面条混合物包裹在薄饼皮中，然后油炸或蒸煮而成。通常作为开胃菜或小吃食用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A spring roll is a Chinese food consisting of a small roll of thin pastry filled with vegetables and sometimes meat, and then fried. 春卷
+
+========================================================================
+>>> fried spring rolls
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2841
+fried spring rolls
+炸春卷：一种传统的亚洲食品，通常由蔬菜、肉类和其他馅料制成，然后包裹在薄饼皮中，再炸至金黄色。
+
+========================================================================
+>>> tangyuan
+------------------------------------------------------------------------
+tangyuan
+n.汤圆（一种由糯米制成的中国传统食品）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In northern China, they are called yuanxiao while in southern part they're named tangyuan. 在中国北方，它们被称为元宵，而在南方，它们被称为汤圆。
+≫   Tangyuan send you sweet happiness! 汤圆给你送来甜蜜的幸福！
+≫   Tangyuan can be boiled, Fried or steamed. 汤圆可以煮、炸或者蒸来吃。
+
+========================================================================
+>>> glutinous
+------------------------------------------------------------------------
+glutinous    [美 'ɡlutənəs / 英 'gluːtɪnəs]
+adj. 粘的；粘性的；胶状的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is glutinous is very sticky. 粘质的
+   ≫   The sauce was glutinous and tasted artificial.  这种粘酱尝起来感觉不自然。
+   ≫   ...soft and glutinous mud.  ...柔软粘稠的泥巴。
+
+========================================================================
+>>> glutinous rice balls
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2960
+glutinous rice balls
+汤圆
+
+========================================================================
+>>> sweet rice dumplings
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3014
+sweet rice dumplings
+汤圆：一种传统的中国甜点，由糯米粉制成，通常在冬至和元宵节食用。
+
+========================================================================
+>>> Char Siu Bao
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3077
+Char Siu Bao
+叉烧包
+
+========================================================================
+>>> BBQ Pork Bun
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3122
+BBQ Pork Bun
+叉烧包
+
+========================================================================
+>>> Har Gow
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3162
+Har Gow
+虾饺：一种广东省特色的点心，主要由虾仁、薄皮和其他配料制成。
+
+========================================================================
+>>> Shrimp Dumpling
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3218
+Shrimp Dumpling
+虾饺：一种广东传统点心，由虾肉和面粉制成，通常蒸熟后食用。
+
+========================================================================
+>>> Phoenix Claws
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3264
+Phoenix Claws
+凤凰爪子
+
+========================================================================
+>>> claws
+------------------------------------------------------------------------
+claws    [美 klɔz / 英 klɔːz]
+n. 爪子（claw的复数）
+v. （用爪或钳）抓（claw的第三人称单数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The claws of a bird or animal are the thin, hard, curved nails at the end of its feet. (鸟、动物的) 爪
+   ≫   The cat tried to cling to the edge by its claws.  那只猫试图用爪子抓紧边沿。
+2. (N-COUNT) The claws of a lobster, crab, or scorpion are the two pointed parts at the end of its legs which are used for holding things. (龙虾、蟹、蝎的) 钳子
+3. (V-I) If an animal claws at something, it scratches or damages it with its claws. (用爪) 抓
+   ≫   The wolf clawed at the tree and howled the whole night.  那只狼在那颗树上抓挠，还嗥叫了整整一个晚上。
+4. (V-I) To claw at something mean to try very hard to get hold of it. 用力抓住
+   ≫   His fingers clawed at Blake's wrist.  他的手指使劲抓住布莱克的手腕。
+5. (V-T) If you claw your way somewhere, you move there with great difficulty, trying desperately to find things to hold on to. (抓着东西艰难地) 挪到
+   ≫   From the flooded depths of the ship, some did manage to claw their way up iron ladders to the safety of the upper deck.  从被洪水淹了的船的深处，一些人着实艰难地爬上铁梯来到上层甲板的安全处。
+
+========================================================================
+>>> Steamed Chicken Feet
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3356
+Steamed Chicken Feet
+蒸凤爪
+
+========================================================================
+>>> tart
+------------------------------------------------------------------------
+tart    [美 tɑrt / 英 tɑːt]
+adj. 酸的；锋利的；尖刻的
+n. 果馅饼；妓女
+vt. 打扮
+n. (Tart)人名；(英)塔特
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A tart is a shallow pastry case with a filling of food, especially sweet food. (尤指甜心) 馅饼
+   ≫   ...apple tarts.  …苹果馅饼。
+2. (ADJ) If something such as fruit is tart, it has a sharp taste. (水果等) 味道浓烈的
+   ≫   The blackberries were too tart on their own, so we stewed them gently with some apples.  黑莓本身的味道太浓烈，所以我们加些苹果将其稍稍炖一下。
+3. (ADJ) A tart remark or way of speaking is sharp and unpleasant, often in a way that is a little cruel. (言辞) 尖刻的
+   ≫   The words were more tart than she had intended.  这些话比她原本意欲表达的要尖刻。
+4. [非正式，侮辱] If someone refers to a woman or girl as a tart, they are criticizing her because they think she is sexually immoral or dresses in a way that makes her look sexually immoral. 轻佻放荡的女人
+   ≫   She was very upset when he accused her of looking like a tart.  当他指责她看起来像个轻佻女人的时候，她非常沮丧。
+
+========================================================================
+>>> egg tart
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3427
+egg tart
+蛋挞：一种在香港、澳门和亚洲其他地区常见的烘烤点心，由外层酥皮包裹着蛋奶馅料制成。
+
+========================================================================
+>>> custard
+------------------------------------------------------------------------
+custard    [美 'kʌstɚd / 英 'kʌstəd]
+n. 奶油冻；奶油蛋羹
+n. (Custard)人名；(英)卡斯塔德
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Custard is a baked dessert made of milk, eggs, and sugar. 蛋奶糕
+   ≫   ...a custard with a caramel sauce.  …一份配有焦糖汁的蛋奶糕。
+2. (N-MASS) Custard is a sweet yellow sauce made from milk and eggs or from milk and a powder. It is eaten with fruit and puddings. 蛋奶沙司
+   ≫   ...bananas and custard.  …香蕉和蛋奶沙司。
+
+========================================================================
+>>> egg custard tart
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3511
+egg custard tart
+蛋挞
+
+========================================================================
+>>> malagao
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Wife Cake
+------------------------------------------------------------------------
+wife cake
+老婆饼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   My wife baked a cake yesterday. 我的妻子昨天烤了一块蛋糕。
+≫   If he eats the cake, it could kill him; if he refuses it, it will make his wife angry and she will reject him: a double bind. 如果他吃了蛋糕，它足可以要了他的命；如果他拒绝这么做，就会激怒太太而且她就会拒绝接纳他：一个双重约束。
+≫   This is a heartwarming moment: Yuan cut the first piece of cake and gave it to his wife at once. 这是一个温暖人心的时刻：袁先生切了第一块蛋糕，马上把它给了妻子。
+
+========================================================================
+>>> double bind
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3652
+double bind
+两难境地：指无论你采取什么行动，都无法避免不愉快的结果。
+
+========================================================================
+>>> Red Bean Paste
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3699
+Red Bean Paste
+红豆糊：一种甜的、可食用的糊状物，通常由红豆制成，可用于制作各种甜点和点心。
+
+========================================================================
+>>> Azuki
+------------------------------------------------------------------------
+Azuki    [英 əˈzuːkɪ]
+n. （Azuki）人名；（日）小豆（姓）
+
+========================================================================
+>>> Azuki Bean Paste
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3783
+Azuki Bean Paste
+红豆沙
+
+========================================================================
+>>> crispy flatbread
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3847
+crispy flatbread
+脆皮面包
+
+========================================================================
+>>> vessels
+------------------------------------------------------------------------
+vessels    [美 'vɛslz / 英 'ves(ə)lz]
+n. 血管（vessel的复数）；船舶；容器
+n. (Vessels)人名；(英)维瑟尔斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A vessel is a ship or large boat. 船; 舰
+   ≫   ...a New Zealand navy vessel.  …一艘新西兰海军舰艇。
+2. → see also
+
+========================================================================
+>>> vessels
+------------------------------------------------------------------------
+vessels    [美 ˈves(ə)lz / 英 ˈves(ə)lz]
+n. 血管；船舶；容器（vessel 的复数）
+n. （Vessels）维瑟尔斯（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vessel is a ship or large boat. 船; 舰 [正式]
+   ≫   ...a New Zealand navy vessel.  …一艘新西兰海军舰艇。
+
+========================================================================
+>>> Hello World
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4866
+Hello World
+你好，世界：一个用于展示编程语言基本语法和结构的示例程序。
+
+========================================================================
+>>> spurred
+------------------------------------------------------------------------
+spurred    [美 spɜːrd / 英 spɜːd]
+adj. 装有马刺的；有花距的
+v. 鞭策；教唆（spur 的过去分词）
+★★★ CET4 TEM4 spurring,spurred,spurs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing spurs you to do another, it encourages you to do it. 鼓动; 激励
+   ≫   It's the money that spurs these fishermen to risk a long ocean journey in their flimsy boats.  是金钱驱使这些渔民驾驶单薄的小船冒险出海远航。
+2. (PHRASAL VERB) Spur on means the same as . 鼓动; 激励 (同)(spur)
+   ≫   Their attitude, rather than reining him back, only seemed to spur Philip on.  他们的态度非但没令菲利普回头，似乎只是激励他继续下去。
+3. (V-T) If something spurs a change or event, it makes it happen faster or sooner. 使更快发生; 加速 [journalism]
+   ≫   The administration may put more emphasis on spurring economic growth.  政府可能会更加重视经济的加快增长。
+4. (N-COUNT) Something that acts as a spur to something else encourages a person or organization to do that thing or makes it happen more quickly. 促进因素; 推动
+   ≫   ...a belief in competition as a spur to efficiency.  …一种认为竞争能促进效率提高的观点。
+5. (PHRASE) If you do something on the spur of the moment, you do it suddenly, without planning it beforehand. 一时冲动之下
+   ≫   They admitted they had taken a vehicle on the spur of the moment.  他们承认一时冲动之下偷了一辆车。
+
+========================================================================
+>>> convolution
+------------------------------------------------------------------------
+convolution    [美 ˌkɑːnvəˈluːʃn / 英 ˌkɒnvəˈluːʃn]
+n. [数] 卷积；回旋；盘旋；卷绕
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Convolutions are curves on an object or design that has a lot of curves. 卷绕 [文学性] [usu pl]
+2. (N-VAR) You can use convolutions to refer to a situation that is very complicated. 过于复杂 [文学性] [oft N 'of' n]
+   ≫   ...the thorny convolutions of love.  ...棘手而错综复杂的爱情。
 

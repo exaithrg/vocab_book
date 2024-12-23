@@ -37996,3 +37996,647 @@ adj. 不可忽视的
 ≫   Build operations however, which often involve processing the entire content of a rule project will take a non-negligible amount of time to be performed. 然而，构建操作系统(通常涉及到处理一个规则项目的全部内容)需要花费大量的时间。
 ≫   As the motorcycle amount increases continuously, the tail gas pollution of motorcycle becomes a non-negligible part of the tail gas pollution from city vehicles. 随着我国国民摩托车保有量的不断增长，摩托车尾气排放污染已成为城市机动车排气污染的一个不容忽视的部分。
 
+========================================================================
+>>> aggregation
+------------------------------------------------------------------------
+aggregation    [美 ,ægrɪ'geʃən / 英 ,æɡrɪ'ɡeɪʃən]
+n. [地质][数] 聚合，聚集；聚集体，集合体
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or process of aggregating 聚集
+
+========================================================================
+>>> mean squared error
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：778
+mean squared error
+均方误差：在统计学和机器学习中，均方误差是一种衡量预测值与真实值之间差异的度量。它计算预测值与真实值之间差异的平方的平均值。均方误差越小，表示预测值与真实值越接近。
+
+========================================================================
+>>> examier
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> examiner
+------------------------------------------------------------------------
+examiner    [美 ɪg'zæmɪnɚ / 英 ɪg'zæmɪnə]
+n. 检验员；主考人；[专利] 审查员
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An examiner is a person who conducts an examination. 检查员; 考官
+   ≫   ...FBI senior fingerprint examiner Terry Green.  …联邦调查局高级指纹检验官特里·格林。
+2. → see also
+
+========================================================================
+>>> examiner
+------------------------------------------------------------------------
+examiner    [美 ɪɡˈzæmɪnər / 英 ɪɡˈzæmɪnə(r)]
+n. 考官，主考人；审查人，检查人
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An examiner is a person who conducts an examination. 检查员; 考官
+   ≫   ...FBI senior fingerprint examiner Terry Green.  …联邦调查局高级指纹检验官特里·格林。
+
+========================================================================
+>>> OOP
+------------------------------------------------------------------------
+oop
+abbr. 面向对象的程序设计（Object Oriented Programming）；物件导向程式设计（Object - Oriented Programming）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   While all these requirements are realistic and drawn from experience, they cannot be elegantly addressed using pure OOP. 虽然这些需求都是现实存在的，并来自于经验，但它们并不能用纯OOP来优雅地解决。
+≫   In many ways, using these formal methods imposes much of the discipline (and limitations) you find in traditional OOP languages. 在许多方面，使用这些形式方法会采用传统 OOP 语言中的许多原理（和限制）。
+≫   Since not all the content in WSDL is meaningful, adding semantics into WSDL is an obvious challenge as it is difficult to describe the intermediate objects used in OOP. 由于并非 WSDL 中的所有内容都有意义，因此将语义添加到 WSDL 无疑是一大挑战，其原因在于很难描述 OOP 中所使用的中间对象。
+
+========================================================================
+>>> oriented
+------------------------------------------------------------------------
+oriented    [美 'orɪɛntɪd / 英 'ɔːrɪentɪd]
+adj. 导向的；定向的；以…为方向的
+v. 调整；使朝向（orient的过去分词）；确定…的方位
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [v-link ADJ 'toward/to' n] If someone is oriented toward or oriented to a particular thing or person, they are mainly concerned with that thing or person. 以…为方向的; 重视…的
+   ≫   It seems almost inevitable that North African economies will still be primarily oriented toward Europe.  看来可以预见的是，北非经济仍会主要面向欧洲。
+
+========================================================================
+>>> attribute
+------------------------------------------------------------------------
+attribute    [美 ə'trɪbjut / 英 ə'trɪbjuːt]
+n. 属性；特质
+vt. 归属；把…归于
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. [usu passive] If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自…
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> encapsulation
+------------------------------------------------------------------------
+encapsulation    [美 ɪn,kæpsə'leʃən / 英 ɪn,kæpsə'leɪʃən]
+n. 封装；包装
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It’s the principle of encapsulation. 这就是封装的基本原理。
+≫   In my experience, all fields should be declared private for purposes of information hiding and encapsulation. 据我的经验，为了隐藏和封装信息，所有字段都应该声明为专用的。
+≫   However, while they do add more components to our design, the encapsulation they bring will save us time when it comes to maintenance, testing, and reuse. 然而，虽然它们确实向设计中添加了更多组件，但它们带来的封装却能够在维护、测试和重用时为我们节约时间。
+
+========================================================================
+>>> inheritance
+------------------------------------------------------------------------
+inheritance    [英 ɪn'herɪt(ə)ns / 美 ɪn'hɛrɪtəns]
+n. 继承；遗传；遗产
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An inheritance is money or property that you receive from someone who has died. 继承物; 遗产
+   ≫   She feared losing her inheritance to her stepmother.  她担心她的遗产会落到继母的手里。
+2. (N-COUNT) If you get something such as a job, problem, or attitude from someone who used to have it, you can refer to this as an inheritance. 转接物; 沿袭物
+   ≫   ...starvation and disease over much of Europe and Asia, which was Truman's inheritance as president.  …在欧亚大部分地区肆虐的饥馑和疾病，这是杜鲁门接任总统时面临的状况。
+3. (N-SING) Your inheritance is the particular characteristics or qualities that your family or ancestors had and that you are born with. 遗传特征
+   ≫   Eye colour shows more than your genetic inheritance.  眼睛的颜色显示的不只是你基因的遗传特征。
+
+========================================================================
+>>> polymorphism
+------------------------------------------------------------------------
+polymorphism    [美 ,pɑlɪ'mɔrfɪzm / 英 ,pɒlɪ'mɔːfɪz(ə)m]
+n. 多态性；多形性；同质多晶
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the occurrence of more than one form of individual in a single species within an interbreeding population 多态性
+2. (N) the occurrence of more than one form in the individual polyps of a coelenterate colony (腔肠动物)多形态
+
+========================================================================
+>>> constructor and destructor
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1320
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> dynamic binding
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1371
+dynamic binding
+动态绑定：动态绑定是指在运行时确定对象的类型，并根据对象的类型来调用相应的方法或属性。
+
+========================================================================
+>>> duck typing
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1415
+duck typing
+鸭子类型：一种编程概念，主要用于动态类型语言中。它关注对象的行为，而不是对象所属的具体类型。如果一个对象能够实现某种行为，那么它就被认为具有相应的类型，而不需要显式地声明类型。
+
+========================================================================
+>>> getter and setter
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1466
+getter and setter
+Getter和setter
+
+========================================================================
+>>> compostion
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> composition
+------------------------------------------------------------------------
+composition    [美 ,kɑmpə'zɪʃən / 英 ˌkɒmpəˈzɪʃn]
+n. 作文，作曲，作品；[材] 构成；合成物；成分
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) When you talk about the composition of something, you are referring to the way in which its various parts are put together and arranged. 构成
+   ≫   Television has transformed the size and social composition of the audience at great sporting occasions.  电视改变了大型体育赛事观众的数量及其社会构成。
+2. (N-COUNT) The compositions of a composer, painter, or other artist are the works of art that they have produced. (作曲家、画家等艺术家的) 作品
+   ≫   Mozart's compositions are undoubtedly among the world's greatest.  莫扎特的作品无疑位列于世界上最伟大的作品之中。
+3. (N-COUNT) A composition is a piece of written work that children write at school. (学生的) 作文
+   ≫   We had to write a composition on the subject "My Pet."  我们得就“我的宠物”这个主题写一篇作文。
+
+========================================================================
+>>> underscore
+------------------------------------------------------------------------
+underscore    [美 ,ʌndɚ'skɔr / 英 ʌndə'skɔː]
+vt. 强调；划线于…下
+n. 底线，[计] 下划线
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] If something such as an action or an event underscores another, it draws attention to the other thing and emphasizes its importance. 突出显示; 强调
+   ≫   The Labour Department figures underscore the shaky state of the economic recovery.  劳工部的数字突出显示了经济复苏的不稳定。
+2. [美国英语] If you underscore something such as a word or a sentence, you draw a line underneath it in order to make people notice it or give it extra importance. 在…下面划线
+   ≫   He heavily underscored his note to Shelley.  他在写给谢利的短笺下重重地划了线。
+
+========================================================================
+>>> sharp
+------------------------------------------------------------------------
+sharp    [美 ʃɑrp / 英 ʃɑːp]
+adj. 急剧的；锋利的；强烈的；敏捷的；刺耳的
+adv. 急剧地；锐利地；突然地
+n. 尖头；骗子；内行
+vt. 磨快；把音调升高
+vi. 打扮；升音演奏
+n. (Sharp)人名；(英)夏普
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A sharp point or edge is very thin and can cut through things very easily. A sharp knife, tool, or other object has a point or edge of this kind. 锋利的
+   ≫   With a sharp knife, make diagonal slashes in the chicken breast.  用锋利的刀子斜着切开鸡胸脯。
+2. (ADJ) You can describe a shape or an object as sharp if part of it or one end of it comes to a point or forms an angle. 尖的
+   ≫   His nose was thin and sharp.  他的鼻子又细又尖。
+3. (ADJ) A sharp bend or turn is one that changes direction suddenly. 急剧的 (转弯)
+   ≫   I was approaching a fairly sharp bend that swept downhill to the left.  我那时正接近一个朝山下向左急转的弯道。
+4. [ADV adv] Sharp is also an adverb. 急剧地
+   ≫   Do not cross the bridge but turn sharp left to go down on to the towpath.  不要过桥，而是向左急转下到纤道上去。
+5. [ADV after v] sharply 急剧地
+   ≫   Room number nine was at the far end of the corridor where it turned sharply to the right.  9号房间在过道尽头右急转弯处。
+6. [表赞许] If you describe someone as sharp, you are praising them because they are quick to notice, hear, understand, or react to things. 机敏的
+   ≫   He is very sharp, a quick thinker and swift with repartee.  他很机敏、思维敏捷并且能机智应答。
+7. (ADJ) If someone says something in a sharp way, they say it suddenly and rather firmly or angrily, for example, because they are warning or criticizing you. (说话、措辞等) 严厉的
+   ≫   "Don't contradict your mother," was Charles's sharp reprimand.  “不要顶撞你的母亲，”查尔斯严厉的斥责。
+8. (ADV) sharply 严厉地
+   ≫   "You've known," she said sharply, "and you didn't tell me?"  “你已经知道了，”她严厉地说道，“而你却没有告诉我？”
+9. (ADJ) A sharp change, movement, or feeling occurs suddenly, and is great in amount, force, or degree. (变化、动作等) 急剧的; (情感等) 剧烈的
+   ≫   There's been a sharp rise in the rate of inflation.  通货膨胀率急剧上升了。
+   ≫   Tennis requires a lot of short sharp movements.  网球运动需要大量快速而剧烈的动作。
+10. (ADV) sharply 急剧地
+   ≫   Unemployment has risen sharply in recent years.  近年来失业率已急剧上升。
+11. (ADJ) A sharp difference, image, or sound is very easy to see, hear, or distinguish. (差异、图像、声音等) 清晰可辨的
+   ≫   Many people make a sharp distinction between humans and other animals.  许多人将人类和其他动物截然分开。
+   ≫   All the footmarks are quite sharp and clear.  所有的足迹都很清楚明晰。
+12. (ADV) sharply 清晰可辨地
+   ≫   Opinions on this are sharply divided.  对这事的看法迥然各异。
+13. (ADJ) A sharp taste or smell is rather strong or bitter, but is often also clear and fresh. (味道、气味等) 浓烈的
+   ≫   The apple tasted just as I remembered – sharp, sour, yet sweet.  这苹果尝起来跟我记忆中的完全一样–味道十足，酸中带甜。
+14. [n ADV] Sharp is used after stating a particular time to show that something happens at exactly the time stated. (…点) 整
+   ≫   She planned to unlock the shop at 8:00 sharp this morning.  她计划今早8点整打开店门。
+15. (N-COUNT) Sharp is used after a letter representing a musical note to show that the note should be played or sung half a tone higher. Sharp is often represented by the symbol ♯. 升半音
+   ≫   A solitary viola plucks a lonely, soft F sharp.  一把中提琴独奏出孤寂婉约的升F调。
+
+========================================================================
+>>> perplexity
+------------------------------------------------------------------------
+perplexity    [美 pɚ'plɛksəti / 英 pə'pleksɪtɪ]
+n. 困惑；混乱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Perplexity is a feeling of being confused and frustrated because you do not understand something. 困惑; 迷惘
+   ≫   He began counting them and then, with growing perplexity, counted them a second time.  他开始数，然后更加困惑地数第二遍。
+2. [usu pl] The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题
+   ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
+
+========================================================================
+>>> negligible
+------------------------------------------------------------------------
+negligible    [美 'nɛɡlɪdʒəbl / 英 'neglɪdʒɪb(ə)l]
+adj. 微不足道的，可以忽略的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An amount or effect that is negligible is so small that it is not worth considering or worrying about. 微不足道的
+   ≫   The pay that the soldiers received was negligible.  士兵们得到的津贴微乎其微。
+
+========================================================================
+>>> prioritize
+------------------------------------------------------------------------
+prioritize    [praɪ'ɔrətaɪz]
+vt. 把…区分优先次序
+vi. 把事情按优先顺序排好
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you prioritize something, you treat it as more important than other things. 优先考虑
+   ≫   Prioritize your own wants rather than constantly thinking about others.  优先考虑你自己的需要，而不要总想着别人。
+2. (V-T) If you prioritize the tasks that you have to do, you decide which are the most important and do them first. 确定 (任务) 优先顺序
+   ≫   Make lists of what to do and prioritize your tasks.  把你要做的事情列出来，确定任务的轻重缓急。
+
+========================================================================
+>>> substantial
+------------------------------------------------------------------------
+substantial    [美 səbˈstænʃəl / 英 səb'stænʃ(ə)l]
+adj. 大量的；实质的；内容充实的
+n. 本质；重要材料
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Substantial means large in amount or degree. 大量的; 很大程度的
+   ≫   A substantial number of mothers with young children are deterred from undertaking paid work because they lack access to childcare.  很多有小孩的母亲找不到人照顾小孩，从而无法从事有薪工作。
+
+========================================================================
+>>> anticipate
+------------------------------------------------------------------------
+anticipate    [美 æn'tɪsə'pet / 英 æn'tɪsɪpeɪt]
+vt. 预期，期望；占先，抢先；提前使用
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you anticipate an event, you realize in advance that it may happen and you are prepared for it. 预期
+   ≫   At the time we couldn't have anticipated the result of our campaigning.  当时我们不可能预期到我们活动的结果。
+   ≫   It is anticipated that the equivalent of 192 full-time jobs will be lost.  据预测相当于192个全职的工作将会丧失。
+2. (V-T) If you anticipate a question, request, or need, you do what is necessary or required before the question, request, or need occurs. 预先准备
+   ≫   What Jeff did was to anticipate my next question.  杰夫所做的是预先准备我的下一个问题。
+
+========================================================================
+>>> mitigated
+------------------------------------------------------------------------
+mitigated    [美 ˈmɪtɪɡeɪtɪd / 英 ˈmɪtɪɡeɪtɪd]
+v. 缓和，减轻（痛苦）；减轻（罪行或过错）（mitigate 的过去式及过去分词）
+adj. 缓和的
+★ TEM8 mitigating,mitigated,mitigates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To mitigate something means to make it less unpleasant, serious, or painful. 缓解 [正式]
+   ≫   ...ways of mitigating the effects of an explosion.  …减轻爆炸后果的方法。
+
+========================================================================
+>>> orin
+------------------------------------------------------------------------
+Orin
+奥林（男子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Orin Kerr, also a law professor at George Washington University, and a blogger at Volokh Conspiracy, has attempted to lay out general principles for applying the Fourth Amendment to the internet. Orin Kerr也是乔治华盛顿大学的一名法学教授，在Volokh Conspiracy上写博文，他试图设定将第四修正案应用到网络中的基本原则。
+≫   Orin forex trading terms, assuming you're an American visiting Japan, you've solddollars and bought yen. 以外汇交易市场的术语来说，假设你是一个正在访问日本的美国人，你已经卖出了美元同时买入了日元。
+≫   Orin broadcasts this energy throughout all of his journeys, whether or not he calls it out. 欧林传播这能量贯穿他旅途的所有，无论他是否呼唤它出来。
+
+========================================================================
+>>> emarged as
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> emerged
+------------------------------------------------------------------------
+emerged    [i'mə:dʒ]
+vt. 出现（emerge的过去分词）；浮现，暴露
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To emerge means to come out from an enclosed or dark space such as a room or a vehicle, or from a position where you could not be seen. (从视线以外的地方) 出现; 出来
+   ≫   Richard was waiting outside the door as she emerged.  当她出现的时候，理查德正等候在门外。
+   ≫   She then emerged from the courthouse to thank her supporters.  于是她从法院大楼出来向支持者们表示感谢。
+2. (V-I) If you emerge from a difficult or bad experience, you come to the end of it. 摆脱
+   ≫   There is growing evidence that the economy is at last emerging from recession.  有越来越多的迹象表明经济将最终摆脱萧条。
+3. (V-T/V-I) If a fact or result emerges from a period of thought, discussion, or investigation, it becomes known as a result of it. 显露 (事实、结果)
+   ≫   ...the growing corruption that has emerged in the past few years.  …过去几年中暴露出来的日趋严重的腐败。
+   ≫   It soon emerged that neither the July nor August mortgage payment had been collected.  很快显示的是7月和8月的抵押款都没有被收取。
+4. [journalism] If someone or something emerges as a particular thing, they become recognized as that thing. 立足成为
+   ≫   Vietnam has emerged as the world's third-biggest rice exporter.  越南已立足成为世界第三大稻米出口国。
+5. [journalism] When something such as an organization or an industry emerges, it comes into existence. 兴起
+   ≫   ...the new republic that emerged in October 1917.  …1917年10月成立的新共和国。
+
+========================================================================
+>>> crucial
+------------------------------------------------------------------------
+crucial    [美 'krʊʃəl / 英 'kruːʃ(ə)l]
+adj. 重要的；决定性的；定局的；决断的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as crucial, you mean it is extremely important. 至关重要的
+   ≫   He had administrators under him but made the crucial decisions himself.  尽管他手下有许多官员，但重要的决定还是他自己做。
+2. (ADV) crucially 至关重要地
+   ≫   Chewing properly is crucially important.  正确地咀嚼是至关重要的。
+
+========================================================================
+>>> a segment of
+------------------------------------------------------------------------
+a segment of
+一段，一部分：指一个整体中的一部分或一段。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Give me a segment of a tangerine to taste. 给我一瓣柑橘尝一尝。《新英汉大辞典》
+≫   In Figure 2, process a requests a segment of Shared memory. 在图2中，进程A请求一个共享内存段。
+≫   As code is to be executed, a translation occurs for a segment of code. 当代码执行时，就会对代码的某个段进行转换。
+
+========================================================================
+>>> demonstrated
+------------------------------------------------------------------------
+demonstrated    ['demənstreit]
+演示
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+>>> bind
+------------------------------------------------------------------------
+bind    [美 baɪnd / 英 baɪnd]
+vi. 结合；装订；有约束力；过紧
+vt. 绑；约束；装订；包扎；凝固
+n. 捆绑；困境；讨厌的事情；植物的藤蔓
+n. (Bind)人名；(德)宾德
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something binds people together, it makes them feel as if they are all part of the same group or have something in common. 使结合
+   ≫   It is the memory and threat of persecution that binds them together.  是受迫害的记忆和威胁将他们紧紧联系在一起。
+   ≫   ...the social and political ties that bind the U.S. to Britain.  …使美国与英国紧密联系在一起的社会与政治纽带。
+2. (V-T) If you are bound by something such as a rule, agreement, or restriction, you are forced or required to act in a certain way. 约束
+   ≫   All pharmacists are bound by the society's rules of confidentiality.  所有药剂师都受到保密性这一社会规则的约束。
+   ≫   The authorities will be legally bound to arrest any suspects.  当局将依法逮捕任何可疑人员。
+3. [v-link ADJ 'by' n] bound 受约束的
+   ≫   The world of advertising is obviously less bound by convention than the world of banking.  与银行业相比，广告业显然较少受常规的约束。
+4. (V-T) If you bind something or someone, you tie rope, string, tape, or other material around them so that they are held firmly. 捆绑
+   ≫   Bind the ends of the cord together with thread.  把细绳的两端用线系在一起。
+   ≫   ...the red tape which was used to bind the files.  …曾用来捆绑文件的红色带子。
+5. (V-T) When a book is bound, the pages are joined together and the cover is put on. 装订
+   ≫   Each volume is bound in bright-coloured cloth.  每一册都用颜色鲜亮的布料装订。
+   ≫   Their business came from a few big publishers, all of whose books they bound.  他们的生意来自几家大出版社，这些出版社所有的书都由其装订。
+
+========================================================================
+>>> isolates
+------------------------------------------------------------------------
+isolates    ['aisəleits]
+n. 孤立者；[生物] 隔离群（isolate的复数）
+v. 孤立（isolate的第三人称单数）；使…隔离
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To isolate a person or organization means to cause them to lose their friends or supporters. 孤立
+   ≫   This policy could isolate the country from the other permanent members of the United Nations Security Council.  这项政策可能会将这个国家从联合国安理会的其他常任理事国中孤立出来。
+2. (ADJ) isolated 孤立的
+   ≫   They are finding themselves increasingly isolated within the teaching profession.  他们发现自己在教育界中越来越孤立。
+3. (V-T) If you isolate yourself, or if something isolates you, you become physically or socially separated from other people. 使孤立; 孤立
+   ≫   She seemed determined to isolate herself from everyone, even him.  她似乎决心要与每个人，甚至是他割断联系。
+   ≫   His radicalism and refusal to compromise isolated him.  他的激进和拒绝让步使他受到了孤立。
+4. (V-T) If you isolate something such as an idea or a problem, you separate it from others that it is connected with, so that you can concentrate on it or consider it on its own. 单独考虑
+   ≫   Our anxieties can also be controlled by isolating thoughts, feelings and memories.  我们的焦虑也可以通过对思想、感情和记忆分别进行考虑来加以控制。
+5. [技术] To isolate a substance means to obtain it by separating it from other substances using scientific processes. 使离析
+   ≫   We can use genetic engineering techniques to isolate the gene that is responsible.  我们可以用遗传工程技术将起作用的基因离析出来。
+6. (V-T) To isolate a sick person or animal means to keep them apart from other people or animals, so that their illness does not spread. 隔离
+   ≫   Patients will be isolated from other people for between three days and one month after treatment.  治疗之后，患者将被与他人隔离3天到1个月。
+7. [oft N n] isolation 隔离
+   ≫   Hayley contracted tuberculosis and had to be put in an isolation ward.  海利感染了肺结核而不得不被送进一个隔离病房。
+
+========================================================================
+>>> singular quantization
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：3966
+singular quantization
+单一的量化
+
+========================================================================
+>>> demonstrated
+------------------------------------------------------------------------
+demonstrated    ['demənstreit]
+演示
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+>>> demonstrated
+------------------------------------------------------------------------
+demonstrated    [美 ˈdemənstreɪtɪd / 英 ˈdemənstreɪtɪd]
+adj. 已证明的
+v. 证明，证实；展示（才能）；表露（感情）；公众游行（demonstrate 的过去式与过去分词）
+★★★ CET4 TEM4 demonstrating,demonstrated,demonstrates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+>>> self-distillation
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> distillatino
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> distillation
+------------------------------------------------------------------------
+distillation    [美 ,dɪstl'eʃən / 英 ,dɪstɪ'leɪʃn]
+n. 蒸馏，净化；蒸馏法；精华，蒸馏物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As alchemy evolved into the science of chemistry, vessels called retorts became used for distillations . 随着炼金术发展成为化学，叫作曲颈瓶的容器开始用于蒸馏。
+≫   World heritage, national famous scenic areas are distillations of our country' s landscape, are the testimony of our history and civilization. 世界遗产、国家风景区是祖国壮丽河山的缩影是国土景观的精华，是祖国文明历史的见证。
+≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
+
+========================================================================
+>>> ambitious
+------------------------------------------------------------------------
+ambitious    [美 æmˈbɪʃəs / 英 æmˈbɪʃəs]
+adj. 有抱负的，野心勃勃的；费劲的，艰巨的；热望的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is ambitious has a strong desire to be successful, rich, or powerful. 雄心勃勃的
+   ≫   Chris is so ambitious, so determined to do it all.  克里斯是如此雄心勃勃，如此坚决地要把它做完。
+2. (ADJ) An ambitious idea or plan is on a large scale and needs a lot of work to be carried out successfully. 宏大的
+   ≫   The ambitious project was completed in only nine months.  这个宏大的项目在仅仅9个月之内就完成了。
+
+========================================================================
+>>> spurred
+------------------------------------------------------------------------
+spurred    [美 spɜːrd / 英 spɜːd]
+adj. 装有马刺的；有花距的
+v. 鞭策；教唆（spur 的过去分词）
+★★★ CET4 TEM4 spurring,spurred,spurs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing spurs you to do another, it encourages you to do it. 鼓动; 激励
+   ≫   It's the money that spurs these fishermen to risk a long ocean journey in their flimsy boats.  是金钱驱使这些渔民驾驶单薄的小船冒险出海远航。
+2. (PHRASAL VERB) Spur on means the same as . 鼓动; 激励 (同)(spur)
+   ≫   Their attitude, rather than reining him back, only seemed to spur Philip on.  他们的态度非但没令菲利普回头，似乎只是激励他继续下去。
+3. (V-T) If something spurs a change or event, it makes it happen faster or sooner. 使更快发生; 加速 [journalism]
+   ≫   The administration may put more emphasis on spurring economic growth.  政府可能会更加重视经济的加快增长。
+4. (N-COUNT) Something that acts as a spur to something else encourages a person or organization to do that thing or makes it happen more quickly. 促进因素; 推动
+   ≫   ...a belief in competition as a spur to efficiency.  …一种认为竞争能促进效率提高的观点。
+5. (PHRASE) If you do something on the spur of the moment, you do it suddenly, without planning it beforehand. 一时冲动之下
+   ≫   They admitted they had taken a vehicle on the spur of the moment.  他们承认一时冲动之下偷了一辆车。
+
+========================================================================
+>>> excels in
+------------------------------------------------------------------------
+excelsin
+n. 巴西果蛋白
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Pisces excels in the art of listening. 双鱼座擅长倾听的艺术。
+≫   He excels in virtue. 他品德高尚。《新英汉大辞典》
+≫   He excels in art and music. 他擅长艺术和音乐。
+
+========================================================================
+>>> excels
+------------------------------------------------------------------------
+excels
+v．擅长，优于：在某个领域或活动中表现出色，超过他人。
+★ CET6+ TEM4 excelling,excelled,excels
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If someone excels in something or excels at it, they are very good at doing it. (在某方面) 擅长
+   ≫   Mary was a better rider than either of them and she excelled at outdoor sports.  玛丽比他们俩骑得都好，她擅长户外运动。
+   ≫   Academically he began to excel.  他开始在学术上脱颖而出。
+
+========================================================================
+>>> crucial
+------------------------------------------------------------------------
+crucial    [美 ˈkruːʃ(ə)l / 英 ˈkruːʃ(ə)l]
+adj. 至关重要的，决定性的；<非正式>极好的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as crucial, you mean it is extremely important. 至关重要的
+   ≫   He had administrators under him but made the crucial decisions himself.  尽管他手下有许多官员，但重要的决定还是他自己做。
+2. (ADV) crucially ADV 至关重要地
+   ≫   Chewing properly is crucially important.  正确地咀嚼是至关重要的。
+
+========================================================================
+>>> exploits
+------------------------------------------------------------------------
+exploits    [美 ɪkˈsplɔɪts / 英 ɪkˈsplɔɪts]
+n. 功绩，业绩；壮举（exploit 的复数）
+v. 利用；开发（exploit 的第三人称单数）
+★★★ CET4 exploiting,exploited,exploits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation N-UNCOUNT 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. (V-T) If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势) [表不满]
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation N-SING (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation N-UNCOUNT (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> broadening
+------------------------------------------------------------------------
+broadening    [美 ˈbrɔːdnɪŋ / 英 ˈbrɔːdnɪŋ]
+n. 扩展，增宽
+v. 变宽；（使）扩大影响；增长（经验、知识等）（broaden 的现在分词）
+adj. 加宽的
+★ CET4 TEM4 broadening,broadened,broadens
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When something broadens, it becomes wider. 变宽
+   ≫   The trails broadened into roads.  小径变宽成大路了。
+2. (V-T/V-I) When you broaden something such as your experience or popularity, or when it broadens, the number of things or people that it includes becomes greater. 扩宽; 开阔
+   ≫   We must broaden our appeal.  我们必须扩大我们的吸引力。
+   ≫   I thought you wanted to broaden your horizons.  我以为你想拓宽自己的视野。
+
+========================================================================
+>>> diverse
+------------------------------------------------------------------------
+diverse    [美 daɪˈvɜːrs / 英 daɪˈvɜːs]
+adj. 不同的，各式各样的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a group of things is diverse, it is made up of a wide variety of things. 各种各样的
+   ≫   The building houses a wide and diverse variety of antiques.  这栋楼里摆放着大量各式各样的古董。
+2. (ADJ) Diverse people or things are very different from each other. 不同的
+   ≫   Albert Jones' new style will inevitably put him in touch with a much more diverse and perhaps younger audience.  艾伯特·琼斯的新风格无疑将使他接触更多形形色色的、或许更年轻的观众。
+
+========================================================================
+>>> the landscape of
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5396
+the landscape of
+风景
+
+========================================================================
+>>> concentrated
+------------------------------------------------------------------------
+concentrated    [美 ˈkɑːnsntreɪtɪd / 英 ˈkɒnsntreɪtɪd]
+adj. 集中的；全神贯注的，全力以赴的；浓缩的
+v. 集中注意力，聚精会神；使集中，聚集；（使）浓缩（concentrate 的过去式和过去分词）
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A concentrated liquid has been increased in strength by having water removed from it. 浓缩的
+   ≫   Sweeten dishes sparingly with honey, or concentrated apple or pear juice.  用少许蜂蜜或浓缩苹果汁或梨汁使菜肴变甜。
+2. (ADJ) A concentrated activity is directed with great intensity in one place. 集中的
+   ≫   ...a more concentrated effort to reach out to troubled kids.  …更集中的帮助问题儿童的努力。
+
+========================================================================
+>>> tailored for
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5462
+tailored for
+专门为某一特定目的而定制的：指根据特定需求或目标进行定制或调整。
+
+========================================================================
+>>> convolution
+------------------------------------------------------------------------
+convolution    [英 ˌkɒnvəˈluːʃn / 美 ˌkɑːnvəˈluːʃn]
+n. [数] 卷积；回旋；盘旋；卷绕
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Convolutions are curves on an object or design that has a lot of curves. 卷绕 [文学性] [usu pl]
+2. (N-VAR) You can use convolutions to refer to a situation that is very complicated. 过于复杂 [文学性] [oft N 'of' n]
+   ≫   ...the thorny convolutions of love.  ...棘手而错综复杂的爱情。
+
+========================================================================
+>>> pervasively
+------------------------------------------------------------------------
+pervasively    [美 pərˈveɪsɪvli / 英 pəˈveɪsɪvli]
+遍布地
+普遍地
+流行地
+弥漫地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you use continuation servers pervasively, the user experience will change. 如果大量使用延续服务器，用户体验就会改变。
+≫   Many of my clients have too much legacy code and momentum to change pervasively. 我的许多客户有太多的遗留代码，修改起来工作量太大。
+≫   But without fraternity, in a region so pervasively mauled and inter-connected, they risk souring. 但没有博爱的话，在一个受到如此变态的粗暴对待以及如此在内部彼此关联的区域，它们就会有变质的危险。
+
