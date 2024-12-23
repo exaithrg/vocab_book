@@ -36916,3 +36916,1083 @@ TEM8
 1. [usu with supp] A corpus is a large collection of written or spoken texts that is used for language research. 语料库
 ≫  未找到守护进程，正在启动...
 
+========================================================================
+>>> accommodate
+------------------------------------------------------------------------
+accommodate    [美 ə'kɑmədet / 英 ə'kɒmədeɪt]
+vt. 容纳；使适应；供应；调解
+vi. 适应；调解
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] If a building or space can accommodate someone or something, it has enough room for them. 容纳
+   ≫   The school was not big enough to accommodate all the children.  学校没有足够的地方容纳所有的学生。
+2. (V-T) To accommodate someone means to provide them with a place to live or stay. 为…提供住宿
+   ≫   ...a hotel built to accommodate guests for the wedding of King Alfonso.  …一个为来参加阿方索国王婚礼的客人提供住宿而建造的宾馆。
+3. [正式] If something is planned or changed to accommodate a particular situation, it is planned or changed so that it takes this situation into account. 使…适应
+   ≫   The roads are built to accommodate gradual temperature changes.  这些道路是为适应气温的逐渐变化而建的。
+
+========================================================================
+>>> permutation
+------------------------------------------------------------------------
+permutation    [美 'pɝmjʊ'teʃən / 英 pɜːmjʊ'teɪʃ(ə)n]
+n. [数] 排列；[数] 置换
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu pl] A permutation is one of the ways in which a number of things can be ordered or arranged. 排列
+   ≫   Variation among humans is limited to the possible permutations of our genes.  人类的变化形式受限于我们基因可能的那些排列。
+
+========================================================================
+>>> transactions
+------------------------------------------------------------------------
+transactions    [美 træn'zækʃənz / 英 trænˈzækʃnz]
+n. 处理，[图情] 会报；汇报（transaction复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A transaction is a piece of business, for example, an act of buying or selling something. 交易
+   ≫   The transaction is completed by payment of the fee.  交易在支付费用之后就完成了。
+
+========================================================================
+>>> TBL
+------------------------------------------------------------------------
+TBL
+abbr. 湍流边界层（turbulent boundary layer）；任务型学习（task-based learning）；总胆红素水平（total bilirubin level）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   By now CSR and the Triple Bottom Line (TBL) were widespread. 现在企业社会责任和三重底线(表)被普遍。
+≫   The triple bottom line (TBL) thus consists of three Ps: profit, people and planet. 因此，这三种底线（TBL）由三个P组成：利润、人力和地球。
+≫   Through classroom observations, this paper gives some suggestions about how to integrate FFI into TBL. 调查结果显示整合的必要性并通过课堂观察，提出如何整合的建议。
+
+========================================================================
+>>> PSHUF
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> shuffle
+------------------------------------------------------------------------
+shuffle    [美 'ʃʌfl / 英 'ʃʌf(ə)l]
+v. 洗牌；推诿，推卸；拖曳，慢吞吞地走；搅乱
+n. 洗牌，洗纸牌；混乱，蒙混；拖着脚走
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you shuffle somewhere, you walk there without lifting your feet properly off the ground. 拖着脚走
+   ≫   Moira shuffled across the kitchen.  莫伊拉拖着脚走过了厨房。
+2. (N-SING) Shuffle is also a noun. 拖着脚走
+   ≫   She noticed her own proud walk had become a shuffle.  她注意到了自己得意的步伐已变成了拖着脚走。
+3. (V-T/V-I) If you shuffle around, you move your feet about while standing or you move your bottom about while sitting, often because you feel uncomfortable or embarrassed. (因不舒服或尴尬) 站着的脚来回挪动; 坐立不安
+   ≫   He shuffles around in his chair.  他在椅子上坐立不安。
+4. (V-T) If you shuffle playing cards, you mix them up before you begin a game. 洗 (牌)
+   ≫   There are various ways of shuffling and dealing the cards.  有各种不同的洗牌和发牌方法。
+
+========================================================================
+>>> dramati
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> dramatic
+------------------------------------------------------------------------
+dramatic    [英 drə'mætɪk / 美 drə'mætɪk]
+adj. 戏剧的；急剧的；引人注目的；激动人心的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A dramatic change or event happens suddenly and is very noticeable and surprising. 突然引人注目的
+   ≫   A fifth year of drought is expected to have dramatic effects on the California economy.  预计连续干旱的第五个年头将对加利福尼亚州的经济产生引人注目的影响。
+2. (ADV) dramatically 突然引人注目地
+   ≫   At speeds above 50 mph, serious injuries dramatically increase.  时速超过50英里时，重伤机率急剧上升。
+3. (ADJ) A dramatic action, event, or situation is exciting and impressive. 紧张刺激的; 扣人心弦的
+   ≫   He witnessed many dramatic escapes as people jumped from as high as the fourth floor.  当人们从4层楼那么高的地方跳下来的时侯，他目睹了许多惊心动魄的逃生情景。
+4. (ADV) dramatically 戏剧性地
+   ≫   He tipped his head to one side and sighed dramatically.  他把头偏向一侧，戏剧性地叹了口气。
+5. [ADJ n] You use dramatic to describe things connected with or relating to the theatre, drama, or plays. 戏剧的; 有关戏剧的
+   ≫   ...a dramatic arts major in college.  …一个在学院主修戏剧艺术专业的学生。
+
+========================================================================
+>>> spilling
+------------------------------------------------------------------------
+spilling    [美 spɪl]
+v. 溢漏，泄漏（spill的现在分词）；跌下
+n. 溢出物；散落
+n. (Spilling)人名；(德)施皮林
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If a liquid spills or if you spill it, it accidentally flows over the edge of a container. 无意洒落; 意外溢出
+   ≫   Seventy thousand tons of oil spilled from the tanker.  7万吨油从油轮漏出。
+   ≫   He always spilled the drinks.  他总是不小心把饮料给洒了。
+2. (N-COUNT) A spill is an amount of liquid that has spilled from a container. 洒落的液体
+   ≫   She wiped a spill of milkshake off the counter.  她擦掉柜台上洒落的奶昔。
+3. (N) a splinter of wood or strip of twisted paper with which pipes, fires, etc, are lit (点烟、点火用的)木头碎片或废纸
+4. (V-T/V-I) If the contents of a bag, box, or other container spill or are spilled, they come out of the container onto a surface. 使散落; 散落
+   ≫   A number of bags had split and were spilling their contents.  许多包裂开了，里面的东西正在散落出来。
+5. (V-I) If people or things spill out of a place, they come out of it in large numbers. 涌出
+   ≫   Tears began to spill out of the boy's eyes.  泪水开始从男孩的眼里涌出。
+
+========================================================================
+>>> axes
+------------------------------------------------------------------------
+axes    [美 'æksɪz / 英 'æksiːz]
+n. 轴线；轴心；坐标轴；斧头（axe的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. Axes is the plural of . (axe)的复数形式
+2. Axes is the plural of . (axis)的复数形式
+
+========================================================================
+>>> axis
+------------------------------------------------------------------------
+axis    [美 'æksɪs / 英 'æksɪs]
+n. 轴；轴线；轴心国
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a reference axis of a three-dimensional Cartesian coordinate system along which the z-coordinate is measured z轴
+
+========================================================================
+>>> axes
+------------------------------------------------------------------------
+axes    [英 ˈæksiːz / 美 ˈæksɪz]
+n. 轴线；轴心；坐标轴（axis 的复数）；斧头（axe 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Millions of hectares of forest and woodland fell before the newcomers' axes between 1850 and 1890, as intensive European farming methods expanded across the world. 1850年至1890年间，随着欧洲集约化农业方法在世界范围内的推广，数百万公顷的森林和林地被砍伐殆尽。
+≫   The axes are comprised of a generalized homologous temperature, the normalized kinetic energy flux, and the net film thickness. 坐标轴包括广义同系温度，标量化动能以及净膜厚度。
+≫   They used axes to clear a path through the forest. 他们用斧子开辟出一条穿过森林的小道。《新英汉大辞典》
+
+========================================================================
+>>> temporal
+------------------------------------------------------------------------
+temporal    [美 'tɛmpərəl / 英 'temp(ə)r(ə)l]
+adj. 暂时的；当时的；现世的
+n. 世间万物；暂存的事物
+n. (Temporal)人名；(法)唐波拉尔
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Temporal powers or matters relate to ordinary institutions and activities rather than to religious or spiritual ones. 凡尘的; 普通的
+   ≫   ...the spiritual and temporal leader of the people.  ...人们的精神及俗世领袖。
+2. [ADJ n] Temporal means relating to time. 时间的
+   ≫   One is also able to see how specific acts are related to a temporal and spatial context.  人们也能看到具体的行为如何与时间和空间背景相关联。
+3. [anatomy] of, relating to, or near the temple or temples 颞部的; 太阳穴的
+
+========================================================================
+>>> spatal
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> spatial
+------------------------------------------------------------------------
+spatial    [美 'speʃl / 英 'speɪʃ(ə)l]
+adj. 空间的；存在于空间的；受空间条件限制的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Spatial is used to describe things relating to areas. 空间的
+   ≫   ...the spatial distribution of black employment and population in South Africa.  …南非黑人就业和人口的空间分布。
+2. [ADJ n] Your spatial ability is your ability to see and understand the relationships between shapes, spaces, and areas. 感悟空间的 (能力)
+   ≫   His manual dexterity and fine spatial skills were wasted on routine tasks.  他的手巧和很好的感悟空间的技能被浪费在日常事务中了。
+
+========================================================================
+>>> notation
+------------------------------------------------------------------------
+notation    [美 no'teʃən / 英 nəʊ'teɪʃ(ə)n]
+n. 符号；乐谱；注释；记号法
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu supp N] A system of notation is a set of written symbols that are used to represent something such as music or mathematics. 符号
+   ≫   Musical notation was conceived for the C major scale and each line and space represents a note in this scale.  乐谱为C大音阶而构思，在这个音阶中的每一个线和间都代表一个音符。
+   ≫   ...some other abstract notation system like a computer language.  …一些如计算机语言的其它抽象符号系统。
+
+========================================================================
+>>> precision
+------------------------------------------------------------------------
+precision    [美 prɪ'sɪʒn / 英 prɪ'sɪʒ(ə)n]
+n. 精度，[数] 精密度；精确
+adj. 精密的，精确的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you do something with precision, you do it exactly as it should be done. 准确性
+   ≫   The choir sang with precision.  合唱团的演唱准确无误。
+
+========================================================================
+>>> permutation
+------------------------------------------------------------------------
+permutation    [美 'pɝmjʊ'teʃən / 英 pɜːmjʊ'teɪʃ(ə)n]
+n. [数] 排列；[数] 置换
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu pl] A permutation is one of the ways in which a number of things can be ordered or arranged. 排列
+   ≫   Variation among humans is limited to the possible permutations of our genes.  人类的变化形式受限于我们基因可能的那些排列。
+
+========================================================================
+>>> interleaving
+------------------------------------------------------------------------
+interleaving    [美 ˌɪntərˈliv / 英 ˌɪntəˈliːvɪŋ]
+n. [计]交错；交叉
+v. 插入；[计]交叉存取（interleave 的 ing 形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to intersperse (with), esp alternately, as the illustrations in a book (with protective leaves) 插入纸
+
+========================================================================
+>>> eliminate
+------------------------------------------------------------------------
+eliminate    [美 ɪ'lɪmɪnet / 英 ɪ'lɪmɪneɪt]
+vt. 消除；排除
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To eliminate something, especially something you do not want or need, means to remove it completely. 根除
+   ≫   Recent measures have not eliminated discrimination in employment.  最近的举措还未能根除就业歧视。
+2. (N-UNCOUNT) elimination 根除
+   ≫   ...the prohibition and elimination of chemical weapons.  …对化学武器的禁止和销毁。
+3. (V-T PASSIVE) When a person or team is eliminated from a competition, they are defeated and so stop participating in the competition. 淘汰
+   ≫   I was eliminated from the 400 metres in the semi-finals.  我在400米半决赛中被淘汰了。
+4. (V-T) If someone says that they have eliminated an enemy, they mean that they have killed them. By using the word "eliminate," they are trying to make the action sound more positive than if they used the word "kill." 消灭
+   ≫   He declared war on the government and urged right-wingers to eliminate their opponents.  他向政府宣战并且力劝右翼分子们消灭他们的对手。
+
+========================================================================
+>>> In the realm of
+------------------------------------------------------------------------
+in the realm of
+在……领域中：表示某事物属于某个特定的领域或范畴。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the realm of olfaction, we must make do with descriptions and recollections. 在嗅觉领域，我们只能勉强依赖于描述与回忆。
+≫   Imagine you work in the realm of music education. 假设您在音乐教育领域内工作。
+≫   To be holy means to belong to or to be in the realm of God. 神圣的意味着属于或存在于上帝的领域里。
+
+========================================================================
+>>> demands
+------------------------------------------------------------------------
+demands    [di'mɑ:nd; -'mænd]
+n. [经] 需求（demand的复数）
+v. [经] 需求（demand的第三人称单数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you demand something such as information or action, you ask for it in a very forceful way. 强烈要求
+   ≫   Human rights groups are demanding an investigation into the shooting.  人权组织正强烈要求对这一枪击案进行调查。
+   ≫   Russia demanded that UNITA send a delegation to the peace talks.  俄罗斯强烈要求安哥拉彻底独立全国同盟派遣一个代表团参加和谈。
+2. (V-T) If one thing demands another, the first needs the second in order to happen or be dealt with successfully. 需要
+   ≫   He said the task of reconstruction would demand much patience, hard work, and sacrifice.  他说重建工作会需要高度坚韧、勤劳和奉献。
+3. (N-COUNT) A demand is a firm request for something. 坚决的要求
+   ≫   There have been demands for services from tenants up there.  那边的房客们有服务的明确要求。
+4. (N-UNCOUNT) If you refer to demand, or to the demand for something, you are referring to how many people want to have it, do it, or buy it. 需求量
+   ≫   Another flight would be arranged on Saturday if sufficient demand arose.  如果有足够的需求量，周六就会安排另一个航班。
+5. (N-PLURAL) Thedemandsof something or its demands on you are the things which it needs or the things which you have to do for it. 要求
+   ≫   ...the demands and challenges of a new job.  …一份新工作的要求和挑战。
+6. (PHRASE) If someone or something is in demand or in great demand, they are very popular and a lot of people want them. 受欢迎的
+   ≫   He was much in demand as a lecturer in the U.S., as well as at universities all over Europe.  他在美国是个非常受欢迎的演讲者，在全欧洲的大学中也是。
+7. (PHRASE) If something is available or happens on demand, you can have it or it happens whenever you want it or ask for it. 一经要求
+   ≫   ...a new entertainment system that offers 25 movies on demand.  …一经要求，即可播放25部电影的新的娱乐系统。
+
+========================================================================
+>>> Consolidation
+------------------------------------------------------------------------
+consolidation    [美 kən,sɑlə'deʃən / 英 kən,sɒlɪ'deɪʃən]
+n. 巩固；合并；团结
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act of consolidating or state of being consolidated 巩固; 变坚固
+
+========================================================================
+>>> exploits
+------------------------------------------------------------------------
+exploits    ['eksplɔit; ik's-]
+n. 功绩，业绩；壮举（exploit的复数）
+v. 利用；开发（exploit的第三人称单数）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. [表不满] If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势)
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> halve
+------------------------------------------------------------------------
+halve    [美 hæv / 英 hɑːv]
+vt. 二等分；把……减半
+n. (Halve)人名；(芬)哈尔韦
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you halve something or when it halves, it is reduced to half its previous size or amount. 使减半; 减为一半
+   ≫   Dr. Lee believes that men who exercise can halve their risk of colon cancer.  李医生认为，男人坚持锻炼，可以使他们患结肠癌的风险减半。
+2. (V-T) If you halve something, you divide it into two equal parts. 把…对半分开
+   ≫   Halve the pineapple and scoop out the inside.  把菠萝对半切开，并取出内瓤。
+3. Halves is the plural of . (half)的复数形式
+
+========================================================================
+>>> counterpart
+------------------------------------------------------------------------
+counterpart    [美 'kaʊntɚpɑrt / 英 'kaʊntəpɑːt]
+n. 副本；配对物；极相似的人或物
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone's or something's counterpart is another person or thing that has a similar function or position in a different place. 对应的人或物
+   ≫   As soon as he heard what was afoot, he telephoned his German and Italian counterparts to protest.  他一听到在进行中的事，马上就给德国和意大利相应人员打电话抗议。
+
+========================================================================
+>>> reflecting
+------------------------------------------------------------------------
+reflecting    [美 rɪ'flɛktɪŋ / 英 rɪ'flektɪŋ]
+adj. 反射的；沉思的
+v. 反射；表明；考虑（reflect的ing形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something reflects an attitude or situation, it shows that the attitude or situation exists or it shows what it is like. 反映; 表现; 显示
+   ≫   A newspaper report seems to reflect the view of most members of Congress.  报纸的一篇报导似乎反映了国会多数议员的观点。
+2. (V-T/V-I) When light, heat, or other rays reflect off a surface or when a surface reflects them, they are sent back from the surface and do not pass through it. 反射
+   ≫   The sun reflected off the snow-covered mountains.  阳光从被雪覆盖的山峦反射回来。
+3. [usu passive] When something is reflected in a mirror or in water, you can see its image in the mirror or in the water. 映出
+   ≫   His image was reflected many times in the mirror.  他的影像在那面镜子里映出了很多个。
+4. (V-I) When you reflect on something, you think deeply about it. 深思
+   ≫   We should all give ourselves time to reflect.  我们都应该给自己时间来深思。
+5. (V-T) You can use reflect to indicate that a particular thought occurs to someone. 想到 (某事)
+   ≫   Things were very much changed since before the war, he reflected.  从战争开始前情况就已经发生了很大的变化，他想到。
+6. (V-I) If an action or situation reflects in a particular way on someone or something, it gives people a good or bad impression of them. 使对…产生某种印象
+   ≫   The affair hardly reflected well on the president.  这个事件很难让人对那位总统有好印象。
+
+========================================================================
+>>> capitalizes
+------------------------------------------------------------------------
+capitalizes
+v．
+1. 利用，借助：利用某种情况或事件以获得优势。
+2. 将……资本化：将某种资产或收益转化为资本。
+★ CET6+ TEM4 capitalizing,capitalized,capitalizes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you capitalize on a situation, you use it to gain some advantage for yourself. 利用
+   ≫   The rebels seem to be trying to capitalize on the public's discontent with the government.  反叛者们似乎正试图利用公众对政府的不满情绪。
+2. (V-T) In business, if you capitalize something that belongs to you, you sell it in order to make money. 使资本化 [商业]
+   ≫   Our intention is to capitalize the company by any means we can.  我们的目的是尽一切可能把该公司资本化。
+3. (V-T) If you capitalize a letter, you write it as a capital letter. If you capitalize a word, you spell it in capital letters, or with the first letter as a capital letter. 把…大写
+   ≫   Capitalize all proper nouns but not the articles (a, an) that precede them.  把所有的专有名词大写，它们之前的冠词(a, an)则不用。
+
+========================================================================
+>>> analogous
+------------------------------------------------------------------------
+analogous    [美 ə'næləɡəs / 英 ə'næləgəs]
+adj. 类似的；[昆] 同功的；可比拟的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If one thing is analogous to another, the two things are similar in some way. 类似的
+   ≫   Marine construction technology like this is very complex, somewhat analogous to trying to build a bridge under water.  像这样的海洋建筑技术非常复杂，有些类似于尝试在水下建筑一座桥。
+
+========================================================================
+>>> analogous to
+------------------------------------------------------------------------
+analogous to    [美 əˈnæləɡəs tu]
+类似于：与某事物在某种特定方面相似或相仿的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sleep has often been thought of as being in some way analogous to death. 人们常常认为睡眠在某种意义上来说类似死亡。《牛津词典》
+≫   For example, a gap just below aluminum suggested a new element would be found with properties analogous to those of aluminum. 例如，就在铝下面有一个空位，这表明还有一个性质和铝类似的新元素存在。
+≫   The mantle's motions, analogous to those in a pot of boiling water, cool the mantle by carrying hot material to the surface and returning cooler material to the depths. 地幔的运动类似于一壶沸水的运动，它把热的物质带到表面，再把较冷的物质带到深处，从而使地幔冷却。
+
+========================================================================
+>>> negligible
+------------------------------------------------------------------------
+negligible    [美 'nɛɡlɪdʒəbl / 英 'neglɪdʒɪb(ə)l]
+adj. 微不足道的，可以忽略的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An amount or effect that is negligible is so small that it is not worth considering or worrying about. 微不足道的
+   ≫   The pay that the soldiers received was negligible.  士兵们得到的津贴微乎其微。
+
+========================================================================
+>>> coarse granularity
+------------------------------------------------------------------------
+coarse granularity
+粗粒度：在计算机科学和数据处理中，粗粒度是指数据或任务被划分为较大的单元，这些单元可以独立处理或执行。粗粒度通常意味着较低的并行性和较高的计算开销。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Coarse granularity, that is, few distinct values. 粗粒度，也就是说不同的值很少的列。
+≫   The coarse granularity behavior based control structure is designed and realized in a strategy system. 实现了基于这种结构的策略程序，实战证明了该方法的正确性。
+≫   Coarse granularity: granularity with services refers to the extent of functionality that a service presents publicly. 粗粒度：服务的粒度是指服务公开给出的功能范围。
+
+========================================================================
+>>> fine granularity
+------------------------------------------------------------------------
+fine granularity
+细粒度：指数据或信息被划分为更小、更具体的部分或单元的程度。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   With adaptive page caching, WebSphere Portal defines these headers with fine granularity. 利用自适应页面缓存，WebSphere Portal对这些标头进行了细粒度的定义。
+≫   This paper studied the Fine Granularity Scalability Technology in MPEG - 4 standard. 本文研究了MPEG-4标准中的精细粒度伸缩编码技术。
+≫   Advanced mechanism to simplify treatment technology to extract both big and fine granularity dust. 先进的机理，简化了处理工艺，即可除大颗粒粉尘，又可除细粉尘。
+
+========================================================================
+>>> fine-grained granularity
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> embraces
+------------------------------------------------------------------------
+embraces
+v．
+1. 拥抱：用手臂环绕，表示喜欢、支持或友好。
+2. 包含，涵盖：包括在内，涉及到。
+★★ CET4 TEM4 embracing,embraced,embraces
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If you embrace someone, you put your arms around them and hold them tightly, usually in order to show your love or affection for them. You can also say that two people embrace. 拥抱
+   ≫   Penelope came forward and embraced her sister.  佩内洛普走上前来拥抱了她的妹妹。
+   ≫   At first people were sort of crying for joy and embracing each other.  开始时人们有点喜极而泣，互相拥抱。
+2. (N-COUNT) Embrace is also a noun. 拥抱
+   ≫   ...a young couple locked in an embrace.  …紧紧相拥的年轻一对。
+3. (V-T) If you embrace a change, political system, or idea, you accept it and start supporting it or believing in it. 欣然接受; 信奉 [正式]
+   ≫   He embraces the new information age.  他欢迎新的信息时代。
+4. (N-SING) Embrace is also a noun. 欣然接受; 信奉
+   ≫   The marriage signalled James's embrace of the Catholic faith.  这场婚姻标志着詹姆士对天主教的信奉。
+5. (V-T) If something embraces a group of people, things, or ideas, it includes them in a larger group or category. 囊括 [正式]
+   ≫   ...a theory that would embrace the whole field of human endeavour.  …一个囊括人类整个奋斗领域的理论。
+6. (V) to commit or attempt to commit embracery against (a jury, etc) 笼络(陪审员等) [criminal law]
+
+========================================================================
+>>> imperceptible
+------------------------------------------------------------------------
+imperceptible    [美 ,ɪmpɚ'sɛptəbl / 英 ɪmpə'septɪb(ə)l]
+adj. 感觉不到的；极细微的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is imperceptible is so small that it is not noticed or cannot be seen. 难以察觉的; 察觉不出的
+   ≫   Brian's hesitation was almost imperceptible.  布莱恩的犹豫几乎难以察觉。
+2. (ADV) imperceptibly
+   ≫   The disease develops gradually and imperceptibly.  该疾病难以察觉地逐渐发展着。
+
+========================================================================
+>>> unrolling
+------------------------------------------------------------------------
+unrolling    [英 ʌnˈrəʊlɪŋ / 美 ʌnˈroʊlɪŋ]
+v. （使）展开，铺开；相继出现，连续发生（unroll 的现在分词）
+unrolling,unrolled,unrolls
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you unroll something such as a sheet of paper or cloth, or if it unrolls, it opens up and becomes flat when it was previously rolled in a cylindrical shape. 展开; 摊开
+   ≫   I unrolled my sleeping bag on the floor as usual.  我象往常一样把睡袋摊开放在地上。
+
+========================================================================
+>>> consistent
+------------------------------------------------------------------------
+consistent    [美 kən'sɪstənt / 英 kən'sɪst(ə)nt]
+adj. 始终如一的，一致的；坚持的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is consistent always behaves in the same way, has the same attitudes towards people or things, or achieves the same level of success in something. 始终如一的
+   ≫   Becker was never the most consistent of players anyway.  贝克尔不管怎么说从来就不是一个很稳定的球员。
+2. (ADV) consistently 始终如一地
+   ≫   It's something I have consistently denied.  这是我始终否认的事。
+3. [v-link ADJ, usu ADJ 'with' n] If one fact or idea is consistent with another, they do not contradict each other. 相符的
+   ≫   This result is consistent with the findings of Garnett & Tobin.  该结果与加尼特和托宾的发现相符合。
+4. (ADJ) An argument or set of ideas that is consistent is one in which no part contradicts or conflicts with any other part. (论点、观点) 前后一致的
+   ≫   A theory should be internally consistent.  一套理论应当内在一致。
+
+========================================================================
+>>> encapsulated
+------------------------------------------------------------------------
+encapsulated    [美 ɪn'kæpsə,let / 英 ɪn'kæpsəleɪtɪd]
+adj. 密封的；包在荚膜内的
+v. 压缩（encapsulate的过去分词）；封进内部；装入胶囊
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To encapsulate particular facts or ideas means to represent all their most important aspects in a very small space or in a single object or event. 概括
+   ≫   A Wall Street Journal editorial encapsulated the views of many conservatives.  《华尔街日报》的一篇社论概括了很多保守派人士的观点。
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪk'sklusɪv / 英 ɪk'skluːsɪv; ek-]
+adj. 独有的；排外的；专一的
+n. 独家新闻；独家经营的项目；排外者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> encapsulate
+------------------------------------------------------------------------
+encapsulate    [英 ɪn'kæpsjʊleɪt; en- / 美 ɪn'kæpsjə'let]
+vt. 压缩；将…装入胶囊；将…封进内部；概述
+vi. 形成胶囊
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To encapsulate particular facts or ideas means to represent all their most important aspects in a very small space or in a single object or event. 概括
+   ≫   A Wall Street Journal editorial encapsulated the views of many conservatives.  《华尔街日报》的一篇社论概括了很多保守派人士的观点。
+
+========================================================================
+>>> conservatives
+------------------------------------------------------------------------
+conservatives    [kən'sə:vətiv]
+n. 保守党，保守派
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is conservative has views that are toward the political right. In the U.S. the Republicans are more conservative than the Democrats, who are more liberal. 持政治右倾观点的
+   ≫   ...counties whose citizens invariably support the most conservative candidate in any election.  …公民们在任何选举中都千篇一律地支持最保守的候选人的县。
+2. (N-COUNT) Conservative is also a noun. 右倾人士
+   ≫   The new judge is 50-year-old David Suitor who's regarded as a conservative.  这名新法官是50岁的、被视为右倾人士的戴维·休特。
+3. (ADJ) Someone who is conservative or has conservative ideas is unwilling to accept changes and new ideas. (观点) 保守的
+   ≫   People tend to be more liberal when they're young and more conservative as they get older.  人们在年轻时常常更开放，年纪越大就越保守。
+4. (ADJ) If someone dresses in a conservative way, their clothes are conventional in style. (衣着) 守旧的
+   ≫   The girl was well dressed, as usual, though in a more conservative style.  这个女孩像平常一样穿着得体，但式样则更守旧。
+5. [ADV with v] conservatively 保守地
+   ≫   She was always very conservatively dressed when we went out.  我们出门时她总是穿得很保守。
+6. (ADJ) A conservative estimate or guess is one in which you are cautious and estimate or guess a low amount which is probably less than the real amount. 保守的 (估计、猜测)
+   ≫   The average fan spends $25 – a conservative estimate based on ticket price and souvenirs.  平均球迷花费$25–根据票价和纪念品的一个保守估计。
+7. [ADV with v] conservatively 保守地 (估计、猜测)
+   ≫   The bequest is conservatively estimated at $30 million.  这笔遗产被保守地估计为3000万美元。
+8. (ADJ) A Conservative politician or voter is a member of or votes for the Conservative Party in Britain and in various other countries. (英国等) 保守党的
+   ≫   Most Conservative MPs appear happy with the government's reassurances.  大多数保守党的国会议员们看来对政府的保证感到满意。
+9. (N-COUNT) Conservative is also a noun. 保守党
+   ≫   In 1951 the Conservatives were returned to power.  1951年保守党再度执政。
+
+========================================================================
+>>> facilitates
+------------------------------------------------------------------------
+facilitates    [fə'siliteit]
+v. 促进；帮助；使…容易（facilitate的第三人称单数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+   ≫   The new airport will facilitate the development of tourism.  新机场将促进旅游业的发展。
+
+========================================================================
+>>> interoperability
+------------------------------------------------------------------------
+interoperability    ['ɪntər,ɒpərə'bɪlətɪ / 英 'ɪntər,ɒpərə'bɪlətɪ]
+n. [计] 互操作性；互用性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We found issues on both the client- and server-side that might not have otherwise been discovered as quickly without this kind of interoperability testing. 我们在客户端和服务器端都发现了一些问题，如果没有这种互操作性测试，我们不可能那么快地发现问题。
+≫   To maximize interoperability, you should declare an alias for each event that describes just the data type that it expects or produces; in other words, the minimum requirement for compatibility. 为了最大化互操作性，对于每个仅描述其预期或产生的数据类型的事件，您应该为其声明一个别名，换句话说，这就是最低兼容性要求。
+≫   You have been able to do some impressive things, but one of the goals of SOAP is interoperability. 您本来可以做一些令人印象深刻的工作，但 SOAP 的目标之一是互操作性。
+
+========================================================================
+>>> intrinsics
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> intrinsic
+------------------------------------------------------------------------
+intrinsic    [美 ɪn'trɪnsɪk / 英 ɪn'trɪnsɪk]
+adj. 本质的，固有的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] If something has intrinsic value or intrinsic interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things. 内在的; 本质的
+   ≫   Diamonds have little intrinsic value and their price depends almost entirely on their scarcity.  钻石没有多少内在价值，它们的价格几乎完全取决于其稀有程度。
+2. (ADV) intrinsically 固有地
+   ≫   Sometimes I wonder if people are intrinsically evil.  有时我怀疑人是否生来就是邪恶的。
+
+========================================================================
+>>> trem
+------------------------------------------------------------------------
+trem    [trem]
+pref. 表“发抖”
+n. (Trem)人名；(葡)特伦
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thank you TREM for your help every day. 谢谢托马斯谢谢你们每天的帮助。
+≫   TREM is an asset to my company when looking for products or company details. 托马斯在寻找产品和公司的具体信息时是我们公司的财富。
+≫   Then, make some short-trem planning in order to realise my long-term planning. 然后，为了实现我的长期计划做一些短期的规划。
+
+========================================================================
+>>> term
+------------------------------------------------------------------------
+term    [美 tɝm / 英 tɜːm]
+n. 术语；学期；期限；条款；(代数式等的)项
+vt. 把…叫做
+n. (Term)人名；(泰)丁
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) If you talk about something in terms of something or in particular terms, you are specifying which aspect of it you are discussing or from what point of view you are considering it. 从…角度来看
+   ≫   Our goods compete in terms of product quality, reliability and above all variety.  我们的产品从质量、可靠性、尤其是多样性来看很有竞争力。
+2. (PHRASE) If you say something in particular terms, you say it using a particular type or level of language or using language which clearly shows your attitude. 以某种语言
+   ≫   The video explains in simple terms how the new tax works.  该录像以浅显易懂的语言解释了新税法的运作方式。
+3. (N-COUNT) A term is a word or expression with a specific meaning, especially one which is used in relation to a particular subject. 术语
+   ≫   Myocardial infarction is the medical term for a heart attack.  心肌梗塞是心脏病发作的医学术语。
+4. (V-T) If you say that something is termed a particular thing, you mean that that is what people call it or that is their opinion of it. 把…称作
+   ≫   He had been termed a temporary employee.  他曾被称为临时工。
+5. (N-VAR) A term is one of the periods of time that a school, college, or university divides the year into. 学期
+   ≫   ...the summer term.  …夏季学期。
+6. (N-COUNT) A term is a period of time between two elections during which a particular party or government is in power. (政党或政府的) 任期
+   ≫   Nixon never completed his term of office.  尼克松没有完成自己的任期。
+7. (N-COUNT) A term is a period of time that someone spends doing a particular job or in a particular place. (工作或居住) 期间
+   ≫   ...a 12 month term of service.  …12个月的任职期。
+8. (N-COUNT) A term is the period for which a legal contract or insurance policy is valid. (合同或保险的) 有效期
+   ≫   Premiums are guaranteed throughout the term of the policy.  在保单的有效期内保证支付保险费。
+9. (N-UNCOUNT) The term of a woman's pregnancy is the nine month period that it lasts. Term is also used to refer to the end of the nine month period. 怀孕期; 临产
+   ≫   That makes her the first TV presenter to work the full term of her pregnancy.  那使她成了第一个在整个怀孕期间一直工作的电视节目主持人。
+10. (N-PLURAL) The terms of an agreement, treaty, or other arrangement are the conditions that must be accepted by the people involved in it. 条款
+   ≫   ...the terms of the Helsinki agreement.  …《赫尔辛基协议》的各项条款。
+11. (PHRASE) If you come to terms with something difficult or unpleasant, you learn to accept and deal with it. 接受
+   ≫   She had come to terms with the fact that her husband would always be crippled.  她已接受了丈夫将终生跛足这个事实。
+12. (PHRASE) If two people or groups compete on equal terms or on the same terms, neither of them has an advantage over the other. 在同等条件下
+   ≫   I had at last found a sport where I could compete on equal terms with able-bodied people.  我终于找到一种体育运动，能和身体健全的人公平竞赛
+13. (PHRASE) If two people are on good terms or on friendly terms, they are friendly with each other. 关系好
+   ≫   Madeleine is on good terms with Sarah.  马德琳和萨拉关系很好。
+14. (PHRASE) You use the expressions in the long term, in the short term, and in the medium term to talk about what will happen over a long period of time, over a short period of time, and over a medium period of time. 从长远/短期/中期来看
+   ≫   Organic fertilizers will have very positive results in the long term.  有机肥料从长远来看将产生非常积极的效果。
+15. (PHRASE) If you do something on your terms, you do it under conditions that you decide because you are in a position of power. 按照自己的意愿
+   ≫   They will sign the union treaty only on their terms.  他们在符合自己意愿的条件下才会签署联合条约。
+16. (PHRASE) If you say that you are thinking in terms of doing a particular thing, you mean that you are considering it. 考虑
+   ≫   You should be thinking in terms of graduating next year.  你应该考虑明年毕业的事了。
+17. in no uncertain terms →see
+
+========================================================================
+>>> halves
+------------------------------------------------------------------------
+halves    [美 hævz / 英 hɑːvz]
+n. 一学期；两等份（half的复数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (FRACTION) Halfof a number, an amount, or an object is one of two equal parts that together make up the whole number, amount, or object. 一半
+   ≫   She wore a diamond ring worth half a million dollars.  她戴了一枚价值50万美元的钻戒。
+   ≫   More than half of all U.S. households are heated with natural gas.  超过半数的美国家庭用天然气供暖。
+2. (PREDET) Half is also a predeterminer. 半
+   ≫   We just sat and talked for half an hour or so.  我们只是坐着谈了半小时左右。
+   ≫   They had only received half the money promised.  他们只收到了一半当初承诺的钱。
+3. [ADJ n] Half is also an adjective. 一半的
+   ≫   ...a half measure of fresh lemon juice.  …半量杯的新鲜柠檬汁。
+4. (ADV) You use half to say that something is only partly the case or happens to only a limited extent. 部分地; 有点儿
+   ≫   His eyes were half closed.  他的双眼半闭着。
+   ≫   His refrigerator frequently looked half empty.  他的冰箱经常看上去有点儿空。
+5. (N-COUNT) In games such as football, American football, rugby, and basketball, games are divided into two equal periods of time which are called halves. (球赛的) 半场
+   ≫   The only goal was scored by Jakobsen early in the second half.  这惟一的进球是雅各布森在下半场开始不久打进的。
+6. [ADV adj] You use half to say that someone has parents of different nationalities. For example, if you are half German, one of your parents is German but the other is not. 一半…血统地
+   ≫   She was half Italian and half English.  她是一半意大利一半英国血统。
+7. (PHRASE) You use half past to refer to a time that is thirty minutes after a particular hour. …点半
+   ≫   "What time were you planning lunch?"—"Half past twelve, if that's convenient."  “你打算什么时间吃午饭？”—“12:30，如果方便的话。”
+8. [ADV adj] You can use half before an adjective describing an extreme quality, as a way of emphasizing and exaggerating something. 半…的
+   ≫   He felt half dead with tiredness.  他感觉累得半死。
+9. (PREDET) Half can also be used in this way with a noun referring to a long period of time or a large quantity. 半…的
+   ≫   I thought about you half the night.  我想了你半夜。
+10. [强调] You use not half to emphasize a negative quality that someone has. 一点儿也不
+   ≫   You're not half the man you think you are.  你一点儿也不是你自认为的那种男人。
+11. (PHRASE) If two people go halves, they divide the cost of something equally between them. 分摊费用
+   ≫   She went halves on gas.  她分摊了煤气费用。
+
+========================================================================
+>>> aggregation
+------------------------------------------------------------------------
+aggregation    [美 ,ægrɪ'geʃən / 英 ,æɡrɪ'ɡeɪʃən]
+n. [地质][数] 聚合，聚集；聚集体，集合体
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or process of aggregating 聚集
+
+========================================================================
+>>> circumvent
+------------------------------------------------------------------------
+circumvent    [英 sɜːkəm'vent / 美 ,sɝkəm'vɛnt]
+vt. 包围；陷害；绕行
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone circumvents a rule or restriction, they avoid having to obey the rule or restriction, in a clever and perhaps dishonest way. (利用小聪明)回避
+   ≫   Military planners tried to circumvent the treaty.  军事计划员们试图避开此条约。
+
+========================================================================
+>>> strive
+------------------------------------------------------------------------
+strive    [美 straɪv / 英 straɪv]
+vi. 努力；奋斗；抗争
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you strive to do something or strive for something, you make a great effort to do it or get it. 努力
+   ≫   He strives hard to keep himself very fit.  他努力使自己保持非常的健康。
+
+========================================================================
+>>> strive to
+------------------------------------------------------------------------
+strive to    [美 straɪv tu]
+尽力做某事：努力尝试做某事，尤其是在长时间或困难的情况下。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Newspaper editors all strive to be first with a story. 报纸编辑都力争率先报道。《牛津词典》
+≫   You should always strive to achieve more, however well you have done before. 不管以前做得多么好，你应该始终争取更大的进步。《柯林斯英汉双解大词典》
+≫   Should a leader strive to be loved or feared? 领导者应该努力让人爱还是让人怕？
+
+========================================================================
+>>> empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> Register swizzling
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：8813
+Register swizzling
+注册狂饮
+
+========================================================================
+>>> swizzling
+------------------------------------------------------------------------
+swizzling
+vt. 用搅酒棒拌和（swizzle 的现在分词）
+vi. 过量饮酒（swizzle 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an unshaken cocktail 未摇的鸡尾酒 [美国英语]
+2. (V) to stir a swizzle stick in (a drink) 把调酒棒插入(饮品中)
+
+========================================================================
+>>> swizzle
+------------------------------------------------------------------------
+swizzle    [英 'swɪz(ə)l /  'swɪz(ə)l]
+n. 碎冰鸡尾酒
+vt. 狂饮；用搅酒棒拌和
+vi. 纵酒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] an unshaken cocktail 未摇的鸡尾酒
+2. (V) to stir a swizzle stick in (a drink) 把调酒棒插入(饮品中)
+
+========================================================================
+>>> opt
+------------------------------------------------------------------------
+opt    [英 ɒpt / 美 ɑpt]
+vi. 选择
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you opt for something, or opt to do something, you choose it or decide to do it in preference to anything else. 选择
+   ≫   Depending on your circumstances you can opt for one method or the other.  根据自己的情况，你可以选择这种或那种方法。
+
+========================================================================
+>>> apt
+------------------------------------------------------------------------
+apt    [美 æpt / 英 æpt]
+adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的
+【名】 （Apt）（英、法、波）阿普特（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An apt remark, description, or choice is especially suitable. 恰当的
+   ≫   The words of this report are as apt today as in 1929.  这份报告的措词在当今如在1929年一样恰当。
+2. (ADV) y ADV 恰当地
+   ≫   ...the beach in the aptly named town of Oceanside.  …命名贴切的“海边镇”上的沙滩。
+3. (ADJ) If someone is apt to do something, they often do it and so it is likely that they will do it again. 易于…的 [v-link ADJ to-inf]
+   ≫   She was apt to raise her voice and wave her hands about.  她常常提高嗓门并挥舞双手。
+4. (ADJ) An apt student is intelligent and able to understand things easily. 聪慧的 [ADJ n]
+   ≫   She had taught him French and he had been an apt student.  她教过他法语，他一直是个聪慧的学生。
+
+========================================================================
+>>> contiguous
+------------------------------------------------------------------------
+contiguous    [美 kən'tɪɡjuəs / 英 kən'tɪgjʊəs]
+adj. 连续的；邻近的；接触的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft ADJ 'to/with' n] Things that are contiguous are next to each other or touch each other. 邻近的
+   ≫   Its vineyards are virtually contiguous with those of Ausone.  其葡萄园几乎与奥索尼的葡萄园相连。
+   ≫   ...two years of travel throughout the 48 contiguous states.  ...两年里穿行于毗邻的48个州。
+
+========================================================================
+>>> non-contiguous
+------------------------------------------------------------------------
+non-contiguous
+非相邻的
+非连续的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Its mainland territory is split in two non-contiguous parts by the short coastline of Bosnia and Herzegovina around Neum. 它的大陆领地被波黑在Neum附近的短海岸线划分成两个并不相邻的部分。
+≫   The transmission subsystem provides the foundation for the network's dynamic capability to transfer data over a highly dispersed, non-contiguous area. 该传输子系统提供了在一个高分散、非连续模块区域传输数据的网络动态能力。
+≫   Experiments show that with a better efficiency the translation results of our non-contiguous phrase-based model and hierarchical model are comparable. 实验表明，在效率提高的情况下，非连续短语模型可以取得与层次型短语模型相当的翻译结果。
+
+========================================================================
+>>> contiguous
+------------------------------------------------------------------------
+contiguous    [美 kən'tɪɡjuəs / 英 kən'tɪgjʊəs]
+adj. 连续的；邻近的；接触的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft ADJ 'to/with' n] Things that are contiguous are next to each other or touch each other. 邻近的
+   ≫   Its vineyards are virtually contiguous with those of Ausone.  其葡萄园几乎与奥索尼的葡萄园相连。
+   ≫   ...two years of travel throughout the 48 contiguous states.  ...两年里穿行于毗邻的48个州。
+
+========================================================================
+>>> evalution
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> evaluation
+------------------------------------------------------------------------
+evaluation    [英 ɪˌvæljuˈeɪʃn / 美 ɪ,væljʊ'eʃən]
+n. 评价；[审计] 评估；估价；求值
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Evaluation: What do you have? 评估：您有什么？
+≫   How will this affect your next performance evaluation? 这将如何影响您下一步的性能评价？
+≫   Therefore, the critical evaluation need is one of measurement, and this should be the primary goal of the tester in this phase. 因此，关键的评估需求是其中一个度量，并且这应该是此阶段测试人员主要的目标。
+
+========================================================================
+>>> concurrently
+------------------------------------------------------------------------
+concurrently    [kən'kɝəntli]
+adv. 兼；同时发生地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Or it can perform some of its work concurrently with the application. 或者它可以与应用程序同时执行自己的一些工作。
+≫   So, whether the code is buggy depends on how many threads can access the operation concurrently. 所以，代码是否有问题取决于有多少线程能够并发地访问这个操作。
+≫   There is one lock list per database, and it contains the locks held by all applications concurrently connected to the database. 每个数据库都有一个锁列表，锁列表包含了并发连接到该数据库的所有应用程序所持有的锁。
+
+========================================================================
+>>> indicating
+------------------------------------------------------------------------
+indicating    [美 'ɪndɪketɪŋ / 英 'ɪndɪkeɪtɪŋ]
+n. 表明；指示
+v. 表明；指示；要求（indicate的ing形式）
+adj. 指示的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing indicates another, the first thing shows that the second is true or exists. 表明
+   ≫   A survey of retired people has indicated that most are independent and enjoying life.  一项对退休人员的调查表明，他们中的大部分人生活自立而愉快。
+   ≫   Our vote today indicates a change in United States policy.  我们今天的投票表明了美国政策的变化。
+2. (V-T) If you indicate an opinion, an intention, or a fact, you mention it in an indirect way. 暗示
+   ≫   Mr. Rivers has indicated that he may resign.  里弗斯先生已经暗示他可能要辞职。
+3. [正式] If you indicate something to someone, you show them where it is, especially by pointing to it. 指示
+   ≫   He indicated a chair. "Sit down."  他指着一把椅子说，“坐下。”
+4. (V-T) If one thing indicates something else, it is a sign of that thing. 象征; 代表
+   ≫   Dreams can help indicate your true feelings.  梦能代表你的真实情感。
+5. (V-T) If a technical instrument indicates something, it shows a measurement or reading. (仪器等) 指示
+   ≫   ...an instrument used to indicate wind direction.  …一台用于指示风向的仪器。
+6. [英国英语] When drivers indicate, they make lights flash on one side of their vehicle to show that they are going to turn in that direction. (车辆打转向灯) 指示转向
+
+========================================================================
+>>> encompass
+------------------------------------------------------------------------
+encompass    [美 ɪn'kʌmpəs / 英 ɪn'kʌmpəs; en-]
+vt. 包含；包围，环绕；完成
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something encompasses particular things, it includes them. 包含
+   ≫   His repertoire encompassed everything from Bach to Schoenberg.  他的表演曲目从巴赫到勋伯格，样样俱全。
+2. (V-T) To encompass a place means to completely surround or cover it. 围住; 覆盖
+   ≫   The map shows the rest of the western region, encompassing nine states.  这地图显示了其余西部区域，覆盖了9个州。
+
+========================================================================
+>>> guarantees
+------------------------------------------------------------------------
+guarantees    [,ɡærən'ti:]
+v. 保证（guarantee的第三人称单数）
+n. 保证，[法] 担保；抵押物（guarantee的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing guarantees another, the first is certain to cause the second thing to happen. 确保
+   ≫   Surplus resources alone do not guarantee growth.  仅有富足的资源并不能确保发展。
+2. (N-COUNT) Something that is a guarantee of something else makes it certain that it will happen or that it is true. 保证
+   ≫   A famous old name on a firm is not necessarily a guarantee of quality.  公司的老字号并不一定能保证质量。
+3. (V-T) If you guarantee something, you promise that it will definitely happen, or that you will do or provide it for someone. 保证…必定发生; 保证…做某事或提供某物
+   ≫   Most states guarantee the right to free and adequate education.  大多数州都保证免费和适当教育的权利。
+   ≫   We guarantee that you will find a community with which to socialize.  我们保证你将找到一个可以社交的团体。
+4. (N-COUNT) Guarantee is also a noun. 保证
+   ≫   The editors can give no guarantee that they will fulfil their obligations.  这些编辑不能保证他们将履行职责。
+5. [also 'under' N] A guarantee is a written promise by a company to replace or repair a product free of charge if it has any faults within a particular time. 保修单
+   ≫   Whatever a guarantee says, when something goes wrong, you can still claim your rights from the shop.  不管保修单上怎么说，当产品出现故障时，你仍然可以去商店维护自身的权益。
+6. (V-T) If a company guarantees its product or work, they provide a guarantee for it. 担保
+   ≫   Some builders guarantee their work.  一些建筑商为他们的工作担保。
+   ≫   All Dreamland's electric blankets are guaranteed for three years.  所有“梦乡”牌的电热毯都保质3年。
+7. (N-COUNT) A guarantee is money or something valuable that you give to someone to show that you will do what you have promised. 担保物
+   ≫   Males between 18 and 20 had to leave a deposit as a guarantee of returning to do their military service.  18岁至20岁的男性必须留下押金作为回来服兵役的担保。
+
+========================================================================
+>>> derived from
+------------------------------------------------------------------------
+derived from    [美 dɪˈraɪvd frəm]
+源自：表示某物、观念或行为起源于或基于另一物、观念或行为。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The name Anastasia is derived from a Greek word meaning "of the resurrection." 阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。《柯林斯英汉双解大词典》
+≫   Many English words are derived from Latin and Greek words. 许多英语词是从拉丁词和希腊词派生而来的。《新英汉大辞典》
+≫   The name is derived from their Goddess of memory "Mnemosyne". 这个名字来源于他们的记忆女神“Mnemosyne”。
+
+========================================================================
+>>> trained from scratch
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> trained from scratch
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10200
+trained from scratch
+从零开始训练
+
+========================================================================
+>>> from scratch
+------------------------------------------------------------------------
+from scratch
+白手起家；从头做起
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In dealing with this situation, we do not have the luxury of starting from scratch. 在处理这类情况时，我们没有可以从头开始的有利条件。
+≫   So all the custom rules you write need to be written from scratch even if a built in one almost does what you want. 因此你所编写的所有自定义规则都需要从头做起，即便其中的一个已经几乎达到了你的目的。
+≫   Should you start from scratch? 你是否应该从零开始？
+
+========================================================================
+>>> scratch
+------------------------------------------------------------------------
+scratch    [美 skrætʃ / 英 skrætʃ]
+n. 擦伤；抓痕；刮擦声；乱写
+adj. 打草稿用的；凑合的；碰巧的
+vt. 抓；刮；挖出；乱涂
+vi. 抓；搔；发刮擦声；勉强糊口；退出比赛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you scratch yourself, you rub your fingernails against your skin because it is itching. 挠
+   ≫   He scratched himself under his arm.  他在自己腋下挠了挠。
+   ≫   The old man lifted his cardigan to scratch his side.  那位老人撩起他的开襟毛衣挠了挠身子侧面。
+2. (V-T) If a sharp object scratches someone or something, it makes small shallow cuts on their skin or surface. 划破
+   ≫   The branches tore at my jacket and scratched my hands and face.  那些树枝挂了我的夹克，划破了我的双手和脸。
+3. (N-COUNT) Scratches on someone or something are small shallow cuts. 划伤
+   ≫   The seven-year-old was found crying with scratches on his face and neck.  那个7岁的孩子被找到时正在哭，脸上和颈上都有划伤。
+4. (PHRASE) If you do something from scratch, you do it without making use of anything that has been done before. 从零开始
+   ≫   Building a home from scratch can be both exciting and challenging.  白手起家既激动人心又具有挑战性。
+5. (PHRASE) If you say that someone is scratching their head, you mean that they are thinking hard and trying to solve a problem or puzzle. 绞尽脑汁思考
+   ≫   The Institute spends a lot of time scratching its head about how to boost American productivity.  这家研究所花大量时间绞尽脑汁思考怎样推进美国的生产力。
+
+========================================================================
+>>> versatility
+------------------------------------------------------------------------
+versatility    [美 ,vɝsə'tɪləti / 英 ,vɜːsə'tɪləti:]
+n. 多功能性；多才多艺；用途广泛
+
+========================================================================
+>>> efficacy
+------------------------------------------------------------------------
+efficacy    [美 'ɛfɪkəsi / 英 'efɪkəsɪ]
+n. 功效，效力
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you talk about the efficacy of something, you are talking about its effectiveness and its ability to do what it is supposed to. 功效
+   ≫   Recent medical studies confirm the efficacy of a healthier lifestyle.  近来的医学研究证实了更健康的生活方式的功效。
+
+========================================================================
+>>> efficiency
+------------------------------------------------------------------------
+efficiency    [美 ɪˈfɪʃənsɪ / 英 ɪ'fɪʃ(ə)nsɪ]
+n. 效率；效能；功效
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Efficiency is the quality of being able to do a task successfully, without wasting time or energy. 效率
+   ≫   There are many ways to increase agricultural efficiency in the poorer areas of the world.  有许多提高世界较贫困地区农业效能的方法。
+
+========================================================================
+>>> Distiller
+------------------------------------------------------------------------
+distiller    [英 dɪ'stɪlə / 美 dɪ'stɪlɚ]
+n. 蒸馏器；蒸馏酒者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A distiller is a person or a company that makes whisky or a similar strong alcoholic drink by a process of distilling. 蒸馏酒者; 蒸馏酒公司
+
+========================================================================
+>>> distill
+------------------------------------------------------------------------
+distill    [dɪs'tɪl]
+vt. 提取；蒸馏；使滴下
+vi. 蒸馏；滴下；作为精华产生（等于distil）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This volume distills 20 years of trading and teaching experience. 这本书提炼了20年的交易和教学经验。
+≫   Function#wrap distills the essence of aspect-oriented programming into a single method Function#wrap提取面向方面编程的精华到一个单个方法中
+≫   And if you grudge the crushing of the grapes, your grudge distills a poison in the wine. 如果你们不情愿地榨葡萄汁，你们的不情愿就会在葡萄酒中参杂一滴毒液。
+
+========================================================================
+>>> distillation
+------------------------------------------------------------------------
+distillation    [美 ,dɪstl'eʃən / 英 ,dɪstɪ'leɪʃn]
+n. 蒸馏，净化；蒸馏法；精华，蒸馏物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As alchemy evolved into the science of chemistry, vessels called retorts became used for distillations . 随着炼金术发展成为化学，叫作曲颈瓶的容器开始用于蒸馏。
+≫   World heritage, national famous scenic areas are distillations of our country' s landscape, are the testimony of our history and civilization. 世界遗产、国家风景区是祖国壮丽河山的缩影是国土景观的精华，是祖国文明历史的见证。
+≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
+
+========================================================================
+>>> pronounced
+------------------------------------------------------------------------
+pronounced    [美 prə'naʊnst / 英 prə'naʊnst]
+adj. 显著的；断然的；讲出来的
+v. 发音；宣告；断言（pronounce的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is pronounced is very noticeable. 明显的
+   ≫   Most of the art exhibitions have a pronounced Appalachian theme.  大部分艺术展品都有一种明显的阿巴拉契亚主题。
+
+========================================================================
+>>> conduct
+------------------------------------------------------------------------
+conduct    [英 'kɒndʌkt / 美 kən'dʌkt]
+vi. 导电；带领
+vt. 管理；引导；表现
+n. 进行；行为；实施
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you conduct an activity or task, you organize it and do it. 组织并实施
+   ≫   I decided to conduct an experiment.  我决定做一项实验。
+2. (V-T) If you conduct yourself in a particular way, you behave in that way. (以某种方式) 表现
+   ≫   The way he conducts himself reflects on the family.  他的行为方式折射出他的家庭。
+3. (V-T/V-I) When someone conducts an orchestra or choir, they stand in front of it and direct its performance. 指挥 (交响乐、合唱等)
+   ≫   Dennis had recently begun a successful career conducting opera.  丹尼斯最近成功地开始了指挥歌剧的生涯。
+   ≫   Solti continued to conduct here and abroad.  佐尔蒂继续在国内外指挥。
+4. [no cont] If something conducts heat or electricity, it allows heat or electricity to pass through it or along it. 传导 (热、电)
+   ≫   Water conducts heat faster than air.  水比空气导热快。
+5. (N-SING) The conduct of a task or activity is the way in which it is organized and carried out. 进行实施
+   ≫   Also up for discussion will be the conduct of free and fair elections.  还需讨论的是公平自由的选举如何进行。
+6. (N-UNCOUNT) Someone's conduct is the way they behave in particular situations. (某人在某情形中的) 行为方式
+   ≫   For Europeans, the law is a statement of basic principles of civilized conduct.  对欧洲人来说，该法律是对基本文明行为原则的表述。
+
+========================================================================
+>>> conducted experiments
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11953
+conducted experiments
+进行了实验：指进行科学或实验室实验以获取数据或验证理论。
+
+========================================================================
+>>> integral
+------------------------------------------------------------------------
+integral    [美 'ɪntɪɡrəl / 英 ˈɪntɪɡrəl]
+adj. 积分的；完整的，整体的；构成整体所必须的
+n. 积分；部分；完整
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is an integral part of something is an essential part of that thing. 构成整体所必需的
+   ≫   Rituals, celebrations, and festivals form an integral part of every human society.  仪式、庆典和节日是每个人类社会不可缺少的组成部分。
+≫  未找到守护进程，正在启动...
+
+========================================================================
+>>> Differential
+------------------------------------------------------------------------
+differential    [美 'dɪfə'rɛnʃəl / 英 ,dɪfə'renʃ(ə)l]
+adj. 微分的；差别的；特异的
+n. 微分；差别
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In mathematics and economics, a differential is a difference between two values in a scale. (数学) 微分; (经济) 差价
+   ≫   ...the wage differential between blue-collar and white-collar workers.  …蓝领与白领工作人员之间的工资差别。
+
+========================================================================
+>>> as depicted in
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12189
+as depicted in
+如
+
+========================================================================
+>>> permutation
+------------------------------------------------------------------------
+permutation    [英 pɜːmjʊ'teɪʃ(ə)n / 美 'pɝmjʊ'teʃən]
+n. [数] 排列；[数] 置换
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu pl] A permutation is one of the ways in which a number of things can be ordered or arranged. 排列
+   ≫   Variation among humans is limited to the possible permutations of our genes.  人类的变化形式受限于我们基因可能的那些排列。
+
+========================================================================
+>>> non-negligible
+------------------------------------------------------------------------
+non-negligible
+adj. 不可忽视的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mr Fischer believed the August loan had a "non-negligible" chance of success-one worth taking to avoid the catastrophe that followed. 费舍尔先生相信8月贷款有着“不可忽视”的成功机率——它值得采纳来避免随后的灾难。
+≫   Build operations however, which often involve processing the entire content of a rule project will take a non-negligible amount of time to be performed. 然而，构建操作系统(通常涉及到处理一个规则项目的全部内容)需要花费大量的时间。
+≫   As the motorcycle amount increases continuously, the tail gas pollution of motorcycle becomes a non-negligible part of the tail gas pollution from city vehicles. 随着我国国民摩托车保有量的不断增长，摩托车尾气排放污染已成为城市机动车排气污染的一个不容忽视的部分。
+
