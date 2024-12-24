@@ -38734,3 +38734,97 @@ n. 锭；铸块
 dimensity
 n. <旧>尺寸，范围（同 dimension）
 
+========================================================================
+>>> audit
+------------------------------------------------------------------------
+audit    [美 ˈɔːdɪt / 英 ˈɔːdɪt]
+n. 审计，查……的账目；审查，审核；审计报告
+v. 审计，查账；<美>旁听
+★★ CET6+ TEM4 auditing,audited,audits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly. 审计
+   ≫   Each year they audit our accounts and certify them as being true and fair.  每年他们都会审核我们的账目，以证明其准确合理。
+2. (N-COUNT) Audit is also a noun. 审计
+   ≫   The bank first learned of the problem when it carried out an internal audit.  银行是在进行内部审计时最先得知这个问题的。
+
+========================================================================
+>>> auditing
+------------------------------------------------------------------------
+auditing    [美 ˈɔːdɪtɪŋ / 英 ˈɔːdɪtɪŋ 　]
+n. 审计，查账
+v. 审计，查账；<美>旁听（audit 的现在分词形式）
+★★ CET6+ TEM4 auditing,audited,audits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly. 审计
+   ≫   Each year they audit our accounts and certify them as being true and fair.  每年他们都会审核我们的账目，以证明其准确合理。
+2. (N-COUNT) Audit is also a noun. 审计
+   ≫   The bank first learned of the problem when it carried out an internal audit.  银行是在进行内部审计时最先得知这个问题的。
+
+========================================================================
+>>> incremental
+------------------------------------------------------------------------
+incremental    [英 ˌɪŋkrəˈment(ə)l / 美 ɪnkrəˈməntl]
+adj. 增加的，递增的；逐渐的，逐步的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Incremental is used to describe something that increases in value or worth, often by a regular amount. 递增的 [正式] [usu ADJ n]
+   ≫   ...our ability to add production capacity at relatively low incremental cost.  ...我们以比原成本稍微高出一点但又相对较低的成本增加产量的能力。
+
+========================================================================
+>>> infra
+------------------------------------------------------------------------
+infra    [美 ˈɪnfrə / 英 ˈɪnfrə]
+adv. （文书用语）在下；下文
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) (esp in textual annotation) below; further on 下文
+
+========================================================================
+>>> AI Infra
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1095
+AI Infra
+AI下文
+
+========================================================================
+>>> canary
+------------------------------------------------------------------------
+canary    [美 kəˈneri / 英 kəˈneəri]
+n. 金丝雀；淡黄色，鲜黄色；加纳利甜酒
+n. （Canary）（美、印、英）卡纳里
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Canaries are small, yellow birds which sing beautifully and are often kept as pets. 金丝雀
+
+========================================================================
+>>> canary string
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1201
+canary string
+金丝雀的字符串
+
+========================================================================
+>>> retrieving
+------------------------------------------------------------------------
+retrieving    [美 rɪˈtriːvɪŋ]
+v. 取回，索回；检索数据；挽回，找回；收绕钓鱼线；捡起；回忆；（狗）找到并衔回（中枪猎物）（retrieve 的现在分词）
+★★ CET6 TEM8 retrieving,retrieved,retrieves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+
+========================================================================
+>>> quine
+------------------------------------------------------------------------
+quine
+奎因
+n. （Quine）人名；（法）基纳；（英）奎因
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For W. V. O. Quine, however, this constitutes an overly "narrow" conception of empiricism. 然而，对 W.V.O.奎因来说，这构成了一个过于“狭窄”的经验主义概念。
+≫   Quine: It's true, I do reject this view. 不错，我是反对这种看法。
+≫   Whether Quine was right remains the bone of vigorous philosophical contention to this day. 蒯因的说法是否成立，直到今天依然是哲学上众说纷纭的话题。
+
