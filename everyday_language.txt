@@ -40003,3 +40003,37 @@ adv. 值得赞扬地
 1. (ADJ) If you describe someone's behaviour as commendable, you approve of it or are praising it. 值得称赞的 [正式]
    ≫   He has acted with commendable speed.  他以值得称赞的速度付诸了行动。
 
+========================================================================
+>>> carnation
+------------------------------------------------------------------------
+carnation    [英 kɑːˈneɪʃn / 美 kɑːrˈneɪʃn]
+n. 香石竹，康乃馨；肉红色，粉红色
+adj. 肉红色的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A carnation is a plant with white, pink, or red flowers. 康乃馨
+
+========================================================================
+>>> reincarnation
+------------------------------------------------------------------------
+reincarnation    [英 ˌriːɪnkɑːˈneɪʃn / 美 ˌriːɪnkɑːrˈneɪʃn]
+n. 再生；化身
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you believe in reincarnation, you believe that you will be reincarnated after you die. 转世再生
+   ≫   Many African tribes believe in reincarnation.  很多非洲部落相信转世再生。
+2. (N-COUNT) A reincarnation is a person or animal whose body is believed to contain the spirit of a dead person. (灵魂转世的) 化身
+   ≫   Another little girl, believed to be the reincarnation of her grandmother, was obsessed with sewing.  另外一个据说是她祖母转世化身的小女孩痴迷于缝纫。
+
+========================================================================
+>>> incarnation
+------------------------------------------------------------------------
+incarnation    [英 ˌɪnkɑːˈneɪʃn / 美 ˌɪnkɑːrˈneɪʃn]
+n. 化身；道成肉身；典型
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you say that someone is the incarnation of a particular quality, you mean that they represent that quality or are typical of it in an extreme form. 典型
+   ≫   The regime was the very incarnation of evil.  该政权正是邪恶的典型。
+2. (N-COUNT) An incarnation is an instance of being alive on earth in a particular form. Some religions believe that people have several incarnations in different forms. 化身
+   ≫   She began recalling a series of previous incarnations.  她开始回想起种种前世化身。
+
