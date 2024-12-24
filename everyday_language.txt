@@ -39668,3 +39668,338 @@ v. 取回，索回；检索数据；挽回，找回；收绕钓鱼线；捡起�
 3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
    ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
 
+========================================================================
+>>> stay strong, stay positive
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：12879
+stay strong, stay positive
+保持坚强，保持积极
+
+========================================================================
+>>> anticipate
+------------------------------------------------------------------------
+anticipate    [美 ænˈtɪsɪpeɪt / 英 ænˈtɪsɪpeɪt]
+v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）
+★★ CET4 TEM4 anticipating,anticipated,anticipates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you anticipate an event, you realize in advance that it may happen and you are prepared for it. 预期
+   ≫   At the time we couldn't have anticipated the result of our campaigning.  当时我们不可能预期到我们活动的结果。
+   ≫   It is anticipated that the equivalent of 192 full-time jobs will be lost.  据预测相当于192个全职的工作将会丧失。
+2. (V-T) If you anticipate a question, request, or need, you do what is necessary or required before the question, request, or need occurs. 预先准备
+   ≫   What Jeff did was to anticipate my next question.  杰夫所做的是预先准备我的下一个问题。
+
+========================================================================
+>>> anticipated
+------------------------------------------------------------------------
+anticipated    [美 ænˈtɪsɪpeɪtɪd / 英 ænˈtɪsɪpeɪtɪd]
+adj. 受期待的，让人期盼的
+v. 预期，预料；期待，盼望；先于…做，抢先…做（anticipate 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If an event, especially a cultural event, is eagerly anticipated, people expect that it will be very good, exciting, or interesting. 受期盼的
+   ≫   ...the most eagerly anticipated rock event of the year.  ...本年度最受热切期盼的摇滚比赛。
+   ≫   ...one of the conference's most keenly anticipated debates.  ...本次大会最受强烈期盼的辩论之一。
+
+========================================================================
+>>> affiliations
+------------------------------------------------------------------------
+affiliations
+n. 联盟；附属机构；加入（affiliation 的复数）
+★ CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If one group has an affiliation with another group, it has a close or official connection with it. 紧密联系; 官方联系 [正式]
+   ≫   The kidnappers had no affiliation with any militant group.  这些绑架者与任何军事组织都没有紧密联系。
+
+========================================================================
+>>> affiliation
+------------------------------------------------------------------------
+affiliation    [美 əˌfɪliˈeɪʃ(ə)n / 英 əˌfɪliˈeɪʃ(ə)n]
+n. （与政治、宗教等组织的）联系，从属关系；加盟，加入
+★ CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If one group has an affiliation with another group, it has a close or official connection with it. 紧密联系; 官方联系 [正式]
+   ≫   The kidnappers had no affiliation with any militant group.  这些绑架者与任何军事组织都没有紧密联系。
+
+========================================================================
+>>> affilite
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> affiliate
+------------------------------------------------------------------------
+affiliate    [英 əˈfɪlieɪt / 美 əˈfɪlieɪt]
+v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成员
+n. 附属机构，分支机构
+★★ CET6 TEM8 affiliating,affiliated,affiliates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An affiliate is an organization which is officially connected with another, larger organization or is a member of it. 分支机构; 成员组织 [正式]
+   ≫   The World Chess Federation has affiliates in around 120 countries.  世界象棋联盟在大约一百二十个国家内设有分支机构。
+2. (V-I) If an organization affiliates with another larger organization, it forms a close connection with the larger organization or becomes a member of it. 成为隶属机构; 成为会员组织 [正式]
+   ≫   He wanted to affiliate with a U.S. firm because he needed expert advice in legal affairs.  他想成为一家美国公司的会员，因为他需要法律事务方面的专家意见。
+
+========================================================================
+>>> decorated christmas tree
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：32113
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> decorated christmas tree
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：32176
+decorated christmas tree
+装饰圣诞树
+
+========================================================================
+>>> acquaintances
+------------------------------------------------------------------------
+acquaintance    [美 əˈkweɪntəns / 英 əˈkweɪntəns]
+n. 相识的人，泛泛之交；认识，相识；所知，了解
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An acquaintance is someone who you have met and know slightly, but not well. 相识之人
+   ≫   He exchanged a few words with the proprietor, an old acquaintance of his.  他跟一位业主，他的一位老相识交谈了几句。
+2. (N-VAR) If you have an acquaintance with someone, you have met them and you know them. 结识
+   ≫   ...a writer who becomes involved in a real murder mystery through his acquaintance with a police officer.  …一位通过他同一名警官的结识而卷入一起真正的谋杀谜案的作家。
+3. (PHRASE) When you make someone's acquaintance, you meet them for the first time and get to know them a little. 与某人初次相识 [正式]
+   ≫   I first made his acquaintance in the early 1960s.  我在20世纪60年代初第一次认识了他。
+
+========================================================================
+>>> Christmas Eve
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：41606
+Christmas Eve
+n. 圣诞节前夕（12月24日），平安夜
+
+========================================================================
+>>> decorated
+------------------------------------------------------------------------
+decorated    [美 ˈdekəreɪtɪd / 英 ˈdekəreɪtɪd]
+adj. 装饰的，修饰的；哥特式建筑的
+v. 装饰，修饰；粉刷或裱糊（房间），装修；授予（某人）勋章（decorate 的过去式和过去分词）
+★★★ CET4 TEM4 decorating,decorated,decorates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you decorate something, you make it more attractive by adding things to it. 装饰
+   ≫   He decorated his room with pictures of all his favourite sports figures.  他用他所喜爱的所有运动员的照片装饰自己的房间。
+2. (V-T/V-I) If you decorate a room or the inside of a building, you put new paint or wallpaper on the walls and ceiling, and paint the woodwork. 装修
+   ≫   When they came to decorate the rear bedroom, it was Jemma who had the final say.  他们开始装修后卧室时，说了算的人是杰马。
+   ≫   The boys are planning to decorate when they get the time.  男孩们正计划在他们有时间的时候装修。
+3. (N-UNCOUNT) decorating N-UNCOUNT 装修
+   ≫   I did a lot of the decorating myself.  我自己干了很多装修的活儿。
+
+========================================================================
+>>> interpreted
+------------------------------------------------------------------------
+interpreted    [美 ɪnˈtɜːrprətɪd / 英 ɪnˈtɜːprətɪd]
+v. 解释，说明；口译；把……理解为；演绎（interpret 的过去式和过去分词）
+★★ CET4 TEM4 interpreting,interpreted,interprets
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you interpret something in a particular way, you decide that this is its meaning or significance. 解释
+   ≫   The fact that they had decided to come was interpreted as a positive sign.  他们已经决定要来的事实可被解释为一个积极的信号。
+   ≫   The judge quite rightly says that he has to interpret the law as it's been passed.  法官很有理地说他必须按照法律被通过时的意义进行解释。
+2. (V-T/V-I) If you interpret what someone is saying, you translate it immediately into another language. 口译; 作口译
+   ≫   The chambermaid spoke little English, so her husband came with her to interpret.  那个女服务员几乎不会说英语，所以她丈夫来给她作口译。
+
+========================================================================
+>>> interpret
+------------------------------------------------------------------------
+interpret    [美 ɪnˈtɜːrprət / 英 ɪnˈtɜːprət]
+v. 解释，说明；口译；把……理解为；演绎
+★★ CET4 TEM4 interpreting,interpreted,interprets
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you interpret something in a particular way, you decide that this is its meaning or significance. 解释
+   ≫   The fact that they had decided to come was interpreted as a positive sign.  他们已经决定要来的事实可被解释为一个积极的信号。
+   ≫   The judge quite rightly says that he has to interpret the law as it's been passed.  法官很有理地说他必须按照法律被通过时的意义进行解释。
+2. (V-T/V-I) If you interpret what someone is saying, you translate it immediately into another language. 口译; 作口译
+   ≫   The chambermaid spoke little English, so her husband came with her to interpret.  那个女服务员几乎不会说英语，所以她丈夫来给她作口译。
+
+========================================================================
+>>> squat
+------------------------------------------------------------------------
+squat    [美 skwɑːt / 英 skwɒt]
+v. 蹲坐；擅自占用（建筑物或土地）；<澳新，史>占用王室土地来放牧牛羊；（举重）蹲举
+n. 蹲坐；被非法占用的建筑物；非法占用空屋；<美，非正式>几乎没有（常用于否定句中作强调）；（举重）蹲举训练；（体操）下蹲动作；俯撑腿屈伸（双手撑地下蹲后双腿同时前后跳动）
+adj. 矮胖的，粗矮的
+★ CET6+ TEM4 squatting,squatted,squats
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you squat, you lower yourself toward the ground, balancing on your feet with your legs bent. 蹲下
+   ≫   We squatted beside the pool and watched the diver sink slowly down.  我们蹲在池边，看潜水员慢慢沉下水。
+2. (PHRASAL VERB) Squat down means the same as . 蹲下
+   ≫   Albert squatted down and examined it.  阿尔伯特蹲下仔细查看它。
+3. (N-SING) Squat is also a noun. 蹲下
+   ≫   He bent to a squat and gathered the puppies on his lap.  他弯腰蹲下，把小狗们聚揽到他的大腿上。
+4. (ADJ) If you describe someone or something as squat, you mean they are short and thick, usually in an unattractive way. 矮胖的
+   ≫   Eddie was a short squat fellow in his forties with thinning hair.  埃迪是个矮胖的人，四十来岁，头发稀疏。
+5. (V-I) People who squat occupy an unused building or unused land without having a legal right to do so. (对某空建筑、空地) 非法占据
+   ≫   You can't simply wander around squatting on other people's property.  你不能只是四处游荡，非法占据他人房产。
+
+========================================================================
+>>> french press
+------------------------------------------------------------------------
+french press    [美 ˌfrentʃ ˈpres / 英 ˌfrentʃ ˈpres]
+法式咖啡壶：一种用于手冲咖啡的容器，通过将热水与咖啡粉混合，然后使用活塞将咖啡渣压下，从而制作出浓郁的咖啡。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Leaders of the French wine industry were outraged at the results, and the French press was both slow to respond and dismissive of the event. 法国葡萄酒行业的领导人对这一结果感到愤怒，法国媒体对此反应迟缓，对这一事件也不屑一顾。
+≫   So what's the correct way of using the French press? 那么法压壶的正确运用方法是什么样的呢？
+≫   However, not many people know that the French press is invented to make tea! 然而很多人不知道的是，其实法压壶最开始的发明出来，是为了泡茶的！
+
+========================================================================
+>>> incline curl
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> incline
+------------------------------------------------------------------------
+incline    [美 ɪnˈklaɪn / 英 ɪnˈklaɪn]
+v. （使）倾向于；点头；（使）倾斜；赞同（某人，某事）
+n. 斜坡，倾斜
+CET4 TEM4 inclining,inclined,inclines
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An incline is land that slopes at an angle. 斜坡 [正式]
+   ≫   He came to a halt at the edge of a steep incline.  他停步在一个陡坡的边上。
+2. (V-T) If you incline your head, you bend your neck so that your head is leaning forward. 点 (头) [书面]
+   ≫   Jack inclined his head very slightly.  杰克微微点了点头。
+3. (V-T) If you incline to think or act in a particular way, or if something inclines you to it, you are likely to think or act in that way. 使倾向于; 使有意于 [正式]
+   ≫   ...the factors that incline us toward particular beliefs.  …使我们倾向于特定信念的种种因素。
+   ≫   Those who fail incline to blame the world for their failure.  那些失败者往往会将其失败归咎于社会。
+
+========================================================================
+>>> curl
+------------------------------------------------------------------------
+curl    [美 kɜːrl / 英 kɜːl]
+v. （使）弯曲，卷曲；（使）盘绕，（使）弯弯曲曲移动；边缘翘起；撇（嘴）；参加冰壶运动
+n. 鬈发，卷发；（头发的）卷曲；卷曲物，螺旋状物；（锻炼肌肉的）弯曲运动
+【名】 （Curl）（英）柯尔（人名）
+★★ CET4 TEM4 curling,curled,curls
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you have curls, your hair is in the form of tight curves and spirals. 卷发
+   ≫   ...the little girl with blonde curls.  …长着金黄色卷发的小女孩。
+2. (N-COUNT) A curl of something is a piece or quantity of it that is curved or spiral in shape. 卷曲状或螺旋状
+   ≫   A thin curl of smoke rose from a rusty stove.  一缕薄薄的青烟从生锈的炉子里冉冉升起。
+3. (N-UNCOUNT) If your hair has curl, it is full of curls. 卷曲
+   ≫   Dry curly hair naturally for maximum curl and shine.  让卷发自然地风干以最大限度地增加头发的卷曲和光泽。
+4. (V-T/V-I) If your hair curls or if you curl it, it is full of curls. 卷曲; 使卷曲
+   ≫   She has hair that refuses to curl.  她的头发怎么也不卷。
+   ≫   Maria had curled her hair for the event.  玛丽亚为这次活动卷了头发。
+5. (V-T/V-I) If your toes, fingers, or other parts of your body curl, or if you curl them, they form a curved or round shape. 弯曲; 使弯曲
+   ≫   His fingers curled gently around her wrist.  他的手指轻握住她的手腕。
+   ≫   Raise one foot, curl the toes and point the foot downwards.  抬起一只脚，将脚趾弯曲，将脚向下指。
+6. (V-T/V-I) If something curls somewhere, or if you curl it there, it moves there in a spiral or curve. 缭绕; 使缠绕
+   ≫   Smoke was curling up the chimney.  烟顺着烟囱缭绕升起。
+7. (V-I) If a person or animal curls into a ball, they move into a position in which their body makes a rounded shape. 蜷作一团
+   ≫   He wanted to curl into a tiny ball.  他想把自己蜷成一个小团。
+8. (PHRASAL VERB) Curl up means the same as . 蜷作一团
+   ≫   In colder weather, your cat will curl up into a tight, heat-conserving ball.  在更冷的天气里，你的猫会蜷缩成紧紧的一团来保暖。
+   ≫   She curled up next to him.  她蜷卧在他身边。
+9. (V-I) When a leaf, a piece of paper, or another flat object curls, its edges bend toward the centre. 卷边
+   ≫   The rose leaves have curled because of an attack by grubs.  玫瑰的叶子因虫子的侵袭打了卷。
+10. (PHRASAL VERB) Curl up means the same as . 卷起
+   ≫   The corners of the rug were curling up.  地毯的各角卷起来了。
+
+========================================================================
+>>> push up
+------------------------------------------------------------------------
+push up    [美 pʊʃ ʌp / 英 ˈpʊʃ ʌp]
+突出；突起：从某物中突出或突起。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Any shortage could push up grain prices. 任何短缺都会推动粮价上涨。《柯林斯英汉双解大词典》
+≫   They get caught in trees (hence the epithet "Witches' Knickers"), take hundreds of years to decompose and push up demand for oil, used to make plastics. 它们挂在枝头（由此而得“巫婆的灯笼裤”之名），需要数百年才能分解，它们助长石油需求，正是石油用于制造塑料。
+≫   I feel, in my muscles, the need to push up. 我凭肌肉能感觉到我在支撑着它。
+
+========================================================================
+>>> two hand curl
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> two hand curl
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：48970
+two hand curl
+双手卷曲
+
+========================================================================
+>>> toe raise
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> toe raise
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：49039
+toe raise
+脚趾提高
+
+========================================================================
+>>> dumbbell
+------------------------------------------------------------------------
+dumbbell    [美 ˈdʌmbel / 英 ˈdʌmbel]
+n. 哑铃；蠢人
+alsodumb-bell
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dumbbell is a short bar with weights on either side which people use for physical exercise to strengthen their arm and shoulder muscles. 哑铃
+2. (N-COUNT) If you call a person a dumbbell, you mean that they are stupid or foolish. 笨蛋 [非正式]
+
+========================================================================
+>>> dumbbell circle
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：49116
+dumbbell circle
+哑铃圆
+
+========================================================================
+>>> wrist curl
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：49167
+wrist curl
+反握腕弯举
+
+========================================================================
+>>> calf raise
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：49224
+calf raise
+小腿提升：一种锻炼小腿肌肉的运动，通常通过站立时抬起脚跟来进行。
+
+========================================================================
+>>> calf
+------------------------------------------------------------------------
+calf    [美 kæf / 英 kɑːf]
+n. 小牛，牛犊；腓肠，小腿肚；（象、鲸等的）崽，幼兽；浮冰，幼冰
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A calf is a young cow. 牛犊
+2. (N-COUNT) Some other young animals, including elephants and whales, are called calves. (大象、鲸鱼等的) 幼兽
+3. (N-COUNT) Your calf is the thick part at the back of your leg, between your ankle and your knee. 腓; 小腿肚
+   ≫   ...a calf injury.  …一处小腿的伤。
+
+========================================================================
+>>> calves
+------------------------------------------------------------------------
+calves    [英 kɑːvz / 美 kævz]
+n. 小牛；小腿；腓；呆子（calf 的复数）
+n. （Calves）人名；（法）卡尔夫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → the plural of calf, calf
+
+========================================================================
+>>> commendable
+------------------------------------------------------------------------
+commendable    [美 kəˈmendəbl / 英 kəˈmendəbl]
+adj. 值得赞扬的
+adv. 值得赞扬地
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone's behaviour as commendable, you approve of it or are praising it. 值得称赞的 [正式]
+   ≫   He has acted with commendable speed.  他以值得称赞的速度付诸了行动。
+

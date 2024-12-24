@@ -38828,3 +38828,26 @@ n. （Quine）人名；（法）基纳；（英）奎因
 ≫   Quine: It's true, I do reject this view. 不错，我是反对这种看法。
 ≫   Whether Quine was right remains the bone of vigorous philosophical contention to this day. 蒯因的说法是否成立，直到今天依然是哲学上众说纷纭的话题。
 
+========================================================================
+>>> affilication
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> afflication
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> anticipate
+------------------------------------------------------------------------
+anticipate    [美 ænˈtɪsɪpeɪt / 英 ænˈtɪsɪpeɪt]
+v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）
+★★ CET4 TEM4 anticipating,anticipated,anticipates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you anticipate an event, you realize in advance that it may happen and you are prepared for it. 预期
+   ≫   At the time we couldn't have anticipated the result of our campaigning.  当时我们不可能预期到我们活动的结果。
+   ≫   It is anticipated that the equivalent of 192 full-time jobs will be lost.  据预测相当于192个全职的工作将会丧失。
+2. (V-T) If you anticipate a question, request, or need, you do what is necessary or required before the question, request, or need occurs. 预先准备
+   ≫   What Jeff did was to anticipate my next question.  杰夫所做的是预先准备我的下一个问题。
+
