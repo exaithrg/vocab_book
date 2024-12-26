@@ -1,8 +1,4 @@
 ========================================================================
-Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
-用强大的动力、坚定的决心和敏锐的智慧来实现你为自己设定的每一个目标。
-
-========================================================================
 formidable    [美 'fɔrmɪdəbl / 英 'fɔːmɪdəb(ə)l; fɔː'mɪd-]
 adj. 强大的；可怕的；令人敬畏的；艰难的
 CET6 TEM4
@@ -40,6 +36,10 @@ intellection    [美 ˌɪntəˈlekʃn / 英 ˌɪntɪˈlekʃən]
 n. 思考；理解；观念
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) mental activity; thought 智力活动; 思想
+
+========================================================================
+Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
+用强大的动力、坚定的决心和敏锐的智慧来实现你为自己设定的每一个目标。
 
 ========================================================================
 Attention Is All You Need
