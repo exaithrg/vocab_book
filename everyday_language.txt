@@ -63482,3 +63482,18 @@ adj. 装饰性的，用作装饰的
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> SVM
+------------------------------------------------------------------------
+SVM
+abbr. 智能音量管理（Smart Volume Management）；安全虚拟机（Secure Virtual Machine）；存储虚拟化管理器（Storeage Virtualization Management）；共享虚拟存储器（Shared Virtual Memory）; Solaris 存储管理（Solaris Volume Manager）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   When this is complete, identify slices that are available for use by the SVM. 完成此工作以后，标识可供 SVM 使用的片。
+≫   This file specifies whether the VMX (Intel) or SVM (AMD) extensions are supported. 这个文件指定了是否支持vmx (Intel)或svm (amd)扩展。
+≫   The SVM saves all information about structures of volumes on a disk area called the replica. SVM将有关卷结构的所有信息都保存在一个称为副本(replica)的磁盘区中。
+
+========================================================================
+>>> VMX
+------------------------------------------------------------------------
+Not found :(
+
