@@ -1,12 +1,508 @@
 ========================================================================
->>> nouns
+>>> terminology
 ------------------------------------------------------------------------
-nouns    [美 'naʊnz / 英 'naʊnz]
-n. [语] 名词（noun的复数）
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+terminology    [美 ˌtɜːrmɪˈnɑːlədʒi / 英 ˌtɜːmɪˈnɒlədʒi]
+n. （某学科的）术语；有特别含义的用语，专门用语；术语学
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The terminology of a subject is the set of special words and expressions used in connection with it. 术语
+   ≫   ...gastritis, which in medical terminology means an inflammation of the stomach.  …胃炎这个词在医学术语里的意思是胃部发炎。
+
+========================================================================
+>>> parts of speech
+------------------------------------------------------------------------
+parts of speech
+词性：词语在句子中所起的作用和所表达的意义。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We can get the word spelling, parts of speech, pronunciation, meaning and some sentences in the dictionary. 我们可以从字典中了解单词的拼写、词性、发音、意思和一些句子。
+≫   This is not to disparage adjectives and adverbs; they are indispensable parts of speech. 这不是在贬低形容词和副词，它们都是不可或缺的。
+≫   This will give you a foundation in the language and help you learn the different parts of speech and their English equivalents. 语法能让你了解这门语言的基础、帮你学习该语言与你母语的相同和不同之处。
+
+========================================================================
+>>> noun
+------------------------------------------------------------------------
+noun    [美 naʊn / 英 naʊn]
+n. 名词
+n. （Noun）人名；（以）努恩
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A noun is a word such as "car," "love," or "Anne" which is used to refer to a person or thing. 名词
-2. → see also ,
+
+========================================================================
+>>> verb
+------------------------------------------------------------------------
+verb    [美 vɜːrb / 英 vɜːb]
+n. 动词；动词词性；动词性短语或从句
+n. （Verb）（俄）韦尔布（人名）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A verb is a word such as "sing," "feel," or "die" that is used with a subject to say what someone or something does or what happens to them, or to give information about them. 动词
+
+========================================================================
+>>> adjective
+------------------------------------------------------------------------
+adjective    [美 ˈædʒɪktɪv / 英 ˈædʒɪktɪv]
+n. 形容词
+adj. 形容词的；从属的
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An adjective is a word such as "big," "dead," or "financial" that describes a person or thing, or gives extra information about them. Adjectives usually come before nouns or after linking verbs. 形容词
+
+========================================================================
+>>> adverb
+------------------------------------------------------------------------
+adverb    [美 ˈædvɜːrb / 英 ˈædvɜːb]
+n. 副词
+adj. 副词的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An adverb is a word such as "slowly," "now," "very," "politically," or "fortunately" which adds information about the action, event, or situation mentioned in a clause. 副词
+
+========================================================================
+>>> preposition
+------------------------------------------------------------------------
+preposition    [英 ˌprepəˈzɪʃ(ə)n / 美 ˌprepəˈzɪʃ(ə)n]
+n. 介词，前置词
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A preposition is a word such as "by," "for," "into," or "with" that usually has a noun group as its object. 介词
+   ≫   There is nothing in the rules of grammar to suggest that ending a sentence with a preposition is wrong.  在语法规则中没有哪一条表明以介词结束一个句子是错误的。
+
+========================================================================
+>>> conjuction
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> conjunction
+------------------------------------------------------------------------
+conjunction    [美 kənˈdʒʌŋkʃ(ə)n / 英 kənˈdʒʌŋkʃ(ə)n]
+n. 结合，同时发生；连词；（占星术中两个天体的）相合
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A conjunction of two or more things is the occurrence of them at the same time or place. 同时发生; 同地发生 [正式]
+   ≫   ...the conjunction of two events.  …两事件的同时发生。
+2. (N-COUNT) In grammar, a conjunction is a word or group of words that joins together words, groups, or clauses. In English, there are coordinating conjunctions such as "and" and "but," and subordinating conjunctions such as "although," "because," and "when." 连词
+3. (PHRASE) If one thing is done in conjunction with another, the two things are done or used together. 与…一起 (做、用) [usu PHR 'with' n]
+   ≫   Textbooks are designed to be used in conjunction with classroom teaching.  教科书被设计成与课堂教学配合使用。
+
+========================================================================
+>>> pronoun
+------------------------------------------------------------------------
+pronoun    [美 ˈproʊnaʊn / 英 ˈprəʊnaʊn]
+n. 代词
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pronoun is a word that you use to refer to someone or something when you do not need to use a noun, often because the person or thing has been mentioned earlier. Examples are "it," "she," "something," and "myself." 代词
+
+========================================================================
+>>> interjection
+------------------------------------------------------------------------
+interjection    [美 ˌɪntərˈdʒekʃ(ə)n / 英 ˌɪntəˈdʒekʃ(ə)n]
+n. 感叹词；插入语；突然的发声
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An interjection is something you say that interrupts someone else who is speaking. 插话; 插嘴
+   ≫   ...the moronic and insensitive interjections of the disc jockey.  ...该音乐主持人愚蠢而迟钝的插话。
+2. (N-COUNT) In grammar, an interjection is a word or expression that expresses a strong feeling such as surprise, pain, or horror. 感叹词
+
+========================================================================
+>>> sentence components
+------------------------------------------------------------------------
+sentence component
+句子成分：构成句子的基本单位，包括主语、谓语、宾语、定语、状语等。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Many sentence components that were considered as subject are topic actually, which has turned into a sentence component. 很多被认为是主语或提前宾语的句子成分其实是语法化后成为句法成分的话题。
+≫   The research scope of this thesis is the distribution features of non-finite verbs in the function system of sentence components. 本文的研究内容是非限定动词在各构句成分功能系统内的分布特征。
+≫   The conversion of word classes usually results in the conversion of sentence components, so the second chapter discusses the conversion of sentence components. 词性的转换通常会引起句子成分的改变，第二章分析了句子成分的转换现象。
+
+========================================================================
+>>> subject and object
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：21427
+subject and object
+主语和宾语：指在语法中，主语是一个句子中执行动作或被动作作用的实体，而宾语是动作的承受者或受益者。
+
+========================================================================
+>>> predicate
+------------------------------------------------------------------------
+predicate    [美 ˈpredɪkət / 英 ˈpredɪkət]
+n. （语法）谓语；（逻）谓项
+v. 使基于，使取决于；表明，断言
+adj. （用作）表语的
+TEM4 predicating,predicated,predicates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In some systems of grammar, the predicate of a clause is the part of it that is not the subject. For example, in "I decided what to do," "decided what to do" is the predicate. 谓语
+2. (V-T) If you say that one situation is predicated on another, you mean that the first situation can be true or real only if the second one is true or real. 基于; 取决于 [正式] [usu passive]
+   ≫   Financial success is usually predicated on having money or being able to obtain it.  通常，先要有钱或能弄到钱才会获得财务上的成功。
+
+========================================================================
+>>> adverbial
+------------------------------------------------------------------------
+adverbial    [美 ædˈvɜːrbiəl / 英 ædˈvɜːbiəl]
+adj. 副词的，状语的
+n. 状语
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Adverbial means relating to adverbs or like an adverb. 副词的; 似副词的 [usu ADJ n]
+   ≫   ...an adverbial expression.  …一个副词式的表达方式。
+
+========================================================================
+>>> complement
+------------------------------------------------------------------------
+complement    [美 ˈkɑːmplɪment / 英 ˈkɒmplɪment]
+v. 补充，补足
+n. 补足物，衬托物；足数，足额；补语；余角；补体，防御素
+★★ CET6 TEM4 complementing,complemented,complements
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing complements another, it goes well with the other thing and makes its good qualities more noticeable. 衬托
+   ≫   Nutmeg, parsley and cider all complement the flavour of these beans well.  肉豆蔻、欧芹和苹果酒都凸显这些菜豆的味道。
+2. (V-T) If people or things complement each other, they are different or do something different, which makes them a good combination. 补充
+   ≫   There will be a written examination to complement the practical test.  会有一次书面考试来补充实践测试。
+3. (N-COUNT) Something that is a complement to something else complements it. 衬托物; 补充物
+   ≫   The green wallpaper is the perfect complement to the old pine of the dresser.  绿色墙纸是旧松木梳妆台的完美衬托。
+
+========================================================================
+>>> clauses
+------------------------------------------------------------------------
+clauses    [美 ˈklɔːzɪz / 英 ˈklɔːzɪz]
+n. [法]条款（clause 的复数形式）；[计]子句
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A clause is a section of a legal document. (法律文件的) 条款
+   ≫   He has a clause in his contract which entitles him to a percentage of the profits.  他在他的合同里有一项条款保证他享有一定比例的利润。
+   ≫   ...a compromise document sprinkled with escape clauses.  …一份满是免责条款的妥协性文件。
+2. (N-COUNT) In grammar, a clause is a group of words containing a verb. Sentences contain one or more clauses. 分句
+
+========================================================================
+>>> adverbial clause
+------------------------------------------------------------------------
+adverbial clause
+副词从句：在主句中作为副词的从句，用来修饰动词、形容词、副词或整个句子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Ask the students to make up sentences using the adverbial clause of condition with if. 要求学生使用 if 来组成条件状语从句。
+≫   Before is adverbial clause of time, I think. 时间状语从句，我打错了。
+≫   What's the difference between adverbial clause and relative clause here? 地点状语和定语从句在这里是什么区别？
+
+========================================================================
+>>> object clause
+------------------------------------------------------------------------
+object clause
+宾语从句：在复合句中作为主句的宾语的从句，通常由连接词引导。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is an object clause. 这是一个宾语从句。
+≫   Notice that when putting a question into the object clause. 注意当宾语从句是疑问句时。
+≫   Use a question word+to-infinitive to replace each object clause. 运用疑问词十动词不定式来代替每个宾语从句。
+
+========================================================================
+>>> attributive
+------------------------------------------------------------------------
+attributive    [美 əˈtrɪbjətɪv / 英 əˈtrɪbjətɪv]
+adj. 定语的，起修饰作用的；归属的，属性的
+n. 定语
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) relating to an attribute 归属的
+2. (N) an attributive adjective 定语的形容词
+
+========================================================================
+>>> attributive clause
+------------------------------------------------------------------------
+attributive clause    [美 əˈtrɪbjətɪv klɔːz]
+定语从句
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is an attributive clause. 这是一个定语从句。
+≫   Pay attention to the use of commas in the Non-restrictive Attributive clause. 注意逗号在非限制性定语从句中的用法。
+≫   Change the attributive clause in the following sentences into participial phrase. 把下列句中的定语从句改为分词短语。
+
+========================================================================
+>>> relative clause
+------------------------------------------------------------------------
+relative clause    [美 ˈrelətɪv klɔːz]
+相对从句：由关系代词、关系形容词或关系副词引导的形容词从句或名词从句，具有描述性或限制性作用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In grammar, a relative clause is a subordinate clause which specifies or gives information about a person or thing. Relative clauses come after a noun or pronoun and, in English, often begin with a relative pronoun such as "who," "which," or "that." 关系从句
+
+========================================================================
+>>> subject clause
+------------------------------------------------------------------------
+subject clause    [美 ˈsʌbdʒɪkt klɔːz]
+主语从句：在句子中作为主语的从句。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the form, it includes subject noun, subject pronoun, subject clause and so on. 从形式上讲，包括名词主语、代词主语、小句作主语等等。
+≫   The Romeo and Juliet clause was not retroactive, however, so Ms Whitaker is stuck on the register, and subject to extraordinary restrictions. 可惜这条罗密欧与朱丽叶的条款不具有追溯力，所以Whitaker依然位列名单之上，并且受到一些特殊的限制。
+≫   A simple sentence has one clause, beginning with a noun group called the subject. 简单句是含有一个分句的句子，以作主语的名词词组开头。
+
+========================================================================
+>>> predicative
+------------------------------------------------------------------------
+predicative    [美 ˈpredɪkeɪtɪv / 英 prɪˈdɪkətɪv]
+adj. 谓语性的，表语的；（指动词 be 用法）对主语作出断言的；（逻）作谓项的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) relating to or occurring within the predicate of a sentence 表语 [grammar] → compare attributive
+   ≫   a predicative adjective  
+
+========================================================================
+>>> nominative
+------------------------------------------------------------------------
+nominative    [美 ˈnɑːmɪnətɪv / 英 ˈnɒmɪnətɪv]
+n. 主格
+adj. 主格的；记名的；被提名的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) In the grammar of some languages, the nominative or the nominative case is the case used for a noun when it is the subject of a verb. Compare . 主格 ['the' N]
+
+========================================================================
+>>> predicative clause
+------------------------------------------------------------------------
+predicative clause
+表语从句：在句子中作为主语或宾语补足语的从句，用来说明主语或宾语的状态、性质、特征等。
+
+========================================================================
+>>> nominative clause
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> declarative sentence
+------------------------------------------------------------------------
+declarative sentence    [美 dɪˈklærətɪv ˈsentəns]
+陈述句：用于陈述一个事实或声明一个观点的句子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There should be a period at the end of a declarative sentence. 陈述句的末尾应该有一句号。
+≫   A declarative sentence declares or states something as a fact. 叙述句是叙述或述说一个事实的句子。
+≫   Can you turn the declarative sentence into a rhetorical question? 同样，凝问名可以由陈述句变成。
+
+========================================================================
+>>> interrogative
+------------------------------------------------------------------------
+interrogative    [美 ˌɪntəˈrɑːɡətɪv / 英 ˌɪntəˈrɒɡətɪv]
+adj. （姿势、语调）询问的，疑问的
+n. 疑问句，疑问结构；疑问词
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An interrogative gesture or tone of voice shows that you want to know the answer to a question. 疑问的 [书面] [usu ADJ n]
+   ≫   He made a further interrogative noise.  他发出了进一步疑问的声音。
+2. (N-SING) In grammar, a clause that is in the interrogative, or in the interrogative mood, has its subject following "do," "be," "have," or a modal verb. Examples are `When did he get back?` and `Are you all right?` Clauses of this kind are typically used to ask questions. 疑问句 ['the' N]
+3. (N-COUNT) In grammar, an interrogative is a word such as "who," "how," or "why," which can be used to ask a question. 疑问词
+
+========================================================================
+>>> interrogative sentence
+------------------------------------------------------------------------
+interrogative sentence
+疑问句：用于提问或请求信息的句子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Only thinks the interrogative sentence, you are love me? 怪你，怪我？只想问句，你是爱我的吗？
+≫   I want you to change the affirmative sentence into an interrogative sentence. 请你们把肯定句变化疑问句。
+≫   Change the yes sentence into a damaging sentence or an interrogative sentence. 将这个肯定句改为否认句或疑问句。
+
+========================================================================
+>>> imperative
+------------------------------------------------------------------------
+imperative    [美 ɪmˈperətɪv / 英 ɪmˈperətɪv]
+adj. 极重要的，必要的；命令的，强制的；祈使的
+n. 重要紧急的事，必要的事；祈使语气，祈使语气动词；命令
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If it is imperative that something be done, that thing is extremely important and must be done. 至关重要的 [正式]
+   ≫   It was imperative that he act as naturally as possible.  至关重要的是他要尽可能地自然行事。
+2. (N-COUNT) An imperative is something that is extremely important and must be done. 紧迫之事 [正式]
+   ≫   The most important political imperative is to limit the number of U.S. casualties.  政治上的当务之急是控制美国的伤亡人数。
+3. (N-SING) In grammar, a clause that is in the imperative, or in the imperative mood, contains the base form of a verb and usually has no subject. Examples are "Go away" and "Please be careful." Clauses of this kind are typically used to tell someone to do something. 祈使语气
+4. (N-COUNT) An imperative is a verb in the base form that is used, usually without a subject, in an imperative clause. 祈使语气动词
+
+========================================================================
+>>> imperative sentence
+------------------------------------------------------------------------
+imperative sentence    [美 ɪmˈperətɪv ˈsentəns]
+祈使句：一种给出命令或请求做某事的句子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In English, the subject NP of an imperative sentence can be deleted. 在英语中，这个主题党的祈使句可以删除。
+≫   Can you tell me what kind of sentence can be called imperative sentence? 你能告诉我什么样的句子可以称作祈使句吗？
+≫   The mediaeval times were the crucial period to imperative sentence to develop to its maturity and stereotypes. 中古是祈使句走向成熟与定型的关键时期。
+
+========================================================================
+>>> exclamatory
+------------------------------------------------------------------------
+exclamatory    [美 ɪkˈsklæmətɔːriˌekˈsklæmətɔːri / 英 ɪkˈsklæmətri; ekˈsklæmətri]
+adj. 惊呼的，感叹的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) using, containing, or relating to exclamations 叫喊的; 感叹的
+
+========================================================================
+>>> exclamatory sentence
+------------------------------------------------------------------------
+exclamatory sentence
+感叹句：包含感叹或强调的句子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Change it to an exclamatory sentence. 把这句话变成感叹句。
+≫   In terms of sentence unit, there are one-word exclamatory sentence, phrasal one, simple one and compound one. 从句子构成上看，有独词的、词组的、单句的、复句的；
+≫   The sentence patterns which help realize the appraisal function are mainly as follows: exclamatory sentences, which often plays a role in commanding the whole text or a certain local scene; 帮助评议功能实现的句式主要有感叹句，其常常能起到统摄全文或者某个局部场景的作用；
+
+========================================================================
+>>> inverted sentence
+------------------------------------------------------------------------
+inverted sentence
+倒装句：在通常以主语为先的语言中，谓语（动词）在主语（名词）之前的句子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Use "so" to introduce an inverted sentence. the police got to the station five minutes after the explosion, and so did the reporters. 爆炸后五分钟警察就到了车站，记者也到了。
+≫   In addition, in terms of Marked Theme, there is a unique inverted sentence pattern to indicate the existence of the some objects in English texts. 另外，在使用标志主位表存在时，英语文本有独特的倒装句用法。
+≫   On the basis of previous studies in this paper, we inspected and studied the inverted sentence from syntax, semantics, pragmatics aspects respectively. 易位句是汉语口语交际中一个常见的语法现象，本文在前人研究的基础上，从句法、语义、语用三个平面入手对易位句进行考察和研究。
+
+========================================================================
+>>> passive
+------------------------------------------------------------------------
+passive    [美 ˈpæsɪv / 英 ˈpæsɪv]
+adj. 消极的，被动的；被动语态的；（抵抗）非暴力的；（电路，装置）无源的；（金属）经表面钝化处理的，钝化的
+n. （动词的）被动语态形式；被动语态（the passive）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone as passive, you mean that they do not take action but instead let things happen to them. 被动的 [表不满]
+   ≫   His passive attitude made things easier for me.  他的被动态度使我办起事来容易多了。
+2. (ADV) passively ADV 被动地
+   ≫   He sat there passively, content to wait for his father to make the opening move.  他被动地坐在那里，心满意足地等着他父亲走第一步棋。
+3. (ADJ) A passive activity involves watching, looking at, or listening to things rather than doing things. 消极的 [ADJ n]
+   ≫   They want less passive ways of filling their time.  他们需要不那么消极的方式来打发时间。
+4. (ADJ) Passive resistance involves showing opposition to the people in power in your country by not cooperating with them and protesting in nonviolent ways. 非暴力的 [ADJ n]
+   ≫   They made it clear that they would only exercise passive resistance in the event of a military takeover.  他们声明假若发生军事接管，他们只采取非暴力抵抗行动。
+5. (N-SING) In grammar, the passive or the passive voice is formed using "be" and the past participle of a verb. The subject of a passive clause does not perform the action expressed by the verb but is affected by it. For example, in "He's been murdered," the verb is in the passive. Compare . 被动语态
+
+========================================================================
+>>> passive voice
+------------------------------------------------------------------------
+passive voice    [美 ˈpæsɪv vɔɪs]
+被动语态：指主语接受动词的动作，或表示这种关系的动词形式。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The passive voice is avoided by good writers. 好的作家避免使用被动语态。 实证论述比规范论述更有说服力。
+≫   The use case steps are written in the active rather than passive voice. 用例步骤以主动语态、而不是以被动语态编写。
+≫   GEOFF PULLUM really doesn't like people who abjure the passive voice. 杰夫·普勒姆实在不喜欢那些发誓放弃被动语的人。
+
+========================================================================
+>>> subjunctive
+------------------------------------------------------------------------
+subjunctive    [美 səbˈdʒʌŋktɪv / 英 səbˈdʒʌŋktɪv]
+n. 虚拟式，虚拟语气
+adj. 虚拟语气的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) In English, a clause expressing a wish or suggestion can be put in the subjunctive, or in the subjunctive mood, by using the base form of a verb or "were." Examples are "He asked that they be removed" and "I wish I were somewhere else." These structures are formal. 虚拟语气 [技术] ['the' N]
+
+========================================================================
+>>> subjunctive mood
+------------------------------------------------------------------------
+subjunctive mood    [美 səbˈdʒʌŋktɪv muːd]
+虚拟语气；假定式
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In this sentence the verb is in the subjunctive mood. 在这个句子里，动词用的是虚拟语气。
+≫   When we give advice, we can also use the subjunctive mood. 当我们给予建议，我们还能使用虚拟语气。
+≫   If there were no subjunctive mood, English would be easier. 如果没有虚拟语气，英语会容易些。
+
+========================================================================
+>>> mood
+------------------------------------------------------------------------
+mood    [美 muːd / 英 muːd]
+n. 心境，情绪；气氛，情感基调；心情不好，坏脾气；想（做某事），有兴致（做某事）；（尤指音乐）激发……情感的，暗示……心境的；（群体的）态度，意愿；表达语气的动词屈折变化；（语法的）式，语气； 想（做某事），有兴致（做某事）
+【名】 （Mood）（英）穆德，（瑞典）莫德（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your mood is the way you are feeling at a particular time. If you are in a good mood, you feel cheerful. If you are in a bad mood, you feel angry and impatient. 情绪
+   ≫   He is clearly in a good mood today.  显然他今天心情不错。
+   ≫   Lily was in one of her aggressive moods.  莉莉又在咄咄逼人了。
+2. (PHRASE) If you say that you are in the mood for something, you mean that you want to do it or have it. If you say that you are in no mood to do something, you mean that you do not want to do it or have it. 有/无心情 (做某事)
+   ≫   After a day of air and activity, you should be in the mood for a good meal.  在户外活动了一天，你应该想好好吃一顿。
+3. (N-COUNT) If someone is in a mood, the way they are behaving shows that they are feeling angry and impatient. 心情不好
+   ≫   She was obviously in a mood.  显然她心情不好。
+4. (N-SING) The mood of a group of people is the way that they think and feel about an idea, event, or question at a particular time. (群体的) 想法
+   ≫   The government seemed to be in tune with the popular mood.  政府似乎与公众的想法一致。
+5. (N-COUNT) The mood of a place is the general impression that you get of it. 气氛
+   ≫   First set the mood with music.  首先用音乐制造气氛。
+6. (N-COUNT) a category of the verb or verbal inflections that expresses semantic and grammatical differences, including such forms as the indicative, subjunctive, and imperative 语气(如陈述语气、虚拟语气等) [grammar]
+
+========================================================================
+>>> infinitive
+------------------------------------------------------------------------
+infinitive    [美 ɪnˈfɪnətɪv / 英 ɪnˈfɪnətɪv]
+n. （动词的）不定式
+adj. 不定式的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The infinitive of a verb is the basic form, for example, "do," "be," "take," and "eat." The infinitive is often used with "to" in front of it. (动词的) 不定式
+
+========================================================================
+>>> infinite
+------------------------------------------------------------------------
+infinite    [英 ˈɪnfɪnət / 美 ˈɪnfɪnət]
+adj. 无限的，无穷尽的；（数量或程度上）极大的，无穷大的；非限定的
+n. （空间或数量的）无穷大（the infinite）；上帝（the infinite）
+★★ CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as infinite, you are emphasizing that it is extremely great in amount or degree. 极大的; 极多的 [强调]
+   ≫   ...an infinite variety of landscapes.  …极其多样的地形地貌。
+   ≫   With infinite care, John shifted position.  约翰小心翼翼地换了位置。
+2. (ADV) infinitely ADV 极大地 [ADV adj/adv]
+   ≫   His design was infinitely better than anything I could have done.  他的设计比我所能设计的不知要好上多少倍。
+3. (ADJ) Something that is infinite has no limit, end, or edge. 无穷的; 无限的
+   ≫   ...an infinite number of atoms.  …无数个原子。
+4. (ADV) infinitely ADV 无穷无尽地 [ADV with v]
+   ≫   A centimetre can be infinitely divided into smaller units.  一厘米能被无穷尽地分为更小的单位。
+
+========================================================================
+>>> participle
+------------------------------------------------------------------------
+participle    [美 ˈpɑːrtɪsɪpl / 英 pɑːˈtɪsɪpl]
+n. （语法）分词
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In grammar, a participle is a form of a verb that can be used in compound tenses of the verb. There are two participles in English: the past participle, which usually ends in "-ed," and the present participle, which ends in "-ing." 分词
+
+========================================================================
+>>> infinitive phrarse
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> infinitive phrase
+------------------------------------------------------------------------
+infinitive phrase    [美 ɪnˈfɪnətɪv freɪz]
+不定式短语：由不定式构成的短语，通常由动词不定式及其修饰语组成。不定式短语可以作为名词、形容词或副词使用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But no, all that's left is an infinitive phrase. 但是，没有了。留下的是一个不定式短语。
+≫   To guide or direct, as by persuasion or behavior. Used with an infinitive phrase. 促使，引起通过劝说或行为来带领或指引。用于不定式词组中。
+≫   In addition, a verb Infinitive characteristics, can have their own object and adverbial form Infinitive phrase. 另外，动词不定式具有动词特点，可以有自己的宾语和状语，组成动词不定式短语。
+
+========================================================================
+>>> participle phrase
+------------------------------------------------------------------------
+participle phrase
+分词短语：由动词的现在分词或过去分词构成的短语，可以作为形容词或副词使用。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   To avoid using dangling participles, one should remember that a participle or a participial phrase must follow closely the antecedent it qualifies. 要避免“半天吊”分词，请记着︰分词或其词组必须紧跟其前辞。
+
+========================================================================
+>>> absolute construction
+------------------------------------------------------------------------
+absolute construction    [美 ˈæbsəluːt kənˈstrʌkʃn]
+绝对结构：一种语法结构，与其他单词或句子成分的正常或通常的句法关系相分离。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Our commitment to and passion for designing the absolute best rope has not only revolutionized rope construction, it has transformed the way climbers view and use their ropes. 我们对制造最好绳索的承诺和热情，不仅革新了绳索的结构，而且改变了攀登者们对绳索的看法和使用方法。
+≫   Saint is omnipotent and owns the absolute authority. He is the principal construction of the social order and essential alien existence in individual subject. 圣人无所不能，拥有绝对的权威，是整个社会秩序的建构主体，个人主体身上根本的异已性存在。
+≫   Therefore, contextualization is an absolute and universal character of linguistic events, which restrains the construction of discourse to a great degree. 语境性是言语活动的一个绝对的、普遍的特性，语境性对话语的建构有极大制约作用。
+
+========================================================================
+>>> ellipsis
+------------------------------------------------------------------------
+ellipsis    [美 ɪˈlɪpsɪs / 英 ɪˈlɪpsɪs]
+n. （词在句子中的）省略；省略号
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) In linguistics, ellipsis means leaving out words rather than repeating them unnecessarily; for example, saying "I want to go but I can't" instead of "I want to go but I can't go." (语言学中的)省略 [技术]
+2. (N-UNCOUNT) a sequence of three dots (…) indicating an omission in text 省略号 [printing]
+
+========================================================================
+>>> parenthesis
+------------------------------------------------------------------------
+parenthesis    [美 pəˈrenθəsɪs / 英 pəˈrenθəsɪs]
+n. 圆括号；插入成分，插入语；插曲，间歇
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Parentheses are a pair of curved marks that you put around words or numbers to indicate that they are additional, separate, or less important. (This sentence is in parentheses.) 括号
 
 ========================================================================
 >>> lettuce
@@ -61719,512 +62215,6 @@ vi. 闪烁；发微光
    ≫   In the east there is the slightest glimmer of light.  东方有一丝闪烁的微光。
 3. (N-COUNT) A glimmer of something is a faint sign of it. 一丝 (迹象)
    ≫   Despite an occasional glimmer of hope, this campaign has not produced any results.  尽管偶尔有一线希望，这次宣传活动并没有产生任何结果。
-
-========================================================================
->>> parts of speech
-------------------------------------------------------------------------
-parts of speech
-词性：词语在句子中所起的作用和所表达的意义。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   We can get the word spelling, parts of speech, pronunciation, meaning and some sentences in the dictionary. 我们可以从字典中了解单词的拼写、词性、发音、意思和一些句子。
-≫   This is not to disparage adjectives and adverbs; they are indispensable parts of speech. 这不是在贬低形容词和副词，它们都是不可或缺的。
-≫   This will give you a foundation in the language and help you learn the different parts of speech and their English equivalents. 语法能让你了解这门语言的基础、帮你学习该语言与你母语的相同和不同之处。
-
-========================================================================
->>> terminology
-------------------------------------------------------------------------
-terminology    [美 ˌtɜːrmɪˈnɑːlədʒi / 英 ˌtɜːmɪˈnɒlədʒi]
-n. （某学科的）术语；有特别含义的用语，专门用语；术语学
-★ TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-VAR) The terminology of a subject is the set of special words and expressions used in connection with it. 术语
-   ≫   ...gastritis, which in medical terminology means an inflammation of the stomach.  …胃炎这个词在医学术语里的意思是胃部发炎。
-
-========================================================================
->>> noun
-------------------------------------------------------------------------
-noun    [美 naʊn / 英 naʊn]
-n. 名词
-n. （Noun）人名；（以）努恩
-★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A noun is a word such as "car," "love," or "Anne" which is used to refer to a person or thing. 名词
-
-========================================================================
->>> verb
-------------------------------------------------------------------------
-verb    [美 vɜːrb / 英 vɜːb]
-n. 动词；动词词性；动词性短语或从句
-n. （Verb）（俄）韦尔布（人名）
-★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A verb is a word such as "sing," "feel," or "die" that is used with a subject to say what someone or something does or what happens to them, or to give information about them. 动词
-
-========================================================================
->>> adjective
-------------------------------------------------------------------------
-adjective    [美 ˈædʒɪktɪv / 英 ˈædʒɪktɪv]
-n. 形容词
-adj. 形容词的；从属的
-★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) An adjective is a word such as "big," "dead," or "financial" that describes a person or thing, or gives extra information about them. Adjectives usually come before nouns or after linking verbs. 形容词
-
-========================================================================
->>> adverb
-------------------------------------------------------------------------
-adverb    [美 ˈædvɜːrb / 英 ˈædvɜːb]
-n. 副词
-adj. 副词的
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) An adverb is a word such as "slowly," "now," "very," "politically," or "fortunately" which adds information about the action, event, or situation mentioned in a clause. 副词
-
-========================================================================
->>> preposition
-------------------------------------------------------------------------
-preposition    [英 ˌprepəˈzɪʃ(ə)n / 美 ˌprepəˈzɪʃ(ə)n]
-n. 介词，前置词
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A preposition is a word such as "by," "for," "into," or "with" that usually has a noun group as its object. 介词
-   ≫   There is nothing in the rules of grammar to suggest that ending a sentence with a preposition is wrong.  在语法规则中没有哪一条表明以介词结束一个句子是错误的。
-
-========================================================================
->>> conjuction
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> conjunction
-------------------------------------------------------------------------
-conjunction    [美 kənˈdʒʌŋkʃ(ə)n / 英 kənˈdʒʌŋkʃ(ə)n]
-n. 结合，同时发生；连词；（占星术中两个天体的）相合
-★★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A conjunction of two or more things is the occurrence of them at the same time or place. 同时发生; 同地发生 [正式]
-   ≫   ...the conjunction of two events.  …两事件的同时发生。
-2. (N-COUNT) In grammar, a conjunction is a word or group of words that joins together words, groups, or clauses. In English, there are coordinating conjunctions such as "and" and "but," and subordinating conjunctions such as "although," "because," and "when." 连词
-3. (PHRASE) If one thing is done in conjunction with another, the two things are done or used together. 与…一起 (做、用) [usu PHR 'with' n]
-   ≫   Textbooks are designed to be used in conjunction with classroom teaching.  教科书被设计成与课堂教学配合使用。
-
-========================================================================
->>> pronoun
-------------------------------------------------------------------------
-pronoun    [美 ˈproʊnaʊn / 英 ˈprəʊnaʊn]
-n. 代词
-CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A pronoun is a word that you use to refer to someone or something when you do not need to use a noun, often because the person or thing has been mentioned earlier. Examples are "it," "she," "something," and "myself." 代词
-
-========================================================================
->>> interjection
-------------------------------------------------------------------------
-interjection    [美 ˌɪntərˈdʒekʃ(ə)n / 英 ˌɪntəˈdʒekʃ(ə)n]
-n. 感叹词；插入语；突然的发声
-TEM8
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) An interjection is something you say that interrupts someone else who is speaking. 插话; 插嘴
-   ≫   ...the moronic and insensitive interjections of the disc jockey.  ...该音乐主持人愚蠢而迟钝的插话。
-2. (N-COUNT) In grammar, an interjection is a word or expression that expresses a strong feeling such as surprise, pain, or horror. 感叹词
-
-========================================================================
->>> sentence components
-------------------------------------------------------------------------
-sentence component
-句子成分：构成句子的基本单位，包括主语、谓语、宾语、定语、状语等。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   Many sentence components that were considered as subject are topic actually, which has turned into a sentence component. 很多被认为是主语或提前宾语的句子成分其实是语法化后成为句法成分的话题。
-≫   The research scope of this thesis is the distribution features of non-finite verbs in the function system of sentence components. 本文的研究内容是非限定动词在各构句成分功能系统内的分布特征。
-≫   The conversion of word classes usually results in the conversion of sentence components, so the second chapter discusses the conversion of sentence components. 词性的转换通常会引起句子成分的改变，第二章分析了句子成分的转换现象。
-
-========================================================================
->>> subject and object
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：21427
-subject and object
-主语和宾语：指在语法中，主语是一个句子中执行动作或被动作作用的实体，而宾语是动作的承受者或受益者。
-
-========================================================================
->>> predicate
-------------------------------------------------------------------------
-predicate    [美 ˈpredɪkət / 英 ˈpredɪkət]
-n. （语法）谓语；（逻）谓项
-v. 使基于，使取决于；表明，断言
-adj. （用作）表语的
-TEM4 predicating,predicated,predicates
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) In some systems of grammar, the predicate of a clause is the part of it that is not the subject. For example, in "I decided what to do," "decided what to do" is the predicate. 谓语
-2. (V-T) If you say that one situation is predicated on another, you mean that the first situation can be true or real only if the second one is true or real. 基于; 取决于 [正式] [usu passive]
-   ≫   Financial success is usually predicated on having money or being able to obtain it.  通常，先要有钱或能弄到钱才会获得财务上的成功。
-
-========================================================================
->>> adverbial
-------------------------------------------------------------------------
-adverbial    [美 ædˈvɜːrbiəl / 英 ædˈvɜːbiəl]
-adj. 副词的，状语的
-n. 状语
-TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) Adverbial means relating to adverbs or like an adverb. 副词的; 似副词的 [usu ADJ n]
-   ≫   ...an adverbial expression.  …一个副词式的表达方式。
-
-========================================================================
->>> complement
-------------------------------------------------------------------------
-complement    [美 ˈkɑːmplɪment / 英 ˈkɒmplɪment]
-v. 补充，补足
-n. 补足物，衬托物；足数，足额；补语；余角；补体，防御素
-★★ CET6 TEM4 complementing,complemented,complements
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (V-T) If one thing complements another, it goes well with the other thing and makes its good qualities more noticeable. 衬托
-   ≫   Nutmeg, parsley and cider all complement the flavour of these beans well.  肉豆蔻、欧芹和苹果酒都凸显这些菜豆的味道。
-2. (V-T) If people or things complement each other, they are different or do something different, which makes them a good combination. 补充
-   ≫   There will be a written examination to complement the practical test.  会有一次书面考试来补充实践测试。
-3. (N-COUNT) Something that is a complement to something else complements it. 衬托物; 补充物
-   ≫   The green wallpaper is the perfect complement to the old pine of the dresser.  绿色墙纸是旧松木梳妆台的完美衬托。
-
-========================================================================
->>> clauses
-------------------------------------------------------------------------
-clauses    [美 ˈklɔːzɪz / 英 ˈklɔːzɪz]
-n. [法]条款（clause 的复数形式）；[计]子句
-★★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) A clause is a section of a legal document. (法律文件的) 条款
-   ≫   He has a clause in his contract which entitles him to a percentage of the profits.  他在他的合同里有一项条款保证他享有一定比例的利润。
-   ≫   ...a compromise document sprinkled with escape clauses.  …一份满是免责条款的妥协性文件。
-2. (N-COUNT) In grammar, a clause is a group of words containing a verb. Sentences contain one or more clauses. 分句
-
-========================================================================
->>> adverbial clause
-------------------------------------------------------------------------
-adverbial clause
-副词从句：在主句中作为副词的从句，用来修饰动词、形容词、副词或整个句子。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   Ask the students to make up sentences using the adverbial clause of condition with if. 要求学生使用 if 来组成条件状语从句。
-≫   Before is adverbial clause of time, I think. 时间状语从句，我打错了。
-≫   What's the difference between adverbial clause and relative clause here? 地点状语和定语从句在这里是什么区别？
-
-========================================================================
->>> object clause
-------------------------------------------------------------------------
-object clause
-宾语从句：在复合句中作为主句的宾语的从句，通常由连接词引导。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   This is an object clause. 这是一个宾语从句。
-≫   Notice that when putting a question into the object clause. 注意当宾语从句是疑问句时。
-≫   Use a question word+to-infinitive to replace each object clause. 运用疑问词十动词不定式来代替每个宾语从句。
-
-========================================================================
->>> attributive
-------------------------------------------------------------------------
-attributive    [美 əˈtrɪbjətɪv / 英 əˈtrɪbjətɪv]
-adj. 定语的，起修饰作用的；归属的，属性的
-n. 定语
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) relating to an attribute 归属的
-2. (N) an attributive adjective 定语的形容词
-
-========================================================================
->>> attributive clause
-------------------------------------------------------------------------
-attributive clause    [美 əˈtrɪbjətɪv klɔːz]
-定语从句
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   This is an attributive clause. 这是一个定语从句。
-≫   Pay attention to the use of commas in the Non-restrictive Attributive clause. 注意逗号在非限制性定语从句中的用法。
-≫   Change the attributive clause in the following sentences into participial phrase. 把下列句中的定语从句改为分词短语。
-
-========================================================================
->>> relative clause
-------------------------------------------------------------------------
-relative clause    [美 ˈrelətɪv klɔːz]
-相对从句：由关系代词、关系形容词或关系副词引导的形容词从句或名词从句，具有描述性或限制性作用。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) In grammar, a relative clause is a subordinate clause which specifies or gives information about a person or thing. Relative clauses come after a noun or pronoun and, in English, often begin with a relative pronoun such as "who," "which," or "that." 关系从句
-
-========================================================================
->>> subject clause
-------------------------------------------------------------------------
-subject clause    [美 ˈsʌbdʒɪkt klɔːz]
-主语从句：在句子中作为主语的从句。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   In the form, it includes subject noun, subject pronoun, subject clause and so on. 从形式上讲，包括名词主语、代词主语、小句作主语等等。
-≫   The Romeo and Juliet clause was not retroactive, however, so Ms Whitaker is stuck on the register, and subject to extraordinary restrictions. 可惜这条罗密欧与朱丽叶的条款不具有追溯力，所以Whitaker依然位列名单之上，并且受到一些特殊的限制。
-≫   A simple sentence has one clause, beginning with a noun group called the subject. 简单句是含有一个分句的句子，以作主语的名词词组开头。
-
-========================================================================
->>> predicative
-------------------------------------------------------------------------
-predicative    [美 ˈpredɪkeɪtɪv / 英 prɪˈdɪkətɪv]
-adj. 谓语性的，表语的；（指动词 be 用法）对主语作出断言的；（逻）作谓项的
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) relating to or occurring within the predicate of a sentence 表语 [grammar] → compare attributive
-   ≫   a predicative adjective  
-
-========================================================================
->>> nominative
-------------------------------------------------------------------------
-nominative    [美 ˈnɑːmɪnətɪv / 英 ˈnɒmɪnətɪv]
-n. 主格
-adj. 主格的；记名的；被提名的
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-SING) In the grammar of some languages, the nominative or the nominative case is the case used for a noun when it is the subject of a verb. Compare . 主格 ['the' N]
-
-========================================================================
->>> predicative clause
-------------------------------------------------------------------------
-predicative clause
-表语从句：在句子中作为主语或宾语补足语的从句，用来说明主语或宾语的状态、性质、特征等。
-
-========================================================================
->>> nominative clause
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> declarative sentence
-------------------------------------------------------------------------
-declarative sentence    [美 dɪˈklærətɪv ˈsentəns]
-陈述句：用于陈述一个事实或声明一个观点的句子。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   There should be a period at the end of a declarative sentence. 陈述句的末尾应该有一句号。
-≫   A declarative sentence declares or states something as a fact. 叙述句是叙述或述说一个事实的句子。
-≫   Can you turn the declarative sentence into a rhetorical question? 同样，凝问名可以由陈述句变成。
-
-========================================================================
->>> interrogative
-------------------------------------------------------------------------
-interrogative    [美 ˌɪntəˈrɑːɡətɪv / 英 ˌɪntəˈrɒɡətɪv]
-adj. （姿势、语调）询问的，疑问的
-n. 疑问句，疑问结构；疑问词
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) An interrogative gesture or tone of voice shows that you want to know the answer to a question. 疑问的 [书面] [usu ADJ n]
-   ≫   He made a further interrogative noise.  他发出了进一步疑问的声音。
-2. (N-SING) In grammar, a clause that is in the interrogative, or in the interrogative mood, has its subject following "do," "be," "have," or a modal verb. Examples are `When did he get back?` and `Are you all right?` Clauses of this kind are typically used to ask questions. 疑问句 ['the' N]
-3. (N-COUNT) In grammar, an interrogative is a word such as "who," "how," or "why," which can be used to ask a question. 疑问词
-
-========================================================================
->>> interrogative sentence
-------------------------------------------------------------------------
-interrogative sentence
-疑问句：用于提问或请求信息的句子。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   Only thinks the interrogative sentence, you are love me? 怪你，怪我？只想问句，你是爱我的吗？
-≫   I want you to change the affirmative sentence into an interrogative sentence. 请你们把肯定句变化疑问句。
-≫   Change the yes sentence into a damaging sentence or an interrogative sentence. 将这个肯定句改为否认句或疑问句。
-
-========================================================================
->>> imperative
-------------------------------------------------------------------------
-imperative    [美 ɪmˈperətɪv / 英 ɪmˈperətɪv]
-adj. 极重要的，必要的；命令的，强制的；祈使的
-n. 重要紧急的事，必要的事；祈使语气，祈使语气动词；命令
-★ CET6 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) If it is imperative that something be done, that thing is extremely important and must be done. 至关重要的 [正式]
-   ≫   It was imperative that he act as naturally as possible.  至关重要的是他要尽可能地自然行事。
-2. (N-COUNT) An imperative is something that is extremely important and must be done. 紧迫之事 [正式]
-   ≫   The most important political imperative is to limit the number of U.S. casualties.  政治上的当务之急是控制美国的伤亡人数。
-3. (N-SING) In grammar, a clause that is in the imperative, or in the imperative mood, contains the base form of a verb and usually has no subject. Examples are "Go away" and "Please be careful." Clauses of this kind are typically used to tell someone to do something. 祈使语气
-4. (N-COUNT) An imperative is a verb in the base form that is used, usually without a subject, in an imperative clause. 祈使语气动词
-
-========================================================================
->>> imperative sentence
-------------------------------------------------------------------------
-imperative sentence    [美 ɪmˈperətɪv ˈsentəns]
-祈使句：一种给出命令或请求做某事的句子。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   In English, the subject NP of an imperative sentence can be deleted. 在英语中，这个主题党的祈使句可以删除。
-≫   Can you tell me what kind of sentence can be called imperative sentence? 你能告诉我什么样的句子可以称作祈使句吗？
-≫   The mediaeval times were the crucial period to imperative sentence to develop to its maturity and stereotypes. 中古是祈使句走向成熟与定型的关键时期。
-
-========================================================================
->>> exclamatory
-------------------------------------------------------------------------
-exclamatory    [美 ɪkˈsklæmətɔːriˌekˈsklæmətɔːri / 英 ɪkˈsklæmətri; ekˈsklæmətri]
-adj. 惊呼的，感叹的
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) using, containing, or relating to exclamations 叫喊的; 感叹的
-
-========================================================================
->>> exclamatory sentence
-------------------------------------------------------------------------
-exclamatory sentence
-感叹句：包含感叹或强调的句子。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   Change it to an exclamatory sentence. 把这句话变成感叹句。
-≫   In terms of sentence unit, there are one-word exclamatory sentence, phrasal one, simple one and compound one. 从句子构成上看，有独词的、词组的、单句的、复句的；
-≫   The sentence patterns which help realize the appraisal function are mainly as follows: exclamatory sentences, which often plays a role in commanding the whole text or a certain local scene; 帮助评议功能实现的句式主要有感叹句，其常常能起到统摄全文或者某个局部场景的作用；
-
-========================================================================
->>> inverted sentence
-------------------------------------------------------------------------
-inverted sentence
-倒装句：在通常以主语为先的语言中，谓语（动词）在主语（名词）之前的句子。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   Use "so" to introduce an inverted sentence. the police got to the station five minutes after the explosion, and so did the reporters. 爆炸后五分钟警察就到了车站，记者也到了。
-≫   In addition, in terms of Marked Theme, there is a unique inverted sentence pattern to indicate the existence of the some objects in English texts. 另外，在使用标志主位表存在时，英语文本有独特的倒装句用法。
-≫   On the basis of previous studies in this paper, we inspected and studied the inverted sentence from syntax, semantics, pragmatics aspects respectively. 易位句是汉语口语交际中一个常见的语法现象，本文在前人研究的基础上，从句法、语义、语用三个平面入手对易位句进行考察和研究。
-
-========================================================================
->>> passive
-------------------------------------------------------------------------
-passive    [美 ˈpæsɪv / 英 ˈpæsɪv]
-adj. 消极的，被动的；被动语态的；（抵抗）非暴力的；（电路，装置）无源的；（金属）经表面钝化处理的，钝化的
-n. （动词的）被动语态形式；被动语态（the passive）
-★★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) If you describe someone as passive, you mean that they do not take action but instead let things happen to them. 被动的 [表不满]
-   ≫   His passive attitude made things easier for me.  他的被动态度使我办起事来容易多了。
-2. (ADV) passively ADV 被动地
-   ≫   He sat there passively, content to wait for his father to make the opening move.  他被动地坐在那里，心满意足地等着他父亲走第一步棋。
-3. (ADJ) A passive activity involves watching, looking at, or listening to things rather than doing things. 消极的 [ADJ n]
-   ≫   They want less passive ways of filling their time.  他们需要不那么消极的方式来打发时间。
-4. (ADJ) Passive resistance involves showing opposition to the people in power in your country by not cooperating with them and protesting in nonviolent ways. 非暴力的 [ADJ n]
-   ≫   They made it clear that they would only exercise passive resistance in the event of a military takeover.  他们声明假若发生军事接管，他们只采取非暴力抵抗行动。
-5. (N-SING) In grammar, the passive or the passive voice is formed using "be" and the past participle of a verb. The subject of a passive clause does not perform the action expressed by the verb but is affected by it. For example, in "He's been murdered," the verb is in the passive. Compare . 被动语态
-
-========================================================================
->>> passive voice
-------------------------------------------------------------------------
-passive voice    [美 ˈpæsɪv vɔɪs]
-被动语态：指主语接受动词的动作，或表示这种关系的动词形式。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   The passive voice is avoided by good writers. 好的作家避免使用被动语态。 实证论述比规范论述更有说服力。
-≫   The use case steps are written in the active rather than passive voice. 用例步骤以主动语态、而不是以被动语态编写。
-≫   GEOFF PULLUM really doesn't like people who abjure the passive voice. 杰夫·普勒姆实在不喜欢那些发誓放弃被动语的人。
-
-========================================================================
->>> subjunctive
-------------------------------------------------------------------------
-subjunctive    [美 səbˈdʒʌŋktɪv / 英 səbˈdʒʌŋktɪv]
-n. 虚拟式，虚拟语气
-adj. 虚拟语气的
-TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-SING) In English, a clause expressing a wish or suggestion can be put in the subjunctive, or in the subjunctive mood, by using the base form of a verb or "were." Examples are "He asked that they be removed" and "I wish I were somewhere else." These structures are formal. 虚拟语气 [技术] ['the' N]
-
-========================================================================
->>> subjunctive mood
-------------------------------------------------------------------------
-subjunctive mood    [美 səbˈdʒʌŋktɪv muːd]
-虚拟语气；假定式
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   In this sentence the verb is in the subjunctive mood. 在这个句子里，动词用的是虚拟语气。
-≫   When we give advice, we can also use the subjunctive mood. 当我们给予建议，我们还能使用虚拟语气。
-≫   If there were no subjunctive mood, English would be easier. 如果没有虚拟语气，英语会容易些。
-
-========================================================================
->>> mood
-------------------------------------------------------------------------
-mood    [美 muːd / 英 muːd]
-n. 心境，情绪；气氛，情感基调；心情不好，坏脾气；想（做某事），有兴致（做某事）；（尤指音乐）激发……情感的，暗示……心境的；（群体的）态度，意愿；表达语气的动词屈折变化；（语法的）式，语气； 想（做某事），有兴致（做某事）
-【名】 （Mood）（英）穆德，（瑞典）莫德（人名）
-★★★ CET4 TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) Your mood is the way you are feeling at a particular time. If you are in a good mood, you feel cheerful. If you are in a bad mood, you feel angry and impatient. 情绪
-   ≫   He is clearly in a good mood today.  显然他今天心情不错。
-   ≫   Lily was in one of her aggressive moods.  莉莉又在咄咄逼人了。
-2. (PHRASE) If you say that you are in the mood for something, you mean that you want to do it or have it. If you say that you are in no mood to do something, you mean that you do not want to do it or have it. 有/无心情 (做某事)
-   ≫   After a day of air and activity, you should be in the mood for a good meal.  在户外活动了一天，你应该想好好吃一顿。
-3. (N-COUNT) If someone is in a mood, the way they are behaving shows that they are feeling angry and impatient. 心情不好
-   ≫   She was obviously in a mood.  显然她心情不好。
-4. (N-SING) The mood of a group of people is the way that they think and feel about an idea, event, or question at a particular time. (群体的) 想法
-   ≫   The government seemed to be in tune with the popular mood.  政府似乎与公众的想法一致。
-5. (N-COUNT) The mood of a place is the general impression that you get of it. 气氛
-   ≫   First set the mood with music.  首先用音乐制造气氛。
-6. (N-COUNT) a category of the verb or verbal inflections that expresses semantic and grammatical differences, including such forms as the indicative, subjunctive, and imperative 语气(如陈述语气、虚拟语气等) [grammar]
-
-========================================================================
->>> infinitive
-------------------------------------------------------------------------
-infinitive    [美 ɪnˈfɪnətɪv / 英 ɪnˈfɪnətɪv]
-n. （动词的）不定式
-adj. 不定式的
-TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) The infinitive of a verb is the basic form, for example, "do," "be," "take," and "eat." The infinitive is often used with "to" in front of it. (动词的) 不定式
-
-========================================================================
->>> infinite
-------------------------------------------------------------------------
-infinite    [英 ˈɪnfɪnət / 美 ˈɪnfɪnət]
-adj. 无限的，无穷尽的；（数量或程度上）极大的，无穷大的；非限定的
-n. （空间或数量的）无穷大（the infinite）；上帝（the infinite）
-★★ CET4 TEM8
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) If you describe something as infinite, you are emphasizing that it is extremely great in amount or degree. 极大的; 极多的 [强调]
-   ≫   ...an infinite variety of landscapes.  …极其多样的地形地貌。
-   ≫   With infinite care, John shifted position.  约翰小心翼翼地换了位置。
-2. (ADV) infinitely ADV 极大地 [ADV adj/adv]
-   ≫   His design was infinitely better than anything I could have done.  他的设计比我所能设计的不知要好上多少倍。
-3. (ADJ) Something that is infinite has no limit, end, or edge. 无穷的; 无限的
-   ≫   ...an infinite number of atoms.  …无数个原子。
-4. (ADV) infinitely ADV 无穷无尽地 [ADV with v]
-   ≫   A centimetre can be infinitely divided into smaller units.  一厘米能被无穷尽地分为更小的单位。
-
-========================================================================
->>> participle
-------------------------------------------------------------------------
-participle    [美 ˈpɑːrtɪsɪpl / 英 pɑːˈtɪsɪpl]
-n. （语法）分词
-TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) In grammar, a participle is a form of a verb that can be used in compound tenses of the verb. There are two participles in English: the past participle, which usually ends in "-ed," and the present participle, which ends in "-ing." 分词
-
-========================================================================
->>> infinitive phrarse
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> infinitive phrase
-------------------------------------------------------------------------
-infinitive phrase    [美 ɪnˈfɪnətɪv freɪz]
-不定式短语：由不定式构成的短语，通常由动词不定式及其修饰语组成。不定式短语可以作为名词、形容词或副词使用。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   But no, all that's left is an infinitive phrase. 但是，没有了。留下的是一个不定式短语。
-≫   To guide or direct, as by persuasion or behavior. Used with an infinitive phrase. 促使，引起通过劝说或行为来带领或指引。用于不定式词组中。
-≫   In addition, a verb Infinitive characteristics, can have their own object and adverbial form Infinitive phrase. 另外，动词不定式具有动词特点，可以有自己的宾语和状语，组成动词不定式短语。
-
-========================================================================
->>> participle phrase
-------------------------------------------------------------------------
-participle phrase
-分词短语：由动词的现在分词或过去分词构成的短语，可以作为形容词或副词使用。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   To avoid using dangling participles, one should remember that a participle or a participial phrase must follow closely the antecedent it qualifies. 要避免“半天吊”分词，请记着︰分词或其词组必须紧跟其前辞。
-
-========================================================================
->>> absolute construction
-------------------------------------------------------------------------
-absolute construction    [美 ˈæbsəluːt kənˈstrʌkʃn]
-绝对结构：一种语法结构，与其他单词或句子成分的正常或通常的句法关系相分离。
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   Our commitment to and passion for designing the absolute best rope has not only revolutionized rope construction, it has transformed the way climbers view and use their ropes. 我们对制造最好绳索的承诺和热情，不仅革新了绳索的结构，而且改变了攀登者们对绳索的看法和使用方法。
-≫   Saint is omnipotent and owns the absolute authority. He is the principal construction of the social order and essential alien existence in individual subject. 圣人无所不能，拥有绝对的权威，是整个社会秩序的建构主体，个人主体身上根本的异已性存在。
-≫   Therefore, contextualization is an absolute and universal character of linguistic events, which restrains the construction of discourse to a great degree. 语境性是言语活动的一个绝对的、普遍的特性，语境性对话语的建构有极大制约作用。
-
-========================================================================
->>> ellipsis
-------------------------------------------------------------------------
-ellipsis    [美 ɪˈlɪpsɪs / 英 ɪˈlɪpsɪs]
-n. （词在句子中的）省略；省略号
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-UNCOUNT) In linguistics, ellipsis means leaving out words rather than repeating them unnecessarily; for example, saying "I want to go but I can't" instead of "I want to go but I can't go." (语言学中的)省略 [技术]
-2. (N-UNCOUNT) a sequence of three dots (…) indicating an omission in text 省略号 [printing]
-
-========================================================================
->>> parenthesis
-------------------------------------------------------------------------
-parenthesis    [美 pəˈrenθəsɪs / 英 pəˈrenθəsɪs]
-n. 圆括号；插入成分，插入语；插曲，间歇
-CET6+ TEM4
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (N-COUNT) Parentheses are a pair of curved marks that you put around words or numbers to indicate that they are additional, separate, or less important. (This sentence is in parentheses.) 括号
 
 ========================================================================
 >>> bed linens
