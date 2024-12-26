@@ -38888,3 +38888,19 @@ CET6
 2. (ADV) Granted is also an adverb. 的确 [ADV with cl]
    ≫   Granted, he doesn't look too bad for his age, but I don't care for him.  的确，就年龄来说他看上去不太差，但我不喜欢他。
 
+========================================================================
+>>> confidential
+------------------------------------------------------------------------
+confidential    [美 ˌkɑːnfɪˈdenʃ(ə)l / 英 ˌkɒnfɪˈdenʃ(ə)l]
+adj. 机密的，保密的；（言谈举止）神秘的，隐秘的；受信任的，委以机密的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Information that is confidential is meant to be kept secret or private. 保密的
+   ≫   She accused them of leaking confidential information about her private life.  她指责他们泄露了有关她的私生活的保密信息。
+2. (ADV) confidentially ADV 保密地
+   ≫   People can phone in, knowing that any information they give will be treated confidentially.  人们可以打电话进来，他们知道他们所提供的一切信息都会被保密。
+3. (ADJ) If you talk to someone in a confidential way, you talk to them quietly because what you are saying is secret or private. 悄悄的
+   ≫   "Look," he said in a confidential tone, "I want you to know that me and Joey are cops."  “喂，”他悄声说，“我想要你知道我和乔伊都是警察。”
+4. (ADV) confidentially ADV 悄悄地
+   ≫   Nash hadn't raised his voice, still spoke rather softly, confidentially.  纳什没有提高嗓门，仍然很轻地、悄悄地说。
+
