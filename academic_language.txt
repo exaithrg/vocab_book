@@ -38859,3 +38859,18 @@ n. [解剖] 股骨；大腿骨
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) Your femur is the large bone in the upper part of your leg. 股骨
 
+========================================================================
+>>> resolving
+------------------------------------------------------------------------
+resolving    [美 rɪˈzɑːlvɪŋ / 英 rɪˈzɒlvɪŋ]
+n. 分解；解析
+v. 分辨（resolve 的 ing 形式）；分解；决定；解决矛盾
+★★★ CET4 TEM4 resolving,resolved,resolves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To resolve a problem, argument, or difficulty means to find a solution to it. 解决 [正式]
+   ≫   We must find a way to resolve these problems before it's too late.  我们必须找到一个办法去解决这些问题,不然就太晚了。
+2. (V-T) If you resolve to do something, you make a firm decision to do it. 下决心 [正式]
+   ≫   She resolved to report the matter to the hospital's nursing supervisor.  她决心把这件事向该医院的护士长汇报。
+3. (N-VAR) Resolve is determination to do what you have decided to do. 决心 [正式]
+   ≫   So you're saying this will strengthen the American public's resolve to go to war if necessary?  那么你是说，这将会坚定美国公众在必要时参战的决心？
+

@@ -58110,3 +58110,13 @@ demonizing,demonized,demonizes
 1. (V-T) If people demonize someone, they convince themselves that that person is evil. 妖魔化
    ≫   Each side began to demonize the other.  双方开始把对方妖魔化。
 
+========================================================================
+>>> more or less
+------------------------------------------------------------------------
+more or less
+在某种程度上或程度不确定地，或者大致上，差不多
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The author can report other people's results which more or less agree with hers. 作者可以报道与自己的观点或多或少一致的别人的成果。《柯林斯英汉双解大词典》
+≫   I've more or less finished the book. 我差不多已经读完这本书了。《牛津词典》
+≫   The conference is more or less over. 会议大致结束了。《柯林斯英汉双解大词典》
+
