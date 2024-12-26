@@ -38874,3 +38874,17 @@ v. 分辨（resolve 的 ing 形式）；分解；决定；解决矛盾
 3. (N-VAR) Resolve is determination to do what you have decided to do. 决心 [正式]
    ≫   So you're saying this will strengthen the American public's resolve to go to war if necessary?  那么你是说，这将会坚定美国公众在必要时参战的决心？
 
+========================================================================
+>>> granted
+------------------------------------------------------------------------
+granted    [美 ˈɡræntɪd / 英 ˈɡrɑːntɪd]
+adv. 的确，诚然
+conj. 因为（granted that）
+v. 授予，给予；承认（grant 的过去式和过去分词）
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONJ) You use granted or granted that at the beginning of a clause to say that something is true, before you make a comment on it. 诚然
+   ≫   Granted that the firm has not broken the law, is the law what it should be?  诚然该公司没有违犯那条法律，那条法律就是对的吗？
+2. (ADV) Granted is also an adverb. 的确 [ADV with cl]
+   ≫   Granted, he doesn't look too bad for his age, but I don't care for him.  的确，就年龄来说他看上去不太差，但我不喜欢他。
+

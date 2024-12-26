@@ -58120,3 +58120,30 @@ more or less
 ≫   I've more or less finished the book. 我差不多已经读完这本书了。《牛津词典》
 ≫   The conference is more or less over. 会议大致结束了。《柯林斯英汉双解大词典》
 
+========================================================================
+>>> quadrant
+------------------------------------------------------------------------
+quadrant    [美 ˈkwɑːdrənt / 英 ˈkwɒdrənt]
+n. 象限；[海洋][天] 象限仪；四分之一圆
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A quadrant is one of four equal parts into which a circle or other shape has been divided. 扇形的
+   ≫   A symbol appears in the left upper quadrant of the screen.  一个符号出现在屏幕中扇形的左上方。
+
+========================================================================
+>>> East Capitol Street
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> capitol
+------------------------------------------------------------------------
+capitol    [美 ˈkæpɪtl / 英 ˈkæpɪtl]
+n. 美国国会大厦；（美国）州议会大厦
+alsoCapitol
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A capitol is a government building in which a state legislature meets. 州议会大厦 [美国英语]
+   ≫   Thousands of striking teachers in Washington state will protest in front of the state capitol today.  成千上万的华盛顿州罢工教师今天将在州议会大厦前举行抗议。
+2. (N-PROPER) The Capitol is the government building in Washington, D.C., in which the U.S. Congress meets. 美国国会大厦 [美国英语] ['the' N]
+   ≫   Thousands of demonstrators rallied in front of the Capitol.  成千上万的示威者在美国国会大厦前集会。
+
