@@ -44206,3 +44206,15 @@ Not found :(
 inclusion policies
 包含政策
 
+========================================================================
+>>> infer
+------------------------------------------------------------------------
+infer    [英 ɪnˈfɜː(r) / 美 ɪnˈfɜːr]
+v. 推断，推论；暗示，暗指
+★ CET4 TEM4 inferring,inferred,infers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you infer that something is the case, you decide that it is true on the basis of information that you already have. 推断
+   ≫   I inferred from what she said that you have not been well.  我从她的话里推断出你身体一直不大好。
+2. (V-T) Some people use infer to mean "imply," but this use is incorrect. 暗指 (一些人用)(infer)(表示)(imply)(的意思，但这种用法是错误的)
+   ≫   The police inferred, though they didn't exactly say it, that they found her behaviour rather suspicious.  警方虽未明说却暗示他们发现她的行迹相当可疑。
+
