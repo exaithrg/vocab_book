@@ -72163,3 +72163,15 @@ TEM8 retarding,retarded,retards
    ≫   Continuing violence will retard negotiations over the country's future.  持续不断的暴力活动会阻碍关于国家未来的谈判的进行。
 2. (N-COUNT) If you describe someone as a retard, you mean that they have not developed normally, either mentally or socially. 笨蛋; 傻子 [非正式，侮辱]
 
+========================================================================
+>>> toxic
+------------------------------------------------------------------------
+toxic    [美 ˈtɑːksɪk / 英 ˈtɒksɪk]
+adj. 有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
+n. 有毒物质，毒药（toxics）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A toxic substance is poisonous. 有毒的
+   ≫   ...the cost of cleaning up toxic waste.  …清除有毒废弃物的成本。
+2. (ADJ) If a financial asset is described as toxic, it is likely to cause significant loss to the holder 有毒的(资产)
+
