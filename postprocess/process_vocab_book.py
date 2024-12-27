@@ -88,15 +88,15 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
 
 # Usage example
 if __name__ == "__main__":
-    input_file_path = os.path.join(os.path.dirname(__file__), '../vocab_book.txt')
+    input_file_path = os.path.join(os.path.dirname(__file__), '../academic_language.txt')
     
     # Get current timestamp and format it
     timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
     
     # output_brief_file_path = os.path.join(os.path.dirname(__file__), f'vocab_book_brief_{timestamp}.txt')
     # output_detail_file_path = os.path.join(os.path.dirname(__file__), f'vocab_book_detail_{timestamp}.txt')
-    output_brief_file_path = os.path.join(os.path.dirname(__file__), f'vocab_book_brief.txt')
-    output_detail_file_path = os.path.join(os.path.dirname(__file__), f'vocab_book_detail.txt')
+    output_brief_file_path = os.path.join(os.path.dirname(__file__), f'academic_language_brief.txt')
+    output_detail_file_path = os.path.join(os.path.dirname(__file__), f'academic_language_detail.txt')
 
     vocab_units = parse_vocab_book(input_file_path)
     sorted_vocab_units = sort_units(vocab_units)
