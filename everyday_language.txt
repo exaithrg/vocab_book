@@ -63750,3 +63750,86 @@ n. 逃脱，躲避；逃避手段，逃避方法；遁词，借口
 2. (N-VAR) If you accuse someone of evasion when they have been asked a question, you mean that they are deliberately avoiding giving a clear direct answer. 避而不谈
    ≫   We want straight answers. No evasions.  我们要直接的答复。不要绕弯。
 
+========================================================================
+>>> groundbreaking
+------------------------------------------------------------------------
+groundbreaking    [英 ˈɡraʊndbreɪkɪŋ / 美 ˈɡraʊndbreɪkɪŋ]
+adj. 开创性的
+n. 动工
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use groundbreaking to describe things which you think are significant because they provide new and positive ideas, and influence the way people think about things. 开拓性的 [usu ADJ n]
+   ≫   ...his groundbreaking novel on homosexuality.  ...他在同性恋方面开拓性的小说。
+   ≫   ...groundbreaking research.  ...开拓性的研究。
+
+========================================================================
+>>> monumental
+------------------------------------------------------------------------
+monumental    [美 ˌmɑːnjuˈment(ə)l / 英 ˌmɒnjuˈment(ə)l]
+adj. 丰碑式的，伟大的；极大（坏，好等）的；纪念碑的，纪念性的；巨大的，庞大的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You can use monumental to emphasize the large size or extent of something. 巨大的 [强调]
+   ≫   It had been a monumental blunder to give him the assignment.  分配给他这项任务是一个巨大的错误。
+2. (ADJ) If you describe a book or musical work as monumental, you are emphasizing that it is very large and impressive, and is likely to be important for a long time. 意义深远的; 不朽的 [强调]
+   ≫   ...his monumental work on Chinese astronomy.  …他关于中国天文学的不朽著作。
+3. (ADJ) A monumental building or sculpture is very large and impressive. 宏伟的 [ADJ n]
+   ≫   I take no real interest in monumental sculpture.  我对宏伟的雕塑并没有真正感兴趣。
+
+========================================================================
+>>> monument
+------------------------------------------------------------------------
+monument    [美 ˈmɑːnjumənt / 英 ˈmɒnjumənt]
+n. 纪念碑，纪念馆，纪念物；遗址，名胜古迹；典范；塑像，墓碑；有永久价值的作品
+v. 为……树碑
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A monument is a large structure, usually made of stone, which is built to remind people of an event in history or of a famous person. 纪念碑
+   ≫   ...a newly restored monument commemorating a 119-year-old tragedy.  …为纪念一起有着119年历史的惨剧而新修复的一座纪念碑。
+2. (N-COUNT) A monument is something such as a castle or bridge that was built a very long time ago and is regarded as an important part of a country's history. 历史遗迹
+   ≫   ...the ancient monuments of Mexico and Peru.  …墨西哥和秘鲁的历史古迹。
+3. (N-COUNT) If you describe something as a monument to someone's qualities, you mean that it is a very good example of the results or effects of those qualities. 典范
+   ≫   By his international achievements he leaves a fitting monument to his beliefs.  他在国际上的成就恰好成为他信仰的一个例证。
+
+========================================================================
+>>> propotypes
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> prototypes
+------------------------------------------------------------------------
+prototypes    [英 ˈprəʊtətaɪps]
+n. 原型；技术原型；雏型
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prototype is a new type of machine or device that is not yet ready to be made in large numbers and sold. 样机
+   ≫   Chris Retzler has built a prototype of a machine called the wave rotor.  克里斯·雷兹勒做出了一台叫做波转子的样机。
+
+========================================================================
+>>> toad
+------------------------------------------------------------------------
+toad    [美 toʊd / 英 təʊd]
+n. 蟾蜍，癞蛤蟆；（侮辱性用语）讨厌鬼
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A toad is a creature which is similar to a frog but which has a drier skin and spends less time in water. 蟾蜍
+
+========================================================================
+>>> nonsense
+------------------------------------------------------------------------
+nonsense    [英 ˈnɒns(ə)ns / 美 ˈnɑːnsens]
+n. 荒谬的想法（看法），胡说；愚蠢的行为，胡闹；无意义的话（字句）
+adj. 无意义的，荒谬的
+int. 胡说，废话
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you say that something spoken or written is nonsense, you mean that you consider it to be untrue or silly. 胡言乱语; 蠢话 [表不满]
+   ≫   Most orthodox doctors however dismiss this as complete nonsense.  然而大多数传统的医生将此视为纯粹的胡言乱语而不予考虑。
+   ≫   ...all that poetic nonsense about love.  …所有关于爱情的诗一般的傻话。
+2. (N-UNCOUNT) You can use nonsense to refer to something that you think is foolish or that you disapprove of. 蠢事 [also 'a' N, usu supp N] [表不满]
+   ≫   Surely it is an economic nonsense to deplete the world of natural resources.  耗尽世界的自然资源无疑是一件经济上的愚蠢行为。
+3. (N-UNCOUNT) You can refer to spoken or written words that do not mean anything because they do not make sense as nonsense. 无意义的话
+   ≫   ...a children's nonsense poem by Charles E Carryl.  …查尔斯·E·卡里尔写的一首儿童打油诗。
+4. (PHRASE) To make a nonsense of something or to make nonsense of it means to make it seem ridiculous or pointless. 使…荒唐可笑; 使…失去意义
+   ≫   The fighting made a nonsense of peace pledges made last week.  这场战斗使上周做出的和平承诺失去了意义。
+
