@@ -63650,3 +63650,69 @@ replenishment ship
 amphibious assault ship
 两栖攻击舰：一种军事舰艇，旨在运输和登陆水陆两栖作战部队，通常配备有直升机、气垫登陆艇等设备。
 
+========================================================================
+>>> stuns with
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> stun
+------------------------------------------------------------------------
+stun    [美 stʌn / 英 stʌn]
+v. 使震惊，使惊讶；使昏迷，（尤指）打昏；给（某人）以深刻印象，使深深感动
+n. 昏迷；打昏；惊倒
+★★ CET6 TEM4 stunning,stunned,stuns
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you are stunned by something, you are extremely shocked or surprised by it and are therefore unable to speak or do anything. 使震惊 [usu passive]
+   ≫   He's stunned by today's resignation of his longtime ally.  他被自己的长期助手今天的辞职所震惊。
+2. (ADJ) stunned ADJ 惊呆的
+   ≫   When they told me she was missing I was totally stunned.  当他们告诉我她不见了时，我完全惊呆了。
+3. (V-T) If something such as a blow on the head stuns you, it makes you unconscious or confused and unsteady. 把…打昏
+   ≫   Sam stood his ground and got a blow that stunned him.  萨姆不让步，遭到一击，把他打昏了。
+
+========================================================================
+>>> tactical
+------------------------------------------------------------------------
+tactical    [英 ˈtæktɪkl / 美 ˈtæktɪkl]
+adj. 战术的；策略的；善于策略的
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use tactical to describe an action or plan which is intended to help someone achieve what they want in a particular situation. 战术上的
+   ≫   It's not yet clear whether his resignation offer is a serious one, or whether it's simply a tactical move.  还不清楚他的辞职请求是认真的，还是只是个策略上的举动。
+2. (ADV) tactically ADV 有策略地
+   ≫   The electorate is astute enough to vote tactically against the government.  全体选民非常精明，很有策略地投了政府的反对票。
+3. (ADJ) Tactical weapons or forces are those which a military leader can decide for themselves to use in a battle, rather than waiting for a decision by a political leader. (武器或军队) 战术性的 [ADJ n]
+   ≫   They have removed all tactical nuclear missiles that could strike Europe.  他们已经拆走了所有可能攻击欧洲的战术性核导弹。
+
+========================================================================
+>>> proposal
+------------------------------------------------------------------------
+proposal    [美 prəˈpoʊz(ə)l / 英 prəˈpəʊz(ə)l]
+n. 提议，建议；提案；（计划、建议等的）提出；求婚
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. (常为正式书面的) 提议
+   ≫   The president is to put forward new proposals for resolving the country's constitutional crisis.  总统将提出解决国家宪法危机的新议案。
+   ≫   ...the governor's proposal to restrict cigarette sales.  …州长关于限制香烟销售的提案。
+2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
+   ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
+
+========================================================================
+>>> tailless
+------------------------------------------------------------------------
+tailless    [美 ˈteɪlləs / 英 ˈteɪlləs]
+adj. 无尾的；无财产继承之限制的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Manx cats are tailless. 马恩岛猫没有尾巴。《牛津词典》
+≫   One of the more notable features of the X-4 Bantam, built by Northrop, was its semi-tailless design. 对在X - 4更突出的特点班特姆由诺斯罗普建成，一，是它的半尾巴设计。
+≫   For straight - winged tailless airplanes, only the negative camber satisfies the conditions for flight. 对直机翼无尾飞机，只有负弯度才满足飞行条件。
+
+========================================================================
+>>> wingman
+------------------------------------------------------------------------
+wingman    [美 ˈwɪŋmən / 英 ˈwɪŋˌmæn]
+n. 僚机；僚机驾驶员；（足球的）边锋
+n. （Wingman）人名；（瑞典）温曼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a player in the wing position in Australian Rules (澳大利亚规则中的)僚机驾驶员
+
