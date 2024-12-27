@@ -63716,3 +63716,37 @@ n. （Wingman）人名；（瑞典）温曼
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) a player in the wing position in Australian Rules (澳大利亚规则中的)僚机驾驶员
 
+========================================================================
+>>> monolithic
+------------------------------------------------------------------------
+monolithic    [美 ˌmɑːnəˈlɪθɪk / 英 ˌmɒnəˈlɪθɪk]
+adj. 整体的；巨石的，庞大的；完全统一的
+n. 单块集成电路，单片电路
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的 [表不满]
+   ≫   ...an authoritarian and monolithic system.  …大一统的独裁体制。
+2. (ADJ) If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的 [表不满]
+   ≫   ...a huge monolithic concrete building.  …一座巨大而平庸的混凝土建筑。
+
+========================================================================
+>>> tax evasion
+------------------------------------------------------------------------
+tax evasion    [美 ˈtæks ɪveɪʒn / 英 ˈtæks ɪveɪʒn]
+非法逃避纳税：通过虚报收入等手段非法逃避纳税的行为。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Tax evasion is the crime of not paying the full amount of tax that you should pay. 逃税 [商业]
+   ≫   Mr. Kozlowski was charged with tax evasion.  科兹洛斯基先生被指控逃税。
+
+========================================================================
+>>> evasion
+------------------------------------------------------------------------
+evasion    [美 ɪˈveɪʒ(ə)n / 英 ɪˈveɪʒ(ə)n]
+n. 逃脱，躲避；逃避手段，逃避方法；遁词，借口
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Evasion means deliberately avoiding something that you are supposed to do or deal with. 逃避
+   ≫   He was arrested for tax evasion.  他因逃税被捕。
+2. (N-VAR) If you accuse someone of evasion when they have been asked a question, you mean that they are deliberately avoiding giving a clear direct answer. 避而不谈
+   ≫   We want straight answers. No evasions.  我们要直接的答复。不要绕弯。
+
