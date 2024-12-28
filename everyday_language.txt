@@ -71591,3 +71591,1943 @@ n. 针刺；针孔；令人烦恼的小事
 1. (N-COUNT) A very small spot of something can be described as a pinprick. 小点 [with supp]
    ≫   ...a pinprick of light.  ...一个小光点。
 
+========================================================================
+>>> hail
+------------------------------------------------------------------------
+hail    [美 heɪl / 英 heɪl]
+v. 赞扬，欢呼；呼喊，招呼；下冰雹；（大量物体）像雹子般落下（或击打）；<古>表示问候或欢呼欢迎
+n. 冰雹；雹子般的一阵；招呼（某人）
+【名】 （Hail）（阿拉伯、捷）海尔（人名）
+★★ CET4 TEM4 hailing,hailed,hails
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a person, event, or achievement is hailed as important or successful, they are praised publicly. 称赞 [usu passive]
+   ≫   Faulkner has been hailed as the greatest American novelist of his generation.  福克纳被赞颂为他那一代人中最伟大的美国小说家。
+2. (N-UNCOUNT) Hail consists of small balls of ice that fall like rain from the sky. 冰雹
+   ≫   ...a sharp short-lived storm with heavy hail.  …一场来去匆匆的带着大冰雹的暴风雨。
+3. (V-I) When it hails, hail falls like rain from the sky. 下冰雹
+   ≫   It started to hail, huge great stones.  天空开始下冰雹，巨大的雹子。
+4. (N-SING) A hail of things, usually small objects, is a large number of them that hit you at the same time and with great force. (雹子般的) 一阵
+   ≫   The victim was hit by a hail of bullets.  那名受害者被一阵弹雨击中了。
+5. (V-I) Someone who hails from a particular place was born there or lives there. 出生于 [正式]
+   ≫   He hails from Memphis.  他出生于孟菲斯。
+6. (V-T) If you hail a taxi, you wave at it in order to stop it because you want the driver to take you somewhere. 挥手呼叫
+   ≫   I hurried away to hail a taxi.  我匆忙离开去挥手招了一辆出租车。
+7. (V-T) to greet, esp enthusiastically (热烈)欢迎
+   ≫   the crowd hailed the actress with joy  
+8. (SENTENCE SUBSTITUTE) an exclamation of greeting 欢迎的喊叫声 [POETIC]
+
+========================================================================
+>>> sleet
+------------------------------------------------------------------------
+sleet    [美 sliːt / 英 sliːt]
+n. 雨夹雪，冻雨；雨淞
+v. 下雨夹雪，下冰雹；冻雨拍打；使下霰般落下
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Sleet is rain that is partly frozen. 冻雨
+   ≫   ...blinding snow, driving sleet and wind.  …迷眼的大雪、猛烈的冻雨和狂风。
+
+========================================================================
+>>> thunderstorm
+------------------------------------------------------------------------
+thunderstorm    [美 ˈθʌndərstɔːrm / 英 ˈθʌndəstɔːm]
+n. 雷雨，雷暴，雷雨交加
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A thunderstorm is a storm with thunder and lightning and a lot of heavy rain. 雷雨
+
+========================================================================
+>>> thunder
+------------------------------------------------------------------------
+thunder    [美 ˈθʌndər / 英 ˈθʌndə(r)]
+n. 雷，雷声；雷鸣般的响声，轰隆声；怒容满面，（雷鸣般的）怒吼
+v. 打雷；发出雷鸣般的响声，轰隆地响；轰隆隆地快速移动，使快速移动；愤怒地大叫，怒吼；砰然重击
+★★ CET4 TEM4 thundering,thundered,thunders
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Thunder is the loud noise that you hear from the sky after a flash of lightning, especially during a storm. 雷
+   ≫   There was thunder and lightning, and torrential rain.  雷电交加，暴雨倾盆而下。
+2. (V-I) When it thunders, a loud noise comes from the sky after a flash of lightning. 打雷
+   ≫   The day was heavy and still. It would probably thunder later.  天阴沉沉的，一丝风也没有。等会儿可能会打雷。
+3. (N-UNCOUNT) The thunder of something that is moving or making a sound is the loud deep noise it makes. 轰隆声
+   ≫   The thunder of the sea on the rocks seemed to blank out other thoughts.  海浪拍击礁石的轰隆声似乎要把其他的思绪都淹没。
+4. (V-I) If something or someone thunders somewhere, they move there quickly and with a lot of noise. 轰隆隆地快速移动
+   ≫   The horses thundered across the valley floor.  马群轰隆隆地从谷底奔跑而过。
+
+========================================================================
+>>> fog
+------------------------------------------------------------------------
+fog    [英 fɒɡ / 美 fɑːɡ]
+n. 雾；烟雾，尘雾；困惑，迷惘；（底片等的）灰雾，雾翳
+v. 使令人困惑，使费解；底片产生灰雾；起雾
+【名】 (Fog) （丹）福（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) When there is fog, there are tiny drops of water in the air which form a thick cloud and make it difficult to see things. 雾
+   ≫   The crash happened in thick fog.  这次撞车发生在浓雾中。
+2. (N-SING) A fog is an unpleasant cloud of something such as smoke inside a building or room. 一团 (烟雾)
+   ≫   ...a fog of stale cigarette smoke.  …一团难闻的香烟烟雾。
+3. (N) a second growth of grass after the first mowing (第一次割草后长的)新草
+4. (N) grass left to grow long in winter 过冬长草
+5. (V) to confuse or become confused 使困惑; 变得困惑
+   ≫   to fog an issue  
+
+========================================================================
+>>> mist
+------------------------------------------------------------------------
+mist    [英 mɪst / 美 mɪst]
+n. 薄雾，水汽；雾状物；使视线模糊的东西；迷雾，难以透彻了解的事物
+v. 使……蒙上雾气；（使）充满泪水；给……喷水；下毛毛细雨
+★★ CET4 TEM4 misting,misted,mists
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Mist consists of a large number of tiny drops of water in the air, which make it difficult to see very far. 雾
+   ≫   Thick mist made flying impossible.  浓雾使得无法飞行。
+2. (V-T/V-I) If a piece of glass mists or is misted, it becomes covered with tiny drops of moisture, so that you cannot see through it easily. 使蒙上薄雾; 蒙上薄雾
+   ≫   The windows misted, blurring the stark streetlight.  窗户蒙上了一层水汽，使得明亮的街灯模糊了。
+3. (PHRASAL VERB) Mist over means the same as . 同(mist)
+   ≫   The front windshield was misting over.  前挡风玻璃蒙上了一层水汽。
+
+========================================================================
+>>> dew
+------------------------------------------------------------------------
+dew    [美 duː / 英 djuː]
+n. 露水；（似露珠的）小水珠
+v. <文>用水珠弄湿
+【名】 （Dew）（英）迪尤，（德）德夫（人名）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Dew is small drops of water that form on the ground and other surfaces outdoors during the night. 露水
+   ≫   The dew gathered on the leaves.  露水在叶片上聚集。
+
+========================================================================
+>>> frost
+------------------------------------------------------------------------
+frost    [美 frɔːst / 英 frɒst]
+n. 严寒天气，霜冻；霜；冷淡，冷漠；<英，非正式>失败
+v. （使）蒙上霜，结霜；<美>在（糕饼）上撒糖霜；<美>将（头发）挑染成淡色；为（玻璃）制毛面；受冻
+【名】 （Frost）（英、美、德）弗罗斯特（人名）
+★ CET4 TEM4 frosting,frosted,frosts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) When there is frost or a frost, the temperature outside falls below freezing point and the ground becomes covered in ice crystals. 霜
+   ≫   There is frost on the ground and snow is forecast.  地上有霜，预报有雪。
+2. (V-T) If you frost a cake, you cover and decorate it with icing. 给 (蛋糕) 撒糖霜 [美国英语]
+   ≫   She was frosting the cupcakes while we talked.  我们交谈时，她在给杯形蛋糕撒糖霜。
+
+========================================================================
+>>> drizzle
+------------------------------------------------------------------------
+drizzle    [美 ˈdrɪz(ə)l / 英 ˈdrɪz(ə)l]
+v. 下毛毛雨，下蒙蒙细雨； （毛毛雨似的）洒落；（毛毛雨似的）洒落
+n. 毛毛细雨，蒙蒙细雨；（烹）（浇在食品上的）液态调料细流
+★ CET6+ TEM4 drizzling,drizzled,drizzles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Drizzle is light rain falling in fine drops. 毛毛雨 [also 'a' N]
+   ≫   The drizzle had now stopped and the sun was breaking through.  细雨已经停了，太阳露出了脸。
+2. (V-I) If it is drizzling, it is raining very lightly. 下毛毛雨
+   ≫   Clouds had come down and it was starting to drizzle.  云压了下来，开始下起了毛毛雨。
+
+========================================================================
+>>> downpour
+------------------------------------------------------------------------
+downpour    [美 ˈdaʊnpɔːr / 英 ˈdaʊnpɔː(r)]
+n. 倾盆大雨；注下
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A downpour is a sudden and unexpected heavy fall of rain. 瓢泼大雨
+   ≫   ...sheltering from a sudden downpour of rain.  …躲避一场突如其来的瓢泼大雨。
+
+========================================================================
+>>> shower
+------------------------------------------------------------------------
+shower    [美 ˈʃaʊər / 英 ˈʃaʊə(r)]
+n. 淋浴器，花洒；淋浴间，淋浴室；淋浴，洗澡；阵雨，阵雪；（落下的东西）一大批，一阵； 流星雨；<美>（为即将结婚或分娩的女子举行的）送礼聚会；<英，非正式> 一群乌合之众，一群笨蛋
+v. 淋浴，洗澡；洒落，（使）纷纷降落；朝......阵雨般地扔（大量小东西）（shower sb. with）；大量给予，慷慨给予
+★★ CET4 TEM4 showering,showered,showers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shower is a device for washing yourself. It consists of a pipe which ends in a flat cover with a lot of holes in it so that water comes out in a spray. 淋浴器
+   ≫   She heard him turn on the shower.  她听见他拧开了淋浴器。
+2. (N-COUNT) A shower is a small enclosed area containing a shower. 淋浴间
+   ≫   Do you sing in the shower?  你在淋浴间里唱歌吗？
+3. (N-COUNT) The showers or the shower in a place such as a gym is the area containing showers. (体育馆等的) 浴室
+   ≫   The showers are a mess.  那些浴室一片狼藉。
+4. (N-COUNT) If you take a shower, you wash yourself by standing under a spray of water from a shower. 淋浴
+   ≫   I think I'll take a shower before dinner.  我想晚饭前我要来次淋浴。
+5. (V-I) If you shower, you wash yourself by standing under a spray of water from a shower. 洗澡
+   ≫   There wasn't time to shower or change clothes.  没时间洗澡或换衣服了。
+6. (N-COUNT) A shower is a short period of rain, especially light rain. 阵雨
+   ≫   There'll be bright or sunny spells and scattered showers this afternoon.  今天下午将放晴，间有零星阵雨。
+7. (N-COUNT) You can refer to a lot of things that are falling as a shower of them. 大量下落
+   ≫   Showers of sparks flew in all directions.  无数火星儿向四处飞溅。
+8. (V-T) If you are showered with a lot of small objects or pieces, they are scattered over you. 抛撒 [usu passive]
+   ≫   They were showered with rice in the traditional manner.  人们按照传统习俗朝他们抛撒大米。
+9. (N-COUNT) A shower is a party or celebration at which the guests bring gifts. 送礼会 [美国英语]
+   ≫   ...a baby shower.  …为婴儿举行的送礼会。
+10. (N) a derogatory term applied to a person or group, esp to a group considered as being slack, untidy, etc 懒散邋遢鬼 [英国英语] [slang]
+11. (N) a large number of particles formed by the collision of a cosmic-ray particle with a particle in the atmosphere 镞射粒子
+
+========================================================================
+>>> drizzle, shower, rain and downpour
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1591
+drizzle, shower, rain and downpour
+毛毛雨，阵雨，大雨和倾盆大雨
+
+========================================================================
+>>> blizzard
+------------------------------------------------------------------------
+blizzard    [美 ˈblɪzərd / 英 ˈblɪzəd]
+n. 暴风雪；大批侵扰性的事物，大量的负担
+v. 下暴风雪
+【名】 （Blizzard）（英）布利泽德（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A blizzard is a very bad snowstorm with strong winds. 暴风雪
+
+========================================================================
+>>> hurricane
+------------------------------------------------------------------------
+hurricane    [美 ˈhɜːrəkeɪn / 英 ˈhʌrɪkən]
+n. 飓风；爆发
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hurricane is an extremely violent storm that begins over ocean water. 飓风
+
+========================================================================
+>>> tornado
+------------------------------------------------------------------------
+tornado    [美 tɔːrˈneɪdoʊ / 英 tɔːˈneɪdəʊ]
+n. 龙卷风，大旋风；极具破坏力的人（或物），情感火爆的人
+【名】 （Tornado）（西）托纳多（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tornado is a violent wind storm consisting of a tall column of air which spins around very fast and causes a lot of damage. 龙卷风
+
+========================================================================
+>>> typhoon
+------------------------------------------------------------------------
+typhoon    [美 taɪˈfuːn / 英 taɪˈfuːn]
+n. （印度洋及西太平洋的）台风
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A typhoon is a very violent tropical storm. 台风
+
+========================================================================
+>>> cyclone
+------------------------------------------------------------------------
+cyclone    [美 ˈsaɪkloʊn / 英 ˈsaɪkləʊn]
+n. 气旋，龙卷风
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cyclone is a violent tropical storm in which the air goes around and around. 旋风
+   ≫   The race was called off as a cyclone struck.  由于旋风袭击，比赛被取消了。
+
+========================================================================
+>>> dust storm
+------------------------------------------------------------------------
+dust storm    [英 ˈdʌst stɔːm]
+尘暴：一种带有尘土的旋风，它在干旱地区移动，通常与炎热干燥的空气相伴，并且具有高电压。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dust storm is a storm in which strong winds carry a lot of dust. 尘暴
+
+========================================================================
+>>> heat wave
+------------------------------------------------------------------------
+heat wave    [美 hiːt weɪv]
+热浪：一段异常炎热的天气期间。
+alsoheatwave
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A heatwave is a period of time during which the weather is much hotter than usual. 酷暑期; 热浪
+
+========================================================================
+>>> cold snap
+------------------------------------------------------------------------
+cold snap    [英 ˈkəʊld snæp]
+寒流：指短时间内的寒冷天气。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cold snap is a short period of cold and icy weather. 寒流 [usu sing]
+
+========================================================================
+>>> snap
+------------------------------------------------------------------------
+snap    [美 snæp / 英 snæp]
+v. （使咔嚓）断裂，绷断；（使啪地）打开，关上，移动；厉声说，怒气冲冲地说；突然失控，精神崩溃；（狗等动物）突然咬；拍照，摄影；<美>使……终结；噼啪地响；打响指；<美>快速后传（球）；用子母扣扣
+n. 喀嚓声，啪嗒声；快照，照片；<美>摁扣，搭扣；呼“同”牌游戏；<美，非正式>容易的事；某种短时期的天气；迅速的动作；（裆下后传）发球；（风格或动作）充满活力；不耐烦的语调（或样子）；<北英格兰>食物；薄脆饼干；突然折断
+adj. 突然的，仓促的
+int. <英>真巧啊，一模一样；（呼“同”牌游戏中的）“同！”
+★★★ CET4 TEM4 snapping,snapped,snaps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something snaps or if you snap it, it breaks suddenly, usually with a sharp cracking noise. 使喀嚓折断; 喀嚓折断
+   ≫   He shifted his weight and a twig snapped.  他挪了挪身子，一根树枝随即喀嚓一声折断了。
+   ≫   The brake pedal had just snapped off.  制动踏板刚才突然断裂了。
+2. (N-SING) Snap is also a noun. 喀嚓的断裂声
+   ≫   Every minute or so I could hear a snap, a crack and a crash as another tree went down.  几乎每隔一分钟，我就会听见又有一棵树倒下时发出的折断声、噼啪声和塌倒声。
+3. (V-T/V-I) If you snap something into a particular position, or if it snaps into that position, it moves quickly into that position, with a sharp sound. 使发出啪的一声; 发出啪的一声
+   ≫   He snapped the notebook shut.  他啪的一声合上笔记本。
+   ≫   He snapped the cap on his ballpoint.  他吧嗒一声扣上圆珠笔的笔帽。
+4. (N-SING) Snap is also a noun. 吧嗒声
+   ≫   He shut the book with a snap and stood up.  他啪的一声合上书，站了起来。
+5. (V-T) If you snap your fingers, you make a sharp sound by moving your middle finger quickly across your thumb, for example, in order to accompany music or to order someone to do something. 打响指
+   ≫   She had millions of listeners snapping their fingers to her first single.  数百万的听众和着她的首张单曲打响指。
+   ≫   He snapped his fingers, and Wilson produced a sheet of paper.  他打了一个响指，威尔逊便拿出一张纸来。
+6. (N-SING) Snap is also a noun. 打响指 [N 'of' n]
+   ≫   I could obtain with the snap of my fingers anything I chose.  只要打一下响指，我就可以得到我选中的任何东西。
+7. (V-T/V-I) If someone snaps at you, they speak to you in a sharp, unfriendly way. 声色俱厉地说
+   ≫   "Of course I don't know her," Roger snapped.  “我当然不认识她，”罗杰恶声恶气地说。
+8. (V-I) If someone snaps, or if something snaps inside them, they suddenly stop being calm and become very angry because the situation has become too tense or too difficult for them. (人) 突然发怒; (物) 突然爆发
+   ≫   He finally snapped when she prevented their children from visiting him one weekend.  当她阻止孩子们在一周末来探望他时，他终于失控发怒了。
+9. (V-I) If an animal such as a dog snaps at you, it opens and shuts its jaws quickly near you, as if it were going to bite you. 作势猛咬
+   ≫   His teeth clicked as he snapped at my ankle.  他作势猛咬我的脚踝时，牙齿咔嚓作响。
+10. (ADJ) A snap decision or action is one that is taken suddenly, often without careful thought. 仓促的 [ADJ n]
+   ≫   I think this is too important for a snap decision.  我认为此事非常重要，不宜仓促地做决定。
+11. (N-COUNT) A snap is the same as a . 按扣 [美国英语]
+12. (N-COUNT) A snap is a photograph. 相片 [非正式]
+   ≫   ...a snap my mother took last year.  …我母亲去年拍的一张相片。
+
+========================================================================
+>>> smog
+------------------------------------------------------------------------
+smog    [美 smɑːɡ / 英 smɒɡ]
+n. （通常指城市中汽车、工厂等排出的）烟雾，雾霾
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Smog is a mixture of fog and smoke which occurs in some busy industrial cities. 烟雾
+   ≫   Cars cause pollution, both smog and acid rain.  汽车引起污染，既有烟雾又有酸雨。
+
+========================================================================
+>>> air pollution
+------------------------------------------------------------------------
+air pollution
+空气污染：指大气中有害气体和颗粒物的污染。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Air pollution has risen above an acceptable level. 空气污染已经超标。《牛津词典》
+≫   Air pollution in the city had reached four times the acceptable levels. 这座城市的空气污染程度曾高达可接受标准的四倍。《牛津词典》
+≫   Cases of breathing difficulties increase in lockstep with air pollution. 呼吸困难的病例随空气污染的加剧而增加。《牛津词典》
+
+========================================================================
+>>> gale
+------------------------------------------------------------------------
+gale    [美 ɡeɪl / 英 ɡeɪl]
+n. 大风，狂风；海上风暴；一阵笑声（或哭声等）
+【名】 （Gale）（西、葡、塞）加莱，（英）盖尔（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A gale is a very strong wind. 大风
+   ≫   ...forecasts of fierce gales over the next few days.  …对未来几天的强风预报。
+2. (N-COUNT) You can refer to the loud noise made by a lot of people all laughing at the same time as a gale of laughter or gales of laughter. 一阵 (大笑声) [书面]
+   ≫   This was greeted with gales of laughter from the audience.  这个获得了来自观众的阵阵笑声。
+3. (N-COUNT) sweet gale的缩写 → short for sweet gale
+
+========================================================================
+>>> breeze
+------------------------------------------------------------------------
+breeze    [美 briːz / 英 briːz]
+n. 微风，和风；轻而易举的事；煤屑，焦炭渣；<英，非正式>骚动，争吵
+v. 轻盈而自信地走；轻松过关，轻易通过；吹微风
+【名】 （Breeze）（法）布雷兹（人名）
+★★ CET4 TEM4 breezing,breezed,breezes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A breeze is a gentle wind. 微风
+   ≫   ...a cool summer breeze.  …一阵凉爽的夏风。
+2. (N) an easy task or state of ease [非正式]
+   ≫   being happy here is a breeze  
+3. (V-I) If you breeze into a place or a position, you enter it in a very casual or relaxed manner. 轻而易举
+   ≫   Lopez breezed into the quarter-finals of the tournament.  洛佩斯轻松进入了那次锦标赛的四分之一决赛。
+4. (V-I) If you breeze through something such as a game or test, you cope with it easily. 轻松应付
+   ≫   John seems to breeze effortlessly through his many commitments at work.  约翰似乎对他工作中的许多职责应付自如。
+5. (N) ashes of coal, coke, or charcoal used to make breeze blocks (做空心煤渣砖用的)煤炭灰
+
+========================================================================
+>>> chill
+------------------------------------------------------------------------
+chill    [美 tʃɪl / 英 tʃɪl]
+n. 寒冷，寒意；着凉，受寒；害怕，担心；冷漠，敌意；冷模，冷模部件
+v. （使）冷却，冰镇；使很冷；惊吓，使恐惧；<非正式>放松；（使）沮丧，（使）扫兴
+adj. 冷飕飕的；令人紧张的，令人害怕的
+★★ CET4 TEM4 chilling,chilled,chills
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you chill something or when it chills, you lower its temperature so that it becomes colder but does not freeze. 使冷却; 冷却
+   ≫   Chill the fruit salad until serving time.  上菜前把水果色拉冷却。
+   ≫   These doughs can be rolled out while you wait for the pastry to chill.  当你等待油酥面团冷却时，可以擀平这些生面团。
+2. (V-T) When cold weather or something cold chills a person or a place, it makes that person or that place feel very cold. 使很冷
+   ≫   The marble floor was beginning to chill me.  大理石的地板开始让我感到很冷。
+   ≫   Wade placed his chilled hands on the radiator and warmed them.  韦德把他冰冷的双手放到散热器上取暖。
+3. (N-COUNT) If something sends a chill through you, it gives you a sudden feeling of fear or anxiety. 害怕的感觉
+   ≫   The violence used against the students sent a chill through Indonesia.  对学生使用暴力使得整个印度尼西亚不寒而栗。
+4. (N-COUNT) A chill is a mild illness which can give you a slight fever and headache. 风寒
+   ≫   He caught a chill while performing at a rain-soaked open-air venue.  他在一个被雨浸湿的露天场地表演时着了风寒。
+5. (ADJ) Chill weather is cold and unpleasant. 寒冷的 [ADJ n]
+   ≫   ...chill winds, rain and choppy seas.  …寒冷的风、雨以及波浪起伏的大海。
+6. (N-SING) Chill is also a noun. 寒冷
+   ≫   September is here, bringing with it a chill in the mornings.  9月到了，带来了清晨的寒意。
+
+========================================================================
+>>> wind chill
+------------------------------------------------------------------------
+wind chill    [美 ˈwɪnd tʃɪl / 英 ˈwɪnd tʃɪl]
+风寒：气象学中的一个概念，用来衡量大气的寒冷程度，不仅考虑实际温度，还考虑到风速对空气的影响，即在相同的空气温度下，风速会使空气感觉更冷。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Be aware of the wind chill factor. 留意寒风的造成因素。
+≫   The wind chill factor was pegged at a bone-chilling minus 27 degress. 风寒因子测定为严寒彻骨的零下27度。
+≫   Wind chill extremes can make exercising outdoors unsafe even if you dress warmly. 极端的寒风会让室外锻炼变得不安全，即使你穿得暖和。
+
+========================================================================
+>>> humidity
+------------------------------------------------------------------------
+humidity    [美 hjuːˈmɪdəti / 英 hjuːˈmɪdəti]
+n. 潮湿，湿气；湿度
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) You say there is humidity when the air feels very heavy and damp. 潮湿
+   ≫   The heat and humidity were insufferable.  炎热与潮湿令人难以忍受。
+2. (N-UNCOUNT) Humidity is the amount of water in the air. 湿度
+   ≫   The humidity is relatively low.  湿度相对较低。
+
+========================================================================
+>>> temporature
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> tempurature
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> temperature
+------------------------------------------------------------------------
+temperature    [美 ˈtemprətʃər; ˈtemprətʃʊr / 英 ˈtemprətʃə(r)]
+n. 温度，气温；体温；发烧；热烈程度，情绪激烈程度
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The temperature of something is a measure of how hot or cold it is. 温度
+   ≫   Winter closes in and the temperature drops below freezing.  冬天来临，气温降至冰点以下。
+2. (N-UNCOUNT) Your temperature is the temperature of your body. A normal temperature is about 98.6° Fahrenheit. 体温
+   ≫   His temperature continued to rise and the cough worsened until Tania finally persuaded him to see a doctor.  他的体温持续升高且咳嗽加重，直到塔妮娅最终说服了他去看医生。
+3. (N-COUNT) You can use temperature to talk about the feelings and emotions that people have in particular situations. (特定场合的) 氛围
+   ≫   There's also been a noticeable rise in the political temperature.  政治气氛也明显升温。
+4. (PHRASE) If you are running a temperature or if you have a temperature, your temperature is higher than it should be. 发烧
+   ≫   He began to run an extremely high temperature.  他开始发严重高烧。
+5. (PHRASE) If you take someone's temperature you use an instrument called a thermometer to measure the temperature of their body in order to see if they are ill. 量某人的体温
+   ≫   He will probably take your child's temperature too.  他可能也会量你孩子的体温。
+
+========================================================================
+>>> precipitation
+------------------------------------------------------------------------
+precipitation    [美 prɪˌsɪpɪˈteɪʃ(ə)n / 英 prɪˌsɪpɪˈteɪʃ(ə)n]
+n. 降水（如雨，雪，冰雹）；沉淀，淀析；仓促，鲁莽，轻率；坠落
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Precipitation is rain, snow, or hail. 降水 [技术]
+2. (N-UNCOUNT) Precipitation is a process in a chemical reaction that causes solid particles to become separated from a liquid. 沉淀; 沉析 [技术]
+
+========================================================================
+>>> cloud cover
+------------------------------------------------------------------------
+cloud cover
+云层覆盖：一团云的形成，通常会遮挡太阳或其他物体。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The reason for this increased cloud cover, it turns out, is the exceptionally large amount of microscopic marine plants. 事实证明，云量增加是大量的微型海洋植物导致的。
+≫   Many people have been fascinated about Venus for centuries because of its thick cloud cover—a so-called planet of mystery and all of that. 数世纪以来，许多人都对金星着迷，因为它有厚厚的云层覆盖——一颗所谓的神秘星球。
+≫   Fog and low cloud cover are expected this afternoon. 预计今天下午有雾和低空云层。《牛津词典》
+
+========================================================================
+>>> overcast
+------------------------------------------------------------------------
+overcast    [英 ˌəʊvəˈkɑːst / 美 ˌoʊvərˈkæst]
+adj. 阴天的，阴暗的；愁闷的；包缝的
+v. （以云或阴影）遮蔽； 使沮丧；锁（边），包缝（边）
+n. 蔽天乌云
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If it is overcast, or if the sky or the day is overcast, the sky is completely covered with cloud and there is not much light. 阴天的
+   ≫   For three days it was overcast.  连着三天都是阴天。
+   ≫   The weather forecast is for showers and overcast skies.  气象预报说有阵雨而且阴天。
+
+========================================================================
+>>> partly cloudy
+------------------------------------------------------------------------
+partly cloudy
+局部多云：天空中有云，但也有部分区域是晴朗的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It will be partly cloudy tomorrow morning, but clearing by early afternoon. 明天上午局部多云，下午早些时候会转晴。
+≫   That sky doesn't look partly cloudy to me. 我看岂止是局部多云。
+≫   Tonight partly cloudy, some widely scattered showers. 今夜部分地区阴，有些地区会有零星阵雨。
+
+========================================================================
+>>> clear sky
+------------------------------------------------------------------------
+clear sky    [美 klɪr skaɪ]
+晴空：天空没有云彩或其他遮挡物的状态。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As September has the clear sky and fresh air, it is a very good time to climb the mountain. 由于九月有晴朗的天空和新鲜的空气，这是一个很好的爬山时间。
+≫   This was a thunderbolt out of a clear sky. 这是晴天霹雳。
+≫   The news was like a thunderbolt out of a clear sky. 这消息犹如晴天霹雳。《新英汉大辞典》
+
+========================================================================
+>>> meteorological
+------------------------------------------------------------------------
+meteorological    [美 ˌmiːtiərəˈlɑːdʒɪk(ə)l / 英 ˌmiːtiərəˈlɒdʒɪk(ə)l]
+adj. 气象学的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Meteorological means relating to meteorology. 气象学的 [ADJ n]
+   ≫   ...adverse meteorological conditions.  …不利的气象条件。
+
+========================================================================
+>>> barometer
+------------------------------------------------------------------------
+barometer    [英 bəˈrɒmɪtə(r) / 美 bəˈrɑːmɪtər]
+n. 气压计，晴雨表；变化的标志，指标
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A barometer is an instrument that measures air pressure and shows when the weather is changing. 气压计
+   ≫   A man in camp took a barometer reading at half-hour intervals.  营地里的一个人每半小时看一次气压计。
+2. (N-COUNT) If something is a barometer of a particular situation, it indicates how things are changing or how things are likely to develop. 发展变化的指示计
+   ≫   In past presidential elections, Missouri has been a barometer of the rest of the country.  在过去的总统大选中，密苏里州一直是该国其余各州的晴雨表。
+
+========================================================================
+>>> wind speed
+------------------------------------------------------------------------
+wind speed    [美 wɪnd spiːd]
+风速：风的本地速度，是气象学中的一个术语。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They are directly connected with the wind speed and the time that wind lasts. 它们与风速和风持续的时间直接相关。
+≫   Inside the tornado probe, there are sensors to measure wind speed, temperature, pressure, and direction. 龙卷风探测仪的内部安装有传感器以测量风速、温度、压力和风向。
+≫   Wind speed changes from time to time, depending on the time of day, weather and location. 风速随时间、天气和地点而变化。
+
+========================================================================
+>>> wind dircetion
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> wind diretion
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> wind direction
+------------------------------------------------------------------------
+wind direction    [美 wɪnd dəˈrekʃn; wɪnd daɪˈrekʃn]
+风向：风吹来的方向。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Wind direction is represented by arrows. 风向是用箭头表示的。《牛津词典》
+≫   An automatic weather station feeds information on wind direction to the computer. 一个自动化气象站把风向信息输入电脑。《柯林斯英汉双解大词典》
+≫   Fire groups were fighting the fire on Sunday when a sudden change of wind direction caused "a huge fireball". 周日，消防队正在灭火，突然风向改变，造成“一个巨大的火球”。
+
+========================================================================
+>>> dew
+------------------------------------------------------------------------
+dew    [美 duː / 英 djuː]
+n. 露水；（似露珠的）小水珠
+v. <文>用水珠弄湿
+【名】 （Dew）（英）迪尤，（德）德夫（人名）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Dew is small drops of water that form on the ground and other surfaces outdoors during the night. 露水
+   ≫   The dew gathered on the leaves.  露水在叶片上聚集。
+
+========================================================================
+>>> dew point
+------------------------------------------------------------------------
+dew point    [英 ˈdjuː pɔɪnt]
+露点：空气饱和并水蒸气凝结形成露水的温度。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the temperature at which water vapour in the air becomes saturated and water droplets begin to form 露点
+
+========================================================================
+>>> cold front
+------------------------------------------------------------------------
+cold front
+冷锋：指冷空气推进到暖空气中，导致温度下降的天气条件。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the boundary line between a warm air mass and the cold air pushing it from beneath and behind as it moves 冷锋 [meteorol]
+
+========================================================================
+>>> warm front
+------------------------------------------------------------------------
+warm front
+暖锋：指暖气团前沿的推进边缘。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the boundary between a warm air mass and the cold air above which it is rising, at a less steep angle than at the cold front 暖锋 [meteorol] → compare cold front, occluded front
+
+========================================================================
+>>> stationary front
+------------------------------------------------------------------------
+stationary front
+静止锋：一种气象现象，指两种不同气团相遇时，由于相对运动速度较慢，导致锋面几乎不移动或移动缓慢。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The major systems come from the shear line of low-layer, the low trough of upper air and the ground stationary front. 主要影响系统来自低层切变线、高空低槽和地面静止锋；
+≫   Results indicate that there is a cold advection in the surface layer and a warm advection at the higher level near the stationary front. 结果表明：静止锋附近的近地面层为冷平流，再往上为暖平流。
+≫   The results are presented of a comprehensive observational analysis of physical and chemical characteristics of precipitation within the warm sector of a quasi-stationary front in South China. 介绍了一次华南准静止锋暖区内降水的物理化学特征的综合观测分析结果。
+
+========================================================================
+>>> occluded
+------------------------------------------------------------------------
+occluded    [美 əˈkluːdɪd / 英 əˈkluːdɪd]
+v. 阻塞（口、孔等）；（使）闭塞；遮盖（一只眼睛）使看不见；（固体）吸收（气体、杂质）；（上下齿）咬合（occlude 的过去式及过去分词）
+adj. 隔离的，封闭的；吸附的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to block or stop up (a passage or opening); obstruct 阻闭
+
+========================================================================
+>>> jet
+------------------------------------------------------------------------
+jet    [美 dʒet / 英 dʒet]
+n. 喷气式飞机；喷射流；煤玉，黑玉；喷嘴，喷射口
+v. 乘喷气式飞机旅行；喷射
+★★★ CET4 TEM4 jetting,jetted,jets
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A jet is an aircraft that is powered by jet engines. 喷气式飞机 [also 'by' N]
+   ≫   Her private jet landed in the republic on the way to Japan.  她的私人喷气式飞机在去日本的途中在该共和国降落。
+   ≫   He had arrived from Key West by jet.  他已乘喷气式飞机从基韦斯特来了。
+2. (V-I) If you jet somewhere, you travel there in a fast plane. 乘喷气式飞机前往
+   ≫   The president will be jetting off to Germany today.  总统今天要乘喷气式飞机去德国。
+3. (N-COUNT) A jet of liquid or gas is a strong, fast, thin stream of it. 喷射流
+   ≫   A jet of water poured through the windows.  一股水柱从窗户喷了过来。
+4. (V) to issue or cause to issue in a jet 喷出; 使喷出
+   ≫   water jetted from the hose  
+   ≫   he jetted them with water  
+5. (N) a hard black variety of coal that takes a brilliant polish and is used for jewellery, ornaments, etc 黑玉
+6. (N) (as modifier) 黑玉
+   ≫   jet earrings  
+
+========================================================================
+>>> jet stream
+------------------------------------------------------------------------
+jet stream    [美 ˈdʒet striːm / 英 ˈdʒet striːm]
+喷气流：一种在对流层顶附近吹拂的、狭长且蜿蜒曲折的高速风流。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The jet stream is a very strong wind that blows high in the Earth's atmosphere and has an important influence on the weather. 喷流
+
+========================================================================
+>>> isobar
+------------------------------------------------------------------------
+isobar    [美 ˈaɪsəbɑːr / 英 ˈaɪsəbɑː(r)]
+n. [气象][力] 等压线；同重核；同重元素
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a line on a map connecting places of equal atmospheric pressure, usually reduced to sea level for purposes of comparison, at a given time or period 等压线
+
+========================================================================
+>>> isotherm
+------------------------------------------------------------------------
+isotherm    [美 ˈaɪsəθɜːrm / 英 ˈaɪsəθɜːm]
+n. [气象] 等温线
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a line on a map linking places of equal temperature 等温线
+
+========================================================================
+>>> isoheight
+------------------------------------------------------------------------
+isoheight    [英 ˌaɪsəʊˈhaɪt]
+[测] 等高线
+
+========================================================================
+>>> isoline
+------------------------------------------------------------------------
+isoline    [美 ˈaɪsəˌlaɪn / 英 ˈaɪsəʊlaɪn]
+n. [气象] 等值线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → same as isopleth
+
+========================================================================
+>>> contour line
+------------------------------------------------------------------------
+contour line
+等高线：连接地表上具有相同高度的点的线条（如地图上的线条）。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a line on a map or chart joining points of equal height or depth 等高线 (Often shortened to contour)
+
+========================================================================
+>>> contour
+------------------------------------------------------------------------
+contour    [美 ˈkɑːntʊr / 英 ˈkɒntʊə(r)]
+n. 轮廓，外形，周线；等高线，恒值线（contour line）；（音调或声调的）升降曲线，变化方式；概要
+v. 使与某轮廓吻合；在（地图，图表上）标等高线；（公路，铁路）循地形轮廓（尤指循等高线）而行
+【名】 （Contour）（法）孔图尔（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to the general shape or outline of an object as its contours. 轮廓; 轮廓线 [文学性]
+   ≫   ...the texture and colour of the skin, the contours of the body.  …皮肤的肌理和颜色，身体的曲线。
+2. (N-COUNT) A contour on a map is a line joining points of equal height and indicating hills, valleys, and the steepness of slopes. 等高线
+   ≫   ...a contour map showing two hills and this large mountain in the middle.  …一张显示有两座小山和其间一座大山的等高线图。
+
+========================================================================
+>>> isohyet
+------------------------------------------------------------------------
+isohyet    [美 ˌaɪsoʊˈhaɪɪt / 英 ˌaɪsəʊˈhaɪɪt]
+n. [气象] 等降雨量线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a line on a map connecting places having equal rainfall 等雨量线
+
+========================================================================
+>>> forecast
+------------------------------------------------------------------------
+forecast    [美 ˈfɔːrkæst / 英 ˈfɔːkɑːst]
+v. 预测，预报
+n. 预测，预报
+★★★ CET4 TEM4 forecasting,forecasted,forecasts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A forecast is a statement of what is expected to happen in the future, especially in relation to a particular event or situation. 预报
+   ≫   ...a forecast of a 2.25 percent growth in the economy.  …2.25%经济增长的预报。
+   ≫   He delivered his election forecast.  他作了他的选举预报。
+2. (V-T) If you forecast future events, you say what you think is going to happen in the future. 预言
+   ≫   They forecast a humiliating defeat for the president.  他们预言总统蒙受羞辱的一次失败。
+
+========================================================================
+>>> weather forecast
+------------------------------------------------------------------------
+weather forecast    [英 ˈweðə fɔːkɑːst]
+天气预报：对未来天气的预测，通常是针对特定地区的，在报纸、广播或电视上发布。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A weather forecast is a statement saying what the weather will be like the next day or for the next few days. 天气预报
+
+========================================================================
+>>> el nino
+------------------------------------------------------------------------
+El Nino    [英 ˌel ˈniːnjəʊ / 美 ˌel ˈniːnjoʊ]
+（西）[气象] 厄尔尼诺现象（赤道中、东太平洋海水表面温度偶尔增暖的现象）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The most recent powerful El Nino caused damage worth $36 billion around the globe. 最近一次强大的厄尔尼诺现象在全球造成了价值360亿美元的损失。
+≫   One idea is as you suggest that major weather patterns, something like El Nino, are responsible. 一种观点是，像你说的那样，主要的天气模式如厄尔尼诺现象，才是罪魁祸首。
+≫   El Nino, Spanish for "the child", occurs when surface ocean waters in the southern Pacific become abnormally warm. “El Nino（厄尔尼诺）”在西班牙语中是“孩子”的意思，当南太平洋表层海水异常变暖时，会出现厄尔尼诺现象。
+
+========================================================================
+>>> la nina
+------------------------------------------------------------------------
+la nina
+拉尼娜：一种自然现象，指赤道中东太平洋地区的海水温度异常降低，与厄尔尼诺现象相反。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is followed by a cooling period, known as La Nina. 在其过后迎来了一个降温过程，就是我们所知的拉尼娜现象。
+≫   La Nina is essentially the opposite of an El nino. 拉尼娜本质上就是个相反的厄尔尼诺。
+≫   A La Nina is essentially the opposite of an El nino. 拉尼娜本质上就是个相反的厄尔尼诺。
+
+========================================================================
+>>> monsoon
+------------------------------------------------------------------------
+monsoon    [美 ˌmɑːnˈsuːn / 英 ˌmɒnˈsuːn]
+n. 季风；（印度等地的）雨季；季候风
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The monsoon is the season in Southern Asia when there is a lot of very heavy rain. (南亚地区的) 雨季
+   ≫   ...the end of the monsoon.  …雨季的结束。
+2. (N-PLURAL) Monsoon rains are sometimes referred to as the monsoons. 雨季的降雨
+   ≫   In Bangladesh, the monsoons have started.  在孟加拉国，雨季已经开始。
+
+========================================================================
+>>> microclimate
+------------------------------------------------------------------------
+microclimate    [美 ˈmaɪkroʊklaɪmət / 英 ˈmaɪkrəʊklaɪmət]
+n. [农][气候] 小气候，[气候] 微气候（指森林、城市、洞穴等局部地区的气候）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the atmospheric conditions affecting an individual or a small group of organisms, esp when they differ from the climate of the rest of the community 小气候 [ecology]
+
+========================================================================
+>>> synoptic
+------------------------------------------------------------------------
+synoptic    [美 sɪˈnɑːptɪk / 英 sɪˈnɒptɪk]
+adj. 天气的；概要的；对观福音书的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to a synopsis 摘要的; 与摘要有关的
+2. (N) any of the three synoptic Gospels 三本对观福音书中的任一本
+3. (N) any of the authors of these three Gospels 对观福音书的作者
+
+========================================================================
+>>> synoptic chart
+------------------------------------------------------------------------
+synoptic chart
+综合天气图：一种显示大气压力、风向、风速、温度等气象要素的地图，通常用于天气预报和气象研究。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   One of the children's work: synoptic chart, really a pitch genius! 一个小孩的画：天气图，真是天才艺术家的范儿呀！
+≫   Storm track is associated with tracks of cyclones and anticyclones in daily synoptic chart, thus it may impact weather change and short-term climate variation. 风暴轴与每日天气图上的气旋和反气旋路径紧密联系，对天气演变、天气预报和短期气候预测具有重要的指示意义。
+
+========================================================================
+>>> satellite imagery
+------------------------------------------------------------------------
+satellite imagery
+卫星图像：从卫星拍摄的图片。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But nighttime satellite imagery may offer a good proxy for its use now. 但夜间卫星照相也许是一个良好的范例。
+≫   The limiting factor is the satellite imagery-which obviously has to be up-to-date. 对此的制约因素是卫星图片，显然图片是需要。时时更新的。
+≫   Forestry officials say the firefighters' work was hampered by the lack of satellite imagery. 森林官员表示，缺乏卫星图象妨碍了消防员救火。
+
+========================================================================
+>>> imagery
+------------------------------------------------------------------------
+imagery    [美 ˈɪmɪdʒəri / 英 ˈɪmɪdʒəri]
+n. 意象，比喻，形象化描述；一组图片；（艺术作品中的）像，画面
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) You can refer to the descriptions in something such as a poem or song, and the pictures they create in your mind, as its imagery. 形象化描述 [正式]
+   ≫   ...the nature imagery of the ballad.  …民谣中的自然意象。
+2. (N-UNCOUNT) You can refer to pictures and representations of things as imagery, especially when they act as symbols. (尤指具象征意义的) 图像 [正式]
+   ≫   This is an ambitious and intriguing film, full of striking imagery.  这是一部气势恢宏、引人入胜的电影，充满了惹眼的镜头。
+
+========================================================================
+>>> hygrometer
+------------------------------------------------------------------------
+hygrometer    [美 haɪˈɡrɑːmətər / 英 haɪˈɡrɒmɪtə(r)]
+n. 湿度计
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various instruments for measuring humidity 湿度计
+
+========================================================================
+>>> anemometer
+------------------------------------------------------------------------
+anemometer    [英 ˌænɪˈmɒmɪtə(r) / 美 ˌænɪˈmɑːmɪtər]
+n. 风力计，[气象] 风速计
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an instrument for recording the speed and often the direction of winds 风速、风向记录仪 (Also called wind gauge)
+
+========================================================================
+>>> pyranometer
+------------------------------------------------------------------------
+pyranometer    [美 ˌpaɪrəˈnɑːmɪtər / 英 ˌpaɪrəˈnɒmɪtə(r)]
+n. [气象] 日射强度计
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) [physics] → another name for solarimeter
+
+========================================================================
+>>> therm
+------------------------------------------------------------------------
+therm    [美 θɜːrm / 英 θɜːm]
+n. 克卡；千卡；小卡
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A therm is a measurement of heat. 撒姆; 热量单位 [num N]
+
+========================================================================
+>>> calori
+------------------------------------------------------------------------
+Calori
+n. （Calori）人名；（意）卡洛里
+
+========================================================================
+>>> calore
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> calorie
+------------------------------------------------------------------------
+calorie    [英 ˈkæləri / 美 ˈkæləri]
+n. 卡（路里）（热量单位）；小卡（现一般定为4.1868焦耳）；大卡，千卡
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Calories are units used to measure the energy value of food. People who are on diets try to eat food that does not contain many calories. 卡路里 (食物的热量单位)
+   ≫   Sweetened drinks contain a lot of calories.  含糖的饮料热量很高。
+
+========================================================================
+>>> thermometer
+------------------------------------------------------------------------
+thermometer    [美 θərˈmɑːmɪtər / 英 θəˈmɒmɪtə(r)]
+n. 温度计，寒暑表，体温计
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A thermometer is an instrument for measuring temperature. It usually consists of a narrow glass tube containing a thin column of a liquid which rises and falls as the temperature rises and falls. 温度计
+
+========================================================================
+>>> psychrometer
+------------------------------------------------------------------------
+psychrometer    [美 saɪˈkrɑːmətər / 英 saɪˈkrɒmɪtə(r)]
+n. 干湿球湿度计；干湿计
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a type of hygrometer consisting of two thermometers, one of which has a dry bulb and the other a bulb that is kept moist and ventilated. The difference between the readings of the thermometers gives an indication of atmospheric humidity 干湿球湿度计 (Also called wet-and-dry-bulb thermometer)
+
+========================================================================
+>>> radiosonde
+------------------------------------------------------------------------
+radiosonde    [美 ˈreɪdɪoʊˌsɑːnd / 英 ˈreɪdɪəʊˌsɒnd]
+n. [航][气象] 无线电探空仪；[气象][测] 无线电高空测候器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an airborne instrument used to send meteorological information back to earth by radio 无线电探空仪 (Also called radiometeorograph)
+
+========================================================================
+>>> mesocyclone
+------------------------------------------------------------------------
+mesocyclone    [美 ˌmezəˈsaɪkloʊn; ˌmesəˈsaɪkloʊn; ˌmiːzəˈsaɪkloʊn; ˌmiːsəˈsaɪkloʊn / 英 ˌmesəʊˈsaɪkləʊn]
+n. 中气旋
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At maturity stage, the sustaining mesocyclone is the most important characteristic. 成熟阶段最重要的特征是持续存在的中气旋。
+≫   The analyzed low-pressure center at the surface was located ~8 km east of the mesocyclone. 所分析的地面低压中心位于中（尺度）气旋之东约8公里处。
+≫   The second one was produced by a mesocyclone , which developed along the shear line, and the strong convergence. 第二阶段暴雨是由切变线上的强辐合及切变线上形成的边界层中尺度气旋造成的。
+
+========================================================================
+>>> supercell
+------------------------------------------------------------------------
+supercell    [英 ˈsuːpəsel; ˈsjuː-]
+n. 超晶胞，超大胞
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Base mounted systems include Supercell 35c pressure vessel and pressure switch all mounted on one convenient base. 基地展开系统包括超级35c压力容器及压力开关全部装在一个方便的基地。
+≫   Supercell thunderstorms are known to spawn tornadoes with winds exceeding 200 miles an hour (322 kilometers an hour). 人们已经知道，龙卷风是由超级单体雷暴和时速322公里的大风一起酿成的。
+≫   For imperfect crystals with point defects, the cluster method and the supercell simulation are two methods in common use. 对含有点缺陷的不完整晶体，通常使用原子簇方法或超原胞模拟计算方法。
+
+========================================================================
+>>> borealis
+------------------------------------------------------------------------
+borealis    [英 ˌbɔːriˈeɪlɪs / 美 ˌbɔːriˈælɪs]
+n. 北欧化工（公司）；北方贝属
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She stood on the balcony and shone as the Aurora Borealis shines. 她站在阳台上，像北极光一样闪闪发光。
+≫   And don't let the aurora borealis fool you. 所以不要被北极光给蒙蔽了双眼。
+≫   The aurora borealis might be the greatest show on earth. 北极光也许是地球上最伟大的表演。
+
+========================================================================
+>>> australis
+------------------------------------------------------------------------
+australis
+n. 南极光
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In Australis . There are many koalas in Australis . 在澳洲。有很多考拉在澳洲。
+≫   The famous night-time auroras (borealis in the north, australis in the south) are the result of particles streaming in from the tail. 著名的夜间极光(北面为北极光，南面为南极光)是粒子从尾部流入所造成的结果。
+≫   She has named them Tursiops australis, although they will commonly be known as the Burrunan dolphin, an Aboriginal name meaning large sea fish of the porpoise kind. 虽然他们通常被认作“布鲁曼”(Burrunan dolphin，澳大利亚土著语，意为海豚科的大型海洋生物)海豚，她仍以“澳大利亚宽吻海豚(Tursiops australis)”来为它们命名。
+
+========================================================================
+>>> Aurora Borealis
+------------------------------------------------------------------------
+aurora borealis    [美 əˌrɔːrə ˌbɔːriˈælɪs / 英 əˌrɔːrə ˌbɔːriˈeɪlɪs]
+极光：在地球北半球出现的自然现象，也被称为北极光。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the aurora seen around the North Pole 北极光 (Also called northern lights)
+
+========================================================================
+>>> Aurora Australis
+------------------------------------------------------------------------
+aurora australis    [英 əˌrɔːrə ɒˈstreɪlɪs]
+南极光：在地球南半球出现的极光，也称为南极光。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the aurora seen around the South Pole 南极光 (Also called southern lights)
+
+========================================================================
+>>> Heat Island Effect
+------------------------------------------------------------------------
+heat island effect    [美 hiːt ˈaɪlənd ɪˈfekt]
+热岛效应：由于人类活动导致城市区域温度明显高于周边农村地区的现象。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It's known as the urban heat island effect. 这种现象被称为热岛效应。
+≫   The urban heat island effect is more pronounced when forest rings a city. 因此当一所城市被森林环绕，其城市热岛效应会更明显。
+≫   In the middle of an already hot summer, the urban heat island effect can be deadly, especially at night. 身处炎热的夏天，尤其是在夜晚，城市热岛效应可以是致命的。
+
+========================================================================
+>>> Urban
+------------------------------------------------------------------------
+urban    [美 ˈɜːrbən / 英 ˈɜːbən]
+adj. 城市的，城镇的；黑人音乐的；住在都市的
+【名】 （Urban）（英）厄本，（法）于尔邦（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Urban means belonging to, or relating to, a city or town. 城市的
+   ≫   For a small state it has a large urban population.  作为一个小州，其城市人口算是很多了。
+   ≫   Most urban areas are close to a park.  大多数城区都靠近公园。
+
+========================================================================
+>>> Urban Heat Island
+------------------------------------------------------------------------
+urban heat island
+城市热岛效应：指城市地区相对于周围农村或自然地区而言，温度较高的现象。这是由于城市中的建筑、道路、车辆和人口活动等导致的热量积聚和热辐射不足所引起的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Cities, then, are warmer than the surrounding rural areas, and together they produce a phenomenon known as the urban heat island. 因此，城市比周围的农村地区更暖和，它们共同产生了一种被称为城市热岛的现象。
+≫   It's known as the urban heat island effect. 这种现象被称为热岛效应。
+≫   Some measures can mitigate the urban heat island. 有一些方法可以减轻城市热岛效应。
+
+========================================================================
+>>> flash flood
+------------------------------------------------------------------------
+flash flood    [美 ˈflæʃ flʌd / 英 ˈflæʃ flʌd]
+突发洪水：指突然而严重的洪水。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A flash flood is a sudden rush of water over dry land, usually caused by a great deal of rain. 骤发洪水
+
+========================================================================
+>>> flash drought
+------------------------------------------------------------------------
+flash drought
+n. 骤旱，骤发干旱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> wildfire
+------------------------------------------------------------------------
+wildfire    [美 ˈwaɪldfaɪər / 英 ˈwaɪldfaɪə(r)]
+n. 野火，烈火；希腊火；高度易燃物质，燃烧剂；鬼火
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A wildfire is a fire that starts, usually by itself, in a wild area such as a forest, and spreads rapidly, causing great damage. 野火
+   ≫   ...a wildfire in Montana that's already burned thousands of acres of rich grassland.  ...已经烧毁几千英亩肥沃草地的蒙大拿州野火。
+2. (PHRASE) If something, especially news or a rumour, spreads like wildfire, it spreads extremely quickly. (尤指消息或谣言) 快速传播
+   ≫   These stories are spreading like wildfire through the city.  这些故事正迅速传遍整座城市。
+
+========================================================================
+>>> drought
+------------------------------------------------------------------------
+drought    [美 draʊt / 英 draʊt]
+n. 长期缺乏，严重短缺；<古>口渴；干旱，旱灾
+【名】 （Drought）（英）德劳特（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A drought is a long period of time during which no rain falls. 干旱
+   ≫   ...a country where drought and famines have killed up to two million people during the last eighteen years.  …过去18年来干旱和饥荒致死达两百万人的一个国家。
+
+========================================================================
+>>> flood
+------------------------------------------------------------------------
+flood    [美 flʌd / 英 flʌd]
+v. （使）淹没；泛滥；大量涌来，大量涌去；（感觉或回忆）涌上心头；（光线）倾泻，照亮；（使）溢流；（产后等）子宫出血过多，月经过多
+n. 洪水，水灾；大批，大量（的人或事物）；<文>（海洋、江河等）大水体
+【名】 （Flood）（美、英、加）弗勒德（人名）
+★★★ CET4 TEM4 flooding,flooded,floods
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is a flood, a large amount of water covers an area which is usually dry, for example, when a river flows over its banks or a pipe bursts. 洪水
+   ≫   More than 70 people were killed in the floods, caused when a dam burst.  大坝决堤引发的洪水灾吞噬了七十多人的生命。
+   ≫   This is the type of flood dreaded by cavers.  这正是探察洞穴者惧怕的那种洪水。
+2. (V-T/V-I) If something such as a river or a burst pipe floods an area that is usually dry or if the area floods, it becomes covered with water. 为水所淹; 淹没
+   ≫   The kitchen flooded.  厨房被水淹了。
+3. (V-I) If a river floods, it overflows, especially after very heavy rain. 泛滥
+   ≫   ...the relentless rain that caused twenty rivers to flood.  …导致20条河流泛滥的那场持续不断的雨。
+4. (V-I) If you say that people or things flood into a place, you are emphasizing that they arrive there in large numbers. 涌入 [强调]
+   ≫   Large numbers of immigrants flooded into the area.  大批移民涌入了这个地区。
+   ≫   Inquiries flooded in from all over the world.  问询从世界各地如潮水般涌来。
+5. (V-T) If you flood a place with a particular type of thing, or if a particular type of thing floods a place, the place becomes full of so many of them that it cannot hold or deal with any more. 使充满; 充斥
+   ≫   Manufacturers are destroying American jobs by flooding the market with cheap imports.  制造商们在以廉价进口货充斥市场，破坏了美国人的就业机会。
+6. (N-COUNT) If you say that a flood of people or things arrive somewhere, you are emphasizing that a very large number of them arrive there. 一大批 [强调]
+   ≫   The administration is trying to stem the flood of refugees out of Haiti and into Florida.  政府正设法阻止大批逃离海地的难民涌入佛罗里达。
+
+========================================================================
+>>> landslide
+------------------------------------------------------------------------
+landslide    [英 ˈlændslaɪd / 美 ˈlændslaɪd]
+n. [地质] 山崩；大胜利
+vi. 发生山崩；以压倒优势获胜
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A landslide is a victory in an election in which a person or political party gets far more votes or seats than their opponents. (选举中) 压倒性优势的胜利
+   ≫   He won last month's presidential election by a landslide.  他以绝对优势赢得了上个月的总统选举。
+2. (N-COUNT) A landslide is a large amount of earth and rocks falling down a cliff or the side of a mountain. 山崩
+   ≫   The storm caused landslides and flooding in Savona.  暴风雨引发了萨沃纳的山崩和水灾。
+
+========================================================================
+>>> debris
+------------------------------------------------------------------------
+debris    [美 dəˈbriː / 英 ˈdebriː]
+n. 残骸，碎片
+【名】 （Debris）（法）德布里（人名）
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Debris is pieces from something that has been destroyed or pieces of rubbish or unwanted material that are spread around. 碎片; 散乱的垃圾
+   ≫   A number of people were killed by flying debris.  一些人遭飞溅的碎片致死。
+
+========================================================================
+>>> debris flow
+------------------------------------------------------------------------
+debris flow
+泥石流：指由大量泥沙、石块、树木等混合物组成的流体，在山坡上迅速流动的自然灾害现象。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Getting out of the path of a debris flow is your best protection. 逃离泥石流的路径是你的最佳保护方式。
+≫   If landslide or debris flow danger is imminent, quickly move away from the path of the slide. 如果滑坡或泥石流危险迫在眉睫，迅速离开有滑落体的道路。
+≫   Harmful manmade projects and economic actions intensify the developing course of landslide and debris flow. 不良的人为工程及社会、经济活动激化了该地区滑坡、泥石流的发育进程。
+
+========================================================================
+>>> tsunamic
+------------------------------------------------------------------------
+tsunamic
+adj. 海啸的，与海啸有关的：指与海啸现象或其影响有关的。
+
+========================================================================
+>>> tsunami
+------------------------------------------------------------------------
+tsunami    [美 tsuːˈnɑːmi / 英 tsuːˈnɑːmi]
+n. 海啸，海震
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tsunami is a very large wave, often caused by an earthquake, that flows onto the land and can cause widespread deaths and destruction. 海啸
+
+========================================================================
+>>> seiche
+------------------------------------------------------------------------
+seiche    [英 seɪʃ / 美 seɪʃ]
+n. 湖面波动；湖震；[海洋] 假潮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a periodic oscillation of the surface of an enclosed or semienclosed body of water (lake, inland sea, bay, etc) caused by such phenomena as atmospheric pressure changes, winds, tidal currents, and earthquakes 湖震
+
+========================================================================
+>>> ice storm
+------------------------------------------------------------------------
+ice storm
+冰雨暴：一种降雨在接触地面时冻结的暴风雨。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a storm of freezing rain that deposits a glaze of ice on the ground 冰暴 [美国英语]
+
+========================================================================
+>>> squall
+------------------------------------------------------------------------
+squall    [美 skwɔːl / 英 skwɔːl]
+n. 飑（指突起的狂风或短时的风暴）；尖叫声，喊叫声，嚎叫声；大声啼哭；短暂的骚乱或暴动
+v. 尖叫；（尤指婴儿）大声啼哭，号哭；短时的狂风
+TEM8 squalling,squalled,squalls
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A squall is a sudden strong wind which often causes a brief, violent rainstorm or snowstorm. 飑; 突起的狂风(常引起短暂暴雨或暴雪)
+   ≫   The boat was hit by a squall north of the island.  船在岛的北边遇到了狂飑。
+2. (N) a shrill or noisy yell or howl 尖叫声; 喊叫声; 嚎叫声
+3. (V-I) If a person or animal squalls, they make a loud unpleasant noise like the noise made by a crying baby. 尖叫; 嚎叫; 大声啼哭
+   ≫   There was an infant squalling in the back of the church.  教堂的后面有个婴儿大声啼哭的声音。
+   ≫   ...squalling guitars.  ...刺耳的吉他声。
+
+========================================================================
+>>> haboob
+------------------------------------------------------------------------
+haboob    [美 həˈbʊb / 英 həˈbuːb]
+n. （发生在非洲北部或印度的）哈布沙暴（等于 habbub）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Haboob - a name imported from the Arabic for massive sandstorms in the American Southwest. 沙尘暴——在美国西南部的沙尘暴名称是从阿拉伯进口的。
+
+========================================================================
+>>> squall line
+------------------------------------------------------------------------
+squall line    [美 skwɔːl laɪn]
+飑线：一种气象现象，指一系列雷暴或风暴沿着一个相对直线的区域排列，通常伴随着强风和降水。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a narrow zone along a cold front along which squalls occur 飑线 → see also line squall
+
+========================================================================
+>>> snow squall
+------------------------------------------------------------------------
+snow squall
+雪暴：一种突然出现的短暂而强烈的降雪现象，通常伴随着大风和低能见度。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He braced his shoulders defiantly as another squall of wet snow slashed across his face. 当又一阵雨雪呼啸着划过他的脸庞时，他毫无畏惧地绷紧双肩。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> water spout
+------------------------------------------------------------------------
+water spout
+水龙卷：一种在海洋或湖泊上形成的旋风，通常由水蒸气和气旋引起。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a tornado occurring over water that forms a column of water and mist extending between the surface and the clouds above 海龙卷
+2. (N) a sudden downpour of heavy rain 暴雨
+
+========================================================================
+>>> spout
+------------------------------------------------------------------------
+spout    [美 spaʊt / 英 spaʊt]
+n. 管口，容器嘴；（急速喷出的）水流，水柱；（鲸喷出的）水气柱；出水管，排水沟；（由高向低的）运货斜槽，滑道；<史>（当铺中将抵押品传送到存放处的）升降车
+v. 喷涌；滔滔不绝地说，喋喋不休地说；（鲸鱼，海豚）从呼吸孔中喷出水柱
+★ CET6+ TEM8 spouting,spouted,spouts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something spouts liquid or fire, or if liquid or fire spout out of something, it comes out very quickly with a lot of force. 喷射 (液体、火); (液体、火) 喷射出
+   ≫   He replaced the boiler when the last one began to spout flames.  原来的锅炉开始喷射火焰之后他便更换了一个。
+   ≫   The main square has a fountain that spouts water 40 feet into the air.  主广场有个喷泉，喷水高达40英尺。
+2. (V-T) If you say that a person spouts something, you disapprove of them because they say something which you do not agree with or which you think they do not honestly feel. 跌跌不休地说 [表不满]
+   ≫   My mother would go red in the face and spout bitter recriminations.  我妈妈会气得脸通红，然后跌跌不休地说些刻薄话。
+3. (N-COUNT) A spout is a long, hollow part of a container through which liquids can be poured out easily. (容器的) 嘴; 口
+   ≫   She lifted the kettle a little and tilted its spout over the tea-pot.  她稍稍提起烧水壶，将壶嘴向茶壶倾斜。
+
+========================================================================
+>>> whirl
+------------------------------------------------------------------------
+whirl    [美 wɜːrl / 英 wɜːl]
+v. （使）飞旋，（使）旋转；猛地转动；晕眩，（思绪）混乱
+n. 旋转，回旋； 纷繁，忙乱；晕眩；螺旋状的糖果（或饼干）；短暂的旅行
+★ CET6 TEM4 whirling,whirled,whirls
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something or someone whirls around or if you whirl them around, they move around or turn around very quickly. 使快速旋转; 快速旋转
+   ≫   Not receiving an answer, she whirled around.  没有得到答复，她猛地转过身来。
+   ≫   He was whirling Anne around the floor.  他正与安妮旋转起舞。
+2. (N-COUNT) Whirl is also a noun. 快速旋转
+   ≫   ...the barely audible whirl of wheels.  …几乎听不见的轮子转动声。
+3. (N-COUNT) You can refer to a lot of intense activity as a whirl of activity. 紧张激烈的一连串
+   ≫   In half an hour's whirl of activity she does it all.  在半个小时马不停蹄的忙碌中，她做完了这一切。
+4. (PHRASE) If you decide to give an activity a whirl, you do it even though it is something that you have never tried before. 试一试 [非正式]
+   ≫   Why not give acupuncture a whirl?  为什么不试试针灸？
+
+========================================================================
+>>> fire whirl
+------------------------------------------------------------------------
+fire whirl
+火龙卷，火旋风
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This can make us know more clearly about the burning rules of the fire whirl. 这样，就可以根据旋转磁场中旋转火焰的燃烧规律而了解实际火灾中火旋风的燃烧特性。
+≫   Fire whirl is a kind of special fire behavior that usually occurs in forest fires. 火旋风是森林火灾中经常发生的一种特殊火行为。
+≫   The experimental results show that the upper critical rotating speeds of magnetic field inducing fire whirl increase and the lower... 磁场顺时针方向旋转时，引发火焰旋转的磁场上临界转速较逆时针旋转时要小，而下临界转速较逆时针旋转时要大。
+
+========================================================================
+>>> ball lightning
+------------------------------------------------------------------------
+ball lightning    [美 bɔːl ˈlaɪtnɪŋ]
+球状闪电：一种罕见的闪电形式，由发光的球体组成，可以沿着固体物体移动或漂浮在空中。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a luminous electrically charged ball occasionally seen during electrical storms 球状闪电 [meteorol]
+
+========================================================================
+>>> dry lightning
+------------------------------------------------------------------------
+dry lightning
+n. 无雨闪电
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) lightning produced by a thunderstorm that is unaccompanied by rain (无雨的)风暴闪电 [美国英语]
+
+========================================================================
+>>> vortex
+------------------------------------------------------------------------
+vortex    [英 ˈvɔːteks / 美 ˈvɔːrteks]
+n. [航][流] 涡流；漩涡；（动乱，争论等的）中心；旋风
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vortex is a mass of wind or water that spins around so fast that it pulls objects down into its empty centre. (风或水流形成的)漩涡
+   ≫   The polar vortex is a system of wintertime winds.  极地涡旋是冬季风形成的一个风系。
+2. (N-COUNT) If you refer to a situation as a vortex, you mean that you are being forced into it without being able to prevent it. 无法控制的处境 [usu sing, with supp]
+   ≫   When marriages break down children are swept into the vortex of their parents' embittered emotions.  当婚姻破裂时，孩子们也被卷入父母间日益恶化的情绪漩涡中。
+
+========================================================================
+>>> polar vortex
+------------------------------------------------------------------------
+polar vortex
+极地涡旋：位于中高层对流层和平流层的大规模气旋，环绕着极高压，并位于极前锋的尾部。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The polar vortex is a system of wintertime winds. 极地涡旋是冬季风形成的一个风系。《柯林斯英汉双解大词典》
+≫   Seasonal polar vortex centric intensity is very persistent. 季节的极涡中心强度是持续的。
+≫   The oscillation of polar vortex area over Eurasia propagates separately eastward and westward. 在欧亚大陆的极涡面积大小的振荡分别向东—西两方向传播。
+
+========================================================================
+>>> trade
+------------------------------------------------------------------------
+trade    [美 treɪd / 英 treɪd]
+n. 贸易，买卖；行业；同行业者，同仁（the trade）；营业额，交易量；（尤指需要特殊技术和手工劳动的）职业，行当；交换，交易；<美> （体育界）转会，交换运动员；<英> 执照酒商；信风，贸易风（trades）；股票交易
+v. 做买卖，做生意；营运，营业；（在证券交易所）交易，买卖；用……进行交换，互相交换；（某物）替代（某物）；对打，对骂；<美> 将（运动员）转会（或转队）；交换，对换（位置或处境）
+★★★★★ CET4 TEM4 trading,traded,trades
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Trade is the activity of buying, selling, or exchanging goods or services between people, companies, or countries. 贸易; 买卖 [商业]
+   ≫   Texas has a long history of trade with Mexico.  得克萨斯与墨西哥有着悠久的贸易史。
+   ≫   ...negotiations on a new international trade agreement.  …关于一个新的国际贸易协定的谈判。
+2. (V-I) When people, companies, or countries trade, they buy, sell, or exchange goods or services between themselves. 做生意 [商业]
+   ≫   They may refuse to trade, even when offered attractive prices.  他们有可能拒绝做生意，即便是报价很有吸引力。
+   ≫   They had years of experience of trading with the West.  他们有数年与西方做生意的经验。
+3. (N-UNCOUNT) trading N-UNCOUNT 交易
+   ≫   Trading on the stock exchange may be suspended.  股票交易可能被暂停。
+4. (N-COUNT) A trade is a particular area of business or industry. 生意; 行业 [商业]
+   ≫   They've ruined the tourist trade for the next few years.  他们已经毁掉了以后几年的旅游生意。
+5. (N-COUNT) Someone's trade is the kind of work that they do, especially when they have been trained to do it over a period of time. 职业; 手艺 [商业] [oft poss N, also 'by' N]
+   ≫   He learned his trade as a diver in the North Sea.  他在北海当上了潜水员。
+   ≫   Alicia was a jeweler by trade.  艾丽西亚是个珠宝商。
+6. (V-RECIP) If someone trades one thing for another or if two people trade things, they agree to exchange one thing for the other thing. 互相交换 [美国英语]
+   ≫   They traded land for goods and money.  他们用土地来换取商品和金钱。
+   ≫   Kids used to trade baseball cards.  孩子们过去常互相交换棒球卡片。
+7. (N-COUNT) Trade is also a noun. 交易
+   ≫   I am willing to make a trade with you.  我愿意和你做个交易。
+8. (V-RECIP) If you trade places with someone or if the two of you trade places, you move into the other person's position or situation, and they move into yours. 交换 (位置) [美国英语]
+   ≫   Mike asked George to trade places with him so he could ride with Tomas.  迈克请乔治跟他交换位置，这样他就能和托马斯同车了。
+9. (V-RECIP) If two people or groups trade something such as blows, insults, or jokes, they hit each other, insult each other, or tell each other jokes. 对打; 互骂; 互开玩笑 [美国英语]
+   ≫   Children would settle disputes by trading punches or insults in the schoolyard.  孩子们通过在校园里打架或对骂来解决争端。
+
+========================================================================
+>>> trade winds
+------------------------------------------------------------------------
+trade winds    [美 ˈtreɪd wɪndz / 英 ˈtreɪd wɪndz]
+贸易风：指一种在热带地区吹向赤道的稳定而持续的风，对航海和航空具有重要意义。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tall stalks of sugarcane bend in the trade winds. 高高的甘蔗在信风中弯下腰杆儿。
+≫   The Lapita's thrust into the Pacific was eastward, against the prevailing trade winds, Irwin notes. 欧文指出，拉皮塔号逆着盛行信风，向东行驶进入太平洋。
+≫   They could sail out for days into the unknown and assess the area, secure in the knowledge that if they didn't find anything, they could turn about and catch a swift ride back on the trade winds. 他们可以在未知的海域航行数天，并对该地区进行评估。他们知道如果没有发现任何东西的话，他们可以掉头，并借着信风迅速返回。
+
+========================================================================
+>>> westerlies
+------------------------------------------------------------------------
+westerlies    [美 ˈwestərli]
+n. [气象] 西风带；偏午
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) the prevailing winds blowing from the west on the poleward sides of the horse latitudes, often bringing depressions and anticyclones 西风带 [meteorol]
+
+========================================================================
+>>> polar easterlies
+------------------------------------------------------------------------
+polar easterlies
+[气象] 极地东风带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The third wind belt develops as cold polar air sinks and moves south, is deflected to the right, and is therefore called the polar easterlies. 当冷的极地的空气下沉并且移动南方，受科氏力影响偏向右边，因此被称为极地东风带。
+
+========================================================================
+>>> easterlies
+------------------------------------------------------------------------
+easterlies    ['i:stəlis]
+n. 东风；东风带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An easterly point, area, or direction is to the east or toward the east. 向东的
+   ≫   He progressed slowly along the coast in an easterly direction.  他沿着海岸向东缓慢行进。
+2. (ADJ) An easterly wind is a wind that blows from the east. 从东而来的
+   ≫   It was a beautiful September day, with stiff easterly winds.  那是9月的一个晴天，刮着强劲的东风。
+
+========================================================================
+>>> equatorial counter
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> equatorial counter current
+------------------------------------------------------------------------
+Equatorial Counter Current
+赤道逆流（赤道逆流是太平洋和印度洋的显著洋流，北纬5度由西向东流，源于北、南赤道洋流的水流平衡）
+
+========================================================================
+>>> equatorial
+------------------------------------------------------------------------
+equatorial    [美 ˌekwəˈtɔːriəl; ˌiːkwəˈtɔːriəl / 英 ˌekwəˈtɔːriəl]
+adj. 赤道的，近赤道的；中纬线的
+n. 赤道仪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is equatorial is near or at the equator. 赤道上的; 近赤道的 [usu ADJ n]
+   ≫   ...the equatorial island with a hundred and twenty thousand people living there.  ...有12万人居住的赤道岛屿。
+
+========================================================================
+>>> equator
+------------------------------------------------------------------------
+equator    [美 ɪˈkweɪtər / 英 ɪˈkweɪtə(r)]
+n. 赤道
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The equator is an imaginary line around the middle of the earth at an equal distance from the North Pole and the South Pole. 赤道
+
+========================================================================
+>>> global warming
+------------------------------------------------------------------------
+global warming    [英 ˌɡləʊbl ˈwɔːmɪŋ]
+全球变暖：指地球表面温度逐渐上升的现象，主要原因是人类活动导致的温室气体排放增加。
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Global warming is the gradual rise in the Earth's temperature caused by high levels of carbon dioxide and other gases in the atmosphere. 全球变暖
+   ≫   The threat of global warming will eventually force the U.S. to slow down its energy consumption.  全球变暖的威胁将最终迫使美国减慢其能源消耗。
+
+========================================================================
+>>> greenhouse effect
+------------------------------------------------------------------------
+greenhouse effect    [美 ˈɡriːnhaʊs ɪˈfekt]
+温室效应：太阳辐射转化为热能导致行星表面和下层大气层升温的现象。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The greenhouse effect is the problem caused by increased quantities of gases such as carbon dioxide in the air. These gases trap the heat from the sun, and cause a gradual rise in the temperature of the Earth's atmosphere. 温室效应
+   ≫   ...gases that contribute to the greenhouse effect.  …导致温室效应的气体。
+
+========================================================================
+>>> carbon footprint
+------------------------------------------------------------------------
+carbon footprint    [英 ˌkɑːbən ˈfʊtprɪnt]
+碳足迹；碳排放量
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your carbon footprint is a measure of the amount of carbon dioxide released into the atmosphere by your activities over a particular period. 碳足迹; 碳排放量 [oft poss N]
+   ≫   We all need to look for ways to reduce our carbon footprint.  我们都需要寻找减少我们碳足迹的办法。
+
+========================================================================
+>>> renewable
+------------------------------------------------------------------------
+renewable    [美 rɪˈnuːəb(ə)l / 英 rɪˈnjuːəb(ə)l]
+adj. （合同、协议等）可延期的，可续期的；（能源）可更新的，可再生的
+n. 再生性能源，可再生资源
+★ CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Renewable resources are natural ones such as wind, water, and sunlight which are always available. (资源) 可再生的
+   ≫   ...renewable energy sources.  …可再生能源。
+2. (ADJ) If a contract or agreement is renewable, it can be extended when it reaches the end of a fixed period of time. (合同、协议) 可延长有效期的
+   ≫   A formal contract is signed which is renewable annually.  签署的一份正式合同每年可续签一次。
+
+========================================================================
+>>> renewable energy
+------------------------------------------------------------------------
+renewable energy
+可再生能源：从可再生资源中收集的能源，如风能、水能或太阳能，通常用于电力生产。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → another name for alternative energy
+
+========================================================================
+>>> ocean acidification
+------------------------------------------------------------------------
+ocean acidification
+海洋酸化：由于大气中二氧化碳水平的增加，海洋水体的酸性增加，溶解在海水中的二氧化碳增加，导致海洋水体中碳酸的增加，降低了其pH值。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Ocean acidification is often called the twin of climate change. 海水的酸化经常被称为气候变化的孪生兄弟。
+≫   It is also thought to have seen a period of ocean acidification. 但也有人认为可能是出现了某个阶段的海洋酸化。
+≫   Ocean acidification is one of many [stressors] that our Marine environments are contending with right now. 海洋酸化是我们的海洋环境现在正与之斗争的许多[胁迫因素]之一。
+
+========================================================================
+>>> permafrost
+------------------------------------------------------------------------
+permafrost    [美 ˈpɜːrməfrɔːst / 英 ˈpɜːməfrɒst]
+n. 多年冻土；永久冻结带；永久冰冻
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Permafrost is land that is permanently frozen to a great depth. 永冻土层
+
+========================================================================
+>>> permafrost thawing
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> thawing
+------------------------------------------------------------------------
+thawing    [美 ˈθɔːɪŋ / 英 ˈθɔːɪŋ]
+n. 融化；熔化
+v. 融化（thaw 的 ing 形式）
+★ CET6+ TEM4 thawing,thawed,thaws
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When ice, snow, or something else that is frozen thaws, it melts. (冰雪等) 融化
+   ≫   It's so cold the snow doesn't get a chance to thaw.  天气太冷了，积雪都没机会融化。
+2. (N-COUNT) A thaw is a period of warmer weather when snow and ice melt, usually at the end of winter. (通常指冬末的) 解冻期
+   ≫   We slogged through the mud of an early spring thaw.  我们在初春解冻期的泥泞里艰难跋涉。
+3. (V-T/V-I) When you thaw frozen food or when it thaws, you leave it in a place where it can reach room temperature so that it is ready for use. 解冻
+   ≫   Always thaw pastry thoroughly.  一定要让油酥面团完全解冻。
+4. (PHRASAL VERB) Thaw out means the same as . 解冻
+   ≫   Thaw it out completely before reheating in a saucepan.  将之完全解冻后，放到平底锅里重新加热。
+
+========================================================================
+>>> permafrost thawing
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5305
+permafrost thawing
+永久冻土层解冻
+
+========================================================================
+>>> glacier retreat
+------------------------------------------------------------------------
+glacier retreat
+冰川后退
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He worries that our next generation may never see snow atop mountain peaks if the current rate of glacier retreat continues. 他更忧虑，如果冰川溶化的速度不改，下一代可能永远失去观赏雪山美丽景致的机会。
+≫   Worldwide glacier retreat, and sea ice melting in Polar Regions , is unusual and related to increases in human GHG emissions; 世界范围内的冰川消退和极地地区的海冰融化是为异常且同人类温室气体排放的增加相关。
+≫   The meteorological data analysis shows that glacier retreat is due to the rising temperature and the decreasing precipitation. 此外通过气象数据分析可知气温升高降水量下降是这两个地区冰川退缩的主要原因。
+
+========================================================================
+>>> glacier
+------------------------------------------------------------------------
+glacier    [美 ˈɡleɪʃər / 英 ˈɡlæsiə(r)]
+n. 冰河，冰川
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A glacier is an extremely large mass of ice which moves very slowly, often down a mountain valley. 冰川
+
+========================================================================
+>>> thawing
+------------------------------------------------------------------------
+thawing    [美 ˈθɔːɪŋ / 英 ˈθɔːɪŋ]
+n. 融化；熔化
+v. 融化（thaw 的 ing 形式）
+★ CET6+ TEM4 thawing,thawed,thaws
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When ice, snow, or something else that is frozen thaws, it melts. (冰雪等) 融化
+   ≫   It's so cold the snow doesn't get a chance to thaw.  天气太冷了，积雪都没机会融化。
+2. (N-COUNT) A thaw is a period of warmer weather when snow and ice melt, usually at the end of winter. (通常指冬末的) 解冻期
+   ≫   We slogged through the mud of an early spring thaw.  我们在初春解冻期的泥泞里艰难跋涉。
+3. (V-T/V-I) When you thaw frozen food or when it thaws, you leave it in a place where it can reach room temperature so that it is ready for use. 解冻
+   ≫   Always thaw pastry thoroughly.  一定要让油酥面团完全解冻。
+4. (PHRASAL VERB) Thaw out means the same as . 解冻
+   ≫   Thaw it out completely before reheating in a saucepan.  将之完全解冻后，放到平底锅里重新加热。
+
+========================================================================
+>>> retreat
+------------------------------------------------------------------------
+retreat    [美 rɪ'trit / 英 rɪ'triːt]
+n. 撤退；休息寓所；撤退
+vi. 撤退；退避；向后倾
+vt. 退（棋）；使后退
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you retreat, you move away from something or someone. 退出; 离开
+   ≫   "I've already got a job," I said quickly, and retreated from the room.  “我已经有了工作，”我迅速说道，然后就从房间里退了出来。
+2. (V-I) When an army retreats, it moves away from enemy forces in order to avoid fighting them. 撤退
+   ≫   The French, suddenly outnumbered, were forced to retreat.  法军在人数上突然处于劣势，被迫撤退了。
+3. (N-VAR) Retreat is also a noun. 撤退
+   ≫   In June 1942, the British 8th Army was in full retreat.  1942年6月，英军第8军全线撤退。
+4. (V-I) If you retreat from something such as a plan or a way of life, you give it up, usually in order to do something safer or less extreme. 放弃
+   ≫   She retreated from public life.  她放弃了社会生活。
+5. (N-VAR) Retreat is also a noun. 放弃
+   ≫   The president's remarks appear to signal that there will be no retreat from his position.  总统的话似乎暗示他不会放弃自己的职位。
+6. (N-COUNT) A retreat is a quiet, isolated place that you go to in order to rest or to do things in private. 隐居处; 休养处
+   ≫   He spent yesterday hidden away in his country retreat.  他躲在乡间的休养地度过了昨天。
+
+========================================================================
+>>> arctic
+------------------------------------------------------------------------
+arctic    [美 ˈɑːrktɪk / 英 ˈɑːktɪk]
+adj. 北极的；严寒的，极冷的
+n. 北极，北极地区；防水套鞋
+【名】 （Arctic）（英）阿克蒂克（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Arctic is the area of the world around the North Pole. It is extremely cold and there is very little light in winter and very little darkness in summer. 北极
+   ≫   ...winter in the Arctic.  …北极的冬天。
+2. (ADJ) If you describe a place or the weather as arctic, you are emphasizing that it is extremely cold. 极冷的 [非正式]
+   ≫   The bathroom, with its spartan pre-war facilities, is positively arctic.  这个有简陋战前设施的浴室实在冷极了。
+
+========================================================================
+>>> retreat
+------------------------------------------------------------------------
+retreat    [美 rɪˈtriːt / 英 rɪˈtriːt]
+v. （军队）撤退；后退，离开；（水、雪或土地）范围缩小；隐退，躲避；悔棋；改变意见，改变看法；（股价）下挫，下跌；向后倾
+n. 撤军，撤兵；后退，离开；退隐处，静居处；（主意、观点、决定的）改变；（股票）贬值；静修期间（或活动）
+★★★ CET4 TEM4 retreating,retreated,retreats
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you retreat, you move away from something or someone. 退出; 离开
+   ≫   "I've already got a job," I said quickly, and retreated from the room.  “我已经有了工作，”我迅速说道，然后就从房间里退了出来。
+2. (V-I) When an army retreats, it moves away from enemy forces in order to avoid fighting them. 撤退
+   ≫   The French, suddenly outnumbered, were forced to retreat.  法军在人数上突然处于劣势，被迫撤退了。
+3. (N-VAR) Retreat is also a noun. 撤退
+   ≫   In June 1942, the British 8th Army was in full retreat.  1942年6月，英军第8军全线撤退。
+4. (V-I) If you retreat from something such as a plan or a way of life, you give it up, usually in order to do something safer or less extreme. 放弃
+   ≫   She retreated from public life.  她放弃了社会生活。
+5. (N-VAR) Retreat is also a noun. 放弃
+   ≫   The president's remarks appear to signal that there will be no retreat from his position.  总统的话似乎暗示他不会放弃自己的职位。
+6. (N-COUNT) A retreat is a quiet, isolated place that you go to in order to rest or to do things in private. 隐居处; 休养处
+   ≫   He spent yesterday hidden away in his country retreat.  他躲在乡间的休养地度过了昨天。
+
+========================================================================
+>>> cirrus
+------------------------------------------------------------------------
+cirrus    [美 ˈsɪrəs / 英 ˈsɪrəs]
+n. 藤蔓；[动] 触毛；[植] 卷须
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Cirrus is a type of thin white cloud that forms at high altitudes. (在高海拔区形成的)卷云 [技术]
+
+========================================================================
+>>> cirrostratus
+------------------------------------------------------------------------
+cirrostratus    [美 ˌsɪroʊˈstreɪtəs / 英 ˌsɪrəʊˈstrɑːtəs]
+n. [气象] 卷层云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a uniform layer of cloud above about 6000 metres (20 000 feet) 卷层云
+
+========================================================================
+>>> cirrocumulus
+------------------------------------------------------------------------
+cirrocumulus    [美 ˌsɪroʊˈkjuːmjələs / 英 ˌsɪrəʊˈkjuːmjələs]
+n. [气象] 卷积云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a high cloud of ice crystals grouped into small separate globular masses, usually occurring above 6000 metres (20 000 feet) 卷积云 [meteorol] → see also mackerel sky
+
+========================================================================
+>>> altostratus
+------------------------------------------------------------------------
+altostratus    [美 æltoʊˈstreɪtəs / 英 ˌæltəʊˈstrɑːtəs]
+n. [气象] 高层云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Altostratus is a type of thick grey cloud that forms at intermediate altitudes. 高层云 [技术]
+
+========================================================================
+>>> altocumulus
+------------------------------------------------------------------------
+altocumulus    [美 ˌæltoʊˈkjuːmjʊləs / 英 ˌæltəʊˈkjuːmjʊləs]
+n. [气象] 高积云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a globular cloud at an intermediate height of about 2400 to 6000 metres (8000 to 20 000 feet) 高积云
+
+========================================================================
+>>> stratus
+------------------------------------------------------------------------
+stratus    [美 ˈstreɪtəs / 英 ˈstrɑːtəs]
+n. [气象] 层云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Stratus is a type of thick grey cloud that forms at low altitudes. 层云 [技术]
+
+========================================================================
+>>> stratocumulus
+------------------------------------------------------------------------
+stratocumulus    [美 ˌstreɪtoʊˈkjuːmjələs; ˌstrætoʊˈkjuːmjələs / 英 ˌstrætəʊˈkjuːmjələs]
+n. [气象] 层积云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a uniform stretch of cloud containing dark grey globular masses 层积云 [meteorol]
+
+========================================================================
+>>> nimbostratus
+------------------------------------------------------------------------
+nimbostratus    [美 ˌnɪmboʊˈstreɪtəs / 英 ˌnɪmbəʊˈstrɑːtəs]
+n. [气象] 雨层云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a dark-coloured rain-bearing stratus cloud 雨层云
+
+========================================================================
+>>> cumulus
+------------------------------------------------------------------------
+cumulus    [美 ˈkjuːmjələs / 英 ˈkjuːmjələs]
+n. 积云；堆积，堆积物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Cumulus is a type of thick white cloud formed when hot air rises very quickly. 积云
+   ≫   ...huge cumulus clouds.  ...巨大的积云。
+
+========================================================================
+>>> cumulonimbus
+------------------------------------------------------------------------
+cumulonimbus    [美 ˌkjuːməloʊˈnɪmbəs / 英 ˌkjuːmələʊˈnɪmbəs]
+n. [气象] 积雨云
+alsocumulo-nimbus
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Cumulonimbus is a type of cloud, similar to cumulus, that extends to a great height and is associated with thunderstorms. 积雨云 [技术]
+
+========================================================================
+>>> mammatus
+------------------------------------------------------------------------
+mammatus
+adj. （云）乳房状的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mammatus Cloud (via extremeinstability.com) 乳状云 (via extremeinstability.com)
+≫   Mammatus Clouds Over Courtland (via rhythmandcode) 地面上空的乳状云 (via rhythmandcode)
+≫   Cloud formations such as mammatus or lenticular among others, are perfect examples of how intricate and different nature can be. 云的结构，特别是乳状云或凸镜云，乃是自然之复杂精细、与众不同的完美范例。
+
+========================================================================
+>>> mammatus cloud
+------------------------------------------------------------------------
+mammatus cloud
+哺乳云：一种出现在雷暴云底部的云，形状像乳房或袋状物，通常预示着恶劣天气。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Mammatus Cloud (via extremeinstability.com) 乳状云 (via extremeinstability.com)
+≫   Cloud formations such as mammatus or lenticular among others, are perfect examples of how intricate and different nature can be. 云的结构，特别是乳状云或凸镜云，乃是自然之复杂精细、与众不同的完美范例。
+
+========================================================================
+>>> lenticular
+------------------------------------------------------------------------
+lenticular    [美 lenˈtɪkjələr / 英 lenˈtɪkjʊlə(r)]
+adj. 透镜的；晶状体的；两面凸的；小扁豆似的
+alsolentiform
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) shaped like a biconvex lens 两面凸的 (See also lentoid)
+
+========================================================================
+>>> lenticular cloud
+------------------------------------------------------------------------
+lenticular cloud
+[气象] 荚状云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Cloud formations such as mammatus or lenticular among others, are perfect examples of how intricate and different nature can be. 云的结构，特别是乳状云或凸镜云，乃是自然之复杂精细、与众不同的完美范例。
+
+========================================================================
+>>> contrails
+------------------------------------------------------------------------
+contrail    [美 ˈkɑːntreɪl / 英 ˈkɒntreɪl]
+n. 凝结尾；航迹云；凝迹（飞机飞过留下的尾迹）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → another name for vapour trail
+
+========================================================================
+>>> fog bow
+------------------------------------------------------------------------
+fog bow
+n. 雾虹（同 fogbow）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a faint arc of light sometimes seen in a fog bank 雾虹 (Also called seadog, white rainbow)
+
+========================================================================
+>>> halo
+------------------------------------------------------------------------
+halo    [美 ˈheɪloʊ / 英 ˈheɪləʊ]
+n. （圣徒或圣人头上的）光轮；（日、月或其他发光体的）光晕，晕圈；〈喻〉（赋予理想化的人或事物的）光辉，荣光
+v. 以光环围绕，似有光环围绕
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A halo is a circle of light that is shown in pictures around the head of a holy figure such as a saint or angel. 光环
+
+========================================================================
+>>> sun dog
+------------------------------------------------------------------------
+sun dog
+日晕：一种大气光学现象，当阳光通过高空的冰晶云层时，会形成一种类似于彩虹的光环，通常出现在太阳两侧。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → same as parhelion
+
+========================================================================
+>>> moon dog
+------------------------------------------------------------------------
+moon dog
+月亮狗：指在月亮周围出现的光学现象，由月亮的光线在冰晶中折射和反射形成。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Somewhere a dog suddenly howled, baying at the moon. 某个地方的一只狗突然嗥叫起来，对着月亮狂吠。《柯林斯英汉双解大词典》
+≫   A dog suddenly howled, baying at the moon. 一只狗忽然嚎叫起来，对月长嗥。《柯林斯英汉双解大词典》
+≫   Tonight the moon is very bright, very round, that causing the little dog cannot sleep. 今晚的月亮很亮，很圆，亮得小狗都睡不着觉。
+
+========================================================================
+>>> mirage
+------------------------------------------------------------------------
+mirage    [美 məˈrɑːʒ / 英 ˈmɪrɑːʒ]
+n. 海市蜃楼；幻想，妄想
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mirage is something that you see when it is extremely hot, for example in the desert, and which appears to be quite near but is actually a long way away or does not really exist. 海市蜃楼; 幻境
+   ≫   It hovered before his eyes like the mirage of an oasis.  它在他眼前晃动，好像海市蜃楼里的绿洲。
+2. (N-COUNT) If you describe something as a mirage, you mean that it is not real or true, although it may seem to be. 幻想; 妄想 [usu sing]
+   ≫   The girl was a mirage, cast up by his troubled mind.  那个女孩是他的幻觉，是他混乱的头脑中妄想出来的。
+
+========================================================================
+>>> green flash
+------------------------------------------------------------------------
+green flash    [美 ɡriːn flæʃ]
+绿色闪光：指在日出或日落时，由于大气折射而导致太阳最上部分瞬间呈现出绿色的现象。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a flash of bright green light sometimes seen as the sun passes below the horizon, caused by a combination of the dispersion, scattering, and refraction of light 绿闪光 [astronomy]
+
+========================================================================
+>>> light pillar
+------------------------------------------------------------------------
+light pillar
+[气象] 光柱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A decorative light pillar between landing and wall lights the stairwell. 装饰灯着陆支柱和墙壁之间的楼梯灯。
+≫   At this time, Ying white of the light pillar break to spend a wood and rush at horizon. 就在这时，莹白的光柱突破花林，冲向天际。
+≫   Miroku said that the Bone-Eater's Well reappeared in a pillar of light. 弥勒指出食骨井在一道光柱中重新出现。
+
+========================================================================
+>>> pillar
+------------------------------------------------------------------------
+pillar    [美 ˈpɪlər / 英 ˈpɪlə(r)]
+n. 柱子，支柱；主心骨，栋梁；（组织、制度、信仰等的）核心，基础；柱状物；纪念柱；煤柱，矿柱
+v. 用柱支撑
+【名】 （Pillar）人名，（英）皮勒
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pillar is a tall solid structure that is usually used to support part of a building. 柱子
+   ≫   ...the pillars supporting the roof.  …支撑屋顶的柱子。
+2. (N-COUNT) If something is the pillar of a system or agreement, it is the most important part of it or what makes it strong and successful. (系统、协议的) 核心
+   ≫   The pillar of her economic policy was keeping tight control over money supply.  她的经济政策的核心就是严格控制货币供应。
+3. (N-COUNT) If you describe someone as a pillar of society or as a pillar of the community, you approve of them because they play an important and active part in society or in the community. 栋梁 [表赞许]
+   ≫   My father is a pillar of the community.  我父亲是社区的顶梁柱。
+
+========================================================================
+>>> fire rainbow
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> anvil
+------------------------------------------------------------------------
+anvil    [美 ˈænvɪl / 英 ˈænvɪl]
+n. 铁砧；[解剖] 砧骨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An anvil is a heavy iron block on which hot metals are beaten into shape. 铁砧
+
+========================================================================
+>>> anvil cloud
+------------------------------------------------------------------------
+anvil cloud    [美 ˈænvɪl klaʊd]
+[气象] 砧状云
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Individual cirrus cloud formations can be the remnants of anvil clouds formed by thunderstorms. 单独的卷云的形成可以通过雷暴砧状云形成的残余。
+≫   Moreover, the dense positive CG flashes can also be observed in the strong echo region, while sparse ones are in the weak and stable echo region or cloud anvil in the rear MCS. 密集的正地闪也与强回波区相对应，而稀疏的正地闪则多发生在系统后部的稳定性降水或云砧部位。
+
+========================================================================
+>>> undulatus
+------------------------------------------------------------------------
+undulatus    [英 ˌʌndjuːˈleɪtəs]
+n. 浪云；[气象] 波状云
+adj. 波形的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Photo Gallery: Clouds Fluffy altocumulus undulatus clouds stain the sky red above a row of trees. 云彩的图片画廊。蓬松的高积云波状云染色天空呈红色在一排树木的上面。
+≫   Dubbed undulatus asperatus (turbulent undulation), the atmospheric anomaly could be headed where only 80-odd clouds have gone before: into the International Cloud Atlas. 人们给它取绰号为：波形阿斯帕拉图斯云（汹涌的波动），大气异常被冠名并进入国际云图，以前只有80几种云享受到这种待遇。
+
+========================================================================
+>>> asperatus
+------------------------------------------------------------------------
+asperatus
+n. 波浪云：一种罕见的云层形态，表面呈波浪状，给人一种混乱、动荡的感觉。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If it makes the cut, asperatus will be the first new addition in more than 50 years. 如果国际云图为它做了图例，那么阿斯帕拉图斯云将是近50年来的首次新增云种。
+≫   Dubbed undulatus asperatus (turbulent undulation), the atmospheric anomaly could be headed where only 80-odd clouds have gone before: into the International Cloud Atlas. 人们给它取绰号为：波形阿斯帕拉图斯云（汹涌的波动），大气异常被冠名并进入国际云图，以前只有80几种云享受到这种待遇。
+
+========================================================================
+>>> clory
+------------------------------------------------------------------------
+Clory
+高俊
+
+========================================================================
+>>> glory
+------------------------------------------------------------------------
+glory    [美 ˈɡlɔːri / 英 ˈɡlɔːri]
+n. 光荣，荣誉；（对上帝的）赞颂；壮丽，辉煌；值得称赞的事，引以为豪的成就；欣喜；天堂的荣耀（或福祉）；（尤指耶稣基督或圣人头顶的）光环，光轮
+v. （因某事而）欣喜；自豪，得意
+【名】 （Glory）（法）格洛里（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Glory is the fame and admiration that you gain by doing something impressive. 荣耀
+   ≫   Walsham had his moment of glory when he won a 20km race.  沃尔沙姆有过赢得20公里赛跑的光荣时刻。
+2. (N-PLURAL) A person's glories are the occasions when they have done something people greatly admire which makes them famous. 辉煌成就
+   ≫   The album sees them re-living past glories but not really breaking any new ground.  在这张专辑中他们重温了昔日的辉煌成就，却没有任何真正新的突破。
+
+========================================================================
+>>> morning glory
+------------------------------------------------------------------------
+morning glory    [英 ˌmɔːnɪŋ ˈɡlɔːri]
+牵牛花：一种攀缘植物，花朵呈喇叭形，有蓝色、粉色或白色，有时栽培为观赏花卉，有时野生生长。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Morning glory in the sun. 早晨的阳光放光芒。
+≫   I picked a purple morning glory, it is blowing a small horn at me singing. 我摘了一朵紫色喇叭花，它吹起小喇叭对着我歌唱。
+≫   This one, called Morning Glory, forms regularly in northern Queensland, Australia. 上图中的卷云被称之为晨曦，它会定期形成于澳洲昆士兰的北部地区。
+
+========================================================================
+>>> f trumpet
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> trumpet
+------------------------------------------------------------------------
+trumpet    [美 ˈtrʌmpɪt / 英 ˈtrʌmpɪt]
+n. 小号，喇叭；喇叭形物（尤指黄水仙的管状冠）；喇叭似的响声（尤指大象的吼声）；（风琴的）小号音栓；北美黄瓶子草（trumpets）
+v. 鼓吹，大肆宣扬；（尤指大象）吼叫；吹喇叭，吹小号
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A trumpet is a musical instrument of the brass family which plays comparatively high notes. 小号 [oft 'the' N]
+   ≫   I played the trumpet in the school orchestra.  我在学校管弦乐队吹小号。
+
+========================================================================
+>>> trumpet flower
+------------------------------------------------------------------------
+trumpet flower
+喇叭花：具有喇叭形花朵的各种植物，例如喇叭藤或曼陀罗等，也可以指喇叭花的花朵本身。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various plants having trumpet-shaped flowers 结喇叭花的植物
+
+========================================================================
+>>> virga
+------------------------------------------------------------------------
+virga    [美 ˈvɜːrɡə / 英 ˈvɜːɡə]
+n. [气象]幡状云
+n. （Virga）人名；（意）维尔加
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) wisps of rain or snow, seen trailing from clouds, that evaporate before reaching the earth 幡状云 [meteorol]
+
+========================================================================
+>>> supernumerary
+------------------------------------------------------------------------
+supernumerary    [美 ˌsuːpərˈnuːməreri / 英 ˌsuːpəˈnjuːmərəri; ˌsjuːpəˈnjuːmərəri]
+adj. 多余的，过剩的，额外的；后备的
+n. 定额以外的人或物；（临时雇佣的）跑龙套演员
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) exceeding a regular or proper number; extra 额外的
+2. (N) a person or thing that exceeds the normal, required, or regular number 定额以外的人
+
+========================================================================
+>>> numerary
+------------------------------------------------------------------------
+numerary    [美 ˈnjʊməˌreri / 英 ˈnjuːmərəri]
+adj. 数目的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to numbers 数目的
+
+========================================================================
+>>> noctilucent
+------------------------------------------------------------------------
+noctilucent    [美 ˌnɑːktəˈluːsənt / 英 ˌnɒktɪˈluːsənt]
+adj. 夜光的；生物发光的；夜间可见的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) shining at night, usu. of very thin high altitude clouds observable in the summer twilight sky 夜光的
+
+========================================================================
+>>> legendary
+------------------------------------------------------------------------
+legendary    [美 ˈledʒənderi / 英 ˈledʒəndri]
+adj. 非常有名的，大名鼎鼎的；传说（中）的
+★★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone or something as legendary, you mean that they are very famous and that many stories are told about them. 大名鼎鼎的
+   ≫   ...the legendary Jazz singer Adelaide Hall.  …大名鼎鼎的爵士乐歌手阿德莱德·霍尔。
+2. (ADJ) A legendary person, place, or event is mentioned or described in an old legend. 传说中的
+   ≫   The hill is supposed to be the resting place of the legendary King Lud.  这座山据说是传说中的路德国王休息的地方。
+
+========================================================================
+>>> luminous pearl
+------------------------------------------------------------------------
+luminous pearl
+夜光珠：指发光的珍珠，通常是指经过特殊处理后能在黑暗中发出光芒的珍珠。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As for the nature, existence can be made luminous pearl, you have not yet been confirmed. 至于自然界是否存在可发夜光的珍珠，则尚未得到证实。
+≫   If diamonds can send a stronger phosphorescence, like some luminous watches, diamonds are my ancient often said that the legendary luminous pearl. 如果钻石能发出比较强的磷光，就象有的夜光手表一样，这种钻石就是我国古代经常说的夜明珠。
+≫   "Pearl" is in the darkness, the human eye to bright, natural, self luminous jewelry. “夜明珠”是在黑暗中，人眼能明视的，天然的、能自行发光的珠宝。
+
+========================================================================
+>>> moondust
+------------------------------------------------------------------------
+moondust
+n. 月球尘埃
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At his new home in Sausalito, he also busied himself developing a video game called Moondust, which he demonstrated to his new employers. 在索萨利托他的新家中，他向它的心老板们展示了他所投身开发的一个叫做月球尘埃新的视频游戏。
+≫   Having made some money from selling Moondust, he continued to work on a “post-symbolic” visual programming language (VPL) for manipulating objects in three-dimensional space. 出售了月球尘埃之后，拉尼尔小赚了一笔，他继续研究名叫“后符号”的视觉编制语言（vpl），它可以用来在三维空间中控制物体。
+
+========================================================================
+>>> twilight
+------------------------------------------------------------------------
+twilight    [美 ˈtwaɪlaɪt / 英 ˈtwaɪlaɪt]
+n. 黄昏，薄暮时分；暮光，暮色；衰退期，朦胧状态
+adj. 朦胧的，模糊的，虚幻的
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Twilight is the time just before night when the daylight has almost gone but when it is not completely dark. 黄昏
+   ≫   They returned at twilight.  他们在黄昏时返回。
+
+========================================================================
+>>> arch
+------------------------------------------------------------------------
+arch    [美 ɑːrtʃ / 英 ɑːtʃ]
+n. 拱门；拱顶；足弓；拱形物
+v. （使）成弓形，拱起
+adj. 淘气的，调皮的；傲慢自大的；主要的
+comb. 极度的，为首的
+【名】 （Arch）（英）阿奇，（德）阿尔希（人名）
+★★ CET6 TEM4 arching,arched,arches
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An arch is a structure that is curved at the top and is supported on either side by a pillar, post, or wall. 拱形结构
+   ≫   When she passed under the arch leading out of the park, Mira whooped with delight.  从通向公园外的拱门下走过时，米拉高兴地喊叫起来。
+2. (N-COUNT) An arch is a curved line or movement. 弧线; 弧线运动
+   ≫   ...the arch of the fishing rods.  …钓鱼竿的弧线。
+3. (N-COUNT) The arch of your foot is the curved section at the bottom in the middle. (足) 弓
+   ≫   "Good girl," said Frank, winding the bandages around the arch of her foot.  “好姑娘，”弗兰克说道，一边把绷带缠在她的足弓上。
+4. (V-T/V-I) If you arch a part of your body such as your back or if it arches, you bend it so that it forms a curve. 弓着
+   ≫   Don't arch your back, keep your spine straight.  别弓着背，挺直脊梁。
+5. (ADJ) knowing or superior 知识渊博的; 优越的
+
+========================================================================
+>>> splendid
+------------------------------------------------------------------------
+splendid    [美 ˈsplendɪd / 英 ˈsplendɪd]
+adj. 极佳的，非常好的；壮丽的，灿烂的，辉煌的；（一段时光）令人愉快的
+int. （表示赞许或满意）好极了，痛快
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that something is splendid, you mean that it is very good. 极好的
+   ≫   The book includes a wealth of splendid photographs.  这本书有大量非常好的照片。
+2. (ADV) splendidly ADV 极好地 [ADV with v]
+   ≫   I have heard him tell people that we get along splendidly.  我听见他跟人说我们相处得非常好。
+
+========================================================================
+>>> advection
+------------------------------------------------------------------------
+advection    [美 ædˈvekʃən / 英 ædˈvekʃən]
+n. 热之水平对流；空气之水平运动
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the transference of heat energy in a horizontal stream of gas, esp of air 热的水平对流
+
+========================================================================
+>>> upslope
+------------------------------------------------------------------------
+upslope    [美 ˈʌpsloʊp / 英 ʌpˈsləʊp]
+n. [交] 上坡
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Upslope fog is usually dense, and extends to high altitudes. 上坡雾通常是密集，并延伸到高海拔地区。
+≫   Upslope fairway. Left or right, back side on green is dangerous. 一直上坡，果岭小，左右后方都有危险。
+≫   Not far upslope were three rounded boulders, lichen-covered, with a hole beneath. 坡上不远处有三个覆盖着青苔的圆石，下面有一个洞。
+
+========================================================================
+>>> frontal
+------------------------------------------------------------------------
+frontal    [美 ˈfrʌntl / 英 ˈfrʌntl]
+adj. 额的；正面的，前面的
+n. 额骨，额部；房屋的正面
+n. （Frontal）人名；（西）弗朗塔尔
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Frontal means relating to or involving the front of something, for example, the front of an army, a vehicle, or the brain. 前部的; 正面的 [正式]
+   ≫   Military leaders are not expecting a frontal assault by the rebels.  军方领导人们没有料到叛乱分子的正面袭击。
+
+========================================================================
+>>> downslope
+------------------------------------------------------------------------
+downslope    [英 ˈdaʊnˌsləʊp]
+n. 下坡
+adj. 下坡的
+adv. 在（或向）坡下
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The downslope winds are cool. 山上吹下来的风是凉的。
+≫   I choose random corner locations in the mountains, and then follow the Corner. downslope path down to the ocean. 我选择山峰的一个随机角落，然后按照Corner . downslope方向一路走向海洋。
+≫   The aim was for the building to blend in with its rural setting, positioned on a downslope that backs onto the forest. 该建筑位于背靠森林的下坡地带，融入所处的田园环境。
+
