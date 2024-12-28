@@ -71551,3 +71551,43 @@ n. 有毒物质，毒药（toxics）
    ≫   ...the cost of cleaning up toxic waste.  …清除有毒废弃物的成本。
 2. (ADJ) If a financial asset is described as toxic, it is likely to cause significant loss to the holder 有毒的(资产)
 
+========================================================================
+>>> flammable
+------------------------------------------------------------------------
+flammable    [美 ˈflæməb(ə)l / 英 ˈflæməb(ə)l]
+adj. 易燃的；可燃的；可燃性的
+n. 易燃物
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Flammable chemicals, gases, cloth, or other things catch fire and burn easily. 易燃的
+   ≫   ...flammable liquids such as petrol or kerosene.  …像汽油或煤油这样的易燃液体。
+
+========================================================================
+>>> fappable
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fap
+------------------------------------------------------------------------
+FAP
+abbr. 固定动作模式（fixed action pattern）；浮点运算程式组件（floating arithmetic package）；财政分析程式（financial analysis program）；故障分析程序（Failure Analysis Program）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Creating the FAP Database steps. 创建FAP数据库的步骤。
+≫   For more information on FAP, you can. 要了解更多FAP信息，可以。
+≫   This is the administration console for FAP. 这是FAP的管理控制台。
+
+========================================================================
+>>> pinpick
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pinprick
+------------------------------------------------------------------------
+pinprick    [美 ˈpɪnprɪk / 英 ˈpɪnprɪk]
+n. 针刺；针孔；令人烦恼的小事
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A very small spot of something can be described as a pinprick. 小点 [with supp]
+   ≫   ...a pinprick of light.  ...一个小光点。
+

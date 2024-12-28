@@ -44165,3 +44165,31 @@ n. 困惑，茫然；令人困惑的情形，令人费解的事物
 2. (N-COUNT) The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题 [usu pl]
    ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
 
+========================================================================
+>>> warranty
+------------------------------------------------------------------------
+warranty    [美 ˈwɔːrənti / 英 ˈwɒrənti]
+n. （商品的）保修单，保用卡；（保险合同用语）（被保险人对某些陈述所作的）保证，担保；<古>正当理由，依据
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A warranty is a written promise by a company that, if you find a fault in something they have sold you within a certain time, they will repair it or replace it free of charge. 保修单 [also 'under' N]
+   ≫   ...a twelve-month warranty.  …为期12个月的保修单。
+
+========================================================================
+>>> eigenvalue
+------------------------------------------------------------------------
+eigenvalue    [美 ˈaɪɡənˌvæljuː / 英 ˈaɪɡənˌvæljuː]
+n. [数] 特征值
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) one of the particular values of a certain parameter for which a differential equation or matrix equation has an eigenfunction. In wave mechanics an eigenvalue is equivalent to the energy of a quantum state of a system 特征值 [maths]
+
+========================================================================
+>>> harmonic oscillator
+------------------------------------------------------------------------
+harmonic oscillator
+谐振子：经典力学中的一种系统，当其偏离平衡位置时，根据胡克定律，会经历与偏离位置成比例的恢复力F = -kx，其中k为正常数。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For a harmonic oscillator the energy levels are evenly spaced. 对谐振子来说，能级是等间隔的。
+≫   We can work out positions of a harmonic oscillator by numerical methods . 我们可以按数值方法计算简谐振子的位置。
+≫   In Quantum Mechanics, the study of harmonic oscillator is very important in theoretic and in practical application. 在量子力学中，对谐振子的研究，无论在理论上还是在实践应用中都很重要。
+
