@@ -44193,3 +44193,13 @@ harmonic oscillator
 ≫   We can work out positions of a harmonic oscillator by numerical methods . 我们可以按数值方法计算简谐振子的位置。
 ≫   In Quantum Mechanics, the study of harmonic oscillator is very important in theoretic and in practical application. 在量子力学中，对谐振子的研究，无论在理论上还是在实践应用中都很重要。
 
+========================================================================
+>>> implication
+------------------------------------------------------------------------
+implication    [美 ˌɪmplɪˈkeɪʃ(ə)n / 英 ˌɪmplɪˈkeɪʃn]
+n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The implication was plain, if left unstated. 即使不说出来，隐含义也很明显。《柯林斯英汉双解大词典》
+≫   Implication in a murder finally brought him to the gallows. 与一桩谋杀案的牵连最终把他送上了绞刑架。《柯林斯英汉双解大词典》
+≫   They resent the implication that they have behaved irresponsibly. 他们对那种暗示他们的行为不负责任的言论非常不满。《柯林斯英汉双解大词典》
+

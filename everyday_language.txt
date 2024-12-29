@@ -73531,3 +73531,62 @@ adv. 在（或向）坡下
 ≫   I choose random corner locations in the mountains, and then follow the Corner. downslope path down to the ocean. 我选择山峰的一个随机角落，然后按照Corner . downslope方向一路走向海洋。
 ≫   The aim was for the building to blend in with its rural setting, positioned on a downslope that backs onto the forest. 该建筑位于背靠森林的下坡地带，融入所处的田园环境。
 
+========================================================================
+>>> cranked
+------------------------------------------------------------------------
+cranked    [美 kræŋkt / 英 kræŋkt]
+adj. 有曲柄的，弯曲的
+v. 转动曲柄；使成曲柄状；曲折行进（crank 的过去分词）
+★ CET6+ cranking,cranked,cranks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you call someone a crank, you think their ideas or behaviour are strange. 怪人 [非正式]
+   ≫   The man with a new idea is a crank until the idea succeeds.  有新想法的人在想法实现前是怪人。
+2. (N-COUNT) A crank is a device that you turn in order to make something move. 曲柄
+   ≫   He was idly turning a crank on a strange mechanism strapped to his chest.  他漫不经心地转着绑在他胸前的一个古怪装置上面的曲柄。
+3. (V-T) If you crank an engine or machine, you make it move or function, especially by turning a handle. 用曲柄启动
+   ≫   The chauffeur got out to crank the motor.  司机下车用曲柄发动了引擎。
+
+========================================================================
+>>> facilities
+------------------------------------------------------------------------
+facilities    [美 fəˈsɪlətiz / 英 fəˈsɪlətiz]
+n. 设施；工具，设备（facility 的复数）
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Facilities are buildings, pieces of equipment, or services that are provided for a particular purpose. 设施
+   ≫   What recreational facilities are now available?  什么娱乐设施现在是可用的？
+2. (N-COUNT) A facility is something such as an additional service provided by an organization or an extra feature on a machine which is useful but not essential. 附加服务; 附加功能
+   ≫   One of the new models has the facility to reproduce speech as well as text.  新款型中的一款有复制言语和文本的附加功能。
+3. (N-COUNT) If you have a facility for something, for example learning a language, you find it easy to do. 天赋 [usu sing, usu N 'for' n, N to-inf]
+   ≫   He and Marcia shared a facility for languages.  他和马西娅都具有语言天赋。
+
+========================================================================
+>>> vandalism
+------------------------------------------------------------------------
+vandalism    [美 ˈvændəlɪzəm / 英 ˈvændəlɪzəm]
+n. 故意破坏（或损坏）财产的行为；（对好事物的）糟蹋
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Vandalism is the deliberate damaging of things, especially public property. (尤指对公共财产的) 故意破坏
+   ≫   ...a 13-year-old boy whose crime file includes violence, theft, vandalism and bullying.  …一个犯罪档案中包括暴力、偷窃、破坏公物和恃强凌弱的13岁男孩。
+
+========================================================================
+>>> dispute
+------------------------------------------------------------------------
+dispute    [美 dɪˈspjuːt / 英 dɪˈspjuːt]
+n. 争论，辩论，纠纷
+v. 对……提出质疑，否认；争论，辩论；争夺，竞争；<旧>阻止（着陆），抵抗（进攻）
+★★★★ CET4 TEM4 disputing,disputed,disputes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A dispute is an argument or disagreement between people or groups. 争论
+   ≫   They have won previous pay disputes with the government.  他们曾赢过前几起与政府的工资纠纷。
+2. (V-T) If you dispute a fact, statement, or theory, you say that it is incorrect or untrue. 反驳
+   ≫   He disputed the allegations.  他驳斥了这些无根据的指控。
+   ≫   Nobody disputed that Davey was clever.  没有人反驳戴维是聪明的。
+3. (V-RECIP) When people dispute something, they fight for control or ownership of it. You can also say that one group of people dispute something with another group. 争夺 (控制权、所有权)
+   ≫   Russia and Ukraine have been disputing the ownership of the fleet.  俄罗斯和乌克兰一直在争夺该舰队的所有权。
+4. (PHRASE) If two or more people or groups are in dispute, they are arguing or disagreeing about something. (人或组织) 有争议的
+   ≫   The two countries are in dispute over the boundaries of their coastal waters.  两国对它们沿海海域的边界是有争议的。
+5. (PHRASE) If something is in dispute, people are questioning it or arguing about it. (某事物) 有争议的
+   ≫   The schedule for the talks has been agreed, but the location is still in dispute.  会谈的时间表已经达成一致，但地点尚有争议。
+
