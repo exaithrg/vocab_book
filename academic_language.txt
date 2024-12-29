@@ -44203,3 +44203,47 @@ n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及
 ≫   Implication in a murder finally brought him to the gallows. 与一桩谋杀案的牵连最终把他送上了绞刑架。《柯林斯英汉双解大词典》
 ≫   They resent the implication that they have behaved irresponsibly. 他们对那种暗示他们的行为不负责任的言论非常不满。《柯林斯英汉双解大词典》
 
+========================================================================
+>>> interpreat
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> interprt
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> interpret
+------------------------------------------------------------------------
+interpret    [美 ɪnˈtɜːrprət / 英 ɪnˈtɜːprət]
+v. 解释，说明；口译；把……理解为；演绎
+★★ CET4 TEM4 interpreting,interpreted,interprets
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you interpret something in a particular way, you decide that this is its meaning or significance. 解释
+   ≫   The fact that they had decided to come was interpreted as a positive sign.  他们已经决定要来的事实可被解释为一个积极的信号。
+   ≫   The judge quite rightly says that he has to interpret the law as it's been passed.  法官很有理地说他必须按照法律被通过时的意义进行解释。
+2. (V-T/V-I) If you interpret what someone is saying, you translate it immediately into another language. 口译; 作口译
+   ≫   The chambermaid spoke little English, so her husband came with her to interpret.  那个女服务员几乎不会说英语，所以她丈夫来给她作口译。
+
+========================================================================
+>>> reinterpret
+------------------------------------------------------------------------
+reinterpret    [美 ˌriːɪnˈtɜːrprət / 英 ˌriːɪnˈtɜːprət]
+vt. 重新解释
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to interpret (an idea, etc) in a new or different way 以新的或不同的方式诠释(想法等)
+
+========================================================================
+>>> conjunction
+------------------------------------------------------------------------
+conjunction    [美 kənˈdʒʌŋkʃ(ə)n / 英 kənˈdʒʌŋkʃ(ə)n]
+n. 结合，同时发生；连词；（占星术中两个天体的）相合
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A conjunction of two or more things is the occurrence of them at the same time or place. 同时发生; 同地发生 [正式]
+   ≫   ...the conjunction of two events.  …两事件的同时发生。
+2. (N-COUNT) In grammar, a conjunction is a word or group of words that joins together words, groups, or clauses. In English, there are coordinating conjunctions such as "and" and "but," and subordinating conjunctions such as "although," "because," and "when." 连词
+3. (PHRASE) If one thing is done in conjunction with another, the two things are done or used together. 与…一起 (做、用) [usu PHR 'with' n]
+   ≫   Textbooks are designed to be used in conjunction with classroom teaching.  教科书被设计成与课堂教学配合使用。
+

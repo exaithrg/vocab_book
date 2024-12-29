@@ -73590,3 +73590,209 @@ v. 对……提出质疑，否认；争论，辩论；争夺，竞争；<旧>阻
 5. (PHRASE) If something is in dispute, people are questioning it or arguing about it. (某事物) 有争议的
    ≫   The schedule for the talks has been agreed, but the location is still in dispute.  会谈的时间表已经达成一致，但地点尚有争议。
 
+========================================================================
+>>> loopy
+------------------------------------------------------------------------
+loopy    [美 ˈluːpi / 英 ˈluːpi]
+adj. 多圈的；呆头呆脑的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) full of loops; curly or twisted 多环的; 卷曲的
+
+========================================================================
+>>> promising
+------------------------------------------------------------------------
+promising    [美 ˈprɑːmɪsɪŋ / 英 ˈprɒmɪsɪŋ]
+adj. 有希望的，有前途的
+v. 承诺，答应；使很可能，预示（promise 的现在分词形式）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone or something that is promising seems likely to be very good or successful. 有望成功的; 前景很好的
+   ≫   A school has honoured one of its brightest and most promising former students.  一所学校给其培养过的最聪明、最有前途的学生中的一位颁了奖。
+
+========================================================================
+>>> salience
+------------------------------------------------------------------------
+salience    [美 ˈselɪəns / 英 ˈseɪljəns]
+n. 显著（等于 saliency）；突出；卓越
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The answer is the salience attribute. 答案是salience属性。
+≫   Another important aspect of a rule is the optional salience attribute. 规则的另一个重要的方面是可选的salience属性。
+≫   So, the value of the salience attribute for this rule is the lowest one: 10. 所以，该规则的salience属性值最低：10。
+
+========================================================================
+>>> oriented
+------------------------------------------------------------------------
+oriented    [美 ˈɔːrientɪd / 英 ˈɔːrientɪd]
+adj. 以……为方向的，重视……的（=orientated）
+v. 朝向，面对，使适合；定向放置（某物）；使熟悉，帮助适应（orient 的过去式和过去分词）
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If someone is oriented toward or oriented to a particular thing or person, they are mainly concerned with that thing or person. 以…为方向的; 重视…的 [v-link ADJ 'toward/to' n]
+   ≫   It seems almost inevitable that North African economies will still be primarily oriented toward Europe.  看来可以预见的是，北非经济仍会主要面向欧洲。
+
+========================================================================
+>>> classical
+------------------------------------------------------------------------
+classical    [英 ˈklæsɪk(ə)l / 美 ˈklæsɪk(ə)l]
+adj. 经典的，传统的；和古希腊与古罗马文化相关的；（音乐）古典的；文科的，人文科学的；典型的，有代表性的；相对论和量子力学理论前的概念、理论的，古典力学的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use classical to describe something that is traditional in form, style, or content. 传统的
+   ≫   Fokine did not change the steps of classical ballet; instead he found new ways of using them.  福金没有改变传统芭蕾的舞步；取而代之的是他发现了使用传统舞步的新方法。
+2. (ADJ) Classical music is music that is considered to be serious and of lasting value. (指音乐) 古典的
+   ≫   ...a classical composer like Beethoven.  …诸如贝多芬的一名古典作曲家。
+3. (ADJ) Classical is used to describe things which relate to the ancient Greek or Roman civilizations. (指古希腊罗马) 古典文化的
+   ≫   ...the healers of ancient Egypt and classical Greece.  …古埃及和古希腊的疗愈者们。
+
+========================================================================
+>>> classic
+------------------------------------------------------------------------
+classic    [英 ˈklæsɪk / 美 ˈklæsɪk]
+adj. 典型的，有代表性的；一流的，经典的；古朴的，典雅的；<非正式>糟糕的，讨厌的
+n. 经典作品，杰作；杰出的事物，典范；传统活动，传统项目
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A classic example of a thing or situation has all the features which you expect such a thing or situation to have. 典型的
+   ≫   The debate in the press has been a classic example of hypocrisy.  新闻界的这场争论是虚伪的典型例子。
+2. (N-COUNT) Classic is also a noun. 典范
+   ≫   It was a classic of interrogation: first the bully, then the kind one who offers sympathy.  这是审问的一种典范：开始是欺负人的人，然后那个和善的人再施予同情。
+3. (ADJ) A classic film, piece of writing, or piece of music is of very high quality and has become a standard against which similar things are judged. 经典的 [ADJ n]
+   ≫   ...the classic children's film Huckleberry Finn.  …经典的儿童影片《哈克贝利•芬》。
+4. (N-COUNT) Classic is also a noun. 经典
+   ≫   The record won a gold award and remains one of the classics of modern popular music.  该唱片获得过金奖，而且依旧是现代流行音乐的经典作品之一。
+5. (N-COUNT) A classic is a book which is well-known and considered to be of a high literary standard. You can refer to such books generally as the classics. 文学名著
+   ≫   As I grow older, I like to reread the classics regularly.  随着我年龄的增长，我喜欢定期重读文学名著。
+6. (N-UNCOUNT) Classics is the study of the ancient Greek and Roman civilizations, especially their languages, literature, and philosophy. 古典学
+   ≫   ...a Classics degree.  …古典学学位。
+
+========================================================================
+>>> impaling
+------------------------------------------------------------------------
+impaling    [美 ɪmˈpeɪlɪŋ / 英 ɪmˈpeɪlɪŋ]
+n. 刺击；突刺类
+TEM8 impaling,impaled,impales
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To impale something on a pointed object means to cause the point to go into it or through it. 刺穿; 刺入
+   ≫   Researchers observed one bird impale a rodent on a cactus.  研究人员观察到，一只鸟把一个啮齿动物钉到了一棵仙人掌上。
+
+========================================================================
+>>> riptide
+------------------------------------------------------------------------
+riptide    [美 ˈrɪpˌtaɪd / 英 ˈrɪptaɪd]
+n. 激流；洪涛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A riptide is an area of sea where two different currents meet or where the water is extremely deep. Riptides make the water very rough and dangerous. 激流
+
+========================================================================
+>>> raid
+------------------------------------------------------------------------
+raid    [美 reɪd / 英 reɪd]
+n. 突袭，袭击；突击检查，突然搜查；抢劫，打劫；（股票）恶意大量买进
+v. 突袭，偷袭；突击搜捕，突然搜查；抢劫，劫掠；扫荡（某处的食物）
+【名】 （Raid）（阿拉伯）拉伊德（人名）
+★★★ CET4 TEM4 raiding,raided,raids
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When soldiers raid a place, they make a sudden armed attack against it, with the aim of causing damage rather than occupying any of the enemy's land. 突袭
+   ≫   The guerrillas raided banks and destroyed a police barracks and an electricity substation.  游击队员们突袭了多家银行，摧毁了一个警察营房和一座变电站。
+2. (N-COUNT) Raid is also a noun. 突袭
+   ≫   The rebels attempted a surprise raid on a military camp.  反叛者们曾经试图对兵营发动一场突然袭击。
+3. (V-T) If the police raid a building, they enter it suddenly and by force in order to look for dangerous criminals or for evidence of something illegal, such as drugs or weapons. 突击搜查
+   ≫   Police raided their headquarters and other offices.  警察突击搜查了他们的总部和其他办公场所。
+4. (N-COUNT) Raid is also a noun. 突击搜查
+   ≫   They were arrested early this morning after a raid on a house by thirty armed police.  他们于今天凌晨，在30名武装警察突击搜查了一所住宅后被捕。
+
+========================================================================
+>>> raider
+------------------------------------------------------------------------
+raider    [美 ˈreɪdər / 英 ˈreɪdə(r)]
+n. 袭击者，抢劫者；蓄意收购公司者
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Shoppers wrestled the raider to the ground. 购物的人把抢劫者摔倒在地上。《牛津词典》
+≫   Angelina adopted Maddox when he was just seven months old after she visited a Cambodian orphanage while shooting her film Lara Croft: Tomb Raider in 2002. 2002年，安吉丽娜在拍摄电影《古墓丽影》时访问了柬埔寨的一家孤儿院，并收养了当时只有七个月大的马多克斯。
+≫   S Lara Croft: Tomb Raider made Jolie an international superstar. 01年的《古墓丽影》将茱莉捧为国际巨星！
+
+========================================================================
+>>> surge
+------------------------------------------------------------------------
+surge    [美 sɜːrdʒ / 英 sɜːdʒ]
+n. 激增，猛增；（风、水等的）奔涌，汹涌；（情感的）涌起，翻涌；（人群的）蜂拥；电流急冲，电涌；增兵，增援
+v. 急剧上升，激增；（人群，自然力）汹涌，奔腾；（感情）涌起，涌现；（电压，电流）猛增，浪涌；（绳子，缆索，绞盘）突然松开，突然滑脱
+★★ CET4 TEM4 surging,surged,surges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A surge is a sudden large increase in something that has previously been steady, or has only increased or developed slowly. 剧增
+   ≫   Specialists see various reasons for the recent surge in inflation.  专家认为最近通货膨胀加剧有各种原因。
+2. (V-I) If something surges, it increases suddenly and greatly, after being steady or developing only slowly. 剧增
+   ≫   The Freedom Party's electoral support surged from just under 10 percent to nearly 17 percent.  自由党的选举支持率从只有不到10%剧增到近17%。
+3. (V-I) If a crowd of people surge forward, they suddenly move forward together. 涌动
+   ≫   The photographers and cameramen surged forward.  那些摄影和摄像师们涌向前去。
+4. (N-COUNT) A surge is a sudden powerful movement of a physical force such as wind or water. (风、水等) 突然的涌动
+   ≫   The whole car shuddered with an almost frightening surge of power.  整辆车因受到一股几乎令人惊骇的冲力而颤动。
+5. (V-I) If a physical force such as water or electricity surges through something, it moves through it suddenly and powerfully. (水、电流等) 涌
+   ≫   Thousands of volts surged through his car after he careered into a lamp post, ripping out live wires.  当他急速撞向一个灯柱、扯断了通电的电线之后，几千伏的电流涌过他的汽车。
+
+========================================================================
+>>> Belgium
+------------------------------------------------------------------------
+Belgium    [美 ˈbeldʒəm / 英 ˈbeldʒəm]
+n. 比利时（西欧国家，首都布鲁塞尔 Brussels）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He emigrated to Belgium. 他移民去了比利时。《柯林斯英汉双解大词典》
+≫   They arrived in Belgium by airplane. 他们乘飞机到达比利时。《牛津词典》
+≫   She is a frequent traveller to Belgium. 她经常到比利时去旅行。《牛津词典》
+
+========================================================================
+>>> panzer
+------------------------------------------------------------------------
+panzer    [美 ˈpænzər / 英 ˈpænzə(r)]
+n. 装甲车；德国装甲部队
+n. （Panzer）（美、德、奥地利、法、加）潘泽尔（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) of, relating to, or characteristic of the fast mechanized armoured units employed by the German army in World War II (德国军队在二战期间用的)装甲车(的)
+   ≫   a panzer attack  
+
+========================================================================
+>>> nutter
+------------------------------------------------------------------------
+nutter    [美 ˈnʌtər / 英 ˈnʌtə(r)]
+n. 疯子；拾坚果的人
+n. （Nutter）人名；（英）纳特；（德）努特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a mad or eccentric person 癫疯的人; 怪癖的人 [英国英语] [slang]
+
+========================================================================
+>>> thug
+------------------------------------------------------------------------
+thug    [美 θʌɡ / 英 θʌɡ]
+n. 暴徒；恶棍；刺客
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You can refer to a violent person or criminal as a thug. 暴徒; 罪犯 [表不满]
+   ≫   ...the cowardly thugs who mug old people.  …那些抢劫老人的懦夫暴徒。
+
+========================================================================
+>>> rods
+------------------------------------------------------------------------
+rods    [美 rɑːdz / 英 rɒdz]
+n. 鱼竿（rod 的复数）；棒条体
+v. 装避雷针；用杆捅清（rod 的单三形式）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rod is a long, thin, metal or wooden bar. 长杆; 长棒
+   ≫   ...a 15-foot thick roof that was reinforced with steel rods.  …用钢条加固了的15英尺厚的屋顶。
+
+========================================================================
+>>> lighting rod
+------------------------------------------------------------------------
+lighting rod
+避雷针：一种用于保护建筑物或其他结构免受雷击的装置，通常由金属制成，安装在建筑物的高处，将雷电引向地下。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Jake Hardin: How about you toss the lighting rod and get in. 杰克：那么把你的避雷针扔了上车来怎么样？
+≫   By using the method of dangerous ball-center, a design and check solution of lighting rod for complex building structure is offered. 利用危险球心法可以对复杂结构建筑物的防雷设计与校核提供一种简便的解题思路和方法。
+≫   In fact, now lighting will not hit the house. it hits the rod instead. The lightning goes down the rod and down the wire. it ends up in the ground. here, the lightning can't hurt anything. 事实上，这样的话闪电就不会击到房子上了，而是通过避雷针再通过导线传到大地。所以呢，闪电就无法造成伤害了。
+
+========================================================================
+>>> conjection
+------------------------------------------------------------------------
+Not found :(
+
