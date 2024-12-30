@@ -73796,3 +73796,37 @@ lighting rod
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> arrange
+------------------------------------------------------------------------
+arrange    [美 əˈreɪndʒ / 英 əˈreɪndʒ]
+v. 安排，筹备；整理，布置，排列；改编；商定
+★★★ CET4 TEM4 arranging,arranged,arranges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you arrange an event or meeting, you make plans for it to happen. 安排 (活动、会议)
+   ≫   She arranged an appointment for Friday afternoon at four-fifteen.  她安排了一个星期五下午四点一刻的约会。
+2. (V-T/V-I) If you arrange with someone to do something, you make plans with them to do it. 安排; 筹划
+   ≫   I've arranged to see him on Friday morning.  我已经安排了星期五早上见他。
+   ≫   It was arranged that the party would gather for lunch in Grant Park.  已经安排好这一行人在格兰特公园聚集吃午餐。
+   ≫   The city had arranged for the National Guard to be brought in.  该市已筹划调入国民警卫队。
+3. (V-T/V-I) If you arrange something for someone, you make it possible for them to have it or to do it. 安排好
+   ≫   I will arrange for someone to take you around.  我会安排好人领你转转。
+   ≫   The hotel manager will arrange for a babysitter.  宾馆经理会安排一位保姆。
+   ≫   Mr. Dambar had arranged a dinner for the three of them.  丹姆巴尔先生已经为他们3人安排好了一顿晚餐。
+4. (V-T) If you arrange things somewhere, you place them in a particular position, usually in order to make them look attractive or neat. 布置
+   ≫   When she has a little spare time she enjoys arranging dried flowers.  她有一点闲暇时间就喜欢插干花。
+5. (V-T) If a piece of music is arranged by someone, it is changed or adapted so that it is suitable for particular instruments or voices, or for a particular performance. 改编 (乐曲) [usu passive]
+   ≫   The songs were arranged by another well-known bass player, Ron Carter.  这些歌曲由另一位著名的贝司手罗恩·卡特改编。
+
+========================================================================
+>>> evolution
+------------------------------------------------------------------------
+evolution    [美 ˌevəˈluːʃ(ə)n / 英 ˌiːvəˈluːʃ(ə)n]
+n. 进化（论）；演变，发展；（气体的）释放，（热量的）散发；队形变换，位置变换；<旧>开方
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Evolution is a process of gradual change that takes place over many generations, during which species of animals, plants, or insects slowly change some of their physical characteristics. 进化
+   ≫   ...the evolution of plants and animals.  …动植物的进化。
+2. (N-VAR) Evolution is a process of gradual development in a particular situation or thing over a period of time. 演化; 发展 [正式]
+   ≫   ...a crucial period in the evolution of modern physics.  …现代物理学发展过程中的一个关键时期。
+

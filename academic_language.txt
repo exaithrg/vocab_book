@@ -44257,3 +44257,126 @@ n. 公断人，仲裁人（或机构）
 ≫   An Arbitrator is a neutral person who resolves disputes between parties. 仲裁员是解决双方当事人争议的持中立态度的人。
 ≫   When the parties cannot agree on contractual terms, an arbitrator decides. 当双方当事人无法就合同条款达成协议，则由仲裁员进行裁定。
 
+========================================================================
+>>> replicated
+------------------------------------------------------------------------
+replicated    [美 ˈreplɪkeɪtɪd / 英 ˈreplɪkeɪtɪd]
+重复的
+★ TEM8 replicating,replicated,replicates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you replicate someone's experiment, work, or research, you do it yourself in exactly the same way. 复制; 重做(试验、工作或研究) [正式]
+   ≫   He invited her to his laboratory to see if she could replicate the experiment.  他邀请她到他的实验室看她能否复制该实验。
+
+========================================================================
+>>> thwarting
+------------------------------------------------------------------------
+thwarting    [美 ˈθwɔːrtɪŋ / 英 θwɔ:tɪŋ]
+v. 阻挠，妨碍（thwart 的现在分词）
+★ TEM4 thwarting,thwarted,thwarts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you thwart someone or thwart their plans, you prevent them from doing or getting what they want. 阻挠; 挫败
+   ≫   The security forces were doing all they could to thwart terrorists.  安全部队正尽其所能挫败恐怖分子。
+
+========================================================================
+>>> thwarting
+------------------------------------------------------------------------
+thwarting    [美 ˈθwɔːrtɪŋ / 英 θwɔ:tɪŋ]
+v. 阻挠，妨碍（thwart 的现在分词）
+★ TEM4 thwarting,thwarted,thwarts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you thwart someone or thwart their plans, you prevent them from doing or getting what they want. 阻挠; 挫败
+   ≫   The security forces were doing all they could to thwart terrorists.  安全部队正尽其所能挫败恐怖分子。
+
+========================================================================
+>>> corruption
+------------------------------------------------------------------------
+corruption    [美 kəˈrʌpʃ(ə)n / 英 kəˈrʌpʃ(ə)n]
+n. 贪污，腐败；堕落，腐蚀；（电脑上资讯的）破坏，损坏；（语言）变体；<古>腐坏，腐烂
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Corruption is dishonesty and illegal behaviour by people in positions of authority or power. 腐败
+   ≫   The president faces 54 charges of corruption and tax evasion.  总统面临着54项腐败和逃税的指控。
+
+========================================================================
+>>> Modular
+------------------------------------------------------------------------
+modular    [英 ˈmɒdjələ(r) / 美 ˈmɑːdʒələr]
+adj. （尤指英国大学里的课程 ）分单元的（由独立单元组成，学生可选修）；组合式的；模块化的；模数的；有标准组件的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Modular means relating to a part of a machine, especially a computer, which performs a particular function. 组件的 (尤指电脑的一部分)
+   ≫   Its modular architecture allows modules to be swapped in and out depending on the processor and operating system.  它的组件结构使得各组件可以依靠处理器和操作系统进行进出交换。
+2. (ADJ) In building, modular means relating to the construction of buildings in parts called modules. (建筑) 组合式的
+   ≫   They ended up buying a modular home on a two-acre lot.  他们最终买了一所占地两英亩的组合式房屋。
+
+========================================================================
+>>> Redundancy
+------------------------------------------------------------------------
+redundancy    [美 rɪˈdʌndənsi / 英 rɪˈdʌndənsi]
+n. <英> （因劳动力过剩而造成的）裁员，解雇；多余，累赘；复置装置，冗余（机器、系统等某部件发生故障后的替代装置）
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Redundancy means being made redundant. 裁员 [商业]
+   ≫   Thousands of bank employees are facing redundancy as their employers cut costs.  数千名银行职员面临裁员，因为他们的雇主要削减成本。
+2. (N-COUNT) When there are redundancies, an organization tells some of its employees to leave because their jobs are no longer necessary or because the organization can no longer afford to pay them. 多余的员工 [英国英语] [商业]
+
+========================================================================
+>>> Interleaved
+------------------------------------------------------------------------
+interleaved    [美 ˌɪntərˈliv]
+v. 夹（空白纸等）于（书页）间；（尤指将片状物）插入；交替（两个或两个以上数码信号）；交叉存取（interleave 的过去式及过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to intersperse (with), esp alternately, as the illustrations in a book (with protective leaves) 插入纸
+
+========================================================================
+>>> Compliant
+------------------------------------------------------------------------
+compliant    [美 kəmˈplaɪənt / 英 kəmˈplaɪənt]
+adj. 服从的，顺从的；（与规定或标准）符合的，一致的；（物理，医）有可塑性的，柔量的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that someone is compliant, you mean they willingly do what they are asked to do. 顺从的 [正式]
+   ≫   ...a docile and compliant workforce.  ...一个驯服而顺从的劳动力。
+
+========================================================================
+>>> theoretic
+------------------------------------------------------------------------
+theoretic    [美 ˌθiːəˈretɪk / 英 ˌθɪəˈretɪk]
+adj. 理论上的；空谈的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) → same as theoretical
+2. (N) → same as theoretics
+
+========================================================================
+>>> seamless
+------------------------------------------------------------------------
+seamless    [美 ˈsiːmləs / 英 ˈsiːmləs]
+adj. 无缝的；无缝合线的；无伤痕的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use seamless to describe something that has no breaks or gaps in it or which continues without stopping. 无缝的; 不停顿的
+   ≫   It was a seamless procession of wonderful electronic music.  那是一曲流畅美妙的电子音乐。
+2. (ADV) seamlessly ADV 无缝地; 不停顿地 [ADV with v]
+   ≫   It's a class move, allowing new and old to blend seamlessly.  这是一次班级活动，让新老同学亲密无间地融合在一起。
+
+========================================================================
+>>> Simultaneous
+------------------------------------------------------------------------
+simultaneous    [美 ˌsaɪm(ə)lˈteɪniəs / 英 ˌsɪm(ə)lˈteɪniəs]
+adj. 同时发生的，同步的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Things which are simultaneous happen or exist at the same time. 同时的
+   ≫   ...the simultaneous release of the book and the CD.  …书与激光唱片的同时发行。
+2. (ADV) simultaneously ADV 同时地
+   ≫   The two guns fired almost simultaneously.  两支枪几乎同时开火。
+
+========================================================================
+>>> infrastructure
+------------------------------------------------------------------------
+infrastructure    [英 ˈɪnfrəstrʌktʃə(r) / 美 ˈɪnfrəstrʌktʃər]
+n. 下面结构；永久性军事设施；基础设施，基础建设
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The infrastructure of a country, society, or organization consists of the basic facilities such as transportation, communications, power supplies, and buildings, which enable it to function. (国家、社会、组织赖以行使职能的) 基础设施
+   ≫   ...improvements in the country's infrastructure.  …国家基础设施的改善。
+
