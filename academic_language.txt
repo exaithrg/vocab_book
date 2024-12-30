@@ -44247,3 +44247,13 @@ n. 结合，同时发生；连词；（占星术中两个天体的）相合
 3. (PHRASE) If one thing is done in conjunction with another, the two things are done or used together. 与…一起 (做、用) [usu PHR 'with' n]
    ≫   Textbooks are designed to be used in conjunction with classroom teaching.  教科书被设计成与课堂教学配合使用。
 
+========================================================================
+>>> arbitrator
+------------------------------------------------------------------------
+arbitrator    [美 ˈɑːrbɪtreɪtər / 英 ˈɑːbɪtreɪtə(r)]
+n. 公断人，仲裁人（或机构）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The third arbitrator shall be the presiding arbitrator. 第三名仲裁员是首席仲裁员。
+≫   An Arbitrator is a neutral person who resolves disputes between parties. 仲裁员是解决双方当事人争议的持中立态度的人。
+≫   When the parties cannot agree on contractual terms, an arbitrator decides. 当双方当事人无法就合同条款达成协议，则由仲裁员进行裁定。
+
