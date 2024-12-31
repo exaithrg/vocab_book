@@ -73830,3 +73830,30 @@ n. 进化（论）；演变，发展；（气体的）释放，（热量的）�
 2. (N-VAR) Evolution is a process of gradual development in a particular situation or thing over a period of time. 演化; 发展 [正式]
    ≫   ...a crucial period in the evolution of modern physics.  …现代物理学发展过程中的一个关键时期。
 
+========================================================================
+>>> actuator
+------------------------------------------------------------------------
+actuator    [美 ˈæktʃueɪtər / 英 ˈæktʃʊeɪtə(r)]
+n. [自] 执行机构；激励者；促动器；致动器
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Actuator Positioning (Seek Time). 驱动器定位(寻道时间)。
+≫   The input to the actuator is an event object. 执行者的输入是某个事件对象。
+≫   The Actuator component acts upon the environment. 执行者组件对环境采取行动。
+
+========================================================================
+>>> divine
+------------------------------------------------------------------------
+divine    [美 dɪˈvaɪn / 英 dɪˈvaɪn]
+adj. 神的，天赐的；绝妙的，极令人愉快的
+v. （凭直觉）猜测，推测；占卜，预测；（通过探矿术）发现（水源）
+n. <旧>牧师，神学家；天意，上帝（the Divine）
+【名】 （Divine）（英）迪万（人名）
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use divine to describe something that is provided by or relates to a god or goddess. 神的; 神圣的
+   ≫   He suggested that the civil war had been a divine punishment.  他暗示此次内战是上天的惩罚。
+2. (ADV) divinely ADV 如神般地; 神圣地
+   ≫   The law was divinely ordained.  此法律为神授。
+3. (ADJ) People use divine to express their pleasure or enjoyment of something. 极好的; 绝妙的
+   ≫   Her carrot cake is divine.  她的胡萝卜饼好吃极了。
+
