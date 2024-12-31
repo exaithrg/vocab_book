@@ -44380,3 +44380,23 @@ n. 下面结构；永久性军事设施；基础设施，基础建设
 1. (N-VAR) The infrastructure of a country, society, or organization consists of the basic facilities such as transportation, communications, power supplies, and buildings, which enable it to function. (国家、社会、组织赖以行使职能的) 基础设施
    ≫   ...improvements in the country's infrastructure.  …国家基础设施的改善。
 
+========================================================================
+>>> concatenate
+------------------------------------------------------------------------
+concatenate    [美 kənˈkæt(ə)nˌeɪt / 英 kɒnˈkætɪˌneɪt]
+v. 连接，连结，使连锁
+adj. 连接的，连结的，连锁的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to link or join together, esp in a chain or series 连接
+2. (ADJ) linked or joined together 连接的
+
+========================================================================
+>>> 2025
+------------------------------------------------------------------------
+2025
+two thousand and twenty-five
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The address is 2025 M Street, NW, Washington, DC, 20036. 地址是华盛顿哥伦比亚特区，华盛顿西北，M街2025号，邮编20036。《柯林斯英汉双解大词典》
+≫   It's said that a new bridge will be built in my hometown in 2025. 据说我的家乡将在2025年建一座新桥。
+≫   Hopefully in 2025 we will no longer be e-mailing each other, for we will have developed more convenient electronic communication tools by then. 希望到2025年，我们将不再互发电子邮件，因为到那时，我们将开发出更方便的电子通信工具。
+
