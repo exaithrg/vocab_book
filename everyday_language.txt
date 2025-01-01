@@ -76592,3 +76592,27 @@ n. （Mantissa）人名；（刚（布））曼蒂萨
 1. (N) the fractional part of a common logarithm representing the digits of the associated number but not its magnitude (对数的)尾数
    ≫   the mantissa of 2.4771 is .4771  
 
+========================================================================
+>>> trail
+------------------------------------------------------------------------
+trail    [英 treɪl / 美 treɪl]
+n. 痕迹，踪迹；（人或动物的）足迹，嗅迹；（乡间的）小路，小径；（特定）路线，路径；一系列（坏事或有害事件）；（尤指细长）一缕，一串；<美>滑雪坡，滑雪道，越野滑雪路线；电影或广播的预告片；（炮架的）架尾
+v. 拖，拉；没精打采地走，拖沓地走；（在竞赛或选举中）落后，输；跟踪，追踪；蔓生，蔓延，被搁置；垂下；慢慢移动，缓缓流动；（声音，喇叭）渐弱；事先宣传，预告（影片，节目等）；喷注（泥釉）
+【名】 （Trail）（美）特雷尔（人名）
+★★★ CET4 TEM4 trailing,trailed,trails
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A trail is a rough path across open country or through forests. (乡间或林中的) 崎岖小路
+   ≫   He was following a trail through the trees.  他正沿着一条崎岖小路穿过树林。
+2. (N-COUNT) A trail is a route along a series of paths or roads, often one that has been planned and marked out for a particular purpose. (有特定目的的) 路线; 路径
+   ≫   ...a large area of woodland with hiking and walking trails.  …有徒步旅行和散步路线的大片林区。
+3. (N-COUNT) A trail is a series of marks or other signs of movement or other activities left by someone or something. 痕迹
+   ≫   Everywhere in the house was a sticky trail of orange juice.  房子里到处都是粘乎乎的橙汁印迹。
+4. (V-T) If you trail someone or something, you follow them secretly, often by finding the marks or signs that they have left. 跟踪
+   ≫   Two detectives were trailing him.  两个侦探正在跟踪他。
+5. (N-COUNT) You can refer to all the places that a politician visits in the period before an election as their campaign trail. (竞选巡回宣传) 路线
+   ≫   During a recent speech on the campaign trail, he was interrupted by hecklers.  在最近的一次竞选巡回演讲中，他被诘问者打断了。
+6. (V-T/V-I) If you trail something or it trails, it hangs down loosely behind you as you move along. 拖
+   ≫   She came down the stairs slowly, trailing the coat behind her.  她慢慢地走下楼梯，身后拖着大衣。
+7. (PHRASE) If you are on the trail of a person or thing, you are trying hard to find them or find out about them. 追踪
+   ≫   The police were hot on his trail.  警方正紧紧跟踪他。
+
