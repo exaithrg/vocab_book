@@ -44410,3 +44410,17 @@ two thousand and twenty-five
 ≫   It's said that a new bridge will be built in my hometown in 2025. 据说我的家乡将在2025年建一座新桥。
 ≫   Hopefully in 2025 we will no longer be e-mailing each other, for we will have developed more convenient electronic communication tools by then. 希望到2025年，我们将不再互发电子邮件，因为到那时，我们将开发出更方便的电子通信工具。
 
+========================================================================
+>>> affiliated
+------------------------------------------------------------------------
+affiliated    [美 əˈfɪlieɪtɪd / 英 əˈfɪlieɪtɪd]
+adj. 隶属的，附属的；（专业人员如医生或律师）与……有正式关系的，为……工作的
+v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成员（affiliate 的过去式和过去分词）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If an organization is affiliated with another larger organization, it is officially connected with the larger organization or is a member of it. 附属的 [正式] [v-link ADJ 'with' n, ADJ n]
+   ≫   The consortium is a nonprofit group affiliated with the University of Chicago.  这个联合会是一个附属于芝加哥大学的非盈利性团体。
+2. (ADJ) If a professional person, such as a lawyer or doctor, is affiliated with an organization, they are officially connected with that organization or do some official work for it. 有关联的 [正式] [v-link ADJ 'with/to' n, ADJ n]
+   ≫   He will remain affiliated with the firm as a special associate director.  他会作为特别副主管，继续与这家公司保持联系。
+   ≫   ...our affiliated members.  …我们的附属会员。
+
