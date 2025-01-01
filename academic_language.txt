@@ -44424,3 +44424,236 @@ v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成
    ≫   He will remain affiliated with the firm as a special associate director.  他会作为特别副主管，继续与这家公司保持联系。
    ≫   ...our affiliated members.  …我们的附属会员。
 
+========================================================================
+>>> interdisciplinary
+------------------------------------------------------------------------
+interdisciplinary    [美 ˌɪntərˈdɪsəplɪneri / 英 ˌɪntədɪsəˈplɪnəri]
+adj. 跨学科的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Interdisciplinary means involving more than one academic subject. 跨学科的 [usu ADJ n]
+   ≫   ...interdisciplinary courses combining psychology, philosophy and linguistics.  ...包括心理学、哲学和语言学的跨学科课程。
+
+========================================================================
+>>> nonviolate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> nonvolate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> nonvolatile
+------------------------------------------------------------------------
+nonvolatile    [英 nɒnˈvɒlətaɪl]
+adj. 非易失性的；非挥发性的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It would take a major explosion to scatter nonvolatile elements beyond the immediate area. 只有在发生大爆炸的情况下，不易挥发元素才会散落到周边地区以外更远的地方。
+≫   In this case, using a fast device, such as one with fast write nonvolatile cache, will optimize performance. 在这种情况下，高速设备(例如带有高速写非易失高速缓存的设备)的使用将优化性能。
+≫   The race has been on to build nonvolatile high-speed memories that will allow computers to be turned on and off like televisions. 制造一种能使计算机像电视机那样能随时开关的非易失性高速储存器的竞争一直在进行。
+
+========================================================================
+>>> volatile
+------------------------------------------------------------------------
+volatile    [美 ˈvɑːlət(ə)l / 英 ˈvɒlətaɪl]
+adj. 易变的，动荡不定的，反复无常的；（情绪）易变的，易怒的，突然发作的；（液体或固体）易挥发的，易气化的；（计算机内存）易失的
+n. 挥发物；<罕>有翅的动物
+【名】 （Volatile）（意）沃拉蒂莱（人名）
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A situation that is volatile is likely to change suddenly and unexpectedly. 变化无常的
+   ≫   There have been riots before and the situation is volatile.  先前一直就有暴乱，局势变化无常。
+2. (ADJ) If someone is volatile, their mood often changes quickly. 情绪不稳定的
+   ≫   He accompanied the volatile actress to Hollywood the following year.  他次年陪那个情绪反复无常的女演员去了好莱坞。
+3. (ADJ) A volatile liquid or substance is one that will quickly change into a gas. 易挥发的 [技术]
+   ≫   The blast occurred when volatile chemicals exploded.  冲击波是在易挥发的化学品爆炸时产生的。
+
+========================================================================
+>>> harvesting
+------------------------------------------------------------------------
+harvesting    [美 ˈhɑːrvɪstɪŋ / 英 ˈhɑːvɪstɪŋ]
+v. 收割（庄稼）；捕猎（动物）；（为实验或移植而）切除（人或动物的细胞、器官等）；获得（成果）（harvest 的现在分词）
+n. 收割，收获
+★★ CET4 TEM4 harvesting,harvested,harvests
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The harvest is the gathering of a crop. 收割
+   ≫   There was about 300 million tons of grain in the fields at the start of the harvest.  收割伊始田间大约有三亿吨的谷物。
+2. (N-COUNT) A harvest is the crop that is gathered in. 收成
+   ≫   Millions of people are threatened with starvation as a result of drought and poor harvests.  数百万人因干旱和歉收正受到饥饿的威胁。
+3. (V-T) When you harvest a crop, you gather it in. 收割
+   ≫   Rice farmers here still plant and harvest their crops by hand.  这儿的稻农仍然靠双手种植和收割庄稼。
+
+========================================================================
+>>> energy-harvesting
+------------------------------------------------------------------------
+energy harvesting
+能量收集：通过从环境中捕获和转换能量的过程，将其用于供电或储存。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Solar panels are not the only energy-harvesting strategy under the sun. 太阳能电池板不是利用太阳能大量生产能源的唯一策略。
+≫   Wireless charging is not intended as a sole energy source, but rather to be used in conjunction with other energy harvesting technologies, such as handset casings embedded with solar cell materials. 无线充电并非是设想中唯一的能量来源，而是与其他能量收集技术“联袂协作”，比如内置太阳能电池材料的手机外壳。
+≫   The new research is interesting, said Michael McAlpine, a scientist at Princeton University who also builds energy harvesting devices. 这项最新的研究非常有趣，迈克尔·麦艾尔派恩（Michael McAlpine）说。 他是美国普林斯顿大学（Princeton University）的一位科学家，也在制造获取能量的设备。
+
+========================================================================
+>>> auxiliary
+------------------------------------------------------------------------
+auxiliary    [美 ɔːɡˈzɪliəri / 英 ɔːɡˈzɪliəri]
+adj. 辅助的；备用的，后备的
+n. 助手，辅助人员；外国援军士兵，雇佣兵；附属机构；志愿队；辅助舰船；助动词
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Auxiliary equipment is extra equipment that is available for use when necessary. 备用的 [ADJ n]
+   ≫   ...an auxiliary motor.  …一台备用的发动机。
+2. (ADJ) Auxiliary staff and troops assist other staff and troops. 后备的 [ADJ n]
+   ≫   The government's first concern was to augment the army and auxiliary forces.  政府首要关注的是扩充军队与后备军。
+3. (N-COUNT) An auxiliary is a person who is employed to assist other people in their work. Auxiliaries are often medical workers or members of the armed forces. 助手
+   ≫   Nursing auxiliaries provide basic care, but are not qualified nurses.  助理护士们提供基本护理，但没有护士资格。
+4. (N-COUNT) In grammar, an auxiliary or auxiliary verb is a verb that is used with a main verb, for example, to form different tenses or to make the verb passive. In English, the basic auxiliary verbs are "be," "have," and "do." Modal verbs such as "can" and "will" are also sometimes called auxiliaries. 助动词
+
+========================================================================
+>>> Fabricated
+------------------------------------------------------------------------
+fabricated    [美 ˈfæbrɪkeɪtɪd / 英 ˈfæbrɪkeɪtɪd]
+v. 编造；制造（fabricate 的过去式及过去分词）
+adj. 虚构的
+★ CET6 TEM8 fabricating,fabricated,fabricates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone fabricates information, they invent it in order to deceive people. 伪造
+   ≫   All four claim that officers fabricated evidence against them.  4人全部声称官员们伪造了不利于他们的证据。
+2. (N-VAR) fabrication N-VAR 伪造
+   ≫   She described the interview as a "complete fabrication."  她把这次采访描述为“纯属虚构”。
+
+========================================================================
+>>> miniaturize
+------------------------------------------------------------------------
+miniaturize    [美 ˈmɪnətʃəraɪz / 英 ˈmɪnətʃəraɪz]
+v. 使小型化，使微型化；使成为缩影
+miniaturizing,miniaturized,miniaturizes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you miniaturize something such as a machine, you produce a very small version of it. 使小型化; 使微型化
+   ≫   ...the problems of further miniaturizing the available technologies.  ...进一步实现现有技术微型化的各种问题。
+   ≫   ...miniaturized amplifiers and receivers.  ...微型扩音器与接收器。
+2. (N-UNCOUNT) miniaturization N-UNCOUNT
+   ≫   ...increasing miniaturization in the computer industry.  ...计算机产业的日益微型化。
+
+========================================================================
+>>> roadmap
+------------------------------------------------------------------------
+roadmap    [美 ˈroʊdmæp]
+n. 路标（同 road map）；计划，策略
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you do need a roadmap, please talk to your Software Sales rep to set up a briefing. 如果您确实需要一个路线图，请与您的软件销售代表谈一谈，以建立一个简报。
+≫   My own shelves are a kind of roadmap through my life, telling a chronological tale. 我自己的书架是我的某种人生路标，从时间维度上讲述了我的故事。
+≫   Draw the improvement roadmap. 绘制改进路线图。
+
+========================================================================
+>>> badging
+------------------------------------------------------------------------
+badging    [美 ˈbædʒɪŋ / 英 ˈbædʒɪŋ]
+v. 给予……徽章；用徽章装饰（badge 的现在分词形式）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A badge is a piece of metal, cloth or plastic which you wear or carry to show that you work for a particular organization, or that you have achieved something. (表明身份的) 徽章
+   ≫   ...a police officer's badge.  …警官的徽章。
+2. (N-COUNT) A badge is a small piece of metal or plastic which you wear in order to show that you support a particular movement, organization, or person. You fasten a badge to your clothes with a pin. (表明支持对象的) 徽章 [英国英语]
+
+========================================================================
+>>> aims and objectives
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5520
+aims and objectives
+目标和目的：指一个组织、项目或计划所追求的长期和短期目标和目的。
+
+========================================================================
+>>> ethtic
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ethtics
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> controversies
+------------------------------------------------------------------------
+controversies
+n. 争论；辩论（controversy 的复数）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Controversy is a lot of discussion and argument about something, often involving strong feelings of anger or disapproval. 论战
+   ≫   The proposed cuts have caused considerable controversy.  削减的提议引起了巨大的争议。
+
+========================================================================
+>>> debates
+------------------------------------------------------------------------
+debates    [美 dɪˈbeɪts]
+n. [法]辩论；讨论（debate 的复数）
+v. [法]辩论；讨论（debate 的三单形式）
+★★★★ CET4 TEM4 debating,debated,debates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A debate is a discussion about a subject on which people have different views. 辩论
+   ≫   An intense debate is going on within the Israeli government.  一场激烈的争论正在以色列政府内部进行。
+   ≫   There has been a lot of debate among scholars about this.  在学者中有很多关于此问题的辩论。
+2. (N-COUNT) A debate is a formal discussion, for example, in a parliament or institution, in which people express different opinions about a particular subject and then vote on it. (议会投票前的) 正式讨论
+   ≫   He is expected to force a debate in Congress on his immigration reform.  他预期会推动一个关于他的移民改革的正式讨论。
+3. (V-RECIP) If people debate a topic, they discuss it fairly formally, putting forward different views. You can also say that one person debates a topic with another person. 辩论
+   ≫   The United Nations Security Council will debate the issue today.  联合国安理会今天将辩论该问题。
+   ≫   Scientists were debating whether an asteroid was about to hit the Earth.  科学家们在争论一颗小行星是否要撞上地球。
+4. (V-T) If you debate whether to do something or what to do, you think or talk about possible courses of action before deciding exactly what you are going to do. 考虑
+   ≫   Taggart debated whether to have yet another double vodka.  塔格特考虑着是否要再来一杯双份伏特加。
+
+========================================================================
+>>> timeline
+------------------------------------------------------------------------
+timeline    [美 ˈtaɪmlaɪn / 英 ˈtaɪmlaɪn]
+n. 时间轴，时间线；大事年表
+alsotimeline
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A timeline is a visual representation of a sequence of events, especially historical events. (尤指历史事件) 年表
+   ≫   The timeline shows important events from the Earth's creation to the present day.  该年表列出了从地球诞生迄今的重要事件。
+2. (N-COUNT) A timeline is the length of time that a project is expected to take. 限期 [商业]
+   ≫   Use your deadlines to establish the timeline for your research plan.  根据最后期限为你的研究计划设定时间表。
+
+========================================================================
+>>> timetable
+------------------------------------------------------------------------
+timetable    [美 ˈtaɪmteɪb(ə)l / 英 ˈtaɪmteɪb(ə)l]
+n. （公共汽车、火车、飞机等的）时刻表；（学校的）课程表；日程表，时间表
+v. 为……安排时间；（学校里）把……列入课程表，排课
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A timetable is a plan of the times when particular events will take place. 时间表
+   ≫   The timetable was hopelessly optimistic.  这个时间表过于乐观。
+2. (N-COUNT) A timetable is a list of the times when trains, boats, buses, or aeroplanes are supposed to arrive at or leave from a particular place. (车、船或飞机等的) 时刻表 [英国英语]
+   ≫   ...a bus timetable.  …一份公共汽车时刻表。
+3. (N-COUNT) In a school or college, a timetable is a list that shows the times in the week at which particular subjects are taught. You can also refer to the range of subjects that a student learns or the classes that a teacher teaches as their timetable. 课程表 [英国英语]
+   ≫   He began college with a timetable that included biology, calculus and political science.  他开始了大学生活，课程表上包括生物、微积分和政治学。
+
+========================================================================
+>>> chedule
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> schedule
+------------------------------------------------------------------------
+schedule    [美 ˈskedʒuːl / 英 ˈʃedjuːl]
+n. 计划（表），进度表；<美>（公共汽车、火车等的）时间表；（价目、费用等的）清单，一览表；（电视或电台的）节目表；<美>（学校的）课程表；<法律> 附件（尤指表格、单据等）；（英国所得税制的）报税单
+v. 安排，预定；列入，收进（正式目录、清单等中）；<英> 把（建筑物）列为文物保护单位
+★★★★ CET4 TEM4 scheduling,scheduled,schedules
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A schedule is a plan that gives a list of events or tasks and the times at which each one should happen or be done. 日程安排
+   ≫   He has been forced to adjust his schedule.  他已被迫调整了日程安排。
+2. (N-UNCOUNT) You can use schedule to refer to the time or way something is planned to be done. For example, if something is completed on schedule, it is completed at the time planned. 计划的时间
+   ≫   The jet arrived in Johannesburg two minutes ahead of schedule.  那架喷气式飞机比预定时间提前两分钟到达了约翰内斯堡。
+   ≫   Everything went according to schedule.  一切都是按计划进行的。
+3. (V-T) If something is scheduled to happen at a particular time, arrangements are made for it to happen at that time. 计划; 安排 [usu passive]
+   ≫   The space shuttle had been scheduled to blast off at 04:38.  这架航天飞机计划于04:38发射升空。
+   ≫   A presidential election was scheduled for last December.  一场总统大选计划在去年12月举行。
+4. (N-COUNT) A schedule is a written list of things, for example, a list of prices, details, or conditions. (价格、细节或条件的) 明细表
+   ≫   Ticket plans and a pricing schedule will not be released until later this year.  售票计划和价目表要到今年晚些时候才会公布。
+5. (N-COUNT) A schedule is a list of all the times when trains, boats, buses, or aircraft are supposed to arrive at or leave a particular place. 时刻表 [美国英语]
+6. (N-COUNT) In a school or college, a schedule is a diagram that shows the times in the week at which particular subjects are taught. 课程表 [美国英语]
+

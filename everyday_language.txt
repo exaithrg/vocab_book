@@ -75749,3 +75749,846 @@ v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成
    ≫   He will remain affiliated with the firm as a special associate director.  他会作为特别副主管，继续与这家公司保持联系。
    ≫   ...our affiliated members.  …我们的附属会员。
 
+========================================================================
+>>> football pitch
+------------------------------------------------------------------------
+football pitch    [美 ˈfʊtbɔːl pɪtʃ]
+足球场：足球比赛的比赛场地。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He spends all his spare time on the football pitch. 他把所有的业余时间都花在足球场上。
+≫   Rooney is famous for losing his cool on the football pitch. 鲁尼在球场上的性格是出了名的火爆，他很容易失去理智。
+≫   "That was the most fun I had on a football pitch," he said later. 他后来回忆说，“那是我在球场上最愉快的经历。”
+
+========================================================================
+>>> pitch
+------------------------------------------------------------------------
+pitch    [美 pɪtʃ / 英 pɪtʃ]
+n. <英>体育场地，球场；程度，强度；音准，音高；推销用语；投球；沥青，柏油；（船或飞机的）颠簸；倾斜度，高度；<英>摊位，（街头艺人的）表演场所；（高尔夫）下旋高球；<英>露营地；（技）螺距，节距
+v. 扔，抛，掷；（棒球中）投（球）；击地，（使球）定点落地；重跌，坠落；（船或飞机）颠簸；把……定于某水平；使（产品）针对，面向；推销；为……定音高；向下倾斜；扎，搭建；（高尔夫）击下旋高球；用石头铺（路）；（酿酒用语）给（麦芽汁）加酵母；<古或西印度>盖上沥青，涂上沥青
+★★★ CET4 pitching,pitched,pitches
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you pitch something somewhere, you throw it with some force, usually aiming it carefully. 投掷
+   ≫   Simon pitched the empty bottle into the lake.  西蒙把空瓶子投进湖里。
+2. (V-T) In the game of baseball, when you pitch the ball, you throw it to the batter for them to hit it. 投 (球) 给击球手
+   ≫   We passed long, hot afternoons pitching a baseball.  我们以打棒球来消磨一个个漫长的炎热午后。
+3. (V-T/V-I) To pitch somewhere means to fall forwards suddenly and with a lot of force. (向前) 跌倒
+   ≫   The movement took him by surprise, and he pitched forward.  突然的移动让他猝不及防，向前跌倒。
+   ≫   Alan staggered sideways, pitched head-first over the low wall and fell into the lake.  艾伦两侧摇晃着，一头栽过矮墙，掉进湖里。
+4. (V-T) If someone is pitched into a new situation, they are suddenly forced into it. 迫使进入 (一种新的处境)
+   ≫   They were being pitched into a new adventure in which they would have to fight the whole world.  他们当时正被胁迫参与到一次不得不与整个世界抗衡的新冒险中。
+5. (N) the degree of elevation or depression 程度
+6. (N-UNCOUNT) The pitch of a sound is how high or low it is. 音调
+   ≫   He raised his voice to an even higher pitch.  他将嗓门提得更高了。
+7. (V-T) If a sound is pitched at a particular level, it is produced at the level indicated. 使 (音调)达到(指定水准) [usu passive]
+   ≫   His cry is pitched at a level that makes it impossible to ignore.  他哭声之大让人不可能置若罔闻。
+   ≫   His voice was pitched high, the words muffled by his crying.  他的嗓门提得很高，说的话都被他的叫喊声压得听不清了。
+8. (V-T) If something is pitched at a particular level or degree of difficulty, it is set at that level. 给…设定水平 (或难度)
+   ≫   While this is very important material I think it's probably pitched at too high a level for our students.  尽管这是个很重要的材料，但我认为它的难度太大，不适合我们的学生。
+9. (N-SING) If something such as a feeling or a situation rises to a high pitch, it rises to a high level. (感情或形势等的) 程度
+   ≫   The public's feelings were at a high pitch of indignation.  公众的愤怒情绪达到了极点。
+10. (V-T) If someone pitches an idea for something such as a new product, they try to persuade people to accept the idea. 力荐(某主张)
+   ≫   My agent has pitched the idea to my editor in New York.  我的代理人已向我在纽约的编辑力荐这个想法。
+11. (N-COUNT) A pitch is an area of ground that is marked out and used for playing a game such as football, cricket, or hockey. 比赛场地 [英国英语]
+   ≫   ...a football pitch.  …一个足球场。
+   ≫   He was the fastest thing I ever saw on a baseball field.  他是我见过的在棒球场上跑得最快的家伙。
+12. (N) any of various heavy dark viscid substances obtained as a residue from the distillation of tars 沥青 → see also coal-tar pitch
+13. (V) to apply pitch to (something) 用沥青覆盖(某物)
+14. (PHRASE) If someone makes a pitch for something, they try to persuade people to do or buy it. 游说
+   ≫   The president speaks in New York today, making another pitch for his economic programme.  总统今天在纽约发表讲话，再一次游说他的经济计划。
+
+========================================================================
+>>> pitcher
+------------------------------------------------------------------------
+pitcher    [美 ˈpɪtʃər / 英 ˈpɪtʃə(r)]
+n. 投手；大水罐
+n. （Pitcher）人名；（英）皮彻
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pitcher is a cylindrical container with a handle and is used for holding and pouring liquids. 壶 [美国英语]
+   ≫   My sister fetched a pitcher of iced water.  我妹妹取来一壶冰水。
+2. (N-COUNT) In baseball, the pitcher is the person who throws the ball to the batter, who tries to hit it. (棒球) 投手
+
+========================================================================
+>>> tar
+------------------------------------------------------------------------
+tar    [美 tɑːr / 英 tɑː(r)]
+n. 焦油；柏油；水手
+vt. 涂以焦油；玷污
+n. （Tar）人名；（东南亚国家华语）大；（罗、塞、匈、阿拉伯）塔尔
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Tar is a thick black sticky substance that is used especially for making roads. 沥青
+   ≫   The oil has hardened to tar.  油已硬化成沥青了。
+2. (N-UNCOUNT) Tar is one of the poisonous substances contained in tobacco. (烟草中的) 焦油
+   ≫   ...strict guidelines as to the amount of tar contained in cigarettes.  …关于香烟中焦油含量的严格的指导原则。
+3. (V) to coat with tar 用焦油或沥青涂抹
+
+========================================================================
+>>> tars
+------------------------------------------------------------------------
+tars    [美 tɑːrz]
+n. 水手（tar 的复数）
+v. 用沥青涂抹（tar 的第三人称单数）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Tar is a thick black sticky substance that is used especially for making roads. 沥青
+   ≫   The oil has hardened to tar.  油已硬化成沥青了。
+2. (N-UNCOUNT) Tar is one of the poisonous substances contained in tobacco. (烟草中的) 焦油
+   ≫   ...strict guidelines as to the amount of tar contained in cigarettes.  …关于香烟中焦油含量的严格的指导原则。
+3. (V) to coat with tar 用焦油或沥青涂抹
+
+========================================================================
+>>> sailor
+------------------------------------------------------------------------
+sailor    [美 ˈseɪlər / 英 ˈseɪlə(r)]
+n. 水手，船员；驾船人，帆船驾驶者；喜好航海的人（尤指富有经验者）
+【名】 （Sailor）（英）赛勒（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A sailor is someone who works on a ship or sails a boat. 船员; 船只驾驶员
+   ≫   ...sailors, marines and Coast Guard personnel.  …船员们、海军陆战队士兵们和海岸警卫队人员。
+
+========================================================================
+>>> seaman
+------------------------------------------------------------------------
+seaman    [美 ˈsiːmən / 英 ˈsiːmən]
+n. 海员，水手；水兵
+n. （Seaman）人名；（英）西曼；（意、瑞典）塞亚曼
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A seaman is a sailor, especially one who is not an officer. 海员
+   ≫   The men emigrate to work as seamen.  这些男人移居国外当海员。
+
+========================================================================
+>>> leisure
+------------------------------------------------------------------------
+leisure    [美 ˈliːʒər / 英 ˈleʒə(r)]
+n. 闲暇，业余时间；休闲活动
+adj. 空闲的，有闲的；业余的
+【名】 （Leisure）（英）莱热（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Leisure is the time when you are not working and you can relax and do things that you enjoy. 空闲时间
+   ≫   ...a relaxing way to fill my leisure time.  …我消磨空闲时间的一种放松方式。
+2. (PHRASE) If someone does something at leisure or at their leisure, they enjoy themselves by doing it when they want to, without hurrying. 悠闲地
+   ≫   You will be able to stroll at leisure through the gardens.  你将能在花园里悠闲地散步。
+
+========================================================================
+>>> arder
+------------------------------------------------------------------------
+arder
+n.<废语>耕作；休耕；休耕地
+
+========================================================================
+>>> recreation
+------------------------------------------------------------------------
+recreation    [美 ˌriːkriˈeɪʃn; ˌrekriˈeɪʃən / 英 ˌriːkriˈeɪʃn; ˌrekriˈeɪʃən]
+n. 娱乐（活动），消遣（活动）；重现，重建
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Recreation consists of things that you do in your spare time to relax. 娱乐
+   ≫   Saturday afternoon is for recreation and outings.  周六下午是娱乐和外出的时间。
+2. (N-COUNT) A recreation of something is the process of making it exist or seem to exist again in a different time or place. 重现; 重建
+   ≫   They are planning to build a faithful recreation of the original frontier town.  他们正计划建造一座和原来边境城镇一模一样的复制品。
+
+========================================================================
+>>> entertainment
+------------------------------------------------------------------------
+entertainment    [英 ˌentəˈteɪnmənt / 美 ˌentərˈteɪnmənt]
+n. 娱乐，娱乐表演；招待，款待
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Entertainment consists of performances of plays and movies, and activities such as reading and watching television, that give people pleasure. 娱乐
+   ≫   ...the world of entertainment and international stardom.  …国际娱乐界及明星界。
+
+========================================================================
+>>> amuse
+------------------------------------------------------------------------
+amuse    [英 əˈmjuːz / 美 əˈmjuːz]
+v. 逗乐，逗笑；（提供）消遣，（使）娱乐
+★ CET4 TEM4 amusing,amused,amuses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something amuses you, it makes you want to laugh or smile. 使发笑
+   ≫   The thought seemed to amuse him.  这个想法好像让他觉得好笑。
+2. (V-T) If you amuse yourself, you do something in order to pass the time and not become bored. 使消遣
+   ≫   I need distractions. I need to amuse myself so I won't keep thinking about things.  我需要娱乐。我需要自我消遣，这样我才不会一直想事情。
+
+========================================================================
+>>> philharmonic
+------------------------------------------------------------------------
+philharmonic    [英 ˌfɪlɑːˈmɒnɪk / 美 ˌfɪlərˈmɑːnɪk]
+adj. 交响乐团的；爱好音乐的
+n. 交响乐团；音乐爱好者；爱乐团体
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A philharmonic orchestra is a large orchestra that plays classical music. 演奏古典音乐的; 爱乐的 [ADJ n]
+   ≫   The Lithuanian Philharmonic Orchestra played Beethoven's Ninth Symphony.  立陶宛爱乐交响乐团演奏了贝多芬的《第九交响曲》。
+2. (N-IN-NAMES) Philharmonic is also a noun. 可作名词
+   ≫   He will conduct the Los Angeles Philharmonic in the final concert of the season.  他将在本季音乐会压轴表演上指挥洛杉矶爱乐乐团演奏。
+
+========================================================================
+>>> harmonic
+------------------------------------------------------------------------
+harmonic    [美 hɑːrˈmɑːnɪk / 英 hɑːˈmɒnɪk]
+adj. 和声的；（与）声音和谐悦耳（有关）的；（有关）调和级数（或数列）的；谐波的，谐的；数律分析法的
+n. 泛音；和声；谐波；数律分析法
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Harmonic means composed, played, or sung using two or more notes which sound right and pleasing together. 和声的
+   ≫   I had been looking for ways to combine harmonic and rhythmic structures.  我一直在寻求把和声与节奏结和起来的方法。
+
+========================================================================
+>>> philharmonic orchestra
+------------------------------------------------------------------------
+philharmonic orchestra
+爱乐乐团：一支由多名音乐家组成的大型乐团，通常包括弦乐器、木管乐器、铜管乐器和打击乐器等不同类型的乐器。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Lithuanian Philharmonic Orchestra played Beethoven's Ninth Symphony. 立陶宛爱乐交响乐团演奏了贝多芬的《第九交响曲》。《柯林斯英汉双解大词典》
+≫   He played with the Philharmonic Orchestra in Nizhni Novgorod. 他在诺夫哥罗德下城与爱乐乐团合作。
+≫   She sang in New York with the Philharmonic Orchestra. This concert was a huge success. 在纽约，她在交响乐团的伴奏下演唱，这次音乐会取得了巨大的成功。
+
+========================================================================
+>>> artistic director
+------------------------------------------------------------------------
+artistic director
+艺术总监：负责指导和管理一个艺术机构的艺术方向和创意内容的高级职位。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Nicolas Kent, the artistic director of the Tricycle Theatre in London, felt the public had stopped caring about Afghanistan. 伦敦三轮车剧院的艺术总监尼古拉斯·肯特发觉公众已经不再对阿富汗关注。
+≫   "Most of the participants are people who are just walking by or are on the island for other reasons, or they just kind of happen to be there, "Alexandra Chasin, a artistic director, tells Smithsonian. 一名艺术总监亚历山德拉·查辛对史密森尼说：“大多数参与者都是那些只是路过的人或是因为其他原因来到岛上的人，或者他们只是碰巧在那里。”
+≫   "We want people to come and say 'wow, wow, wow,'" explains Lin Zhengzong, the show's artistic director. “我们想要人们来看，并啧啧称奇”，该秀的艺术总监林正宗(音译)解释说。
+
+========================================================================
+>>> commisoned
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> commissoned
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> commissioned
+------------------------------------------------------------------------
+commissioned    [英 kəˈmɪʃənd / 美 kəˈmɪʃnd]
+adj. 受委任的，受任命的；服役的，现役的
+v. 委任（commission 的过去分词）
+★★★★ CET4 TEM4 commissioning,commissioned,commissions
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you commission something or commission someone to do something, you formally arrange for someone to do a piece of work for you. 委托
+   ≫   The Department of Agriculture commissioned a study into organic farming.  农业部委托了一项有机耕作的研究。
+   ≫   You can commission them to paint something especially for you.  你可以委托他们专门为你画点什么。
+2. (N-VAR) Commission is also a noun. 委托
+   ≫   Our china can be bought off the shelf or by commission.  我们的瓷器可以现货购买或委托定做。
+3. (N-COUNT) A commission is a piece of work that someone is asked to do and is paid for. 委托任务
+   ≫   Just a few days ago, I finished a commission.  就在几天之前我完成了一项委托任务。
+4. (N-VAR) Commission is a sum of money paid to a salesperson for every sale that he or she makes. If a salesperson is paid on commission, the amount they receive depends on the amount they sell. 销售佣金
+   ≫   The salespeople work on commission only.  推销员只拿销售佣金。
+5. (N-UNCOUNT) If a bank or other company charges commission, they charge a fee for providing a service, for example for exchanging money or issuing an insurance policy. 服务费 [商业]
+   ≫   Travel agents charge 1 per cent commission on tickets.  旅行社收1%的购票服务费。
+6. (N-COUNT-COLL) A commission is a group of people who have been appointed to find out about something or to control something. 委员会
+   ≫   The government has set up a commission to look into those crimes.  政府已成立一个委员会调查那些罪行。
+7. (N-COUNT) If a member of the armed forces receives a commission, he or she becomes an officer. 任命
+   ≫   He accepted a commission as a naval officer.  他接受了海军军官的任命。
+
+========================================================================
+>>> commission
+------------------------------------------------------------------------
+commission    [英 kəˈmɪʃ(ə)n / 美 kəˈmɪʃ(ə)n]
+n. 考察团，委员会；佣金，回扣；犯罪；委托，命令；（军队中的）官职，军衔；（尤指艺术品）委托制作；<古>所授之权，代办权
+v. 委托撰写，委托制作；委任，任命……为军官；（使军舰）正式使用，服现役
+★★★★ CET4 TEM4 commissioning,commissioned,commissions
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you commission something or commission someone to do something, you formally arrange for someone to do a piece of work for you. 委托
+   ≫   The Department of Agriculture commissioned a study into organic farming.  农业部委托了一项有机耕作的研究。
+   ≫   You can commission them to paint something especially for you.  你可以委托他们专门为你画点什么。
+2. (N-VAR) Commission is also a noun. 委托
+   ≫   Our china can be bought off the shelf or by commission.  我们的瓷器可以现货购买或委托定做。
+3. (N-COUNT) A commission is a piece of work that someone is asked to do and is paid for. 委托任务
+   ≫   Just a few days ago, I finished a commission.  就在几天之前我完成了一项委托任务。
+4. (N-VAR) Commission is a sum of money paid to a salesperson for every sale that he or she makes. If a salesperson is paid on commission, the amount they receive depends on the amount they sell. 销售佣金
+   ≫   The salespeople work on commission only.  推销员只拿销售佣金。
+5. (N-UNCOUNT) If a bank or other company charges commission, they charge a fee for providing a service, for example for exchanging money or issuing an insurance policy. 服务费 [商业]
+   ≫   Travel agents charge 1 per cent commission on tickets.  旅行社收1%的购票服务费。
+6. (N-COUNT-COLL) A commission is a group of people who have been appointed to find out about something or to control something. 委员会
+   ≫   The government has set up a commission to look into those crimes.  政府已成立一个委员会调查那些罪行。
+7. (N-COUNT) If a member of the armed forces receives a commission, he or she becomes an officer. 任命
+   ≫   He accepted a commission as a naval officer.  他接受了海军军官的任命。
+
+========================================================================
+>>> commiss
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> commisse
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> mandate
+------------------------------------------------------------------------
+mandate    [美 ˈmændeɪt / 英 ˈmændeɪt]
+n. 授权，委托；任期；命令，指令；托管权，委任统治权；账户代理书面委托
+v. 强制执行，颁布；授权，委任；命令，指示；（领土）（由国际联盟）授权托管
+★★ CET6+ TEM8 mandating,mandated,mandates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If a government or other elected body has a mandate to carry out a particular policy or task, they have the authority to carry it out as a result of winning an election or vote. (政府或机构经选举而获得的) 授权
+   ≫   The president and his supporters are almost certain to read this vote as a mandate for continued economic reform.  总统和他的支持者们几乎肯定地认为这次投票是对继续进行经济改革的授权。
+2. (N-COUNT) If someone is given a mandate to carry out a particular policy or task, they are given the official authority to do it. (个人所获得的) 授权
+   ≫   How much longer does the independent prosecutor have a mandate to pursue this investigation?  这名独立检察官获得授权去调查这件事情的权限还有多长？
+3. (N-COUNT) You can refer to the fixed length of time that a country's leader or government remains in office as their mandate. 任期 [正式]
+   ≫   ...his intention to leave politics once his mandate ends.  …他任期一结束就将离开政界的打算。
+4. (V-T) When someone is mandated to carry out a particular policy or task, they are given the official authority to do it. 授权 [正式] [usu passive]
+   ≫   He'd been mandated by the West African Economic Community to go in and to enforce a ceasefire.  他受西非经济共同体授权去介入并执行停火协定。
+5. (V-T) To mandate something means to make it mandatory. 强制执行 [美国英语]
+   ≫   The proposed initiative would mandate a reduction of carbon dioxide of 40%.  这个倡议将把二氧化碳排放量强制降低40%。
+   ≫   Sixteen years ago, Quebec mandated that all immigrants send their children to French schools.  16年前，魁北克省规定所有移民都要送孩子上法语学校。
+
+========================================================================
+>>> appoint
+------------------------------------------------------------------------
+appoint    [美 əˈpɔɪnt / 英 əˈpɔɪnt]
+v. 任命，指派；约定，安排（日期、时间）；装饰，布置（房间或空间）；<古>命令，颁布法令；受权处置（财产）
+★★★ CET4 TEM4 appointing,appointed,appoints
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you appoint someone to a job or official position, you formally choose them for it. 任命
+   ≫   It made sense to appoint a banker to this job.  任命一位银行家做这项工作是合理的。
+   ≫   The president has appointed a civilian as defence secretary.  总统任命了一位平民做国防部长。
+
+========================================================================
+>>> nominate
+------------------------------------------------------------------------
+nominate    [美 ˈnɑːmɪneɪt / 英 ˈnɒmɪneɪt]
+v. 提名，推荐；任命，指派；挑选，指定（事件的日期或地点）
+adj. （动植物）以种名命名的
+★★ CET6 TEM4 nominating,nominated,nominates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone is nominated for a job or position, their name is formally suggested as a candidate for it. (为工作、职位) 提名
+   ≫   This week one of them will be nominated by the Democratic Party for the presidency of the United States.  本周他们中的一人将被民主党提名为美国总统职位的候选人。
+   ≫   The Security Council can nominate anyone for secretary-general.  安全理事会可以提名任何人为秘书长。
+2. (V-T) If you nominate someone to a job or position, you formally choose them to hold that job or position. 任命
+   ≫   In 1967 Johnson nominated Thurgood Marshall to the Supreme Court.  1967年，约翰逊任命瑟古德·马歇尔为最高法院法官。
+   ≫   She was nominated by the president as ambassador to Barbados.  她被总统任命为驻巴巴多斯大使。
+3. (V-T) If someone or something such as an actor or a film is nominated for an award, someone formally suggests that they should be given that award. (某人或某物) 被提名 (某奖项)
+   ≫   Practically every film he made was nominated for an Oscar.  他制作的每部电影几乎都获得了奥斯卡提名。
+
+========================================================================
+>>> appointment
+------------------------------------------------------------------------
+appointment    [美 əˈpɔɪntmənt / 英 əˈpɔɪntmənt]
+n. 约会，约定；任命，委派；职务，职位；家具，陈设
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The appointment of a person to a particular job is the choice of that person to do it. 任命
+   ≫   His appointment to the cabinet would please the right wing.  他进入内阁的任命会令右翼高兴。
+2. (N-COUNT) An appointment is a job or position of responsibility. 职务; 职位
+   ≫   Mr. Fay is to take up an appointment as a researcher.  费伊先生将担任研究员的职务。
+3. (N-COUNT) If you have an appointment with someone, you have arranged to see them at a particular time, usually in connection with their work or for a serious purpose. 约会
+   ≫   She has an appointment with her accountant.  她和她的会计师有个约会。
+4. (PHRASE) If something can be done by appointment, people can arrange in advance to do it at a particular time. 通过预约
+   ≫   Viewing is by appointment only.  参观须预约。
+
+========================================================================
+>>> grant
+------------------------------------------------------------------------
+grant    [美 ɡrænt / 英 ɡrɑːnt]
+v. 授予，给予；承认
+n. 补助金，拨款；（政府给予的）土地；<正式>给予，授予；合法转让
+【名】 （Grant）（美）格朗（人名）
+★★★★ CET4 TEM4 granting,granted,grants
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grant is an amount of money that a government or other institution gives to an individual or to an organization for a particular purpose such as education or home improvements. 补助金
+   ≫   They'd got a special grant to encourage research.  他们已得到了一笔用来支持研究的特别补助金。
+2. (V-T) If someone in authority grants you something, or if something is granted to you, you are allowed to have it. 准予 [正式]
+   ≫   France has agreed to grant him political asylum.  法国已经同意给予他政治庇护。
+   ≫   Single parents tend to grant more independence to their children than other parents do.  单亲父母往往比其他父母给予孩子们更多的自主性。
+3. (V-T) If you grant that something is true, you accept that it is true, even though your opinion about it does not change. 承认
+   ≫   The magistrates granted that the charity was justified in bringing the action.  这些地方法官承认该慈善机构提起诉讼是有正当理由的。
+4. (PHRASE) If you say that someone takes you for granted, you are complaining that they benefit from your help, efforts, or presence without showing that they are grateful. 对某人无感激之心
+   ≫   What right has the family to take me for granted, Martin?  这一家子有什么资格认为我所做的一切都是应该的，马丁？
+5. (PHRASE) If you take something for granted, you believe that it is true or accept it as normal without thinking about it. 视某事为理所当然
+   ≫   I was amazed that virtually all the things I took for granted up north just didn't happen in Savannah.  令我感到惊讶的是，我在北方视为理所当然的一切事物，在南美大草原上几乎都没有发生。
+6. (PHRASE) If you take it for granted that something is the case, you believe that it is true or you accept it as normal without thinking about it. 理所当然地认为
+   ≫   He seemed to take it for granted that he should speak as a representative.  他似乎理所当然地认为他应当作为代表发言。
+
+========================================================================
+>>> be flattered to
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> flattered
+------------------------------------------------------------------------
+flattered    [美 ˈflætərd / 英 ˈflætəd]
+adj. （因受重视而）感到满意的，觉得荣幸的；（在正式场合表示感谢）不胜荣幸的，深感荣幸的
+v. 奉承；自命不凡；使显得漂亮，使显得出色（flattered 的过去式和过去分词）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are flattered by something that has happened, you are pleased about it because it makes you feel important or special. 感到荣幸的 [v-link ADJ]
+   ≫   She was flattered by Roberto's long letter.  罗伯托的长信让她感到荣幸。
+
+========================================================================
+>>> charitable
+------------------------------------------------------------------------
+charitable    [美 ˈtʃærətəbl / 英 ˈtʃærətəbl]
+adj. 慈善的；仁慈的，宽容的；慷慨的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A charitable organization or activity helps and supports people who are ill, disabled, or very poor. 慈善的 [ADJ n]
+   ≫   ...charitable work for the handicapped.  …为残疾人做的慈善工作。
+2. (ADJ) Someone who is charitable to people is kind or understanding toward them. 仁慈的
+   ≫   They were less than charitable toward the referee.  他们对裁判员毫不仁慈。
+
+========================================================================
+>>> outlined
+------------------------------------------------------------------------
+outlined    [美 ˈaʊtlaɪnd]
+v. 概述，略述；勾勒，描画……的轮廓（outline 的过去式及过去分词）
+★★★ CET4 TEM4 outlining,outlined,outlines
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you outline an idea or a plan, you explain it in a general way. 概述
+   ≫   The mayor outlined his plan to clean up the town's image.  市长概述了他清理整顿该市形象的计划。
+2. (N-COUNT) An outline is a general explanation or description of something. 概要 [also 'in' N]
+   ≫   Following is an outline of the survey findings.  以下是调查结果的概要。
+3. (V-T PASSIVE) You say that an object is outlined when you can see its general shape because there is light behind it. 映衬出…的轮廓
+   ≫   The Ritz was outlined against the lights up there.  里兹饭店的轮廓被上方的灯光映衬了出来。
+4. (N-COUNT) The outline of something is its general shape, especially when it cannot be clearly seen. 轮廓
+   ≫   He could see only the hazy outline of the goalposts.  他只能看见球门柱模糊的轮廓。
+
+========================================================================
+>>> congress
+------------------------------------------------------------------------
+congress    [美 ˈkɑːŋɡrəs / 英 ˈkɒŋɡres]
+n. 国会，议会；代表大会；美国国会（Congress）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) A congress is a large meeting that is held to discuss ideas and policies. 代表大会
+   ≫   A lot has changed after the party congress.  该党代表大会后很多都变了。
+
+========================================================================
+>>> relinquished
+------------------------------------------------------------------------
+relinquished
+v．放弃，交出，让与：放弃对某物的控制或拥有，把某物交给他人。
+★ TEM8 relinquishing,relinquished,relinquishes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you relinquish something such as power or control, you give it up. 放弃 (权力或控制) [正式]
+   ≫   He does not intend to relinquish power.  他不打算放弃权力。
+
+========================================================================
+>>> ordination
+------------------------------------------------------------------------
+ordination    [美 ˌɔːrdnˈeɪʃn / 英 ˌɔːdɪˈneɪʃn]
+n. 分类；任命；神职授任；排成等级
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) When someone's ordination takes place, they are made a minister, priest, or rabbi. 圣职授予
+   ≫   ...supporters of the ordination of women.  …女性担任圣职的支持者们。
+
+========================================================================
+>>> church
+------------------------------------------------------------------------
+church    [美 tʃɜːrtʃ / 英 tʃɜːtʃ]
+n. 教堂；礼拜仪式；教派，教会
+v. <古>把（产妇等）带到教堂做感恩礼拜；<美>对……进行教会裁决
+adj. 教会的；礼拜的
+【名】 （Church）（英）丘奇（人名）
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A church is a building in which Christians worship. You usually refer to this place as church when you are talking about the time that people spend there. 教堂
+   ≫   ...one of the country's most historic churches.  …该国家历史上最著名的教堂之一。
+   ≫   ...St Helen's Church.  …圣海伦教堂。
+   ≫   The family had gone to church.  这家人都去教堂了。
+2. (N-COUNT) A Church is one of the groups of people within the Christian religion, for example Catholics or Methodists, that have their own beliefs, clergy, and forms of worship. (基督教的) 教派
+   ≫   ...cooperation with the Catholic Church.  …与天主教派的合作。
+   ≫   Church leaders said he was welcome to return.  该教派领袖说欢迎他回皈。
+
+========================================================================
+>>> illegitimate
+------------------------------------------------------------------------
+illegitimate    [美 ˌɪləˈdʒɪtəmət / 英 ˌɪləˈdʒɪtəmət]
+adj. 私生的；非法的；不合理的
+vt. 认做私生子；认为违法
+n. 非嫡出子；庶子
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A person who is illegitimate was born of parents who were not married to each other. 私生的
+   ≫   They discovered he had an illegitimate child.  他们发现他有一个私生子。
+2. (ADJ) Illegitimate is used to describe activities and institutions that are not in accordance with the law or with accepted standards of what is right. 不合规则的; 不合法的
+   ≫   He realized that, otherwise, the election would have been dismissed as illegitimate by the international community.  他意识到，不这样的话，选举就会被国际社会以不合法为由而不予承认。
+
+========================================================================
+>>> patronage
+------------------------------------------------------------------------
+patronage    [美 ˈpeɪtrənɪdʒ / 英 ˈpætrənɪdʒ]
+n. 赞助，资助；（对餐馆、酒店或其他生意的）惠顾，光顾；职位授予权，恩惠给予权；庇护，扶植；恩赐态度；（古罗马）庇护人的权力和职责，庇护人的地位
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Patronage is the support and money given by someone to a person or a group such as a charity. 赞助
+   ≫   ...government patronage of the arts in Europe.  …在欧洲政府对艺术的资助。
+
+========================================================================
+>>> treasury
+------------------------------------------------------------------------
+treasury    [美 ˈtreʒəri / 英 ˈtreʒəri]
+n. 财政部；大量珍品，宝藏；（城堡、教堂等的）宝库，珍藏室；国库，金库
+★★★ CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) In the United States and some other countries, the Treasury is the government department that deals with the country's finances. 财政部
+   ≫   ...a senior official at the Treasury.  …财政部的一位高级官员。
+2. (N-PLURAL) Treasuries are financial bonds that are issued by the United States government in order to raise money. (美国政府发行的) 国库券 [美国英语]
+   ≫   ...people who invest in 10- and 20- and 30-year Treasuries.  …10年、20年和30年期国库券的投资者。
+
+========================================================================
+>>> recompense
+------------------------------------------------------------------------
+recompense    [美 ˈrekəmpens / 英 ˈrekəmpens]
+v. 赔偿，补偿；酬谢，回报
+n. 赔偿，补偿；报酬，酬金
+TEM8 recompensing,recompensed,recompenses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you are given something, usually money, in recompense, you are given it as a reward or because you have suffered. 奖赏; 补偿 [正式]
+   ≫   He demands no financial recompense for his troubles.  他对遭受到的麻烦没有要求经济补偿。
+2. (V-T) If you recompense someone for their efforts or their loss, you give them something, usually money, as a payment or reward. 报酬; 赔偿 [正式]
+   ≫   If they succeed in court, they will be fully recompensed for their loss.  如果他们在法庭上胜诉，他们的损失就会得到全额赔偿。
+
+========================================================================
+>>> proposal
+------------------------------------------------------------------------
+proposal    [美 prəˈpoʊz(ə)l / 英 prəˈpəʊz(ə)l]
+n. 提议，建议；提案；（计划、建议等的）提出；求婚
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. (常为正式书面的) 提议
+   ≫   The president is to put forward new proposals for resolving the country's constitutional crisis.  总统将提出解决国家宪法危机的新议案。
+   ≫   ...the governor's proposal to restrict cigarette sales.  …州长关于限制香烟销售的提案。
+2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
+   ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
+
+========================================================================
+>>> Principal
+------------------------------------------------------------------------
+principal    [美 ˈprɪnsəp(ə)l / 英 ˈprɪnsəp(ə)l]
+adj. 最重要的，首要的；本金的，母金的
+n. <美>（美国公立中小学的）校长；<英>（英国的）大学校长，学院院长；（企业或机构的）负责人；（音乐会、戏剧、芭蕾舞剧、歌剧中的）主角演员；（管弦乐队每一乐器组的）首席演奏者；（有利息的）本金，资金；（法律和商业事务中的）当事人，委托人；关键人物；（某些行业）完全合格的开业者；<英>（负责某一部门的）高级公务员；主犯，首犯；<史>决斗者；（支撑檩的）主椽；（管风琴的）主音栓
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Principal means first in order of importance. 最重要的 [ADJ n]
+   ≫   The principal reason for my change of mind is this.  我改变主意的最重要原因就是这个。
+   ≫   ...the country's principal source of foreign exchange earnings.  …该国最重要的外汇交易收入来源。
+2. (N-COUNT) The principal of a school is the person in charge of the school or college. 校长
+   ≫   Donald King is the principal of Dartmouth High School.  唐纳德·金是达特茅斯中学的校长。
+3. (N-COUNT) The principal of a loan is the original amount of the loan, on which you pay interest. (贷款的) 本金 [商业] [usu sing]
+
+========================================================================
+>>> Principal Investigator
+------------------------------------------------------------------------
+principal investigator
+主要研究者：在资助项目中担任首席研究员的领导研究人员。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Dr Felicity Cutts, principal investigator of the trial who is currently based at who, said. 目前在世卫组织工作的本次试验首席研究员Felicity Cutts博士说。
+≫   Bill Borucki is the principal investigator for NASA's planet-finding Kepler spacecraft. Bill Borucki是美国航空航天局星球发现者开普勒航天器的首席调查员。
+≫   NASA's Kepler mission's principal investigator, Bill Borucki, talks about the search for exoplanets that might be habitable. 美国国家航空航天局开普勒计划的首席调查员，Bill Borucki，谈寻找可能适合居住系外行星。
+
+========================================================================
+>>> Investigator
+------------------------------------------------------------------------
+investigator    [美 ɪnˈvestɪɡeɪtər / 英 ɪnˈvestɪɡeɪtə(r)]
+n. 调查者，侦察员
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An investigator is someone who carries out investigations, especially as part of their job. 调查者
+   ≫   ...an undercover investigator.  …一位秘密侦探。
+
+========================================================================
+>>> tenured
+------------------------------------------------------------------------
+tenured    [美 ˈtenjərd / 英 ˈtenjəd]
+adj. （美）享有终身职位的
+v. 授予……终身职位（tenure 的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) having tenure of office 有此职责的
+   ≫   a tenured professor  
+2. (ADJ) guaranteeing tenure of office 职位有保障的
+   ≫   a tenured post  
+
+========================================================================
+>>> interdisciplinary
+------------------------------------------------------------------------
+interdisciplinary    [美 ˌɪntərˈdɪsəplɪneri / 英 ˌɪntədɪsəˈplɪnəri]
+adj. 跨学科的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Interdisciplinary means involving more than one academic subject. 跨学科的 [usu ADJ n]
+   ≫   ...interdisciplinary courses combining psychology, philosophy and linguistics.  ...包括心理学、哲学和语言学的跨学科课程。
+
+========================================================================
+>>> HMI
+------------------------------------------------------------------------
+hmi
+abbr. 人机接口（Human Machine Interface）；集线器管理接口；英国督学（Her/His Majesty 's Inspector）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) in Britain Her Majesty's Inspector; a government official who examines and supervises schools (英国)皇家督学
+
+========================================================================
+>>> noviolate
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> modern
+------------------------------------------------------------------------
+modern    [美 ˈmɑːdərn / 英 ˈmɒd(ə)n]
+adj. 近代的，现代的；当代风格的，现代派的；现代化的，新式的；摩登的，时髦的
+n. 现代人；现代派艺术家；主张现代风格的人，宣扬现代价值观的人
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Modern means relating to the present time, for example the present decade or present century. 现代的 [ADJ n]
+   ≫   We had a long talk about the problem of materialism in modern society.  我们就现代社会中的实利主义问题进行了一次长谈。
+2. (ADJ) Something that is modern is new and involves the latest ideas or equipment. 现代化的
+   ≫   In many ways, it was a very modern school for its time.  从多方面看，这是当时很现代化的一所学校。
+3. (ADJ) People are sometimes described as modern when they have opinions or ways of behaving that have not yet been accepted by most people in a society. 时髦的
+   ≫   She is very modern in outlook.  她的看法很时髦。
+4. (ADJ) Modern is used to describe styles of art, dance, music, and architecture that have developed in recent times, in contrast to classical styles. (艺术、舞蹈、音乐和建筑) 现代派的 [ADJ n]
+   ≫   She'd been a dancer with a modern dance company in New York.  她过去一直是纽约一家现代舞公司的舞蹈演员。
+
+========================================================================
+>>> pragmatics
+------------------------------------------------------------------------
+pragmatics    [美 præɡˈmætɪks / 英 præɡˈmætɪks]
+n. 语用学；语用论
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) Pragmatics is the branch of linguistics that deals with the meanings and effects that come from the use of language in particular situations. 语用学
+
+========================================================================
+>>> linguistics
+------------------------------------------------------------------------
+linguistics    [美 lɪŋˈɡwɪstɪks / 英 lɪŋˈɡwɪstɪks]
+n. 语言学
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the scientific study of language 语言学 → see also historical linguistics, descriptive linguistics
+
+========================================================================
+>>> association
+------------------------------------------------------------------------
+association    [美 əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn / 英 əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn]
+n. 协会，社团，联盟；交往，联合；联系，因果关系；联想
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An association is an official group of people who have the same job, aim, or interest. 协会
+   ≫   ...the National Basketball Association.  …全国篮球协会。
+2. (N-COUNT) Your association with a person or a thing such as an organization is the connection that you have with them. (与某人、某物的) 关联
+   ≫   ...the company's six-year association with retailer J.C. Penney Co.  …这家公司与零售商彭尼公司6年的业务往来。
+3. (N-COUNT) If something has particular associations for you, it is connected in your mind with a particular memory, idea, or feeling. (与某记忆、观念、情感的) 关联
+   ≫   He has a shelf full of things, each of which has associations for him.  他有一个摆满了东西的架子，每一样都与他的内心世界有关联。
+4. (PHRASE) If you do something in association with someone else, you do it together. 与…联合
+   ≫   The changes I instigated in association with the board 18 months ago were because I love this company.  18个月前我联合董事会发起的这些变革是出于我爱这家公司。
+
+========================================================================
+>>> atypicality
+------------------------------------------------------------------------
+atypicality    [英 eɪˌtɪpɪˈkælətɪ]
+非典型
+不标准
+
+========================================================================
+>>> derived
+------------------------------------------------------------------------
+derived    [英 dɪˈraɪvd / 美 dɪˈraɪvd]
+adj. 导出的；衍生的，派生的
+v. 从……衍生出，源于；（从……中）得到，提取；导出（derive 的过去式和过去分词）
+★★ CET4 TEM4 deriving,derived,derives
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you derive something such as pleasure or benefit from a person or from something, you get it from them. 获得 [正式]
+   ≫   Mr. Ying is one of those happy people who derive pleasure from helping others.  英先生是那种助人为乐的快活人。
+2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
+   ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
+
+========================================================================
+>>> discourse
+------------------------------------------------------------------------
+discourse    [英 ˈdɪskɔːs / 美 ˈdɪskɔːrs]
+n. 演讲，论述；谈话，交流；话语，语篇
+v. 高谈阔论，论述；交谈；<古>说出；<古>演奏出
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Discourse is spoken or written communication between people, especially serious discussion of a particular subject. (某专题的) 会话
+   ≫   ...a tradition of political discourse.  …一个政治对话的传统。
+
+========================================================================
+>>> diagnosis
+------------------------------------------------------------------------
+diagnosis    [美 ˌdaɪəɡˈnoʊsɪs / 英 ˌdaɪəɡˈnəʊsɪs]
+n. 诊断，判断
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Diagnosis is the discovery and naming of what is wrong with someone who is ill or with something that is not working properly. 诊断
+   ≫   I need to have a second test to confirm the diagnosis.  我需要复查来确诊。
+
+========================================================================
+>>> treatment
+------------------------------------------------------------------------
+treatment    [美 ˈtriːtmənt / 英 ˈtriːtmənt]
+n. 对待，待遇；处理，讨论；治疗，医治；（净化或防治）处理，加工；护理，护理品；<非正式>极致； 对待，待遇
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Treatment is medical attention given to a sick or injured person or animal. 治疗
+   ≫   Many patients are not getting the medical treatment they need.  许多病人都没有得到他们需要的医疗。
+   ≫   ...a veterinary surgeon who specializes in the treatment of caged birds.  …一个专长治疗笼养鸟的兽医。
+2. (N-UNCOUNT) Your treatment of someone is the way you behave toward them or deal with them. 对待; 处理
+   ≫   We don't want any special treatment.  我们不需要任何特殊待遇。
+3. (N-VAR) Treatment of something involves putting a particular substance onto or into it, in order to clean it, to protect it, or to give it special properties. (采用某种物质的) 处理
+   ≫   There should be greater treatment of sewage before it is discharged.  污水排放前应该进行更充分的处理。
+
+========================================================================
+>>> rehabilitation
+------------------------------------------------------------------------
+rehabilitation    [美 ˌriːəˌbɪlɪˈteɪʃn / 英 ˌriːəˌbɪlɪˈteɪʃn]
+n. 康复，复原；（权利、名誉的）恢复；修复，翻新
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A number of other techniques are now being used by psychologists in the rehabilitation of young offenders. 一些别的技术现正被心理学家们用于年轻罪犯的复原。《柯林斯英汉双解大词典》
+≫   On campus, he quickly found that beyond ordinary counselling, the university had no services for students who were undergoing physical rehabilitation and suffering from depression like him. 在学校里，他很快发现，除了普通的心理咨询，学校没有为那些像他一样正在进行身体康复和患有抑郁症的学生提供任何服务。
+≫   The prison service has the twin goals of punishment and rehabilitation. 监狱有惩罚和改造双重目的。《牛津词典》
+
+========================================================================
+>>> dissertation
+------------------------------------------------------------------------
+dissertation    [美 ˌdɪsərˈteɪʃ(ə)n / 英 ˌdɪsəˈteɪʃ(ə)n]
+n. 专题论文，学位论文；学术演讲
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dissertation is a long formal piece of writing on a particular subject, especially for an advanced university degree. (学位) 论文
+   ≫   He is currently writing a dissertation on the Somali civil war.  他正在写一篇关于索马里内战的论文。
+
+========================================================================
+>>> implication
+------------------------------------------------------------------------
+implication    [英 ˌɪmplɪˈkeɪʃn / 美 ˌɪmplɪˈkeɪʃ(ə)n]
+n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The implication was plain, if left unstated. 即使不说出来，隐含义也很明显。《柯林斯英汉双解大词典》
+≫   Implication in a murder finally brought him to the gallows. 与一桩谋杀案的牵连最终把他送上了绞刑架。《柯林斯英汉双解大词典》
+≫   They resent the implication that they have behaved irresponsibly. 他们对那种暗示他们的行为不负责任的言论非常不满。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> Summarization
+------------------------------------------------------------------------
+summarization    [美 ˌsʌməraɪˈzeɪʃn / 英 ˌsʌmərɪˈzeɪʃən]
+n. [图情] 摘要；概要
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The subject of racism is admittedly too complex for facile summarization. 种族主义这一主题委实太复杂，无法肤浅地加以概括。《柯林斯英汉双解大词典》
+≫   The amount of summarization is determined by the slice of the cube model that the query accesses. 汇总的数量取决于查询访问的多维数据集模型切片。
+≫   As we know, notes are the summarization, the core content, our understanding and the abbreviations of the books. 如您所知，笔记是我们对所学课本的总结、中心内容的归纳、我们的理解和课本的缩略。
+
+========================================================================
+>>> ethics
+------------------------------------------------------------------------
+ethics    [英 ˈeθɪks / 美 ˈeθɪks]
+n. 行为准则，道德原则；伦理学，道德学
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Ethics are moral beliefs and rules about right and wrong. 道德
+   ≫   Refugee workers said such action was a violation of medical ethics.  难民工作者称这种行为违背了医学道德。
+2. (N-PLURAL) Someone's ethics are the moral principles about right and wrong behaviour that they believe in. 行为准则
+   ≫   He told the police that he had thought honestly about the ethics of what he was doing.  他告诉警察他曾真诚地考虑过他所作所为依据的行为准则。
+3. (N-UNCOUNT) Ethics is the study of questions about what is morally right and wrong. 伦理学
+   ≫   ...the teaching of ethics and moral philosophy.  …伦理学和道德哲学的教学。
+4. (N-SING) An ethic of a particular kind is an idea or moral belief that influences the behaviour, attitudes, and philosophy of a group of people. 道德观念
+   ≫   ...the ethic of public service.  …公共服务的道德观念。
+
+========================================================================
+>>> deliverables
+------------------------------------------------------------------------
+deliverables
+n. 可交付成果；可交付物，可交付性；产出（deliverable 的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Deliverables and other documentation. 交付物以及其它文档。
+≫   Only deliverables and activities belong on the WBS. 只有可交付成果和活动属于WBS。
+≫   The definition of the project's final deliverables. 项目最终可交付性的定义。
+
+========================================================================
+>>> implications
+------------------------------------------------------------------------
+implications    [美 ˌɪmplɪˈkeɪʃ(ə)nz / 英 ˌɪmplɪˈkeɪʃ(ə)nz]
+n. 暗指，暗示；蕴含，含义；（可能带来的）影响（implication 的复数）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The implications of something are the things that are likely to happen as a result. 可能的结果
+   ≫   The Attorney General was aware of the political implications of his decision to prosecute.  总检察长知道自己起诉的决定可能引起的政治后果。
+2. (N-COUNT) The implication of a statement, event, or situation is what it implies or suggests is the case. 含意
+   ≫   The implication was obvious: vote for us or it will be very embarrassing for you.  含意很明显：投票给我们，否则你会很难堪。
+3. (PHRASE) If you say that something is the case by implication, you mean that a statement, event, or situation implies that it is the case. 言下之意; 暗示地
+   ≫   Now his authority and, by implication, that of the whole management team are under threat as never before.  言下之意，现在他的权力以及整个管理团队的权威正面临空前的威胁。
+
+========================================================================
+>>> relevance
+------------------------------------------------------------------------
+relevance    [英 ˈreləvəns / 美 ˈreləvəns]
+n. 相关性，实用性，意义
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Something's relevance to a situation or person is its importance or significance in that situation or to that person. 相关性
+   ≫   Politicians' private lives have no relevance to their public roles.  政治家的私生活与他们的公众角色没有相关性。
+
+========================================================================
+>>> distributed
+------------------------------------------------------------------------
+distributed    [美 dɪˈstrɪbjuːtɪd / 英 dɪˈstrɪbjuːtɪd; ˈdɪstrɪbjuːtɪd]
+adj. 分布式的，分散式的
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If things are distributed throughout an area, object, or group, they exist throughout it. 分布式的
+   ≫   These cells are widely distributed throughout the body.  这些细胞遍布身体各处。
+
+========================================================================
+>>> potential
+------------------------------------------------------------------------
+potential    [美 pəˈtenʃ(ə)l / 英 pəˈtenʃ(ə)l]
+adj. 潜在的，可能的
+n. （事物的）潜力，可能性；（人的）潜能，潜力；电势，电位，电压
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use potential to say that someone or something is capable of developing into the particular kind of person or thing mentioned. 潜在的 [ADJ n]
+   ≫   The company has identified 60 potential customers.  该公司已确定了60位潜在的客户。
+   ≫   We are aware of the potential problems and have taken every precaution.  我们意识到了潜在的问题，已经采取了一切防范措施。
+2. (ADV) potentially ADV 潜在地 [ADV with cl/group]
+   ≫   Clearly this is a potentially dangerous situation.  显然这是一种具有潜在危险的局势。
+3. (N-UNCOUNT) If you say that someone or something has potential, you mean that they have the necessary abilities or qualities to become successful or useful in the future. 潜力; 潜质
+   ≫   The boy has great potential.  这个男孩有很大的潜力。
+   ≫   The school strives to treat students as individuals and to help each one to achieve their full potential.  学校力图因材施教，并帮助每位学生发挥他们的全部潜能。
+4. (N-UNCOUNT) If you say that someone or something has potential for doing a particular thing, you mean that it is possible they may do it. If there is the potential for something, it may happen. 潜在性
+   ≫   John seemed as horrified as I about his potential for violence.  和我一样，约翰对他的暴力倾向感到恐惧。
+   ≫   The meeting has the potential to be a watershed event.  这次会议有可能成为一次分水岭事件。
+
+========================================================================
+>>> dense
+------------------------------------------------------------------------
+dense    [美 dens / 英 dens]
+adj. 稠密的；浓密的，浓重的；密度大的；（文字）难懂的；愚钝的，笨拙的
+★★ CET4 TEM4 denser,densest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is dense contains a lot of things or people in a small area. 稠密的
+   ≫   Where Bucharest now stands, there once was a large, dense forest.  现在的布加勒斯特所在地曾经是一片茂密的大森林。
+2. (ADV) densely ADV 稠密地
+   ≫   Java is a densely populated island.  爪哇是一个人口稠密的岛屿。
+3. (ADJ) Dense fog or smoke is difficult to see through because it is very heavy and dark. (烟、雾等) 浓重的
+   ≫   A dense column of smoke rose several miles into the air.  一柱浓烟升上几英里高的天空。
+4. (ADJ) In science, a dense substance is very heavy in relation to its volume. (物质) 密度大的 [技术]
+   ≫   ...a small dense star.  …一颗密度大的小恒星。
+
+========================================================================
+>>> silent data corruption
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> mantissa
+------------------------------------------------------------------------
+mantissa    [美 mænˈtɪsə / 英 mænˈtɪsə]
+n. [数]尾数；假数；定点部分；小数部分
+n. （Mantissa）人名；（刚（布））曼蒂萨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the fractional part of a common logarithm representing the digits of the associated number but not its magnitude (对数的)尾数
+   ≫   the mantissa of 2.4771 is .4771  
+
