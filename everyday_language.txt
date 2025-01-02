@@ -76626,3 +76626,140 @@ n. 启发式步骤（或方法）
 1. (ADJ) A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的 [技术]
 2. (ADJ) A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 [计算机] → see also algorithm
 
+========================================================================
+>>> conventional
+------------------------------------------------------------------------
+conventional    [美 kənˈvenʃən(ə)l / 英 kənˈvenʃən(ə)l]
+adj. 依照惯例的，遵循习俗的；老一套的，习惯的；（武器等）常规的，非核的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is conventional has behaviour or opinions that are ordinary and normal. (行为观念等) 传统的
+   ≫   ...a respectable married woman with conventional opinions.  …一个可敬的观念传统的已婚妇女。
+2. (ADV) conventionally ADV 传统地
+   ≫   Men still wore their hair short and dressed conventionally.  男人还是留着短发，着装传统。
+3. (ADJ) A conventional method or product is one that is usually used or that has been in use for a long time. 传统的 (方法或产品等)
+   ≫   ...the risks and drawbacks of conventional family planning methods.  …传统计划生育方法的风险和缺陷。
+4. (ADV) conventionally ADV 传统地 [ADV with v]
+   ≫   Organically grown produce does not differ greatly in appearance from conventionally grown crops.  有机农产品与传统方法种植的农产品在外观上没有太大的区别。
+5. (ADJ) Conventional weapons and wars do not involve nuclear explosives. 常规的 (武器); 不用核武器的 (战争)
+   ≫   We must reduce the danger of war by controlling nuclear, chemical, and conventional arms.  我们必须通过控制核武器、化学武器和常规武器来降低战争的危险。
+
+========================================================================
+>>> medal
+------------------------------------------------------------------------
+medal    [美 ˈmed(ə)l / 英 ˈmed(ə)l]
+n. 奖牌，勋章，纪念章
+v. 赢得奖章
+【名】 （Medal）（西、捷）梅达尔（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A medal is a small metal disc which is given as an award for bravery or as a prize in a sports event. 奖章
+   ≫   Dufour was awarded his country's highest medal for bravery.  杜富尔被授予他的国家的最高英勇奖章。
+
+========================================================================
+>>> drona
+------------------------------------------------------------------------
+Drona
+n. 德罗纳（《摩诃婆罗多》中的上师）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The following two verses are ascribed to the Brahmin Drona who was entrusted to divide the remains of the Exalted One equally into eight parts. 下面的两个经文是得益于受到信任的婆罗门他将圣尊的遗物分为八部分。
+
+========================================================================
+>>> labourer
+------------------------------------------------------------------------
+labourer    [美 'lebərɚ / 英 'leɪb(ə)rə]
+n. 劳动者；劳工
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A labourer is a person who does a job which involves a lot of hard physical work. 体力劳动者
+   ≫   She still lives on the farm where he worked as a labourer.  她还住在他当过工人的那个农场。
+
+========================================================================
+>>> embassy
+------------------------------------------------------------------------
+embassy    [美 ˈembəsi / 英 ˈembəsi]
+n. 大使馆工作人员；大使馆；（外交）特别使团
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An embassy is a group of government officials, headed by an ambassador, who represent their government in a foreign country. The building in which they work is also called an embassy. 大使及其随员; 大使馆
+   ≫   The American embassy has already complained.  美国使馆已经提出抗议。
+
+========================================================================
+>>> ODE
+------------------------------------------------------------------------
+ode    [美 oʊd / 英 əʊd]
+n. 赋；颂歌；颂诗
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An ode is a poem, especially one that is written in praise of a particular person, thing, or event. 颂诗; 颂歌
+   ≫   ...Keats' "Ode to a Nightingale."  ...济慈的《夜莺颂》。
+
+========================================================================
+>>> ethereal
+------------------------------------------------------------------------
+ethereal    [美 ɪˈθɪriəl / 英 ɪˈθɪəriəl]
+adj. 优雅的；轻飘的；缥缈的；超凡的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone or something that is ethereal has a delicate beauty. 优雅的 [正式]
+   ≫   She's the prettiest, most ethereal romantic heroine in the movies.  她是那些电影中最美丽、最优雅浪漫的女主角。
+
+========================================================================
+>>> array
+------------------------------------------------------------------------
+array    [美 əˈreɪ / 英 əˈreɪ]
+n. 一系列，大量；数组，阵列；盛装
+v. 布置，排列；配置（兵力）；穿戴，打扮
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) An array of different things or people is a large number or wide range of them. 大量; 各种
+   ≫   As the deadline approached she experienced a bewildering array of emotions.  随着最后期限的临近，她心绪变得纷繁复杂起来。
+2. (N-COUNT) An array of objects is a collection of them that is displayed or arranged in a particular way. 陈列
+   ≫   We visited the local markets and saw wonderful arrays of fruit and vegetables.  我们参观了当地的市场，看到了漂亮地摆放着的水果蔬菜。
+
+========================================================================
+>>> sputnik
+------------------------------------------------------------------------
+sputnik    [美 ˈspʌtnɪkˌˈspʊtnɪk / 英 ˈspʌtnɪk; ˈspʊtnɪk]
+n. 人造卫星（前苏联制造）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of a series of unmanned Soviet satellites, Sputnik 1 (launched in 1957) being the first man-made satellite to orbit the earth 前苏联人造地球卫星
+
+========================================================================
+>>> sputnik moment
+------------------------------------------------------------------------
+sputnik moment
+斯普特尼克时刻
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I wouldn't call this a Sputnik moment. 我不会将此称为一个令人压力倍增的时刻。
+≫   A new Sputnik moment might change their minds. 一个新的斯普特尼克时刻可能会改变他们的想法。
+≫   NORRIS: How did industry respond to the Sputnik moment? 诺里斯：各行业是如何应对这一“伴侣号”时刻的呢？
+
+========================================================================
+>>> pentagon
+------------------------------------------------------------------------
+pentagon    [英 ˈpentəɡən / 美 ˈpentəɡɑːn]
+n. 五边形，五角形；五角大楼（指美国国防部）（the Pentagon）；美国军队的领导人（the Pentagon）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pentagon is a shape with five sides. 五边形; 五角形
+
+========================================================================
+>>> maneuver
+------------------------------------------------------------------------
+maneuver    [美 məˈnuːvər / 英 məˈnuːvə(r)]
+n. 细致巧妙的移动，机动动作；策略，手段；军事演习；（军队或船只的）调动，部署
+v. 巧妙地移动；操纵，使花招；部署（军队、船只等）；演习
+★★ CET6 TEM8 maneuvering,maneuvered,maneuvers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She can then maneuver the 3D image on the computer screen to map the shortest, least invasive surgical path to the tumor. 然后，她可以操纵电脑屏幕上的 3D 图像，以绘制出最短、切口最小的通往肿瘤的手术路径。
+≫   A new back flip maneuver allowed station astronauts to photograph the shuttle's underbelly, and an extra-long robotic arm enabled astronauts see parts of the shuttle that were previously out of sight. 新的后空翻使空间站的宇航员可以拍摄航天飞机的腹部，超长的机械臂使宇航员可以看到航天飞机以前看不见的部分。
+≫   The dorsad reduction maneuver has been used for treating 120 cases of posticous cervical spondylopathy. 背部复位手法已经被用于治疗120例后发性颈椎病。
+
+========================================================================
+>>> Herbst Maneuver
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：60370
+Herbst Maneuver
+Herbst机动
+

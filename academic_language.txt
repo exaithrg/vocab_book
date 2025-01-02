@@ -44748,3 +44748,311 @@ adj. 重要的，显要的
 ≫   Plan to regularly perform nontrivial merges. 计划有规律的执行非平凡的合并。
 ≫   Be prepared to perform lots of nontrivial merges. 准备好执行大量重要的合并。
 
+========================================================================
+>>> Cooperative
+------------------------------------------------------------------------
+cooperative    [美 koʊˈɑːpərətɪv / 英 kəʊˈɒpərətɪv]
+adj. 合作的，协作的；乐于配合的；（企业或其他组织）合作性的
+n. 合作性组织
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cooperative is a business or organization run by the people who work for it, or owned by the people who use it. These people share its benefits and profits. 合作性企业; 合作性组织 [商业]
+   ≫   They decided a housing cooperative was the way to regenerate the area.  他们决定用合作建房的方式重建这一地区。
+2. (ADJ) A cooperative activity is done by people working together. 合作的
+   ≫   He was transferred to FBI custody in a smooth cooperative effort between Egyptian and U.S. authorities.  经埃及和美国政府的顺利合作，他被移交给了联邦调查局关押。
+3. (ADV) cooperatively ADV 合作地 [ADV after v]
+   ≫   They agreed to work cooperatively to ease tensions wherever possible.  他们同意尽可能合作以缓解紧张局面。
+4. (ADJ) If you say that someone is cooperative, you mean that they do what you ask them to without complaining or arguing. 乐意合作的
+   ≫   I made every effort to be cooperative.  我尽力配合。
+
+========================================================================
+>>> cooperative
+------------------------------------------------------------------------
+cooperative    [美 koʊˈɑːpərətɪv / 英 kəʊˈɒpərətɪv]
+adj. 合作的，协作的；乐于配合的；（企业或其他组织）合作性的
+n. 合作性组织
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cooperative is a business or organization run by the people who work for it, or owned by the people who use it. These people share its benefits and profits. 合作性企业; 合作性组织 [商业]
+   ≫   They decided a housing cooperative was the way to regenerate the area.  他们决定用合作建房的方式重建这一地区。
+2. (ADJ) A cooperative activity is done by people working together. 合作的
+   ≫   He was transferred to FBI custody in a smooth cooperative effort between Egyptian and U.S. authorities.  经埃及和美国政府的顺利合作，他被移交给了联邦调查局关押。
+3. (ADV) cooperatively ADV 合作地 [ADV after v]
+   ≫   They agreed to work cooperatively to ease tensions wherever possible.  他们同意尽可能合作以缓解紧张局面。
+4. (ADJ) If you say that someone is cooperative, you mean that they do what you ask them to without complaining or arguing. 乐意合作的
+   ≫   I made every effort to be cooperative.  我尽力配合。
+
+========================================================================
+>>> heuristic
+------------------------------------------------------------------------
+heuristic    [美 hjuˈrɪstɪk / 英 hjuˈrɪstɪk]
+adj. （教学或教育）启发式的；（计算机程序）探试的，探索的
+n. 启发式步骤（或方法）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的 [技术]
+2. (ADJ) A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 [计算机] → see also algorithm
+
+========================================================================
+>>> on behalf of
+------------------------------------------------------------------------
+on behalf of
+代表：代表某人或某个团体行事。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   On behalf of the department I would like to thank you all. 我谨代表本部门感谢大家。《牛津词典》
+≫   The settlement ends more than four years of litigation on behalf of the residents. 这次和解结束了代表居民的长达四年多的诉讼。《柯林斯英汉双解大词典》
+≫   He spoke on behalf of all the members of the faculty and staff. 他代表全体教职员工讲了话。《新英汉大辞典》
+
+========================================================================
+>>> alloys
+------------------------------------------------------------------------
+alloys    [美 əˈlɔɪz; ˈælɔɪz]
+n. [材]合金（alloy 的复数）
+n. （Alloys）人名；（法）阿卢瓦
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) An alloy is a metal that is made by mixing two or more types of metal together. 合金
+   ≫   Bronze is an alloy of copper and tin.  青铜是一种铜锡合金。
+
+========================================================================
+>>> alloy
+------------------------------------------------------------------------
+alloy    [美 ˈælɔɪ / 英 ˈælɔɪ]
+n. 合金；（与贵金属混合的）劣等金属
+v. 把（金属）铸成合金；<文>损坏，使（价值）降低
+【名】 （Alloy）（美、法、英、巴、加）阿洛伊（人名）
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) An alloy is a metal that is made by mixing two or more types of metal together. 合金
+   ≫   Bronze is an alloy of copper and tin.  青铜是一种铜锡合金。
+
+========================================================================
+>>> tin
+------------------------------------------------------------------------
+tin    [美 tɪn / 英 tɪn]
+n. 锡（一种化学元素，符号为 Sn）；<英>罐，罐头盒；（用于储存糕点或饼干的）有盖金属盒，金属食品盒；<英>（盛涂料、胶水等的）马口铁罐，白铁桶；<英>烤模，烤盘；镀锡铁皮，马口铁（tinplate 的简称）；<英>长方形面包
+adj. 锡制的
+v. 在……上镀锡（或包锡）
+【名】 （Tin）廷（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Tin is a soft silvery-white metal. 锡
+   ≫   ...a factory that turns scrap metal into tin cans.  …一个将废金属制成马口铁罐的工厂。
+2. (N-COUNT) A tin is a metal container with a lid in which things such as biscuits, cakes, or tobacco can be kept. 金属罐
+   ≫   Store the biscuits in an airtight tin.  把这些饼干存放在一个密封的金属罐里。
+3. (N-COUNT) You can use tin to refer to a tin and its contents, or to the contents only. 罐; 罐中之物
+   ≫   ...a tin of paint.  …一罐油漆。
+4. (N-COUNT) A tin is a metal container which is filled with food and sealed in order to preserve the food for long periods of time. 罐头 [英国英语]
+5. (N-COUNT) You can use tin to refer to a tin and its contents, or to the contents only. 罐头; 罐中之物 [英国英语]
+6. (N-COUNT) A baking tin is a metal container used for baking things such as cakes and bread in an oven. (蛋糕、面包等的) 烤模 [英国英语]
+
+========================================================================
+>>> bronze
+------------------------------------------------------------------------
+bronze    [美 brɑːnz / 英 brɒnz]
+n. 青铜；青铜色，古铜色；青铜艺术品；铜牌
+adj. 青铜制的；青铜色的，古铜色的
+v. 使被太阳晒黑；镶上青铜面
+【名】 （Bronze）（葡）布龙泽（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Bronze is a yellowish-brown metal which is a mixture of copper and tin. 青铜
+   ≫   ...a bronze statue of Giorgi Dimitrov.  …一座乔治·季米特洛夫铜像。
+2. (COLOR) Something that is bronze is yellowish-brown in colour. 青铜色的
+   ≫   Her hair shone bronze and gold.  她的头发闪耀着青铜色和金黄色的光彩。
+
+========================================================================
+>>> injected
+------------------------------------------------------------------------
+injected    [美 ɪnˈdʒektɪd]
+充血的
+注入的
+★★ CET6 TEM4 injecting,injected,injects
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To inject a substance such as a medicine into someone means to put it into their body using a device with a needle called a syringe. 给…注射
+   ≫   His son was injected with strong drugs.  他的儿子被注射了强效的药。
+   ≫   The technique consists of injecting healthy cells into the weakened muscles.  这项技术包括把健康细胞注射进衰弱的肌肉里。
+2. (V-T) If you inject a new, exciting, or interesting quality into a situation, you add it. 注入; 增添
+   ≫   She kept trying to inject a little fun into their relationship.  她一直设法给他们的关系增添一点情趣。
+3. (V-T) If you inject money or resources into a business or organization, you provide more money or resources for it. 注入 (资金或资源) [商业]
+   ≫   The insurance fund would inject $750 into the banks.  该保险基金将向银行投入750美元。
+
+========================================================================
+>>> retrivial
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> retrieval
+------------------------------------------------------------------------
+retrieval    [美 rɪˈtriːv(ə)l / 英 rɪˈtriːv(ə)l]
+n. 找回，取回；（计算机系统信息的）检索；恢复，挽回
+★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The retrieval of information from a computer is the process of getting it back. (电脑中信息的) 读取
+   ≫   ...electronic storage and retrieval systems.  …电子存储和读取系统。
+2. (N-UNCOUNT) The retrieval of something is the process of getting it back from a particular place, especially from a place where it should not be. 找回; 取回
+   ≫   Its real purpose is the launching and retrieval of small aeroplanes in flight.  它的真正目的是发射和找回飞行中的小型飞机。
+
+========================================================================
+>>> retrival
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lexical
+------------------------------------------------------------------------
+lexical    [美 ˈleksɪk(ə)l / 英 ˈleksɪk(ə)l]
+adj. 词汇的；（与）词典（有关）的；词典编纂的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Lexical means relating to the words of a language. 词汇的 [usu ADJ n]
+   ≫   We chose a few of the commonest lexical items in the languages.  我们选取了各语言中最常见的几个词汇。
+
+========================================================================
+>>> contextual
+------------------------------------------------------------------------
+contextual    [美 kənˈtekstʃuəl / 英 kənˈtekstʃuəl]
+adj. 上下文的，与语境相关的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A contextual issue or account relates to the context of something. 上下文的 [正式] [usu ADJ n]
+   ≫   The writer builds up a convincing contextual picture of life during the Civil War.  该作者在文脉上勾勒出内战期间令人信服的生活画面。
+
+========================================================================
+>>> cues
+------------------------------------------------------------------------
+cues    [美 kjuːz / 英 kjuːz]
+n. 开端，线索；提示，关键；球杆；诱因（cue 的复数形式）
+★★★ CET4 TEM4 cueing,cued,cues
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In the theatre or in a musical performance, a performer's cue is something another performer says or does that is a signal for them to begin speaking, playing, or doing something. (在戏剧或音乐表演中提示表演者说话、演奏或动作的) 提示
+   ≫   The actors not performing sit at the side of the stage in full view, waiting for their cues.  未表演的男演员们坐在舞台边，对舞台一览无余，他们等待着上场的提示。
+2. (N-COUNT) If you say that something that happens is a cue for an action, you mean that people start doing that action when it happens. 触发事件
+   ≫   That was the cue for several months of intense bargaining.  此事触发了此后数月激烈的讨价还价。
+3. (N-COUNT) A cue is a long, thin wooden stick that is used to hit the ball in games such as billiards, pool, and snooker. (台球等所用的) 球杆
+4. (V-T) If one performer cues another, they say or do something which is a signal for the second performer to begin speaking, playing, or doing something. (为下一位演员) 提示
+   ≫   He read the scene, with Seaton cueing him.  在西顿提示下，他朗诵了这一场的台词。
+5. (V-T) to drive (a ball) with a cue (用球杆)击球
+
+========================================================================
+>>> dialogue
+------------------------------------------------------------------------
+dialogue    [美 ˈdaɪəlɔːɡ / 英 ˈdaɪəlɒɡ]
+n. 对白；对话，交换意见
+v. <美>（为解决问题而）参加对话，进行讨论；<美>为（电影、戏剧）配上对白
+★★★ CET4 TEM4 alsodialog
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Dialogue is communication or discussion between people or groups of people such as governments or political parties. 对话
+   ≫   People of all social standings should be given equal opportunities for dialogue.  社会各阶层的人都应该被给予平等对话的机会。
+2. (N-VAR) A dialogue is a conversation between two people in a book, film, or play. (书籍、影视、戏剧中的) 对白
+   ≫   Although the dialogue is sharp, the actors move too awkwardly around the stage.  尽管对白很清晰，但演员们在舞台上的动作却太不自然。
+
+========================================================================
+>>> curated
+------------------------------------------------------------------------
+curated
+v. 筹办（收藏品或展品）的展出；组织（音乐节的）演出（curate 的过去式及过去分词）
+adj. 仔细挑选并展览的
+★ curating,curated,curates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A curate is a clergyman in the Anglican Church who helps the priest. (英国国教的) 助理牧师
+2. (V-T) If an exhibition is curated by someone, they organize it. 组织 [usu passive]
+   ≫   The Hayward exhibition has been curated by the artist Bernard Luthi.  海沃德展览会是由艺术家伯纳德·卢西组织的。
+
+========================================================================
+>>> curated
+------------------------------------------------------------------------
+curated
+v. 筹办（收藏品或展品）的展出；组织（音乐节的）演出（curate 的过去式及过去分词）
+adj. 仔细挑选并展览的
+★ curating,curated,curates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A curate is a clergyman in the Anglican Church who helps the priest. (英国国教的) 助理牧师
+2. (V-T) If an exhibition is curated by someone, they organize it. 组织 [usu passive]
+   ≫   The Hayward exhibition has been curated by the artist Bernard Luthi.  海沃德展览会是由艺术家伯纳德·卢西组织的。
+
+========================================================================
+>>> mistral
+------------------------------------------------------------------------
+mistral    [英 ˈmɪstrəl / 美 ˈmɪstrəl]
+n. 密史脱拉风（法国南部主要出现于冬季的寒冷强风）
+n. （Mistral）（美）米斯特拉尔（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a strong cold dry wind that blows through the Rhône valley and S France to the Mediterranean coast, mainly in the winter 密史脱拉风; 一种强干冷风，主要在冬季
+
+========================================================================
+>>> seek
+------------------------------------------------------------------------
+seek    [英 siːk / 美 siːk]
+v. 寻找；寻求，谋求；请求（帮助），征求（意见）；试图，设法；找出，找到（seek sb./sth. out）；自然地向……移动；<古>去，前往（某地）
+★★★ CET4 TEM4 seeking,sought,seeks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you seek something such as a job or a place to live, you try to find one. 寻找 [正式]
+   ≫   They have had to seek work as labourers.  他们只好找体力活来做。
+   ≫   Four people who sought refuge in the Italian embassy have left voluntarily.  到意大利大使馆寻求避难的四个人已经自愿离开了。
+2. (V-T) When someone seeks something, they try to obtain it. 谋求 [正式]
+   ≫   The prosecutors have warned they will seek the death penalty.  原告已警告说他们会努力争取死刑。
+3. (V-T) If you seek someone's help or advice, you contact them in order to ask for it. 请求; 征求 [正式]
+   ≫   Always seek professional legal advice before entering into any agreement.  在签订任何协议之前，一定要征求法律专家的意见。
+   ≫   On important issues, they seek a second opinion.  在重要问题上，他们都征求别人的意见。
+4. (V-T) If you seek to do something, you try to do it. 力图; 设法 [正式]
+   ≫   He also denied that he would seek to annex the country.  他还否认了他企图并吞该国。
+
+========================================================================
+>>> allocation
+------------------------------------------------------------------------
+allocation    [美 ˌæləˈkeɪʃ(ə)n / 英 ˌæləˈkeɪʃ(ə)n]
+n. 配给量，划拨款，份额；分配，分派
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An allocation is an amount of something, especially money, that is given to a particular person or used for a particular purpose. (尤指经费) 配置
+   ≫   A State Department spokeswoman said that the aid allocation for Pakistan was still under review.  国务院的一位女发言人说对巴基斯坦的援助配置仍在审核之中。
+2. (N-UNCOUNT) The allocation of something is the decision that it should be given to a particular person or used for a particular purpose. 分配决定
+   ≫   Town planning and land allocation had to be coordinated.  城镇规划和土地分配决定必须要协调。
+
+========================================================================
+>>> PDE
+------------------------------------------------------------------------
+PDE
+abbr. 偏微分方程（Partial Differential Equation）；职业开发与教育委员会（Prefessional Development and Education）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We're always looking for ways to improve PDE. 我们一直在不断地寻找改进 PDE 的方法。
+≫   Strategies for building features using the pde. 使用PDE构建功能部件的策略。
+≫   Preparing the plug-in development environment (PDE). 准备好插件开发环境(PDE)。
+
+========================================================================
+>>> partial
+------------------------------------------------------------------------
+partial    [美 ˈpɑːrʃ(ə)l / 英 ˈpɑːʃ(ə)l]
+adj. 部分的，不完全的；偏袒的，不公平的；偏爱的
+n. （乐）分音，泛音
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use partial to refer to something that is not complete or whole. 部分的
+   ≫   He managed to reach a partial agreement with both republics.  他设法跟两个共和国达成了部分共识。
+   ≫   ...a partial ban on the use of cars in the city.  …城市内部分地区禁止使用轿车。
+2. (ADJ) If you are partial to something, you like it. 偏爱的 [v-link ADJ 'to' n/-ing]
+   ≫   He's partial to sporty women with blue eyes.  他对蓝眼睛的、运动型的女人是偏爱的。
+   ≫   Mollie confesses she is rather partial to pink.  莫莉承认她对粉红色是相当偏爱的。
+3. (ADJ) Someone who is partial supports a particular person or thing, for example, in a competition or dispute, instead of being completely fair. 偏袒的 [v-link ADJ]
+   ≫   I might be accused of being partial.  我可能会被人指责是偏袒的。
+
+========================================================================
+>>> partial differential equation
+------------------------------------------------------------------------
+partial differential equation
+偏微分方程：至少包含一个偏导数的微分方程。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is a partial differential equation satisfied by the electric field e. 这是一个，由电场e确定的偏微分方程。
+≫   It is a new method to generate surfaces with partial differential equation (PDE). 用偏微分方程(PDE)构造曲面是一种新兴的曲面造型方法。
+≫   Partial differential equation is widely used in problems of science and engineering. 偏微分方程在科学和工程上有着广泛的应用。
+
+========================================================================
+>>> ode
+------------------------------------------------------------------------
+ode    [美 oʊd / 英 əʊd]
+n. 赋；颂歌；颂诗
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An ode is a poem, especially one that is written in praise of a particular person, thing, or event. 颂诗; 颂歌
+   ≫   ...Keats' "Ode to a Nightingale."  ...济慈的《夜莺颂》。
+
