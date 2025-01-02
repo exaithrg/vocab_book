@@ -76763,3 +76763,914 @@ v. 巧妙地移动；操纵，使花招；部署（军队、船只等）；演�
 Herbst Maneuver
 Herbst机动
 
+========================================================================
+>>> labor
+------------------------------------------------------------------------
+labor    [美 ˈleɪbər / 英 ˈleɪbə(r)]
+n. 劳动；工作；劳工；分娩
+vi. 劳动；努力；苦干
+vt. 详细分析；使厌烦
+n. （Labor）人名；（德、塞、法）拉博尔；（英）拉博
+★★★★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The developments leave the airline with several problems, including an unsettled labor situation. 事情的发展给航空公司带来了一些问题，其中包括不安定的劳工状况。《柯林斯英汉双解大词典》
+≫   The fruit of labor is sweetest. 劳动的果实最甜美。
+≫   After Labor Day we start classes. 劳动节之后我们就开学了。
+
+========================================================================
+>>> stall
+------------------------------------------------------------------------
+stall    [美 stɔːl / 英 stɔːl]
+n. 货摊，贩卖处，咨询台；牲畜棚，马厩，牛棚；（房间内的）小隔间，淋浴室，洗手间；（教堂内）唱诗班和牧师的座位；<英>（剧场的）正厅前排座位（stalls）；（发动机的）熄火，（车辆的）抛锚，（飞机的）失速，（轮船的）停泊；<美>（机动车停车场的）车位；（赛马开始前各马站位的）单间马房
+v. （使）熄火，抛锚；故意拖延（以赢得时间）；拖住（某人）；暂缓，搁置，停顿；（飞机）失速；（航海）（由于风力不够而）航行失控；把（牲畜）关在厩内（养肥）
+【名】 （Stall）（美）斯塔尔（人名）
+★★ CET6 TEM4 stalling,stalled,stalls
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If a process stalls, or if someone or something stalls it, the process stops but may continue at a later time. 使暂停; 暂停
+   ≫   The Social Democratic Party has vowed to try to stall the bill until the current session ends.  该社会民主党已立誓设法暂停该议案直至当前会议结束。
+   ≫   ...but the peace process stalled.  …但是和平进程暂停了。
+2. (V-I) If you stall, you try to avoid doing something until later. 拖延
+   ≫   Thomas had spent all week stalling over his decision.  托马斯花了整周的时间迟迟不做决定。
+3. (V-T) If you stall someone, you prevent them from doing something until a later time. 拖住 (某人)
+   ≫   The shop manager stalled the man until the police arrived.  那个商场经理把那人拖住直到警察赶到。
+4. (V-T/V-I) If a vehicle stalls or if you accidentally stall it, the engine stops suddenly. 使 (发动机) 突然熄火; (发动机) 突然熄火
+   ≫   The engine stalled.  发动机突然熄火了。
+5. (N-COUNT) A stall is a large table on which you put goods that you want to sell, or information that you want to give people. 货摊; 咨询台
+   ≫   ...market stalls selling local fruits.  …出售当地水果的市场摊位。
+6. (N-PLURAL) The stalls in a theatre or concert hall are the seats on the ground floor directly in front of the stage. 舞台前排座位 [英国英语]
+   ≫   With the balcony blocked off, patrons filled most of the stalls.  楼厅包厢被封闭了，赞助人几乎坐满了舞台前方的座位。
+7. (N-COUNT) A stall is a small enclosed area in a room which is used for a particular purpose, for example a shower. 小隔间 [美国英语]
+   ≫   She went into the shower stall, turned on the water, and grabbed the soap.  她走进淋浴间，打开水，抓起香皂。
+8. (N) a compartment in a stable or shed for confining or feeding a single animal (马厩或牛棚里圈养一个动物的)小隔间
+
+========================================================================
+>>> margin
+------------------------------------------------------------------------
+margin    [美 ˈmɑːrdʒɪn / 英 ˈmɑːdʒɪn]
+n. 页边空白；差额，幅度；盈余，利润；余地，备用的时间（或空间、金钱等）；边缘，非主体部分；保证金，押金；<澳新>额外报酬
+v. 给……加上边；预付定金，交押金；<古>页边做注释或总结
+【名】 （Margin）（俄、意）马尔金（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A margin is the difference between two amounts, especially the difference in the number of votes or points between the winner and the loser in an election or other contest. 差数
+   ≫   They could end up with a 50-point winning margin.  他们最后可能会以50点的优势获胜。
+2. (N-COUNT) The margin of a written or printed page is the empty space at the side of the page. 页边的空白
+   ≫   She added her comments in the margin.  她在页边空白处加上了她的评语。
+3. (N-VAR) If there is a margin for something in a situation, there is some freedom to choose what to do or decide how to do it. 余地
+   ≫   The money is collected in a straightforward way with little margin for error.  这笔钱是直接募集上来的, 几乎没有出错的余地。
+4. (N-COUNT) The margin of a place or area is the extreme edge of it. 边缘
+   ≫   ...the low coastal plain along the western margin.  …沿着西部边缘地带的低洼海岸平原。
+5. (N-PLURAL) To be on the margins of a society, group, or activity means to be among the least typical or least important parts of it. 非主体部分
+   ≫   Students have played an important role in the past, but for the moment, they're on the margins.  学生们过去发挥了重要的作用，但现在，他们不再重要了。
+
+========================================================================
+>>> stall margin
+------------------------------------------------------------------------
+stall margin
+失速裕度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As a result, the method is reliable basically and can be used to implement stall margin customizing. 结果表明，本方法基本可靠，可以用于裕度定制目的。
+≫   The main reason of extended stall margin was that about 75% axial chord of the tip flow field has been improved. ②第一套方案对离心叶轮大叶片75%左右轴向弦长前尖部流场的改善是失速裕度提高的主要原因；
+≫   To implement stall margin customizing, two-dimensional performance prediction method of axial compressor for stall margin customizing was developed. 为实施裕度定制，本文开发了能够体现裕度定制思想的轴流压气机二维特性预估方法。
+
+========================================================================
+>>> steeply
+------------------------------------------------------------------------
+steeply    [美 ˈstiːpli / 英 ˈstiːpli]
+adv. 陡峭地；险峻地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The path started to ascend more steeply. 小径开始陡峭而上。《牛津词典》
+≫   Unemployment is rising steeply. 失业率正在急剧上升。《柯林斯英汉双解大词典》
+≫   The path slopes steeply uphill. 小径直上陡峭的山坡。《牛津词典》
+
+========================================================================
+>>> reversal
+------------------------------------------------------------------------
+reversal    [英 rɪˈvɜːs(ə)l / 美 rɪˈvɜːrs(ə)l]
+n. 反转，颠倒；（运气）逆转；挫折，失败；（角色的）交换，互换；<法律>（对下级法院或权力机构裁决、宣判或法令的）撤销，废弃；（摄）反转
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A reversal of a process, policy, or trend is a complete change in it. 彻底改变; 逆转
+   ≫   The paper says the move represents a complete reversal of previous U.S. policy.  报上说这一举动反映了之前美国政策的彻底逆转。
+2. (N-COUNT) When there is a role reversal or a reversal of roles, two people or groups exchange their positions or functions. (位置或功能的) 转变
+   ≫   When children end up taking care of their parents, it is a strange role reversal indeed.  当孩子们最终照看起父母来的时候，这确实是一个奇怪的角色转变。
+
+========================================================================
+>>> unveil
+------------------------------------------------------------------------
+unveil    [美 ˌʌnˈveɪl / 英 ˌʌnˈveɪl]
+v. （首次）公开，揭示；为……揭幕，揭去……上的覆盖物；除去面纱，显露
+★★ CET6 TEM4 unveiling,unveiled,unveils
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone formally unveils something such as a new statue or painting, they draw back the curtain which is covering it. 为…揭幕
+   ≫   ...a ceremony to unveil a monument to the victims.  …死难者纪念碑揭幕仪式。
+2. (V-T) If you unveil a plan, new product, or some other thing that has been kept secret, you introduce it to the public. 公布
+   ≫   Mr. Werner unveiled his new strategy this week.  沃纳先生本周公布了他的新策略。
+
+========================================================================
+>>> unreavel
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> unreal
+------------------------------------------------------------------------
+unreal    [美 ˌʌnˈriːəl / 英 ˌʌnˈrɪəl]
+adj. 不真实的；假的；幻想的；虚构的
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that a situation is unreal, you mean that it is so strange that you find it difficult to believe it is happening. 很奇异的 [v-link ADJ]
+   ≫   Then we won our next 10 games, which remains a record. It was unreal.  接着我们赢了后面的10场比赛，而且到现在这仍然是最高纪录，真太神奇了。
+2. (N-UNCOUNT) unreality N-UNCOUNT 奇异
+   ≫   To his surprise he didn't feel too weak. Light-headed certainly, and with a sense of unreality, but able to walk.  令他惊讶的是，他并没有感觉太虚弱，虽然头晕，并有些不真实感，但能走路。
+3. (ADJ) If you use unreal to describe something, you are critical of it because you think that it is not like, or not related to, things you expect to find in the real world. 虚构的 [表不满]
+   ≫   Almost all fictional detectives are unreal.  几乎所有小说里的侦探都是虚构的。
+
+========================================================================
+>>> marry
+------------------------------------------------------------------------
+marry    [美 ˈmæri / 英 ˈmæri]
+v. 结婚，嫁，娶；为……主持婚礼；把……嫁给，为……娶亲；使结合在一起；拼接缆绳
+【名】 （Marry）（阿拉伯）马雷，（法）马里（人名）
+★★★★ CET4 TEM4 marrying,married,marries
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) When two people get married or marry, they legally become husband and wife in a special ceremony. Get married is less formal and more commonly used than marry. 结婚
+   ≫   I thought he would change after we got married.  我原以为他会在我们结婚后改变的。
+   ≫   They married a month after they met.  他们在认识一个月后就结婚了。
+   ≫   He wants to marry her.  他想娶她。
+2. (V-T) When a priest or official marries two people, he or she conducts the ceremony in which the two people legally become husband and wife. 为…主持婚礼
+   ≫   The minister has agreed to marry us in the college chapel.  这位牧师已经同意在学校的小教堂为我们主持婚礼。
+3. (V-T) to unite closely or intimately 紧密联合
+
+========================================================================
+>>> merry
+------------------------------------------------------------------------
+merry    [美 ˈmeri / 英 ˈmeri]
+adj. <旧>愉快的，高兴的；<旧>令人愉快的；<英，非正式>微醉的
+【名】 （Merry）（英、法、西）梅里（人名）
+★ CET4 TEM4 merrier,merriest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone's character or behaviour as merry, you mean that they are happy and cheerful. 欢快的 [老式]
+   ≫   From the house come bursts of merry laughter.  从房子里传出阵阵欢快的笑声。
+2. (ADV) merrily ADV 欢快地 [ADV after v]
+   ≫   Chris threw back his head and laughed merrily.  克里斯开心地仰天大笑。
+3. (CONVENTION) Just before Christmas and on Christmas Day, people say "Merry Christmas" to other people to express the hope that they will have a happy time. 祝圣诞快乐 [套语]
+   ≫   Merry Christmas, everyone.  祝大家圣诞快乐。
+
+========================================================================
+>>> chapel
+------------------------------------------------------------------------
+chapel    [英 ˈtʃæp(ə)l / 美 ˈtʃæp(ə)l]
+n. 小礼拜堂，小教堂；礼拜；印刷（或报业）工会会员，印刷（或报业）工会分部；殡仪馆；<美>停尸房
+adj. <英，非正式>非国教的
+【名】 （Chapel）（英）查普尔，（法）沙佩尔（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chapel is a part of a church which has its own altar and which is used for private prayer. (附属于大教堂的) 小教堂
+   ≫   ...the chapel of the Virgin Mary.  …圣母玛丽亚的教堂。
+2. (N-COUNT) A chapel is a small church attached to a hospital, school, or prison. (附属于医院、学校或监狱的) 小教堂
+   ≫   We married in the college chapel.  我们在学院的小教堂里结的婚。
+3. (N-VAR) A chapel is a building used for worship by members of some Christian churches. Chapel refers to the religious services that take place there. 礼拜堂; 礼拜式
+   ≫   ...a Methodist chapel.  …一个卫理公会教徒的礼拜堂。
+
+========================================================================
+>>> church
+------------------------------------------------------------------------
+church    [美 tʃɜːrtʃ / 英 tʃɜːtʃ]
+n. 教堂；礼拜仪式；教派，教会
+v. <古>把（产妇等）带到教堂做感恩礼拜；<美>对……进行教会裁决
+adj. 教会的；礼拜的
+【名】 （Church）（英）丘奇（人名）
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A church is a building in which Christians worship. You usually refer to this place as church when you are talking about the time that people spend there. 教堂
+   ≫   ...one of the country's most historic churches.  …该国家历史上最著名的教堂之一。
+   ≫   ...St Helen's Church.  …圣海伦教堂。
+   ≫   The family had gone to church.  这家人都去教堂了。
+2. (N-COUNT) A Church is one of the groups of people within the Christian religion, for example Catholics or Methodists, that have their own beliefs, clergy, and forms of worship. (基督教的) 教派
+   ≫   ...cooperation with the Catholic Church.  …与天主教派的合作。
+   ≫   Church leaders said he was welcome to return.  该教派领袖说欢迎他回皈。
+
+========================================================================
+>>> worship
+------------------------------------------------------------------------
+worship    [英 ˈwɜːʃɪp / 美 ˈwɜːrʃɪp]
+v. 敬奉（神）；爱慕，崇拜
+n. 敬神，拜神；崇拜，爱慕；<英> 阁下（对地位高的人的尊称）
+★★ CET4 TEM4 worshipping,worshipped,worships
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you worship a god, you show your respect to the god, for example, by saying prayers. 敬奉
+   ≫   ..disputes over ways of life and ways of worshipping God.  …一些在生活方式和敬奉上帝方式上的争论。
+   ≫   He prefers to worship in his own home.  他更喜欢在自己的家里敬奉神明。
+2. (N-UNCOUNT) Worship is also a noun. 敬奉
+   ≫   ...the worship of the ancient Roman gods.  …对古罗马众神的敬奉。
+3. (N-COUNT) worshipper N-COUNT 敬神者
+   ≫   She burst into tears and loud sobs that disturbed the other worshippers.  她突然哭起来，大声抽噎，干扰了其他拜神者。
+4. (V-T) If you worship someone or something, you love them or admire them very much. 爱慕
+   ≫   She had worshipped him for years.  她爱慕他已有好多年了。
+
+========================================================================
+>>> dispute
+------------------------------------------------------------------------
+dispute    [美 dɪˈspjuːt / 英 dɪˈspjuːt]
+n. 争论，辩论，纠纷
+v. 对……提出质疑，否认；争论，辩论；争夺，竞争；<旧>阻止（着陆），抵抗（进攻）
+★★★★ CET4 TEM4 disputing,disputed,disputes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A dispute is an argument or disagreement between people or groups. 争论
+   ≫   They have won previous pay disputes with the government.  他们曾赢过前几起与政府的工资纠纷。
+2. (V-T) If you dispute a fact, statement, or theory, you say that it is incorrect or untrue. 反驳
+   ≫   He disputed the allegations.  他驳斥了这些无根据的指控。
+   ≫   Nobody disputed that Davey was clever.  没有人反驳戴维是聪明的。
+3. (V-RECIP) When people dispute something, they fight for control or ownership of it. You can also say that one group of people dispute something with another group. 争夺 (控制权、所有权)
+   ≫   Russia and Ukraine have been disputing the ownership of the fleet.  俄罗斯和乌克兰一直在争夺该舰队的所有权。
+4. (PHRASE) If two or more people or groups are in dispute, they are arguing or disagreeing about something. (人或组织) 有争议的
+   ≫   The two countries are in dispute over the boundaries of their coastal waters.  两国对它们沿海海域的边界是有争议的。
+5. (PHRASE) If something is in dispute, people are questioning it or arguing about it. (某事物) 有争议的
+   ≫   The schedule for the talks has been agreed, but the location is still in dispute.  会谈的时间表已经达成一致，但地点尚有争议。
+
+========================================================================
+>>> maneuver
+------------------------------------------------------------------------
+maneuver    [美 məˈnuːvər / 英 məˈnuːvə(r)]
+n. 细致巧妙的移动，机动动作；策略，手段；军事演习；（军队或船只的）调动，部署
+v. 巧妙地移动；操纵，使花招；部署（军队、船只等）；演习
+★★ CET6 TEM8 maneuvering,maneuvered,maneuvers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She can then maneuver the 3D image on the computer screen to map the shortest, least invasive surgical path to the tumor. 然后，她可以操纵电脑屏幕上的 3D 图像，以绘制出最短、切口最小的通往肿瘤的手术路径。
+≫   A new back flip maneuver allowed station astronauts to photograph the shuttle's underbelly, and an extra-long robotic arm enabled astronauts see parts of the shuttle that were previously out of sight. 新的后空翻使空间站的宇航员可以拍摄航天飞机的腹部，超长的机械臂使宇航员可以看到航天飞机以前看不见的部分。
+≫   The dorsad reduction maneuver has been used for treating 120 cases of posticous cervical spondylopathy. 背部复位手法已经被用于治疗120例后发性颈椎病。
+
+========================================================================
+>>> astronauts
+------------------------------------------------------------------------
+astronauts    [美 ˈæstrənɔːts; ˈæstrənɑːts]
+n. 宇航员（astronaut 的复数）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An astronaut is a person who is trained for travelling in a spacecraft. 宇航员
+
+========================================================================
+>>> shuttle
+------------------------------------------------------------------------
+shuttle    [美 ˈʃʌt(ə)l / 英 ˈʃʌt(ə)l]
+n. 航天飞机（space shuttle 的简称）；往返于两地的交通工具，摆渡车；（英法之间英吉利海峡隧道的）穿梭火车（the Shuttle）；（织机的）梭子；羽毛球（shuttlecock 的简称）
+v. 穿梭，往返；穿梭运送
+★★ CET6 TEM4 shuttling,shuttled,shuttles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shuttle is the same as a . 航天飞机
+2. (N-COUNT) A shuttle is a plane, bus, or train which makes frequent trips between two places. 穿梭班机; 穿梭班车; 穿梭火车
+   ≫   There is a free 24-hour shuttle between the airport terminals.  在机场的各航空站之间有24小时的免费穿梭巴士。
+3. (V-T/V-I) If someone or something shuttles or is shuttled from one place to another place, they frequently go from one place to the other. 使频频往返于两地之间; 频频往返于两地之间
+   ≫   He and colleagues have shuttled back and forth between the three capitals.  他和同事们一直来回往返于3个首都之间。
+
+========================================================================
+>>> underbelly
+------------------------------------------------------------------------
+underbelly    [美 ˈʌndərbeli / 英 ˈʌndəbeli]
+n. 下腹部；薄弱部分；易受攻击的部位、区域等
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The underbelly of something is the part of it that can be most easily attacked or criticized. 弱点
+   ≫   I know where his soft underbelly is, and that's his material possessions.  我知道他的弱点是什么，是他的财产。
+2. (N-COUNT) The underbelly of an animal or a vehicle is the underneath part of it. 腹部
+   ≫   The missiles emerge from the underbelly of the transport plane.  导弹从运输机的腹部发出。
+
+========================================================================
+>>> belly
+------------------------------------------------------------------------
+belly    [美 ˈbeli / 英 ˈbeli]
+n. （人或动物的）腹部，肚子；胃，胃口；（物体的）腹状部分；腹部猪肉切；（弦乐器的）面板
+v. 鼓起，张满
+【名】 （Belly）（法、意、葡）贝利（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The belly of a person or animal is their stomach or abdomen. 肚子; 腹部
+   ≫   She laid her hands on her swollen belly.  她把手放在隆起的肚子上。
+   ≫   ...a horse with its belly ripped open.  …一匹被破开了肚子的马。
+
+========================================================================
+>>> ripped
+------------------------------------------------------------------------
+ripped    [美 rɪpt / 英 rɪpt]
+adj. 喝醉的；受毒品或酒精影响的；撕碎的；有明显肌肉线条的
+v. 撕；扯；剥；（从光盘把图片或声音）复制（至电脑）（rip 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) torn 撕碎的
+   ≫   ripped jeans  
+
+========================================================================
+>>> ripped open
+------------------------------------------------------------------------
+ripped open
+撕开：用力将物体撕开或裂开。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He ripped open the envelope. 他撕开了信封。
+≫   The boy was almost blown in half as the pressure ripped open his waist and sent him flying. 男孩几乎被吹爆成两半，因为气压将他的腰部炸开而且让他飞了出去。
+≫   He was killed when a gunshot ripped open his belly and his intestines spilled out into his hands. 他被一枪打中了腹部，内脏都流到了他的手上，他就这样死去了。
+
+========================================================================
+>>> Enthusiast
+------------------------------------------------------------------------
+enthusiast    [英 ɪnˈθjuːziæst / 美 ɪnˈθuːziæst]
+n. 热衷者，爱好者；热烈支持者，热情赞成者；<古>基督教狂热分子
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An enthusiast is a person who is very interested in a particular activity or subject and who spends a lot of time on it. 爱好者
+   ≫   He is a great sports enthusiast.  他是个真正的体育爱好者。
+
+========================================================================
+>>> enthusiasm
+------------------------------------------------------------------------
+enthusiasm    [美 ɪnˈθuːziæzəm / 英 ɪnˈθjuːziæzəm]
+n. 热情，热忱；热衷的活动，热爱的事物
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Enthusiasm is great eagerness to be involved in a particular activity that you like and enjoy or that you think is important. 热情
+   ≫   Their skill and enthusiasm has got them on the team.  他们的技术和热情使他们进了那支团队。
+2. (N-COUNT) An enthusiasm is an activity or subject that interests you very much and that you spend a lot of time on. 热衷的活动; 喜爱的科目
+   ≫   Draw him out about his current enthusiasms and future plans.  让他畅谈一下他当前喜爱的科目和将来的打算。
+
+========================================================================
+>>> Christianity
+------------------------------------------------------------------------
+Christianity    [美 ˌkrɪstiˈænəti / 英 ˌkrɪstiˈænəti]
+n. 基督教；基督教精神，基督教教义
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Christianity is a religion that is based on the teachings of Jesus Christ and the belief that he was the son of God. 基督教
+   ≫   He converted to Christianity that day.  那天他改信了基督教。
+
+========================================================================
+>>> Islam
+------------------------------------------------------------------------
+Islam    [美 ˈɪzlɑːm; ɪzˈlɑːm / 英 ˈɪzlɑːm; ɪzˈlɑːm]
+n. 伊斯兰教；（阿拉伯、巴基、孟）伊斯兰（人名）
+★★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Islam is the religion of the Muslims, which was started by Mohammed. 伊斯兰教
+   ≫   He converted to Islam at the age of 16.  他在16岁时皈依了伊斯兰教。
+2. (N-UNCOUNT) Some people use Islam to refer to all the countries where Islam is the main religion. 伊斯兰教国家
+   ≫   ...relations between Islam and the West.  …伊斯兰教国家和西方国家之间的关系。
+
+========================================================================
+>>> Catholicism
+------------------------------------------------------------------------
+Catholicism    [美 kəˈθɑːləsɪzəm / 英 kəˈθɒləsɪzəm]
+n. 天主教；天主教义
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Catholicism is the traditions, the behaviour, and the set of Christian beliefs that are held by Catholics. 天主教的教义
+   ≫   ...her conversion to Catholicism.  … 她对天主教的皈依。
+
+========================================================================
+>>> convert to
+------------------------------------------------------------------------
+convert to
+转变为：将某物或某人从一种状态、形式或信仰转变为另一种状态、形式或信仰。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She, too, was a convert to Roman Catholicism. 她也改信罗马天主教了。《柯林斯英汉双解大词典》
+≫   Since 2010, the couple has helped 125 small dairy farms convert to grass-fed, with more than 80%of those farms coming on board during the last two years. 自2010年以来，这对夫妇已经帮助125家小型奶牛场转型为草饲农场，其中超过80%的牧场是在过去两年内才开始运营的。
+≫   Since 2010, the couple has helped 125 small dairy farms convert to grass-fed, with more than 80% of those farms coming on board during the last two years. 自2010年以来，这对夫妇已经帮助125个小型奶牛场转变为草饲模式，其中超过80%的奶牛场在过去两年中加入了这个行列。
+
+========================================================================
+>>> Buddhism
+------------------------------------------------------------------------
+Buddhism    [美 ˈbuːdɪzəm / 英 ˈbʊdɪzəm]
+n. 佛教
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Buddhism is a religion which teaches that the way to end suffering is by overcoming your desires. 佛教
+
+========================================================================
+>>> Taoism
+------------------------------------------------------------------------
+taoism    [英 ˈdaʊɪzəm; ˈtaʊɪzəm / 美 ˈdaʊɪzəm]
+n. 道教；道家的学说
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Taoism is a Chinese religious philosophy which teaches that people should lead a simple honest life and not interfere with the course of natural events. 道教
+
+========================================================================
+>>> Protestantism
+------------------------------------------------------------------------
+Protestantism    [美 ˈprɑːtɪstəntɪzəm / 英 ˈprɒtɪstəntɪzəm]
+n. 新教；新教教义；新教徒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Protestantism is the set of Christian beliefs that are held by Protestants. 新教; 新教教义
+   ≫   ...the spread of Protestantism.  ...新教的传播。
+
+========================================================================
+>>> Catholicism
+------------------------------------------------------------------------
+Catholicism    [美 kəˈθɑːləsɪzəm / 英 kəˈθɒləsɪzəm]
+n. 天主教；天主教义
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Catholicism is the traditions, the behaviour, and the set of Christian beliefs that are held by Catholics. 天主教的教义
+   ≫   ...her conversion to Catholicism.  … 她对天主教的皈依。
+
+========================================================================
+>>> Lutheranism
+------------------------------------------------------------------------
+Lutheranism    [英 ˈluːθərənɪzəm]
+n. 路德教教义（等于 Lutherism）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> Calvinism
+------------------------------------------------------------------------
+Calvinism    [美 ˈkælvɪnɪzəm / 英 ˈkælvɪnɪzəm]
+n. 加尔文主义；加尔文教派
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the theological system of John Calvin and his followers, characterized by emphasis on the doctrines of predestination, the irresistibility of grace, and justification by faith 加尔文主义; 约翰·加尔文及其追随者的理论系统，该理论强调神预定论，不可抗拒的恩典和因信称义
+
+========================================================================
+>>> Anabaptism
+------------------------------------------------------------------------
+anabaptism    [美 ˌænəˈbæptɪzəm / 英 ænəˈbæptɪzəm]
+n. 再洗礼
+
+========================================================================
+>>> Methodism
+------------------------------------------------------------------------
+methodism    [美 ˈmeθədɪzəm / 英 ˈmeθədɪzəm]
+n. 墨守成规；拘泥形式
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Methodism is the beliefs and practices of Methodists. 循道宗
+
+========================================================================
+>>> Puritanism
+------------------------------------------------------------------------
+puritanism    [美 ˈpjʊrɪtənɪzəm / 英 ˈpjʊərɪtənɪzəm]
+n. 清教；清教主义；清教徒习俗；道德上的极端拘谨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Puritanism is behaviour or beliefs that are based on strict moral or religious principles, especially the principle that people should avoid physical pleasures. (特指避免肉体之欢的)清教徒行为和教义 [表不满]
+   ≫   ...Southern Baptist puritanism.  ...美南浸信会的清教徒行为及教义。
+
+========================================================================
+>>> Quakerism
+------------------------------------------------------------------------
+Quakerism    ['kweikərizm]
+n. 贵格会；教友派的教义
+
+========================================================================
+>>> Presbyterian
+------------------------------------------------------------------------
+Presbyterian    [美 ˌprezbɪˈtɪriən / 英 ˌprezbɪˈtɪəriən]
+adj. 长老会的
+n. 长老教会员
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Presbyterian means belonging or relating to a Protestant church that is governed by a body of official people all of equal rank. 长老制的; 长老会的
+   ≫   ...a Presbyterian minister.  ...一位长老会牧师。
+2. (N-COUNT) A Presbyterian is a member of the Presbyterian church. 长老会教徒
+
+========================================================================
+>>> Islam
+------------------------------------------------------------------------
+Islam    [美 ˈɪzlɑːm; ɪzˈlɑːm / 英 ˈɪzlɑːm; ɪzˈlɑːm]
+n. 伊斯兰教；（阿拉伯、巴基、孟）伊斯兰（人名）
+★★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Islam is the religion of the Muslims, which was started by Mohammed. 伊斯兰教
+   ≫   He converted to Islam at the age of 16.  他在16岁时皈依了伊斯兰教。
+2. (N-UNCOUNT) Some people use Islam to refer to all the countries where Islam is the main religion. 伊斯兰教国家
+   ≫   ...relations between Islam and the West.  …伊斯兰教国家和西方国家之间的关系。
+
+========================================================================
+>>> Islamism
+------------------------------------------------------------------------
+Islamism    [美 ˈɪzləmɪzəm / 英 ˈɪzləmɪzəm]
+n. 伊斯兰教；伊斯兰教教义及习俗等
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) support of or advocacy for Islamic fundamentalism 伊斯兰主义
+
+========================================================================
+>>> Zen
+------------------------------------------------------------------------
+zen    [英 zen / 美 zen]
+n. 禅；禅宗；禅宗信徒（等于 Zen Buddhism）
+n. （Zen）人名；（意、索、纳米、印尼、英）泽恩
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Zen or Zen Buddhism is a form of the Buddhist religion that concentrates on meditation rather than on studying religious writings. 禅宗
+
+========================================================================
+>>> Mahayana
+------------------------------------------------------------------------
+Mahayana    [美 ˌmɑːhəˈjɑːnə / 英 ˌmɑːhəˈjɑːnə]
+n. 大乘佛教
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a liberal Buddhist school of China and Japan, whose adherents aim to disseminate Buddhist doctrines, seeking enlightenment not for themselves alone, but for all sentient beings 大乘佛教; 中国和日本的自由主义佛教，其支持者以传播佛教教义为目标，不为自身，而为所有有感知之士寻求启示
+2. (N) (as modifier) 大乘佛教的
+   ≫   Mahayana Buddhism  
+
+========================================================================
+>>> Theravada
+------------------------------------------------------------------------
+Theravada    [美 ˌθerəˈvɑːdə / 英 ˌθerəˈvɑːdə]
+n. （主要流传于斯里兰卡、缅甸、泰国和柬埔寨的）小乘佛教
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the southern school of Buddhism, the name preferred by Hinayana Buddhists for their doctrines 小乘佛教; 佛教的南部宗派，小乘佛教教徒因为其宗教教条而命此名
+
+========================================================================
+>>> Judaism
+------------------------------------------------------------------------
+judaism    [美 ˈdʒuːdiɪzəmˌˈdʒuːdeɪɪzəm / 英 ˈdʒuːdeɪɪzəm]
+n. 犹太教；（总称）犹太人；犹太主义
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Judaism is the religion of the Jewish people. It is based on the Old Testament of the Bible and the Talmud. 犹太教
+
+========================================================================
+>>> Hinduism
+------------------------------------------------------------------------
+Hinduism    [英 ˈhɪnduːɪzəm / 美 ˈhɪnduːɪzəm]
+n. 印度教
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Hinduism is an Indian religion. It has many gods and teaches that people have another life on earth after they die. 印度教
+
+========================================================================
+>>> Shintoism
+------------------------------------------------------------------------
+Shintoism    [英 ˈʃɪntəʊɪz(ə)m]
+n. 日本之神道教
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Any of the sacred beings worshiped in Shintoism, conceived as spirits abiding in natural phenomena and sometimes in people with extraordinary qualities. 任何在神道中所为人崇拜的神圣本质，被认为是一种永恒存在于自然现象中及偶尔存在于拥有不凡特质的人们身上的精神。
+
+========================================================================
+>>> Brahmanism
+------------------------------------------------------------------------
+Brahmanism    [美 ˈbrɑːməˌnɪzəm / 英 ˈbrɑːməˌnɪzəm]
+n. 婆罗门教
+alsoBrahminism
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the religious and social system of orthodox Hinduism, characterized by diversified pantheism, the caste system, and the sacrifices and family ceremonies of Hindu tradition 婆罗门教; 印度的古代宗教，为印度教的前身
+
+========================================================================
+>>> Hindu
+------------------------------------------------------------------------
+hindu    [美 ˈhɪnduː; ˌhɪnˈduː / 英 ˈhɪnduː; ˌhɪnˈduː]
+adj. （Hindu）印度的；印度教的
+n. （Hindu）印度人；印度教教徒
+n. （Hindu）（印、美、英、俄、加）欣杜（人名）
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A Hindu is a person who believes in Hinduism and follows its teachings. 印度教徒
+2. (ADJ) Hindu is used to describe things that belong or relate to Hinduism. 印度教的
+   ≫   ...a Hindu temple.  …一座印度教寺庙。
+
+========================================================================
+>>> Hinduism
+------------------------------------------------------------------------
+Hinduism    [美 ˈhɪnduːɪzəm / 英 ˈhɪnduːɪzəm]
+n. 印度教
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Hinduism is an Indian religion. It has many gods and teaches that people have another life on earth after they die. 印度教
+
+========================================================================
+>>> Brahminism
+------------------------------------------------------------------------
+Brahminism    [美 ˈbrɑːməˌnɪzəm / 英 ˈbrɑːmɪnɪzəm]
+n. 婆罗门教
+alsoBrahminism
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the religious and social system of orthodox Hinduism, characterized by diversified pantheism, the caste system, and the sacrifices and family ceremonies of Hindu tradition 婆罗门教; 印度的古代宗教，为印度教的前身
+
+========================================================================
+>>> Sikhism
+------------------------------------------------------------------------
+Sikhism    ['si:kizəm]
+n. 锡克教
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Sikhism is an Indian religion which separated from Hinduism in the sixteenth century and which teaches that there is only one God. 锡克教 (印度的一种宗教，于16世纪从印度教分离出来，信奉一神论)
+
+========================================================================
+>>> pious
+------------------------------------------------------------------------
+pious    [美 ˈpaɪəs / 英 ˈpaɪəs]
+adj. 虔诚的；敬神的；可嘉的；尽责的
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is pious is very religious and moral. 虔诚的
+   ≫   He was brought up by pious female relatives.  他是由虔诚的女性亲属抚养大的。
+2. (ADV) piously ADV 虔诚地 [ADV with v]
+   ≫   Conti kneeled and crossed himself piously.  康蒂跪下，虔诚地在身上划十字。
+
+========================================================================
+>>> pope
+------------------------------------------------------------------------
+pope    [美 poʊp / 英 pəʊp]
+n. 教皇，罗马教皇；权威，大师
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The pope is the head of the Roman Catholic Church. 罗马天主教教皇 [usu 'the' N; N-TITLE]
+   ≫   The highlight of the pope's visit will be his message to the people.  教皇访问的亮点是，他将给人们传达训诫。
+2. (N) → another name for ruffe
+
+========================================================================
+>>> pagan
+------------------------------------------------------------------------
+pagan    [美 ˈpeɪɡən / 英 ˈpeɪɡən]
+n. 异教徒（信非主流宗教者）；非基督教徒；新异教主义者；无宗教信仰者
+adj. 异教的，异教徒的
+n. （Pagan）（美、爱）帕干（人名）
+★★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Pagan beliefs and activities do not belong to any of the main religions of the world. They are older, or are believed to be older, than other religions. 异教徒的
+   ≫   The Christian church has adapted many pagan ideas over the centuries.  几个世纪以来，基督教会已经采用并改编许多异教思想。
+2. (N-COUNT) In former times, pagans were people who did not believe in Christianity and whom many Christians considered to be inferior people. 异教徒
+   ≫   The pagans used torchlight parades and bonfires to celebrate important events.  异教徒们用火把游行和篝火来庆祝重大的事件。
+
+========================================================================
+>>> Allah
+------------------------------------------------------------------------
+allah    [美 ˈæləˌˈɑːləˌɑːˈlɑː / 英 ˈælə; əˈlɑː]
+n. 真主；阿拉
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) Allah is the name of God in Islam. 安拉
+   ≫   Allah be praised!  赞美安拉！
+
+========================================================================
+>>> altar
+------------------------------------------------------------------------
+altar    [美 ˈɔːltər / 英 ˈɔːltə(r)]
+n. 祭坛，圣坛，圣餐台；（教堂里牧师站立的）讲坛
+【名】 （Altar）（法、塞、罗）阿尔塔（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An altar is a holy table in a church or temple. 圣坛
+   ≫   ...the high altar of the cathedral.  …这个大教堂的高耸的圣坛。
+
+========================================================================
+>>> apostle
+------------------------------------------------------------------------
+apostle    [美 əˈpɑːsl / 英 əˈpɒsl]
+n. 信徒，使徒；最初的传道者
+n. （Apostle）人名；（英）阿波斯尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The apostles were the followers of Jesus Christ who went from place to place telling people about him and trying to persuade them to become Christians. (耶稣的)使徒
+2. (N-COUNT) An apostle of a particular philosophy, policy, or cause is someone who strongly believes in it and works hard to promote it. (哲学、政策或事业的)信徒 [usu N 'of' n]
+   ≫   Her mother was a dedicated apostle of healthy eating.  她妈妈是健康饮食的忠实信徒。
+
+========================================================================
+>>> atheist
+------------------------------------------------------------------------
+atheist    [美 ˈeɪθiɪst / 英 ˈeɪθiɪst]
+n. 无神论者
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An atheist is a person who believes that there is no God. Compare . 无神论者
+
+========================================================================
+>>> Catholic
+------------------------------------------------------------------------
+catholic    [美 ˈkæθlɪk / 英 ˈkæθlɪk]
+adj. 广泛的，包罗万象的；天主教的（Catholic）
+n. 天主教教徒
+★★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) The Catholic Church is the branch of the Christian Church that accepts the Pope as its leader and is based in the Vatican in Rome. 天主教的
+   ≫   ...the Catholic Church.  …天主教会。
+   ≫   ...Catholic priests.  …天主教教士。
+2. (ADJ) If you describe a collection of things or people as catholic, you are emphasizing that they are very varied. 广泛的
+   ≫   He was a man of catholic tastes, a lover of grand opera, history, and the fine arts.  他是一个兴趣广泛的人，爱好大歌剧、历史和美术。
+3. (N-COUNT) A Catholic is a member of the Catholic Church. 天主教徒
+   ≫   At least nine out of ten Mexicans are baptized Catholics.  至少十分之九的墨西哥人是受过洗礼的天主教徒。
+
+========================================================================
+>>> cult
+------------------------------------------------------------------------
+cult    [美 kʌlt / 英 kʌlt]
+n. 异教，异教组织；狂热崇拜，迷信；（特定群体的）偶像，时尚；崇拜者，信徒；宗教信仰，宗教习俗
+adj. 受崇拜的，热门的
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cult is a fairly small religious group, especially one which is considered strange. 异教团体
+   ≫   The teenager may have been abducted by a religious cult.  这位少年可能被某个异教团体绑架了。
+2. (N-COUNT) The cult of something is a situation in which people regard that thing as very important or special. 狂热崇拜 [表不满]
+   ≫   ...the cult of youth that recently gripped publishing.  …近期吸引了出版界的年青人的狂热。
+3. (ADJ) Cult is used to describe things that are very popular or fashionable among a particular group of people. 受到狂热崇拜的 [ADJ n]
+   ≫   Since her death, she has become a cult figure.  她死后已成为人们顶礼膜拜的人物。
+4. (N-SING) Someone or something that is a cult has become very popular or fashionable among a particular group of people. 时尚
+   ≫   Violence has become a cult among some young men.  暴力已成为一些年轻人追逐的时尚。
+
+========================================================================
+>>> deity
+------------------------------------------------------------------------
+deity    [美 ˈdeɪəti; ˈdiːəti / 英 ˈdeɪəti; ˈdiːəti]
+n. 神；神性
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A deity is a god or goddess. 神; 女神 [正式]
+   ≫   ...a deity revered by thousands of Hindus and Buddhists.  …一个受到成千上万印度教教徒和佛教徒敬仰的神。
+
+========================================================================
+>>> fast
+------------------------------------------------------------------------
+fast    [美 fæst / 英 fɑːst]
+adj. 快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的
+adv. 快速地；坚定地，牢固地
+v. 斋戒，禁食
+n. 斋戒，斋戒期
+【名】 （Fast）（英、德、俄、芬、捷、瑞典）法斯特（人名）
+★★★★ CET4 TEM4 fasting,fasted,faster,fasts,fastest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Fast means happening, moving, or doing something at great speed. You also use fast in questions or statements about speed. 迅速的
+   ≫   ...fast cars with flashing lights and sirens.  …闪灯、鸣笛、快速行驶的汽车。
+   ≫   The only question is how fast the process will be.  惟一的问题是这个过程会有多快。
+2. (ADV) Fast is also an adverb. 迅速地 [ADV with v]
+   ≫   They work terrifically fast.  他们工作极快。
+   ≫   It would be nice to go faster and break the world record.  再快一些，打破世界纪录就好了。
+   ≫   How fast would the disease develop?  这种疾病发展有多快？
+3. (ADJ) If a watch or clock is fast, it is showing a time that is later than the real time. (钟表) 快于准确时间的 [v-link ADJ]
+   ≫   That clock's an hour fast.  那个钟快了一个小时。
+4. (ADJ) If colours or dyes are fast, they do not come out of the fabrics they are used on when they get wet. 不褪色的
+   ≫   The fabric was ironed to make the colours fast.  这布被熨烫过以使其不褪色。
+5. (ADV) You use fast to say that something happens without any delay. 毫不耽搁地 [ADV after v]
+   ≫   When you've got a crisis like this you need professional help – fast!.  在遇到这样的危机时，你需要专业的救助–丝毫不能耽搁！
+6. (ADJ) Fast is also an adjective. 毫不耽搁的 [ADJ n]
+   ≫   That would be an astonishingly fast action on the part of the Congress.  那将是国会方面一次快得惊人的行动。
+7. (ADV) If you hold something fast, you hold it tightly and firmly. If something is stuck fast, it is stuck very firmly and cannot move. 紧紧地 [ADV after v]
+   ≫   She climbed the staircase cautiously, holding fast to the rail.  她紧握扶手，小心翼翼地爬上楼梯。
+8. (ADV) If you hold fast to a principle or idea, or if you stand fast, you do not change your mind about it, even though people are trying to persuade you to. 坚定地 [ADV after v]
+   ≫   We can only try to hold fast to the age-old values of honesty, decency and concern for others.  我们只能努力坚守那些古老的价值观：诚实、正派、关心他人。
+9. (V-I) If you fast, you eat no food for a period of time, usually for either religious or medical reasons, or as a protest. (因宗教、医疗或抗议等原因) 禁食
+   ≫   I fasted for a day and a half and asked God to help me.  我禁食了一天半，请求上帝帮助我。
+10. (N-COUNT) Fast is also a noun. 禁食
+   ≫   The fast is broken at sunset, traditionally with dates and water.  日落时开斋，按传统会吃海枣、喝水。
+11. (N-UNCOUNT) fasting N-UNCOUNT 禁食
+   ≫   ...the Muslim holy month of fasting and prayer.  …穆斯林斋戒和祈祷的圣月。
+12. (PHRASE) Someone who is fast asleep is completely asleep. 熟睡
+   ≫   When he went upstairs five minutes later, she was fast asleep.  他5分钟后上楼时，她已熟睡。
+
+========================================================================
+>>> gospel
+------------------------------------------------------------------------
+gospel    [美 ˈɡɑːsp(ə)l / 英 ˈɡɒsp(ə)l]
+n. 福音书（《圣经》四福音书之一）；福音（耶稣的启示和教义）；教义，信条；绝对真理（=gospel truth）；福音音乐（=gospel music）
+adj. 传播福音的；福音赞美诗的
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) In the New Testament of the Bible, the Gospels are the four books which describe the life and teachings of Jesus Christ. 福音书 (《圣经·新约》中记述耶稣基督生平和教诲的头四卷)
+   ≫   ...the parable in St. Matthew's Gospel.  …《马太福音》里的寓言故事。
+2. (N-SING) In the Christian religion, the gospel refers to the message and teachings of Jesus Christ, as explained in the New Testament. 耶稣的福音和教义
+   ≫   I didn't shirk my duties. I visited the sick and I preached the gospel.  我没有逃避责任。我探望了病人并传布了耶稣的福音和教义。
+3. (N-UNCOUNT) Gospel or gospel music is a style of religious music that uses strong rhythms and vocal harmony. It is especially popular among black Christians in the southern United States. (尤指在美国南部黑人基督徒中间流行的) 福音音乐
+   ≫   I had to go to church, so I grew up singing gospel.  从前我必须上教堂，所以我是唱着福音圣歌长大的。
+4. (N-UNCOUNT) If you take something as gospel, or it is the gospel truth, you believe that it is completely true. 绝对真理
+   ≫   He wouldn't say this if it weren't the gospel truth.  如果这不是绝对真理，他就不会这么说。
+
+========================================================================
+>>> heresy
+------------------------------------------------------------------------
+heresy    [美 ˈherəsi / 英 ˈherəsi]
+n. 异端；异端邪说；异教
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Heresy is a belief or action that most people think is wrong, because it disagrees with beliefs that are generally accepted. 异端邪说
+   ≫   It might be considered heresy to suggest such a notion.  提出这样的见解可能会被认为是异端邪说。
+2. (N-VAR) Heresy is a belief or action which seriously disagrees with the principles of a particular religion. 异教
+   ≫   He said it was a heresy to suggest that women should not conduct services.  他说认为女性不应该主持礼拜仪式是一种异端邪说。
+
+========================================================================
+>>> incarnate
+------------------------------------------------------------------------
+incarnate    [美 ɪnˈkɑːrnət / 英 ɪnˈkɑːnət]
+adj. 人体化的，化身的；拟人化的；极典型的；以极端形式体现的
+v. 体现，化身为，使具体化；使人格化，拟人化；（人）体现（某种品质）
+TEM8 incarnating,incarnated,incarnates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that someone is a quality incarnate, you mean that they represent that quality or are typical of it in an extreme form. 化身的; 极典型的 [n ADJ]
+   ≫   She is evil incarnate.  她是邪恶的化身。
+2. (ADJ) You use incarnate to say that something, especially a god or spirit, is represented in human form. (神或灵)人格化; 显形的 [v-link ADJ]
+   ≫   Why should God become incarnate as a male?  为什么上帝显身为男性呢？
+3. (V-T) If you say that a quality is incarnated in a person, you mean that they represent that quality or are typical of it in an extreme form. 表现; 最典型体现
+   ≫   The iniquities of the regime are incarnated in one man.  该体制的种种劣迹集中体现于一人。
+   ≫   ...a writer who incarnates the changing consciousness of the Americas.  ...典型地体现出美洲观念变化的一位作家。
+4. (V-T) If you say that someone or something is incarnated in a particular form, you mean that they appear on earth in that form. 化身为; 显形为 [usu passive]
+   ≫   The god Vishnu was incarnated on earth as a king.  毗瑟挐神在地上化身为一位国王。
+
+========================================================================
+>>> koran
+------------------------------------------------------------------------
+Koran    [英 kəˈrɑːn / 美 kəˈrɑːn]
+n. 《可兰经》，《古兰经》（伊斯兰教）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Koran is the sacred book on which the religion of Islam is based. 古兰经
+
+========================================================================
+>>> minister
+------------------------------------------------------------------------
+minister    [美 ˈmɪnɪstər / 英 ˈmɪnɪstə(r)]
+n. （英国及其他许多国家的）部长，大臣；牧师；公使，外交使节
+v. 满足（……的需要），帮助；当牧师；执行（或主持）（圣餐式）
+★★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A minister is a member of the clergy, especially in Protestant churches. 牧师
+   ≫   His father was a Baptist minister.  他父亲是一名浸礼会牧师。
+2. (N-COUNT) A minister is a person who officially represents their government in a foreign country and has a lower rank than an ambassador. 公使
+   ≫   He concluded a deal with the Danish minister in Washington.  他在华盛顿与丹麦公使达成了一项协议。
+3. (N-COUNT) In some countries outside the United States, a minister is a person who is in charge of a particular government department. 政府部门部长
+   ≫   When the government came to power, he was named minister of culture.  这届政府上台时，他被任命为了文化部长。
+
+========================================================================
+>>> missionary
+------------------------------------------------------------------------
+missionary    [美 ˈmɪʃəneri / 英 ˈmɪʃən(ə)ri]
+n. （派往国外的）传教士
+adj. 传教的；（热情）传教士般的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A missionary is a Christian who has been sent to a foreign country to teach people about Christianity. 传教士
+   ≫   My mother would still like me to be a missionary in Africa.  我母亲还是想让我在非洲做一名传教士。
+2. (ADJ) Missionary is used to describe the activities of missionaries. 传教的 [ADJ n]
+   ≫   You should be in missionary work.  你该参加传教工作。
+3. (ADJ) If you refer to someone's enthusiasm for an activity or belief as missionary zeal, you are emphasizing that they are very enthusiastic about it. 传教士般的 [ADJ n] [强调]
+   ≫   She had a kind of missionary zeal about bringing culture to the masses.  她对把文化带给大众具有一种传教士般的热情。
+
+========================================================================
+>>> preach
+------------------------------------------------------------------------
+preach    [美 priːtʃ / 英 priːtʃ]
+v. 布道，讲道；宣扬，鼓吹；说教，训诫
+★★ CET6 TEM4 preaching,preached,preaches
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When a member of the clergy preaches a sermon, he or she gives a talk on a religious or moral subject during a religious service. 布 (道); 布道
+   ≫   At High Mass the priest preached a sermon on the devil.  在大弥撒仪式上，牧师布了一次有关魔鬼的道。
+   ≫   The bishop preached to a crowd of several hundred local people.  主教向一群几百名当地人布道。
+2. (V-T/V-I) When people preach a belief or a course of action, they try to persuade other people to accept the belief or to take the course of action. 宣扬
+   ≫   He said he was trying to preach peace and tolerance to his people.  他说他正试图向他的人民宣扬和平与宽容。
+   ≫   Health experts are now preaching that even a little exercise is far better than none at all.  如今，健康专家宣扬说，即使少量的运动也比一点不运动要好得多。
+3. (V-I) If someone gives you advice in a very serious, boring way, you can say that they are preaching at you. 说教 [表不满]
+   ≫   "Don't preach at me," he shouted.  “不要对我说教，”他喊道。
+
+========================================================================
+>>> preacher
+------------------------------------------------------------------------
+preacher    [美 ˈpriːtʃər / 英 ˈpriːtʃə(r)]
+n. 传道士，牧师 ；鼓吹者
+【名】 （Preacher）（英）普里彻（人名）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A preacher is a person, usually a member of the clergy, who preaches sermons as part of a church service. 传道士
+
+========================================================================
+>>> Protestant
+------------------------------------------------------------------------
+protestant    [美 ˈprɑːtɪstənt / 英 ˈprɒtɪstənt]
+adj. 抗议的；持异议的；新教的
+n. 抗议者；持异议者；新教徒
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A Protestant is a Christian who belongs to the branch of the Christian church that separated from the Catholic church in the sixteenth century. 新教徒
+2. (ADJ) Protestant means relating to Protestants or their churches. 新教的; 新教徒的
+   ≫   Most Protestant churches now have some women ministers.  如今，大部分新教教堂都有一些女牧师。
+
+========================================================================
+>>> resurrection
+------------------------------------------------------------------------
+resurrection    [美 ˌrezəˈrekʃ(ə)n / 英 ˌrezəˈrekʃ(ə)n]
+n. 复活；恢复；复兴
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) In Christian belief, the Resurrection is the event in which Jesus Christ came back to life after he had been killed. (基督教中的)耶稣复活 ['the' N]
+
+========================================================================
+>>> scripture
+------------------------------------------------------------------------
+scripture    [美 ˈskrɪptʃər / 英 ˈskrɪptʃə(r)]
+n. 《圣经》（Scripture或the Scriptures）；（某一宗教的）经文，圣典；《圣经》研究；手稿
+【名】 （Scripture）（英）斯克里普丘（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Scripture or the scriptures refers to writings that are regarded as holy in a particular religion, for example, the Bible in Christianity. (宗教) 圣典
+   ≫   ...a quote from scripture.  …出自圣典的引文。
+
+========================================================================
+>>> superstition
+------------------------------------------------------------------------
+superstition    [美 ˌsuːpərˈstɪʃ(ə)n / 英 ˌsuːpəˈstɪʃ(ə)n]
+n. 迷信
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Superstition is belief in things that are not real or possible, for example magic. 迷信
+   ≫   Fortune-telling is a very much debased art surrounded by superstition.  算命是一种透着迷信色彩的十分低级的把戏。
+
+========================================================================
+>>> taboo
+------------------------------------------------------------------------
+taboo    [美 təˈbuː / 英 təˈbuː]
+n. （宗教或社会习俗方面的）禁忌，忌讳；禁忌的事物，禁忌行为（或做法）；塔布
+adj. 忌讳的，为社会习俗所不容的，不被人接受的；（因会冒犯人或引起尴尬而）禁忌的，忌讳的；（因太神圣或太邪恶而）禁止接触的，禁止使用的
+vt. 把……列为禁忌
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A taboo against a subject or activity is a social custom to avoid doing that activity or talking about that subject, because people find them embarrassing or offensive. 禁忌
+   ≫   The topic of addiction remains something of a taboo in our family.  毒瘾在我们家依然是个有些忌讳的话题。
+2. (ADJ) Taboo is also an adjective. 禁忌的
+   ≫   Cancer is a taboo subject and people are frightened or embarrassed to talk openly about it.  癌症是个禁忌的话题，人们对公开谈论它感到害怕或尴尬。
+
