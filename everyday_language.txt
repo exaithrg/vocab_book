@@ -76616,3 +76616,13 @@ v. 拖，拉；没精打采地走，拖沓地走；（在竞赛或选举中）�
 7. (PHRASE) If you are on the trail of a person or thing, you are trying hard to find them or find out about them. 追踪
    ≫   The police were hot on his trail.  警方正紧紧跟踪他。
 
+========================================================================
+>>> heuristic
+------------------------------------------------------------------------
+heuristic    [美 hjuˈrɪstɪk / 英 hjuˈrɪstɪk]
+adj. （教学或教育）启发式的；（计算机程序）探试的，探索的
+n. 启发式步骤（或方法）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的 [技术]
+2. (ADJ) A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 [计算机] → see also algorithm
+

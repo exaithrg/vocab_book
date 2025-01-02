@@ -44657,3 +44657,94 @@ v. 安排，预定；列入，收进（正式目录、清单等中）；<英> �
 5. (N-COUNT) A schedule is a list of all the times when trains, boats, buses, or aircraft are supposed to arrive at or leave a particular place. 时刻表 [美国英语]
 6. (N-COUNT) In a school or college, a schedule is a diagram that shows the times in the week at which particular subjects are taught. 课程表 [美国英语]
 
+========================================================================
+>>> Bitrate
+------------------------------------------------------------------------
+bitrate
+n. 比特率；位率；位速率
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In fact, bitrate data for many applications simply isn't available. 事实上，很多程序的比特率数据是不可用的。
+≫   You can set the bitrate and frequency for your special requirements. 你可以为你的特别要求设置比特率和频率。
+≫   The video bitrate is set at 300 Kbs, faster than the default value of 200 Kbs. 视频的比特率设置为300 Kbs，大大快于默认的200 Kbs。
+
+========================================================================
+>>> Omnidirectionally
+------------------------------------------------------------------------
+omnidirectionally
+adv. 全方位地，无方向性地：在所有方向上或无特定方向地。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The emission region is capable of emitting light omnidirectionally in response to a bias, with the porous layer enhancing extraction of the emitting region light passing through the substrate. 半导体发射区域能够回应于偏压全方向地发射光，而使多孔层增强通 过基层的发射区域的光的提取。
+
+========================================================================
+>>> Calibrated
+------------------------------------------------------------------------
+calibrated    [美 ˈkælɪbreɪtɪd / 英 ˈkælɪbreɪtɪd]
+v. 校准；校准使...标准化（calibrate的过去分词）
+adj. 标刻度的
+calibrating,calibrated,calibrates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately. 校准 [技术]
+   ≫   ...instructions on how to calibrate a thermometer.  …校准温度计的说明。
+
+========================================================================
+>>> omni
+------------------------------------------------------------------------
+omni    [美 ˈɑːmnɪ / 英 ˈɒmnɪ]
+n. 全方位；泛光灯
+pref. 表示“总”；表示“遍”
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Uncomment your platform in omni/config/config.mk 请在 omni/config/config.mk 中去掉对您的平台的注释
+≫   In September, the Omni Group released OmniWeb 5.5, a $29.95 payware Web browser for the Mac. 九月份，Omni Group 推出了 OmniWeb 5.5，售价 $29.95 的 Mac 付费 Web 浏览器。
+≫   Such coordinate points are anchors that peg each reality to the physical worlds, the Omni-Earth. 这些同类节点类似于一个桩子，在这个桩子上栓着每个实相与物质世界、【全地球】相连的“线路”。
+
+========================================================================
+>>> calibrate
+------------------------------------------------------------------------
+calibrate    [美 ˈkælɪbreɪt / 英 ˈkælɪbreɪt]
+v. 校准，标定（测量仪器等）；精确测量，准确估量；调整（实验结果），调节
+calibrating,calibrated,calibrates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately. 校准 [技术]
+   ≫   ...instructions on how to calibrate a thermometer.  …校准温度计的说明。
+
+========================================================================
+>>> calibrated
+------------------------------------------------------------------------
+calibrated    [英 ˈkælɪbreɪtɪd / 美 ˈkælɪbreɪtɪd]
+v. 校准；校准使...标准化（calibrate的过去分词）
+adj. 标刻度的
+calibrating,calibrated,calibrates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately. 校准 [技术]
+   ≫   ...instructions on how to calibrate a thermometer.  …校准温度计的说明。
+
+========================================================================
+>>> Infinigence
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> heuristic
+------------------------------------------------------------------------
+heuristic    [美 hjuˈrɪstɪk / 英 hjuˈrɪstɪk]
+adj. （教学或教育）启发式的；（计算机程序）探试的，探索的
+n. 启发式步骤（或方法）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的 [技术]
+2. (ADJ) A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 [计算机] → see also algorithm
+
+========================================================================
+>>> nontrival
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> nontrivial
+------------------------------------------------------------------------
+nontrivial    [美 nɑːnˈtrɪviəl / 英 ˌnɒnˈtrɪviəl]
+adj. 重要的，显要的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Write a nontrivial desktop app. 写过一个普通的桌面应用。
+≫   Plan to regularly perform nontrivial merges. 计划有规律的执行非平凡的合并。
+≫   Be prepared to perform lots of nontrivial merges. 准备好执行大量重要的合并。
+
