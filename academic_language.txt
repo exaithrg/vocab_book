@@ -45056,3 +45056,127 @@ TEM8
 1. (N-COUNT) An ode is a poem, especially one that is written in praise of a particular person, thing, or event. 颂诗; 颂歌
    ≫   ...Keats' "Ode to a Nightingale."  ...济慈的《夜莺颂》。
 
+========================================================================
+>>> systematic
+------------------------------------------------------------------------
+systematic    [英 ˌsɪstəˈmætɪk / 美 ˌsɪstəˈmætɪk]
+adj. 有系统的，有条理的，仔细周到的；一贯的，惯常的；分类的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is done in a systematic way is done according to a fixed plan, in a thorough and efficient way. 有计划的
+   ≫   They went about their business in a systematic way.  他们按部就班地做生意。
+2. (ADV) systematically ADV 有计划地
+   ≫   The army has systematically violated human rights.  军队已有计划地侵犯了人权。
+
+========================================================================
+>>> photonic
+------------------------------------------------------------------------
+photonic    [美 ,foʊ'tɑnɪk / 英 fəʊˈtɒnɪk]
+adj. 光激性的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That is what photonic crystals allow. 而这也是光子晶体所能做到的。
+≫   It will now be put through its paces to see just how much photonic puff it can provide. 现在它正在将接受考察，以便确定它能提供多少光推进力。
+≫   This photonic molecule constitutes a trap for each of the photons of the pair and allows them to be collected efficiently. 这个光子分子构成了光子的陷阱，提高了光子对的收集效率。
+
+========================================================================
+>>> monolithic
+------------------------------------------------------------------------
+monolithic    [美 ˌmɑːnəˈlɪθɪk / 英 ˌmɒnəˈlɪθɪk]
+adj. 整体的；巨石的，庞大的；完全统一的
+n. 单块集成电路，单片电路
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you refer to an organization or system as monolithic, you are critical of it because it is very large and very slow to change, and does not seem to have different parts with different characters. 大一统的 [表不满]
+   ≫   ...an authoritarian and monolithic system.  …大一统的独裁体制。
+2. (ADJ) If you describe something such as a building as monolithic, you do not like it because it is very large and plain with no character. 巨大而平庸的 [表不满]
+   ≫   ...a huge monolithic concrete building.  …一座巨大而平庸的混凝土建筑。
+
+========================================================================
+>>> complementary
+------------------------------------------------------------------------
+complementary    [美 ˌkɑːmplɪˈment(ə)ri / 英 ˌkɒmplɪˈment(ə)ri]
+adj. 相互补充的，相辅相成的；互补色的；（基因序列、核苷酸等）互补的；（与）补充医学（有关）的；余角的，互为余角的
+★ CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Complementary things are different from each other but make a good combination. 互补的 [正式]
+   ≫   To improve the quality of life through work, two complementary strategies are necessary.  要通过工作提高生活质量，两个互补的策略很必要。
+   ≫   He has done experiments complementary to those of Eigen.  他已经做了与艾根的实验互补的实验。
+2. (ADJ) Complementary medicine refers to ways of treating patients which are different from the ones used by most Western doctors, for example acupuncture and homeopathy. 辅助性的 [ADJ n]
+   ≫   ...combining orthodox treatment with a wide range of complementary therapies.  …结合传统治疗和各种辅助性疗法。
+
+========================================================================
+>>> symbolic
+------------------------------------------------------------------------
+symbolic    [美 sɪmˈbɑːlɪk / 英 sɪmˈbɒlɪk]
+adj. 用作象征的，被认为是象征的；有象征意义的；（行为举动）象征性的，没有甚么实际影响的；符号的，使用象征的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe an event, action, or procedure as symbolic, you mean that it represents an important change, although it has little practical effect. 有象征意义的
+   ≫   A lot of Latin-American officials are stressing the symbolic importance of the trip.  许多拉丁美洲官员正在强调这次旅行在象征意义上的重要性。
+2. (ADV) symbolically ADV 有象征意义地
+   ≫   It was a simple enough gesture, but symbolically important.  这虽是个再简单不过的手势，但却有着重要的象征意义。
+3. (ADJ) Something that is symbolic of a person or thing is regarded or used as a symbol of them. 用作象征的
+   ≫   Yellow clothes are worn as symbolic of spring.  黄色衣服被穿着来象征春天。
+4. (ADV) symbolically ADV 象征性地 [ADV with v]
+   ≫   Each circle symbolically represents the whole of humanity.  每个圆圈都象征性地代表全人类。
+5. (ADJ) Symbolic is used to describe things involving or relating to symbols. 符号的 [ADJ n]
+   ≫   ...symbolic representations of landscape.  …地形的符号表征。
+
+========================================================================
+>>> unveiled
+------------------------------------------------------------------------
+unveiled    [美 ˌʌnˈveɪld / 英 ˌʌnˈveɪld]
+v. （首次）公开，揭示；为……揭幕，揭去……上的覆盖物；除去面纱，显露（unveil 的过去式和过去分词）
+★★ CET6 TEM4 unveiling,unveiled,unveils
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone formally unveils something such as a new statue or painting, they draw back the curtain which is covering it. 为…揭幕
+   ≫   ...a ceremony to unveil a monument to the victims.  …死难者纪念碑揭幕仪式。
+2. (V-T) If you unveil a plan, new product, or some other thing that has been kept secret, you introduce it to the public. 公布
+   ≫   Mr. Werner unveiled his new strategy this week.  沃纳先生本周公布了他的新策略。
+
+========================================================================
+>>> contemporary
+------------------------------------------------------------------------
+contemporary    [美 kənˈtempəreri / 英 kənˈtemp(ə)rəri]
+adj. 当代的，现代的；同时期的，同时代的
+n. 同时代的人；同龄人，同辈
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Contemporary things are modern and relate to the present time. 当代的
+   ≫   She writes a lot of contemporary music for people like Whitney Houston.  她为惠特尼·休斯敦等人创作大量当代音乐作品。
+2. (ADJ) Contemporary people or things were alive or happened at the same time as something else you are talking about. 同时代的
+   ≫   ...drawing upon official records and the reports of contemporary witnesses.  …借助官方记录以及当时目击者的证言。
+3. (N-COUNT) Someone's contemporary is a person who is or was alive at the same time as them. 同时代的人
+   ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
+
+========================================================================
+>>> preclinical
+------------------------------------------------------------------------
+preclinical    [美 priːˈklɪnɪkl / 英 priːˈklɪnɪk(ə)l]
+adj. 临床前的；现出症状之前的潜伏期的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, relating to, or occurring during the early phases of a disease before accurate diagnosis is possible 潜伏期的 [医学]
+
+========================================================================
+>>> bench
+------------------------------------------------------------------------
+bench    [美 bentʃ / 英 bentʃ]
+n. 长凳，长椅；长方形工作台；法官席（the bench）； 议员席；替补席；（砖石建筑的）壁架，（斜坡上的）平台
+v. 把（场上队员）换下；（在展览会上）展览（狗）；仰卧推举；给……以席位；为……设置条凳
+【名】 （Bench）（英）本奇，（德）本希，（丹）本克（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bench is a long seat of wood or metal that two or more people can sit on. 长凳
+   ≫   He sat down on a park bench.  他在一条公园的长凳上坐下来。
+2. (N-COUNT) A bench is a long, narrow table in a factory or laboratory. (工厂、实验室的) 工作台
+   ≫   ...the laboratory bench.  …实验室工作台。
+3. (N-SING-COLL) In a court of law, the bench is the judge or magistrates. 法官
+   ≫   The chairman of the bench adjourned the case until October 27.  首席法官将该案延至到10月27日。
+
+========================================================================
+>>> bedside to bench
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：987
+bedside to bench
+从床边到工作台
+
