@@ -77888,3 +77888,364 @@ n. 冲洗装置，净化器
 ≫   The poker economy has never been flusher. 扑克经济现在是空前繁荣。
 ≫   Registry changes are flushed to disk when the registry USES its lazy flusher. 注册表使用其惰性刷新器时，将注册表更改刷新到磁盘。
 
+========================================================================
+>>> disturb
+------------------------------------------------------------------------
+disturb    [美 dɪˈstɜːrb / 英 dɪˈstɜːb]
+v. 打扰，妨碍；使焦虑，使烦恼；移动，弄乱
+★★ CET4 TEM4 disturbing,disturbed,disturbs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you disturb someone, you interrupt what they are doing and upset them. 打扰
+   ≫   Did you sleep well? I didn't want to disturb you. You looked so peaceful.  你睡得好吗？我不想打扰你。你看起来如此平静。
+2. (V-T) If something disturbs you, it makes you feel upset or worried. 使不安; 使烦恼
+   ≫   I dream about him, dreams so vivid that they disturb me for days.  我梦到他了，梦是那么栩栩如生以至于困扰了我好几天。
+3. (V-T) If something is disturbed, its position or shape is changed. 使紊乱
+   ≫   He'd placed his notes in the brown envelope. They hadn't been disturbed.  他已把票据放在那个棕色信封里了。票据没有被动过。
+4. (V-T) If something disturbs a situation or atmosphere, it spoils it or causes trouble. 使混乱
+   ≫   What could possibly disturb such tranquillity?  有什么能破坏这种宁静？
+
+========================================================================
+>>> disturbing
+------------------------------------------------------------------------
+disturbing    [美 dɪˈstɜːrbɪŋ / 英 dɪˈstɜːbɪŋ]
+adj. 令人不安的，引起恐慌的
+v. 打扰，妨碍；使焦虑，使烦恼（disturb 的现在分词形式）
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is disturbing makes you feel worried or upset. 使人不安的; 使人苦恼的
+   ≫   There was something about him she found disturbing.  她发现他身上有些东西让她觉得不安。
+2. (ADV) disturbingly ADV 使人不安地; 使人苦恼地
+   ≫   The government has itself recognized the disturbingly high frequency of racial attacks.  政府本身已经认识到种族袭击事件的发案率之高令人深感不安。
+
+========================================================================
+>>> lancer
+------------------------------------------------------------------------
+lancer    [美 ˈlænsər / 英 ˈlɑːnsə(r)]
+n. （19世纪法国的）长矛轻骑兵；枪骑兵；一种四人组的舞
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) (formerly) a cavalryman armed with a lance (以前)长矛轻骑兵
+
+========================================================================
+>>> Rockwell
+------------------------------------------------------------------------
+Rockwell    ['rɔkwel]
+n. 罗克韦尔（美国公司）；洛克威尔（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Norman Rockwell, a 20th-century artist, never painted Boy Swiping Finger on Screen, and our own vision of a perfect childhood has never been adjusted to accommodate that now-common scene. 诺曼·洛克威尔是20世纪的艺术家，他从未画过《在屏幕上滑动手指的男孩》这幅画，而我们对完美童年时代的幻想也从未被调整来适应这种如今常见的场景。
+≫   The sight of this small girl with her big bodyguards moved the artist Norman Rockwell. 看到这个小女孩和她的大保镖，艺术家诺曼·洛克威尔感动了。
+≫   And Sam Rockwell — you have him on speed-dial? 那么山姆·洛克威尔（作为首选）在你的电话速拨键里吗？
+
+========================================================================
+>>> strategic
+------------------------------------------------------------------------
+strategic    [美 strəˈtiːdʒɪk / 英 strəˈtiːdʒɪk]
+adj. 战略（性）的， 策略（上）的；（计划或战略上）有用的，重要的；（武器、战争或地方）战略性的，有战略优势的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Strategic means relating to the most important, general aspects of something such as a military operation or political policy, especially when these are decided in advance. 战略上的
+   ≫   ...the new strategic thinking which NATO leaders produced at the recent London summit.  …北大西洋公约组织领导人在最近伦敦峰会上提出的新的战略思维。
+2. (ADV) strategically ADV 战略上地
+   ≫   ...strategically important roads, bridges and buildings.  …战略上具有重要意义的公路、桥梁和建筑物。
+3. (ADJ) Strategic weapons are very powerful missiles that can be fired only after a decision to use them has been made by a political leader. 战略性的
+   ≫   ...strategic nuclear weapons.  …战略性核武器。
+4. (ADJ) If you put something in a strategic position, you place it cleverly in a position where it will be most useful or have the most effect. 巧妙的
+   ≫   ...the marble benches Eve had placed at strategic points throughout the gardens, where the views were spectacular.  …伊夫在花园各个景色优美的巧妙位置安放的大理石长凳。
+5. (ADV) strategically ADV 巧妙地
+   ≫   We had kept its presence hidden with a strategically placed chair.  我们用一把巧妙放置的椅子把它隐藏起来。
+
+========================================================================
+>>> reassignment
+------------------------------------------------------------------------
+reassignment    [美 ˌriːəˈsaɪnmənt / 英 ˌriːəˈsaɪnmənt]
+n. 再赋值，[计] 重赋值
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I'll use an example to explain reassignment. 我将使用一个示例来说明重新赋值问题。
+≫   The New York Daily News reports the first successful *ual reassignment operation. 1952年，纽约每日新闻报道了第一起成功的变性手术。
+≫   The overall implementation 17 of escalation through reassignment involves three handlers. 以重新分配实现的上报的整个实现17涉及3个处理器。
+
+========================================================================
+>>> Afghanistan
+------------------------------------------------------------------------
+Afghanistan    [美 æfˈɡænɪstæn / 英 æfˈɡænɪstɑːn; æfˈɡænɪstæn]
+n. 阿富汗（国家名称，位于亚洲）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Pakistan became a conduit for drugs produced in Afghanistan. 巴基斯坦成了阿富汗制造的毒品的贩运通道。《柯林斯英汉双解大词典》
+≫   The Taliban are blocking food deliveries to central Afghanistan. 塔利班正在阻止向阿富汗中部运送食品。
+≫   They insist they were in Afghanistan to help the poor, not to convert them. 他们坚称，他们来阿富汗是为了帮助穷人，而不是让他们改变信仰。
+
+========================================================================
+>>> Iraq
+------------------------------------------------------------------------
+Iraq    [美 ɪˈræk / 英 ɪˈrɑːk; ɪˈræk]
+n. 伊拉克（西南亚国家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I have no idea how he got into Iraq. 我不知道他是怎么进入伊拉克的。《柯林斯英汉双解大词典》
+≫   Jordan reopened its border with Iraq. 约旦重新开放了与伊拉克的边界。《柯林斯英汉双解大词典》
+≫   Traffic from Jordan to Iraq is down to a dozen loaded trucks a day, compared with a high of 200 a day. 从约旦到伊拉克的车辆少的时候1天有一打满载的卡车，高峰时一天则有200辆之多。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> NATO
+------------------------------------------------------------------------
+nato    [美 ˈneɪtoʊ / 英 ˈneɪtəʊ]
+abbr. 北大西洋公约组织（North Atlantic Treaty Organization）
+n. （Nato）人名；（意）纳托
+★★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) NATO is an international organization which consists of the U.S., Canada, Britain, and other European countries, all of whom have agreed to support one another if they are attacked. NATO is an abbreviation for "North Atlantic Treaty Organization." 北大西洋公约组织
+   ≫   NATO says it will keep a reduced number of modern nuclear weapons to guarantee peace.  北约称将保持削减后的现代核武器数量以确保和平。
+
+========================================================================
+>>> treaty
+------------------------------------------------------------------------
+treaty    [美 ˈtriːti / 英 ˈtriːti]
+n. （国家之间的）条约，协定
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A treaty is a written agreement between countries in which they agree to do a particular thing or to help each other. 条约
+   ≫   ...negotiations over a treaty on global warming.  …关于全球变暖条约的谈判。
+
+========================================================================
+>>> negotiations
+------------------------------------------------------------------------
+negotiations    [美 nəˌgoʊʃiˈeɪʃənz / 英 nɪˌgəʊʃɪˈeɪʃnz]
+n. 谈判（negotiation 的复数）；磋商
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Negotiations are formal discussions between people who have different aims or intentions, especially in business or politics, during which they try to reach an agreement. (尤指商业或政治上的) 谈判
+   ≫   Warren said, "We have had meaningful negotiations and I believe we are very close to a deal."  沃伦说：“我们已经进行了富有意义的谈判，我相信我们很快就能达成协议。”
+
+========================================================================
+>>> clutter
+------------------------------------------------------------------------
+clutter    [美 ˈklʌtər / 英 ˈklʌtə(r)]
+n. 杂乱的东西；杂乱
+v. 乱堆，塞满；使（脑子里）塞满（乱七八糟的事）
+【名】 （Clutter）（英）克拉特（人名）
+★ TEM8 cluttering,cluttered,clutters
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Clutter is a lot of things in a messy state, especially things that are not useful or necessary. 乱七八糟
+   ≫   Caroline prefers her countertops to be clear of clutter.  卡罗琳喜欢把她的厨房台面弄得整整齐齐。
+2. (V-T) If things or people clutter a place, they fill it in a messy way. (物或人) 拥塞
+   ≫   Empty soft-drink cans lie everywhere. They clutter the desks and are strewn across the floor.  软饮料空罐到处都是，堆满了桌面，还扔了一地。
+3. (PHRASAL VERB) Clutter up means the same as . 拥塞
+   ≫   The vehicles cluttered up the parking lot.  车辆停满了停车场。
+
+========================================================================
+>>> stray
+------------------------------------------------------------------------
+stray    [美 streɪ / 英 streɪ]
+v. 走失，迷路；走神，离题；（眼睛，手）悠闲 （或漫不经心）地移动；入歧途，犯错误；有外遇，在别处拈花惹草；<文>游荡，徘徊
+adj. （动物）走失的，流浪的；离散的，零落的；（物理量）杂散的
+n. 走失（流浪）的动物；离群者，走散者；天电干扰
+null （Stray）（挪、美、英、俄）斯特雷（人名）
+★★ CET6 TEM4 straying,strayed,strays
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If someone strays somewhere, they wander away from where they are supposed to be. 走失
+   ≫   Tourists often get lost and stray into dangerous areas.  旅游者们经常迷路走进一些危险区域。
+2. (ADJ) A stray dog or cat has wandered away from its owner's home. 走失的 (狗或猫) [ADJ n]
+   ≫   A stray dog came up to him.  一只走失的狗来到他跟前。
+3. (N-COUNT) Stray is also a noun. 走失的宠物
+   ≫   The dog was a stray which had been adopted.  这只狗是被收养的流浪狗。
+4. (V-I) If your mind or your eyes stray, you do not concentrate on or look at one particular subject, but start thinking about or looking at other things. (思想或视线) 不集中
+   ≫   Even with the simplest cases I find my mind straying.  即使对最简单的案例我发现自己的思想也无法集中。
+5. (ADJ) You use stray to describe something that exists separated from other similar things. 离群的 [ADJ n]
+   ≫   An 8-year-old boy was killed by a stray bullet.  一个8岁的男孩被一颗流弹打死。
+
+========================================================================
+>>> durability
+------------------------------------------------------------------------
+durability    [美 ˌdʊrəˈbɪləti / 英 ˌdjʊərəˈbɪləti]
+n. 持久性，耐用性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Airlines recommend hard-sided cases for durability. 航空公司推荐使用硬边的提箱以求耐用。《柯林斯英汉双解大词典》
+≫   We have always advertised our use of the Endure process, but the new study shows that despite our socks' durability, our average customer actually purchases new Dura-Socks every three months. 我们一直在宣传 Endure 的生产过程，但最新研究表明，尽管我们的袜子具有耐久性，但我们的普通客户实际上还是要每三个月购买一次新的 Dura-Socks。
+≫   By offering services to help expand the longevity of their products, they're promising quality and durability to consumers, and receiving the reputational gains for being environmentally friendly. 通过提供延长产品寿命的服务，他们向消费者承诺质量和耐用性，并获得了环保的赞誉。
+
+========================================================================
+>>> reputational
+------------------------------------------------------------------------
+reputational
+信誉的
+声誉的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   By offering services to help expand the longevity of their products, they' re promising quality and durability to consumers, and receiving the reputational gains for being environmentally friendly. 通过提供帮助延长产品寿命的服务，他们向消费者确保产品的质量和耐用性，还因其环保的做法而赢得声誉。
+≫   By offering services to help expand the longevity of their products, they're promising quality and durability to consumers, and receiving the reputational gains for being environmentally friendly. 通过提供延长产品寿命的服务，他们向消费者承诺质量和耐用性，并获得了环保的赞誉。
+≫   Many want to avoid the reputational risk that goes with sharp practice. 策略突变可能损害声誉，厂商想避免这一风险。
+
+========================================================================
+>>> longevity
+------------------------------------------------------------------------
+longevity    [美 lɔːnˈdʒevəti / 英 lɒnˈdʒevəti]
+n. 寿命；长寿，持久；持续时间，耐用期限；长期存在，长期供职
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Longevity is long life. 长寿 [正式]
+   ≫   Human longevity runs in families.  人类长寿是有遗传的。
+   ≫   The main characteristic of the strike has been its longevity.  这次罢工的主要特点是持续时间长。
+
+========================================================================
+>>> runs in families
+------------------------------------------------------------------------
+runs in families
+具有家族遗传性：指某种特定的性状或疾病在家族中有遗传的趋势。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The condition of flat feet runs in families. 平足会在家族中遗传。《柯林斯英汉双解大词典》
+≫   It runs in families. 它是家族遗传的。
+≫   Human longevity runs in families. 人类长寿是有遗传的。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> terrain
+------------------------------------------------------------------------
+terrain    [美 təˈreɪn / 英 təˈreɪn]
+n. 地形，地势；领域
+★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Terrain is used to refer to an area of land or a type of land when you are considering its physical features. 地形
+   ≫   The terrain changed quickly from arable land to desert.  这里的地形很快由耕地变为沙漠。
+
+========================================================================
+>>> allegedly
+------------------------------------------------------------------------
+allegedly    [美 əˈledʒɪdli / 英 əˈledʒɪdli]
+adv. 据说，据宣称
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   His van allegedly struck the two as they were crossing a street. 据称，他的货车在这两个人过马路时撞上了他们。《柯林斯英汉双解大词典》
+≫   Police were hunting for a gang that had allegedly stolen fifty-five cars. 警察正在追捕一个涉嫌偷窃55辆汽车的犯罪团伙。《柯林斯英汉双解大词典》
+≫   Ryan's campaign fund allegedly scammed the state out of a million dollars. 据称，瑞安的竞选基金管理机构骗了国家100万美元。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> griefing
+------------------------------------------------------------------------
+griefing
+n. 恶意破坏（指在玩网络游戏时故意惹恼其他玩家，或破坏其他玩家的游戏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> asethetic
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> aesthetic
+------------------------------------------------------------------------
+aesthetic    [美 esˈθetɪk / 英 iːsˈθetɪk]
+adj. 审美的，美学的；美的，艺术的
+n. 美感，审美观；美学（aesthetics）；美术理论
+★★ CET6 alsoesthetic
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Aesthetic is used to talk about beauty or art, and people's appreciation of beautiful things. 审美的
+   ≫   ...products chosen for their aesthetic appeal as well as their durability and quality.  …因其审美吸引力以及耐用性和质量好而被挑选的产品。
+2. (N-SING) The aesthetic of a work of art is its aesthetic quality. (艺术品的) 审美特质
+   ≫   He responded very strongly to the aesthetic of this particular work.  他对这部作品的审美特质反应十分强烈。
+3. (ADV) aesthetically ADV 审美上地
+   ≫   A statue which is aesthetically pleasing to one person, however, may be repulsive to another.  从审美角度令一个人满意的一尊雕像可能令另一个人反感。
+
+========================================================================
+>>> seamless
+------------------------------------------------------------------------
+seamless    [美 ˈsiːmləs / 英 ˈsiːmləs]
+adj. 无缝的；无缝合线的；无伤痕的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use seamless to describe something that has no breaks or gaps in it or which continues without stopping. 无缝的; 不停顿的
+   ≫   It was a seamless procession of wonderful electronic music.  那是一曲流畅美妙的电子音乐。
+2. (ADV) seamlessly ADV 无缝地; 不停顿地 [ADV with v]
+   ≫   It's a class move, allowing new and old to blend seamlessly.  这是一次班级活动，让新老同学亲密无间地融合在一起。
+
+========================================================================
+>>> fair-play
+------------------------------------------------------------------------
+fair play    [英 ˌfeə ˈpleɪ]
+公平竞争：在体育比赛中，按照规则进行比赛，不占不当的优势。
+公正对待：对待他人公正、诚实的态度。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you refer to someone's attitude or behaviour as fair play, you approve of it because it shows respect and sympathy toward everyone, even toward people who are thought to be wrong or to deserve punishment. 公平; 公道 [表赞许]
+   ≫   ...a legal system that is unmatched anywhere in the world for its justice and sense of fair play.  ...其法律体系的公正性和公平观念举世无敌。
+
+========================================================================
+>>> miscellaneous
+------------------------------------------------------------------------
+miscellaneous    [美 ˌmɪsəˈleɪniəs / 英 ˌmɪsəˈleɪniəs]
+adj. （人，物）混杂的，各种各样的；多方面的，多才多艺的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category. 各式各样的 [ADJ n]
+   ≫   ...a hoard of miscellaneous junk.  …五花八门的废旧物品的贮藏库。
+
+========================================================================
+>>> dedication
+------------------------------------------------------------------------
+dedication    [美 ˌdedɪˈkeɪʃ(ə)n / 英 ˌdedɪˈkeɪʃ(ə)n]
+n. 献身，奉献；献辞；落成典礼
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dedication is a message which is written at the beginning of a book, or a short announcement which is sometimes made before a play or piece of music is performed, as a sign of affection or respect for someone. 献辞
+
+========================================================================
+>>> beehive
+------------------------------------------------------------------------
+beehive    [英 ˈbiːhaɪv / 美 ˈbiːhaɪv]
+n. 蜂窝；蜂箱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A beehive is a structure in which bees are kept, which is designed so that the beekeeper can collect the honey that they produce. 蜂箱
+
+========================================================================
+>>> shovel
+------------------------------------------------------------------------
+shovel    [美 ˈʃʌv(ə)l / 英 ˈʃʌv(ə)l]
+n. 铲子，铁锹；（推土机、挖土机等的）铲，铲形部分；一铲（的量）
+v. （用铲子）铲起，铲去；把……大量送入
+★ CET6+ TEM8 shoveling,shoveled,shovels
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shovel is a tool with a long handle that is used for lifting and moving earth, coal, or snow. 铲
+   ≫   ...a coal shovel.  …一把煤铲。
+2. (V-T) If you shovel earth, coal, or snow, you lift and move it with a shovel. 用铲挖; 铲起
+   ≫   He has to get out and shovel snow.  他不得不出去铲雪。
+3. (V-T) If you shovel something somewhere, you push a lot of it quickly into that place. 把…大量送入
+   ≫   There was silence, except for Randall, who was obliviously shovelling food into his mouth.  到处一片寂静，除了正在忘乎所以地把食物大口大口地塞进嘴里的兰德尔。
+
+========================================================================
+>>> strike
+------------------------------------------------------------------------
+strike    [美 straɪk / 英 straɪk]
+v. 击，撞；（用手或武器等）打；罢工；突然想到，突然意识到；突击，袭击，进攻；（疾病、灾难等）侵袭；让（某人）觉得；引起（强烈感情）；达成，达到；行进；（时钟）敲响；发现（黄金，矿物，石油）；铸造，冲制；删除；踢球，击球；使处于特定状态；摆出（姿态）；照在……上；弹奏，奏出；划（火柴）, 击出（火星）；拆除（帐篷、帆等）；生根，附着；（渔）急拉钓线把鱼钩住；来到
+n. 罢工，罢市，罢课；袭击，攻击；击，踢；（石油等宝贵资源的）发现；（投出的）好球；（棒球中的）击空；（十柱保龄球）一投全倒；不利因素；拒绝，抗拒；（地层、断层等地质特征的）走向
+【名】 （Strike）（美、俄、秘）斯特赖克（人名）
+★★★★ CET4 TEM4 striking,struck,stricken,strikes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) When there is a strike, workers stop doing their work for a period of time, usually in order to try to get better pay or conditions for themselves. 罢工 [商业] [also 'on' N]
+   ≫   Air traffic controllers have begun a three-day strike in a dispute over pay.  空中交通管制员在一场薪酬纠纷中开始了为时3天的罢工。
+   ≫   Staff at the hospital went on strike in protest at the incidents.  这个医院的员工举行罢工，抗议这些事件。
+2. (N-COUNT) A military strike is a military attack, especially an air attack. 袭击
+   ≫   ...a punitive air strike.  …一次惩罚性空袭。
+3. (N) the act or an instance of knocking down all the pins with the first bowl of a single frame 第一球全中
+4. (N) the score thus made
+
+========================================================================
+>>> lighting strike
+------------------------------------------------------------------------
+lighting strike    [美 ˈlaɪtɪŋ straɪk]
+闪电击中：指闪电在地面、建筑物或其他物体上产生的电荷放电现象。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   To clear your media pool of all un-used clips click on the previously mentioned lighting strike button. 若要清除媒体池中所有未被使用到的媒体文件，只需点击前文提到过的“闪电”按钮即可。
+≫   All the practice shows, the measures can protect the architecture and equipment of the cement plant from damage of lighting strike. 实践证明，这些措施可有效保护水泥厂的建筑结构和设备遭受雷击破坏。
+≫   Finding the right lighting direction requires the photographer to strike a balance between several potentially competing considerations. 找到合适的光源的方向需要摄影师之间找到平衡点几个潜在的竞争的考量。
+
+========================================================================
+>>> jade
+------------------------------------------------------------------------
+jade    [美 dʒeɪd / 英 dʒeɪd]
+n. 玉，翡翠；玉制品；翡翠色（=jade green）；泼妇，荡妇；劣马，衰老的马
+v. 疲倦
+adj. 玉制的；绿玉色的
+【名】 （Jade）（英）杰德，（法）雅德（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Jade is a hard stone, usually green in colour, that is used for making jewellery and ornaments. 玉
+   ≫   The Burmese jade choker in the catalogue was very beautiful.  该目录中的缅甸玉贴颈项链非常漂亮。
+2. (COLOR) Something that is jade or jade green is bright green in colour. 翠绿色
+   ≫   Amy had bought a soft, jade green cashmere jacket for Helen.  埃米给海伦买了一件柔软的、翠绿色的山羊绒短上衣。
+3. (N) an old overworked horse; nag; hack 不堪重负的老马
+4. (V) to exhaust or make exhausted from work or use 耗尽; 使···耗尽
+

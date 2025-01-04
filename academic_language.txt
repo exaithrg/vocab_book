@@ -45180,3 +45180,64 @@ v. 把（场上队员）换下；（在展览会上）展览（狗）；仰卧�
 bedside to bench
 从床边到工作台
 
+========================================================================
+>>> affiliated
+------------------------------------------------------------------------
+affiliated    [美 əˈfɪlieɪtɪd / 英 əˈfɪlieɪtɪd]
+adj. 隶属的，附属的；（专业人员如医生或律师）与……有正式关系的，为……工作的
+v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成员（affiliate 的过去式和过去分词）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If an organization is affiliated with another larger organization, it is officially connected with the larger organization or is a member of it. 附属的 [正式] [v-link ADJ 'with' n, ADJ n]
+   ≫   The consortium is a nonprofit group affiliated with the University of Chicago.  这个联合会是一个附属于芝加哥大学的非盈利性团体。
+2. (ADJ) If a professional person, such as a lawyer or doctor, is affiliated with an organization, they are officially connected with that organization or do some official work for it. 有关联的 [正式] [v-link ADJ 'with/to' n, ADJ n]
+   ≫   He will remain affiliated with the firm as a special associate director.  他会作为特别副主管，继续与这家公司保持联系。
+   ≫   ...our affiliated members.  …我们的附属会员。
+
+========================================================================
+>>> insisted on
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1531
+insisted on
+坚持了下来：表示坚定地坚持某种观点、行为或决定，并且经过一段时间的努力或困难后成功地保持下来。
+
+========================================================================
+>>> portfolio
+------------------------------------------------------------------------
+portfolio    [美 pɔːrtˈfoʊlioʊ / 英 pɔːtˈfəʊliəʊ]
+n. 公文包，画夹；（成册展示的）作品集，照片集；（个人或机构的）投资组合；（部长或大臣的）职责，职务；（公司或机构提供的）系列产品，成套物品
+adj. （职业类型）短期合同制的，兼职的
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A portfolio is a set of pictures by someone, photographs of their work, or examples of their writing, which they use when entering competitions or applying for work. (用于参赛或求职的) 作品选辑
+   ≫   After dinner that evening, Edith showed them a portfolio of her own political cartoons.  那天晚饭后，伊迪丝给他们看了她自己的政治漫画选辑。
+2. (N-COUNT) In finance, a portfolio is the combination of investments that a particular person or company owns. 投资组合 [商业]
+   ≫   ...Roger Early, a portfolio manager at Federated Investors Corp.  …罗杰·厄尔利，联合投资者公司的投资组合经理。
+3. (N-COUNT) In politics, a portfolio is a high-ranking official's responsibility for a particular area of a government's activities. (高官的) 职责
+   ≫   He has held the defence portfolio since the first free elections in 1990.  自从1990年的首次自由选举以来他一直担任国防部长一职。
+4. (N-COUNT) A company's portfolio of products or designs is their range of products or designs. (产品或设计的) 系列 [商业]
+   ≫   The company has continued to invest heavily in a strong portfolio of products.  该公司继续大力投资一个强大的产品系列。
+
+========================================================================
+>>> graffiti
+------------------------------------------------------------------------
+graffiti    [美 ɡrəˈfiːti / 英 ɡrəˈfiːti]
+n. （公共场所墙上等处的）涂鸦，胡写乱画（graffito 的复数形式）
+v. 在（某物）上涂写（或涂画）；涂鸦般写字或画画
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT-COLL) Graffiti is words or pictures that are written or drawn in public places, for example on walls or posters. 涂鸦
+   ≫   Buildings old and new are thickly covered with graffiti.  新旧建筑物都覆盖着密密麻麻的涂鸦。
+
+========================================================================
+>>> portal
+------------------------------------------------------------------------
+portal    [美 ˈpɔːrtl / 英 ˈpɔːtl]
+n. （建筑物的）壮观的大门，正门；门户网站，入口站点
+adj. （剖）门静脉的，肝门的
+【名】 （Portal）（法、西、葡）波塔尔，（英）波特尔（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) On the Internet, a portal is a website that consists of links to other sites. (互联网上的) 门户网站 [计算机]
+   ≫   The site acts as a portal for thousands of online dealers.  该站点为数千名网络交易者的门户网站。
+
