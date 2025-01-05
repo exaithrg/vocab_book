@@ -78249,3 +78249,1576 @@ adj. 玉制的；绿玉色的
 3. (N) an old overworked horse; nag; hack 不堪重负的老马
 4. (V) to exhaust or make exhausted from work or use 耗尽; 使···耗尽
 
+========================================================================
+>>> vendor
+------------------------------------------------------------------------
+vendor    [美 ˈvendər / 英 ˈvendə(r)]
+n. 小贩，摊贩；<法律>卖主，卖方；（出售某类商品的）销售商，供应商；（贸易） 自动售货机
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vendor is someone who sells things such as newspapers, cigarettes, or food from a small stall or cart. 小贩
+   ≫   ...ice cream vendors.  …卖冰淇淋的小贩们。
+2. (N-COUNT) A vendor is a company or person that sells a product or service, especially one who sells to other companies that sell to the public. 卖主 [法律]
+   ≫   Tour America acts as an agent for other vendors and cannot be held responsible for any delays.  “巡游美国”充当其他卖主的代理商，它对任何延误不承担责任。
+
+========================================================================
+>>> affication
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> affection
+------------------------------------------------------------------------
+affection    [美 əˈfekʃ(ə)n / 英 əˈfekʃn]
+n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you regard someone or something with affection, you like them and are fond of them. 喜爱
+   ≫   She thought of him with affection.  她怀着喜爱想起了他。
+2. (N-PLURAL) Your affections are your feelings of love or fondness for someone. 感情
+   ≫   Caroline is the object of his affections.  卡罗琳是他感情的归属。
+
+========================================================================
+>>> nudge
+------------------------------------------------------------------------
+nudge    [美 nʌdʒ / 英 nʌdʒ]
+v. 用肘轻触（某人以引起注意）；轻推移动，推开；用胳膊肘挤开往前走；接近，靠近（某程度或数量）；劝说，鼓励
+n. （肘部的）轻推，碰；说服
+★ TEM8 nudging,nudged,nudges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something. (常用肘为引起注意) 轻推
+   ≫   I nudged Stan and pointed again.  我轻推了推斯坦，又指了一下。
+2. (N-COUNT) Nudge is also a noun. (用肘) 轻推
+   ≫   She slipped her arm under his and gave him a nudge.  她迅速地把胳膊放在他的胳膊下面，给了他轻轻一推。
+3. (V-T) If you nudge someone or something into a place or position, you gently push them there. 把…轻轻地推动
+   ≫   Edna Swinson nudged him into the sitting room.  埃德娜·斯温森把他轻轻地推进了起居室。
+4. (N-COUNT) Nudge is also a noun. 轻轻的推动
+   ≫   McKinnon gave the wheel another slight nudge to starboard.  麦金农把轮子向船的右舷又轻推了一下。
+5. (V-T) If you nudge someone into doing something, you gently persuade them to do it. 好言说服
+   ≫   Bit by bit Bob had nudged Fritz into selling his controlling interest.  鲍勃一点一点地说服弗里茨卖掉自己的控股权。
+   ≫   Foreigners must use their power not simply to punish the country but to nudge it toward greater tolerance.  外国人动用他们的力量，不应仅仅是为了惩罚这个国家而是要说服该国使之变得更宽容。
+6. (N-COUNT) Nudge is also a noun. 说服
+   ≫   I had a feeling that the challenge appealed to him. All he needed was a nudge.  我有一种感觉这个挑战吸引了他。他所需要的只是一点说服。
+
+========================================================================
+>>> reposition
+------------------------------------------------------------------------
+reposition    [美 ˌriːpəˈzɪʃən / 英 ˌriːpəˈzɪʃən]
+vt. 使复位；改变……的位置；使变换阵地
+n. 复位；贮藏；放回
+repositioning,repositioned,repositions
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To reposition an object means to move it to another place or to change its position. 重新放置; 调换位置
+   ≫   It is not possible to reposition the rug without damaging it.  想要挪动地毯又不损坏它是不可能的。
+2. (V-T) To reposition something such as a product or service means to try to interest more or different people in it, for example by changing certain things about it or the way it is marketed. 重新定位(如产品或服务)
+   ≫   The sell-off is aimed at repositioning the company as a publisher of business information.  出售公司部分业务旨在将公司重新定位为主要出版商业信息的出版商。
+   ≫   Mazda needs to reposition itself to boost its sales and reputation.  要想提升销量和名声，马自达公司需要对自己重新定位。
+
+========================================================================
+>>> trajecton
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> trajectory
+------------------------------------------------------------------------
+trajectory    [美 trəˈdʒektəri / 英 trəˈdʒektəri]
+n. （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；（几何）常角轨道，轨线
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The trajectory of a moving object is the path that it follows as it moves. 抛物线 [with supp]
+   ≫   ...the trajectory of an artillery shell.  ...一枚炮弹的抛物线。
+2. (N-COUNT) The trajectory of something such as a person's career is the course that it follows over time. 轨迹 [with supp]
+   ≫   ...a relentlessly upward career trajectory.  ...一个持续上升的职业轨迹。
+
+========================================================================
+>>> resembling
+------------------------------------------------------------------------
+resembling    [英 rɪˈzemblɪŋ / 美 rɪˈzemblɪŋ]
+v. 像，与……相似（resemble 的现在分词）
+★★ CET4 TEM4 resembling,resembled,resembles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing or person resembles another, they are similar to each other. 像 [no cont]
+   ≫   Some of the commercially produced venison resembles beef in flavour.  一些商业化生产的鹿肉味道像牛肉。
+
+========================================================================
+>>> resemble
+------------------------------------------------------------------------
+resemble    [英 rɪˈzemb(ə)l / 美 rɪˈzemb(ə)l]
+v. 像，与……相似
+★★ CET4 TEM4 resembling,resembled,resembles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing or person resembles another, they are similar to each other. 像 [no cont]
+   ≫   Some of the commercially produced venison resembles beef in flavour.  一些商业化生产的鹿肉味道像牛肉。
+
+========================================================================
+>>> manover
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> maneuver
+------------------------------------------------------------------------
+maneuver    [美 məˈnuːvər / 英 məˈnuːvə(r)]
+n. 细致巧妙的移动，机动动作；策略，手段；军事演习；（军队或船只的）调动，部署
+v. 巧妙地移动；操纵，使花招；部署（军队、船只等）；演习
+★★ CET6 TEM8 maneuvering,maneuvered,maneuvers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She can then maneuver the 3D image on the computer screen to map the shortest, least invasive surgical path to the tumor. 然后，她可以操纵电脑屏幕上的 3D 图像，以绘制出最短、切口最小的通往肿瘤的手术路径。
+≫   A new back flip maneuver allowed station astronauts to photograph the shuttle's underbelly, and an extra-long robotic arm enabled astronauts see parts of the shuttle that were previously out of sight. 新的后空翻使空间站的宇航员可以拍摄航天飞机的腹部，超长的机械臂使宇航员可以看到航天飞机以前看不见的部分。
+≫   The dorsad reduction maneuver has been used for treating 120 cases of posticous cervical spondylopathy. 背部复位手法已经被用于治疗120例后发性颈椎病。
+
+========================================================================
+>>> manoeuvre
+------------------------------------------------------------------------
+manoeuvre    [美 məˈnuːvər / 英 məˈnuːvə(r)]
+n. 熟练（谨慎）的动作；军事演习；策略，花招；欺诈性操作
+v. （使谨慎或熟练地）移动；操纵，控制
+CET6 TEM8 manoeuvring,manoeuvred,manoeuvres
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you manoeuvre something into or out of an awkward position, you skilfully move it there. (熟练地) 移动
+   ≫   That will allow them to manoeuvre the satellite into the shuttle's cargo bay.  那将使得他们能把人造卫星移入飞船的货物舱。
+   ≫   I manoeuvred my way among the tables to the back corner of the place.  我在那些桌子间穿行，来到那地方后面的角落。
+2. (N-VAR) Manoeuvre is also a noun. 移动
+   ≫   The chopper shot upward in a manoeuvre matched by the other pilot.  这架直升飞机向上冲去，另一架飞机也以相同的移动方向冲了上去。
+3. (V-T/V-I) If you manoeuvre a situation, you change it in a clever and skilful way so that you can benefit from it. 操控
+   ≫   The president has tried to manoeuvre the campaign away from himself.  总统试图操控该活动，使其远离自身。
+4. (N-COUNT) Manoeuvre is also a noun. 操控手段
+   ≫   The company announced a series of manoeuvres to raise cash and reduce debt.  这家公司宣布了一系列筹措现金、减少债务的手段。
+5. (N-PLURAL) Military manoeuvres are training exercises which involve the movement of soldiers and equipment over a large area. 演习
+   ≫   Allied troops begin manoeuvres tomorrow to show how quickly forces could be mobilized in case of a new invasion.  盟军部队明天开始演习，来展示一旦发生新的入侵，军队能以多快的速度集结起来。
+
+========================================================================
+>>> cobra
+------------------------------------------------------------------------
+cobra    [美 ˈkoʊbrə / 英 ˈkəʊbrə]
+n. 眼镜蛇；（澳）头颅
+n. （Cobra）人名；（西）科夫拉；（法、意、葡）科布拉
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cobra is a kind of poisonous snake that can make the skin on the back of its neck into a hood. 眼镜蛇
+
+========================================================================
+>>> parliament
+------------------------------------------------------------------------
+parliament    [美 ˈpɑːrləmənt / 英 ˈpɑːləmənt]
+n. 议会，国会；英国议会（包括下议院和上议院）（Parliament）；一届议会（会期）
+★★★★ CET4 TEM4 alsoParliament
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-PROPER) The parliament of some countries is the group of people who make or change its laws, and decide what policies the country should follow. 议会
+   ≫   The Bangladesh Parliament today approved the policy, but it has not yet become law.  孟加拉共和国议会今天批准了这项政策，但它还没有成为法律。
+2. (N-COUNT) A particular parliament is a particular period of time in which a parliament is doing its work, between two elections or between two periods of holiday. 一届议会的任期; (两次大选之间的) 一届议会
+   ≫   The legislation is expected to be passed in the next parliament.  这项法规有望在下届议会中通过。
+
+========================================================================
+>>> attorney
+------------------------------------------------------------------------
+attorney    [美 əˈtɜːrni / 英 əˈtɜːni]
+n. 律师；代理人
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In the United States, an attorney or attorney-at-law is a lawyer. 律师
+   ≫   ...a prosecuting attorney.  …一位公诉律师。
+   ≫   At the hearing, her attorney did not enter a plea.  在听证会上，她的律师没有提出申诉。
+
+========================================================================
+>>> infantry
+------------------------------------------------------------------------
+infantry    [美 ˈɪnfəntri / 英 ˈɪnfəntri]
+n. 步兵；步兵团
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT-COLL) Infantry are soldiers who fight on foot rather than in tanks or on horses. 步兵
+   ≫   ...an infantry division.  …一个步兵师。
+
+========================================================================
+>>> cavalry
+------------------------------------------------------------------------
+cavalry    [美 ˈkæv(ə)lri / 英 ˈkæv(ə)lri]
+n. 骑兵；装甲兵；装甲部队
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The cavalry is the part of an army that uses armoured vehicles for fighting. 装甲部队
+   ≫   The 3rd Cavalry went on the offensive.  第3装甲兵团继续发动进攻。
+2. (N-SING) The cavalry is the group of soldiers in an army who ride horses. 骑兵团
+   ≫   ...a young cavalry officer.  …一位年轻的骑兵军官。
+
+========================================================================
+>>> ballet
+------------------------------------------------------------------------
+ballet    [美 bæˈleɪ / 英 ˈbæleɪ]
+n. 芭蕾舞剧；芭蕾舞团；芭蕾舞；芭蕾舞曲
+【名】 （Ballet）（美、法）巴莱（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Ballet is a type of very skilled and artistic dancing with carefully planned movements. 芭蕾舞 [also 'the' N, oft N n]
+   ≫   I trained as a ballet dancer.  我受过做芭蕾舞演员的训练。
+2. (N-COUNT) A ballet is an artistic work that is performed by ballet dancers. 芭蕾舞剧
+   ≫   The performance will include the premiere of three new ballets.  这次演出将包括3部新芭蕾舞剧的首演。
+
+========================================================================
+>>> theatre
+------------------------------------------------------------------------
+theatre    [美 ˈθiːətər / 英 ˈθɪətə(r)]
+n. 剧场，戏院；<美>电影院；戏剧；戏剧表演，戏剧演出；手术室；战场，战区；（事件发生的）场所；做戏，夸张做作；戏剧效果；阶梯式讲堂（或教室）；<英>手术室
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A theatre is a building with a stage in it, on which plays, shows, and other performances take place. 剧院
+   ≫   They brought her to the theatre where their new musical was in production.  他们带她到正编排新音乐剧的剧院。
+2. (N-SING) You can refer to work in the theatre such as acting or writing plays as the theatre. 戏剧工作
+   ≫   The story of her career in the theatre is told in a new biography.  她的戏剧生涯故事记载在新的传记中。
+3. (N-UNCOUNT) Theatre is entertainment that involves the performance of plays. 戏剧表演
+   ≫   ...American musical theatre.  …美国的音乐剧表演。
+4. (N-COUNT) A theatre is a room in a hospital where surgeons operate on their patients. 手术室 [美国英语]
+5. (N-COUNT) A theatre or a movie theatre is a place where people go to watch movies for entertainment. 电影院 [美国英语]
+   ≫   A movie theatre and roller rink attracted customers and profit.  一家兼作溜冰场的电影院吸引了顾客，也招来了利润。
+
+========================================================================
+>>> cuisine
+------------------------------------------------------------------------
+cuisine    [美 kwɪˈziːn / 英 kwɪˈziːn]
+n. 烹饪，风味；饭菜，菜肴
+【名】 （Cuisine）（法）屈西纳（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The cuisine of a country or district is the style of cooking that is characteristic of that place. 烹调风格
+   ≫   The cuisine of Japan is low in fat.  日式烹调脂肪含量低。
+
+========================================================================
+>>> souffle
+------------------------------------------------------------------------
+souffle    [美 suːˈfleɪ / 英 ˈsuːfleɪ]
+n. 吹气音；[临床] 杂音
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a blowing sound or murmur heard in auscultation 听诊中听到的吹风声或低沉、连续不清的声音 [医学]
+
+========================================================================
+>>> souffle
+------------------------------------------------------------------------
+souffle    [美 suːˈfleɪ / 英 ˈsuːfleɪ]
+n. 吹气音；[临床] 杂音
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a blowing sound or murmur heard in auscultation 听诊中听到的吹风声或低沉、连续不清的声音 [医学]
+
+========================================================================
+>>> croissant
+------------------------------------------------------------------------
+croissant    [美 kwɑːˈsɑːnt; krəˈsɑːnt / 英 ˈkwɑːsɒŋ]
+n. 羊角面包，新月形面包
+【名】 （Croissant）（法、德）克鲁瓦桑（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Croissants are bread rolls in the shape of a crescent that are eaten for breakfast. 牛角面包
+   ≫   ...coffee and croissants.  …咖啡和牛角面包。
+
+========================================================================
+>>> couture
+------------------------------------------------------------------------
+couture    [美 kuˈtʊr / 英 kuˈtjʊə(r)]
+n. 时装设计制作，高级时装；高级定制店；设计师
+n. (Couture) （加、美、法）科图雷（人名）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Couture is the designing and making of expensive fashionable clothes, or the clothes themselves. 高级时装设计制作; 高级时装 [正式] [oft N n]
+   ≫   ...Christian Lacroix's first Paris couture collection.  ...克里斯汀•拉克鲁瓦的第一场巴黎高级时装展。
+
+========================================================================
+>>> chic
+------------------------------------------------------------------------
+chic    [美 ʃiːk / 英 ʃiːk]
+adj. 时髦的，雅致的
+n. 时髦，时尚
+n. （Chic）（美）奇克（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something or someone that is chic is fashionable and sophisticated. 时髦且有品位的
+   ≫   Her gown was very French and very chic.  她的礼服是地道的法国风格，非常时髦有品位。
+2. (N-UNCOUNT) Chic is used to refer to a particular style or to the quality of being chic. 特种风格; 时髦雅致
+   ≫   ...French designer chic.  …法国设计师的特有风格。
+
+========================================================================
+>>> blouse
+------------------------------------------------------------------------
+blouse    [英 blaʊz / 美 blaʊs]
+n. （女式）短上衣，衬衫；宽松上衣
+v. 使（衣服）松垂
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A blouse is a kind of shirt worn by a girl or woman. 女式衬衫
+
+========================================================================
+>>> chateau
+------------------------------------------------------------------------
+chateau    [美 ʃæˈtoʊ / 英 ˈʃætəʊ]
+n. （法国封建时代的）城堡；（尤指法国的）别墅
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Lucille's home was very grandly called a chateau, though in truth it was nothing more than a large farm. 露西尔的家美其名曰称为城堡，尽管实际上跟一个大农场没什么区别。《柯林斯英汉双解大词典》
+≫   After lunch there will be a walk in the grounds of the chateau to see the Jugendstil nymph fountains, a work dating from 1903 by Walter Schott. 午餐后，我们将在城堡内散步，参观“青年派”风格女神雕像喷泉，这是沃尔特·肖特1903年创作的作品。
+≫   Brad Pitt and Angelina Jolie arrived in Nice on Saturday for their secret wedding, believed to have been held at Chateau Miraval, the property they bought in 2011. 布拉德·皮特和安吉丽娜·朱莉在周六抵达尼斯举行秘密婚礼，据说他们的婚礼是在米拉瓦尔城堡举行的，这里是他们2011年购买的房产。
+
+========================================================================
+>>> mansion
+------------------------------------------------------------------------
+mansion    [美 ˈmænʃ(ə)n / 英 ˈmænʃ(ə)n]
+n. 大厦，宅邸；<英>公寓楼
+【名】 （Mansion）（法）芒雄（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mansion is a very large house. 大厦
+   ≫   ...an eighteenth-century mansion in New Hampshire.  …新罕布什尔州一座18世纪的大厦。
+
+========================================================================
+>>> arcade
+------------------------------------------------------------------------
+arcade    [美 ɑːrˈkeɪd / 英 ɑːˈkeɪd]
+n. 拱廊；(上有顶盖的）拱廊式街道；室内购物商场；（有投币游戏机的）游乐中心，电子游戏厅
+【名】 （Arcade）（西、法）阿卡德（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An arcade is a place where you can play games on machines which work when you put money in them. 游戏厅
+2. (N-COUNT) An arcade is a covered passage where there are stores or market stalls. (购物) 拱廊 [英国英语]
+   ≫   ...a shopping arcade.  …一条购物拱廊。
+
+========================================================================
+>>> affair
+------------------------------------------------------------------------
+affair    [美 əˈfer / 英 əˈfeə(r)]
+n. 公共事务，政治事务；事情，事件；个人的事，私事；私人业务；（尤指已婚男女的）私通，风流韵事；社交活动，喜庆事；<旧> 物件，东西；商务和金融交易
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) If an event or a series of events has been mentioned and you want to talk about it again, you can refer to it as the affair. 事件
+   ≫   The administration has mishandled the whole affair.  政府错误地处理了整个事件。
+2. (N-SING) You can refer to an important or interesting event or situation as "the ... affair." (…) 事件 [journalism]
+   ≫   ...the damage caused to the CIA and FBI in the aftermath of the Watergate affair.  …水门事件过后对中情局和美国联帮调查局造成的损害。
+3. (N-SING) You can describe the main quality of an event by saying that it is a particular kind of affair. (某种性质的) 事
+   ≫   Michael said that his planned 10-day visit would be a purely private affair.  迈克尔说他计划的10天的访问将是一件纯粹私事。
+4. (N-COUNT) If two people who are not married to each other have an affair, they have a sexual relationship. 不正当关系
+   ≫   Married male supervisors were carrying on affairs with female subordinates in the office.  已婚男上司和办公室里的女下级在搞不正当关系。
+5. (N-PLURAL) You can use affairs to refer to all the important facts or activities that are connected with a particular subject. (有关某话题的) 事务
+   ≫   He does not want to interfere in the internal affairs of another country.  他不想干涉他国的内部事务。
+6. (N-PLURAL) Your affairs are all the matters connected with your life that you consider to be private and normally deal with yourself. (个人的) 事情
+   ≫   The unexpectedness of my father's death meant that his affairs were not entirely in order.  我父亲的意外过世意味着他的个人事情不是完全有序。
+
+========================================================================
+>>> entrepreneur
+------------------------------------------------------------------------
+entrepreneur    [美 ˌɑːntrəprəˈnɜːr / 英 ˌɒntrəprəˈnɜː(r)]
+n. 企业家，创业者；主办者，提倡者
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An entrepreneur is a person who sets up businesses and business deals. 创业者 [商业]
+
+========================================================================
+>>> investment
+------------------------------------------------------------------------
+investment    [美 ɪnˈvestmənt / 英 ɪnˈvestmənt]
+n. 投资；值得买的东西；（时间、精力的）投入；<旧>包围，封锁
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Investment is the activity of investing money. 投资
+   ≫   He said the government must introduce tax incentives to encourage investment.  他说，政府必须通过给予税收利益来鼓励投资。
+2. (N-VAR) An investment is an amount of money that you invest, or the thing that you invest it in. 投资额
+   ≫   ...an investment of twenty-eight million dollars.  …2800万美元的投资额。
+3. (N-COUNT) If you describe something you buy as an investment, you mean that it will be useful, especially because it will help you to do a task more cheaply or efficiently. 有益的购买物
+   ≫   When selecting boots, fine, quality leather will be a wise investment.  在挑选靴子时，买精致、质量上乘的皮靴会是明智的。
+4. (N-UNCOUNT) Investment of time or effort is the spending of time or effort on something in order to make it a success. 投入
+   ≫   I worry about this big investment of time not working.  我担心这么多的时间投入不起作用。
+
+========================================================================
+>>> aisance
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> bouquet
+------------------------------------------------------------------------
+bouquet    [美 buˈkeɪ / 英 buˈkeɪ]
+n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
+【名】 （Bouquet）（英、法）布凯（人名)
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bouquet is a bunch of flowers which is attractively arranged. 花束
+   ≫   The woman carried a bouquet of dried violets.  那个女子拿着一束干紫罗兰花。
+2. (N-VAR) The bouquet of something, especially wine, is the pleasant smell that it has. 芳香
+   ≫   ...a Sicilian wine with a light red colour and a bouquet of cloves.  …一杯浅红色并带着丁香芬芳的西西里酒。
+
+========================================================================
+>>> camaraderie
+------------------------------------------------------------------------
+camaraderie    [美 ˌkɑːməˈrɑːdəri / 英 ˌkæməˈrɑːdəri]
+n. 友情；同志之爱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Camaraderie is a feeling of trust and friendship among a group of people who have usually known each other for a long time or gone through some kind of experience together. 友情
+   ≫   ...the loyalty and camaraderie of the wartime Army.  ...战时军中的忠心和友情。
+
+========================================================================
+>>> facade
+------------------------------------------------------------------------
+facade    [美 fəˈsɑːd / 英 fəˈsɑːd]
+n. （建筑物的）正面，立面；假象，伪装
+★ TEM8 alsofaçade
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The facade of a building, especially a large one, is its front wall or the wall that faces the street. (建筑物的) 正面
+   ≫   ...the repairs to the building's facade.  …该建筑物正面墙的维修。
+2. (N-SING) A facade is an outward appearance which is deliberately false and gives you a wrong impression about someone or something. 假象
+   ≫   They hid the troubles plaguing their marriage behind a facade of family togetherness.  他们把困扰他们婚姻的问题掩藏在家人亲密无间的假象背后。
+
+========================================================================
+>>> liaison
+------------------------------------------------------------------------
+liaison    [美 liˈeɪzɑːn / 英 liˈeɪz(ə)n]
+n. 联络，沟通；联络人；私通，婚外情；加浓调料，蛋黄勾芡；（法语和其他语言中的）连音，连诵
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Liaison is cooperation and the exchange of information between different organizations or between different sections of an organization. 联络
+   ≫   Liaison between police forces and the art world is vital to combat art crime.  警方和艺术界之间的联络对于打击艺术犯罪是至关重要的。
+2. (N-UNCOUNT) If someone acts as liaison with a particular group, or between two or more groups, their job is to encourage co-operation and the exchange of information. 联络员 [also 'a' N, oft N 'with' n]
+   ≫   He is acting as liaison with the film crew.  他担任拍摄组的联络员。
+   ≫   She acts as a liaison between patients and staff.  她担当病人和医务人员之间的联络员。
+
+========================================================================
+>>> quasi
+------------------------------------------------------------------------
+quasi    [美 ˈkweɪzaɪˌˈkweɪsaɪˌˈkwɑːzi / 英 ˈkweɪzaɪ; ˈkweɪsaɪ; ˈkwɑːzi]
+adj. 类似，准；外表的
+adv. 似乎，宛如
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) as if; as it were 似乎; 宛如
+
+========================================================================
+>>> bonjour
+------------------------------------------------------------------------
+Bonjour    [bɔnzhur]
+n. （法）你好；苹果电脑公司的服务器搜索协议商标名
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Jeff: Bonjour. Do you speak English? 杰夫：你好。你会讲英语吗？
+≫   In the first window, type in the Bonjour or IP address and hit connect. 在第一个窗口中，键入或IP地址和卓悦击中连接。
+≫   He looked up at the group of big brown boys on the rock and shouted "Bonjour!" 他抬头看着那一群站在岩石上的满身棕色的高大男孩，喊道“日安！”
+
+========================================================================
+>>> bonsoir
+------------------------------------------------------------------------
+bonsoir
+int. （法）晚安；晚上好
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   One evening as I was walking through the village, I heard a voice coming from a cottage, "Bonsoir, Monsieur". 一天晚上，当我走过村庄时，我听到一声声音从小屋传来，“晚安先生”。
+
+========================================================================
+>>> salut
+------------------------------------------------------------------------
+salut    [英 sæˈluː]
+abbr. 海、空、陆地和水下目标（sea, air, land and underwater targets）
+n. （Salut）人名；（法）萨吕
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Women, when you once again salut wealth, hail fame and extol power. 女人啊，当你再度向财富致敬，向名利欢呼，向权力高举臂膀。
+≫   So, thank you to all of you for playing a part in this great and educational experience with me. Salut . 因此，感谢你们在座的所有在这个伟大而富于教育意义的经历中所扮演的角色，让我们干杯！
+
+========================================================================
+>>> salute
+------------------------------------------------------------------------
+salute    [英 səˈluːt / 美 səˈluːt]
+v. （向……）行军礼，（向……）致敬；（尤指公开地）赞扬，颂扬；（尤指用手或身体动作）向……打招呼，向……致意
+n. 敬礼，举手礼；致敬，致意； 鸣礼炮，鸣炮致敬；举剑致敬
+★★ CET6 TEM4 saluting,saluted,salutes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you salute someone, you greet them or show your respect with a formal sign. Soldiers usually salute officers by raising their right hand so that their fingers touch their forehead. 向…打招呼; 向…行军礼
+   ≫   One of the company stepped out and saluted the General.  队中的一人站出来，向那位将军行军礼。
+2. (N-COUNT) Salute is also a noun. 招呼; 军礼 [also 'in' N]
+   ≫   He gave his salute and left.  他打了招呼然后离开了。
+3. (V-T) To salute a person or their achievements means to publicly show or state your admiration for them. 对…表示敬意
+   ≫   I salute the governor for the leadership role that he is taking.  我对州长的领导风范表示敬意。
+
+========================================================================
+>>> coucou
+------------------------------------------------------------------------
+coucou
+n. 法语中的一种亲昵称呼，类似于英语中的“嗨”或“你好”。
+
+========================================================================
+>>> bonne
+------------------------------------------------------------------------
+bonne    [美 bɑːn / 英 bɒn]
+n. 女佣，保姆
+n. （Bonne）（丹）邦内（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a housemaid or female servant 女佣
+
+========================================================================
+>>> merci
+------------------------------------------------------------------------
+merci    [英 mεrˈsiː]
+n. （Merci）（意、美、法）梅尔奇（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thank you. Merci beaucoup. 谢谢你们！非常感谢！
+≫   Merci de me consoler. 谢谢你安慰我。
+≫   Libyans can be found with banners declaring "Merci Sarkozy" but the French seem less immediately appreciative. 在利比亚可以看到写着“仁慈的萨科齐”的牌子，但在法国，并没有引起互动。
+
+========================================================================
+>>> bonne nuit
+------------------------------------------------------------------------
+bonne nuit
+晚安：告别时说的一句话。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Jacqueline picked up the candlestick with a steady hand. "Bonne nuit, messieurs," she murmured. 杰奎琳一只手稳稳地拿起烛台，“先生们，晚安，”她喃喃地说。
+≫   So even though you probably won't be having a French conversation with your child very soon, if you say "bonne nuit" every night at bedtime, she'll figure out what you mean. 即使你的孩子还不能很快和你进行法语对话，如果你每晚睡觉时间用法语说“晚安”，她也能明白你说的意思。
+
+========================================================================
+>>> gute nacht
+------------------------------------------------------------------------
+gutenacht
+晚安
+
+========================================================================
+>>> Oyasuminasai
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Oyasumi
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> kurtosis
+------------------------------------------------------------------------
+kurtosis    [美 kərˈtoʊsɪs / 英 kəˈtəʊsɪs]
+n. 峰态，峰度，峭度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a measure of the concentration of a distribution around its mean, esp the statistic B 2 = m 4/m 2² where m 2 and m 4 are respectively the second and fourth moment of the distribution around the mean. In a normal distribution B 2 = 3 峭度; 峰态 [statistics] → see also platykurtic, mesokurtic, leptokurtic
+
+========================================================================
+>>> hook
+------------------------------------------------------------------------
+hook    [美 hʊk / 英 hʊk]
+n. 钩，挂钩；勾拳；曲线球；吸引人的东西；使（投手）下场；（尤指用于收割、剪羊毛）弧形切割工具；弯曲的笔画；弧形岬（或沙嘴）
+v. 钩住，挂住；（用手臂等身体部位）箍住；钓鱼；打曲线球；弯成钩状；吸引；<非正式>偷窃；<非正式>卖淫；把……连接到（某设备）
+【名】 （Hook）（英）胡克，（德、荷）霍克（人名）
+★★★ CET4 TEM4 hooking,hooked,hooks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hook is a bent piece of metal or plastic that is used for catching or holding things, or for hanging things up. 钩子
+   ≫   One of his jackets hung from a hook.  他的一件夹克衫挂在挂钩上。
+2. (V-T/V-I) If you hook one thing to another, you attach it there using a hook. If something hooks somewhere, it can be hooked there. 挂; 钩
+   ≫   Paul hooked his tractor to the car and pulled it to safety.  保罗把他的拖拉机挂在那辆小汽车上，然后把它拖到安全的地方。
+3. (V-T) If you hook your arm, leg, or foot round an object, you place it like a hook round the object in order to move it or hold it. 使 (臂、腿、脚等) 成钩状
+   ≫   She latched on to his arm, hooking her other arm around a tree.  她一只手抓住他的胳膊，另一只胳膊抱住一棵树。
+4. (V-T) If you hook a fish, you catch it with a hook on the end of a line. 用鱼钩钓住
+   ≫   At the first cast I hooked a huge fish, probably a tench.  第一次抛竿我就钓到了一条大鱼，可能是条丁鲷。
+5. (N-COUNT) A hook is a short sharp blow with your fist that you make with your elbow bent, usually in a boxing match. (拳击中的) 钩拳
+   ≫   Lewis desperately needs to keep clear of Ruddock's big left hook.  刘易斯务必要拼命躲开拉多克强有力的左钩拳。
+6. (V-T/V-I) If you are hooked into something, or hook into something, you get involved with it. 卷入; 涉足 [美国英语]
+   ≫   I'm guessing again now because I'm not hooked into the political circles.  现在我又在猜测了，因为我没有涉足政界。
+7. (PHRASE) If someone gets off the hook or is let off the hook, they manage to get out of the awkward or unpleasant situation that they are in. 脱身 [非正式]
+   ≫   Officials accused of bribery and corruption get off the hook with monotonous regularity.  被指控受贿和贪污的官员无一例外总能脱身。
+8. (PHRASE) If you take a phone off the hook, you take the receiver off the part that it normally rests on, so that the phone will not ring. (电话听筒) 未挂上
+   ≫   I'd taken my phone off the hook in order to get some sleep.  我把电话听筒拿了下来，以便可以睡会儿觉。
+9. (PHRASE) If your phone is ringing off the hook, so many people are trying to telephone you that it is ringing constantly. (电话) 响个不停
+   ≫   Since war broke out, the phones at donation centres have been ringing off the hook.  自从战争爆发以来，捐款中心的电话一直响个不停。
+
+========================================================================
+>>> embedding
+------------------------------------------------------------------------
+embedding    [美 ɪmˈbedɪŋ / 英 ɪmˈbedɪŋ]
+n. 记者随军
+v. 把（物体）嵌入；派遣（战地记者等）；使（观点）深深植入；嵌进（短语）；插入（代码）（embed 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the practice of assigning or being assigned a journalist to accompany an active military unit 记者随军
+
+========================================================================
+>>> embeddings
+------------------------------------------------------------------------
+embedding    [英 ɪmˈbedɪŋ / 美 ɪmˈbedɪŋ]
+n. 记者随军
+v. 把（物体）嵌入；派遣（战地记者等）；使（观点）深深植入；嵌进（短语）；插入（代码）（embed 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the practice of assigning or being assigned a journalist to accompany an active military unit 记者随军
+
+========================================================================
+>>> parameters
+------------------------------------------------------------------------
+parameters    [美 pəˈræmɪtərz / 英 pəˈræmɪtəz]
+n. 决定因素，规范；参数；人口参数；界限（parameter 的复数）
+★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Parameters are factors or limits that affect the way something can be done or made. 参数; 界限 [正式]
+   ≫   ...some of the parameters that determine the taste of a wine.  …一些决定葡萄酒味道的参数。
+
+========================================================================
+>>> smithing
+------------------------------------------------------------------------
+smithing
+v. 锻制，锻造（金属）（smith 的现在分词）
+n. 锻造
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who works in metal, esp one who shapes metal by hammering 金属匠
+2. (N) (in combination) (结合中)
+   ≫   a silversmith  
+
+========================================================================
+>>> smith
+------------------------------------------------------------------------
+smith    [美 smɪθ / 英 smɪθ]
+n. 铁匠；锻工；制作者
+vt. 锻制
+vi. 锻打金属；当锻工
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who works in metal, esp one who shapes metal by hammering 金属匠
+2. (N) (in combination) (结合中)
+   ≫   a silversmith  
+
+========================================================================
+>>> blacksmith
+------------------------------------------------------------------------
+blacksmith    [美 ˈblæksmɪθ / 英 ˈblæksmɪθ]
+n. 铁匠；锻工
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A blacksmith is a person whose job is making things by hand out of metal that has been heated to a high temperature. 铁匠
+
+========================================================================
+>>> taylor
+------------------------------------------------------------------------
+Taylor    [英 ˈteɪlə(r)]
+n. 泰勒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   My heroine was Elizabeth Taylor. 我崇拜的女性是伊丽莎白·泰勒。《柯林斯英汉双解大词典》
+≫   Hughes was marking Taylor. 休斯在钉防泰勒。《牛津词典》
+≫   Taylor has nominated Adams as his replacement. 泰勒已经提名亚当斯为接替者。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> wright
+------------------------------------------------------------------------
+wright    [美 raɪt / 英 raɪt]
+n. 制作者；工人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who creates, builds, or repairs something specified 创造者; 修建者
+   ≫   a playwright  
+   ≫   a shipwright  
+
+========================================================================
+>>> turner
+------------------------------------------------------------------------
+turner    [美 ˈtɜːrnər / 英 ˈtɜːnə(r)]
+n. 车工；体育协会会员
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person or thing that turns, esp a person who operates a lathe 车床工
+
+========================================================================
+>>> mason
+------------------------------------------------------------------------
+mason    [美 ˈmeɪs(ə)n / 英 ˈmeɪs(ə)n]
+n. 泥瓦匠；石工（等于 stonemason）共济会会员（等于 freemason）
+vt. 用砖瓦砌成
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mason is a person who is skilled at making things or building things with stone or bricks. 石匠
+
+========================================================================
+>>> cooper
+------------------------------------------------------------------------
+cooper    [美 ˈkuːpər / 英 ˈkuːpə(r)]
+n. 制桶工人，修桶匠
+v. 箍桶，制桶
+n. （Cooper）（英、美、加、澳）库珀（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cooper is a person who makes barrels. 桶匠 [老式]
+
+========================================================================
+>>> shepherd
+------------------------------------------------------------------------
+shepherd    [美 ˈʃepərd / 英 ˈʃepəd]
+n. 牧羊人，羊倌；牧师；指导者
+v. 牧（羊）；带领，引领，护送；（尤指精神方面）给……指导
+【名】 （Shepherd）（英、美、菲）谢泼德（人名）
+★★ CET6 TEM4 shepherding,shepherded,shepherds
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shepherd is a person, especially a man, whose job is to take care of sheep. 牧羊人
+2. (V-T) If you are shepherded somewhere, someone takes you there to make sure that you arrive at the right place safely. 护送 [usu passive]
+   ≫   She was shepherded by her guards up the rear ramp of the aircraft.  她由她的警卫们护送登上飞机后部的活动舷梯。
+
+========================================================================
+>>> Lapis Lazuli
+------------------------------------------------------------------------
+lapis lazuli    [美 ˌlæpɪs ˈlæzəli / 英 ˌlæpɪs ˈlæzjʊli]
+青金石：一种半宝石，通常呈深蓝色，主要成分是复杂的硅酸盐，常常带有黄铁矿斑点。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Lapis lazuli is a bright blue stone, used especially in making jewellery. 青金石
+
+========================================================================
+>>> lapis
+------------------------------------------------------------------------
+lapis    [美 ˈlæpɪs / 英 ˈlæpɪs]
+n. （拉）石
+n. （Lapis）人名；（匈）洛皮什；（意）拉皮斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The sea was of a lapis lazuli blue. 大海呈天青石色。《新英汉大辞典》
+≫   Lapis Lazuli was very expensive and hard to get. 而天青石当时非常贵，而且难弄到。
+≫   They are circling the Lapis Lazuli stone in clockwise direction. 他们是以顺时钟的方向环绕著青金石。
+
+========================================================================
+>>> lazuli
+------------------------------------------------------------------------
+lazuli    [美 ˈlæzəli / 英 ˈlæzjʊli]
+n. 青金石（等于 lapis lazuli）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The sea was of a lapis lazuli blue. 大海呈天青石色。《新英汉大辞典》
+≫   Lapis Lazuli was very expensive and hard to get. 而天青石当时非常贵，而且难弄到。
+≫   A blue pigment is made from powdered lapis lazuli. 深蓝青由粉末状天青石制成的蓝色颜料。
+
+========================================================================
+>>> prismarine
+------------------------------------------------------------------------
+prismarine
+海晶石
+
+========================================================================
+>>> marine
+------------------------------------------------------------------------
+marine    [美 məˈriːn / 英 məˈriːn]
+adj. 海洋的，海产的；海运的，海事的
+n. 水兵，海军陆战队士兵；（一个国家的）船舶
+【名】 （Marine）（英）马林，（西）马里内（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A marine is a member of an armed force, for example the U.S. Marine Corps or the Royal Marines, who is specially trained for military duties at sea as well as on land. 海军陆战队士兵
+   ≫   A small number of Marines were wounded.  几名海军陆战队士兵受了伤。
+2. (ADJ) Marine is used to describe things relating to the sea or to the animals and plants that live in the sea. 海洋的 [ADJ n]
+   ≫   ...breeding grounds for marine life.  …海洋生物的繁殖地。
+3. (ADJ) Marine is used to describe things relating to ships and their movement at sea. 海事的 [ADJ n]
+   ≫   ...a lawyer specializing in marine law.  …一名专攻海事法的律师。
+
+========================================================================
+>>> prism
+------------------------------------------------------------------------
+prism    [美 ˈprɪzəm / 英 ˈprɪzəm]
+n. 棱镜；[晶体][数] 棱柱
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prism is a block of clear glass or plastic that separates the light passing through it into different colours. 棱镜
+2. (N-COUNT) a polyhedron having parallel, polygonal, and congruent bases and sides that are parallelograms 棱柱体 [maths]
+
+========================================================================
+>>> chiseled
+------------------------------------------------------------------------
+chiseled    [美 ˈtʃɪzld / 英 ˈtʃɪz(ə)ld]
+adj. 轮廓分明的；凿刻的
+v. 镌刻；用凿子刻（chisel 的过去分词）
+★ TEM8 chiseling,chiseled,chisels
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chisel is a tool that has a long metal blade with a sharp edge at the end. It is used for cutting and shaping wood and stone. 凿子
+   ≫   ...a hammer and chisel.  …一把锤子和一把凿子。
+2. (V-T) If you chisel wood or stone, you cut and shape it using a chisel. 用凿子雕切
+   ≫   He set out to chisel a dog out of sandstone.  他开始用凿子将砂岩雕刻成一只狗。
+
+========================================================================
+>>> galzed
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> glazed
+------------------------------------------------------------------------
+glazed    [美 ɡleɪzd / 英 ɡleɪzd]
+adj. 光滑的；像玻璃的；上过釉的；呆滞无神的
+v. 上釉（glaze 的过去分词）；装以玻璃
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone's eyes as glazed, you mean that their expression is dull or dreamy, usually because they are tired or are having difficulty concentrating on something. 呆滞的
+   ≫   Doctors with glazed eyes sat chain-smoking in front of a television set.  目光呆滞的医生们坐在电视机前一根接一根地抽着烟。
+2. (ADJ) Glazed pottery is covered with a thin layer of a hard, shiny substance. 上釉的
+   ≫   ...a large glazed pot.  …一只上了釉的大壶。
+3. (ADJ) A glazed window or door has glass in it. 装有玻璃的
+   ≫   ...the new office, with glazed windows to the corridor.  …玻璃窗面向走廊的新办公室。
+
+========================================================================
+>>> terracotta
+------------------------------------------------------------------------
+terracotta    [美 ˌterəˈkɑːtə / 英 ˌterəˈkɒtə]
+n. 陶瓦；赤土陶器；赤土色
+★ alsoterracotta
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Terracotta is a brownish-red clay that has been baked and is used for making things such as flower pots, small statues, and tiles. 赤陶
+   ≫   ...plants in terracotta pots.  …赤陶花盆里的植物。
+
+========================================================================
+>>> fletching
+------------------------------------------------------------------------
+fletching    [英 ˈfletʃɪŋ / 美 ˈfletʃɪŋ]
+n. 造箭；上翎；矢羽
+v. 上翎；装上羽毛（fletch 的 ing 形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What you do depends on what equipment you have. A fletching jig helps when making ordinary arrows, but you can make them without one. 你做这些依靠什么工具呢。 一个装上羽毛的夹子帮助制造平常的箭，但是你没有它也一样。
+
+========================================================================
+>>> grindstone
+------------------------------------------------------------------------
+grindstone    [美 ˈɡraɪndstoʊn / 英 ˈɡraɪndstəʊn]
+n. 磨石
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grindstone is a large, round stone that turns like a wheel and is used for sharpening knives and tools. 砂轮
+
+========================================================================
+>>> blast furnace
+------------------------------------------------------------------------
+blast furnace    [英 ˈblɑːst fɜːnəs]
+高炉：一种炉子，其中燃烧是通过压力下的空气流动来强制进行的，尤其是用于还原铁矿石的炉子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A blast furnace is a large structure in which iron ore is heated under pressure so that it melts and the pure iron metal separates out and can be collected. (炼铁的)鼓风炉; 高炉
+
+========================================================================
+>>> lectern
+------------------------------------------------------------------------
+lectern    [美 ˈlektərn / 英 ˈlektən]
+n. 讲台；诵经台
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A lectern is a high sloping desk on which someone puts their notes when they are standing up and giving a lecture. 讲台
+
+========================================================================
+>>> loom
+------------------------------------------------------------------------
+loom    [美 luːm / 英 luːm]
+v. （尤指阴森森地）隐约出现，赫然耸现；逼近，临近
+n. 织布机；（尤指海上物体在黑暗或浓雾中的）隐隐显现；（云或霾等将不能直接见到的光折射出来的）暗影，上现蜃景
+【名】 （Loom）（瑞典）洛姆（人名）
+★★ CET6 TEM4 looming,loomed,looms
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If something looms over you, it appears as a large or unclear shape, often in a frightening way. (常以可怕的方式) 赫然出现; 隐约显现
+   ≫   Vincent loomed over me, as pale and grey as a tombstone.  文森特赫然出现在我面前，脸色苍白阴沉得像块墓碑。
+2. (V-I) If a worrying or threatening situation or event is looming, it seems likely to happen soon. (令人担忧的或危险的情形或事件) 可能发生; 逐渐逼近 [journalism]
+   ≫   Another government spending crisis is looming in the United States.  又一次政府开支危机正在美国酝酿。
+   ≫   The threat of renewed civil war looms ahead.  新一轮内战的威胁在逼近。
+3. (N-COUNT) A loom is a machine that is used for weaving thread into cloth. 织布机
+
+========================================================================
+>>> brewing stand
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cartography
+------------------------------------------------------------------------
+cartography    [美 kɑːrˈtɑːɡrəfi / 英 kɑːˈtɒɡrəfi]
+n. 地图制作，制图；制图学，绘图法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cartography is the art or activity of drawing maps and geographical charts. 制图法; 地图绘制
+
+========================================================================
+>>> smithing table
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> composter
+------------------------------------------------------------------------
+composter
+n. 堆肥；混合物（compost 的变形）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I use the compost from the composter to fertilize the flowers in my garden. 我用堆肥器里堆出的肥料给花园的花儿施肥。
+≫   Home composter and small volume in vessel are the trend of composting equipment. 家庭堆肥器和小容量反应器堆肥系统是堆肥设备新的发展趋势。
+≫   Made from cellulose, this shrink-wrap decomposes in a few weeks in a compost rubbish or in an industrial composter . 由纤维素，这拆封分解在数周或垃圾堆肥在工业堆肥。
+
+========================================================================
+>>> compost
+------------------------------------------------------------------------
+compost    [美 ˈkɑːmpoʊst / 英 ˈkɒmpɒst]
+n. 堆肥；混合物
+vt. 堆肥；施堆肥
+★★ composting,composted,composts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Compost is a mixture of decayed plants and vegetable waste which is added to the soil to help plants grow. 堆肥
+   ≫   ...a small compost heap.  …一小堆肥堆。
+2. (N-MASS) Compost is specially treated soil that you buy and use to grow seeds and plants in pots. (用于在盆中种种子和植物的) 特制土
+   ≫   ...a 75-pound bag of compost.  …一袋75磅重的栽种用土。
+3. (V-T) To compost things such as unwanted bits of plants means to make them into compost. 把…制成堆肥
+
+========================================================================
+>>> fertillizer
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fertilliser
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fertilizer
+------------------------------------------------------------------------
+fertilizer    [美 ˈfɜːrtəlaɪzər / 英 ˈfɜːtəlaɪzə(r)]
+n. 肥料，化肥；受精媒介物
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Fertilizer is a substance such as solid animal waste or a chemical mixture that you spread on the ground in order to make plants grow more successfully. 肥料
+   ≫   ...farming without any purchased chemical, fertilizer or pesticide.  …不使用任何购买的化学品、肥料或杀虫剂的耕作。
+
+========================================================================
+>>> fertiliser
+------------------------------------------------------------------------
+fertiliser    [美 ˈfɜːrtəlaɪzər / 英 ˈfɜːtəlaɪzə(r)]
+n. 化肥（fertilizer 的英式拼写）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Indeed, on a global scale, fertiliser manufacturing consumes about 3-5% of the world's annual natural gas supply. 事实上，在全球范围内，化肥生产消耗了全球每年约3-5%的天然气供应。
+≫   Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off. 在很多地区，由于工业化肥和农药的持续使用，导致自然土壤的肥力正在下降，然而化肥的流入却导致湖泊中藻类生长得越来越快。
+≫   After pruning, feed plants with a rose fertiliser. 修剪完成后施用月季花肥。
+
+========================================================================
+>>> solitude
+------------------------------------------------------------------------
+solitude    [美 ˈsɑːlətuːd / 英 ˈsɒlətjuːd]
+n. 独居，独处，孤独；偏僻的地方，无人居住的地方
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Solitude is the state of being alone, especially when this is peaceful and pleasant. 独处
+   ≫   He enjoyed his moments of solitude before the pressures of the day began in earnest.  他很喜欢一天的压力真正开始前的独处时刻。
+
+========================================================================
+>>> deterioration
+------------------------------------------------------------------------
+deterioration    [美 dɪˌtɪriəˈreɪʃn / 英 dɪˌtɪəriəˈreɪʃ(ə)n]
+n. 恶化
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The recent deterioration has been caused by an apparently endless recession. 最近的恶化是由貌似没完没了的萧条造成的。《柯林斯英汉双解大词典》
+≫   The deterioration of the ecological system is accelerating because of the dramatic increase of human production and consumption. 由于人类生产和消费活动的急剧增加，生态系统正在加速恶化。
+≫   The steady deterioration of the very climate of this very planet is becoming a war of the first order, and by any measure, the U.S. is losing. 这个星球气候的持续恶化正在发展为一场至关重要的战争，不论以哪种标准衡量，美国都在输掉这场战争。
+
+========================================================================
+>>> nudge
+------------------------------------------------------------------------
+nudge    [美 nʌdʒ / 英 nʌdʒ]
+v. 用肘轻触（某人以引起注意）；轻推移动，推开；用胳膊肘挤开往前走；接近，靠近（某程度或数量）；劝说，鼓励
+n. （肘部的）轻推，碰；说服
+★ TEM8 nudging,nudged,nudges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something. (常用肘为引起注意) 轻推
+   ≫   I nudged Stan and pointed again.  我轻推了推斯坦，又指了一下。
+2. (N-COUNT) Nudge is also a noun. (用肘) 轻推
+   ≫   She slipped her arm under his and gave him a nudge.  她迅速地把胳膊放在他的胳膊下面，给了他轻轻一推。
+3. (V-T) If you nudge someone or something into a place or position, you gently push them there. 把…轻轻地推动
+   ≫   Edna Swinson nudged him into the sitting room.  埃德娜·斯温森把他轻轻地推进了起居室。
+4. (N-COUNT) Nudge is also a noun. 轻轻的推动
+   ≫   McKinnon gave the wheel another slight nudge to starboard.  麦金农把轮子向船的右舷又轻推了一下。
+5. (V-T) If you nudge someone into doing something, you gently persuade them to do it. 好言说服
+   ≫   Bit by bit Bob had nudged Fritz into selling his controlling interest.  鲍勃一点一点地说服弗里茨卖掉自己的控股权。
+   ≫   Foreigners must use their power not simply to punish the country but to nudge it toward greater tolerance.  外国人动用他们的力量，不应仅仅是为了惩罚这个国家而是要说服该国使之变得更宽容。
+6. (N-COUNT) Nudge is also a noun. 说服
+   ≫   I had a feeling that the challenge appealed to him. All he needed was a nudge.  我有一种感觉这个挑战吸引了他。他所需要的只是一点说服。
+
+========================================================================
+>>> joggle
+------------------------------------------------------------------------
+joggle    [美 ˈdʒɑːɡ(ə)l / 英 ˈdʒɒɡ(ə)l]
+v. 轻微摇晃；（使）快速颠动；啮合
+n. 啮合；摇动；榫接
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to shake or move (someone or something) with a slightly jolting motion 摇动
+2. (N) the act of joggling 摇曳
+
+========================================================================
+>>> jogging
+------------------------------------------------------------------------
+jogging    [美 ˈdʒɑːɡɪŋ / 英 ˈdʒɒɡɪŋ]
+n. 慢跑锻炼
+v. 慢跑；轻推，轻撞；（多指缓慢地）颠簸着行进（jog 的现在分词）
+★ CET6 TEM8 jogging,jogged,jogs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you jog, you run slowly, often as a form of exercise. 慢跑
+   ≫   I got up early the next morning to jog.  我次日清晨早起去慢跑了。
+2. (N-COUNT) Jog is also a noun. 慢跑
+   ≫   He went for another early morning jog.  他又去晨跑了。
+3. (N-UNCOUNT) jogging N-UNCOUNT 慢跑
+   ≫   It isn't the walking and jogging that got his weight down.  不是散步和慢跑使他体重下降了。
+4. (V-T) If you jog something, you push or bump it slightly so that it moves. 轻推; 轻撞
+   ≫   Avoid jogging the camera.  不要碰摄像机。
+5. (PHRASE) If something or someone jogs your memory, they cause you to suddenly remember something that you had forgotten. 唤起某人的记忆
+   ≫   Police have planned a reconstruction of the crime tomorrow in the hope that this will jog the memory of passersby.  警方已计划明天再现犯罪过程，希望以此唤起过路人的记忆。
+6. (N) a sharp protruding point in a surface; jag 突出端
+
+========================================================================
+>>> lope
+------------------------------------------------------------------------
+lope    [美 loʊp / 英 ləʊp]
+v. 大步慢跑
+n. 大步慢跑，大步踏走
+n. （Lope）（美、西班牙）洛佩（人名）
+loping,loped,lopes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If a person or animal lopes somewhere, they run in an easy and relaxed way, taking long steps. 轻快地奔跑
+   ≫   He was loping across the sand toward Nancy.  他正穿过沙滩轻快地向南希跑去。
+   ≫   Matty saw him go loping off.  马蒂看着他大步跑远。
+2. (ADJ) loping ADJ [ADJ n]
+   ≫   She turned and walked away with long, loping steps.  她转过身，大步走开。
+
+========================================================================
+>>> marathon
+------------------------------------------------------------------------
+marathon    [英 ˈmærəθən / 美 ˈmærəθɑːn]
+n. 马拉松赛跑；马拉松式的活动（或工作）
+adj. 马拉松式的，漫长而累人的
+v. 参加马拉松赛跑（或马拉松式的比赛、活动）
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A marathon is a race in which people run a distance of 26 miles, which is about 42 km. 马拉松赛跑
+   ≫   ...running in his first marathon.  …正在跑他的第一次马拉松比赛。
+2. (ADJ) If you use marathon to describe an event or task, you are emphasizing that it takes a long time and is very tiring. 漫长而累人的 [ADJ n] [强调]
+   ≫   People make marathon journeys to buy glass here.  人们经过漫长而艰辛的旅途到这儿来买玻璃。
+
+========================================================================
+>>> endurance
+------------------------------------------------------------------------
+endurance    [美 ɪnˈdʊrəns / 英 ɪnˈdjʊərəns]
+n. 持久力，忍耐力；耐久性，耐用度
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Endurance is the ability to continue with an unpleasant or difficult situation, experience, or activity over a long period of time. 耐力
+   ≫   The exercise obviously will improve strength and endurance.  这项练习将明显增强力量和耐力。
+
+========================================================================
+>>> triathlon
+------------------------------------------------------------------------
+triathlon    [美 traɪˈæθlən / 英 traɪˈæθlən]
+n. 三项全能运动
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A triathlon is a track and field competition in which each competitor takes part in three events: swimming, cycling, and running. 三项全能 [usu sing]
+
+========================================================================
+>>> crippled
+------------------------------------------------------------------------
+crippled    [美 ˈkrɪpld / 英 ˈkrɪp(ə)ld]
+v. 使跛足，使残疾，使伤残；严重毁坏或损害；给……造成严重问题（cripple的过去式和过去分词）
+★★ CET4 TEM4 crippling,crippled,cripples
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A person with a physical disability or a serious permanent injury is sometimes referred to as a cripple. 残疾人; 残废人 [侮辱]
+   ≫   She has gone from being a healthy, fit, and sporty young woman to being a cripple.  她从一个健康、强壮、爱好体育运动的年轻姑娘变成了一个残疾人。
+2. (V-T) If someone is crippled by an injury, it is so serious that they can never move their body properly again. 使受伤致残
+   ≫   Mr. Easton was crippled in an accident and had to leave his job.  伊斯顿先生在一场事故中受伤致残，不得不离开了工作。
+   ≫   He had been warned that another bad fall could cripple him for life.  他被警告说再一次严重摔跤会使他终身残疾。
+
+========================================================================
+>>> let alone
+------------------------------------------------------------------------
+let alone
+更不用说：用于强调对比例子的不可能性，尤其是强调更不可能的情况。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There isn't enough room for us, let alone any guests. 连我们都没有足够的空间，更不用说客人了。《牛津词典》
+≫   Her income was barely enough to maintain one child, let alone three. 她的收入养活一个孩子几乎都不够，更不用说三个了。《牛津词典》
+≫   It is incredible that the 12-year-old managed to even reach the pedals, let alone drive the car. 这个12岁的小孩能够得着踏板都令人难以置信，更不用说开汽车了。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> lengthened
+------------------------------------------------------------------------
+lengthened    [美 ˈleŋkθənd; ˈleŋθənd / 英 ˈleŋθənd]
+v. 延长（lengthen 的过去分词形式）；加长
+★ TEM4 lengthening,lengthened,lengthens
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When something lengthens or when you lengthen it, it increases in length. 使变长; 变长
+   ≫   The evening shadows were lengthening.  傍晚的影子正在变长。
+2. (V-T/V-I) When something lengthens or when you lengthen it, it lasts for a longer time than it did previously. 使延长; 延长
+   ≫   Vacations have lengthened and the work week has shortened.  假期延长了，工作周变短了。
+
+========================================================================
+>>> negotiations
+------------------------------------------------------------------------
+negotiations    [美 nəˌgoʊʃiˈeɪʃənz / 英 nɪˌgəʊʃɪˈeɪʃnz]
+n. 谈判（negotiation 的复数）；磋商
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Negotiations are formal discussions between people who have different aims or intentions, especially in business or politics, during which they try to reach an agreement. (尤指商业或政治上的) 谈判
+   ≫   Warren said, "We have had meaningful negotiations and I believe we are very close to a deal."  沃伦说：“我们已经进行了富有意义的谈判，我相信我们很快就能达成协议。”
+
+========================================================================
+>>> unaware
+------------------------------------------------------------------------
+unaware    [美 ˌʌnəˈwer / 英 ˌʌnəˈweə(r)]
+adj. 不知道的，未察觉到的，未意识到的
+adv. 意外地，不知不觉地
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are unaware of something, you do not know about it. 不知道的 [v-link ADJ]
+   ≫   Many people are unaware of just how much food and drink they consume.  许多人不知道自己到底消耗掉多少食物和饮料。
+
+========================================================================
+>>> welfare
+------------------------------------------------------------------------
+welfare    [英 ˈwelfeə(r) / 美 ˈwelfer]
+n. 幸福，安康；福利救济，社会福利；（给失业者和穷人的）福利救济金
+adj. 福利的；接受社会救济的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The welfare of a person or group is their health, comfort, and happiness. 健康; 幸福; 福利
+   ≫   I do not think he is considering Emma's welfare.  我认为他没有考虑到艾玛的幸福。
+2. (ADJ) Welfare services are provided to help with people's living conditions and financial problems. 福利的
+   ≫   Child welfare services are well established and comprehensive.  儿童福利机构发展成熟、体系完善。
+3. (N-UNCOUNT) Welfare is money that is paid by the government to people who are unemployed, poor, or sick. 社会保障金
+   ≫   States such as Michigan are making deep cuts in welfare.  密西根等州正在大幅度削减社会保障金。
+
+========================================================================
+>>> handouts
+------------------------------------------------------------------------
+handouts    ['hænd,auts]
+n. 讲义；宣传册子，宣传品（handout 的复数形式）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A handout is a gift of money, clothing, or food, which is given free to poor people. 施舍物; 救济品; 救济金
+   ≫   Each family is being given a cash handout of six thousand rupees.  每个家庭都被给予6000卢比的救济金。
+2. (N-COUNT) If you call money that is given to someone a handout, you disapprove of it because you believe that the person who receives it has done nothing to earn or deserve it. 不劳而获的钱 [表不满]
+   ≫   ...the tendency of politicians to use money on vote-buying handouts rather than on investment in the future.  …政客们用钱送人拉选票而不是用于未来投资的趋势。
+3. (N-COUNT) A handout is a document which contains news or information about something and which is given, for example, to journalists or members of the public. 传单; 宣传品
+   ≫   Official handouts describe the Emperor as "particularly noted as a scholar."  官方宣传品把这位皇帝描述成“尤以饱学著称”。
+4. (N-COUNT) A handout is a paper given out to students by a teacher, that contains a summary of the information or topics that will be dealt with in a lesson. (教师给学生的) 讲义
+   ≫   Many teachers are opting for group discussions instead of handouts.  许多教师选择组织小组讨论，而不是发讲义。
+
+========================================================================
+>>> jailed
+------------------------------------------------------------------------
+jailed    [美 dʒeɪld / 英 ˈdʒeɪld]
+adj. 监禁的
+vt. 监禁，拘留（jail 的过去分词）
+★★★ CET4 TEM4 jailing,jailed,jails
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A jail is a place where criminals are kept in order to punish them, or where people waiting to be tried are kept. 监狱
+   ≫   Three prisoners escaped from a jail.  3个囚犯从一个监狱逃跑了。
+2. (V-T) If someone is jailed, they are put into jail. 监禁 [usu passive]
+   ≫   He was jailed for twenty years.  他被监禁了20年。
+
+========================================================================
+>>> panick
+------------------------------------------------------------------------
+panick
+adj. <废语>惊慌的
+n. <废语>恐慌，惊慌；大恐慌
+v. <废语>（使）惊慌，惊慌失措
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thousands of panick-stricken residents slept on the streets. 数千人惊慌失措的居人睡在大街上。
+≫   Everyone in Britain started to panick, they sold all their shares. 每个在英国的人都开始恐慌，他们出售全部股票。
+
+========================================================================
+>>> panicking
+------------------------------------------------------------------------
+panicking    [美 ˈpænɪkɪŋ]
+v. （使）惊慌，惊慌失措（panic 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They are not panicking yet, but as the job rejections mount up, they are beginning to feel alarmed. 他们还没感到恐慌，不过，随着工作被拒的次数增加，他们开始感到忧虑了。
+≫   The Midianites’ Camp was panicking. 米甸人的军营一篇惊慌混乱。
+≫   No one is screaming or panicking. 没有人尖叫或者恐慌。
+
+========================================================================
+>>> panic
+------------------------------------------------------------------------
+panic    [美 ˈpænɪk / 英 ˈpænɪk]
+n. 恐慌，惊慌；人心惶惶，惶恐不安；忙乱，慌乱；粟，稷，糜子
+adj. 恐慌的
+v. （使）恐慌，（使）惊慌失措
+【名】 （Panic）（罗）帕尼克（人名）
+★★★ CET4 TEM4 panicking,panicked,panics
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Panic is a very strong feeling of anxiety or fear that makes you act without thinking carefully. 惊慌
+   ≫   An earthquake has hit the capital, causing damage to buildings and panic among the population.  一场地震袭击了首都，造成建筑物的损坏和人们的惊慌。
+2. (N-UNCOUNT) Panic or a panic is a situation in which people are affected by a strong feeling of anxiety. 恐慌局面 [also a N]
+   ≫   There was a moment of panic as it became clear just how vulnerable the nation was.  随着国家如此脆弱变得明显，出现了一阵恐慌局面。
+   ≫   I'm in a panic about getting everything done in time.  我处于一阵要把一切及时安排就绪的恐慌中。
+3. (V-T/V-I) If you panic or if someone panics you, you suddenly feel anxious or afraid, and act quickly and without thinking carefully. 使惊慌; 惊慌
+   ≫   Guests panicked and screamed when the bomb exploded.  炸弹爆炸的时候，客人们惊慌失措，惊声尖叫。
+   ≫   The unexpected and sudden memory briefly panicked her.  这突如其来的记忆使她一时惊慌失措。
+
+========================================================================
+>>> siege
+------------------------------------------------------------------------
+siege    [英 siːdʒ / 美 siːdʒ]
+n. （军队或警察对某地的）围困，包围；不断的攻击
+v. 围攻，包围
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A siege is a military or police operation in which soldiers or police surround a place in order to force the people there to come out or give up control of the place. 包围 [also 'under' N]
+   ≫   We must do everything possible to lift the siege.  我们必须尽一切可能解除包围。
+2. (PHRASE) If police, soldiers, or journalists lay siege to a place, they surround it in order to force the people there to come out or give up control of the place. 包围
+   ≫   The rebels laid siege to the governor's residence.  叛乱者们包围了那座总督官邸。
+
+========================================================================
+>>> nitwit
+------------------------------------------------------------------------
+nitwit    [美 ˈnɪtwɪt / 英 ˈnɪtwɪt]
+n. 傻子；笨人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you refer to someone as a nitwit, you think they are stupid or silly. 笨人; 傻子 [非正式]
+   ≫   You nitwit!  你这个笨蛋！
+
+========================================================================
+>>> armorer
+------------------------------------------------------------------------
+armorer    [美 ˈɑːrmərər / 英 ˈɑːmərə]
+n. [军] 兵器制造者；[军] 军械士
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Brown Ben lets it go, but one day we'll get us a real armorer. 布朗·本对此熟视无睹但是有一天我们会给自己找到个真正的武器师傅。
+≫   His father had been an armorer at Bitterbridge, he said, so he had been born with the sound of steel ringing in his ears and had taken to swordplay at an early age. 他的父亲是个苦桥的武器匠，所以他是伴着钢铁交鸣的声音出生的，很早就对击剑着迷。
+
+========================================================================
+>>> butcher
+------------------------------------------------------------------------
+butcher    [英 ˈbʊtʃə(r) / 美 ˈbʊtʃər]
+n. 屠夫；肉店；刽子手；笨蛋，莽夫；（火车或剧院的）小贩
+v. 屠宰；弄砸；残杀，杀戮
+【名】 （Butcher）（英、美、爱）布彻（人名）
+★ CET4 TEM4 butchering,butchered,butchers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A butcher is a shopkeeper who cuts up and sells meat. Some butchers also kill animals for meat and make foods such as sausages and meat pies. 屠夫; 肉商
+2. (N-COUNT) A butcher or a butcher's is a shop where meat is sold. 肉铺 [英国英语]
+   ≫   He worked in a butcher's.  他在肉铺工作。
+3. (V-T) To butcher an animal means to kill it and cut it up for meat. 宰杀
+   ≫   Pigs were butchered, hams were hung to dry from the ceiling.  猪被宰杀了，火腿吊在屋顶下风干。
+4. (V-T) You can say that someone has butchered people when they have killed a lot of people in a very cruel way, and you want to express your horror and disgust. 屠杀 [表不满]
+   ≫   ...rebels who butchered eight tourists in Bwindi national park.  …在布文迪国家公园屠杀了8名游客的叛乱分子。
+
+========================================================================
+>>> cartographer
+------------------------------------------------------------------------
+cartographer    [美 kɑːrˈtɑːɡrəfər / 英 kɑːˈtɒɡrəfə(r)]
+n. 制图师；地图制作者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cartographer is a person whose job is drawing maps. 地图绘制员
+
+========================================================================
+>>> cleric
+------------------------------------------------------------------------
+cleric    [美 ˈklerɪk / 英 ˈklerɪk]
+n. （基督教的）教牧人员；（任一宗教的）牧师
+adj. 牧师的，教士的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cleric is a member of the clergy. 牧师; 教士
+   ≫   His grandfather was a Muslim cleric.  他祖父是一位穆斯林教士。
+
+========================================================================
+>>> fletcher
+------------------------------------------------------------------------
+fletcher    [美 ˈfletʃər / 英 ˈfletʃə(r)]
+n. 弗莱彻（姓氏，男子名）；弗莱彻（John, 1579-1625，英国剧作家）；弗莱彻（John Gould, 1886-1950，美国诗人及批评家）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who makes arrows 造箭者
+
+========================================================================
+>>> mason
+------------------------------------------------------------------------
+mason    [美 ˈmeɪs(ə)n / 英 ˈmeɪs(ə)n]
+n. 泥瓦匠；石工（等于 stonemason）共济会会员（等于 freemason）
+vt. 用砖瓦砌成
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mason is a person who is skilled at making things or building things with stone or bricks. 石匠
+
+========================================================================
+>>> shepherd
+------------------------------------------------------------------------
+shepherd    [美 ˈʃepərd / 英 ˈʃepəd]
+n. 牧羊人，羊倌；牧师；指导者
+v. 牧（羊）；带领，引领，护送；（尤指精神方面）给……指导
+【名】 （Shepherd）（英、美、菲）谢泼德（人名）
+★★ CET6 TEM4 shepherding,shepherded,shepherds
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shepherd is a person, especially a man, whose job is to take care of sheep. 牧羊人
+2. (V-T) If you are shepherded somewhere, someone takes you there to make sure that you arrive at the right place safely. 护送 [usu passive]
+   ≫   She was shepherded by her guards up the rear ramp of the aircraft.  她由她的警卫们护送登上飞机后部的活动舷梯。
+
+========================================================================
+>>> toolsmith
+------------------------------------------------------------------------
+toolsmith
+刀具工
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I'm a toolsmith and like to use software tools to build software. 我是一个工具师，并且喜欢使用软件工具来构建软件。
+≫   Anyone who thinks of himself as a toolsmith has to love the UNIX operating system. 把自己看作工具专家的每个人都会喜欢unix操作系统。
+
+========================================================================
+>>> weaponsmith
+------------------------------------------------------------------------
+weaponsmith
+n. 武器匠
+
+========================================================================
+>>> blacksmith
+------------------------------------------------------------------------
+blacksmith    [美 ˈblæksmɪθ / 英 ˈblæksmɪθ]
+n. 铁匠；锻工
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A blacksmith is a person whose job is making things by hand out of metal that has been heated to a high temperature. 铁匠
+
+========================================================================
+>>> smith
+------------------------------------------------------------------------
+smith    [美 smɪθ / 英 smɪθ]
+n. 铁匠；锻工；制作者
+vt. 锻制
+vi. 锻打金属；当锻工
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who works in metal, esp one who shapes metal by hammering 金属匠
+2. (N) (in combination) (结合中)
+   ≫   a silversmith  
+
+========================================================================
+>>> eroded
+------------------------------------------------------------------------
+eroded
+adj. 被侵蚀的，损坏了的
+v. 侵蚀；削弱；降低（erode 的过去式和过去分词）
+★★ CET4 TEM4 eroding,eroded,erodes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If rock or soil erodes or is eroded by the weather, sea, or wind, it cracks and breaks so that it is gradually destroyed. 侵蚀
+   ≫   The storm washed away buildings and roads and eroded beaches.  暴风雨冲走了建筑物和道路，侵蚀了沙滩。
+2. (V-T/V-I) If someone's authority, right, or confidence erodes or is eroded, it is gradually destroyed or removed. 削弱 [正式]
+   ≫   His critics say his fumbling on the issue of reform has eroded his authority.  他的批评者们说他在改革问题上的拙劣做法已削弱了他的权威。
+3. (V-T/V-I) If the value of something erodes or is eroded by something such as inflation or age, its value decreases. 降低
+   ≫   Competition in the financial marketplace has eroded profits.  金融市场的竞争降低了利润。
+
+========================================================================
+>>> windswept
+------------------------------------------------------------------------
+windswept    [美 ˈwɪndswept / 英 ˈwɪndswept]
+adj. 被风吹的；暴露在风中的；风刮的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A windswept place has no shelter and is not protected against strong winds. 受风吹的
+   ≫   ...the remote and windswept hillside.  ...偏僻的向风山坡。
+
+========================================================================
+>>> pine
+------------------------------------------------------------------------
+pine    [英 paɪn / 美 paɪn]
+n. 松树；松木；……松（用于其他科针叶类树木名称中）；……松（用于某方面类似松树而与松树无关的植物名称中）；有松针香味；<非正式>凤梨
+v. （因死亡、离别） 难过，悲伤；苦苦思念；<古>为……悲哀，哀悼；渴望，苦苦盼望（尤指不太可能拥有的东西）
+【名】 （Pine）派因（人名）
+★★ CET4 TEM4 pining,pined,pines
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A pine tree or a pine is a tall tree that has very thin, sharp leaves called needles and a fresh smell. Pine trees have leaves all year round. 松树
+   ≫   ...high mountains covered in pine trees.  …长满松树的高山。
+2. (N-UNCOUNT) Pine is the wood of this tree. 松木
+   ≫   ...a big pine table.  …一张大松木桌子。
+3. (V-I) If you pine for someone who has died or gone away, you want them to be with you very much and feel sad because they are not there. 苦苦思念
+   ≫   She'd be sitting at home pining for her lost husband.  她会一直坐在家里苦苦思念着她死去的丈夫。
+4. (V-I) If you pine for something, you want it very much, especially when it is unlikely that you will be able to have it. 渴望 (尤指不可能得到的东西)
+   ≫   I pine for the countryside.  我渴望乡下的生活。
+
+========================================================================
+>>> pine taiga
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> grove
+------------------------------------------------------------------------
+grove    [美 ɡroʊv / 英 ɡrəʊv]
+n. 树丛，小树林；果树林，果园；（用于街道名）街，路（Grove）
+【名】 （Grove）格鲁夫（人名）
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grove is a group of trees that are close together. 树丛 [usu with supp]
+   ≫   ...an olive grove.  …一片橄榄树丛。
+
+========================================================================
+>>> mangrove
+------------------------------------------------------------------------
+mangrove    [美 ˈmænɡroʊv / 英 ˈmæŋɡrəʊv]
+n. 红树林
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mangrove or mangrove tree is a tree with roots which are above the ground and that grows along coasts or on the banks of large rivers in hot areas. 红树 [oft N n]
+   ≫   ...mangrove swamps.  ...红树林沼泽。
+
+========================================================================
+>>> basalt
+------------------------------------------------------------------------
+basalt    [美 bəˈsɔːlt / 英 ˈbæsɔːlt]
+n. [岩]玄武岩；黑陶器
+n. （Basalt）人名；（西）巴萨尔特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Basalt is a type of black rock that is produced by volcanoes. 玄武岩
+
+========================================================================
+>>> lush
+------------------------------------------------------------------------
+lush    [美 lʌʃ / 英 lʌʃ]
+adj. 茂盛的，郁郁葱葱的；豪华的，奢侈的；性感的，迷人的；（色彩，音乐）非常华丽的，赏心悦目的
+n. <非正式>酒鬼；酒
+v. 喝（酒等液体）
+【名】 （Lush）（英）勒什（人名）
+★ TEM8 lusher,lushest,lushes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Lush fields or gardens have a lot of very healthy grass or plants. 茂盛的
+   ≫   ...the lush green meadows bordering the river.  …河边青葱翠绿的草地。
+2. (ADJ) If you describe a place or thing as lush, you mean that it is very luxurious. 豪华的 [v-link ADJ]
+   ≫   The Carlton-intercontinental hotel is lush, plush, and very non- backpacker.  卡尔顿洲际酒店豪华舒适，背包徒步旅行者是绝对住不起的。
+3. (N-COUNT) If you describe someone as a lush, you mean that they drink too much alcohol. 酒鬼
+
+========================================================================
+>>> crimson
+------------------------------------------------------------------------
+crimson    [美 ˈkrɪmz(ə)n / 英 ˈkrɪmz(ə)n]
+adj. 深红色的；（脸）通红的
+n. 深红色
+v. （尤指因尴尬）（脸）变红；（使）深红
+n. （Crimson）（美）克里姆荪（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is crimson is deep red in colour. 深红色的
+   ≫   ...a mass of crimson flowers.  …一团深红色的花。
+
+========================================================================
+>>> warped
+------------------------------------------------------------------------
+warped    [美 wɔːrpt / 英 wɔːpt]
+adj. 弯曲的；反常的
+v. 弄歪（warp 的过去式和过去分词）
+★ CET6+ TEM8 warping,warped,warps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something warps or is warped, it becomes damaged by bending or curving, often because of the effect of heat or water. (尤指因受潮、受热而) 翘曲
+   ≫   Left out in the heat of the sun, tapes easily warp or get stuck in their cases.  放在太阳底下暴晒后，磁带容易翘曲变形或卡带。
+
+========================================================================
+>>> dripstone
+------------------------------------------------------------------------
+dripstone    [英 ˈdrɪpstəʊn]
+n. [建] 滴水石；石笋
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the form of calcium carbonate existing in stalactites or stalagmites 钟乳石
+
+========================================================================
+>>> apron
+------------------------------------------------------------------------
+apron    [英 ˈeɪprən / 美 ˈeɪprən]
+n. 围裙；舞台前缘，台唇；停机坪
+v. 着围裙于
+【名】 （Apron）（俄）阿普龙（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An apron is a piece of clothing that you put on over the front of your normal clothes and tie around your waist, especially when you are cooking, in order to prevent your clothes from getting dirty. 围裙
+
+========================================================================
+>>> straw
+------------------------------------------------------------------------
+straw    [美 strɔː / 英 strɔː]
+n. （干燥的）麦秆，稻草；（喝饮料用的）吸管；稻草色，淡黄色；一文不值的东西
+adj. 稻草的；无价值的
+【名】 （Straw）斯特劳（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Straw consists of the dried, yellowish stalks from crops such as wheat or barley. 麦杆; 稻草
+   ≫   The barn was full of bales of straw.  这个谷仓堆满了成捆的麦杆。
+   ≫   I stumbled through mud to a garden strewn with straw.  我跌跌撞撞地走过泥泞来到一个散满稻草的院子。
+2. (N-COUNT) A straw is a thin tube of paper or plastic, which you use to suck a drink into your mouth. 吸管
+   ≫   ...a bottle of lemonade with a straw in it.  …一瓶插着吸管的柠檬汽水。
+3. (ADJ) having little value or substance 无价值的; 无实质的 [美国英语]
+4. (PHRASE) If you are clutching at straws or grasping at straws, you are trying unusual or extreme ideas or methods because other ideas or methods have failed. 抓救命稻草
+   ≫   ...a badly thought-out plan from an administration clutching at straws.  …一个管理部门抓救命稻草而制定的一个考虑不周的计划。
+5. (PHRASE) If an event is the last straw or the straw that broke the camel's back, it is the latest in a series of unpleasant or undesirable events, and makes you feel that you cannot tolerate a situation any longer. 使人一忍再忍的一系列事件的最后一件
+   ≫   For him the Church's decision to allow the ordination of women had been the last straw.  对他来说，教堂允许妇女被授予圣职的决定使他再也不能容忍下去了。
+6. (PHRASE) If you draw the short straw, you are chosen from a number of people to perform a job or duty that you will not enjoy. 下下签
+   ≫   ...if a few of your guests have drawn the short straw and agreed to drive others home after your summer barbecue.  …如果你的几位客人抽到了下下签，并同意在你的夏日烧烤聚会后开车送其他人回家。
+
+========================================================================
+>>> straw hat
+------------------------------------------------------------------------
+straw hat    [美 strɔː hæt]
+草帽：一种用草或稻草编制的帽子，通常在夏季戴来遮阳。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I wouldn't be seen dead in a straw hat. 我决不戴草帽。《柯林斯英汉双解大词典》
+≫   He wore a straw hat to keep his balding head from getting sunburned. 他戴了一顶草帽，以防止开始变秃的头被晒伤。《柯林斯英汉双解大词典》
+≫   The minute Masa was going to point out that this was too careless a way to live, Yuki suddenly stood up and put on her straw hat. 正当玛莎要指出这种生活方式太粗心时，友希突然站了起来，戴上了她的草帽。
+
+========================================================================
+>>> quiver
+------------------------------------------------------------------------
+quiver    [美 ˈkwɪvər / 英 ˈkwɪvə(r)]
+n. （尤指突然的强烈情感所致的）颤抖，颤音；箭囊，箭袋；一组（长度、形状各异的）冲浪板
+v. 颤抖，抖动；使颤抖，使抖动
+★ CET4 TEM8 quivering,quivered,quivers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If something quivers, it shakes with very small movements. 颤抖
+   ≫   Her bottom lip quivered and big tears rolled down her cheeks.  她的下唇颤动着，大滴大滴的泪珠顺着脸颊滚了下来。
+2. (V-I) If you say that someone or their voice is quivering with an emotion such as rage or excitement, you mean that they are strongly affected by this emotion and show it in their appearance or voice. (声音因愤怒或激动而) 颤抖
+   ≫   Cooper arrived, quivering with rage.  库珀到了，气得浑身发抖。
+3. (N-COUNT) Quiver is also a noun. 颤抖
+   ≫   I recognized it instantly and felt a quiver of panic.  我立刻认出它了，感到一阵惊恐的颤抖。
+4. (N) a case for arrows 弓箭箱
+
+========================================================================
+>>> eyepatch
+------------------------------------------------------------------------
+eyepatch    [美 ˈaɪpætʃ / 英 ˈaɪpætʃ]
+n. 眼罩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Draw on the eyepatch to have a good sleep. 将眼罩戴上，美美地睡上一觉。
+≫   A squint can sometimes be corrected by an eyepatch. 斜视有时候可以通过戴眼罩来纠正。
+≫   He began to wear the black eyepatch that later became his trademark. 从此他开始佩带一个黑色的眼罩，以后这也成为了他的个人标志。
+
+========================================================================
+>>> black apron
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> apron
+------------------------------------------------------------------------
+apron    [美 ˈeɪprən / 英 ˈeɪprən]
+n. 围裙；舞台前缘，台唇；停机坪
+v. 着围裙于
+【名】 （Apron）（俄）阿普龙（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An apron is a piece of clothing that you put on over the front of your normal clothes and tie around your waist, especially when you are cooking, in order to prevent your clothes from getting dirty. 围裙
+
+========================================================================
+>>> welding
+------------------------------------------------------------------------
+welding    [美 ˈweldɪŋ / 英 ˈweldɪŋ]
+v. 焊接；（使）紧密结合，成整体；焊接（物件）；（通过熔化或软化）连接（weld 的现在分词）
+n. 焊接，锻接
+★ CET4 TEM4 welding,welded,welds
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) To weld one piece of metal to another means to join them by heating the edges and putting them together so that they cool and harden into one piece. 焊接
+   ≫   It's possible to weld stainless steel to ordinary steel.  将不锈钢和普通钢焊接在一起是可能的。
+   ≫   Where did you learn to weld?  你在哪里学会的焊接技术？
+2. (N) a joint formed by welding 焊接点
+
+========================================================================
+>>> welding mask
+------------------------------------------------------------------------
+welding mask
+熔接面罩，焊接面罩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thermal glass for welding mask use. 焊接的热的玻璃戴面具使用。
+≫   The utility model relates to an energy-saving environment-friendly welding helmet, which consists of a solar charger, an air filter, goggles and a health gauze mask. 一种节能环保电焊帽，本实用新型由太阳能充电器、空气过滤器、护目镜、卫生口罩组成。
+
+========================================================================
+>>> monocle
+------------------------------------------------------------------------
+monocle    [美 ˈmɑːnək(ə)l / 英 ˈmɒnək(ə)l]
+n. 单片眼镜；单眼绷带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A monocle is a glass lens which people wore in former times in front of one of their eyes to improve their ability to see with that eye. (旧时的)单片眼镜
+
+========================================================================
+>>> headband
+------------------------------------------------------------------------
+headband    [美 ˈhedbænd / 英 ˈhedbænd]
+n. 头巾；头饰带
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A headband is a narrow strip of material which you can wear around your head across your forehead, for example to keep hair or sweat out of your eyes. (扎在额头的)头带; 束发带
+
+========================================================================
+>>> squat
+------------------------------------------------------------------------
+squat    [美 skwɑːt / 英 skwɒt]
+v. 蹲坐；擅自占用（建筑物或土地）；<澳新，史>占用王室土地来放牧牛羊；（举重）蹲举
+n. 蹲坐；被非法占用的建筑物；非法占用空屋；<美，非正式>几乎没有（常用于否定句中作强调）；（举重）蹲举训练；（体操）下蹲动作；俯撑腿屈伸（双手撑地下蹲后双腿同时前后跳动）
+adj. 矮胖的，粗矮的
+★ CET6+ TEM4 squatting,squatted,squats
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you squat, you lower yourself toward the ground, balancing on your feet with your legs bent. 蹲下
+   ≫   We squatted beside the pool and watched the diver sink slowly down.  我们蹲在池边，看潜水员慢慢沉下水。
+2. (PHRASAL VERB) Squat down means the same as . 蹲下
+   ≫   Albert squatted down and examined it.  阿尔伯特蹲下仔细查看它。
+3. (N-SING) Squat is also a noun. 蹲下
+   ≫   He bent to a squat and gathered the puppies on his lap.  他弯腰蹲下，把小狗们聚揽到他的大腿上。
+4. (ADJ) If you describe someone or something as squat, you mean they are short and thick, usually in an unattractive way. 矮胖的
+   ≫   Eddie was a short squat fellow in his forties with thinning hair.  埃迪是个矮胖的人，四十来岁，头发稀疏。
+5. (V-I) People who squat occupy an unused building or unused land without having a legal right to do so. (对某空建筑、空地) 非法占据
+   ≫   You can't simply wander around squatting on other people's property.  你不能只是四处游荡，非法占据他人房产。
+
