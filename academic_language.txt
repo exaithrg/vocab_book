@@ -45241,3 +45241,12 @@ adj. （剖）门静脉的，肝门的
 1. (N-COUNT) On the Internet, a portal is a website that consists of links to other sites. (互联网上的) 门户网站 [计算机]
    ≫   The site acts as a portal for thousands of online dealers.  该站点为数千名网络交易者的门户网站。
 
+========================================================================
+>>> algebra
+------------------------------------------------------------------------
+algebra    [美 ˈældʒɪbrə / 英 ˈældʒɪbrə]
+n. 代数；代数学
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Algebra is a type of mathematics in which letters are used to represent possible quantities. 代数
+

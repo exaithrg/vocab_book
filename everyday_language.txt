@@ -79822,3 +79822,151 @@ adj. 矮胖的，粗矮的
 5. (V-I) People who squat occupy an unused building or unused land without having a legal right to do so. (对某空建筑、空地) 非法占据
    ≫   You can't simply wander around squatting on other people's property.  你不能只是四处游荡，非法占据他人房产。
 
+========================================================================
+>>> get squat
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> get squat
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：5876
+☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+
+========================================================================
+>>> recover
+------------------------------------------------------------------------
+recover    [美 rɪˈkʌvər / 英 rɪˈkʌvə(r)]
+v. 恢复（健康，精神，体力）；康复，复原（be recovered）；（从不愉快的经历中）恢复；（从弱势或困境中）好转，扭转；重新获得，寻回；收回（开支、投资等）；恢复（意识、神志或身体状态）；挽回（地位），弥补（时间损失）；提取（能源或化工品等），回收利用； 给……换上新面
+n. （军事操练）枪还原，收枪（the recover）
+【名】 （Recover）（西）雷科韦尔（人名）
+★★★ CET4 TEM4 recovering,recovered,recovers
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When you recover from an illness or an injury, you become well again. 痊愈; 恢复健康
+   ≫   He is recovering from a knee injury.  他的膝伤正在痊愈。
+2. (V-I) If you recover from an unhappy or unpleasant experience, you stop being upset by it. (从不愉快的经历中) 恢复
+   ≫   ...a tragedy from which he never fully recovered.  …一场他再也没有完全从中恢复过来的悲剧。
+3. (V-I) If something recovers from a period of weakness or difficulty, it improves or gets stronger again. (从弱势或困境中) 好转
+   ≫   He recovered from a 4-2 deficit to reach the quarter-finals.  他从4－2的失利中恢复过来，进入1/4决赛。
+4. (V-T) If you recover something that has been lost or stolen, you find it or get it back. 重新找回
+   ≫   Police raided five houses in Brooklyn and recovered stolen goods.  警察突击搜查了位于布鲁克林的5栋住宅，找回了被盗物品。
+5. (V-T) If you recover a mental or physical state, it comes back again. For example, if you recover consciousness, you become conscious again. 恢复 (身心状态或意识)
+   ≫   She had a severe attack of asthma and it took an hour to recover her breath.  她犯了一次严重的哮喘，一个小时之后才恢复正常呼吸。
+6. (V-T) If you recover money that you have spent, invested, or lent to someone, you get the same amount back. 收回 (花掉、投资或借出的钱)
+   ≫   Legal action is being taken to recover the money.  正采取法律措施来收回那笔钱。
+
+========================================================================
+>>> presto
+------------------------------------------------------------------------
+presto    [美 ˈprestoʊ / 英 ˈprestəʊ]
+adj. 急板的
+adv. 急板地
+n. 急板；急板乐曲（或乐章、乐段）
+int. 嘿，瞧
+n. （Presto）（意）普雷斯托（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ/ADV) to be played very fast 急板地 [music]
+2. (ADV) immediately, suddenly, or at once (esp in the phrase hey presto) 立即地; 忽然地
+3. (N) a movement or passage directed to be played very quickly 急板; 快速的乐章 [music]
+
+========================================================================
+>>> miscellaneous
+------------------------------------------------------------------------
+miscellaneous    [美 ˌmɪsəˈleɪniəs / 英 ˌmɪsəˈleɪniəs]
+adj. （人，物）混杂的，各种各样的；多方面的，多才多艺的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category. 各式各样的 [ADJ n]
+   ≫   ...a hoard of miscellaneous junk.  …五花八门的废旧物品的贮藏库。
+
+========================================================================
+>>> miscellany
+------------------------------------------------------------------------
+miscellany    [英 mɪˈseləni / 美 ˈmɪsəleɪni]
+n. 杂录，杂集；混杂；混合物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A miscellany of things is a collection or group of many different kinds of things. 混合物; 大杂烩 [书面] [oft N 'of' n]
+   ≫   ...glass cases filled with a miscellany of objects.  ...一些装满杂七杂八东西的玻璃盒子。
+
+========================================================================
+>>> effort
+------------------------------------------------------------------------
+effort    [英 ˈefət / 美 ˈefərt]
+n. 努力，艰难的尝试；力气，精力；有组织的活动；努力的结果，成就
+★★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you make an effort to do something, you try very hard to do it. 努力
+   ≫   He made no effort to hide his disappointment.  他不试图隐瞒自己的失望。
+   ≫   Finding a cure requires considerable time and effort.  找到一种治愈方法需要相当的时间和努力。
+2. (N-UNCOUNT) If you say that someone did something with effort or with an effort, you mean it was difficult for them to do. 吃力 [书面] [usu 'with' N, also 'a' N]
+   ≫   She took a deep breath and sat up slowly and with great effort.  她深吸一口气，慢慢地、吃力地坐了起来。
+3. (N-COUNT) An effort is a particular series of activities that is organized by a group of people in order to achieve something. 有组织的活动
+   ≫   ...a famine relief effort in Angola.  …一个在安哥拉的饥荒救援活动。
+4. (N-SING) If you say that something is an effort, you mean that an unusual amount of physical or mental energy is needed to do it. 极艰难的事
+   ≫   Even carrying the camcorder while hiking in the forest was an effort.  在森林徒步旅行时，即使背着摄像机也是件极难的事。
+5. (PHRASE) If you make the effort to do something, you do it, even though you need extra energy to do it or you do not really want to. 尽力
+   ≫   I don't get lonely now because I make the effort to see people.  我现在不寂寞了，因为我尽力与人接触。
+
+========================================================================
+>>> precison
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> precison
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> precision
+------------------------------------------------------------------------
+precision    [美 prɪˈsɪʒ(ə)n / 英 prɪˈsɪʒ(ə)n]
+n. 精确（性），准确（性）；严谨，细致；（测量、计算或说明的）精确化（尤以数字表现）
+adj. （设计）精密的，精确的；要求技术精确的，（行动）精确的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you do something with precision, you do it exactly as it should be done. 准确性
+   ≫   The choir sang with precision.  合唱团的演唱准确无误。
+
+========================================================================
+>>> spectrum
+------------------------------------------------------------------------
+spectrum    [美 ˈspektrəm / 英 ˈspektrəm]
+n. 范围，幅度；光谱；波谱，频谱；余象
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The spectrum is the range of different colours which is produced when light passes through a glass prism or through a drop of water. A rainbow shows the colours in the spectrum. 光谱
+2. (N-COUNT) A spectrum is a range of a particular type of thing. 范围
+   ≫   She'd seen his moods range across the emotional spectrum.  她见过他在各种情感间的情绪变化。
+   ≫   Politicians across the political spectrum have denounced the act.  政界圈各派政客都谴责了这种行为。
+
+========================================================================
+>>> chainmail
+------------------------------------------------------------------------
+chainmail
+n. 锁子甲，链甲（古代战争中的一种金属盔甲）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What sort of moths eat chainmail? 哪种蛀虫吃锁子甲？
+
+========================================================================
+>>> TCM
+------------------------------------------------------------------------
+TCM
+abbr. 中医 (traditional Chinese medicine)；终端设备至计算机多路转接器 (terminal-to-computer multiplexer)；多孔磁心常数矩阵 (transfluxer constants matrix)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) traditional Chinese medicine: Chinese-based alternative therapies, including acupuncture, certain forms of massage, and some herbal remedies 传统中药
+
+========================================================================
+>>> promotion
+------------------------------------------------------------------------
+promotion    [美 prəˈmoʊʃ(ə)n / 英 prəˈməʊʃ(ə)n]
+n. 提拔，晋升；促销，推销； 促进，提倡；（体育运动队的）晋级，升级；（为获利而举办的）体育赛事（尤指系列拳击赛）；（化学）助催化
+★★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you are given promotion or a promotion in your job, you are given a more important job or rank in the organization that you work for. 晋升
+   ≫   Consider changing jobs or trying for promotion.  考虑换工作或者争取晋升。
+2. (N-VAR) A promotion is an attempt to make a product or event popular or successful, especially by advertising. 促销; 推广 [商业]
+   ≫   Advertising and promotion are what American business does best.  打广告和促销是美国企业做得最好的事情。
+
+
