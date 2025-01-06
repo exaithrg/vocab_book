@@ -79970,3 +79970,95 @@ n. 提拔，晋升；促销，推销； 促进，提倡；（体育运动队的�
    ≫   Advertising and promotion are what American business does best.  打广告和促销是美国企业做得最好的事情。
 
 
+========================================================================
+>>> aptitude
+------------------------------------------------------------------------
+aptitude    [美 ˈæptɪtuːd / 英 ˈæptɪtjuːd]
+n. 天资，天赋；自然的倾向，习性；适宜
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Someone's aptitude for a particular kind of work or activity is their ability to learn it quickly and to do it well. 天资
+   ≫   He drifted into publishing and discovered an aptitude for working with accounts.  他偶入出版界，发现自己具有管账的天资。
+
+========================================================================
+>>> attitude
+------------------------------------------------------------------------
+attitude    [美 ˈætɪtuːd / 英 ˈætɪtjuːd]
+n. 态度，看法；姿势；个人风格；<非正式>敌视的态度；（飞机或宇宙飞船飞行时的）姿态；（芭蕾）鹤立式
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your attitude to something is the way that you think and feel about it, especially when this shows in the way you behave. 态度
+   ≫   ...the general change in attitude toward handicapped people.  …对残疾人态度的普遍转变。
+   ≫   Being unemployed produces negative attitudes to work.  失业会对工作产生消极态度。
+
+========================================================================
+>>> altitude
+------------------------------------------------------------------------
+altitude    [美 ˈæltɪtuːd / 英 ˈæltɪtjuːd]
+n. 海拔高度；高地；（天体在地平线上的）地平纬度；顶垂线；（等级和地位等的）高级
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If something is at a particular altitude, it is at that height above sea level. 海拔高度
+   ≫   The aircraft had reached its cruising altitude of about 39,000 feet.  那架飞机已经达到了大约三万九千英尺的巡航高度。
+
+========================================================================
+>>> appetite
+------------------------------------------------------------------------
+appetite    [美 ˈæpɪtaɪt / 英 ˈæpɪtaɪt]
+n. 食欲，胃口；欲望，爱好
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your appetite is your desire to eat. 胃口
+   ≫   He has a healthy appetite.  他有健康的胃口。
+2. (N-COUNT) Someone's appetite for something is their strong desire for it. 欲望
+   ≫   ...his appetite for success.  …他的成功欲望。
+
+========================================================================
+>>> longtitude
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> longitude
+------------------------------------------------------------------------
+longitude    [美 ˈlɑːndʒɪtuːd / 英 ˈlɒŋɡɪtjuːd]
+n. 经度，经线
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The longitude of a place is its distance to the west or east of a line passing through Greenwich, England. Compare . 经度
+   ≫   He noted the latitude and longitude, then made a mark on the admiralty chart.  他记下经度和纬度，然后在海图上作了标记。
+2. (ADJ) Longitude is also an adjective. 经度的
+   ≫   A similar feature is found at 13 degrees north between 230 degrees and 250 degrees longitude.  在北纬13度、经度230度到250度之间也发现了类似的特点。
+
+========================================================================
+>>> latitude
+------------------------------------------------------------------------
+latitude    [英 ˈlætɪtjuːd / 美 ˈlætɪtuːd]
+n. 纬度；纬度地区；选择的自由，回旋余地；（感光乳剂，相纸）曝光宽容度
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The latitude of a place is its distance from the equator. Compare . 纬度
+   ≫   In the middle to high latitudes rainfall has risen steadily over the last 20-30 years.  中高纬度地区的降雨量在过去的20到30年间稳步上升了。
+2. (ADJ) Latitude is also an adjective. 纬度的
+   ≫   The army must cease military operations above 36° latitude north.  军队必须停止在北纬36度以北地区的军事行动。
+3. (N-UNCOUNT) Latitude is freedom to choose the way in which you do something. 自由度 [正式]
+   ≫   He would be given every latitude in forming a new government.  他将被给予高度自由来建立一个新政府。
+
+========================================================================
+>>> amplitude
+------------------------------------------------------------------------
+amplitude    [美 ˈæmplɪtuːd / 英 ˈæmplɪtjuːd]
+n. 广度，阔度，量；（物理）波幅，振幅；（天文）（天体）出没方位角；（数）辐角
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) In physics, the amplitude of a sound wave or electrical signal is its strength. (声波或电流信号的)振幅 [技术]
+
+========================================================================
+>>> gratitude
+------------------------------------------------------------------------
+gratitude    [英 ˈɡrætɪtjuːd / 美 ˈɡrætɪtuːd]
+n. 感激之情，感谢
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Gratitude is the state of feeling grateful. 感激
+   ≫   I wish to express my gratitude to Kathy Davis for her immense practical help.  我想向凯西•戴维斯表达谢意，因为她给了我许多实际的帮助。
+
