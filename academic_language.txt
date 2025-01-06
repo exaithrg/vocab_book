@@ -45250,3 +45250,120 @@ CET6+ TEM4
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-UNCOUNT) Algebra is a type of mathematics in which letters are used to represent possible quantities. 代数
 
+========================================================================
+>>> arbitrary
+------------------------------------------------------------------------
+arbitrary    [美 ˈɑːrbɪtreri / 英 ˈɑːbɪtrəri]
+adj. 任意的，随心所欲的；专横的，武断的
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe an action, rule, or decision as arbitrary, you think that it is not based on any principle, plan, or system. It often seems unfair because of this. 随意的 [表不满]
+   ≫   Arbitrary arrests and detention without trial were common.  不经审讯随意扣押是常有的。
+2. (ADV) arbitrarily ADV 随意地 [ADV with v]
+   ≫   The victims were not chosen arbitrarily.  这些受害者不是被随意选的。
+
+========================================================================
+>>> parquet
+------------------------------------------------------------------------
+parquet    [美 pɑːrˈkeɪ / 英 ˈpɑːkeɪ]
+n. 镶木地板；剧场正厅座位；（法）检查机关
+vt. 铺镶木地板于；用镶木制；铺
+n. （Parquet）人名；（法）帕尔凯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Parquet is a floor covering made of small rectangular blocks of wood fitted together in a pattern. 镶木地板 [usu N n]
+   ≫   ...the polished parquet floors.  ...这些磨光的镶木地板。
+
+========================================================================
+>>> fine-grained
+------------------------------------------------------------------------
+fine-grained    [美 faɪn ɡreɪnd / 英 ˈfaɪnˈgreɪnd]
+adj. 细粒的；有细密纹理的；详细的；深入的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of wood, leather, etc) having a fine smooth even grain (木材、皮革等)有细密纹理的
+
+========================================================================
+>>> coarse-grained
+------------------------------------------------------------------------
+coarse-grained    ['kɔ:sɡreind]
+adj. 粗鲁的；木纹粗糙的；粗略的，大概的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) having a large or coarse grain 纹理粗大的
+
+========================================================================
+>>> semantics
+------------------------------------------------------------------------
+semantics    [美 sɪˈmæntɪks / 英 sɪˈmæntɪks]
+n. [语] 语义学；语义论
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Semantics is the branch of linguistics that deals with the meanings of words and sentences. 语义学
+
+========================================================================
+>>> evolve
+------------------------------------------------------------------------
+evolve    [美 ɪˈvɑːlv / 英 ɪˈvɒlv]
+v. 进化，演化；逐步发展，逐渐演变
+★★ CET4 TEM4 evolving,evolved,evolves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When animals or plants evolve, they gradually change and develop into different forms. 进化
+   ≫   The bright plumage of many male birds was thought to have evolved to attract females.  许多雄鸟的鲜艳羽毛被认为是为吸引雌鸟而进化来的。
+   ≫   Birds are widely believed to have evolved from dinosaurs.  鸟类普遍被认为是从恐龙进化而来的。
+2. (V-T/V-I) If something evolves or you evolve it, it gradually develops over a period of time into something different and usually more advanced. 使…逐步发展; 逐步发展
+   ≫   ...a tiny airline which eventually evolved into Pakistan International Airlines.  …最终发展成为巴基斯坦国际航空公司的一家小型航空公司。
+   ≫   Popular music evolved from folk songs.  流行音乐由民歌演变而来。
+
+========================================================================
+>>> projection
+------------------------------------------------------------------------
+projection    [美 prəˈdʒekʃ(ə)n / 英 prəˈdʒekʃ(ə)n]
+n. 估算，预测；投射，投影；（声音的）发送，放开；（思想感情的）体现，形象化；投射（不自觉地把自己的欲念等加诸他人）；凸出物，隆起物；（地球或天体在平面上的）投射；投影图；规划
+★★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A projection is an estimate of a future amount. 预计
+   ≫   ...the company's projection of 11 million visitors for the first year.  …公司对第一年1100万游客的预计。
+2. (N-UNCOUNT) The projection of a film or picture is the act of projecting it onto a screen or wall. 投映
+   ≫   They took me into a projection room to see a picture.  他们将我带进了一个投映室去看一张图片。
+
+========================================================================
+>>> promotion
+------------------------------------------------------------------------
+promotion    [美 prəˈmoʊʃ(ə)n / 英 prəˈməʊʃ(ə)n]
+n. 提拔，晋升；促销，推销； 促进，提倡；（体育运动队的）晋级，升级；（为获利而举办的）体育赛事（尤指系列拳击赛）；（化学）助催化
+★★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you are given promotion or a promotion in your job, you are given a more important job or rank in the organization that you work for. 晋升
+   ≫   Consider changing jobs or trying for promotion.  考虑换工作或者争取晋升。
+2. (N-VAR) A promotion is an attempt to make a product or event popular or successful, especially by advertising. 促销; 推广 [商业]
+   ≫   Advertising and promotion are what American business does best.  打广告和促销是美国企业做得最好的事情。
+
+========================================================================
+>>> SVD
+------------------------------------------------------------------------
+SVD
+abbr. 奇异值分解（singular value decomposition）；狙击枪（Snayperskaya Vinyovka Dragunov）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The principle of SVD was introduced. 介绍了奇异值分解法的原理；
+≫   SVD method ensured the algorithm's robustness. SVD分解保证了算法的鲁棒性。
+≫   Parallel Lanczos SVD (Singular Value Decomposition) solver. 并行Lanczos SVD(奇异值分解)计算。
+
+========================================================================
+>>> decompositon
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> decomposition
+------------------------------------------------------------------------
+decomposition    [美 ˌdiːˌkɑːmpəˈzɪʃn / 英 ˌdiːˌkɒmpəˈzɪʃn]
+n. 分解，腐烂；变质
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Decomposition is the process of decay that takes place when a living thing changes chemically after dying. 分解 [正式]
+
+========================================================================
+>>> palindrome
+------------------------------------------------------------------------
+palindrome    [美 ˈpælɪndroʊm / 英 ˈpælɪndrəʊm]
+n. 回文
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A palindrome is a word or a phrase that is the same whether you read it backward or forward, for example, the word "refer." 回文
+

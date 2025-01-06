@@ -80062,3 +80062,1688 @@ n. 感激之情，感谢
 1. (N-UNCOUNT) Gratitude is the state of feeling grateful. 感激
    ≫   I wish to express my gratitude to Kathy Davis for her immense practical help.  我想向凯西•戴维斯表达谢意，因为她给了我许多实际的帮助。
 
+========================================================================
+>>> controller
+------------------------------------------------------------------------
+controller    [美 kənˈtroʊlər / 英 kənˈtrəʊlə(r)]
+n. 控制器；管理员；主计长
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A controller is a person who has responsibility for a particular organization or for a particular part of an organization. 主管 [英国英语]
+   ≫   ...the job of controller of BBC1.  …BBC1的主管一职。
+2. (N-COUNT) A controller is the same as a . 审计员
+
+========================================================================
+>>> retain
+------------------------------------------------------------------------
+retain    [美 rɪˈteɪn / 英 rɪˈteɪn]
+v. 保持，保留；保存，储存；记住；付定金聘定（尤指律师）；留用（员工）
+★★★ CET4 TEM4 retaining,retained,retains
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To retain something means to continue to have that thing. 保留 [正式]
+   ≫   The interior of the shop still retains a nineteenth-century atmosphere.  那家商店内部依然保持着19世纪的格调。
+
+========================================================================
+>>> liaison
+------------------------------------------------------------------------
+liaison    [美 liˈeɪzɑːn / 英 liˈeɪz(ə)n]
+n. 联络，沟通；联络人；私通，婚外情；加浓调料，蛋黄勾芡；（法语和其他语言中的）连音，连诵
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Liaison is cooperation and the exchange of information between different organizations or between different sections of an organization. 联络
+   ≫   Liaison between police forces and the art world is vital to combat art crime.  警方和艺术界之间的联络对于打击艺术犯罪是至关重要的。
+2. (N-UNCOUNT) If someone acts as liaison with a particular group, or between two or more groups, their job is to encourage co-operation and the exchange of information. 联络员 [also 'a' N, oft N 'with' n]
+   ≫   He is acting as liaison with the film crew.  他担任拍摄组的联络员。
+   ≫   She acts as a liaison between patients and staff.  她担当病人和医务人员之间的联络员。
+
+========================================================================
+>>> palindrome
+------------------------------------------------------------------------
+palindrome    [美 ˈpælɪndroʊm / 英 ˈpælɪndrəʊm]
+n. 回文
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A palindrome is a word or a phrase that is the same whether you read it backward or forward, for example, the word "refer." 回文
+
+========================================================================
+>>> systemic
+------------------------------------------------------------------------
+systemic    [美 sɪˈstemɪk / 英 sɪˈstiːmɪk; sɪˈstemɪk]
+adj. 系统的，体系的；全身的，影响全身的；（化学品或药品）内吸的；（生理）全身循环系统的，大循环系统的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Systemic means affecting the whole of something. 影响全局的 [正式]
+   ≫   The economy is locked in a systemic crisis.  经济陷入全面的危机。
+
+========================================================================
+>>> systematic
+------------------------------------------------------------------------
+systematic    [英 ˌsɪstəˈmætɪk / 美 ˌsɪstəˈmætɪk]
+adj. 有系统的，有条理的，仔细周到的；一贯的，惯常的；分类的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is done in a systematic way is done according to a fixed plan, in a thorough and efficient way. 有计划的
+   ≫   They went about their business in a systematic way.  他们按部就班地做生意。
+2. (ADV) systematically ADV 有计划地
+   ≫   The army has systematically violated human rights.  军队已有计划地侵犯了人权。
+
+========================================================================
+>>> burn out
+------------------------------------------------------------------------
+burn out
+烧毁：通过火焰驱逐或摧毁财产。
+疲惫不堪：因过度工作或过度使用而导致失败、疲惫或耗尽。
+精疲力竭：经历过度劳累而感到无力或失去动力。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to become or cause to become worn out or inoperative as a result of heat or friction （因长期使用或过热）烧坏
+   ≫   the clutch burnt out  
+2. (N) the failure of a mechanical device from excessive heating （器械过热引起的）烧坏
+
+========================================================================
+>>> transit visa
+------------------------------------------------------------------------
+transit visa    [美 ˈtrænzɪt ˈviːzə]
+过境签证：一种文件（称为签证），允许一个人在前往另一个国家的旅途中经过一个国家。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Why do you apply for American transit visa? 你办美国过境签证的理由是什么？
+≫   I have got a transit visa and I can go out of the airport, right? 我已经通过了过境签证，可以离开机场了，对吗？
+≫   Answer: : a foreign national with the 72-hour transit visa exemption is not allowed to leave the city where the stopover is permitted. 答：办理72小时过境免签手续的外国人不得离开准予其停留的城市。
+
+========================================================================
+>>> customs
+------------------------------------------------------------------------
+customs    [美 ˈkʌstəmz / 英 ˈkʌstəmz]
+n. 海关；关税
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) Customs is the official organization responsible for collecting taxes on goods coming into a country and preventing illegal goods from being brought in. 海关部门
+   ≫   What right does Customs have to search my car?  海关有什么权力搜查我的车？
+2. (N-UNCOUNT) Customs is the place where people arriving from a foreign country have to declare goods that they bring with them. 海关
+   ≫   He walked through customs.  他步行通过了海关。
+3. (ADJ) Customs duties are taxes that people pay for importing and exporting goods. 海关的 [ADJ n]
+   ≫   Personal property which is to be re-exported at the end of your visit is not subject to customs duties.  停留结束时要再次带出境的个人物品免收关税。
+
+========================================================================
+>>> custom
+------------------------------------------------------------------------
+custom    [美 ˈkʌstəm / 英 ˈkʌstəm]
+n. 风俗，习俗；习惯；光顾，惠顾；<法律>惯例，习惯法；（经常性的）顾客
+adj. 定做的，量身设计的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A custom is an activity, a way of behaving, or an event which is usual or traditional in a particular society or in particular circumstances. 风俗
+   ≫   The custom of lighting the Olympic flame goes back centuries.  点燃奥运圣火的风俗可追溯到几个世纪前。
+2. (N-SING) If it is your custom to do something, you usually do it in particular circumstances. 习惯
+   ≫   It was his custom to approach every problem cautiously.  谨慎地处理每个问题是他的习惯。
+
+========================================================================
+>>> customize
+------------------------------------------------------------------------
+customize    [美 ˈkʌstəmaɪz / 英 ˈkʌstəmaɪz]
+v. 订制，改制（以满足顾主的需要）
+★ customizing,customized,customizes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you customize something, you change its appearance or features to suit your tastes or needs. 个性化设置
+   ≫   ...a control that allows photographers to customize the camera's basic settings.  …一种允许摄影师个性化设定相机基本设置的控制装置。
+
+========================================================================
+>>> customization
+------------------------------------------------------------------------
+customization    [美 ˈkʌstəməzeɪʃən / 英 ˈkʌstəmaɪzeɪʃən]
+n. 定制；[计] 用户化；客制化服务
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Run the customization script. 运行自定义脚本。
+≫   Now, customization is king. 现在是客户化为王。
+≫   Inline customization is one way to do this. 一种实现方法是内联定制。
+
+========================================================================
+>>> immigration
+------------------------------------------------------------------------
+immigration    [美 ˌɪmɪˈɡreɪʃn / 英 ˌɪmɪˈɡreɪʃ(ə)n]
+n. 移民（入境）；移民人数；移民局入境检查，移民局入境检查处
+★★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Immigration is the coming of people into a country in order to live and work there. 移居
+   ≫   The government has decided to tighten its immigration policy.  政府已决定收紧其移民政策。
+2. (N-UNCOUNT) Immigration or immigration control is the place at a port, airport, or international border where officials check the passports of people who wish to come into the country. 移民局的检查
+   ≫   First, you have to go through immigration and customs.  首先你必须通过移民局和海关的检查。
+
+========================================================================
+>>> deportation
+------------------------------------------------------------------------
+deportation    [美 ˌdiːpɔːrˈteɪʃn / 英 ˌdiːpɔːˈteɪʃn]
+n. 驱逐出境
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Several of the asylum seekers now face deportation. 寻求避难的人中有几个将遭递解出境。《牛津词典》
+≫   Immigration officers tried to serve her with a deportation order. 移民局官员试图向她交送驱逐出境令。《柯林斯英汉双解大词典》
+≫   Milly is facing deportation. 米莉正面临驱逐出境。
+
+========================================================================
+>>> repatriation
+------------------------------------------------------------------------
+repatriation    [美 ˌriːˌpeɪtriˈeɪʃn / 英 ˌriːˌpætriˈeɪʃn]
+n. 遣送回国；调回本国
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Today they begin the forced repatriation of Vietnamese boat people. 今天他们开始强制遣返越南船民。《柯林斯英汉双解大词典》
+≫   This result is useful in examining potential gains from flight capital repatriation. 该结果对于检查从资本外逃中获得的潜在收益很有用。
+≫   And then there's the repatriation issue. 然后，就是遣返问题。
+
+========================================================================
+>>> quarantine
+------------------------------------------------------------------------
+quarantine    [美 ˈkwɔːrəntiːn / 英 ˈkwɒrəntiːn]
+n. 隔离期，检疫期；隔离，检疫
+v. 对（动物或人）进行检疫隔离
+★ CET6+ TEM8 quarantining,quarantined,quarantines
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If a person or animal is in quarantine, they are being kept separate from other people or animals for a set period of time, usually because they have or may have a disease that could spread. 隔离
+   ≫   She was sent home and put in quarantine.  她被送回家实施隔离。
+2. (V-T) If people or animals are quarantined, they are stopped from having contact with other people or animals. If a place is quarantined, people and animals are prevented from entering or leaving it. 对…进行隔离 [usu passive]
+   ≫   Dogs have to be quarantined for six months before they'll let them in.  狗必须被隔离6个月后他们才会放它们进来。
+
+========================================================================
+>>> duty-free
+------------------------------------------------------------------------
+duty-free    [美 ˌduːti ˈfriː / 英 ˌdjuːti ˈfriː]
+adj. 免税的
+adv. 免税地
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Duty-free goods are sold at airports or on planes or ships at a cheaper price than usual because you do not have to pay import tax on them. 免关税的
+   ≫   ...duty-free cigarettes.  …免税香烟。
+
+========================================================================
+>>> tariff
+------------------------------------------------------------------------
+tariff    [美 ˈtærɪf / 英 ˈtærɪf]
+n. （政府对进出口货物征收的）关税，关税表；（旅馆、饭店或服务公司的）价目表，收费表；<英，法律>量刑标准
+v. 按税率定……的价格；征收关税
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tariff is a tax that a government collects on goods coming into a country. (政府对进口货物征收的) 关税 [商业]
+   ≫   America wants to eliminate tariffs on items such as electronics.  美国想要取消电子类产品的关税。
+
+========================================================================
+>>> waiver
+------------------------------------------------------------------------
+waiver    [美 ˈweɪvər / 英 ˈweɪvə(r)]
+n. （对权利或要求的）放弃；弃权声明书
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A waiver is when a person, government, or organization agrees to give up a right or says that people do not have to obey a particular rule or law. 弃权者
+   ≫   ...a waiver of constitutional rights.  …一位放弃宪法权利者。
+
+========================================================================
+>>> visa wwaiver
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> visa waiver
+------------------------------------------------------------------------
+visa waiver
+免签证：指某些国家或地区与其他国家或地区之间达成的协议，允许持有特定国家护照的人在一定时间内免去申请签证的程序，直接进入对方国家或地区。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is not only a visa waiver, Thailand efforts to facilitate the language of Chinese tourists. 不仅是免签证费这一优惠，泰国努力在语言方面为中国游客提供便利。
+≫   Travelerscoming to the us from visa waiver countries for business purposes, 90days or less, may be eligible to visit the us without a visa. 游客来到美国免签证国家用于商业目的，90天以内，可以申请访问美国无签证。
+≫   Foreign travellers who book tour packages under this campaign will enjoy the waiver of visa fees till the end of 2009. 预订了此旅游套餐的外国游客，到2009年底都可以免除签证费用。
+
+========================================================================
+>>> landing visa
+------------------------------------------------------------------------
+landing visa    [美 ˈlændɪŋ ˈviːzə]
+落地签证
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Tourists from most countries are granted landing visa for 30 days at the port of entry in Sri Lanka. 大多数国家的游客在斯里兰卡入境点可获得30天的落地签证。
+≫   At an orientation meeting, the travelers were told that a visa, a landing card, and evidence of inoculation against typhoid fever would be needed by each of them. 在一次介绍会上，这些旅行者被告知每人都需要签证、入境卡和伤寒疫苗接种证明。
+≫   Right after landing, our staff will greet you with the welcome-board, and assist you in processing the entry visa procedures until you get out of arrival hall. 当您抵达广州白云机场时，我们的签证专员将在机舱门迎接您，并全程协助办理入境签证手续，直至将您送达到达厅出口。
+
+========================================================================
+>>> entry permit
+------------------------------------------------------------------------
+entry permit
+入境许可证：一种由国家政府颁发的文件，允许持有人进入该国境内。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   To handle Entry Permit for send-off person. 为迎送人员办理通行证；
+≫   The truth of the trip, is not the entry permit. 真理的旅行，是不用入境证的。
+≫   Excuse me, do you know where I can get the Entry Permit and TIMS? 请问在哪儿可以弄到进山证和环保证？
+
+========================================================================
+>>> permit
+------------------------------------------------------------------------
+permit    [美 pərˈmɪt / 英 pəˈmɪt]
+v. 批准，许可；（使）成为可能；破例做，放纵
+n. 执照，许可证；古氏鲳鲹
+★★★ CET4 TEM4 permitting,permitted,permits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone permits something, they allow it to happen. If they permit you to do something, they allow you to do it. 允许 [正式]
+   ≫   He can let the court's decision stand and permit the execution.  他能让法院的判决成立，并允许处决。
+   ≫   The guards permitted me to bring my camera and tape recorder.  守卫允许我带上相机和录音机。
+2. (N-COUNT) A permit is an official document which says that you may do something. For example, you usually need a permit to work in a foreign country. 许可证
+   ≫   He has to apply for a permit, and we have to find him a job.  他必须申请一个许可证，而我们必须给他找一份工作。
+3. (V-T/V-I) If a situation permits something, it makes it possible for that thing to exist, happen, or be done or it provides the opportunity for it. 使成为可能; 成为可能 [正式]
+   ≫   Try to go out for a walk at lunchtime, if the weather permits.  如果天气条件允许，午饭时尽量出去散散步。
+   ≫   This method of cooking also permits heat to penetrate evenly from both sides.  这种烹调方法还能使两面均匀受热。
+
+========================================================================
+>>> residence
+------------------------------------------------------------------------
+residence    [美 ˈrezɪdəns / 英 ˈrezɪdəns]
+n. 住宅，住所；居住，定居；（在某国的）居住权，居留许可；（大学的）学生宿舍楼
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A residence is a house where people live. 住宅 [正式]
+   ≫   The house is currently run as a country inn, but could easily convert back into a private residence.  这栋房子目前被当作一家乡村客栈用，但可以容易地改回成一所私用住宅。
+2. (N-UNCOUNT) Your place of residence is the place where you live. 住所 [正式]
+   ≫   There were significant differences among women based on age, place of residence, and educational levels.  基于年龄、住处和教育水平，妇女们之间存在显著的差异。
+3. (N-UNCOUNT) Someone's residence in a particular place is the fact that they live there or that they are officially allowed to live there. 居住
+   ≫   They had entered the country and had applied for permanent residence.  他们已进入了那个国家，并已经申请了永久居住权。
+4. (PHRASE) If someone is in residence in a particular place, they are living there. 住在 (某处)
+   ≫   The king and queen of Jordan are in residence.  约旦的国王和王后住在宫邸。
+
+========================================================================
+>>> promotion
+------------------------------------------------------------------------
+promotion    [美 prəˈmoʊʃ(ə)n / 英 prəˈməʊʃ(ə)n]
+n. 提拔，晋升；促销，推销； 促进，提倡；（体育运动队的）晋级，升级；（为获利而举办的）体育赛事（尤指系列拳击赛）；（化学）助催化
+★★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you are given promotion or a promotion in your job, you are given a more important job or rank in the organization that you work for. 晋升
+   ≫   Consider changing jobs or trying for promotion.  考虑换工作或者争取晋升。
+2. (N-VAR) A promotion is an attempt to make a product or event popular or successful, especially by advertising. 促销; 推广 [商业]
+   ≫   Advertising and promotion are what American business does best.  打广告和促销是美国企业做得最好的事情。
+
+========================================================================
+>>> alien
+------------------------------------------------------------------------
+alien    [美 ˈeɪliən / 英 ˈeɪliən]
+adj. 陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）
+n. 外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种
+v. 让渡，转让
+【名】 （Alien）（法）阿利安（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Alien means belonging to a different country, race, or group, usually one you do not like or are frightened of. 外国的 [正式]
+   ≫   He said they were opposed to what he described as the presence of alien forces in the region.  他说他们反对他所描述的在该地区有外国军队的存在。
+2. (ADJ) If something is alien to you or to your normal feelings or behaviour, it is not the way you would normally feel or behave. 陌生的 [正式] [v-link ADJ 'to' n]
+   ≫   Such an attitude is alien to most businessmen.  这种态度对大多数商人都很陌生。
+3. (N-COUNT) An alien is someone who is not a legal citizen of the country in which they live. 外国人 [法律]
+   ≫   Both women had hired illegal aliens for child care.  这两个女人都雇佣了非法入境者来照看孩子。
+4. (N-COUNT) In science fiction, an alien is a creature from outer space. 外星人
+   ≫   ...aliens from another planet.  …从另一个行星来的外星人。
+
+========================================================================
+>>> residence
+------------------------------------------------------------------------
+residence    [美 ˈrezɪdəns / 英 ˈrezɪdəns]
+n. 住宅，住所；居住，定居；（在某国的）居住权，居留许可；（大学的）学生宿舍楼
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A residence is a house where people live. 住宅 [正式]
+   ≫   The house is currently run as a country inn, but could easily convert back into a private residence.  这栋房子目前被当作一家乡村客栈用，但可以容易地改回成一所私用住宅。
+2. (N-UNCOUNT) Your place of residence is the place where you live. 住所 [正式]
+   ≫   There were significant differences among women based on age, place of residence, and educational levels.  基于年龄、住处和教育水平，妇女们之间存在显著的差异。
+3. (N-UNCOUNT) Someone's residence in a particular place is the fact that they live there or that they are officially allowed to live there. 居住
+   ≫   They had entered the country and had applied for permanent residence.  他们已进入了那个国家，并已经申请了永久居住权。
+4. (PHRASE) If someone is in residence in a particular place, they are living there. 住在 (某处)
+   ≫   The king and queen of Jordan are in residence.  约旦的国王和王后住在宫邸。
+
+========================================================================
+>>> residence permit
+------------------------------------------------------------------------
+residence permit
+居留许可：合法居留在某个国家的权利。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He have applied for a residence permit. 他已为获得居留证作了申请。
+≫   She is grant a residence permit for one year. 她被给予一张为期一年的居住证。
+≫   He asked for extension of his residence permit. 他要求延长居留证的期限。
+
+========================================================================
+>>> embassy
+------------------------------------------------------------------------
+embassy    [美 ˈembəsi / 英 ˈembəsi]
+n. 大使馆工作人员；大使馆；（外交）特别使团
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An embassy is a group of government officials, headed by an ambassador, who represent their government in a foreign country. The building in which they work is also called an embassy. 大使及其随员; 大使馆
+   ≫   The American embassy has already complained.  美国使馆已经提出抗议。
+
+========================================================================
+>>> consulat
+------------------------------------------------------------------------
+consulat
+执政府
+
+========================================================================
+>>> consulate
+------------------------------------------------------------------------
+consulate    [美 ˈkɑːnsələt / 英 ˈkɒnsjələt]
+n. 领事馆；领事职位；〈史〉古罗马执政官任期
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A consulate is the place where a consul works. 领事馆
+   ≫   ...the Canadian consulate in Seattle.  …驻西雅图的加拿大领事馆。
+
+========================================================================
+>>> consult
+------------------------------------------------------------------------
+consult    [美 kənˈsʌlt / 英 kənˈsʌlt]
+v. 咨询，请教；商量，商讨；查询，查阅；当顾问
+★★★ CET4 TEM4 consulting,consulted,consults
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you consult an expert or someone senior to you or consult with them, you ask them for their opinion, advice, or permission. 咨询
+   ≫   Consult your doctor about how much exercise you should get.  咨询你的医生你应做多少运动。
+   ≫   He needed to consult with an attorney.  他需要和律师咨询。
+2. (V-T) If you consult a book or a map, you look in it or look at it in order to find some information. 查阅
+   ≫   Consult the chart on page 44 for the correct cooking times.  查阅第44页的图表找正确的烹调时间。
+3. (V-RECIP) If a person or group of people consults with other people or consults them, or if two people or groups consult, they talk and exchange ideas and opinions about what they might decide to do. 商量
+   ≫   After consulting with her daughter and manager, she decided to take on the part, on her terms.  同她的女儿兼经纪人商量之后，她决定按她的要求接受那个角色。
+   ≫   The two countries will have to consult their allies.  两国得同各自的盟友协商。
+
+========================================================================
+>>> consular
+------------------------------------------------------------------------
+consular    [英 ˈkɒnsjələ(r) / 美 ˈkɑːnsələr]
+adj. 领事的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Consular means involving or relating to a consul or the work of a consul. 领事的 [ADJ n]
+   ≫   U.S. consular officials have visited the men, although they have not yet had access to lawyers.  美国领事馆的官员已经探望了那些男人，不过他们还没有机会见到律师们。
+
+========================================================================
+>>> consular visa interview
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> stady abord
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> study abroad
+------------------------------------------------------------------------
+study abroad    [美 ˈstʌdi əˈbrɔːd]
+出国留学：指学生到国外的学校或大学进行学习和研究的行为。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They won't study abroad until they leave high school. 他们高中毕业后将出国留学。
+≫   Mrs. Obama also encourages Chinese students to study abroad. 奥巴马夫人还鼓励中国学生出国留学。
+≫   She planned to study abroad. 她计划出国留学。
+
+========================================================================
+>>> curricular
+------------------------------------------------------------------------
+curricular    [美 kəˈrɪkjələr / 英 kəˈrɪkjələ(r)]
+adj. 课程的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She's involved in many extra-curricular activities. 她参加了许多课外活动。《牛津词典》
+≫   Participating in extra-curricular activities enables us to learn to negotiate and cooperate with fellow students. 参加课外活动可以让我们学习如何与同学进行协商与合作。
+≫   On the one hand, participating in extra-curricular activities allows children to develop their hobbies while on the other hand, too many such activities can increase children's burden. 一方面，参加课外活动可以让学生发展自己的兴趣，而另一方面，太多的课外活动可能会增加学生的负担。
+
+========================================================================
+>>> orientation
+------------------------------------------------------------------------
+orientation    [英 ˌɔːriənˈteɪʃ(ə)n / 美 ˌɔːriənˈteɪʃ(ə)n]
+n. 目标，定位；方向，朝向；（基本的）态度，倾向；（岗前、学前、课前等的）情况介绍，培训；适应，熟悉
+★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you talk about the orientation of an organization or country, you are talking about the kinds of aims and interests it has. 方向; 目标
+   ≫   ...a marketing orientation.  …一个营销目标。
+   ≫   To a society which has lost its orientation he has much to offer.  对一个迷失了方向的社会，他有许多要做的。
+2. (N-VAR) Someone's orientation is their basic beliefs or preferences. 基本信仰; 取向
+   ≫   ...legislation that would have made discrimination on the basis of sexual orientation illegal.  …原本可以使基于性取向的歧视不合法的立法。
+3. (N-UNCOUNT) Orientation is basic information or training that is given to people starting a new job, school, or course. (任职、上学等之前的) 情况介绍; 训练
+   ≫   They give their new employees a day or two of orientation.  他们对新员工进行一两天的培训。
+4. (N-COUNT) The orientation of a structure or object is the direction it faces. 朝向
+   ≫   Farnese had the orientation of the church changed so that the front would face a square.  法尔内塞把教堂的朝向改了，使其正面对着一个广场。
+
+========================================================================
+>>> insurance
+------------------------------------------------------------------------
+insurance    [美 ɪnˈʃʊrəns / 英 ɪnˈʃʊərəns]
+n. 保险；保险费；保险业；保险赔偿金，保险金；保险单；预防措施，安全保障
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Insurance is an arrangement in which you pay money to a company, and they pay you if something unpleasant happens to you, for example, if your property is stolen or damaged, or if you get a serious illness. 保险
+   ≫   The house was a total loss and the insurance company promptly paid us the policy limit.  房屋被定为全损，保险公司按保险限额迅速赔付了我们。
+2. (N-VAR) If you do something as insurance against something unpleasant happening, you do it to protect yourself in case the unpleasant thing happens. 预防措施
+   ≫   Attentive proofreading is the only insurance against the kind of omissions described in this section.  仔细校对是避免本节提到的那种遗漏问题的惟一预防措施。
+
+========================================================================
+>>> alumni
+------------------------------------------------------------------------
+alumni    [美 əˈlʌmnaɪ / 英 əˈlʌmnaɪ]
+n. 校友，毕业生（alumnus 的复数）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The alumni of a school, college, or university are the people who used to be students there. 校友 [美国英语]
+
+========================================================================
+>>> luggage
+------------------------------------------------------------------------
+luggage    [美 ˈlʌɡɪdʒ / 英 ˈlʌɡɪdʒ]
+n. 行李；精神负担
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Luggage is the suitcases and bags that you take with you when travel. 行李
+   ≫   Leave your luggage in the hotel.  把你的行李留在旅馆吧。
+
+========================================================================
+>>> undergo
+------------------------------------------------------------------------
+undergo    [英 ˌʌndəˈɡəʊ / 美 ˌʌndərˈɡoʊ]
+v. 经历，经受
+★★ CET4 TEM4 undergoing,underwent,undergone,undergoes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you undergo something necessary or unpleasant, it happens to you. 经历; 经受
+   ≫   New recruits have been undergoing training in recent weeks.  新兵们最近几周一直在接受训练。
+
+========================================================================
+>>> duties
+------------------------------------------------------------------------
+duties    [美 ˈduːtiz / 英 ˈdjuːtiz]
+n. 关税；责任，义务（duty 的复数）
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Duty is work that you have to do for your job. 工作
+   ≫   Staff must report for duty at their normal place of work.  职员必须到他们平常的岗位报到上班。
+2. (N-PLURAL) Your duties are tasks which you have to do because they are part of your job. 职责
+   ≫   I carried out my duties conscientiously.  我认真执行了我的各项职责。
+3. (N-SING) If you say that something is your duty, you believe that you ought to do it because it is your responsibility. 责任
+   ≫   I consider it my duty to write to you and thank you.  我觉得我有责任给你写信表示感谢。
+4. (N-VAR) Duties are taxes which you pay to the government on goods that you buy. 税
+   ≫   Import duties still average 30%.  进口关税平均仍为30%。
+5. (PHRASE) If someone such as a police officer or a nurse is off duty, they are not working. If someone is on duty, they are working. 下班; 上班
+   ≫   I'm off duty.  我下班了。
+
+========================================================================
+>>> board a flight
+------------------------------------------------------------------------
+board a flight
+登机：进入飞机并找到自己的座位准备飞行。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He was arrested two days after the attack as he tried to board a flight bound for Dubai. 袭击后两天，他试图登上飞往迪拜的航班时被捕。
+≫   Pat Boone and family bid farewell to new York as they board a flight for their new home: Hollywood. 派克·布恩和他的全家离开纽约，去好莱坞的新家。
+≫   "I am not guilty," Salman told reporters after arriving at Lahore airport to board a flight to Dubai. “我没罪，”萨尔曼在抵达拉合尔机场去登上前往迪拜的航班后告诉记者。
+
+========================================================================
+>>> comply
+------------------------------------------------------------------------
+comply    [美 kəmˈplaɪ / 英 kəmˈplaɪ]
+v. 遵从，服从；（商品）符合特定标准
+★★ CET6 TEM4 complying,complied,complies
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If someone or something complies with an order or set of rules, they do what is required or expected. 遵从
+   ≫   The commander said that the army would comply with the ceasefire.  指挥官说过部队会遵从停火协议。
+   ≫   Some beaches had failed to comply with environmental regulations.  一些海滩没能遵守环保规定。
+
+========================================================================
+>>> regulatiosn
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> regulations
+------------------------------------------------------------------------
+regulations    [美 ˌreɡjuˈleɪʃ(ə)nz / 英 ˌreɡjuˈleɪʃ(ə)nz]
+n. 规则，规章，条例，法规（regulation 的复数）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Regulations are rules made by a government or other authority in order to control the way something is done or the way people behave. 法规; 条例
+   ≫   The European Union has proposed new regulations to control the hours worked by its employees.  欧盟已经提出了新的法规来控制其雇员的工作时间。
+2. (N-UNCOUNT) Regulation is the controlling of an activity or process, usually by means of rules. 管理
+   ≫   Some in the market now want government regulation in order to reduce costs.  市场上现在有人想要政府来管理以降低成本。
+
+========================================================================
+>>> clearance
+------------------------------------------------------------------------
+clearance    [美 ˈklɪrəns / 英 ˈklɪərəns]
+n. 审核批准；（飞机起降的）许可，准许；间距，间隙；清理，清除；（足球等中使对方不能破门的）解围；（银行支票的）结算，兑现
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Clearance is the removal of old buildings, trees, or other things that are not wanted from an area. 拆除; 清除
+   ≫   The U.N. pledged to help supervise the clearance of mines.  联合国承诺帮助监督扫雷工作。
+2. (N-VAR) If you get clearance to do or have something, you get official approval or permission to do or have it. 官方许可
+   ≫   Thai Airways said the plane had been given clearance to land.  泰国航空公司说该飞机已经被授予了着陆的官方许可。
+
+========================================================================
+>>> naturalization
+------------------------------------------------------------------------
+naturalization    [美 ˌnætʃrələˈzeɪʃn / 英 ˌnætʃrəlaɪˈzeɪʃn]
+n. 归化，移入；移植
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They swore their allegiance to the U.S. and received their naturalization papers. 他们宣誓忠诚于美国，随后收到了批准他们入籍的文件。《柯林斯英汉双解大词典》
+≫   The Constitutional principles that Washington alone has the power to "establish a uniform Rule of Naturalization" and that federal laws precede state laws are noncontroversial. 只有华盛顿有权“建立统一的归化规则”和联邦法律先于州法律的宪法原则是没有争议的。
+≫   The Immigration and Naturalization Service lacks the resources, and apparently the inclination, to keep track of the estimated 2 million foreigners who have intentionally overstayed their welcome. 移民归化局缺乏资源，显然也不愿跟踪已估计的200万名故意逗留过久的外国人。
+
+========================================================================
+>>> refugee
+------------------------------------------------------------------------
+refugee    [美 ˌrefjuˈdʒiː / 英 ˌrefjuˈdʒiː]
+n. 难民，避难者
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Refugees are people who have been forced to leave their homes or their country, either because there is a war there, because of their political or religious beliefs, or because of natural disaster. 难民
+   ≫   A political refugee from Cameroon has moved into our neighbourhood.  一个喀麦隆的政治难民已经搬进了我们小区。
+
+========================================================================
+>>> asylum
+------------------------------------------------------------------------
+asylum    [美 əˈsaɪləm / 英 əˈsaɪləm]
+n. 政治避难，政治庇护；<旧>精神病院
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If a government gives a person from another country asylum, they allow them to stay, usually because they are unable to return home safely for political reasons. (给予通常因政治原因不能回国的人的) 避难许可
+   ≫   He applied for asylum in 1987 after fleeing the police back home.  他于1987年逃脱本国的警察之后申请了避难许可。
+2. (N-COUNT) An asylum is a psychiatric hospital. 精神病院 [老式]
+
+========================================================================
+>>> humanitarian
+------------------------------------------------------------------------
+humanitarian    [美 hjuːˌmænɪˈteriən / 英 hjuːˌmænɪˈteəriən]
+adj. 人道主义的，博爱的；基督凡人论的
+n. 人道主义者，博爱者；慈善家；基督凡人论者
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a person or society has humanitarian ideas or behaviour, they try to avoid making people suffer or they help people who are suffering. 人道主义的
+   ≫   Air bombardment raised criticism on the humanitarian grounds that innocent civilians might suffer.  空袭遭到了非难，因为从人道主义的角度来看，无辜的平民可能会遭受伤害。
+
+========================================================================
+>>> reunification
+------------------------------------------------------------------------
+reunification    [美 ˌriːˌjuːnɪfɪˈkeɪʃn / 英 ˌriːˌjuːnɪfɪˈkeɪʃn]
+n. 重新统一
+★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The reunification of a country or city that has been divided into two or more parts for some time is the joining of it together again. 重新统一 [with supp]
+   ≫   ...the reunification of East and West Beirut in 1991.  …1991年东、西贝鲁特的重新统一。
+
+========================================================================
+>>> labor
+------------------------------------------------------------------------
+labor    [美 ˈleɪbər / 英 ˈleɪbə(r)]
+n. 劳动；工作；劳工；分娩
+vi. 劳动；努力；苦干
+vt. 详细分析；使厌烦
+n. （Labor）人名；（德、塞、法）拉博尔；（英）拉博
+★★★★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The developments leave the airline with several problems, including an unsettled labor situation. 事情的发展给航空公司带来了一些问题，其中包括不安定的劳工状况。《柯林斯英汉双解大词典》
+≫   The fruit of labor is sweetest. 劳动的果实最甜美。
+≫   After Labor Day we start classes. 劳动节之后我们就开学了。
+
+========================================================================
+>>> adjustment
+------------------------------------------------------------------------
+adjustment    [美 əˈdʒʌstmənt / 英 əˈdʒʌstmənt]
+n. 调整，校正；（行为、思想的）调节，适应；调节器
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An adjustment is a small change that is made to something such as a machine or a way of doing something. (对机器、做事方法等的) 调整
+   ≫   Compensation could be made by adjustments to taxation.  补偿可由调税实现。
+   ≫   Investment is up by 5.7% after adjustment for inflation.  投资在通货膨胀调整之后增长了5.7%。
+2. (N-COUNT) An adjustment is a change in a person's behaviour or thinking. (对行为、思想等的) 调整
+   ≫   He will have to make major adjustments to his thinking if he is to survive in office.  他要想继续任职的话，就得对他的思维方式作大的调整。
+
+========================================================================
+>>> backlog
+------------------------------------------------------------------------
+backlog    [美 ˈbæklɔːɡ / 英 ˈbæklɒɡ]
+n. 积压的工作
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A backlog is a number of things which have not yet been done but which need to be done. 积压待办的事务
+   ≫   There is a backlog of repairs and maintenance in schools.  学校里有积压下来等待处理的维修和养护工作。
+
+========================================================================
+>>> appeal
+------------------------------------------------------------------------
+appeal    [英 əˈpiːl / 美 əˈpiːl]
+n. 呼吁，恳求；上诉，申诉；吸引力，感染力；（为慈善或正义事业的）募捐；启发，打动
+v. 呼吁，恳求；上诉，申诉；有吸引力，引起兴趣；启发，打动
+★★★★ CET4 TEM4 appealing,appealed,appeals
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you appeal to someone to do something, you make a serious and urgent request to them. 呼吁
+   ≫   He appealed to voters to go to the polls tomorrow.  他呼吁选民们明天去投票站。
+   ≫   He will appeal to the state for an extension of unemployment benefits.  他将呼吁国家延长失业救济。
+2. (V-T) If you appeal a decision to someone in authority, you formally ask them to change it. 申诉
+   ≫   We intend to appeal the verdict.  我们打算对此裁决提出申诉。
+3. (V-I) If something appeals to you, you find it attractive or interesting. 有吸引力
+   ≫   On the other hand, the idea appealed to him.  另一方面，这个主意对他有吸引力。
+4. (N-COUNT) An appeal is a serious and urgent request. 呼吁
+   ≫   He has a message from King Fahd, believed to be an appeal for Arab unity.  他有个来自法赫德国王的口信，相信是对阿拉伯团结的呼吁。
+5. (N-COUNT) An appeal is an attempt to raise money for a charity or for a good cause. (为慈善或好的事业所做的) 筹款努力
+   ≫   ...an appeal to save a library containing priceless manuscripts.  …为挽救一个藏有无价手稿图书馆的一次筹款努力。
+6. (N-VAR) An appeal is a formal request for a decision to be changed. 申诉
+   ≫   They took their appeal to the Supreme Court.  他们上诉到了最高法院。
+7. (N-UNCOUNT) The appeal of something is a quality that people find attractive or interesting. 吸引力
+   ≫   Its new title was meant to give the party greater public appeal.  其新的名字意在给予该党更大的公众吸引力。
+
+========================================================================
+>>> visa appeal
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> refusal
+------------------------------------------------------------------------
+refusal    [美 rɪˈfjuːz(ə)l / 英 rɪˈfjuːz(ə)l]
+n. 拒绝，回绝；拒绝接受，拒绝给予；优先取舍权，优先购买权（first refusal）；选择权；（马）（对障碍物的）拒跳
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Someone's refusal to do something is the fact of them showing or saying that they will not do it, allow it, or accept it. 拒绝
+   ≫   Her country suffered through her refusal to accept change.  她的国家因为她拒绝接受变革而受了害。
+2. (PHRASE) If someone has first refusal on something that is being sold or offered, they have the right to decide whether or not to buy it or take it before it is offered to anyone else. 优先购买权
+   ≫   A tenant may have a right of first refusal if a property is offered for sale.  如果房产要出售，房客可以有优先购买权。
+
+========================================================================
+>>> citizenship
+------------------------------------------------------------------------
+citizenship    [美 'sɪtɪzənʃɪp  / 英 'sɪtɪzənʃɪp]
+n. 公民资格，公民身份；公民义务，公民责任感
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you have citizenship of a country, you are legally accepted as belonging to it. 公民身份
+   ≫   After 15 years in the U.S., he has finally decided to apply for American citizenship.  在美国住了15年后，他最终决定申请美国的公民身份。
+2. (N-UNCOUNT) Citizenship is the fact of belonging to a community because you live in it, and the duties and responsibilities that this brings. 公民义务和责任
+   ≫   Their German peers had a more developed sense of citizenship.  他们的德国同龄人对于公民的义务和责任有更成熟的认识。
+
+========================================================================
+>>> expatriate
+------------------------------------------------------------------------
+expatriate    [英 ˌeksˈpætriət / 美 ˌeksˈpeɪtriət]
+n. 旅居国外者，侨民；被流放者
+v. （强行或依法）把（某人）逐出本国，使移居国外；移居国外，定居国外
+adj. （人）旅居国外的；被流放国外的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An expatriate is someone who is living in a country that is not their own. 侨居者
+   ≫   ...British expatriates in Spain.  …侨居西班牙的英国人。
+2. (ADJ) Expatriate is also an adjective. 侨居的 [ADJ n]
+   ≫   The expatriate vote could help determine who wins in November.  侨居者们的投票有助于决定谁在11月获胜。
+
+========================================================================
+>>> emigrant
+------------------------------------------------------------------------
+emigrant    [美 ˈemɪɡrənt / 英 ˈemɪɡrənt]
+n. 移居外国的人，移民
+adj. 移民的，移居的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An emigrant is a person who has left their own country to live in another country. Compare . 移居国外者
+   ≫   ...Irish emigrants to America.  …移居美国的爱尔兰移民。
+
+========================================================================
+>>> migrant
+------------------------------------------------------------------------
+migrant    [美 ˈmaɪɡrənt / 英 ˈmaɪɡrənt]
+n. （为工作）移居者，移民；候鸟，迁徙动物
+adj. 移民的，有迁徙习性的
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A migrant is a person who moves from one place to another, especially in order to find work. 移民
+   ≫   The government divides asylum seekers into economic migrants and genuine refugees.  政府将寻求政治庇护的人划分为经济移民和真正的难民。
+2. (N-COUNT) Migrants are birds, fish, or animals that migrate from one part of the world to another. 迁徙动物
+   ≫   Migrant birds shelter in the reeds.  候鸟隐蔽在芦苇丛中。
+
+========================================================================
+>>> undocumented
+------------------------------------------------------------------------
+undocumented    [美 ˌʌnˈdɑːkjumentɪd / 英 ˌʌnˈdɒkjumentɪd]
+adj. 无事实证明的；无正式文件的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Perhaps half of the farm laborers are undocumented immigrants. 也许农场工人中有一半是非法移民。
+≫   Others highlight the strain that undocumented immigrants place on public services, like schools, hospitals, and jails. 另一些人强调非法移民给学校、医院和监狱等公共服务带来的压力。
+≫   Undocumented and Unsupported Capabilities used. 被使用的无文档记载和不支持的功能。
+
+========================================================================
+>>> voluntary
+------------------------------------------------------------------------
+voluntary    [英 ˈvɒləntri / 美 ˈvɑːlənteri]
+adj. 自愿的，自发的，主动的；（机构或组织）志愿的，义务性的；（工作）志愿的，无偿的，义务的；（工作者）志愿的，无偿服务的；（人体活动）随意的，可以控制的；<法律>（让与）自愿的，无偿的
+n. （教堂里管风琴演奏的）仪式终始曲；<史>（尤指作为其他作品的序曲，或自由创作的）即兴曲，自由调；（比赛中的）自选表演；自愿行动；志愿者
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Voluntary actions or activities are done because someone chooses to do them and not because they have been forced to do them. 自愿的
+   ≫   Attention is drawn to a special voluntary course in Commercial French.  注意力被吸引到一门特别的商务法语选修课上。
+2. (ADV) voluntarily ADV 自愿地 [ADV with v]
+   ≫   I would never leave here voluntarily.  我永远不会自愿地离开这里。
+3. (ADJ) Voluntary work is done by people who are not paid for it, but who do it because they want to do it. 义务的
+   ≫   In her spare time she does voluntary work.  她在业余时间做义工。
+4. (ADJ) A voluntary organization is controlled and organized by the people who have chosen to work for it, often without being paid, rather than receiving help or money from the government. 志愿的 [ADJ n]
+   ≫   Some voluntary organizations run workshops for disabled people.  一些志愿组织为残障人士开办讲习班。
+
+========================================================================
+>>> residency
+------------------------------------------------------------------------
+residency    [美 ˈrezɪdənsi / 英 ˈrezɪdənsi]
+n. 住处；住院医生实习期
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Someone's residency in a particular place, especially in a country, is the fact that they live there or that they are officially allowed to live there. 居住; 居住权
+   ≫   He applied for Canadian residency.  他申请了在加拿大的居住权。
+2. (N-COUNT) A doctor's residency is the period of specialized training in a hospital that he or she receives after completing an internship. (医生的)实习期 [美国英语]
+   ≫   He completed his paediatric residency at Stanford University Hospital.  他在斯坦福大学附属医院完成了儿科实习。
+
+========================================================================
+>>> residency abroad
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> residency abroad
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：2777
+residency abroad
+居住在国外
+
+========================================================================
+>>> diaspora
+------------------------------------------------------------------------
+diaspora    [美 daɪˈæspərə / 英 daɪˈæspərə]
+n. （犹太人的）大流散（the diaspora）；（住在以色列之外的）海外犹太人；（任何民族的）大移居；流散人口
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) People who come from a particular nation, or whose ancestors came from it, but who now live in many different parts of the world are sometimes referred to as the diaspora. 大移居 [正式] [usu 'the' N]
+   ≫   ...the history of peoples from the African diaspora.  ...非洲大移居人民的历史。
+
+========================================================================
+>>> overseas Chinese
+------------------------------------------------------------------------
+Overseas Chinese
+海外华人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The overseas Chinese in Yeman got excited when they saw Chinese soldiers coming to their help. 当看到中国士兵来帮助他们时，也门的海外华人感到非常激动。
+≫   Overseas Chinese cherish the memory of their home land. 侨胞想念祖国。《新英汉大辞典》
+≫   It is generally known that the overseas Chinese are a hardworking lot. 众所周知华侨是刻苦耐劳的。《新英汉大辞典》
+
+========================================================================
+>>> expatriate
+------------------------------------------------------------------------
+expatriate    [美 ˌeksˈpeɪtriət / 英 ˌeksˈpætriət]
+n. 旅居国外者，侨民；被流放者
+v. （强行或依法）把（某人）逐出本国，使移居国外；移居国外，定居国外
+adj. （人）旅居国外的；被流放国外的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An expatriate is someone who is living in a country that is not their own. 侨居者
+   ≫   ...British expatriates in Spain.  …侨居西班牙的英国人。
+2. (ADJ) Expatriate is also an adjective. 侨居的 [ADJ n]
+   ≫   The expatriate vote could help determine who wins in November.  侨居者们的投票有助于决定谁在11月获胜。
+
+========================================================================
+>>> resident
+------------------------------------------------------------------------
+resident    [美 ˈrezɪdənt / 英 ˈrezɪdənt]
+n. 居民，住户；（旅馆的）住宿者；<美>住院医生；<美> 寄宿制学校学生；<史>（英国政府派驻半独立国家的） 特派代表；驻外特工；留鸟，无迁徙习性的蝴蝶（或其他动物）
+adj. （在某地）居住的，居留的；常驻的；属于（某个群体）的；（鸟、蝴蝶等）非迁徙性的；（计算机程序、文件等在存储器中）驻留的
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The residents of a house or area are the people who live there. 居民
+   ≫   The archbishop called on the government to build more low cost homes for local residents.  这位大主教呼吁该政府为当地居民建更多的廉价住宅。
+2. (ADJ) Someone who is resident in a country or a town lives there. 居住的 [v-link ADJ]
+   ≫   He moved to the United States in 1990 to live with his son, who had been resident in Baltimore since 1967.  他1990年移居美国去和从1967年就住在巴尔的摩的儿子一起住。
+3. (N-COUNT) A resident or a resident doctor is a doctor who is receiving a period of specialized training in a hospital after completing his or her internship. 住院医师 [美国英语]
+   ≫   Many resident doctors complain that they are assigned too many duties that are usually not performed by physicians.  很多住院医师抱怨他们被指派了太多通常不由内科医生完成的职责。
+
+========================================================================
+>>> resident alien
+------------------------------------------------------------------------
+resident alien    [英 ˌrezɪdənt ˈeɪliən / 美 ˌrezɪdənt ˈeɪliən]
+居住外国人：在美国出生以外的人，在美国合法地建立了临时或永久居住权，但尚未成为美国公民的人。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A resident alien is a person who was born in one country but has moved to another country and has official permission to live there. 外籍居留者; 外侨
+   ≫   Both left school in the fourth grade in Mexico and are resident aliens in the United States.  在墨西哥时两个人都是在4年级退的学，现在都是居美外侨。
+
+========================================================================
+>>> sojourner
+------------------------------------------------------------------------
+sojourner    [美 ˈsʌdʒɜːrnər / 英 ˈsɒdʒɜːnə]
+n. 寄居者；旅居者
+n. （Sojourner）人名；（英）索杰纳
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I am a sojourner of that village. 我是那个小村庄的逗留者。
+≫   The sojourner has been in Wales for two weeks. 那个寄居者在威尔士已经逗留了两个星期。
+≫   I am a sojourner in your life, and you are my life eternal frames. 我是你生命中的过客，而你是我这辈子永恒的定格。
+
+========================================================================
+>>> expatriation
+------------------------------------------------------------------------
+expatriation    [美 eksˌpeɪtrɪˈeɪʃən / 英 eksˌpætrɪˈeɪʃən]
+n. 放弃国籍；流放国外
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The graph below shows the top 10 countries with highest expatriation rates for doctors. 以下图表显示了移居国外医生比率最高的10个国家。
+≫   By the 1920 s, expatriation to the Europe had become so characteristic a fashion for American writers. 到20世纪20年代时，美国作家移居欧洲已经形成了一种风尚。
+≫   And seafarers' expatriation has been proved to be one of the most important ways for the training and accumulation of internationalized or export-oriented Marine economic entrepreneurs. 而海员劳务外派则是国际化、外向型的海洋经济创业人才培养和积累的重要途径。
+
+========================================================================
+>>> nudge
+------------------------------------------------------------------------
+nudge    [美 nʌdʒ / 英 nʌdʒ]
+v. 用肘轻触（某人以引起注意）；轻推移动，推开；用胳膊肘挤开往前走；接近，靠近（某程度或数量）；劝说，鼓励
+n. （肘部的）轻推，碰；说服
+★ TEM8 nudging,nudged,nudges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you nudge someone, you push them gently, usually with your elbow, in order to draw their attention to something. (常用肘为引起注意) 轻推
+   ≫   I nudged Stan and pointed again.  我轻推了推斯坦，又指了一下。
+2. (N-COUNT) Nudge is also a noun. (用肘) 轻推
+   ≫   She slipped her arm under his and gave him a nudge.  她迅速地把胳膊放在他的胳膊下面，给了他轻轻一推。
+3. (V-T) If you nudge someone or something into a place or position, you gently push them there. 把…轻轻地推动
+   ≫   Edna Swinson nudged him into the sitting room.  埃德娜·斯温森把他轻轻地推进了起居室。
+4. (N-COUNT) Nudge is also a noun. 轻轻的推动
+   ≫   McKinnon gave the wheel another slight nudge to starboard.  麦金农把轮子向船的右舷又轻推了一下。
+5. (V-T) If you nudge someone into doing something, you gently persuade them to do it. 好言说服
+   ≫   Bit by bit Bob had nudged Fritz into selling his controlling interest.  鲍勃一点一点地说服弗里茨卖掉自己的控股权。
+   ≫   Foreigners must use their power not simply to punish the country but to nudge it toward greater tolerance.  外国人动用他们的力量，不应仅仅是为了惩罚这个国家而是要说服该国使之变得更宽容。
+6. (N-COUNT) Nudge is also a noun. 说服
+   ≫   I had a feeling that the challenge appealed to him. All he needed was a nudge.  我有一种感觉这个挑战吸引了他。他所需要的只是一点说服。
+
+========================================================================
+>>> diaspora
+------------------------------------------------------------------------
+diaspora    [美 daɪˈæspərə / 英 daɪˈæspərə]
+n. （犹太人的）大流散（the diaspora）；（住在以色列之外的）海外犹太人；（任何民族的）大移居；流散人口
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) People who come from a particular nation, or whose ancestors came from it, but who now live in many different parts of the world are sometimes referred to as the diaspora. 大移居 [正式] [usu 'the' N]
+   ≫   ...the history of peoples from the African diaspora.  ...非洲大移居人民的历史。
+
+========================================================================
+>>> huaren
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> huaqiao
+------------------------------------------------------------------------
+Huaqiao
+n. 华侨：指在国外定居的中国人。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Behind the Huaqiao University team began to counterattack. 落后的华侨大学代表队开始反扑。
+≫   People in Guangxi refer to them—and their China-born children—as huaqiao, or overseas Chinese. 居住在广西的人将他们和他们出生在中国的孩子们成为华侨。
+≫   The big five personality of huaqiao college students with low mental health level were different in scl-90factors respectively. 低心理健康水平华侨学生的大五项目都有具体的心理症状表现。
+
+========================================================================
+>>> sinophone
+------------------------------------------------------------------------
+Sinophone
+adj. 讲汉语的
+n. 讲汉语的人
+
+========================================================================
+>>> ethnic
+------------------------------------------------------------------------
+ethnic    [美 ˈeθnɪk / 英 ˈeθnɪk]
+adj. （有关）种族的，民族的；少数民族的；具有民族特色的，异国风味的；既非基督教亦非犹太教的，异教徒的
+n. 少数民族成员，某民族群体的人
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Ethnic means connected with or relating to different racial or cultural groups of people. 种族的
+   ≫   ...a survey of Britain's ethnic minorities.  …对英国少数民族的一项调查。
+2. (ADV) ethnically ADV 种族上地
+   ≫   ...a predominantly young, ethnically mixed audience.  …一群大部分为年轻的、包含不同种族的观众。
+3. (ADJ) You can use ethnic to describe people who belong to a particular racial or cultural group but who, usually, do not live in the country where most members of that group live. 少数民族的 [ADJ n]
+   ≫   There are still several million ethnic Germans in Russia.  在俄罗斯仍有几百万德国族裔。
+4. (ADV) ethnically ADV 少数民族地 [ADV adj]
+   ≫   ...a large ethnically Albanian population.  …大量阿尔巴尼亚族人口。
+5. (ADJ) Ethnic clothing, music, or food is characteristic of the traditions of a particular ethnic group, and different from what is usually found in modern Western culture. 具有民族特色的
+   ≫   ...a magnificent range of ethnic fabrics.  …各色各样具有民族特色的织物。
+
+========================================================================
+>>> chinatown
+------------------------------------------------------------------------
+Chinatown    [美 ˈtʃaɪnətaʊn / 英 ˈtʃaɪnətaʊn]
+n. 唐人街，中国城
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Chinatown is the name given to the area in a city where there are many Chinese stores and restaurants, and which is a social centre for the Chinese community in the city. 中国城
+
+========================================================================
+>>> returnee
+------------------------------------------------------------------------
+returnee    [美 rɪˌtɜːrˈniː / 英 rɪˌtɜːˈniː]
+n. 海归；回国军人；回校重读的学生
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A returnee is a person who returns to the country where they were born, usually after they have been away for a long time. 回国人员; 归国者 [usu pl]
+   ≫   The number of returnees could go as high as half a million.  回国人员的数量可能高达50万。
+
+========================================================================
+>>> transnatinoalism
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> transnationalism
+------------------------------------------------------------------------
+transnationalism
+n. 跨国主义
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   "Transnationalism" is a comfort but also a concern for those who think it impedes integration. “跨国主义”是一种安慰，但对于那些认为它阻碍一体化的人来说，也是一种担忧。
+
+========================================================================
+>>> household
+------------------------------------------------------------------------
+household    [美 ˈhaʊshoʊld / 英 ˈhaʊshəʊld]
+n. 家庭，一家人；家务；王室（the Household）
+adj. 家用的，家务的；全家人的；家喻户晓的；皇家的（Household）
+【名】 （Household）（美、瑞）豪斯霍尔德（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A household is all the people in a family or group who live together in a house. 家庭; 同住一所房子的人
+   ≫   ...growing up in a male-only household.  …在全体成员均为男性的家庭里长大。
+2. (N-SING) The household is your home and everything that is connected with taking care of it. 家务
+   ≫   ...household chores.  …家务活。
+3. (ADJ) Someone or something that is a household name or word is very well known. 家喻户晓的 [ADJ n]
+   ≫   Today, fashion designers are household names.  如今，服装设计师们家喻户晓。
+
+========================================================================
+>>> ancestral
+------------------------------------------------------------------------
+ancestral    [美 ænˈsestrəl / 英 ænˈsestrəl]
+adj. 祖先的；祖传的
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use ancestral to refer to a person's family in former times, especially when the family is important and has property or land that they have had for a long time. 祖先的
+   ≫   ...the family's ancestral home in southern Germany.  …这一家在德国南部的祖宅。
+
+========================================================================
+>>> ancestral home
+------------------------------------------------------------------------
+ancestral home
+祖居：指一个家族的起源地，特别是由同一家族拥有并保留了几代人的家。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I'm a Leo.My ancestral home is in Sichuan. “我1977年出生，狮子座，老家在四川”。
+≫   Why should we leave our ancestral home? We should return; nothing will happen to us! 我们应该回去，不会有事的！
+≫   It's time for him to cancel the tour and reconnect with his ancestral home in Greece. 现在，应该是他取消那些售书活动，并与他祖先居住的希腊重新取得联系的时候了。
+
+========================================================================
+>>> welfare
+------------------------------------------------------------------------
+welfare    [美 ˈwelfer / 英 ˈwelfeə(r)]
+n. 幸福，安康；福利救济，社会福利；（给失业者和穷人的）福利救济金
+adj. 福利的；接受社会救济的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The welfare of a person or group is their health, comfort, and happiness. 健康; 幸福; 福利
+   ≫   I do not think he is considering Emma's welfare.  我认为他没有考虑到艾玛的幸福。
+2. (ADJ) Welfare services are provided to help with people's living conditions and financial problems. 福利的
+   ≫   Child welfare services are well established and comprehensive.  儿童福利机构发展成熟、体系完善。
+3. (N-UNCOUNT) Welfare is money that is paid by the government to people who are unemployed, poor, or sick. 社会保障金
+   ≫   States such as Michigan are making deep cuts in welfare.  密西根等州正在大幅度削减社会保障金。
+
+========================================================================
+>>> social welfare
+------------------------------------------------------------------------
+social welfare
+社会福利：为帮助弱势群体而组织的公共或私人社会服务，特别是社会工作。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the various social services provided by a state for the benefit of its citizens 社会福利
+
+========================================================================
+>>> social security
+------------------------------------------------------------------------
+social security    [英 ˌsəʊʃl sɪˈkjʊərəti]
+社会保险，社会保障
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Social Security is a system by which workers and employers in the U.S. have to pay money to the government, which gives money to people who are retired, who are disabled, or who cannot work. 社会保障制度
+   ≫   My mother never worked, so she's not eligible for Social Security.  我母亲从未工作过，因此她不符合社会保险资格。
+   ≫   Future retirees are expected to get smaller Social Security benefits than promised.  预计未来的退休者领取到的社会保险金要比许诺的少。
+
+========================================================================
+>>> pension
+------------------------------------------------------------------------
+pension    [美 ˈpenʃən / 英 ˈpenʃ(ə)n]
+n. 养老金，退休金；（法国和其他一些欧洲国家的）廉价小旅店；<史>（给皇室宠臣、艺术家或学者以便他们能从事公益工作的）津贴，补助金
+v. （尤指因年龄或疾病而）向（某人）支付养老金使其退休；（因陈旧或不再有用而）丢弃（某物）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone who has a pension receives a regular sum of money from a former employer because they have retired or because they are widowed or disabled. 养老金; 抚恤金
+   ≫   ...struggling by on a pension.  …靠养老金艰难度日。
+2. (V) to grant a pension to 给予…养老金
+3. (N) in France and some other countries a relatively cheap boarding house 廉租屋
+
+========================================================================
+>>> retirement fund
+------------------------------------------------------------------------
+retirement fund    [英 rɪˈtaɪəmənt fʌnd]
+退休基金：一种为退休而设立的投资基金，旨在为退休后的生活提供资金支持。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A retirement fund is a special fund which people pay money into so that, when they retire from their job, they will receive money regularly as a pension. 退休基金 [美国英语]
+
+========================================================================
+>>> health insurance
+------------------------------------------------------------------------
+health insurance
+健康保险：为保障被保险人因疾病而遭受的损失而购买的保险，尤其是提供医疗费用赔偿的保险。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The fringe benefits include free health insurance. 附加福利包括免费健康保险。《牛津词典》
+≫   Perks offered by the firm include a car and free health insurance. 公司给予的额外待遇包括一辆汽车和免费健康保险。《牛津词典》
+≫   Some workers are legally employed, but the majority work unofficially with neither health insurance nor wage security. 一些工人合法受雇用，但大多数人是非正式的，既没有健康保险，也没有工资保障。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> maternity insurance
+------------------------------------------------------------------------
+maternity insurance
+产妇保险：一种保险政策，旨在为孕妇和新生儿提供医疗保障和经济支持。它通常包括产前检查、分娩费用、产后护理和婴儿医疗费用等方面的保险覆盖。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A total of 91.81 million people participated in maternity insurance programs, an increase of 14.06 million. 参加生育保险的人数9181万人，增加1406万人。
+≫   Maternity insurance benefits generally include maternity benefits, medical expenses, maternity benefits and maternity leave. 生育保险待遇普通包罗生育津贴、医疗费用、生育津贴和生育休假。
+≫   Objective: to study the influencing factors of specific disease in the maternity insurance and to give the evidence for payment system according to specific disease. 目的：研究生育保险病种费用影响因素，为生育保险按病种付费提供依据。
+
+========================================================================
+>>> maternity
+------------------------------------------------------------------------
+maternity    [美 məˈtɜːrnəti / 英 məˈtɜːnəti]
+n. 母性，母亲身份；妇产科
+adj. 怀孕的，产妇的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Maternity is used to describe things relating to the help and medical care given to a woman when she is pregnant and when she gives birth. 孕妇的; 产妇的 [ADJ n]
+   ≫   Your job will be kept open for your return after maternity leave.  你的工作会一直保留到你休完产假回来。
+
+========================================================================
+>>> provident
+------------------------------------------------------------------------
+provident    [美 ˈprɑːvɪdənt / 英 ˈprɒvɪdənt]
+adj. 节俭的；有先见之明的；顾及未来的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) providing for future needs 满足未来需求的; 公积的
+
+========================================================================
+>>> guarantee
+------------------------------------------------------------------------
+guarantee    [美 ˌɡærənˈtiː / 英 ˌɡærənˈtiː]
+v. 确保，保证；担保，为……作保；保修，包换
+n. 保证，担保；保修单，质量保证书；担保金，抵押品
+★★★★ CET4 TEM4 guaranteeing,guaranteed,guarantees
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing guarantees another, the first is certain to cause the second thing to happen. 确保
+   ≫   Surplus resources alone do not guarantee growth.  仅有富足的资源并不能确保发展。
+2. (N-COUNT) Something that is a guarantee of something else makes it certain that it will happen or that it is true. 保证
+   ≫   A famous old name on a firm is not necessarily a guarantee of quality.  公司的老字号并不一定能保证质量。
+3. (V-T) If you guarantee something, you promise that it will definitely happen, or that you will do or provide it for someone. 保证…必定发生; 保证…做某事或提供某物
+   ≫   Most states guarantee the right to free and adequate education.  大多数州都保证免费和适当教育的权利。
+   ≫   We guarantee that you will find a community with which to socialize.  我们保证你将找到一个可以社交的团体。
+4. (N-COUNT) Guarantee is also a noun. 保证
+   ≫   The editors can give no guarantee that they will fulfil their obligations.  这些编辑不能保证他们将履行职责。
+5. (N-COUNT) A guarantee is a written promise by a company to replace or repair a product free of charge if it has any faults within a particular time. 保修单 [also 'under' N]
+   ≫   Whatever a guarantee says, when something goes wrong, you can still claim your rights from the shop.  不管保修单上怎么说，当产品出现故障时，你仍然可以去商店维护自身的权益。
+6. (V-T) If a company guarantees its product or work, they provide a guarantee for it. 担保
+   ≫   Some builders guarantee their work.  一些建筑商为他们的工作担保。
+   ≫   All Dreamland's electric blankets are guaranteed for three years.  所有“梦乡”牌的电热毯都保质3年。
+7. (N-COUNT) A guarantee is money or something valuable that you give to someone to show that you will do what you have promised. 担保物
+   ≫   Males between 18 and 20 had to leave a deposit as a guarantee of returning to do their military service.  18岁至20岁的男性必须留下押金作为回来服兵役的担保。
+
+========================================================================
+>>> allowance
+------------------------------------------------------------------------
+allowance    [美 əˈlaʊəns / 英 əˈlaʊəns]
+n. 津贴，补助；限额，定量；折价，折扣；免税额；<美>零花钱；考虑到的事情；体谅，原谅；允许，认可；（赛马）减载量
+v. 为（某人）提供津贴；定量供应（物品）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An allowance is money that is given to someone, usually on a regular basis, in order to help them pay for the things that they need. 补贴
+   ≫   She gets an allowance for taking care of Amy.  她照顾艾米是有津贴的。
+2. (N-COUNT) [美国英语] →see pocket money
+3. (N-COUNT) A particular type of allowance is an amount of something that you are allowed in particular circumstances. 限额
+   ≫   Most of our flights have a baggage allowance of 44 lbs per passenger.  我们大多数航班的行李限量是每位乘客44磅。
+4. (N-COUNT) Your tax allowance is the amount of money that you are allowed to earn before you have to start paying income tax. 免税额 [英国英语]
+   ≫   Changes for this year include an increase in the tax allowance.  今年的变化是免税额的增加。
+   ≫   Income taxes skyrocketed and tax allowances were lowered.  所得税急剧上升而免税额却下降了。
+5. (PHRASE) If you make allowances for something, you take it into account in your decisions, plans, or actions. 考虑到某事
+   ≫   They'll make allowances for the fact it's affecting our performance.  他们会将影响我们表现的因素考虑进去的。
+   ≫   She tried to make allowances for his age.  她已经尽力考虑到他的年龄了。
+6. (PHRASE) If you make allowances for someone, you accept behaviour from them that you would not normally accept, because of a problem that they have. 体谅某人
+   ≫   He's tired so I'll make allowances for him.  他累了，所以我会体谅他的。
+
+========================================================================
+>>> elderly
+------------------------------------------------------------------------
+elderly    [英 ˈeldəli / 美 ˈeldərli]
+adj. 上了年纪的；老掉牙的
+n. 老人（the elderly）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use elderly as a polite way of saying that someone is old. 上年纪的 [礼貌]
+   ≫   There was an elderly couple on the terrace.  露台上有一对上年纪的老人。
+2. (N-PLURAL) The elderly are people who are old. 老年人
+   ≫   The elderly are a formidable force in any election.  老年人在任何选举中都是一股强大的力量。
+
+========================================================================
+>>> elderly care
+------------------------------------------------------------------------
+elderly care
+老年人护理：指对老年人进行的身体和心理护理。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Purpose: Assistance and elderly care. 用途：助手和老年人看护。
+≫   The technology will be useful in a wide variety of case types ("including chronic disease management, health and wellness, and elderly care"), in the US and around the world. 该技术将在美国以及世界各地的广泛病例中起到重要作用（“包括慢性疾病控制，健康长寿以及老年人健康保障”）。
+≫   More than 90% of Australians living in elderly care facilities are believed to suffer from incontinence, which requires staff to carry out frequent manual checks throughout the day. 目前超过90%住在养老院的澳大利亚人都有失禁问题，员工每天必须多次亲手为他们检查。
+
+========================================================================
+>>> nursing home
+------------------------------------------------------------------------
+nursing home    [英 ˈnɜːsɪŋ həʊm]
+养老院：指照顾和治疗非常年老的病人的地方。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A nursing home is a residence for old or sick people. 养老院; 疗养院
+   ≫   Isaac Binger has died in a nursing home in Florida at the age of 87.  艾萨克·班热在佛罗里达的一家养老院里去世了，享年87岁。
+
+========================================================================
+>>> nursing
+------------------------------------------------------------------------
+nursing    [美 ˈnɜːrsɪŋ / 英 ˈnɜːsɪŋ]
+n. 护理；看护；养育
+v. 看护；养育（nurse 的 ing 形式）
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Nursing is the profession of caring for people who are ill. 护理工作
+   ≫   She had no aptitude for nursing.  她没有从事护理工作的能力。
+
+========================================================================
+>>> orphanage
+------------------------------------------------------------------------
+orphanage    [美 ˈɔːrfənɪdʒ / 英 ˈɔːfənɪdʒ]
+n. 孤儿院；<古>孤儿身份，孤儿状态
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An orphanage is a place where orphans live and are cared for. 孤儿院
+
+========================================================================
+>>> taxation
+------------------------------------------------------------------------
+taxation    [美 tækˈseɪʃn / 英 tækˈseɪʃn]
+n. 征税，税制；税款
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Taxation is the system by which a government takes money from people and spends it on things such as education, health, and defence. 税制 [商业]
+   ≫   ...the proposed reforms to taxation.  …拟议的税制改革。
+2. (N-UNCOUNT) Taxation is the amount of money that people have to pay in taxes. 税额 [商业]
+   ≫   The result will be higher taxation.  结果将是更高的税额。
+
+========================================================================
+>>> VAT
+------------------------------------------------------------------------
+vat    [美 væt / 英 væt]
+n. 大桶，大盆；瓮染料，还原式染料；（VAT）增值税（英国和欧盟附加在商品价格和服务费率上的税）
+v. 放入大缸中（处理）
+【名】 （Vat）（乌克兰、美）瓦（人名）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vat is a large barrel or tank in which liquids can be stored. 大桶; 缸
+
+========================================================================
+>>> value-added tax
+------------------------------------------------------------------------
+value-added tax    [美 ˌvæljuː ˈædɪd tæks / 英 ˌvæljuː ˌædɪd ˈtæks]
+增值税：根据原材料加工或商品生产和分销的每个阶段增加的价值征收的一种税收，通常对最终消费者产生销售税的影响。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → (in britain) the full name for VAT
+
+========================================================================
+>>> capital gains
+------------------------------------------------------------------------
+capital gains    [美 ˌkæpɪtl ˈɡeɪnz / 英 ˌkæpɪt(ə)l ˈɡeɪnz]
+资本收益：指投资资产升值所获得的收益。
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) Capital gains are the profits that you make when you buy something and then sell it again at a higher price. 资本收益 [商业]
+   ≫   He called for the reform of capital gains tax.  他呼吁改革资本收益税。
+
+========================================================================
+>>> income tax
+------------------------------------------------------------------------
+income tax    [美 ˈɪnkʌm tæks; ˈɪnkəm tæks]
+所得税：对个人或企业的净收入征收的一种税。
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Income tax is a part of your income that you have to pay regularly to the government. 所得税 [商业]
+   ≫   You pay income tax on all your earnings, not just your salary.  你所有的收入都得交所得税，不仅仅是工资。
+
+========================================================================
+>>> property tax
+------------------------------------------------------------------------
+property tax
+财产税：对房地产或个人财产征收的一种税款。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A property tax is a tax that you pay on property you own. 财产税 [美国英语]
+   ≫   We've got the highest property taxes in the United States.  在美国我们的财产税最高。
+   ≫   ...the abolition of property tax.  ...财产税的废除。
+
+========================================================================
+>>> inheritance
+------------------------------------------------------------------------
+inheritance    [美 ɪnˈherɪtəns / 英 ɪnˈherɪtəns]
+n. 继承物，遗产；遗传特征
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An inheritance is money or property that you receive from someone who has died. 继承物; 遗产
+   ≫   She feared losing her inheritance to her stepmother.  她担心她的遗产会落到继母的手里。
+2. (N-COUNT) If you get something such as a job, problem, or attitude from someone who used to have it, you can refer to this as an inheritance. 转接物; 沿袭物
+   ≫   ...starvation and disease over much of Europe and Asia, which was Truman's inheritance as president.  …在欧亚大部分地区肆虐的饥馑和疾病，这是杜鲁门接任总统时面临的状况。
+3. (N-SING) Your inheritance is the particular characteristics or qualities that your family or ancestors had and that you are born with. 遗传特征
+   ≫   Eye colour shows more than your genetic inheritance.  眼睛的颜色显示的不只是你基因的遗传特征。
+
+========================================================================
+>>> inheritance tax
+------------------------------------------------------------------------
+inheritance tax    [美 ɪnˈherɪtəns tæks / 英 ɪnˈherɪtəns tæks]
+遗产税：在遗产传承给继承人后征收的对遗产净值的税款。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An inheritance tax is a tax paid on the money and property of someone who has died. 遗产税
+
+========================================================================
+>>> gift tax
+------------------------------------------------------------------------
+gift tax    [美 ɡɪft tæks]
+赠予税：一种对个人之间赠予财产征收的税收，通常是根据赠予财产的价值来计算的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → another name for (the former) capital transfer tax
+
+========================================================================
+>>> deduction
+------------------------------------------------------------------------
+deduction    [美 dɪˈdʌkʃ(ə)n / 英 dɪˈdʌkʃn]
+n. 演绎，推论；扣除，扣除额
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A deduction is an amount that has been subtracted from a total. 扣除额
+   ≫   Most homeowners can get a federal income tax deduction on interest payments to a home equity loan.  在支付房屋净值贷款利息方面，大多数房主可以享受联邦所得税减免待遇。
+2. (N-COUNT) A deduction is a conclusion that you have reached about something because of other things that you know to be true. 推演出来的结论
+   ≫   It was a pretty astute deduction.  那是个非常精明的结论。
+3. (N-UNCOUNT) Deduction is the process of reaching a conclusion about something because of other things that you know to be true. 演绎; 推论
+   ≫   Miss Allan beamed at him. "You are clever to guess. I'm sure I don't know how you did it."—"Deduction," James said.  阿伦小姐对他笑道：“你很会猜， 我确实不知道你怎么办到的。”——杰姆斯说：“推论。”
+
+========================================================================
+>>> exemption
+------------------------------------------------------------------------
+exemption    [美 ɪɡˈzempʃn / 英 ɪɡˈzempʃn]
+n. 免除，豁免；免税，免税额
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She was given exemption from the final examination. 她已获准期末免试。《牛津词典》
+≫   Seventeen states allow parents to get an exemption. 有17个州允许家长免接种疫苗。
+≫   Seventeen states allow parents to get an exemption, sometimes just by signing a paper saying they personally object to a vaccine. 17个州允许父母获得豁免，有时他们只需要签署一份文件，以此声明他们反对接种疫苗。
+
+========================================================================
+>>> tax refund
+------------------------------------------------------------------------
+tax refund    [美 tæks ˈriːfʌnd]
+税款退还：退还超过实际应缴税款的金额。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It will come as a rude shock when their salary or income-tax refund cannot be cashed. 如果他们的薪水或所得税返还不能兑现，那对他们将是一个晴天霹雳。《柯林斯英汉双解大词典》
+≫   For price mechanism, it includes the grasp of the tax refund policy. 在价格机制方面，包括对出口退税政策的把握问题。
+≫   Taxpayer: Can you tell me which department is in charge of tax refund? 纳税人：请问哪个部门负责退税？
+
+========================================================================
+>>> tax return
+------------------------------------------------------------------------
+tax return    [英 ˈtæks rɪtɜːn]
+纳税申报：一个人向政府报告他或她在一年内所赚取的钱和所缴纳的税款的报告。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tax return is an official form that you fill in with details about your income and personal situation, so that the tax you owe can be calculated. 纳税申报表 [商业]
+
+========================================================================
+>>> refund
+------------------------------------------------------------------------
+refund    [美 ˈriːfʌnd / 英 ˈriːfʌnd]
+n. 退款，偿还金额
+v. 退还（钱款）；退款给，还钱给（某人）
+★★ CET6 refunding,refunded,refunds
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A refund is a sum of money that is returned to you, for example because you have paid too much or because you have returned goods to a shop. 退款
+   ≫   Face it – you'll just have to take those cowboy boots back and ask for a refund.  面对现实吧–你不过是要把那些牛仔靴拿回去，要求退款。
+2. (V-T) If someone refunds your money, they return it to you, for example because you have paid too much or because you have returned goods to a shop. 退还
+   ≫   We guarantee to refund your money if you're not delighted with your purchase.  如果你对购买的商品不满意，我们保证退款。
+
+========================================================================
+>>> conscription
+------------------------------------------------------------------------
+conscription    [美 kənˈskrɪpʃ(ə)n / 英 kənˈskrɪpʃ(ə)n]
+n. 征兵；征兵制度；征用
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Conscription is officially making people in a particular country join the armed forces. 征召入伍 [正式]
+   ≫   All adult males will be liable for conscription.  所有成年男子都将有义务服兵役。
+
+========================================================================
+>>> reserve
+------------------------------------------------------------------------
+reserve    [英 rɪˈzɜːv / 美 rɪˈzɜːrv]
+v. 预订；保留，预留；拥有，保留（某种权利）；留作，用于（特定场合）；保留（意见），推迟作出（决定或判断）；贮存，贮藏；（教会用语）弥撒仪式后保留部分圣餐
+n. 储备（量），储藏（量）；含蓄，寡言；保留意见，异议；（野生生物）保护区；替补队员，后备队员；后备队，替补队（the reserves）；预备役部队，后备部队；（尤指拍卖时的）底价，最低价；（美洲土著居民的）居留地；（陶瓷装饰或纺织品印染中保留原色的）防染本色区；（陶瓷装饰或纺织品印染中保留原色的）防染本色区
+【名】 （Reserve）（挪、美、法、俄、墨）勒塞尔夫（人名）
+★★★★ CET4 TEM4 reserving,reserved,reserves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something is reserved for a particular person or purpose, it is kept specially for that person or purpose. 预留 [usu passive]
+   ≫   A double room with a balcony overlooking the sea had been reserved for him.  一个带一座阳台的海景双人间已被预留给他了。
+2. (V-T) If you reserve something such as a table, ticket, or magazine, you arrange for it to be kept specially for you, rather than sold or given to someone else. 预订
+   ≫   I'll reserve a table for five.  我要预订一个5人的餐位。
+3. (N-COUNT) A reserve is a supply of something that is available for use when it is needed. 储备
+   ≫   The Persian Gulf has 65 percent of the world's oil reserves.  波斯湾拥有全世界石油储备的65%。
+4. (N-COUNT) A nature reserve is an area of land where the animals, birds, and plants are officially protected. 保护区 [英国英语]
+5. (N-UNCOUNT) If someone shows reserve, they keep their feelings hidden. 矜持
+   ≫   I hope that you'll overcome your reserve and let me know.  我希望你能克服矜持，让我知道。
+6. (PHRASE) If you have something in reserve, you have it available for use when it is needed. 保留备用
+   ≫   He poked around the top of his cabinet for the bottle of whisky that he kept in reserve.  他在壁橱的上面翻找他留的那瓶威士忌。
+
+========================================================================
+>>> reserve force
+------------------------------------------------------------------------
+reserve force
+预备役部队：指在和平时期由一国政府组织和管理的一支备用军队，通常用于在紧急情况下增强正规军队的力量。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The middle school has advantage of training and sending the reserve force of sports. 中学有培养和输送体育后备力量的优势。
+≫   But one sports want prosperous forever, a main one to see whether its reserve force is rich. 但是一个运动项目要想长盛不衰，最主要的是看其后备力量是否雄厚。
+≫   Residents are the new and reserve force of medical teaching and research work in teaching hospitals. 住院医师是教学医院医教研等各项工作的生力军、后备力量。
+
+========================================================================
+>>> veteran
+------------------------------------------------------------------------
+veteran    [美 ˈvetərən / 英 ˈvetərən]
+n. 老兵，退伍军人；经验丰富的人，老手
+adj. 经验丰富的，老练的；<英>古老的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A veteran is someone who has served in the armed forces of their country, especially during a war. 退伍军人
+   ≫   They approved a $1.1 billion package of pay increases for the veterans of the Persian Gulf War.  他们批准了为参加过波斯湾战争的退伍军人增付11亿美元的一揽子计划。
+2. (N-COUNT) You use veteran to refer to someone who has been involved in a particular activity for a long time. 经验丰富的人
+   ≫   ...Annette Michelson, the veteran critic and professor of cinema studies at New York University.  …安妮特·米切尔森，这位纽约大学电影研究的教授和资深影评人。
+
+========================================================================
+>>> kinship
+------------------------------------------------------------------------
+kinship    [美 ˈkɪnʃɪp / 英 ˈkɪnʃɪp]
+n. 亲属关系，家属关系；亲切感，亲近感；共同特征，共同起源
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Kinship is the relationship between members of the same family. 亲属关系
+   ≫   The ties of kinship may have helped the young man find his way in life.  亲情可能帮这个年轻人找到了生活的方向。
+2. (N-UNCOUNT) If you feel kinship with someone, you feel close to them, because you have a similar background or similar feelings or ideas. 亲切感
+   ≫   She evidently felt a sense of kinship with the woman.  她明显地感到对这个女人有一种亲切感。
+
+========================================================================
+>>> immediate family
+------------------------------------------------------------------------
+immediate family    [美 ɪˈmiːdiət ˈfæməli]
+直系亲属：一个人的父母、兄弟姐妹、配偶和子女。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He has contempt for those beyond his immediate family circle. 他对自己直系亲属以外的人都心怀蔑视。《柯林斯英汉双解大词典》
+≫   The presence of his immediate family is obviously having a calming effect on him. 他直系亲属的到场显然对他产生了镇定的效果。《柯林斯英汉双解大词典》
+≫   In practice, the agency system has decayed. Most "agents" now sell only to themselves or their immediate family. 实际上，这种代理制已经衰退。现在，大多数“代理人”都只把产品卖给自己或亲近的家人。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> extended family
+------------------------------------------------------------------------
+extended family    [美 ɪkˈstendɪd ˈfæməli / 英 ɪkˌstendɪd ˈfæməli]
+大家庭：除了核心家庭成员之外，还包括近亲在同一住所的家庭，或者由血缘或婚姻关系联系在一起的广泛人群。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An extended family is a family group that includes relatives such as uncles, aunts, and grandparents, as well as parents, children, and brothers and sisters. 大家庭
+   ≫   The pregnant woman in such a community has the support of all the womenfolk in her extended family.  这位在这样一个社区里的孕妇拥有她那大家庭中所有女性的支持。
+
+========================================================================
+>>> parent
+------------------------------------------------------------------------
+parent    [美 ˈperənt / 英 ˈpeərənt]
+n. 父亲（或母亲）；（动植物的）亲代，亲本；母公司，总公司；母体，本体
+v. 做……的父亲（或母亲）；为人父母
+【名】 （Parent）（英、西）帕伦特，（法）帕朗（人名）
+★★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your parents are your mother and father. 父母亲
+   ≫   Children need their parents.  孩子们需要父母。
+   ≫   This is where a lot of parents go wrong.  正是在这一点上许多父母都错了。
+2. (ADJ) An organization's parent organization is the organization that created it and usually still controls it. 创始的 (组织); 母 (公司) [ADJ n]
+   ≫   Each unit including the parent company has its own, local management.  每家单位，包括母公司，都有自己的地方管理层。
+
+========================================================================
+>>> sibling
+------------------------------------------------------------------------
+sibling    [美 ˈsɪblɪŋ / 英 ˈsɪblɪŋ]
+n. <正式>兄弟姐妹
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your siblings are your brothers and sisters. 兄弟姐妹 [正式]
+   ≫   His siblings are in their twenties.  他的兄弟姐妹都是20来岁。
+
+========================================================================
+>>> niece
+------------------------------------------------------------------------
+niece    [美 niːs / 英 niːs]
+n. 外甥女，侄女
+【名】 （Niece）（英）尼斯（人名）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone's niece is the daughter of their sister or brother. 侄女; 外甥女
+   ≫   ...his niece, the daughter of his eldest sister.  …他的外甥女，他大姐的女儿。
+
+========================================================================
+>>> nephew
+------------------------------------------------------------------------
+nephew    [美 ˈnefjuː / 英 ˈnefjuː]
+n. 侄子，外甥
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone's nephew is the son of their sister or brother. 侄子; 外甥
+   ≫   I am planning a 25th birthday party for my nephew.  我正在为侄子筹划他25岁的生日聚会。
+
+========================================================================
+>>> spouse
+------------------------------------------------------------------------
+spouse    [美 spaʊs / 英 spaʊs]
+n. 配偶
+v. 和……结婚
+【名】 （Spouse）斯波斯（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Someone's spouse is the person they are married to. 配偶
+   ≫   You, or your spouse, must be at least 60 to participate.  你或你的配偶至少要有60岁才能加入。
+
+========================================================================
+>>> divorce
+------------------------------------------------------------------------
+divorce    [美 dɪˈvɔːrs / 英 dɪˈvɔːs]
+n. 离婚；离婚判决；分开，脱离
+v. 与（某人）离婚；使分离，割裂
+★★★ CET4 TEM4 divorcing,divorced,divorces
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A divorce is the formal ending of a marriage by law. 离婚
+   ≫   Numerous marriages now end in divorce.  现在许多婚姻都以离婚而告终。
+2. (V-RECIP) If a man and woman divorce or if one of them divorces the other, their marriage is legally ended. 离婚
+   ≫   He and Lillian had got divorced.  他和莉莲离婚了。
+   ≫   I am absolutely furious that he divorced me to marry her.  我实在很生气他和我离婚娶了她。
+3. (N-SING) A divorce of one thing from another, or a divorce between two things is a separation between them which is permanent or is likely to be permanent. 分离; 脱离
+   ≫   ...this divorce of Christian culture from the roots of faith.  …基督教文化与信仰根源的分离。
+4. (V-T) If you say that one thing cannot be divorced from another, you mean that the two things cannot be considered as different and separate things. 使分离; 使脱离
+   ≫   Good management in the police cannot be divorced from accountability.  警政的良好管理离不开问责制。
+   ≫   Democracy cannot be divorced from social and economic progress.  民主离不开社会和经济的进步。
+
+========================================================================
+>>> adoption
+------------------------------------------------------------------------
+adoption    [美 əˈdɑːpʃ(ə)n / 英 əˈdɒpʃn]
+n. 采用，接受；<英>推选；正式通过；选择；收养，领养
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She put the baby up for adoption. 她提出要让人收养那个婴儿。《牛津词典》
+≫   They gave their babies up for adoption. 他们放弃了自己的婴儿让别人收养。《柯林斯英汉双解大词典》
+≫   Adoption can fail for all kinds of reasons. 收养可能因为各种各样的原因失败。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> foster parent
+------------------------------------------------------------------------
+foster parent
+寄养父母：一位临时担任孩子的父母角色的人，这个孩子可能因为失去父母的照顾或被移出父母的照顾而需要临时照顾。这个人不是孩子的亲生父母，通常是经过政府或社会服务机构培训和批准的。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In the world of animals in nature, the young may not be so lucky or easy to find a foster parent if their parents die or lose the ability to raise them. 在大自然的动物世界中，如果幼崽的父母死亡或失去了抚养的能力，幼崽们可能不会那么幸运或轻易地找到养父母。
+≫   It might be possible for a single woman to be accepted as a foster parent. 有可能接受单身女子做养母。《柯林斯英汉双解大词典》
+≫   Today's families may include both the biological mother and father or a single parent or guardian, grandparents or other extended family, same-gender parents, or foster parents. 今天的家庭可能包括亲生父母，或者是单亲或监护人，以及祖父母或其他延伸的家庭成员，甚至是同性父母或者养父母。
+
+========================================================================
+>>> guardianship
+------------------------------------------------------------------------
+guardianship    [英 ˈɡɑːdiənʃɪp / 美 ˈɡɑːrdiənʃɪp]
+n. 监护；监护人的责任
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Guardianship is the position of being a guardian. 监护权 [usu with poss]
+   ≫   ...depriving mothers of the guardianship of their children.  ...剥夺母亲们对她们子女的监护权。
+
+========================================================================
+>>> dependent
+------------------------------------------------------------------------
+dependent    [英 dɪˈpendənt / 美 dɪˈpendənt]
+adj. 依赖的，依靠的；取决于；有瘾的
+n. 受供养者
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) To be dependent on something or someone means to need them in order to succeed or be able to survive. 依靠的
+   ≫   The local economy is overwhelmingly dependent on oil and gas extraction.  当地经济严重依赖石油和天然气提炼。
+2. (ADJ) If one thing is dependent on another, the first thing will be affected or determined by the second. 取决于…的 [v-link ADJ 'on/upon' n]
+   ≫   ...companies whose earnings are largely dependent on the performance of the Chinese economy.  …盈利很大程度上取决于中国经济表现的公司。
+3. (N-COUNT) Dependent is the same as . 同dependant [美国英语]
+
+========================================================================
+>>> caregiver
+------------------------------------------------------------------------
+caregiver    [美 ˈkerɡɪvər / 英 ˈkeəɡɪvə(r)]
+n. 照料者，护理者；看护者；看护者，护理员（同carer）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A caregiver is the same as a . 看护者 [美国英语]
+
+========================================================================
+>>> census
+------------------------------------------------------------------------
+census    [美 ˈsensəs / 英 ˈsensəs]
+n. （官方的）统计，人口普查
+v. 对……进行人口调查；统计……的数目
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A census is an official survey of the population of a country that is carried out in order to find out how many people live there and to obtain details of such things as people's ages and jobs. 人口普查
+   ≫   The detailed assessment of the latest census will be ready in three months.  有关最新人口普查的详细评估工作将在3个月内就绪。
+
+========================================================================
+>>> population census
+------------------------------------------------------------------------
+population census
+人口普查：对一个国家或地区的人口数量、结构、分布等进行全面、系统、准确的调查和统计的工作。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   At the same time of population census, the age structure of wintering common cranes had also been examined. 在进行种群数量调查的同时，还对越冬灰鹤种群的年龄结构进行了探讨。
+≫   Wednesday’s population census, the first for 10 years, shows both the soundness and the flaws in their reasoning. 周三公布的十年一次的的人口普查结果, 显示了他们这一逻辑的合理性与缺陷.
+≫   The results of a decennial population census by the National Bureau of Statistics in 2010 shows they might be right. 国家统计局在2010年进行的10年一次的人口普查结果表明，他们的话或许是对的。
+
+========================================================================
+>>> demographic
+------------------------------------------------------------------------
+demographic    [美 ˌdeməˈɡræfɪk / 英 ˌdeməˈɡræfɪk]
+adj. 人口的，人口统计的
+n. （具有某种特征的）群体；人口统计数据
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) The demographics of a place or society are the statistics relating to the people who live there. 人口统计数据
+   ≫   ...the changing demographics of the United States.  …变化的美国人口统计数据。
+2. (N-SING) In business, a demographic is a group of people in a society, especially people in a particular age group. 特定年龄段的人口 [商业]
+   ≫   The station has won more listeners in the 25-39 demographic.  这个电台吸引了更多25-39岁年龄段的听众。
+
+========================================================================
+>>> demographics
+------------------------------------------------------------------------
+demographics    [美 ˌdeməˈɡræfɪks; ˌdɪməˈɡræfɪks / 英 ˌdeməˈɡræfɪks]
+n. 人口统计资料
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Ultimately, you can't fight demographics. 最终，你无法抗拒人口统计数据。
+≫   Demographics darken Japan's prospects further. 人口统计资料使日本的前途更加暗淡。
+≫   Demographics and growth prospects will also matter. 人口和经济增长前景也与此密切相关。
+
+========================================================================
+>>> urban
+------------------------------------------------------------------------
+urban    [美 ˈɜːrbən / 英 ˈɜːbən]
+adj. 城市的，城镇的；黑人音乐的；住在都市的
+【名】 （Urban）（英）厄本，（法）于尔邦（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Urban means belonging to, or relating to, a city or town. 城市的
+   ≫   For a small state it has a large urban population.  作为一个小州，其城市人口算是很多了。
+   ≫   Most urban areas are close to a park.  大多数城区都靠近公园。
+
+========================================================================
+>>> urbanization
+------------------------------------------------------------------------
+urbanization    [美 ˌɜːrbənəˈzeɪʃ(ə)n / 英 ˌɜːbənaɪˈzeɪʃ(ə)n]
+n. 城市化，都市化
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Urbanization is the process of creating cities or towns in country areas. 城市化
+
+========================================================================
+>>> rural
+------------------------------------------------------------------------
+rural    [美 ˈrʊrəl / 英 ˈrʊərəl]
+adj. 农村的，乡村的；有乡村特色的，有乡土气息的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Rural places are far away from large towns or cities. 乡村的
+   ≫   These plants have a tendency to grow in the more rural areas.  这些植物倾向于生长在更偏远的乡村地区。
+2. (ADJ) Rural means having features which are typical of areas that are far away from large towns or cities. 有乡村特色的 [ADJ n]
+   ≫   ...the old rural way of life.  …古老的乡村生活方式。
+
+========================================================================
+>>> enterprise
+------------------------------------------------------------------------
+enterprise    [英 ˈentəpraɪz / 美 ˈentərpraɪz]
+n. 企业，事业单位；事业心，进取心；事业；创业，企业经营
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An enterprise is a company or business. 公司; 企业 [商业]
+   ≫   There are plenty of small industrial enterprises.  有很多小型的工业企业。
+2. (N-COUNT) An enterprise is something new, difficult, or important that you do or try to do. 事业
+   ≫   Horse breeding is indeed a risky enterprise.  养马的确是一项有风险的事业。
+3. (N-UNCOUNT) Enterprise is the activity of managing companies and businesses and starting new ones. 创业 [商业]
+   ≫   He is still involved in voluntary work promoting local enterprise.  他仍从事志愿工作推动当地创业。
+4. (N-UNCOUNT) Enterprise is the ability to think of new and effective things to do, together with an eagerness to do them. 开创力; 开拓精神 [表赞许]
+   ≫   ...the spirit of enterprise worthy of a free and industrious people.  …与一个自由勤劳的民族相称的开拓精神。
+
+========================================================================
+>>> industrious
+------------------------------------------------------------------------
+industrious    [美 ɪnˈdʌstriəs / 英 ɪnˈdʌstriəs]
+adj. 勤劳的，勤奋的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone as industrious, you mean they work very hard. 勤奋的 [ADV with v]
+   ≫   She was an industrious and willing worker.  她是个勤劳肯干的工人。
+2. (ADV) industriously ADV
+   ≫   Peggy paints industriously all through the summer.  佩吉整个夏天都在勤奋作画。
+
+========================================================================
+>>> willing
+------------------------------------------------------------------------
+willing    [美 ˈwɪlɪŋ / 英 ˈwɪlɪŋ]
+adj. 愿意的，乐意的；乐于相助的，积极肯干的；出于自愿的，志愿的
+v. 希望，想要（某事发生）；凭意志促使……做某事；立遗嘱遗赠（will 的现在分词形式）
+【名】 （Willing）（德、芬、瑞典）维林，（英）威林（人名）
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If someone is willing to do something, they are fairly happy about doing it and will do it if they are asked or required to do it. 乐意的 [v-link ADJ to-inf]
+   ≫   There are, of course, questions which she will not be willing to answer.  当然，有些问题她不乐意回答。
+2. (ADJ) Willing is used to describe someone who does something fairly enthusiastically and because they want to do it rather than because they are forced to do it. 心甘情愿的
+   ≫   Have the party on a Saturday, when you can get your partner and other willing adults to help.  把聚会安排在某个星期六吧，到时你就可以找你的伙伴以及其他愿意相助的人帮忙。
+
+========================================================================
+>>> invoke
+------------------------------------------------------------------------
+invoke    [美 ɪnˈvoʊk / 英 ɪnˈvəʊk]
+v. 行使，实施（法权）；援用，援引（法律）；提及，援引（某人、某理论、实例等作为支持）；提及（某著名人物）；唤起，引起（感情或想象）；（尤指向神灵）祈祷，祈求；用法术召唤（魔鬼）；（计算机）调用，激活
+★ CET6+ TEM8 invoking,invoked,invokes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you invoke a law, you state that you are taking a particular action because that law allows or tells you to. 求助于 (法律)
+   ≫   The judge invoked an international law that protects refugees.  法官援用了一项保护难民的国际法律。
+2. (V-T) If you invoke something such as a principle, a saying, or a famous person, you refer to them in order to support your argument. 援引
+   ≫   ...economists who invoke the principle of "consumer sovereignty" to support their arguments.  …援引“消费者主权”原则来支持自己论点的经济学家们。
+3. (V-T) If something such as a piece of music invokes a feeling or an image, it causes someone to have the feeling or to see the image. Many people consider this use to be incorrect because is the correct word for this. 使人想起
+   ≫   "Appalachian Spring" by Aaron Copland invoked the atmosphere of the wide open spaces of the prairies.  艾伦·科普兰的《阿帕拉契亚的春天》使人想起了那种辽阔草原的氛围。
+
+========================================================================
+>>> interrad
+------------------------------------------------------------------------
+Not found :(
+
