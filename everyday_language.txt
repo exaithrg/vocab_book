@@ -81747,3 +81747,2802 @@ v. 行使，实施（法权）；援用，援引（法律）；提及，援引�
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> mystical
+------------------------------------------------------------------------
+mystical    [美 ˈmɪstɪkl / 英 ˈmɪstɪkl]
+adj. 神秘的；神秘主义的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is mystical involves spiritual powers and influences that most people do not understand. 神秘的; 难以理解的
+   ≫   That was clearly a deep mystical experience.  那显然是一次刻骨铭心的神秘经历。
+
+========================================================================
+>>> innocent
+------------------------------------------------------------------------
+innocent    [美 ˈɪnəs(ə)nt / 英 ˈɪnəs(ə)nt]
+adj. 天真的，幼稚的；清白的，无罪的；无辜受害的；没有恶意的，无冒犯之意的
+n. 天真无邪的人，幼稚的人；无辜的受害者（尤指犯罪或战争的受害者）
+【名】 （Innocent）（英、西）因诺森特，（法）伊诺桑（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If someone is innocent, they did not commit a crime that they have been accused of. 清白的
+   ≫   He was sure that the man was innocent of any crime.  他确信此人是清白无罪的。
+2. (ADJ) If someone is innocent, they have no experience or knowledge of the more complex or unpleasant aspects of life. 阅历浅的; 天真的
+   ≫   They seemed so young and innocent.  他们看上去如此少不更事。
+3. (N-COUNT) An innocent is someone who is innocent. 阅历浅的人; 天真的人
+   ≫   She had always regarded Greg as a hopeless innocent where women were concerned.  她过去一直认为格雷格在关于女人方面是一个不可救药的无知者。
+4. (ADV) innocently ADV 天真地
+   ≫   The baby gurgled innocently on the bed.  那个婴儿在床上天真地咯咯笑。
+5. (ADJ) Innocent people are those who are not involved in a crime or conflict, but are injured or killed as a result of it. 无辜受害的
+   ≫   All those wounded were innocent victims.  所有受伤的人都是无辜的受害者。
+6. (ADJ) An innocent question, remark, or comment is not intended to offend or upset people, even if it does so. 无恶意的
+   ≫   It was probably an innocent question, but Michael got flustered anyway.  那也许是个没有恶意的问题，但迈克尔还是变得紧张不安。
+
+========================================================================
+>>> bouquet
+------------------------------------------------------------------------
+bouquet    [美 buˈkeɪ / 英 buˈkeɪ]
+n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
+【名】 （Bouquet）（英、法）布凯（人名)
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bouquet is a bunch of flowers which is attractively arranged. 花束
+   ≫   The woman carried a bouquet of dried violets.  那个女子拿着一束干紫罗兰花。
+2. (N-VAR) The bouquet of something, especially wine, is the pleasant smell that it has. 芳香
+   ≫   ...a Sicilian wine with a light red colour and a bouquet of cloves.  …一杯浅红色并带着丁香芬芳的西西里酒。
+
+========================================================================
+>>> expiry
+------------------------------------------------------------------------
+expiry    [美 ɪkˈspaɪəri / 英 ɪkˈspaɪəri]
+n. 有效期终止，满期；（一段时间的）结束，终止；死亡，断气；呼气
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The expiry of something such as a contract, deadline, or visa is the time that it comes to an end or stops being valid. 期满 [英国英语]
+   ≫   The United Mine Workers are not on strike today, despite the expiry of their contract at midnight.  联合矿业工会今天没有罢工，尽管他们的合同于午夜期满。
+
+========================================================================
+>>> cloves
+------------------------------------------------------------------------
+cloves    [美 kloʊvz / 英 kləʊvz]
+n. [植][中医]丁香，公丁香（clove 的复数）
+n. （Cloves）人名；（葡）克洛维斯
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Cloves are small dried flower buds which are used as a spice. (用作调料的) 干丁香花苞
+   ≫   ...chicken soup with cloves.  …加入干丁香花苞的鸡汤。
+2. (N-COUNT) a tropical evergreen myrtaceous tree, Syzygium aromaticum, native to the East Indies but cultivated elsewhere, esp Zanzibar 丁子香
+3. (N-COUNT) A clove of garlic is one of the sections of a garlic bulb. 蒜瓣
+4. (V) cleave的过去式 → a past tense of cleave
+
+========================================================================
+>>> olive
+------------------------------------------------------------------------
+olive    [美 ˈɑːlɪv / 英 ˈɒlɪv]
+n. 橄榄；橄榄树；橄榄色，黄绿色；炖牛肉卷；橄榄贝；（剖）橄榄体；（垫在螺母下拧紧以形成密封的）橄榄环
+adj. 橄榄色的，茶青色的；（皮肤）橄榄色的，浅褐色的
+【名】 （Olive）（美）奥利芙（人名）
+★★ CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Olives are small green or black fruits with a bitter taste. Olives are often pressed to make olive oil. 橄榄
+   ≫   ...a pile of black olives.  …一堆黑橄榄。
+2. (N-COUNT) An olive tree or an olive is a tree on which olives grow. 橄榄树
+   ≫   Olives look romantic on a hillside in Provence.  在普罗旺斯的一个山坡上橄榄树看起来很浪漫。
+3. (COLOR) Something that is olive is yellowish-green in colour. 橄榄色的
+   ≫   ...glowing colours such as deep red, olive, saffron and ochre.  …鲜艳颜色，如深红色、橄榄色、橘黄色和赭石色。
+4. (COMB in COLOR) Olive is also a combining form. (用于构成表示颜色的复合词) 橄榄色的
+   ≫   She wore an olive-green T-shirt.  她穿了一件橄榄绿的T恤衫。
+5. (ADJ) If someone has olive skin, the colour of their skin is yellowish brown. (皮肤) 黄褐色的
+   ≫   They are handsome with dark, shining hair, olive skin and fine brown eyes.  他们很帅，有着乌黑闪亮的头发，黄褐色的皮肤，迷人的棕色眼睛。
+
+========================================================================
+>>> oliver
+------------------------------------------------------------------------
+oliver    [美 ˈɑːlɪvər / 英 ˈɒlɪvə]
+n. 奥利弗（男子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She cried when she spoke of Oliver. 她提起奥利弗时哭了。《柯林斯英汉双解大词典》
+≫   They picked up Oliver and carried him shoulder high into the garage. 他们把奥利弗抬了起来，齐肩高地举进了车库。《柯林斯英汉双解大词典》
+≫   When not producing art of his own, Oliver was busy advancing the work of others. 没有创作自己的艺术品时，奥利弗就在忙于促成他人的作品。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> azure
+------------------------------------------------------------------------
+azure    [英 ˈæʒə(r) / 美 ˈæʒər]
+adj. 蔚蓝的，天蓝色的；（纹章）蓝色的
+n. 天蓝色；（文）碧空；琉灰蝶（属）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Azure is used to describe things that are bright blue. 蔚蓝色 [文学性] [usu COLOR n]
+   ≫   ...an azure sky.  ...一片蔚蓝的天空。
+
+========================================================================
+>>> cerulean
+------------------------------------------------------------------------
+cerulean    [英 sɪˈruːliən / 美 sɪˈruːliən]
+adj. 蔚蓝的，天蓝色的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a deep blue colour; azure 蔚蓝色
+2. (N) (as adjective) 蔚蓝色的
+   ≫   a cerulean sea  
+
+========================================================================
+>>> cobalt
+------------------------------------------------------------------------
+cobalt    [美 ˈkoʊbɔːlt / 英 ˈkəʊbɔːlt]
+n. [化学] 钴；钴类颜料；由钴制的深蓝色
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cobalt is a hard, silvery-white metal which is used to harden steel and for producing a blue dye. 钴
+   ≫   ...a country rich in copper, cobalt, and diamonds.  ...一个铜、钴和钻石资源丰富的国家。
+2. (COLOR) Cobalt or cobalt blue is a deep blue colour. 钴蓝色
+   ≫   ...a woman in a soft cobalt blue dress.  ...一个穿着质地柔软的钴蓝色连衣裙的女人。
+
+========================================================================
+>>> indigo
+------------------------------------------------------------------------
+indigo    [美 ˈɪndɪɡoʊ / 英 ˈɪndɪɡəʊ]
+n. 靛蓝色；木蓝属植物；靛蓝染料
+adj. （介于深蓝色和紫色之间）靛蓝色的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is indigo is dark purplish blue in colour. 靛蓝色
+
+========================================================================
+>>> periwinkle
+------------------------------------------------------------------------
+periwinkle    [美 ˈperiwɪŋkl / 英 ˈperiwɪŋkl]
+n. 小长春花；玉黍螺
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Periwinkle is a plant that grows along the ground and has blue flowers. 蔓长春花
+2. (N-COUNT) Periwinkles are small sea snails that can be eaten. 玉黍螺
+
+========================================================================
+>>> winkle
+------------------------------------------------------------------------
+winkle    [美 ˈwɪŋk(ə)l / 英 ˈwɪŋk(ə)l]
+n. 食用螺
+v. 费劲取出，套出（信息等）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Winkles are small sea snails that can be eaten. 食用螺 [英国英语]
+
+========================================================================
+>>> ultramarine
+------------------------------------------------------------------------
+ultramarine    [美 ˌʌltrəməˈriːn / 英 ˌʌltrəməˈriːn]
+n. 深蓝色；天青石做成的蓝色颜料
+adj. 群青色的；海外的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Ultramarine is used to describe things that are very bright blue in colour. 海蓝; 天青
+   ≫   ...an ultramarine sky.  ...湛蓝的天空
+
+========================================================================
+>>> marine
+------------------------------------------------------------------------
+marine    [美 məˈriːn / 英 məˈriːn]
+adj. 海洋的，海产的；海运的，海事的
+n. 水兵，海军陆战队士兵；（一个国家的）船舶
+【名】 （Marine）（英）马林，（西）马里内（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A marine is a member of an armed force, for example the U.S. Marine Corps or the Royal Marines, who is specially trained for military duties at sea as well as on land. 海军陆战队士兵
+   ≫   A small number of Marines were wounded.  几名海军陆战队士兵受了伤。
+2. (ADJ) Marine is used to describe things relating to the sea or to the animals and plants that live in the sea. 海洋的 [ADJ n]
+   ≫   ...breeding grounds for marine life.  …海洋生物的繁殖地。
+3. (ADJ) Marine is used to describe things relating to ships and their movement at sea. 海事的 [ADJ n]
+   ≫   ...a lawyer specializing in marine law.  …一名专攻海事法的律师。
+
+========================================================================
+>>> verdi
+------------------------------------------------------------------------
+verdi    [英 ˈveədi]
+n. （Verdi）威尔第（意大利歌剧作曲家）
+n. （Verdi）（美、意）韦尔季（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Which opera did Verdi write first? 威尔第最早写的是哪一部歌剧？《牛津词典》
+≫   If it did, it would be a bit like Italy consigning Verdi to a few small halls in Milan and Rome. 如果真成了那样，就有点像意大利将威尔第的歌剧放到米兰和罗马的小剧场里上演的意味。
+≫   He welcomed Jewish performers to Bayreuth, and enjoyed the tuneful, popular music of Verdi and Donizetti. 他欢迎犹太人到拜罗伊特演出，喜欢威尔第和多尼采蒂旋律优美的音乐。
+
+========================================================================
+>>> verdigris
+------------------------------------------------------------------------
+verdigris    [美 ˈvɜːrdɪɡriːˌˈvɜːrdɪɡriːs / 英 ˈvɜːdɪɡriː; ˈvɜːdɪɡriːs]
+n. 铜锈，[材] 铜绿；碱式碳酸铜
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Verdigris is a greenish-blue substance that forms on the metals copper, brass, and bronze after they have been left in wet or damp conditions. 铜锈
+
+========================================================================
+>>> viridian
+------------------------------------------------------------------------
+viridian    [英 vɪˈrɪdiən / 美 vɪˈrɪdiən]
+n. 铬绿；铬绿色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a green pigment consisting of a hydrated form of chromic oxide 氧化铬绿
+
+========================================================================
+>>> drab
+------------------------------------------------------------------------
+drab    [美 dræb / 英 dræb]
+adj. 单调的；土褐色的
+n. 浅褐色；无生气；邋遢；小额
+vt. 使无生气
+vi. 嫖妓
+n. （Drab）人名；（匈）德劳布；（法）德拉布
+★ TEM8 drabber,drabbest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as drab, you think that it is dull and boring to look at or experience. 单调乏味的
+   ≫   ...his drab little office.  …他那狭小无聊的办公室。
+2. (N-UNCOUNT) drabness N-UNCOUNT 单调乏味
+   ≫   ...the dusty drabness of nearby villages.  …附近村庄尘土飞扬，死气沉沉。
+3. (ADJ) of the colour drab 土褐色的
+4. (N) a light olive-brown colour 土褐色
+5. (N) a slatternly woman 荡妇
+
+========================================================================
+>>> sepia
+------------------------------------------------------------------------
+sepia    [美 ˈsiːpiə / 英 ˈsiːpiə]
+n. 乌贼；深褐色；乌贼的墨
+adj. 使用乌贼墨颜料的；乌贼墨色的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is sepia is deep brown in colour, like the colour of very old photographs. 深棕色
+   ≫   The walls are hung with sepia photographs of old school heroes.  这些墙上挂满了老牌英雄人物发黄的旧照片。
+
+========================================================================
+>>> sienna
+------------------------------------------------------------------------
+sienna    [美 siˈenə / 英 siˈenə]
+n. 赭色；（富铁）黄土（用作颜料）
+n. （Sienna）人名；（西）西恩纳；（英）西恩纳，西恩娜（女名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a natural earth containing ferric oxide used as a yellowish-brown pigment when untreated (raw sienna) or a reddish-brown pigment when roasted (burnt sienna) 生赭石
+
+========================================================================
+>>> umber
+------------------------------------------------------------------------
+umber    [美 ˈʌmbər / 英 ˈʌmbə(r)]
+n. 棕土；焦茶色
+adj. 棕土的；棕色的
+vt. 涂以红褐色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Umber is used to describe things that are yellowish or reddish brown in colour. 深棕色; 琥珀色
+   ≫   ...umber paint.  … 深棕色油漆。
+
+========================================================================
+>>> mauve
+------------------------------------------------------------------------
+mauve    [美 moʊv / 英 məʊv]
+n. 淡紫色；苯胺紫；淡紫色染料
+adj. 淡紫色的
+n. （Mauve）人名；（德、荷）毛弗；（法）莫夫
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is mauve is of a pale purple colour. 淡紫色
+   ≫   It bears clusters of mauve flowers in early summer.  初夏时节，它开出了一簇簇淡紫色的花儿。
+
+========================================================================
+>>> magenta
+------------------------------------------------------------------------
+magenta    [美 məˈdʒentə / 英 məˈdʒentə]
+n. 品红；洋红；红色苯胺染料
+adj. 洋红色的；品红色的
+n. （Magenta）（意）马真塔（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Magenta is used to describe things that are dark reddish purple in colour. 紫红色
+
+========================================================================
+>>> fuchsia
+------------------------------------------------------------------------
+fuchsia    [美 ˈfjuːʃə / 英 ˈfjuːʃə]
+n. 紫红色；[植]倒挂金钟属
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A fuchsia is a plant or a small bush which has pink, purple, or white flowers. The flowers hang downward, with their outer petals curved backward. 倒挂金钟
+
+========================================================================
+>>> crimson
+------------------------------------------------------------------------
+crimson    [美 ˈkrɪmz(ə)n / 英 ˈkrɪmz(ə)n]
+adj. 深红色的；（脸）通红的
+n. 深红色
+v. （尤指因尴尬）（脸）变红；（使）深红
+n. （Crimson）（美）克里姆荪（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is crimson is deep red in colour. 深红色的
+   ≫   ...a mass of crimson flowers.  …一团深红色的花。
+
+========================================================================
+>>> scarlet
+------------------------------------------------------------------------
+scarlet    [美 ˈskɑːrlət / 英 ˈskɑːlət]
+adj. 猩红色的，鲜红色的；（脸）涨得通红的；罪孽深重的，淫荡的
+n. 鲜红色，猩红色；红衣，鲜红色布
+【名】 （Scarlet）（英）斯卡利特，（罗）斯卡尔莱特（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is scarlet is bright red. 猩红 (的); 鲜红 (的)
+   ≫   ...her scarlet lipstick.  …她的鲜红的唇膏。
+
+========================================================================
+>>> vermilion
+------------------------------------------------------------------------
+vermilion    [美 vərˈmɪliən / 英 vəˈmɪliən]
+n. [无化] 朱砂；朱红色
+adj. 朱红色的
+vt. 涂以朱红色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Vermilion is used to describe things that are bright orange-red in colour. 朱红(色) [文学性]
+   ≫   ...her vermilion lip gloss.  ...她朱红色的唇彩。
+   ≫   The furniture on it is glossy vermilion.  那上面家具的颜色是闪亮的朱红色。
+
+========================================================================
+>>> russet
+------------------------------------------------------------------------
+russet    [美 ˈrʌsɪt / 英 ˈrʌsɪt]
+adj. 黄褐色的；土气的
+n. 黄褐色；（淡绿色有锈斑的）粗皮苹果；土布；赤褐色马铃薯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Russet is used to describe things that are reddish brown in colour. 红褐色的
+   ≫   ...a russet apple.  ...一只红褐色的苹果。
+
+========================================================================
+>>> taupe
+------------------------------------------------------------------------
+taupe    [英 təʊp / 美 toʊp]
+n. 褐灰色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is taupe is a pale brownish-grey colour. 灰褐色
+
+========================================================================
+>>> slate
+------------------------------------------------------------------------
+slate    [美 sleɪt / 英 sleɪt]
+n. 板岩，石板；（盖房顶的）石板瓦；（旧时学生用以写字的）石板；<英>（尤指对食物和饮料）赊账，挂账；笔记型电脑；候选人名单，提名名单；<美>一系列资助；（置于摄影机前的）（识别一次电影拍摄镜头细节起讫的）开拍板
+v. <英>（尤指在报纸上）批评，抨击；预定，计划，安排；<美>推举，选定；用石板铺盖（某物，尤指屋顶）；用镜头起讫板识别（镜头）
+adj. 石板色的，深蓝灰色的
+【名】 （Slate）（英）斯莱特（人名）
+★★ CET6+ TEM4 slating,slated,slates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Slate is a dark grey rock that can be easily split into thin layers. Slate is often used for covering roofs. (常用来作屋顶建材的) 石板
+   ≫   ...a stone-built cottage, with a traditional slate roof.  …一间有传统石板屋顶的石砌村舍。
+2. (N-COUNT) A slate is one of the small flat pieces of slate that are used for covering roofs. 石板瓦
+   ≫   Thieves had stolen the slates from the roof.  窃贼偷走了屋顶的石板瓦。
+3. (V-T PASSIVE) If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. (在特定时间或者条件下) 选定 [美国英语]
+   ≫   Bromfield was slated to become U.S. Secretary of Agriculture.  布罗姆菲尔德被内定为美国的农业部长。
+4. (V) to cover (a roof) with slates 用石板瓦盖屋顶
+5. (V) to criticize harshly; censure 严厉批评; 谴责
+6. (ADJ) of the colour slate 石板色; 深蓝灰色
+7. (PHRASE) If you start with a clean slate, you do not take account of previous mistakes or failures and make a fresh start. 不计前嫌重新开始; 既往不咎
+   ≫   The proposal is to pay everything you owe, so that you can start with a clean slate.  奉劝你还清所有债务，这样你就可以重新开始。
+
+========================================================================
+>>> slate grey
+------------------------------------------------------------------------
+slate grey    [美 ˌsleɪt ˈɡreɪ / 英 ˌsleɪt ˈɡreɪ]
+石板灰色：一种深灰色。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Even the SLATE grey stone ground is dry and cracked despite being in close proximity to the river Styx. 就连灰色石板路面都是干燥破裂的，同冥河很接近。
+≫   But up close they are every colour-red, grey, black-and-white, amber, tawny, SLATE. 不过，近距离看什么颜色的都有——红色的、灰色的、黑白的、琥珀色的、黄褐色的、暗天蓝色的等等。
+≫   The grey SLATE was sourced from a nearby quarry and was cut into blocks rather than the typical thin slabs. 灰色板岩来源于附近的一个采石场，被切成块体而不是经典的薄石板。
+
+========================================================================
+>>> pewter
+------------------------------------------------------------------------
+pewter    [英 ˈpjuːtə(r) / 美 ˈpjuːtər]
+n. 白蜡；青灰色
+adj. 青灰色的；锡镴制的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Pewter is a grey metal that is made by mixing tin and lead. Pewter was often used in former times to make ornaments or containers for eating and drinking. 锡铅合金
+   ≫   ...pewter plates.  …锡铅合金盘子。
+
+========================================================================
+>>> khaki
+------------------------------------------------------------------------
+khaki    [英 ˈkɑːki / 美 ˈkɑːki]
+n. 卡其色；卡其布
+adj. 卡其色的；黄褐色的；卡其布做的
+n. （Khaki）人名；（阿拉伯、格鲁）哈基
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Khaki is a strong material of a beige colour, used especially to make uniforms for some soldiers. 卡其布
+   ≫   On each side of me was a figure in khaki.  我的两侧各有一个身穿卡其布衣服的人。
+2. (COLOR) Something that is khaki is beige in colour. 卡其色的; 土黄色的
+   ≫   He was dressed in khaki trousers.  他穿着一条卡其色的裤子。
+
+========================================================================
+>>> buff
+------------------------------------------------------------------------
+buff    [英 bʌf / 美 bʌf]
+n. 浅黄色，米色；暗黄皮革；爱好者，……迷；擦拭轮（或棒，垫），抛光轮
+v. （用软布）擦亮；给（皮革）上光；缓冲
+adj. 身体强健的，肌肉发达的；浅黄褐色的
+【名】 （Buff）（德）布夫，（英）巴夫（人名）
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is buff is pale brown in colour. 浅棕色的
+   ≫   He took a largish buff envelope from his pocket.  他从口袋里拿出一个相当大的浅棕色信封。
+2. (N) a soft thick flexible undyed leather made chiefly from the skins of buffalo, oxen, and elk 黄褐色软皮革
+3. (N-COUNT) You use buff to describe someone who knows a lot about a particular subject. For example, if you describe someone as a film buff, you mean that they know a lot about movies. 爱好者 [非正式]
+   ≫   Judge Lanier is a real film buff.  拉尼尔法官是个真正的电影迷。
+4. (V) to clean or polish (a metal, floor, shoes, etc) with a buff 用软皮革擦亮(金属、地板、鞋等)
+5. (V) to deaden the force of 减低...的力量
+6. (ADJ) in a condition of high physical fitness and body tone, maintained by regular exercise 体格健美的 [美国英语] [非正式]
+
+========================================================================
+>>> ecru
+------------------------------------------------------------------------
+ecru    [美 ˈeɪkruːˌˈekruː / 英 ˈeɪkruː; ˈekruː]
+n. 淡褐色
+adj. 本色的；淡褐色的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is ecru is pale, creamy white in colour. 淡褐色
+
+========================================================================
+>>> beige
+------------------------------------------------------------------------
+beige    [美 beɪʒ / 英 beɪʒ]
+n. 米色，淡棕色；薄斜纹呢
+adj. 浅褐色的，米黄色的；无特色的
+【名】 （Beige）（美）贝热（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is beige is pale brown in colour. 淡棕色的
+   ≫   The walls are beige.  墙是淡棕色的。
+
+========================================================================
+>>> alabaster
+------------------------------------------------------------------------
+alabaster    [美 ˈæləbæstər / 英 ˈæləbɑːstə(r)]
+n. 雪花石膏
+adj. 以雪花石膏制的；（像雪花石膏一样）光洁雪白的
+n. （Alabaster）阿拉巴斯特（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Alabaster is a white stone that is used for making statues, vases, and ornaments. 雪花石膏 [usu N n]
+
+========================================================================
+>>> ivory
+------------------------------------------------------------------------
+ivory    [美 ˈaɪvəri / 英 ˈaɪvəri]
+n. 象牙，（其他动物的）长牙；象牙制品；象牙色，乳白色；<非正式>钢琴键；<非正式>（人的）牙齿
+adj. 象牙色的，乳白色的；象牙制成的
+【名】 （Ivory）（英）艾沃里（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Ivory is a hard cream-coloured substance that forms the tusks of elephants and some other animals. It is valuable and can be used for making carved ornaments. (象或其他一些动物的) 长牙
+   ≫   ...the international ban on the sale of ivory.  …禁止销售象牙的国际禁令。
+2. (COLOR) Ivory is a creamy-white colour. 乳白色 (的)
+   ≫   ...small ivory flowers.  …乳白色的小花。
+
+========================================================================
+>>> platinum
+------------------------------------------------------------------------
+platinum    [美 ˈplætɪnəm / 英 ˈplætɪnəm]
+n. 铂，白金；白金销量（至少销出一百万张）；银灰色，青灰色
+adj. 铂的，白金的；（激光唱盘、唱片等）白金的；（头发）白金色的，银灰色的
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Platinum is a very valuable, silvery-grey metal. It is often used for making jewellery. 铂; 白金
+
+========================================================================
+>>> champagne
+------------------------------------------------------------------------
+champagne    [美 ʃæmˈpeɪn / 英 ʃæmˈpeɪn]
+n. 香槟酒；香槟色
+【名】 （Champagne）（法，英）尚帕涅（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Champagne is an expensive French white wine with bubbles in. It is often drunk to celebrate something. 香槟酒
+
+========================================================================
+>>> coral
+------------------------------------------------------------------------
+coral    [美 ˈkɔːrəl / 英 ˈkɒrəl]
+n. 珊瑚；（作珠宝的）珊瑚宝石；珊瑚色，橘红色；珊瑚虫；龙虾卵，扇贝卵
+adj. 珊瑚色的，浅橘红色的；珊瑚的，珊瑚制的
+【名】 （Coral）（英、法、西、葡）科拉尔（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Coral is a hard substance formed from the bones of very small sea animals. It is often used to make jewellery. 珊瑚
+   ≫   The women have elaborate necklaces of turquoise and pink coral.  女士们拥有绿宝石和粉色珊瑚制成的精美项链。
+2. (N-COUNT) Corals are very small sea animals. 珊瑚虫
+   ≫   The seas around Bermuda are full of colourful corals and fantastic fish.  百慕大周围的海域中到处都是五彩的珊瑚虫和奇异的鱼类。
+3. (COLOR) Something that is coral is dark orangey-pink in colour. 珊瑚色的
+   ≫   ...coral lipstick.  …珊瑚色的口红。
+
+========================================================================
+>>> blush
+------------------------------------------------------------------------
+blush    [英 blʌʃ / 美 blʌʃ]
+v. （因感到难堪或羞愧而）脸红；惭愧，尴尬；使成红色
+n. （因感到难堪或羞愧的）脸红；胭红，淡红色；<美> 胭脂；玫瑰红酒；<美>胭脂
+【名】 （Blush）（英）布拉什（人名）
+★ CET6 TEM4 blushing,blushed,blushes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When you blush, your face becomes redder than usual because you are ashamed or embarrassed. (因害羞、窘困等) 脸红
+   ≫   "Hello, Maria," he said, and she blushed again.  他说道：“玛丽亚，你好！”然后她的脸又红了。
+2. (N-COUNT) Blush is also a noun. 脸红
+   ≫   "The most important thing is to be honest," she says, without the trace of a blush.  “最重要的是要诚实。”她说道，丝毫不脸红。
+
+========================================================================
+>>> peacock
+------------------------------------------------------------------------
+peacock    [美 ˈpiːkɑːk / 英 ˈpiːkɒk]
+n. （雄）孔雀；注重仪表和衣饰的男子，虚荣骄傲的男子
+v. 炫耀，神气活现地走
+【名】 （Peacock）（英）皮科克（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A peacock is a large bird. The male has a very large tail covered with blue and green spots, which it can spread out like a fan. 孔雀
+   ≫   ...peacocks strutting slowly across the garden.  ...孔雀在花园中趾高气扬地走来走去。
+   ≫   ...peacock feathers.  ...孔雀翎。
+
+========================================================================
+>>> lavender
+------------------------------------------------------------------------
+lavender    [英 ˈlævəndə(r) / 美 ˈlævəndər]
+n. 薰衣草；干薰衣草花（用以熏香衣物等）；淡紫色；薰衣草香油精（=lavender oil）；用于类似植物名称；<非正式>女人气
+adj. 淡紫色的
+v. 用薰衣草熏香
+【名】 （Lavender）（英）拉文德（人名）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Lavender is a garden plant with sweet-smelling, bluish-purple flowers. 熏衣草
+
+========================================================================
+>>> thistle
+------------------------------------------------------------------------
+thistle    [美 ˈθɪs(ə)l / 英 ˈθɪs(ə)l]
+n. [植]蓟
+n. （Thistle）人名；（英）西斯尔
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A thistle is a wild plant which has leaves with sharp points and purple flowers. 蓟
+
+========================================================================
+>>> mulberry
+------------------------------------------------------------------------
+mulberry    [美 ˈmʌlberi / 英 ˈmʌlbəri]
+n. 桑树；桑葚，桑椹；深紫红色
+n. （Mulberry）（美、英、加）马尔伯里（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A mulberry or a mulberry tree is a tree that has small purple berries which you can eat. 桑树
+2. (N-COUNT) Mulberries are the fruit of a mulberry tree. 桑葚
+
+========================================================================
+>>> charcoal
+------------------------------------------------------------------------
+charcoal    [美 ˈtʃɑːrkoʊl / 英 ˈtʃɑːkəʊl]
+n. 木炭；（绘画用的）炭笔，木炭条；木炭画；深灰色
+adj. 炭黑色的，灰黑色的
+v. 用木炭条绘画
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Charcoal is a black substance obtained by burning wood without much air. It can be burned as a fuel, and small sticks of it are used for drawing. 木炭
+
+========================================================================
+>>> onyx
+------------------------------------------------------------------------
+onyx    [美 ˈɑːnɪks / 英 ˈɒnɪks]
+n. [矿物] 缟玛瑙；[动] 爪甲
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Onyx is a stone which can be various colours. It is used for making ornaments, jewellery, or furniture. 缟玛瑙
+
+========================================================================
+>>> aquamarine
+------------------------------------------------------------------------
+aquamarine    [美 ˌɑːkwəməˈriːn / 英 ˌækwəməˈriːn]
+n. [宝] 海蓝宝石；碧绿色，浅绿色
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Aquamarines are clear, greenish-blue stones, sometimes used to make jewellery. 海蓝宝石
+   ≫   A necklace set with aquamarines.  ...镶嵌着海蓝宝石的项链。
+   ≫   ...a large aquamarine ring.  ...一枚有大颗海蓝宝石的戒指。
+2. (COLOR) Aquamarine is used to describe things that are greenish-blue in colour. 海蓝色的; 碧绿色的
+   ≫   ...warm aquamarine seas and white beaches.  ...温暖的碧绿色海面和白色沙滩。
+
+========================================================================
+>>> carmine
+------------------------------------------------------------------------
+carmine    [美 ˈkɑːrmaɪn / 英 ˈkɑːmaɪn]
+adj. 深红色的，洋红色的
+n. 深红色，洋红色，胭脂红；胭脂红色素
+n. （Carmine）（意、英）卡尔米内（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Carmine is a deep bright red colour. 深红色; 胭脂红 [文学性]
+   ≫   ...a tulip with carmine petals.  ...花瓣红艳的郁金香。
+
+========================================================================
+>>> celadon
+------------------------------------------------------------------------
+celadon    [美 ˈseləˌdɑːn / 英 ˈselədɒn]
+n. 青瓷；灰绿色
+n. （Celadon）人名；（意）切拉东
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a type of porcelain having a greyish-green glaze: mainly Chinese 灰绿色的瓷器
+
+========================================================================
+>>> cinnamon
+------------------------------------------------------------------------
+cinnamon    [英 ˈsɪnəmən / 美 ˈsɪnəmən]
+n. 肉桂皮，桂皮香料；肉桂色，黄棕色；（产桂皮的）樟属树木
+adj. 肉桂色的，浅红褐色的
+【名】 （Cinnamon）（英）辛纳蒙（人名）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cinnamon is a sweet spice used for flavouring food. 肉桂
+
+========================================================================
+>>> denim
+------------------------------------------------------------------------
+denim    [美 ˈdenɪm / 英 ˈdenɪm]
+n. 斜纹粗棉布，丁尼布；劳动布
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Denim is a thick cotton cloth, usually blue, which is used to make clothes. Jeans are made from denim. 粗斜棉布
+   ≫   ...a light blue denim jacket.  …一件淡蓝色粗斜棉布夹克衫。
+
+========================================================================
+>>> eggshell
+------------------------------------------------------------------------
+eggshell    [英 ˈeɡʃel / 美 ˈeɡʃel]
+n. 蛋壳；薄而易碎的东西
+alsoeggshell
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An eggshell is the hard covering on the outside of an egg. 蛋壳
+
+========================================================================
+>>> fallow
+------------------------------------------------------------------------
+fallow    [美 ˈfæloʊ / 英 ˈfæləʊ]
+adj. 休耕的；不活跃的
+n. 休耕地；休耕
+vt. 使（土地）休闲；潜伏
+n. （Fallow）人名；（英）法洛
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Fallow land has been dug or ploughed but nothing has been planted in it, especially so that its quality or strength has a chance to improve. 休耕的
+   ≫   The fields lay fallow.  这些地休耕了。
+2. (ADJ) A fallow period is a time when very little is being achieved. 空档的(时期); 无为的 [usu ADJ n]
+   ≫   There followed something of a fallow period professionally, until a job came up in the summer.  接下来事业上出现了一个空档，直到夏天的时候来了份新工作。
+3. (ADJ) of a light yellowish-brown colour 淡棕黄色
+4. (N) land treated in this way 休耕地
+5. (V) to leave (land) unseeded after ploughing and harrowing it 使(土地)休耕
+
+========================================================================
+>>> falx
+------------------------------------------------------------------------
+falx    [fælks, fɔ:lks]
+n. 镰；镰形内突
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Measurement showed the septum pellucid deviated from falx cerebrum and midline. 透明隔移位的测量提示透明隔偏离大脑镰及中线。
+≫   Objective To evaluate CT features of subdural hematomas at cerebral falx and tentorium of cerebellum. 目的探讨大脑镰、小脑幕硬膜下血肿的CT特点。
+≫   Objective To investigate the differential diagnosis of subarachnoid hemorrhage and falx cerebri by ct. 目的探讨蛛网膜下腔出血与大脑纵裂的大脑镰鉴别诊断。
+
+========================================================================
+>>> gamboge
+------------------------------------------------------------------------
+gamboge    [美 ɡæmˈboʊdʒ / 英 ɡæmˈbəʊʒ; -ˈbuːʒ]
+n. 藤黄；橙黄色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a gum resin used as the source of a yellow pigment and as a purgative 藤黄胶
+2. (N) the pigment made from this resin 藤黄
+
+========================================================================
+>>> garnet
+------------------------------------------------------------------------
+garnet    [美 ˈɡɑːrnɪt / 英 ˈɡɑːnɪt]
+n. [矿物]石榴石；深红色；装货用的滑车
+adj. 深红色的；暗红色的
+n. （Garnet）人名；（西）加内特；（罗）加尔内特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A garnet is a hard, shiny stone that is used in making jewellery. Garnets can be red, yellow, or green in colour. 石榴石
+2. (N-COUNT) a tackle used for lifting cargo (用于升降货物的)滑车 [nautical]
+
+========================================================================
+>>> ginger
+------------------------------------------------------------------------
+ginger    [美 ˈdʒɪndʒər / 英 ˈdʒɪndʒə(r)]
+n. 生姜；姜（产于东南亚，外表似竹）；姜黄色；长着姜黄色头发的人；姜味汽水（ginger ale 的简称）；精神，活力
+v. 用姜给……调味；激励，使有生气（ginger sb./sth. up）
+adj. （主要指毛发或动物毛皮）姜黄色的；姜味的
+【名】 （Ginger）（法）然热，（英）金杰（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Ginger is the root of a plant that is used to flavour food. It has a sweet, spicy flavour and is often sold in powdered form. 姜
+2. (COLOR) Ginger is used to describe things that are orangey brown in colour. 姜黄色的
+   ≫   She was a mature lady with dyed ginger hair.  她是个成年女子，头发染成了姜黄色。
+
+========================================================================
+>>> hazel
+------------------------------------------------------------------------
+hazel    [美 ˈheɪz(ə)l / 英 ˈheɪz(ə)l]
+n. 淡褐色；榛子
+adj. 淡褐色的；榛树的
+n. （Hazel）人名；（英）黑兹尔
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A hazel is a small tree which produces nuts that you can eat. 榛树
+2. (COLOR) Hazel eyes are greenish brown in colour. 淡绿褐色 (的)
+
+========================================================================
+>>> heliotrope
+------------------------------------------------------------------------
+heliotrope    [美 ˈhiːliətroʊp / 英 ˈhiːliətrəʊp]
+n. 天芥菜属植物；[植] 向阳植物；淡紫色；鸡血石
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any boraginaceous plant of the genus Heliotropium, esp the South American H. arborescens, cultivated for its small fragrant purple flowers 任一一种天芥菜属植物
+
+========================================================================
+>>> heliotroper
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> helitropter
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> helicopter
+------------------------------------------------------------------------
+helicopter    [美 ˈhelɪkɑːptər / 英 ˈhelɪkɒptə(r)]
+n. 直升机
+v. 用直升机运送；乘直升机飞至（某地）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A helicopter is an aircraft with long blades on top that go around very fast. It is able to stay still in the air and to move straight upward or downward. 直升机
+
+========================================================================
+>>> nutmeg
+------------------------------------------------------------------------
+nutmeg    [美 ˈnʌtmeɡ / 英 ˈnʌtmeɡ]
+n. 肉豆蔻；肉豆蔻种子中的核仁
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Nutmeg is a spice made from the seed of a tree that grows in hot countries. Nutmeg is usually used to flavour sweet food. 肉豆蔻; 通常用于给甜食调味
+
+========================================================================
+>>> ochre
+------------------------------------------------------------------------
+ochre    [美 ˈoʊkər / 英 ˈəʊkə(r)]
+n. 赭石；赭色
+vt. 涂赭色于
+adj. 赭色的（等于 ocher）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For our dining room I have chosen ochre yellow walls. 我为我们餐厅的墙壁选择了褐黄色。《柯林斯英汉双解大词典》
+≫   Narrow face: Decorated with red ochre. 窄长的脸：用赭色装饰。
+≫   They bear traces of red ochre, a pigment. 这些外壳上有赭红色颜料着色的痕迹。
+
+========================================================================
+>>> puce
+------------------------------------------------------------------------
+puce    [美 pjuːs / 英 pjuːs]
+n. 紫褐色
+adj. 紫褐色的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is puce is a dark purple colour. 深褐色
+
+========================================================================
+>>> russet
+------------------------------------------------------------------------
+russet    [美 ˈrʌsɪt / 英 ˈrʌsɪt]
+adj. 黄褐色的；土气的
+n. 黄褐色；（淡绿色有锈斑的）粗皮苹果；土布；赤褐色马铃薯
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Russet is used to describe things that are reddish brown in colour. 红褐色的
+   ≫   ...a russet apple.  ...一只红褐色的苹果。
+
+========================================================================
+>>> saffron
+------------------------------------------------------------------------
+saffron    [美 ˈsæfrən / 英 ˈsæfrən]
+n. 藏红花；橙黄色
+adj. 藏红花色的，橘黄色的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Saffron is a yellowish-orange powder obtained from a flower and used to give flavour and colouring to some foods. 藏红花粉
+   ≫   ...saffron rice.  ...藏红花粉米。
+2. (COLOR) Saffron is a yellowish-orange colour. 橘黄色
+   ≫   ...a Buddhist in saffron robes.  ...一尊披着橘黄袍服的佛像。
+
+========================================================================
+>>> sepia
+------------------------------------------------------------------------
+sepia    [美 ˈsiːpiə / 英 ˈsiːpiə]
+n. 乌贼；深褐色；乌贼的墨
+adj. 使用乌贼墨颜料的；乌贼墨色的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Something that is sepia is deep brown in colour, like the colour of very old photographs. 深棕色
+   ≫   The walls are hung with sepia photographs of old school heroes.  这些墙上挂满了老牌英雄人物发黄的旧照片。
+
+========================================================================
+>>> toned
+------------------------------------------------------------------------
+toned    [美 toʊnd / 英 təʊnd]
+adj. 年久变色的；有声调的，具有……音质的
+★★★ CET4 TEM4 toning,toned,tones
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The tone of a sound is its particular quality. 音质
+   ≫   Cross could hear him speaking in low tones to Sarah.  克罗斯可以听到他在低声对萨拉说话。
+2. (N-COUNT) Someone's tone is a quality in their voice which shows what they are feeling or thinking. 语气
+   ≫   I still didn't like his tone of voice; he sounded angry and accusing.  我仍然不喜欢他说话的语气；他的声音听起来好像是怒气冲冲地在指责人。
+3. (N-SING) The tone of a speech or piece of writing is its style and the opinions or ideas expressed in it. > 风格; (讲话或文章的) 口气 [also 'in' N]
+   ≫   The tone of the letter was very friendly.  这封信的语气相当友好。
+4. (N-SING) The tone of a place or an event is its general atmosphere. 氛围
+   ≫   There were no stores that would lower the tone of the area.  没有一家商店会降低该地区的氛围。
+5. (N-UNCOUNT) The tone of someone's body, especially their muscles, is its degree of firmness and strength. (尤指肌肉的) 结实度
+   ≫   ...stretch exercises that improve muscle tone.  …提高肌肉结实度的伸展锻炼。
+6. (V-T/V-I) Something that tones your body makes it firm and strong. 使强健
+   ≫   This movement lengthens your spine and tones the spinal nerves.  该运动能伸展你的脊柱，强健脊髓神经。
+   ≫   Try these toning exercises before you start the day.  试着在开始新的一天前练练这些健身操。
+7. (PHRASAL VERB) Tone up means the same as . 同(tone)
+   ≫   Exercise tones up your body.  运动强健身体。
+8. (N-VAR) A tone is one of the lighter, darker, or brighter shades of the same colour. 色调
+   ≫   Each brick also varies slightly in tone, texture and size.  每块砖在色调、质地和尺寸上也略有不同。
+9. (N-SING) A tone is one of the sounds that you hear when you are using a telephone, for example, the sound that tells you that a number is busy, or no longer exists. (电话的) 提示音
+   ≫   I can't get a dial tone on this phone.  我在这部电话上听不到拨号音。
+
+========================================================================
+>>> squid
+------------------------------------------------------------------------
+squid    [美 skwɪd / 英 skwɪd]
+n. 枪乌贼，（食用的）鱿鱼；乌贼状人造鱼饵；超导量子干涉器件（SQUID）；<英，俚>英镑
+v. 用枪乌贼作饵捕鱼
+★ CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A squid is a sea creature with a long soft body and many soft arms called tentacles. 鱿鱼
+2. (N-UNCOUNT) Squid is pieces of this creature eaten as food. 鱿鱼
+   ≫   Add the prawns and squid and cook for 2 minutes.  加入虾和鱿鱼，煮2分钟。
+3. (N) a pound sterling 英镑 [英国英语] [slang]
+
+========================================================================
+>>> tangerine
+------------------------------------------------------------------------
+tangerine    [美 ˈtændʒəriːn / 英 ˌtændʒəˈriːn]
+n. 橘子，柑橘；柑橘树，橘树；橘黄色，橘红色
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tangerine is a small sweet orange. 蜜橘
+
+========================================================================
+>>> topaz
+------------------------------------------------------------------------
+topaz    [美 ˈtoʊpæz / 英 ˈtəʊpæz]
+n. [宝]黄晶，黄玉；[鸟]南美蜂鸟
+n. （Topaz）人名；（西）托帕斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A topaz is a precious stone which is usually yellowish-brown in colour. 黄晶
+
+========================================================================
+>>> turmeric
+------------------------------------------------------------------------
+turmeric    [美 ˈtɜːrmərɪk / 英 ˈtɜːmərɪk]
+n. 姜黄，姜黄根；姜黄根粉，郁金根粉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Turmeric is a yellow spice that is used to flavor food such as curry. 姜黄粉
+
+========================================================================
+>>> oriental
+------------------------------------------------------------------------
+oriental    [美 ˌɔːriˈent(ə)l / 英 ˌɔːriˈent(ə)l]
+adj. 东方（尤指中国和日本）的，东方人的；（动物学）（与）东方界（有关）的（Oriental）；（珍珠或其他珠宝）有光泽的
+n. <旧>东方人（=Oriental）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Oriental means coming from or associated with eastern Asia, especially China and Japan. 东方的 (尤指中国和日本的)
+   ≫   There were Oriental carpets on the floors.  地板上铺着东方的地毯。
+
+========================================================================
+>>> cambrian
+------------------------------------------------------------------------
+cambrian    [美 ˈkæmbriən / 英 ˈkæmbriən]
+adj. 寒武纪的，寒武系岩的；威尔士的
+n. 威尔士人；寒武纪（或系）
+n. （Cambrian）（美）凯姆布让（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the first 65 million years of the Palaeozoic era, during which marine invertebrates, esp trilobites, flourished 寒武纪的; 古生代的第一个纪，在此纪海生无脊椎动物，尤其是三叶虫处于旺盛时期
+2. (N) the Cambrian period or rock system 寒武纪; 寒武系(寒武纪形成的岩石系统)
+
+========================================================================
+>>> cretaceous
+------------------------------------------------------------------------
+cretaceous    [美 krɪˈteɪʃəs / 英 krɪˈteɪʃəs]
+adj. 白垩纪的；似白垩的
+n. 白垩纪；白垩系
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) consisting of or resembling chalk (像)白垩的
+
+========================================================================
+>>> triassic
+------------------------------------------------------------------------
+triassic    [美 traɪˈæsɪk / 英 traɪˈæsɪk]
+adj. 三叠纪的
+n. 三叠纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the first period of the Mesozoic era that lasted for 42 million years and during which reptiles flourished 三叠纪的
+2. (N) the Triassic period or rock system 三叠纪; 三叠纪岩石
+
+========================================================================
+>>> cambrian period
+------------------------------------------------------------------------
+cambrian period    [美 ˈkæmbriən ˈpɪriəd]
+寒武纪：地质年代的一个时期，距今约5.4亿年前，是古生代的第一个时期，以生物多样性的爆发和无脊椎动物的出现而著名。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   During the Cambrian period, 500 million years ago, worm-like creatures were evolving into fish-like creatures. 在5亿年前的寒武纪，似蠕虫生物逐渐演化成似鱼生物。
+≫   The basement strata and the migmatite, however, were formed much later, about Cambrian period and early palaeozoic era. 但其基底地层和混合岩形成时代较晚，为寒武纪和下古生代。
+≫   Afterward, global large-scale massive volcanic activity in Permian Period generally brought about metamorphism whole middle Cambrian Period volcanic sediment rock in research area. 二叠纪全球性大规模火山活动，致使区内整个中寒武纪的火山沉积岩普遍发生变质。
+
+========================================================================
+>>> cretaceous period
+------------------------------------------------------------------------
+cretaceous period
+白垩纪：地质年代的一个时期，距今约1.45亿年至6,500万年前，是中生代的最后一个时期。在白垩纪，恐龙繁盛，同时也出现了许多其他种类的生物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These animals were not as sensitive to climate changes in the Cretaceous period as they are today. 这些动物在白垩纪对气候变化不像今天这样敏感。
+≫   Changes in climate before the Cretaceous period caused severe fluctuation in sea level, resulting in the extinction of the dinosaurs. 白垩纪以前的气候变化导致了海平面的剧烈波动，引发了恐龙的灭绝。
+≫   Not exactly outer space then, or the Cretaceous period. 而并不是外太空或是白垩纪。
+
+========================================================================
+>>> triassic period
+------------------------------------------------------------------------
+triassic period
+三叠纪：地质年代的一个时期，距今约2.5亿年前，是中生代的第一个时期，紧随二叠纪之后。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This was towards the end of the Triassic period. 那时已是三叠纪末期。
+≫   Dinosaurs first appear in the fossil record during the Triassic period, some 230m years ago. 根据化石记载，恐龙最早出现在三叠纪期间，也就是大约2亿3000万年以前。
+≫   Conodonts went extinct at the end of the Triassic Period, about the time dinosaurs were evolving. 牙形刺在三叠纪末期灭绝了，这正是恐龙开始演化的时代。
+
+========================================================================
+>>> proterozoic eon
+------------------------------------------------------------------------
+proterozoic eon
+元古宙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Proterozoic climate was still warm and wet, but compared with that of the Archaeozoic Eon, the temperature fell a little. 元古宙的气候仍是温暖而潮湿的，但较太古宙温度有所降低。
+
+========================================================================
+>>> eon
+------------------------------------------------------------------------
+eon    [美 ˈiːənˌˈiːɑːn / 英 ˈiːən; ˈiːɒn]
+n. 极长时期，万古；十亿年；宙；伊涌
+n. （Eon）（法、美）埃翁（人名）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Jack Hills zircon led to something of a revolution in our understanding of the Hadean eon. 杰克·希尔斯锆石导致我们对冥古宙的理解发生了革命性的变化。
+≫   Everyone eon set was great! 剧组的所有人都挺好的。
+≫   Skate eon hard enough ice. 在足够硬的冰上溜冰。
+
+========================================================================
+>>> proterozoic
+------------------------------------------------------------------------
+proterozoic    [美 ˌprotərəˈzoɪk]
+n. 元古代，原生代
+adj. 元古代的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the later of two divisions of the Precambrian era, during which the earliest plants and animals are assumed to have lived 原生代 → compare Archaeozoic
+2. (ADJ) of or formed in the late Precambrian era 原生代的
+
+========================================================================
+>>> neo, meso and pale
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> neo, meso and pale
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4172
+neo, meso and pale
+Neo， meso和pale
+
+========================================================================
+>>> neo, meso and paleo
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4209
+neo, meso and paleo
+新、中、古
+
+========================================================================
+>>> archean eon
+------------------------------------------------------------------------
+Archean Eon
+太古宙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Discordances existed between Fangniushan quartzite series and underlying Archean Eon metamorphic granite series, and overlying the Mesoproterozoic Era Xionger Group. 顶、底界线清晰，与下伏太古宙变质花岗岩系及上覆中元古界熊耳群均呈角度不整合接触。
+
+========================================================================
+>>> phanerozoic
+------------------------------------------------------------------------
+phanerozoic    [英 ˌfænərəˈzəʊɪk]
+adj. （由古生代、中生代和新生代构成的地质年代）[地质] 显生宙的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to that part of geological time represented by rocks in which the evidence of life is abundant, comprising the Palaeozoic, Mesozoic, and Cenozoic eras 显生宙的
+2. (N) the Phanerozoic era 显生代
+
+========================================================================
+>>> phanerozoic eon
+------------------------------------------------------------------------
+phanerozoic eon
+寒武纪：地质年代划分中的一个大时期，距今约5.4亿年前开始，包括了地球生物历史上最丰富的时期。
+
+========================================================================
+>>> paleozoic era
+------------------------------------------------------------------------
+paleozoic era
+古生代
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Ma of biotite shows that the rock is formed in the middle stage of Late Paleozoic era. 卡拉麦里缝合带是北疆的一条重要界线，沿该带广泛发育晚古生代火山岩。
+≫   The extensive deposition of potash salts in North America in Paleozoic Era was associated closely with the position of paleoequator. 北美晚古生代钾盐大规模集中成矿作用，也与该时期北美大陆古赤道位置密切相关。
+≫   Carboniferous: of, belonging to, or denoting a geologic division of the Paleozoic Era following the Devonian and preceding the Permian. 石炭纪的，石炭系的：(属于或表示)地质上的一个分段，即紧跟着泥盆纪而早于二叠纪的古生代的。
+
+========================================================================
+>>> cambrian period
+------------------------------------------------------------------------
+cambrian period    [美 ˈkæmbriən ˈpɪriəd]
+寒武纪：地质年代的一个时期，距今约5.4亿年前，是古生代的第一个时期，以生物多样性的爆发和无脊椎动物的出现而著名。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   During the Cambrian period, 500 million years ago, worm-like creatures were evolving into fish-like creatures. 在5亿年前的寒武纪，似蠕虫生物逐渐演化成似鱼生物。
+≫   The basement strata and the migmatite, however, were formed much later, about Cambrian period and early palaeozoic era. 但其基底地层和混合岩形成时代较晚，为寒武纪和下古生代。
+≫   Afterward, global large-scale massive volcanic activity in Permian Period generally brought about metamorphism whole middle Cambrian Period volcanic sediment rock in research area. 二叠纪全球性大规模火山活动，致使区内整个中寒武纪的火山沉积岩普遍发生变质。
+
+========================================================================
+>>> ordovician period
+------------------------------------------------------------------------
+Ordovician Period
+奥陶纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The dry mountain ranges of the western United States contain rocks dating back 440 to 510 million years, to the Ordovician period, and teeming with evidence of tropical marine life. 美国西部干燥的山脉包含了距今4.4亿至5.1亿年前的奥陶纪岩石，其中充斥着热带海洋生物生存的迹象。
+≫   At the end of Ordovician Period, a differential elevation occurred in the central Shanganning Basin due to the Caledonian Movement. 陕甘宁盆地中部气田的主要储气层段为奥陶系马五段的古岩溶层。
+≫   Eurypterid: any of various large segmented aquatic arthropods of the order eurypterida that existed from the ordovician period to the Permian period. (古生)板足鲎目的：一种巨大的、有节的，属于板足鲎目的水生节肢动物，生存于奥陶纪到二叠纪时期。
+
+========================================================================
+>>> ordovician
+------------------------------------------------------------------------
+Ordovician    [美 ˌɔːrdəˈvɪʃən / 英 ˌɔːdəʊˈvɪʃɪən]
+n. 奥陶系，奥陶纪
+adj. 奥陶纪的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the second period of the Palaeozoic era, between the Cambrian and Silurian periods, which lasted for 45 000 000 years during which marine invertebrates flourished (古生代第二期)奥陶纪的; 属于(古生代第二期)奥陶纪的
+2. (N) the Ordovician period or rock system 奥陶纪时期; 奥陶纪岩石系统
+
+========================================================================
+>>> silurian
+------------------------------------------------------------------------
+silurian    [美 saɪˈlʊriən / 英 saiˈljuəriən; si-]
+adj. 志留纪的；希留利亚纪的
+n. （地质）志留纪；希留利亚纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the third period of the Palaeozoic era, between the Ordovician and Devonian periods, which lasted for 25 million years, during which fishes first appeared 志留纪的; 奥陶纪与泥盆纪之间，持续了2500万年，此间首次出现鱼类
+2. (N) the Silurian period or rock system 志留纪
+
+========================================================================
+>>> devonian
+------------------------------------------------------------------------
+Devonian    [美 dɪˈvoʊnɪən / 英 dəˈvəʊniən]
+adj. 泥盆纪的；德文郡的
+n. [地质] 泥盆纪；英国得文郡
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The end of the Devonian was a crucial time for vertebrates. 泥盆纪末期是脊椎动物出现很的关键时期。
+≫   Emergence stratums are of Sinian, Devonian, Permian, Trias and intrusive granite dike and coarse - grained granite dike. 出露地层为震旦系、泥盆系、二叠系、三叠系以及侵入的花岗岩脉和花岗伟晶岩脉。
+≫   Late Devonian About 360m years ago, a fifth of marine families were wiped out, alongside more than half of all marine genera. 泥盆纪晚期 约三亿六千万年以前，五分之一海洋家族遭毁灭，同时毁灭的还有半数以上的海洋属生物。
+
+========================================================================
+>>> carboniferous
+------------------------------------------------------------------------
+carboniferous    [美 ˌkɑːrbəˈnɪfərəs / 英 ˌkɑːbəˈnɪfərəs]
+adj. 石炭纪的，石炭系的
+n. 石炭纪，石炭层
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) yielding coal or carbon 产生碳或煤的
+
+========================================================================
+>>> permian
+------------------------------------------------------------------------
+Permian    [美 ˈpɜːrmiən / 英 ˈpɜːmɪən]
+adj. 二叠纪的
+n. [地质] 二叠纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the last period of the Palaeozoic era, between the Carboniferous and Triassic periods, which lasted for 60 000 000 years 二叠纪的
+2. (N) the Permian period or rock system 二叠纪; 二叠统
+
+========================================================================
+>>> mesozoic
+------------------------------------------------------------------------
+Mesozoic    [美 ˌmezoˈzoɪk / 英 ˌmesəʊˈzəʊɪk]
+adj. 中生代的
+n. 中生代
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or relating to an era of geological time that began 250 000 000 years ago with the Triassic period and lasted about 185 000 000 years until the end of the Cretaceous period 中生代的
+2. (N) the Mesozoic era 中生代
+
+========================================================================
+>>> triassic period
+------------------------------------------------------------------------
+triassic period
+三叠纪：地质年代的一个时期，距今约2.5亿年前，是中生代的第一个时期，紧随二叠纪之后。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This was towards the end of the Triassic period. 那时已是三叠纪末期。
+≫   Dinosaurs first appear in the fossil record during the Triassic period, some 230m years ago. 根据化石记载，恐龙最早出现在三叠纪期间，也就是大约2亿3000万年以前。
+≫   Conodonts went extinct at the end of the Triassic Period, about the time dinosaurs were evolving. 牙形刺在三叠纪末期灭绝了，这正是恐龙开始演化的时代。
+
+========================================================================
+>>> jurassic
+------------------------------------------------------------------------
+jurassic    [美 dʒʊˈræsɪk / 英 dʒʊˈræsɪk]
+adj. 侏罗系的；侏罗纪的
+n. 侏罗纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or formed in the second period of the Mesozoic era, between the Triassic and Cretaceous periods, lasting for 55 million years during which dinosaurs and ammonites flourished 侏罗纪的
+2. (N) the Jurassic period or rock system 侏罗纪时代
+
+========================================================================
+>>> jurassic period
+------------------------------------------------------------------------
+jurassic period    [美 dʒʊˈræsɪk ˈpɪrɪəd]
+侏罗纪：地质年代的一个时期，距今约2.01亿年至1.45亿年前，是中生代的第二个时期，位于三叠纪和白垩纪之间。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   And on your left, you have Tyrannosaurus Rex, a carnivore from the Jurassic period. 在您的左边，您看到的是暴龙，一种来自侏罗纪的肉食动物。
+≫   Around 180 million years ago, during the Jurassic Period, New Jersey bordered North Africa. 约180万年前，在侏罗纪晚期，新泽西州接壤北非。
+≫   It's giving us an overview of the high Arctic during part of the Jurassic period for the very first time. 这差不多是相当于我们第一次对侏罗纪部分时期的高纬度北极地区有了大致了解。
+
+========================================================================
+>>> cretaceous
+------------------------------------------------------------------------
+cretaceous    [美 krɪˈteɪʃəs / 英 krɪˈteɪʃəs]
+adj. 白垩纪的；似白垩的
+n. 白垩纪；白垩系
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) consisting of or resembling chalk (像)白垩的
+
+========================================================================
+>>> cretaceous period
+------------------------------------------------------------------------
+cretaceous period
+白垩纪：地质年代的一个时期，距今约1.45亿年至6,500万年前，是中生代的最后一个时期。在白垩纪，恐龙繁盛，同时也出现了许多其他种类的生物。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These animals were not as sensitive to climate changes in the Cretaceous period as they are today. 这些动物在白垩纪对气候变化不像今天这样敏感。
+≫   Changes in climate before the Cretaceous period caused severe fluctuation in sea level, resulting in the extinction of the dinosaurs. 白垩纪以前的气候变化导致了海平面的剧烈波动，引发了恐龙的灭绝。
+≫   Not exactly outer space then, or the Cretaceous period. 而并不是外太空或是白垩纪。
+
+========================================================================
+>>> cenozoic
+------------------------------------------------------------------------
+Cenozoic    [英 ˌsiːnəʊˈzəʊɪk]
+n. [地质]新生代；新生代之岩层
+adj. 新生界的（等于 Cainozoic）
+alsoCaenozoicorCainozoic
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, denoting, or relating to the most recent geological era, which began 65 000 000 years ago: characterized by the development and increase of the mammals 新生代的
+2. (N) the Cenozoic era 新生代
+
+========================================================================
+>>> cenozoic era
+------------------------------------------------------------------------
+cenozoic era
+新生代：地质年代划分中的一个时期，距今约6600万年前开始，包括第三纪和第四纪。新生代是地球历史上最近的一个时期，以哺乳动物的繁荣和人类的出现为特点。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Plants and animals from the Mesozoic era were unable to survive in the Cenozoic era. 中生代的动植物在新生代无法生存。
+≫   The Cenozoic era is composed of tertiary period followed by quaternary period. 新生代是由第三纪和第四纪组成的。
+≫   Through long terms of tectonic evolutions it changed into a transform fault in the Cenozoic era. 经长期构造演化于新生代转变为转换断层。
+
+========================================================================
+>>> paleogene
+------------------------------------------------------------------------
+paleogene    [美 ˈpæliədʒiːn / 英 ˈpælɪəʊˌdʒiːn]
+adj. 下第三系的，早第三纪的
+n. 下第三系，早第三纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Melut Basin is a large-scale basin of the Cretaceous-Paleogene sediment in the southeastern Sudan. 迈卢特盆地是苏丹东南部中—新生代的一个大型陆内裂谷盆地。
+≫   It says lice are old, predate the Cretaceous-Paleogene boundary, and must have been living on something. 它说明了虱子的历史非常久，在白垩纪-早第三纪过渡期之前，而且也肯定是寄生在某种生物上的。
+≫   “The fossil record continues to show that the origin of modern placental mammals postdates or is at the Cretaceous-Paleogene boundary, ” he said. 他说：“化石记录一再证实现代胎盘类哺乳动物的起源是在白垩纪-早第三纪分界点的时候或那之后。
+
+========================================================================
+>>> paleogene period
+------------------------------------------------------------------------
+paleogene period
+早第三纪；古第三纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Parts of tension-shear fractures were formed in the Late Paleogene Period. 部分张剪性裂缝形成时间不晚于古近纪晚期。
+
+========================================================================
+>>> paleocene
+------------------------------------------------------------------------
+Paleocene    [英 ˈpeɪliəʊsiːn / 美 ˈpeɪliəˌsin]
+n. 古新世
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Their ages may be early Late Cretaceous and Late Cretaceous-Paleocene. 它们分属于晚白垩世早期、晚白垩世—古新世。
+≫   During Late Paleocene there were two greater transgressions in the sag. 晚古新世丽水凹陷经历了两次较大规模的海侵。
+≫   There he developed the experience and expertise that led to parallel exploration of the Paleocene in China. 在那里，他积累了专业知识和经验，并促成了对中国古新统进行的类似考察。
+
+========================================================================
+>>> epoch
+------------------------------------------------------------------------
+epoch    [美 ˈepək / 英 ˈiːpɒk]
+n. 时代，纪元；值得纪念的事件（或日期）；世（地质年代，纪下分世）；历元
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you refer to a long period of time as an epoch, you mean that important events or great changes took place during it. 时代
+   ≫   The birth of Christ was the beginning of a major epoch of world history.  基督的诞生是世界历史一个重要时代的开始。
+
+========================================================================
+>>> paleocene epoch
+------------------------------------------------------------------------
+paleocene epoch
+古新世
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Paleocene epoch was a time of dense forests and evolutionary experiments. 古新世可以说是一个丛林茂密演化不断的时代。
+≫   The paleocene epoch , 63 millions ago , is a crucial time in the history of mammals , it was a world without dinosaurs. 古新的世纪， 63成千上万前，是关键的时光在哺乳动物的历史上，它是一个世界没有恐。
+≫   The paleontogical history of the cat can be traced back to the great diversification of mammals in the Paleocene epoch, at the beginning of the Cenozoic era, over 60 million years ago. 猫的起源可以追溯到六千万年前新生代开始时古新世哺乳动物的分化。
+
+========================================================================
+>>> paleocene
+------------------------------------------------------------------------
+Paleocene    [美 ˈpeɪliəˌsin / 英 ˈpeɪliəʊsiːn]
+n. 古新世
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Their ages may be early Late Cretaceous and Late Cretaceous-Paleocene. 它们分属于晚白垩世早期、晚白垩世—古新世。
+≫   During Late Paleocene there were two greater transgressions in the sag. 晚古新世丽水凹陷经历了两次较大规模的海侵。
+≫   There he developed the experience and expertise that led to parallel exploration of the Paleocene in China. 在那里，他积累了专业知识和经验，并促成了对中国古新统进行的类似考察。
+
+========================================================================
+>>> paleocene epoch
+------------------------------------------------------------------------
+paleocene epoch
+古新世
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Paleocene epoch was a time of dense forests and evolutionary experiments. 古新世可以说是一个丛林茂密演化不断的时代。
+≫   The paleocene epoch , 63 millions ago , is a crucial time in the history of mammals , it was a world without dinosaurs. 古新的世纪， 63成千上万前，是关键的时光在哺乳动物的历史上，它是一个世界没有恐。
+≫   The paleontogical history of the cat can be traced back to the great diversification of mammals in the Paleocene epoch, at the beginning of the Cenozoic era, over 60 million years ago. 猫的起源可以追溯到六千万年前新生代开始时古新世哺乳动物的分化。
+
+========================================================================
+>>> miocene epoch
+------------------------------------------------------------------------
+Miocene epoch
+中新世
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The faulting might be attributed to the ascending lower crust-derived fluids after the Late Miocene epoch. 造成断裂分期活动的原因是藏东地区下地壳流体的存在。
+≫   It peaked in the Oligocene Epoch around 34 million years ago in Eurasia, and again in the Miocene Epoch about 10 million years ago in Eurasia and Africa. 而在大约3千4百万年前的渐新世的欧亚大陆上达到顶峰，在大约1千万年前中新世的欧亚大陆和非洲大陆又再次达到顶峰。
+≫   Oligocene a geological epoch in the Tertiary, between Eocene and Miocene, lasting from about 38 to 25 million years ago. 渐新世纪第三纪始新世与中新世之间的地质纪元，大约从三千八百万年持续到二千五百万年前的一段时间。
+
+========================================================================
+>>> pliocene epoch
+------------------------------------------------------------------------
+pliocene epoch
+上新世
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Isn't the mastodon from the Pliocene Epoch? 乳齿象不是上新世的吗？
+≫   The first recognisable ancestors of modern humans evolved during the Pliocene epoch. 现代人类第一代可辨认的祖先就是在上新世进化而来。
+≫   In the pliocene epoch, 5. 3 million years ago, the primates continued to diversify. 在上新纪世纪，5。3百万年前，大主教继续多样化。
+
+========================================================================
+>>> quaternary period
+------------------------------------------------------------------------
+Quaternary period
+第四纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Woolly mammoths died out during the late quaternary period. 猛犸象在第四纪晚期灭绝了。
+≫   The Cenozoic era is composed of tertiary period followed by quaternary period. 新生代是由第三纪和第四纪组成的。
+≫   The Luannigou ore field riches with alluvial gold of Quaternary Period and is the favorable target for rock gold. 乱泥沟矿区第四系砂金矿产丰富，是寻找岩金的有利靶区。
+
+========================================================================
+>>> pleistocene epoch
+------------------------------------------------------------------------
+pleistocene epoch
+更新世：地质年代的一个时期，距今约260万年前至1.17万年前，特点是广泛的冰川活动和哺乳动物的大量繁衍。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Pleistocene Epoch was an ice age. 更新世是一段冰河时代。
+≫   They were the ancient Australian megafauna—huge animals of the Pleistocene epoch. 它们是古代澳大利亚的巨型动物——更新世时期的巨型动物。
+≫   During the Pleistocene epoch, several species of elephants isolated on islands underwent rapid dwarfing. 在更新世时期，孤立在岛上的几种大象迅速变矮。
+
+========================================================================
+>>> holocene epoch
+------------------------------------------------------------------------
+holocene epoch
+全新世：地质时间表上的一个时期，距今约1.17万年前开始，持续至今。全新世是地球历史上最近的一个时期，人类文明的发展和繁荣主要发生在这个时期。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Holocene Epoch is characterized by different sediments, ones that form when the climate is warmer. 全新世时期的特征为不同的沉积物，它们在气候变暖时形成。
+≫   Es Safa contains numerous vents that have been active during the holocene epoch (beginning approximately 12, 000 years ago). Es safa那儿有许许多多的火山口，在全新世时期就已经很活跃了(差不多始于1万2千年前)。
+≫   The fault has been mainly in stick slip from Subei to Arkesai, and in creep slip from Bage Valley to Changma Dam since Holocene Epoch. 全新世以来，该断裂的肃北至阿克塞一段以粘滑为主，而东边的巴个峡至昌马大坝之间断裂的滑动方式则为蠕滑。
+
+========================================================================
+>>> sinian
+------------------------------------------------------------------------
+sinian
+震旦纪
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Its age is Sinian early Paleozoic to Devonian. 其时代主要为震旦纪—早古生代至泥盆纪。
+≫   After the Sinian Great Ice Age, the Phanerozoic started. 震旦纪大冰期后开始了显生宙。
+≫   The sinian dolomite in Weiyuan is an old reservoir rock of complex structure. 威远震旦系白云岩层是年代老、结构复杂的储集层。
+
+========================================================================
+>>> pangaea
+------------------------------------------------------------------------
+pangaea    [美 pænˈdʒiːə / 英 pænˈdʒiːə]
+n. [海洋] 泛大陆；盘古大陆
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Columbus's signal accomplishment was to reknit the seams of Pangaea. 哥伦布最非凡的成就在于他重新弥合了原始大陆的缝隙。
+≫   There were three major phases in the break up of Pangaea. 原始大陆的崩解分为三个主要的阶段。
+≫   See "Supercontinent Pangaea Pushed, Not Sucked, Into Place." 见“超级大陆泛大陆是挤出来的，不是陷下去的。”
+
+========================================================================
+>>> ice age
+------------------------------------------------------------------------
+ice age    [美 ˈaɪs eɪdʒ / 英 ˈaɪs eɪdʒ]
+冰河时期：广泛冰川覆盖的时期。在专有名词中，指更新世冰川时期。
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Ice Age was a period of time lasting many thousands of years, during which a lot of the Earth's surface was covered with ice. 冰河时代; 冰川期 ['the' N]
+
+========================================================================
+>>> glacial
+------------------------------------------------------------------------
+glacial    [美 ˈɡleɪʃ(ə)l / 英 ˈɡleɪʃ(ə)l]
+adj. 冰的；冰冷的；冰河时代的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Glacial means relating to or produced by glaciers or ice. 冰河的; 冰的 [技术]
+   ≫   ...a true glacial landscape with U-shaped valleys.  …U形山谷中真正的冰河地貌。
+2. (ADJ) If you say that something moves or changes at a glacial pace, you are emphasizing that it moves or changes very slowly. 非常缓慢的 [usu ADJ n] [强调]
+   ≫   Change occurs at a glacial pace.  变化来得极为缓慢。
+
+========================================================================
+>>> glacial period
+------------------------------------------------------------------------
+glacial period
+冰川时期：指冰川覆盖面积扩大的时期，通常指更新世时期。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any period of time during which a large part of the earth's surface was covered with ice, due to the advance of glaciers, as in the late Carboniferous period, and during most of the Pleistocene; glaciation 冰河时期
+
+========================================================================
+>>> ice sheet
+------------------------------------------------------------------------
+ice sheet    [美 ˈaɪs ʃiːt / 英 ˈaɪs ʃiːt]
+冰帽：大面积的冰层，通常覆盖在陆地上，形成厚厚的冰盖。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An ice sheet is a large thick area of ice, especially one that exists for a long time. (尤指长期存在的)冰盖; 冰冠; 冰原
+
+========================================================================
+>>> glacier
+------------------------------------------------------------------------
+glacier    [美 ˈɡleɪʃər / 英 ˈɡlæsiə(r)]
+n. 冰河，冰川
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A glacier is an extremely large mass of ice which moves very slowly, often down a mountain valley. 冰川
+
+========================================================================
+>>> iceberg
+------------------------------------------------------------------------
+iceberg    [美 ˈaɪsbɜːrɡ / 英 ˈaɪsbɜːɡ]
+n. 冰山；微露端倪的事物
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An iceberg is a large tall mass of ice floating in the sea. 冰山
+
+========================================================================
+>>> erosion
+------------------------------------------------------------------------
+erosion    [美 ɪˈroʊʒ(ə)n / 英 ɪˈrəʊʒ(ə)n]
+n. 侵蚀，腐蚀；削弱，降低；糜烂
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Erosion is the gradual destruction and removal of rock or soil in a particular area by rivers, the sea, or the weather. 侵蚀
+   ≫   ...erosion of the river valleys.  …河谷的侵蚀。
+2. (N-UNCOUNT) The erosion of a person's authority, rights, or confidence is the gradual destruction or removal of them. 削弱
+   ≫   ...the erosion of confidence in world financial markets.  …对世界金融市场信心的削弱。
+3. (N-UNCOUNT) The erosion of support, values, or money is a gradual decrease in its level or standard. 逐渐降低
+   ≫   ...the erosion of moral standards.  …道德水准的逐渐降低。
+
+========================================================================
+>>> moraine
+------------------------------------------------------------------------
+moraine    [美 məˈreɪn / 英 məˈreɪn; mɒˈreɪn]
+n. 冰碛石
+n. （Moraine）人名；（法）莫雷纳
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a mass of debris, carried by glaciers and forming ridges and mounds when deposited 冰碛
+
+========================================================================
+>>> continental
+------------------------------------------------------------------------
+continental    [美 ˌkɑːntɪˈnent(ə)l / 英 ˌkɒntɪˈnent(ə)l]
+adj. 大洲的，大陆的；欧洲大陆的；具有欧洲特点的
+n. （欧洲）大陆人
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Continental is used to refer to something that belongs to or relates to a continent. 大陆的 [ADJ n]
+   ≫   The most ancient parts of the continental crust are 4000 million years old.  该大陆地壳最古老的那些部分有40亿年了。
+2. (ADJ) The continental United States consists of all the states which are situated on the continent of North America, as opposed to Hawaii and territories such as the Virgin Islands. 内陆的 (美国) [美国英语]
+   ≫   Shipping is included on orders sent within the continental U.S.  运费含在美国内陆发出的订单中。
+3. (ADJ) Continental means existing or happening in the American colonies during the American Revolution. 大陆的 (指在美国独立战争期间的美国殖民地存在或发生的) [美国英语] [usu ADJ n]
+   ≫   ...George Washington, Commander of the Continental Army.  …乔治·华盛顿，大陆军总司令。
+4. (ADJ) Continental means situated on or belonging to the continent of Europe except for Britain. (除英国外的) 欧洲大陆的 [英国英语] [ADJ n]
+   ≫   He sees no signs of improvement in the U.K. and continental economy.  他看不出英国和欧洲大陆的经济好转的迹象。
+5. (N-COUNT) Continentals were soldiers who fought in the Continental Army against the British in the American Revolution. (美国独立战争中的) 大陆军士兵 [美国英语]
+
+========================================================================
+>>> continental drift
+------------------------------------------------------------------------
+continental drift    [英 ˌkɒntɪˌnent(ə)l ˈdrɪft]
+大陆漂移：指大陆在地球内部深层粘性带上缓慢移动的现象，与板块构造相比较。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Continental drift is the slow movement of the Earth's continents toward and away from each other. 大陆漂移
+
+========================================================================
+>>> tectonics
+------------------------------------------------------------------------
+tectonics    [美 tekˈtɑːnɪks / 英 tekˈtɒnɪks]
+n. [建] 构造学，[地质] 构造地质学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Wilson's analysis of these data is now a central part of plate tectonics. 威尔逊对这些数据的分析现在是板块构造学的核心部分。
+≫   Then in 1963, in the early days of the development of the theory of plate tectonics. 然后是在1963年，在板块构造理论发展的早期。
+≫   There is a considerable overlap between Wegener's concepts and the later widely embraced plate tectonics theory. 魏格纳的概念与后来被广泛接受的板块构造理论之间有相当大的重叠。
+
+========================================================================
+>>> plate tectonics
+------------------------------------------------------------------------
+plate tectonics    [英 ˌpleɪt tekˈtɒnɪks]
+板块构造学：一种地质学理论，认为地球的岩石圈被分成几个板块，这些板块漂浮在地幔上并独立移动，地球的大部分地震活动发生在这些板块的边界上。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Plate tectonics is the way that large pieces of the Earth's surface move slowly around. 板块构造(论) [技术]
+
+========================================================================
+>>> subduction
+------------------------------------------------------------------------
+subduction    [美 səbˈdʌkʃən / 英 səbˈdʌkʃən]
+n. 俯冲；除去；减法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act of subducting, esp of turning the eye downwards 向下动，尤指眼睛
+
+========================================================================
+>>> spread
+------------------------------------------------------------------------
+spread    [美 spred / 英 spred]
+v. 展开，打开；张开，伸开（手臂、手指、腿）；扩散，蔓延；传播，传染；散布，（使）流传；（人，动物，植物）分布，分散开来；撒，散播；传递；（脸上）露出，渐渐表现出；涂，敷；分摊，分配；延伸，伸展，扩张；分散（于某一时段内），分期还清（债务）；分散（风险）
+n. 扩散，蔓延；范围，幅度，种类；延展度，宽度，覆盖面；涂抹食品的酱类；盛宴，酒席；（尤指横贯两版的）文章，广告；<美>床罩；<美>大农场，大牧场；翼展；一大片；（两种价格或比率的）差额，差幅；（两支对抗的运动队之间比分的）差距；（物理，生理）点源能量传播
+adj. 伸展的
+★★★★ CET4 TEM4 spreading,spread,spreads
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you spread something somewhere, you open it out or arrange it over a place or surface, so that all of it can be seen or used easily. 铺开
+   ≫   She spread a towel on the sand and lay on it.  她把一块浴巾铺在沙地上，然后躺在上面。
+2. (PHRASAL VERB) Spread out means the same as . 铺开 (同)(spread)
+   ≫   He extracted several glossy prints and spread them out on a low coffee table.  他抽出几张光面照片铺在一张矮咖啡桌上。
+3. (V-T) If you spread your arms, hands, fingers, or legs, you stretch them out until they are far apart. 伸展开 (手臂、手、手指、腿等)
+   ≫   Sitting on the floor, spread your legs as far as they will go without overstretching.  坐在地板上，尽可能分开双腿，但不要过度拉伸。
+4. (PHRASAL VERB) Spread out means the same as . 伸展开
+   ≫   David made a gesture, spreading out his hands as if he were showing that he had no explanation to make.  大卫做了个手势，双手一摊，似乎表示他没有什么可解释的。
+5. (V-T) If you spread a substance on a surface or spread the surface with the substance, you put a thin layer of the substance over the surface. 摊; 抹; 敷
+   ≫   Spread the mixture in the cake pan and bake for 30 minutes.  将该混合物摊在蛋糕烤盘里，烤30分钟。
+6. (V-T/V-I) If something spreads or is spread by people, it gradually reaches or affects a larger and larger area or more and more people. 使扩散; 扩散; 传播
+   ≫   The industrial revolution, which started a couple of hundred years ago in Europe, is now spreading across the world.  几百年前始于欧洲的工业革命现在正向全世界扩散。
+   ≫   ...the sense of fear spreading in residential neighbourhoods.  …在住宅区蔓延的恐惧感。
+7. (N-SING) Spread is also a noun. 扩散; 传播
+   ≫   The greatest hope for reform is the gradual spread of information.  改革的最大希望就是信息的逐渐传播。
+8. (V-T/V-I) If something such as a liquid, gas, or smoke spreads or is spread, it moves outward in all directions so that it covers a larger area. 使蔓延; 蔓延
+   ≫   Fire spread rapidly after a chemical truck exploded.  一辆装有化学品的卡车爆炸后火势迅速蔓延开来。
+   ≫   A dark red stain was spreading across his shirt.  一个暗红色的污渍正在他的衬衫上渗开。
+9. (N-SING) Spread is also a noun. 蔓延
+   ≫   The situation was complicated by the spread of a serious forest fire.  形势因一场严重的森林火灾的蔓延而复杂化了。
+10. (V-T) If you spread something over a period of time, it takes place regularly or continuously over that period, rather than happening at one time. 分散 (于某一时段内)
+   ≫   There seems to be little difference whether you eat all your calorie allowance at once, or spread it over the day.  无论你是一次性吃完全天的卡路里限量还是分散在一天里吃，似乎没多大区别。
+11. (V-T) If you spread something such as wealth or work, you distribute it evenly or equally. 均分
+   ≫   ...policies that spread the state's wealth more evenly.  …更加平均地分配国家财富的政策。
+12. (N-SING) Spread is also a noun. 均分
+   ≫   There are easier ways to encourage the even spread of wealth.  有更简单的方法来促进财富的平均分配。
+13. (N-SING) A spread of ideas, interests, or other things is a wide variety of them. 多样
+   ≫   A topic-based approach can be hard to assess in schools with a typical spread of ability.  在以典型的能力多元化为特征的学校里很难评估一种基于话题的教学方法。
+14. (N-COUNT) A spread is two pages of a book, magazine, or newspaper that are opposite each other when you open it at a particular place. (书籍、杂志、报纸等的) 相对的两页
+   ≫   There was a double-page spread of a dinner for 46 people.  有一篇关于46人共进晚餐的横贯两版的文章。
+15. (N-SING) Spread is used to refer to the difference between the price that a seller wants someone to pay for a particular stock or share and the price that the buyer is willing to pay. (股票买卖的) 价差 [商业]
+   ≫   Market makers earn their livings from the spread between buying and selling prices.  炒股者赚取股票买卖的价格差。
+
+========================================================================
+>>> spreading
+------------------------------------------------------------------------
+spreading    [美 ˈspredɪŋ]
+v. 传播；摊开（spread 的现在分词）
+★★★★ CET4 TEM4 spreading,spread,spreads
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you spread something somewhere, you open it out or arrange it over a place or surface, so that all of it can be seen or used easily. 铺开
+   ≫   She spread a towel on the sand and lay on it.  她把一块浴巾铺在沙地上，然后躺在上面。
+2. (PHRASAL VERB) Spread out means the same as . 铺开 (同)(spread)
+   ≫   He extracted several glossy prints and spread them out on a low coffee table.  他抽出几张光面照片铺在一张矮咖啡桌上。
+3. (V-T) If you spread your arms, hands, fingers, or legs, you stretch them out until they are far apart. 伸展开 (手臂、手、手指、腿等)
+   ≫   Sitting on the floor, spread your legs as far as they will go without overstretching.  坐在地板上，尽可能分开双腿，但不要过度拉伸。
+4. (PHRASAL VERB) Spread out means the same as . 伸展开
+   ≫   David made a gesture, spreading out his hands as if he were showing that he had no explanation to make.  大卫做了个手势，双手一摊，似乎表示他没有什么可解释的。
+5. (V-T) If you spread a substance on a surface or spread the surface with the substance, you put a thin layer of the substance over the surface. 摊; 抹; 敷
+   ≫   Spread the mixture in the cake pan and bake for 30 minutes.  将该混合物摊在蛋糕烤盘里，烤30分钟。
+6. (V-T/V-I) If something spreads or is spread by people, it gradually reaches or affects a larger and larger area or more and more people. 使扩散; 扩散; 传播
+   ≫   The industrial revolution, which started a couple of hundred years ago in Europe, is now spreading across the world.  几百年前始于欧洲的工业革命现在正向全世界扩散。
+   ≫   ...the sense of fear spreading in residential neighbourhoods.  …在住宅区蔓延的恐惧感。
+7. (N-SING) Spread is also a noun. 扩散; 传播
+   ≫   The greatest hope for reform is the gradual spread of information.  改革的最大希望就是信息的逐渐传播。
+8. (V-T/V-I) If something such as a liquid, gas, or smoke spreads or is spread, it moves outward in all directions so that it covers a larger area. 使蔓延; 蔓延
+   ≫   Fire spread rapidly after a chemical truck exploded.  一辆装有化学品的卡车爆炸后火势迅速蔓延开来。
+   ≫   A dark red stain was spreading across his shirt.  一个暗红色的污渍正在他的衬衫上渗开。
+9. (N-SING) Spread is also a noun. 蔓延
+   ≫   The situation was complicated by the spread of a serious forest fire.  形势因一场严重的森林火灾的蔓延而复杂化了。
+10. (V-T) If you spread something over a period of time, it takes place regularly or continuously over that period, rather than happening at one time. 分散 (于某一时段内)
+   ≫   There seems to be little difference whether you eat all your calorie allowance at once, or spread it over the day.  无论你是一次性吃完全天的卡路里限量还是分散在一天里吃，似乎没多大区别。
+11. (V-T) If you spread something such as wealth or work, you distribute it evenly or equally. 均分
+   ≫   ...policies that spread the state's wealth more evenly.  …更加平均地分配国家财富的政策。
+12. (N-SING) Spread is also a noun. 均分
+   ≫   There are easier ways to encourage the even spread of wealth.  有更简单的方法来促进财富的平均分配。
+13. (N-SING) A spread of ideas, interests, or other things is a wide variety of them. 多样
+   ≫   A topic-based approach can be hard to assess in schools with a typical spread of ability.  在以典型的能力多元化为特征的学校里很难评估一种基于话题的教学方法。
+14. (N-COUNT) A spread is two pages of a book, magazine, or newspaper that are opposite each other when you open it at a particular place. (书籍、杂志、报纸等的) 相对的两页
+   ≫   There was a double-page spread of a dinner for 46 people.  有一篇关于46人共进晚餐的横贯两版的文章。
+15. (N-SING) Spread is used to refer to the difference between the price that a seller wants someone to pay for a particular stock or share and the price that the buyer is willing to pay. (股票买卖的) 价差 [商业]
+   ≫   Market makers earn their livings from the spread between buying and selling prices.  炒股者赚取股票买卖的价格差。
+
+========================================================================
+>>> rift
+------------------------------------------------------------------------
+rift    [美 rɪft / 英 rɪft]
+n. （人际关系）不和，分歧；裂缝，裂口；地堑，裂谷
+v. 开裂，断裂；使断裂，使开裂
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rift between people or countries is a serious quarrel or disagreement that stops them from having a good relationship. 不和
+   ≫   The interview reflected a growing rift between the president and Congress.  这次会见反映出总统与国会间日益加深的不和。
+2. (N-COUNT) A rift is a split that appears in something solid, especially in the ground. (尤指地面上的) 裂缝
+   ≫   The earth convulsed uncontrollably, a rift opened suddenly and, with a horrid sucking sound, swallowed the entire pool.  大地失控地剧烈震动，一条裂缝突然出现，随着一声可怕的吞吸声，吞噬了整个池塘。
+3. (N) a shallow or rocky part in a stream (河流中的)浅石滩
+
+========================================================================
+>>> drift
+------------------------------------------------------------------------
+drift    [美 drɪft / 英 drɪft]
+v. 飘移，漂流；任其自然地（或不知不觉地）进入（某种状态）；流浪，漂泊；缓慢移动；传出；吹积
+n. 流动，趋势；吹积物，雪堆；主旨，大意；偏航；不作为，优柔寡断；丛生的植物；冰碛；水平巷道
+★★★ CET4 TEM4 drifting,drifted,drifts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When something drifts somewhere, it is carried there by the movement of wind or water. 漂流
+   ≫   We proceeded to drift on up the river.  我们继续在河上漂流着。
+2. (V-I) If someone or something drifts into a situation, they get into that situation in a way that is not planned or controlled. 脱离正途; 偏离
+   ≫   We need to offer young people drifting into crime an alternative set of values.  我们需要给误入犯罪歧途的年轻人提供另一套价值观。
+3. (V-I) If you say that someone drifts around, you mean that they travel from place to place without a plan or settled way of life. 漂泊; 流浪 [表不满]
+   ≫   You've been drifting from job to job without any real commitment.  你频频换工作，全无恒心。
+4. (V-I) To drift somewhere means to move there slowly or gradually. 缓慢地移动
+   ≫   As rural factories lay off workers, people drift toward the cities.  随着乡镇企业裁员，人们陆续移向城市。
+5. (V-I) If sounds drift somewhere, they can be heard but they are not very loud. (声音) 隐约传出
+   ≫   Cool summer dance sounds are drifting from the stereo indoors.  屋内立体声音响飘出美妙的夏季舞曲。
+6. (V-I) If snow drifts, it builds up into piles as a result of the movement of the wind. 吹积
+   ≫   The snow, except where it drifted, was only calf-deep.  除了被风吹积起来的地方外，积雪只深及小腿。
+7. (N-COUNT) A drift is a movement away from somewhere or something, or a movement toward somewhere or something different. 移向; 移动
+   ≫   ...the drift toward the cities.  …向城市的流动。
+8. (N-COUNT) A drift is a mass of snow that has built up into a pile as a result of the movement of wind. (吹积成的) 雪堆
+   ≫   A nine-year-old boy was trapped in a snow drift.  一个9岁的男孩陷在雪堆里了。
+9. (N-SING) The drift of an argument or speech is the general point that is being made in it. (辩论、演说等的) 主旨
+   ≫   Grace was beginning to get his drift.  格雷斯开始抓住他的主旨了。
+
+========================================================================
+>>> suture
+------------------------------------------------------------------------
+suture    [美 ˈsuːtʃər / 英 ˈsuːtʃə(r)]
+n. 缝合；缝合处；缝合用的线
+vt. 缝合
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A suture is a stitch made to join together the open parts of a wound, especially one made after a patient has been operated on. (尤指手术后伤口的)缝线; 缝合 [医学]
+
+========================================================================
+>>> orogeny
+------------------------------------------------------------------------
+orogeny    [美 ɔːˈrɑːdʒəni / 英 ɒˈrɒdʒəni]
+n. [地质] 造山运动，造山作用；山岳的形成
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The period was one of general emergence and orogeny. 这个时期是全面的上升和造山运动。
+≫   The period was one of general emergence and orogeny . 这个时期是全面的上升和造山运动。
+≫   Foreland basins are the key areas for the study of orogeny. 前陆盆地是研究造山运动的关键地区之一。
+
+========================================================================
+>>> volcanism
+------------------------------------------------------------------------
+volcanism    [美 ˈvɑːlkəˌnɪzəm; ˈvɔlkəˌnɪzəm / 英 ˈvɒlkənɪz(ə)m]
+n. （地质）火山作用（活动或现象）
+alsovulcanism
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) those processes collectively that result in the formation of volcanoes and their products 火山作用
+
+========================================================================
+>>> paleoclimatology
+------------------------------------------------------------------------
+paleoclimatology    [英 ˌpæliəʊˌklaɪməˈtɒlədʒi]
+n. （英）古气候学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Paleoclimatology is the study and description of ancient climates. 古气候学是对古代气候的研究和描述。
+≫   The database is created by NOAA Paleoclimatology Program and World data Center for Paleoclimatology, and one part of the databases. 该数据库由美国国家海洋和大气局古气候学计划组及世界数据中心古气候学分中心创建，是其中的数据库之一。
+≫   The NOAA Paleoclimatology Program distributes the product of various collaborative efforts to collect and organize pollen records from around the globe. 古气候学计划组负责协调各种合作力量，组织、收集全球范围内的花粉记录。
+
+========================================================================
+>>> depositional
+------------------------------------------------------------------------
+depositional    [英 ˌdepəˈzɪʃənəl]
+adj. 沉积作用的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The thin-beded siliceous -rocks include chert and depositional quartz with textures of oolite and pebble. 矽质岩包括燧石和沈积石英岩，呈薄层状产出，沈积石英岩具鲕状、砾状结构。
+≫   There is still much disagreement over the depositional characteristics of the Carboniferous Taiyuan Formation of Upper Paleozoic in the northern Ordos Basin. 关于鄂尔多斯盆地北部上古生界石炭系太原组的沉积特点，目前存在着多种不同的观点。
+≫   The reviews of modern half graben lakes show that coarse depositional facies do not developed everywhere along the lake margin, but only at the main river mouths. 现代断陷湖盆沉积考察表明，并非湖盆边缘处处发育粗粒沉积相，粗粒沉积体系仪仅发育在主河口附近。
+
+========================================================================
+>>> extincition
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> extinction
+------------------------------------------------------------------------
+extinction    [美 ɪkˈstɪŋkʃ(ə)n / 英 ɪkˈstɪŋkʃn]
+n. 灭绝，消亡；（债务的）偿清；消光
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The extinction of a species of animal or plant is the death of all its remaining living members. (物种的) 灭绝
+   ≫   An operation is beginning to try to save a species of crocodile from extinction.  一项行动正在展开来拯救一个鳄鱼种类使其免遭灭绝。
+2. (N-UNCOUNT) If someone refers to the extinction of a way of life or type of activity, they mean that the way of life or activity stops existing. (生活方式、活动的) 消亡
+   ≫   The loggers say their jobs are faced with extinction because of declining timber sales.  樵夫们说他们的工作因不断下降的木材销售而面临消亡。
+
+========================================================================
+>>> paleontology
+------------------------------------------------------------------------
+paleontology    [美 ˌpeɪliɑːnˈtɑːlədʒi / 英 ˌpælɪɒnˈtɒlədʒɪ]
+n. 古生物学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Scientist Mike Augee says that, "This is a sacred site in Australian paleontology." 科学家迈克·奥吉说：“这是澳大利亚古生物学的圣地。”
+≫   There are at least 10 species Paleontology fossils, members of Mammuthus-Coelodonta groups in late Pleistocene in northeast of China. 动物化石可鉴定的有10个种属，均属于中国东北更新世晚期猛犸象—披毛犀动物群成员。
+≫   She is a specialist in paleontology. 她是古生物学方面的专家。
+
+========================================================================
+>>> dinosaur
+------------------------------------------------------------------------
+dinosaur    [美 ˈdaɪnəsɔːr / 英 ˈdaɪnəsɔː(r)]
+n. 恐龙；守旧落伍的人，过时落后的东西
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Dinosaurs were large reptiles which lived in prehistoric times. 恐龙
+2. (N-COUNT) If you refer to an organization as a dinosaur, you mean that it is large, inefficient, and out of date. 庞大、低效且落后的机构 [表不满]
+   ≫   ...industrial dinosaurs.  …庞大臃肿的工业企业。
+
+========================================================================
+>>> trex
+------------------------------------------------------------------------
+trex    [美 treks / 英 tˈreks]
+食用油
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In 2001, he pioneered TREX, an alternative XML schema language which has since merged with the RELAX language, to form RELAX NG. 在 2001 年，他首创了 TREX，它是另一种可用的 XML 模式语言，并且已经与 RELAX 语言合并形成了 RELAX NG。
+≫   HANA is built on a superset of technologies with a long history at SAP, including the MaxDB database and TREX in-memory engine. HANA构建在SAP具有悠久历史的技术的超集上，包括MaxDB数据库和TREX常驻内存引擎。
+
+========================================================================
+>>> T-REX
+------------------------------------------------------------------------
+T-Rex    [美 tiː reks]
+n. 霸王龙（游戏中角色）；恐龙王（乐队名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It's a gharial, perhaps the largest terrestrial carnivore ever to walk the earth, larger than T-Rex. 这是一条长吻鄂，可能是地球上有史以来最大的陆地食肉动物，比霸王龙还要大。
+≫   This thing could eat a T-rex and have the Alien for desert. 这个怪物可以吃下一整头巨兽,并且把眼前的小外星人当做甜点。
+≫   With its powerful jaws and teeth, T-Rex was a terrifying predator. 坚利的牙齿和下颚说明这只霸王龙肯定是个可怕的猎手。
+
+========================================================================
+>>> tyrannosaurus
+------------------------------------------------------------------------
+tyrannosaurus    [美 tɪˌrænəˈsɔːrəs; taɪˌrænəˈsɔːrəs / 英 tɪˌrænəˈsɔ:rəs]
+n. 暴龙
+alsotyrannosaur
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any large carnivorous bipedal dinosaur of the genus Tyrannosaurus, common in North America in upper Jurassic and Cretaceous times: suborder Theropoda (theropods) 暴龙; 晚侏罗纪和白垩纪中在北美常见
+
+========================================================================
+>>> tyrannosaurus rex
+------------------------------------------------------------------------
+Tyrannosaurus rex
+雷克斯霸王龙（恐龙名称）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Horner, a paleontologist at Montana State University, suspects the remains of Nanotyrranus may belong to a young Tyrannosaurus rex. 蒙大拿州立大学的古生物学家霍纳怀疑那些短暴龙的遗骸可能属于一只年轻的雷克斯霸王龙。
+≫   The discovery in China of what amounts to a miniature prototype of Tyrannosaurus rex calls into question theories about the dinosaur's evolution. 在中国发现的相当于小型雷克斯霸王龙原型的东西，对有关恐龙进化的理论提出了质疑。
+≫   The result, once natural selection had done its work over the course of millions of years, was the now familiar cast of Allosaurus and Tyrannosaurus rex. 结果，历经数百万年间的自然选择，形成了我们今日熟知的异特龙和雷克斯霸王龙族群。
+
+========================================================================
+>>> velociraptor
+------------------------------------------------------------------------
+velociraptor    [美 vəˈlɑːsɪræptər / 英 vəˈlɒsɪræptə(r)]
+n. （恐龙）迅猛龙，伶盗龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Modern birds have higher metabolism rates than even the most agile Velociraptor ever had. 现代鸟类拥有比最敏捷的的迅猛龙还要高的新陈代谢率。
+≫   Early therapods, the group of dinosaurs that includes all meat-eating species from Velociraptor to Tyrannosaurus rex, gained ground and thrived. 早期的兽脚亚目食肉恐龙，包括从迅猛龙到霸王龙在内的所有肉食物种，抢占了地盘并茁壮成长。
+≫   Deinonychosaurs, such as the velociraptor, walked on two legs, ate meat and had vicious retractable claws. “恐爪龙类”比如“伶盗龙”，用两条腿走路，食肉，有邪恶的可伸缩的爪。
+
+========================================================================
+>>> triceratops
+------------------------------------------------------------------------
+triceratops    [英 traɪˈserətɒps / 美 traɪˈserətɑːps]
+n. 三角恐龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any rhinoceros-like herbivorous dinosaur of the ornithischian genus Triceratops, of Cretaceous times, having a heavily armoured neck and three horns on the skull 三角龙
+
+========================================================================
+>>> stegosaurus
+------------------------------------------------------------------------
+stegosaurus    [英 ˌsteɡəˈsɔːrəs / 美 ˌsteɡəˈsɔːrəs]
+n. 剑龙
+alsostegosaurus
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any quadrupedal herbivorous ornithischian dinosaur of the suborder Stegosauria, esp any of the genus Stegosaurus, of Jurassic and early Cretaceous times, having an armour of bony plates 剑龙
+
+========================================================================
+>>> brachiosaurus
+------------------------------------------------------------------------
+brachiosaurus    [美 ˌbrækiəˈsɔːrəs / 英 ˌbrækiəˈsɔːrəs]
+n. 腕龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a dinosaur of the genus Brachiosaurus, up to 30 metres long: the largest land animal ever known 腕龙; 一种高达30米的恐龙，是迄今为止所知的最大的陆上动物 → see also sauropod
+
+========================================================================
+>>> apatosaurus
+------------------------------------------------------------------------
+apatosaurus    [美 əˌpætəˈsɔːrəs / 英 əˌpætəˈsɔːrəs]
+n. 迷惑龙；雷龙（恐龙的一种，生活于约140百萬年前的侏罗纪）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Apatosaurus could live in lakes or swamps, but mostly on dry land. 迷惑龙能生活在湖里或沼泽地中，但大部分都住在陆地上。
+≫   Taxonomists renamed it Apatosaurus in 1903 when it was discovered that two different names referred to the same dinosaur. 1903年，当发现有两个不同的名字指代这一恐龙时，分类学家们将它重新命名为 Apatosaurus。
+≫   Even at a mere 18 tonnes, Apatosaurus would still be an awesome sight. 即使只有区区18吨重，虚幻龙仍然会令人叹为观止。
+
+========================================================================
+>>> brontosaurus
+------------------------------------------------------------------------
+brontosaurus    [美 ˌbrɑːntəˈsɔːrəs / 英 ˌbrɒntəˈsɔːrəs]
+n. 雷龙
+alsobrontosaur
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any very large herbivorous quadrupedal dinosaur of the genus Apatosaurus, common in North America during Jurassic times, having a long neck and long tail: suborder Sauropoda (sauropods) 雷龙
+
+========================================================================
+>>> spinosaurus
+------------------------------------------------------------------------
+spinosaurus
+棘龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Spinosaurus teeth and tyrannosaurus teeth were completely different. 棘龙的牙齿和霸王龙的牙齿完全不同。
+≫   As for spinosaurus, diet was just the tip of the evolutionary iceberg. 对于棘龙来说，饮食只是进化的冰山一角。
+≫   Fifty-seven feet long and up to nine tons, spinosaurus started poking his head around the early Cretaceous some 100 million years ago. 57英尺长，9吨重，棘龙在大约1亿年前的白垩纪早期就开始四处活动。
+
+========================================================================
+>>> allosaurus
+------------------------------------------------------------------------
+allosaurus    [美 ˌæləˈsɔːrəs / 英 ˌæləˈsɔːrəs]
+n. 异龙
+alsoallosaurus
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any large carnivorous bipedal dinosaur of the genus Antrodemus (formerly Allosaurus), common in North America in late Jurassic times: suborder Theropoda (theropods) 异龙; 侏罗纪时代常见于北美地区的大型食肉恐龙
+
+========================================================================
+>>> ankylosaurus
+------------------------------------------------------------------------
+ankylosaurus    ['æŋkiləu,sɔ:rəs]
+n. 甲龙；甲龙属；背甲龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Ankylosaurus ate plants. 甲龙吃植物。
+≫   Large meat eating dinosaurs ate the Ankylosaurus. 那些大型食肉恐龙吃甲龙。
+≫   The Ankylosaurus' under-belly was not protected, so turning it over was the only way to kill it. 甲龙的肚子下部没有鳞片保护，所以只有把它翻个身才能杀死它。
+
+========================================================================
+>>> dilophosaurus
+------------------------------------------------------------------------
+dilophosaurus
+双脊龙
+
+========================================================================
+>>> parasaurolophus
+------------------------------------------------------------------------
+Parasaurolophus
+n. 副栉龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The crest of Parasaurolophus would likely have been brightly colored by these proteins, but it had another use too... as an audio component. 副栉龙的冠饰可能由于蛋白质而富于颜色，但它还有另一个用处，那就是音频部件。
+≫   CT scans of Parasaurolophus' crest reveals the animal likely trumpeted low-frequency sounds that traveled well within a dense forest environment. 用CT扫描副栉龙的冠饰，我们会发现这种动物会发出低频音，可以传向浓密的丛林深处。
+
+========================================================================
+>>> giganotosaurus
+------------------------------------------------------------------------
+Giganotosaurus
+n. 南巨龙，巨型南美龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Buddy spends time with Laura Giganotosaurus, a large dinosaur who always rides the Dinosaur Train and, like Buddy, is a three-toed theropod! Buddy also discovers that Laura is an avid bird-watcher. 巴迪和泰妮看到一只很漂亮的鸟飞过，于是妈妈带他们去找鸟类观察员巨兽龙萝拉寻找答案，萝拉也是恐龙火车的瞭望员，突然有棵树倒在铁轨上，幸好她即时发现解救了大家。
+
+========================================================================
+>>> mammoth
+------------------------------------------------------------------------
+mammoth    [美 ˈmæməθ / 英 ˈmæməθ]
+n. 猛犸，毛象；庞然大物
+adj. 巨大的，庞大的
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You can use mammoth to emphasize that a task or change is very large and needs a lot of effort to achieve. 巨大的; 艰巨的 [强调]
+   ≫   ...the mammoth task of relocating the library.  …搬迁图书馆的艰巨任务。
+2. (N-COUNT) A mammoth was an animal like an elephant, with very long tusks and long hair, that lived a long time ago but no longer exists. 猛犸
+
+========================================================================
+>>> saber-toothed
+------------------------------------------------------------------------
+saber-toothed    ['seibətu:θt]
+adj. 上犬齿的；有军刀形的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The disappearance of megafauna in America—mammoths, saber-toothed cats, giant sloths, among others—happened relatively soon after the arrival of human beings, about 13,000 years ago. 美洲巨型动物的消失——猛犸象、剑齿猫、巨型树懒等等——发生在人类出现后不久，大约在一万三千年前。
+≫   See "Odd Saber-Toothed Beast discovered-preyed on... Plants?" 另见“奇异剑齿兽被发现——食的是……草？”
+≫   The "saber-toothed squirrel" study was published today in the journal Nature. “剑齿松鼠”的研究现已发表于《自然》杂志。
+
+========================================================================
+>>> saber
+------------------------------------------------------------------------
+saber    [美 ˈseɪbər / 英 ˈseɪbə(r)]
+n. 军刀；佩剑；骑兵
+vt. 用马刀砍或杀
+n. （Saber）人名；（法）萨贝；（阿拉伯）萨比尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I remember playing as a lad in France burying my little toy saber. 我记得年轻时在法国埋了我的玩具剑。
+≫   The disappearance of megafauna in America—mammoths, saber-toothed cats, giant sloths, among others—happened relatively soon after the arrival of human beings, about 13,000 years ago. 美洲巨型动物的消失——猛犸象、剑齿猫、巨型树懒等等——发生在人类出现后不久，大约在一万三千年前。
+≫   See "Odd Saber-Toothed Beast discovered-preyed on... Plants?" 另见“奇异剑齿兽被发现——食的是……草？”
+
+========================================================================
+>>> smilodon
+------------------------------------------------------------------------
+smilodon    [英 ˈsmɪlədɒn]
+n. （冰河时代绝种的）剑齿虎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This evidence suggested Smilodon lived in groups. 这个证据正好表明剑齿虎是群居动物。
+≫   It's very nice to meet you, Kate. He's an overexaggerated smilodon with comical green hair. 很高兴见到你，凯特。他就像个长着绿毛极度夸张的剑齿虎一样。
+≫   Smilodon, is an extinct genus of machairodont felid. It is perhaps one of the most famous prehistoric mammals, and the best known saber-toothed cat. 剑齿虎，是已经灭绝的剑形齿类动物的一种，这也许是史前哺乳动物中最出名的一种了，也是最有名的剑齿类猫科动物。
+
+========================================================================
+>>> quetzalcoatlus
+------------------------------------------------------------------------
+quetzalcoatlus
+风神翼龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is an artist’s impression of a flying reptile called Quetzalcoatlus eating a small dinosaur. 这是一幅艺术家为羽蛇龙这种飞行爬虫所绘制的想象图。
+≫   This is an artist's impression of a flying reptile called Quetzalcoatlus eating a small dinosaur. 这是一幅艺术家为羽蛇龙这种飞行爬虫所绘制的想象图。
+
+========================================================================
+>>> pteranodon
+------------------------------------------------------------------------
+pteranodon    [美 təˈrænəˌdɑːn / 英 teˈrænədɒn]
+n. 翼龙，无齿翼龙属；蝙蝠龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Pteranodon had almost no tail and a small body. 翼龙几乎没有尾巴，躯干很小。
+≫   Its elongated skull with toothless tips and short cervical vertebrae indicate that it is similar to that of Pteranodon. 它窄长的头骨、没有牙齿的尖颌和短短的颈椎表明，它与无齿翼龙类似。
+
+========================================================================
+>>> ichthyosaurus
+------------------------------------------------------------------------
+ichthyosaurus    [美 ˌɪkθɪrˈsɑːrəs / 英 ˌɪkθɪəˈsɔːrəs]
+n. 鱼龙（恐龙的一种）
+alsoichthyosaurus
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any extinct marine Mesozoic reptile of the order Ichthyosauria, which had a porpoise-like body with dorsal and tail fins and paddle-like limbs 鱼龙 → see also plesiosaur
+
+========================================================================
+>>> plesiosaurus
+------------------------------------------------------------------------
+plesiosaurus    [美 ˌpliːsiəˈsɔːrəs / 英 ˌpliːsɪəˈsɔːrəs]
+n. 蛇颈龙（等于 plesiosaur）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Could it be a Plesiosaurus? 它是一只蛇颈龙么？
+
+========================================================================
+>>> plesiosaur
+------------------------------------------------------------------------
+plesiosaur    [美 ˈpliːsiəˌsɔːr / 英 ˈpliːsɪəsɔː; ˈpliːz-]
+n. 蛇颈龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various extinct marine reptiles of the order Sauropterygia, esp any of the suborder Plesiosauria, of Jurassic and Cretaceous times, having a long neck, short tail, and paddle-like limbs 蛇颈龙 → see also ichthyosaur
+
+========================================================================
+>>> mosasaurus
+------------------------------------------------------------------------
+mosasaurus    [英 ˌməʊsəˈsɔːrəs]
+沧龙（动物名，Mosasaurus）
+alsomosasaurus
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any of various extinct Cretaceous giant marine lizards of the genus Mosasaurus and related genera, typically having paddle-like limbs 沧龙
+
+========================================================================
+>>> dimetrodon
+------------------------------------------------------------------------
+dimetrodon
+异齿龙
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Nicknamed "Wet Willi," the skull and fossils belong to Dimetrodon giganhomogenes. 这一化石骨骼和头骨被昵称为“WetWilli”（潮湿威利），它们属于一种长棘龙（Dimetrodon giganhomogenes）。
+≫   Well-preserved fossils like this of Dimetrodon are rare, according to the researchers. 研究人员表示，保存如此完好的化石相当罕见。
+≫   A sail-backed dimetrodon forages amid a Permian landscape in this artist's depiction. 船帆支持的异齿龙牧草中二叠纪景观在这方面艺术家的写照。
+
+========================================================================
+>>> elasmosaurus
+------------------------------------------------------------------------
+elasmosaurus    [英 ɪˌlæzməʊˈsɔːrəs]
+n. 板龙（中生代白垩纪北美洲的爬行动物）；薄片龙（一种古代生物）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Elasmosaurus was not a dinosaur. It was a plesiosaur. 依拉丝莫龙不是恐龙，它是蛇颈龙。
+
+========================================================================
+>>> dodo
+------------------------------------------------------------------------
+dodo    [美 ˈdoʊdoʊ / 英 ˈdəʊdəʊ]
+n. 渡渡鸟，孤鸽；孤鸽科；过时的东西，迟钝的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dodo was a very large bird that was unable to fly. Dodos are now extinct. 渡渡鸟
+2. (N-COUNT) If you refer to someone as a dodo, you think they are foolish or silly. 蠢人 [非正式]
+
+========================================================================
+>>> woolly
+------------------------------------------------------------------------
+woolly    [美 ˈwʊli / 英 ˈwʊli]
+adj. 羊毛的；模糊的；似羊毛的
+n. 羊；毛织衣服
+★ alsowooly
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is woolly is made of wool or looks like wool. 羊毛的; 像羊毛的
+   ≫   She wore this woolly hat with pompoms.  她戴着这顶带绒球的羊毛帽。
+
+========================================================================
+>>> rhinoceros
+------------------------------------------------------------------------
+rhinoceros    [美 raɪˈnɑːsərəs / 英 raɪˈnɒsərəs]
+n. 犀，犀牛（栖于非洲和亚洲）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rhinoceros is a large Asian or African animal with thick, grey skin and a horn, or two horns, on its nose. 犀牛
+
+========================================================================
+>>> glyptodon
+------------------------------------------------------------------------
+glyptodon
+雕齿兽
+
+========================================================================
+>>> megatherium
+------------------------------------------------------------------------
+megatherium    [英 meɡəˈθɪərɪəm]
+n. （古生物中的）大地懒属
+
+========================================================================
+>>> megalodon
+------------------------------------------------------------------------
+megalodon
+伟齿蛤
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Megalodon could swim at high speed in short bursts so tended to rush its prey from beneath. 巨齿鲨在短时间内爆发力强，快速游动，从猎物下方攻击。
+≫   From scrutiny of its remains, scientists postulate that Megalodon belongs to order Lamniformes; 仔细研究了化石后，科学家们假定巨齿鲨属于鼠蛟科。
+≫   A 2008 study found that the megalodon shark had the most powerful bite of any known creature that ever lived-strong enough to crush a small car. 2008年的研究表示巨齿鲨的咬合力空前绝后——强大到甚至可以粉碎一辆汽车。
+
+========================================================================
+>>> mastodon
+------------------------------------------------------------------------
+mastodon    [美 ˈmæstəˌdɑːn / 英 ˈmæstədɒn]
+n. [古生] 乳齿象；庞然大物
+adj. 巨大的；庞大的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any extinct elephant-like proboscidean mammal of the genus Mammut (or Mastodon), common in Pliocene times 乳齿象(现已灭绝)
+
+========================================================================
+>>> thylacine
+------------------------------------------------------------------------
+thylacine    [美 ˈθaɪləsɪn; ˈθaɪləˌsaɪn / 英 ˈθaɪləˌsaɪn]
+n. 袋狼
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an extinct or very rare doglike carnivorous marsupial, Thylacinus cynocephalus, of Tasmania, having greyish-brown fur with dark vertical stripes on the back: family Dasyuridae 袋狼 (Also called Tasmanian tiger, Tasmanian wolf)
+
+========================================================================
+>>> coelacanth
+------------------------------------------------------------------------
+coelacanth    [英 ˈsiːləkænθ / 美 ˈsiːləkænθ]
+n. 腔棘鱼
+adj. 腔棘鱼类的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a primitive marine bony fish of the genus Latimeria (subclass Crossopterygii), having fleshy limblike pectoral fins and occurring off the coast of E Africa: thought to be extinct until a living specimen was discovered in 1938 腔棘鱼; 原认为已灭绝，但在1938年发现该类鱼
+
+========================================================================
+>>> ferns
+------------------------------------------------------------------------
+ferns    [美 fɜːrnz]
+n. 蕨类；[植]蕨类植物（fern 的复数形式）
+n. （Ferns）人名；（英）弗恩斯
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A fern is a plant that has long stems with feathery leaves and no flowers. There are many types of fern. 蕨类植物
+
+========================================================================
+>>> pteridophyta
+------------------------------------------------------------------------
+Pteridophyta
+n. [植] 蕨类植物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective To survey medicinal pteridophyta resources in Damu Mountain Nature Reserve Area. 目的报道大木山自然保护区药用蕨类植物资源状况。
+≫   There are 239 species under 88 families, in which 4 species are pteridophyta, 6 species are gymnosperms and 229 species are angiosperms. They can kill insects. 初步调查统计共有88科2 39种，其中蕨类植物4种，裸子植物6种，被子植物2 2 9种，这些农药植物均具有杀虫作用。
+≫   In this paper37species wild medical spore medical plants from Jinyun Mountain was introuduced, including11species bryophyta plants and26species pteridophyta plants. 记录了重庆缙云山37种药用孢子植物资源，包括11种药用苔藓植物和26种药用蕨类植物；
+
+========================================================================
+>>> cycad
+------------------------------------------------------------------------
+cycad    [美 ˈsaɪkæd / 英 ˈsaɪkæd]
+n. 苏铁属植物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any tropical or subtropical gymnosperm plant of the phylum Cycadophyta, having an unbranched stem with fernlike leaves crowded at the top 热带或亚热带的裸子植物; 其无无支链的茎上挤满着蕨叶状的叶
+
+========================================================================
+>>> ginkgoale
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ginkgoales
+------------------------------------------------------------------------
+Ginkgoales
+n. 银杏目
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   On the other hand, some deciduous gymnosperms including Ginkgoales, and the presence of growth rings in the fossil secondary wood, indicate seasonal changes. 另一方面，落叶的银杏类和松柏类，以及裸子植物木化石中具有清楚的生长轮，又说明该地区的古气候存在着季节变化。
+≫   More than 37 species of 22 genera of fossil plants are recognized by the authors from the Shansonggang Basin of southern Jilin, China, including mainly conifers, ginkgoales, ferns and czekanowskiales. 吉林南部杉松岗盆地早侏罗世植物群主要由松柏类、银杏类、真蕨类和茨康类组成，迄今已发现22属37种。
+
+========================================================================
+>>> conifers
+------------------------------------------------------------------------
+conifers
+n. 松柏类，针叶树；球果植物（conifer 复数）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Conifers are a type of trees and shrubs such as pine trees and fir trees. They have fruit called cones, and very thin leaves called needles which they do not normally lose in winter. 针叶树
+
+========================================================================
+>>> trilobites
+------------------------------------------------------------------------
+trilobites
+三叶虫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any extinct marine arthropod of the group Trilobita, abundant in Palaeozoic times, having a segmented exoskeleton divided into three parts 三叶虫纲动物
+
+========================================================================
+>>> phacops
+------------------------------------------------------------------------
+Phacops    ['fækɔps]
+n. 眼镜虫属
+
+========================================================================
+>>> calymene
+------------------------------------------------------------------------
+Calymene
+n. 隐头虫属
+
+========================================================================
+>>> horseshoe
+------------------------------------------------------------------------
+horseshoe    [英 ˈhɔːsʃuː / 美 ˈhɔːrsʃuː]
+n. 马蹄铁; U 形物
+v. 装蹄铁于……
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A horseshoe is a piece of metal shaped like a U, which is fixed with nails to the bottom of a horse's foot in order to protect it. 马蹄铁
+2. (N-COUNT) A horseshoe is an object in the shape of a horseshoe which is used as a symbol of good luck. 马蹄型吉祥物
+
+========================================================================
+>>> horseshoe crabs
+------------------------------------------------------------------------
+horseshoe crab
+马蹄蟹：一种海洋节肢动物，具有宽阔的新月形头胸部、六对腿和尖刺状的尾巴。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any marine chelicerate arthropod of the genus Limulus, of North America and Asia, having a rounded heavily armoured body with a long pointed tail: class Merostomata 鲎 (Also called king crab)
+
+========================================================================
+>>> ammonites
+------------------------------------------------------------------------
+ammonites
+n. 菊石；[古生]菊石类（ammonite 的复数形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) a nomadic tribe living east of the Jordan: a persistent enemy of the Israelites 亚扪人; 居住在约旦以东的游牧部落，以色列人长期的敌人 [Old Testament]
+
+========================================================================
+>>> nautiloid
+------------------------------------------------------------------------
+nautiloid    [美 ˈnɔːtəˌlɔɪd / 英 ˈnɔːtɪˌlɔɪd]
+n. 鹦鹉螺目软体动物
+adj. 鹦鹉螺目软体动物的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any mollusc of the Nautiloidea, a group of cephalopods that includes the pearly nautilus and many extinct forms 鹦鹉螺目的软体动物
+2. (ADJ) of, relating to, or belonging to the Nautiloidea 鹦鹉螺目的
+
+========================================================================
+>>> nautiloids
+------------------------------------------------------------------------
+nautiloids
+n. 鹦鹉螺目动物（nautiloid 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any mollusc of the Nautiloidea, a group of cephalopods that includes the pearly nautilus and many extinct forms 鹦鹉螺目的软体动物
+2. (ADJ) of, relating to, or belonging to the Nautiloidea 鹦鹉螺目的
+
+========================================================================
+>>> brachiopods
+------------------------------------------------------------------------
+brachiopods    [英 breɪtˈʃaɪɒpɒdz / 美 ˈbrækiəpɑːdz]
+n. [古生] 腕足类
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any marine invertebrate animal of the phylum Brachiopoda, having a ciliated feeding organ (lophophore) and a shell consisting of dorsal and ventral valves 腕足类动物 (Also called lamp shell) → see also bryozoan
+
+========================================================================
+>>> bryozoans
+------------------------------------------------------------------------
+bryozoans
+苔藓动物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any aquatic invertebrate animal of the phylum Bryozoa, forming colonies of polyps each having a ciliated feeding organ (lophophore) 苔藓虫 (Popular name sea mat)
+2. (ADJ) of, relating to, or belonging to the Bryozoa 苔藓虫的
+
+========================================================================
+>>> crinoids
+------------------------------------------------------------------------
+crinoids    [美 ˈkraɪnɔɪdz; ˈkrɪnɔɪdz / 英 ˈkraɪnɔɪdz]
+海百合类
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any primitive echinoderm of the class Crinoidea, having delicate feathery arms radiating from a central disc. The group includes the free-swimming feather stars, the sessile sea lilies, and many stemmed fossil forms 海百合纲动物
+2. (ADJ) of, relating to, or belonging to the Crinoidea 海百合纲的
+
+========================================================================
+>>> graptolites
+------------------------------------------------------------------------
+graptolites
+笔石类
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any extinct Palaeozoic colonial animal of the class Graptolithina, usually regarded as related to either the hemichordates or the coelenterates: a common fossil, used to determine the age of sedimentary rocks 笔石
+
+========================================================================
+>>> scorpion
+------------------------------------------------------------------------
+scorpion    [美 ˈskɔːrpiən / 英 ˈskɔːpiən]
+n. 蝎子；蝎尾鞭；心黑的人
+n. （Scorpion）人名；（英）斯科皮恩
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A scorpion is a small creature which looks like a large insect. Scorpions have a long curved tail, and some of them are poisonous. 蝎子
+
+========================================================================
+>>> arthropleura
+------------------------------------------------------------------------
+arthropleura
+侧板
+
+========================================================================
+>>> meganeura
+------------------------------------------------------------------------
+Meganeura
+n. 巨睛蜓
+
+========================================================================
+>>> anomalocaris
+------------------------------------------------------------------------
+anomalocaris
+奇虾
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These unassignable animals include a large swimming predator called Anomalocaris and a soft-bodied animal called Wiwaxia, which ate detritus or algae. 这些无法归类的动物包括被称为奇虾的会游泳的大型食肉动物，以及叫做威瓦亚虫的软体动物，它们以岩屑和藻类为食。
+
+========================================================================
+>>> pine
+------------------------------------------------------------------------
+pine    [美 paɪn / 英 paɪn]
+n. 松树；松木；……松（用于其他科针叶类树木名称中）；……松（用于某方面类似松树而与松树无关的植物名称中）；有松针香味；<非正式>凤梨
+v. （因死亡、离别） 难过，悲伤；苦苦思念；<古>为……悲哀，哀悼；渴望，苦苦盼望（尤指不太可能拥有的东西）
+【名】 （Pine）派因（人名）
+★★ CET4 TEM4 pining,pined,pines
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A pine tree or a pine is a tall tree that has very thin, sharp leaves called needles and a fresh smell. Pine trees have leaves all year round. 松树
+   ≫   ...high mountains covered in pine trees.  …长满松树的高山。
+2. (N-UNCOUNT) Pine is the wood of this tree. 松木
+   ≫   ...a big pine table.  …一张大松木桌子。
+3. (V-I) If you pine for someone who has died or gone away, you want them to be with you very much and feel sad because they are not there. 苦苦思念
+   ≫   She'd be sitting at home pining for her lost husband.  她会一直坐在家里苦苦思念着她死去的丈夫。
+4. (V-I) If you pine for something, you want it very much, especially when it is unlikely that you will be able to have it. 渴望 (尤指不可能得到的东西)
+   ≫   I pine for the countryside.  我渴望乡下的生活。
+
+========================================================================
+>>> spruce
+------------------------------------------------------------------------
+spruce    [美 spruːs / 英 spruːs]
+vi. 打扮整齐；使显干净
+adj. 整洁的
+vt. 打扮整齐
+n. 云杉
+★ TEM4 sprucing,spruced,spruces
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A spruce is a kind of evergreen tree. 云杉
+   ≫   Trees such as spruce, pine, and oak have been planted.  像云杉、松树和橡树之类的树已经种了。
+   ≫   ...a young blue spruce.  …一株蓝云杉幼苗。
+2. (ADJ) Someone who is spruce is very neat and clean in appearance. (人) 整洁的
+   ≫   Chris was looking spruce in his stiff-collared black shirt and new short hair cut.  克里斯穿着那件衣领挺括的黑衬衫加上新剪的短发，看上去很整洁。
+
+========================================================================
+>>> fir
+------------------------------------------------------------------------
+fir    [美 fɜːr / 英 fɜː(r)]
+n. 冷杉；枞木
+abbr. 弗京（firkin）
+n. （Fir）人名；（塞）菲尔
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A fir or a fir tree is a tall evergreen tree that has thin needle-like leaves. 枞树; 冷杉
+
+========================================================================
+>>> larch
+------------------------------------------------------------------------
+larch    [英 lɑːtʃ / 美 lɑːrtʃ]
+n. 落叶松木材；落叶松属植物
+n. （Larch）人名；（瑞典）拉尔克
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A larch is a tree with needle-shaped leaves. 落叶松
+
+========================================================================
+>>> cedar
+------------------------------------------------------------------------
+cedar    [美 ˈsiːdər / 英 ˈsiːdə(r)]
+n. 雪松；香柏；西洋杉木
+n. （Cedar）人名；（英）锡达
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cedar is a large evergreen tree with wide branches and small, thin leaves called needles. 雪松
+2. (N-UNCOUNT) Cedar is the wood of this tree. 雪松木
+   ≫   The yacht is built of cedar strip planking.  这艘游艇用雪松木板材制成。
+
+========================================================================
+>>> parasol
+------------------------------------------------------------------------
+parasol    [美 ˈpærəsɔːl / 英 ˈpærəsɒl]
+n. 阳伞
+n. （Parasol）人名；（法）帕拉索尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A parasol is an object like an umbrella that provides shade from the sun. 遮阳伞
+
+========================================================================
+>>> parasol tree
+------------------------------------------------------------------------
+parasol tree
+伞形树：一种生长在肯尼亚的伞形科植物，或者是一种原产于亚洲的锦葵科植物，也被称为“Chinese parasol tree”或“wutong”。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Once I wish was just sitting on your bike, and you pass through in full of Chinese parasol tree on the road. 曾经我的愿望只是坐在你的单车上，和你一同穿越在种满了梧桐树的道路上。
+≫   At south the parasol tree of the branch curved way, I with south rather, Harbin etc. ground of car fan see a train together, clap a train. 在南岔的梧桐弯道，我和南宁，哈尔滨等地的车迷一起看火车，拍火车。
+
+========================================================================
+>>> chinese parasol tree
+------------------------------------------------------------------------
+chinese parasol tree
+梧桐
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Once I wish was just sitting on your bike, and you pass through in full of Chinese parasol tree on the road. 曾经我的愿望只是坐在你的单车上，和你一同穿越在种满了梧桐树的道路上。
+
+========================================================================
+>>> plane tree
+------------------------------------------------------------------------
+plane tree    [美 ˈpleɪn triː / 英 ˈpleɪn triː]
+悬铃木属的各种树木，也可以指数学中的一种有序树，即一种图形，其中每个顶点的子节点都有一个确定的数字分配
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Taking a bottle of iced water from the fridge, I plonked myself down in the shade under a plane tree. 从冰柜里取了一瓶冷冻水后，我在树荫里坐下来休息。
+≫   When he was buried at Frogmore she saw that his grave and the place reserved for her lay under the branches of a plane tree. 当他被安葬在弗拉哥摩尔时她看见他的墓地，还有为她预留的墓穴，周围种满了悬铃树。
+≫   But if you love the urban tree, as I do, the plane tree steels the show - the array of colours on its bark, the green of the leaf, the girth of the trunk, the hang of the branch. 如果你像我一样喜欢城市里的树木，你可以看到，树木上的陈列的颜色，葱郁的树叶，树干的线条，以及那些悬挂着的枝杈。
+
+========================================================================
+>>> poplar
+------------------------------------------------------------------------
+poplar    [美 ˈpɑːplər / 英 ˈpɒplə(r)]
+n. 白杨；白杨木
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A poplar is a type of tree with leaves that move a lot in the wind. 杨树
+
+========================================================================
+>>> aspen
+------------------------------------------------------------------------
+aspen    [美 ˈæspən / 英 ˈæspən]
+n. 山杨，颤杨
+adj. 山杨的；颤抖的
+n. （Aspen）（美、挪）阿斯彭（人名）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An aspen is a tall tree with leaves that move a lot in the wind. 山杨
+
+========================================================================
+>>> willow
+------------------------------------------------------------------------
+willow    [英 ˈwɪləʊ / 美 ˈwɪloʊ]
+n. 柳，柳树；柳木（常用以制作板球拍）；柳木制品
+【名】 （Willow）（英）威洛，薇洛（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A willow or a willow tree is a type of tree with long branches and long narrow leaves that grows near water. 柳树
+
+========================================================================
+>>> weeping
+------------------------------------------------------------------------
+weeping    [美 ˈwiːpɪŋ / 英 ˈwiːpɪŋ]
+adj. （有些树木）有下垂枝条的；落泪的，哭泣的
+v. 哭泣，悲痛；渗出（液体）（weep 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of plants) having slender hanging branches (植物)有细长垂枝的
+
+========================================================================
+>>> weeping willow
+------------------------------------------------------------------------
+weeping willow
+垂柳：一种亚洲柳树（Salix babylonica），被引入北美，具有细长的下垂枝条。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A weeping willow is a type of willow tree. It has long thin branches that hang down to the ground. 垂柳
+
+========================================================================
+>>> hawthorn
+------------------------------------------------------------------------
+hawthorn    [美 ˈhɔːθɔːrn / 英 ˈhɔːθɔːn]
+n. 山楂；山楂树
+n. （Hawthorn）人名；（英）霍索恩
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A hawthorn is a small tree which has sharp thorns and produces white or pink flowers. 山楂树
+
+========================================================================
+>>> elm
+------------------------------------------------------------------------
+elm    [美 elm / 英 elm]
+n. [林] 榆树；榆木
+adj. 榆树的；榆木的
+n. （Elm）（英、法、德、丹、瑞典）埃尔姆（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An elm is a tree that has broad leaves which it loses in winter. 榆树
+2. (N-UNCOUNT) Elm is the wood of this tree. 榆木
+   ≫   It was a good table too, sturdily constructed of elm.  这也是一张好桌子，榆木做的，很结实。
+
+========================================================================
+>>> beech
+------------------------------------------------------------------------
+beech    [美 biːtʃ / 英 biːtʃ]
+n. 山毛榉
+adj. 山毛榉木材的
+n. （Beech）人名；（英）比奇
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A beech or a beech tree is a tree with a smooth grey trunk. 山毛榉
+   ≫   ...the branch of a huge beech.  ...巨大山毛榉的分枝。
+2. (N-UNCOUNT) Beech is the wood of this tree. 山毛榉木材
+   ≫   The worktop is made of solid beech.  这个工作台是用山毛榉木材做的。
+
+========================================================================
+>>> oak
+------------------------------------------------------------------------
+oak    [美 oʊk / 英 əʊk]
+n. 橡树，栎树；橡木，栎木；（栎木桶里陈年老酒的）烟香气；栎棕色；栎木家具，栎木制品
+adj. 栎树的；栎木制的
+【名】 （Oak）（英）奥克（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An oak or an oak tree is a large tree that often grows in forests and has strong, hard wood. 橡树
+   ≫   Many large oaks were felled during the war.  许多大橡树在那场战争期间被砍伐了。
+2. (N-UNCOUNT) Oak is the wood of this tree. 橡木
+   ≫   The cabinet was made of oak and was hand-carved.  这个柜子是橡木做的，并且经手工雕刻而成。
+
+========================================================================
+>>> magnolia
+------------------------------------------------------------------------
+magnolia    [美 mæɡˈnoʊliə / 英 mæɡˈnəʊliə]
+n. [植]木兰；玉兰类的植物
+adj. 木兰科的
+n. （Magnolia）人名；（意）马尼奥利亚；（英）马格诺利娅
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A magnolia is a kind of tree with white, pink, yellow, or purple flowers. 木兰
+
+========================================================================
+>>> yulan
+------------------------------------------------------------------------
+yulan    [美 ˈjʊlæn / 英 ˈjuːlən]
+n. 玉兰（花）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a Chinese magnolia, Magnolia denudata, that is often cultivated for its showy white flowers 玉兰
+
+========================================================================
+>>> denudata
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> apricot
+------------------------------------------------------------------------
+apricot    [英 ˈeɪprɪkɒt / 美 ˈæprɪkɑːt; ˈeɪprɪkɑːt]
+n. 杏；杏黄色；杏树
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An apricot is a small, soft, round fruit with yellowish-orange flesh and a large seed inside. 杏
+   ≫   ...12 oz apricots, halved and pitted.  …12盎司的杏，切成了两半并去了核。
+2. (COLOR) Apricot is used to describe things that are yellowish-orange in colour. 杏色的
+   ≫   The bridesmaids wore apricot and white organza.  女傧相们穿着杏色和白色的透明硬纱。
+
+========================================================================
+>>> plum
+------------------------------------------------------------------------
+plum    [美 plʌm / 英 plʌm]
+n. 李子，李树；紫红色，李子色；<非正式>令人垂涎之物
+adj. 称心的，值得拥有的；紫红色的，李子色的
+adv. <美，非正式>正好地，准确地
+【名】 （Plum）（德、西）普卢姆，（英）普拉姆（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A plum is a small, sweet fruit with a smooth purple, red, or yellow skin and a pit in the middle. 李子
+2. (N) a small rosaceous tree, Prunus domestica, with white flowers and an edible oval fruit that is purple, yellow, or green and contains an oval stone 西洋李; 欧洲李 → see also greengage, damson
+3. (COLOR) Something that is plum or plum-coloured is a dark reddish-purple colour. 紫红色的
+   ≫   ...plum-coloured silk.  …紫红色的丝绸。
+
+========================================================================
+>>> almond
+------------------------------------------------------------------------
+almond    [英 ˈɑːmənd / 美 ˈɑːmənd]
+n. 杏仁， 扁桃仁；杏树，扁桃树
+【名】 （Almond）（英）阿尔蒙德，（法）阿尔蒙（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Almonds are pale oval nuts. They are often used in cooking. 杏仁
+   ≫   ...sponge cake flavoured with almonds.  …带杏仁味的松糕。
+2. (N-VAR) An almond or an almond tree is a tree on which almonds grow. 杏树
+   ≫   On the left was a plantation of almond trees.  在左边曾是一个杏树种植园。
+
+========================================================================
+>>> ginkgo
+------------------------------------------------------------------------
+ginkgo    [美 ˈɡɪŋkoʊ / 英 ˈɡɪŋkəʊ]
+n. [植] 银杏；银杏树
+alsogingko
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a widely planted ornamental Chinese gymnosperm tree, Ginkgo biloba, with fan-shaped deciduous leaves and fleshy yellow fruit: phylum Ginkgophyta. It is used in herbal remedies and as a food supplement 银杏树 (Also called maidenhair tree)
+
+========================================================================
+>>> populus euphratica
+------------------------------------------------------------------------
+populus euphratica
+胡杨：一种生长在干旱地区的树木，是中亚地区的特有树种，具有很强的抗旱能力。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The experiment reveals that the low salinity and the sufficient water supply are the most important for the survival of seedlings of Populus euphratica. 实验结果显示，早期的低盐和充分的水分条件是胡杨幼苗存活的关键。
+≫   The objectives of this study were to investigate the effect of insect and soil water contents on phenolic compounds and nitrogen concentrations in leaves of Populus euphratica. 研究了不同土壤水分条件下虫害胁迫对胡杨叶片中酚类物质含量及氮含量的影响。
+
+========================================================================
+>>> rowan
+------------------------------------------------------------------------
+rowan    [美 ˈroʊən / 英 ˈrəʊən; ˈraʊən]
+n. 花楸（一种山梨）
+n. （Rowan）人名；（英）罗恩
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A rowan or a rowan tree is a tree with a silvery trunk that has red berries in the fall. 花楸
+2. (N-UNCOUNT) Rowan is the wood of this tree. 花楸木
+
+========================================================================
+>>> mulberry
+------------------------------------------------------------------------
+mulberry    [美 ˈmʌlberi / 英 ˈmʌlbəri]
+n. 桑树；桑葚，桑椹；深紫红色
+n. （Mulberry）（美、英、加）马尔伯里（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A mulberry or a mulberry tree is a tree that has small purple berries which you can eat. 桑树
+2. (N-COUNT) Mulberries are the fruit of a mulberry tree. 桑葚
+
+========================================================================
+>>> chestnut
+------------------------------------------------------------------------
+chestnut    [美 ˈtʃesnʌt / 英 ˈtʃesnʌt]
+n. 栗子；栗色；[园艺]栗树；栗色马
+adj. 栗色的
+n. （Chestnut）人名；（英）切斯特纳特
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chestnut or chestnut tree is a tall tree with broad leaves. 栗子树
+2. (N-COUNT) Chestnuts are the reddish brown nuts that grow on chestnut trees. You can eat chestnuts. 栗子
+3. (COLOR) Something that is chestnut is dark reddish brown in colour. 栗色
+   ≫   ...chestnut hair.  …栗色的头发。
+
+========================================================================
+>>> walnut
+------------------------------------------------------------------------
+walnut    [美 ˈwɔːlnʌt / 英 ˈwɔːlnʌt]
+n. 胡桃，核桃；胡桃树，核桃树；胡桃木，核桃木；胡桃色
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Walnuts are edible nuts that have a wrinkled shape and a hard round shell that is light brown in colour. 胡桃; 核桃
+   ≫   ...chopped walnuts.  …砸碎了的核桃。
+
+========================================================================
+>>> teak
+------------------------------------------------------------------------
+teak    [英 tiːk / 美 tiːk]
+n. 柚木
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Teak is the wood of a tall tree with very hard, light-coloured wood which grows in Southeast Asia. 柚木
+   ≫   The door is beautifully made in solid teak.  这扇门由纯柚木制成，做工精美。
+
+========================================================================
+>>> acacia
+------------------------------------------------------------------------
+acacia    [美 əˈkeɪʃə / 英 əˈkeɪʃə]
+n. 阿拉伯树胶；刺槐；金合欢属植物
+n. （Acacia）人名；（意）阿卡恰
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An acacia or an acacia tree is a tree that grows in warm countries and which usually has small yellow or white flowers. 金合欢树
+
+========================================================================
+>>> eucalyptus
+------------------------------------------------------------------------
+eucalyptus    [美 ˌjuːkəˈlɪptəs / 英 ˌjuːkəˈlɪptəs]
+n. 桉树；桉属植物
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A eucalyptus is an evergreen tree, originally from Australia, that is grown to provide wood, gum, and an oil that is used in medicines. 桉树 [oft N n]
+
+========================================================================
+>>> baobab
+------------------------------------------------------------------------
+baobab    [美 ˈbeɪoʊbæb / 英 ˈbeɪəʊbæb]
+n. 猴面包树（非洲产的一种巨树）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a bombacaceous tree, Adansonia digitata, native to Africa, that has a very thick trunk, large white flowers, and a gourdlike fruit with an edible pulp called monkey bread 猴面包树; 原产非洲，树干粗大，果实称猴面包 (Also called bottle tree, monkey bread tree)
+
+========================================================================
+>>> palm
+------------------------------------------------------------------------
+palm    [美 pɑːm / 英 pɑːm]
+n. 手掌，手心；（手套的）掌部；（制帆工用的）护掌；棕榈树；（作为奖赏或胜利象征的）棕榈叶；鹿角的扁平部分
+v. 把……藏在手中（尤指玩戏法）；（篮球）持球犯规；用手挡（球）
+【名】 （Palm）（英）帕姆，（瑞典）帕尔姆，（法、德、俄、捷、芬、挪）帕尔姆（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A palm or a palm tree is a tree that grows in hot countries. It has long leaves growing at the top, and no branches. 棕榈树
+   ≫   ...golden sands and swaying palms.  …金色的沙滩和摇曳的棕榈树。
+2. (N-COUNT) The palm of your hand is the inside part of your hand, between your fingers and your wrist. 手掌
+   ≫   Dornberg slapped the table with the palm of his hand.  多恩伯格用他的手掌拍了一下桌子。
+3. (V) to conceal in or about the hand, as in sleight-of-hand tricks 把···藏在手中
+4. (PHRASE) If you have someone or something in the palm of your hand, you have control over them. 在 (某人的) 掌控之中
+   ≫   Johnson thought he had the board of directors in the palm of his hand.  约翰逊以为他已把董事会控制在他的掌中。
+
+========================================================================
+>>> redwood
+------------------------------------------------------------------------
+redwood    [美 ˈredwʊd / 英 ˈredwʊd]
+n. 红木树，[林]红杉；红树木材
+n. （Redwood）人名；（英）雷德伍德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A redwood is an extremely tall tree that grows in California. (美国加州产的高大)红杉
+2. (N-UNCOUNT) Redwood is the wood from this tree. 红杉木
+
+========================================================================
+>>> dawn redwood
+------------------------------------------------------------------------
+dawn redwood    [美 dɔːn ˈredwʊd]
+黎明水杉：一种中国的水杉，与海岸红木相似，但具有落叶的叶子。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a deciduous conifer, Metasequoia glyptostroboides, native to China but planted in other regions as an ornamental tree: family Taxodiaceae. Until the 1940s it was known only as a fossil 水杉
+
+========================================================================
+>>> metasequoia
+------------------------------------------------------------------------
+metasequoia    [美 ˌmetəsɪˈkwɔɪə / 英 ˌmetəsɪˈkwɔɪə]
+n. 水杉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   China has the world's most ancient tree species — metasequoia. 中国有世界最古老的树种——水杉。《新英汉大辞典》
+≫   Fagopyrum cymosum Meisn and Metasequoia glyptostroboides were studied with the top opened field chamber. 用顶部开放的田间室研究了荞麦荞麦和水杉。
+≫   A row of metasequoia trees along the river bank continues into the pool. 一排水杉树木沿着河堤一直延续续到池。
+
+========================================================================
+>>> shaft
+------------------------------------------------------------------------
+shaft    [美 ʃæft / 英 ʃɑːft]
+n. 竖井，通风井；（工具或武器的）杆，柄；（机器的）轴；（马车的）辕；箭，矛；柱（尤指柱头和柱基间的主要部分）；（光、闪电等的）一道，一束；机智的话，（尤指）攻击性的话；侮辱，责难（the shaft）；（品质或情感的）突然闪现；<俚>阴茎
+v. <非正式>苛待，欺骗；（光成束地）照射；<俚>性交
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A shaft is a long vertical passage, for example, for a lift. (电梯等的) 垂直通道
+   ≫   The fire began in a lift shaft and spread to the roof.  大火从电梯通道里开始，然后蔓延到了屋顶。
+2. (N-COUNT) In a machine, a shaft is a rod that turns around continually in order to transfer movement in the machine. 轴
+   ≫   ...a drive shaft.  …一根传动轴。
+3. (N-COUNT) A shaft is a long thin piece of wood or metal that forms part of a spear, axe, golf club, or other object. 杆; 柄
+   ≫   ...golf clubs with steel shafts.  …带钢柄的高尔夫球棒。
+4. (N-COUNT) A shaft of light is a beam of light, for example, sunlight shining through an opening. 一道 (光)
+   ≫   A brilliant shaft of sunlight burst through the doorway.  一道耀眼的阳光从门口照射进来。
+
+========================================================================
+>>> sichuan pepper
+------------------------------------------------------------------------
+Sichuan pepper
+花椒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Ms Su said her mother had bought 5.5 pounds of pork ribs before marinating themwith Sichuan pepper and salt at home. 苏女士说她母亲在买来这5.5磅重的排骨后打算在家用盐和四川辣椒腌制。
+≫   Sichuan pepper is also frequently used. which has a unique aroma and flavor. creating a slightly tingly numbness in the mouth. 花椒具有一种独特的香气和味道，能在口腔中产生一种带有微刺感的麻木感觉。
+≫   Then add the peanut butter, soy sauce, chilli oil, sesame oil, Sichuan pepper, salt, and chicken stock and simmer for 5 to 7 minutes. 然后加入花生酱，酱油，辣椒油，芝麻油，四川胡椒，盐和鸡汤，小火熬5至7分钟。
+
+========================================================================
+>>> prickly
+------------------------------------------------------------------------
+prickly    [美 ˈprɪkli / 英 ˈprɪkli]
+adj. 多刺的；刺痛的；易动怒的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is prickly feels rough and uncomfortable, as if it has a lot of prickles. 扎人的
+   ≫   The bunk mattress was hard, the blankets prickly and slightly damp.  铺位上的床垫很硬，毛毯扎人且有点潮湿。
+2. (ADJ) Someone who is prickly loses their temper or gets upset very easily. 易怒的; 易生气的
+   ≫   You know how prickly she is.  你知道她多么容易生气。
+3. (ADJ) A prickly issue or subject is one that is rather complicated and difficult to discuss or resolve. 棘手的
+   ≫   The issue is likely to prove a prickly one.  这个问题很可能是棘手的。
+
+========================================================================
+>>> ash
+------------------------------------------------------------------------
+ash    [美 æʃ / 英 æʃ]
+n. （香烟或木头等的）灰；灰烬，废墟；骨灰，遗骸；梣树，白蜡树；（古英语中的一个字母，也为音标）æ
+v. 把……化为灰烬；以灰覆盖，撒灰于；掸（烟）灰
+【名】 （Ash）（英、美）阿什（人名）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Ash is the grey or black powdery substance that is left after something is burned. You can also refer to this substance as ashes. 灰 [also N in pl]
+   ≫   A cloud of volcanic ash is spreading across wide areas of the Philippines.  一大片火山灰正在向菲律宾的大块区域扩散。
+   ≫   He brushed the cigarette ash from his sleeve.  他掸掉了袖子上的烟灰。
+2. (N-PLURAL) A dead person's ashes are their remains after their body has been cremated. 骨灰
+   ≫   And she asks him to go back there after her death and scatter her ashes on the lake.  她还要求他在她死后回到那里并把她的骨灰撒在那个湖上。
+3. (N-PLURAL) ruins or remains, as after destruction or burning 废墟; 灰烬; 这座城市成了一片废墟。
+   ≫   The city was left in ashes.  
+4. (N-VAR) An ash is a tree that has smooth grey bark and loses its leaves in winter. 梣树
+5. (N-UNCOUNT) Ash is the wood from this tree. 梣木
+   ≫   The rafters are made from ash.  这些椽是用梣木做的。
+6. (N) the digraph æ, as in Old English, representing a front vowel approximately like that of the a in Modern English hat. The character is also used to represent this sound in the International Phonetic Alphabet 元音æ
+
+========================================================================
+>>> culinary
+------------------------------------------------------------------------
+culinary    [美 ˈkʌlɪneri / 英 ˈkʌlɪnəri]
+adj. <正式>烹饪的，食物的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Culinary means concerned with cooking. 烹调的 [正式] [ADJ n]
+   ≫   ...advanced culinary skills.  …高超的烹调技艺。
+
+========================================================================
+>>> TCM
+------------------------------------------------------------------------
+TCM
+abbr. 中医 (traditional Chinese medicine)；终端设备至计算机多路转接器 (terminal-to-computer multiplexer)；多孔磁心常数矩阵 (transfluxer constants matrix)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ABBREVIATION for) traditional Chinese medicine: Chinese-based alternative therapies, including acupuncture, certain forms of massage, and some herbal remedies 传统中药
+
+========================================================================
+>>> therapie
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> therapies
+------------------------------------------------------------------------
+therapies    [美 ˈθerəpiz]
+n. 治疗方法（therapy 复数形式）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Therapy is the process or talking to a trained counsellor about your emotional and mental problems and your relationships in order to understand and improve the way you feel and behave. 心理治疗
+   ≫   Children may need therapy to help them deal with grief and death.  孩子可能需要心理治疗来帮助他们应对悲伤和死亡。
+   ≫   Since I've been in therapy, I've grown to be a better husband and father.  自从我接受心理治疗后，我成了个更称职的丈夫和父亲。
+2. (N-VAR) Therapy or a therapy is a treatment for a particular illness or condition. (针对某种病情的) 治疗 [医学]
+   ≫   ...hormonal therapies.  …激素疗法。
+
+========================================================================
+>>> acupuncture
+------------------------------------------------------------------------
+acupuncture    [英 ˈækjupʌŋktʃə(r) / 美 ˈækjupʌŋktʃər]
+n. 针灸，针刺疗法
+v. 对……施行针刺疗法
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Acupuncture is the treatment of a person's illness or pain by sticking small needles into their body at certain places. 针灸
+   ≫   I had acupuncture in my lower back.  我在后腰上做了针灸。
+
+========================================================================
+>>> remedies
+------------------------------------------------------------------------
+remedies    [美 ˈremədiz / 英 ˈremədiz]
+n. 救济方法；解决方法；治疗，疗法，药品（remedy 的复数）
+v. 补救，改正（remedy 的第三人称单数）
+★★ CET4 TEM4 remedying,remedied,remedies
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A remedy is a successful way of dealing with a problem. 解决办法
+   ≫   The remedy lies in the hands of the government.  解决办法就在政府手中。
+2. (N-COUNT) A remedy is something that is intended to cure you when you are ill or in pain. 治疗; 疗法; 药品
+   ≫   There are many different kinds of natural remedies to help overcome winter infections.  很多不同种类的天然药物有助于克服冬季传染病。
+3. (V-T) If you remedy something that is wrong or harmful, you correct it or improve it. 补救; 纠正; 改善
+   ≫   A great deal has been done internally to remedy the situation.  内部已经采取了很多措施来挽救局面。
+
+========================================================================
+>>> herbal
+------------------------------------------------------------------------
+herbal    [英 ˈhɜːb(ə)l / 美 ˈɜːrb(ə)l]
+adj. 药草的，香草的
+n. 草本植物志，草药志
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Herbal means made from or using herbs. 香草的; 使用药草的 [ADJ n]
+   ≫   ...herbal remedies for colds.  …感冒的草药疗法。
+
+========================================================================
+>>> herbal remedies
+------------------------------------------------------------------------
+herbal remedies
+草药疗法：使用植物提取物或植物本身来治疗疾病或缓解症状的一种替代疗法。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Herbal remedies are remarkably successful in treating eczema. 草药疗法医治湿疹非常成功。《柯林斯英汉双解大词典》
+≫   The leaves, bark and sap are also common ingredients of local herbal remedies. 树叶、树皮和树液也是当地草药疗法的常用药材。《柯林斯英汉双解大词典》
+≫   I often use herbal remedies. 我常使用草药疗法。
+
+========================================================================
+>>> eczema
+------------------------------------------------------------------------
+eczema    [美 ɪɡˈziːməˌˈeksɪmə / 英 ˈeksmə; ˈeksɪmə]
+n. [皮肤] 湿疹
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Eczema is a skin condition that makes your skin itch and become sore, rough, and broken. 湿疹
+
+========================================================================
+>>> bark
+------------------------------------------------------------------------
+bark    [美 bɑːrk / 英 bɑːk]
+v. 大声嚷，吼叫；（狗）吠，叫；擦破（胫部的）皮；剥去（树，木头的）皮
+n. 狗叫声，吠声；吼叫声；树皮；小帆船，三桅帆船
+【名】 （Bark）（英、西、德、捷、法、芬、瑞典）巴克，（阿拉伯、俄）巴尔克（人名）
+★★ CET4 TEM4 barking,barked,barks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When a dog barks, it makes a short, loud noise, once or several times. (狗) 吠
+   ≫   Don't let the dogs bark.  别让狗叫。
+2. (N-COUNT) Bark is also a noun. 吠声
+   ≫   The Doberman let out a string of roaring barks.  那条杜宾犬发出一连串的吼叫声。
+3. (V-I) If you bark at someone, you shout at them aggressively in a loud, rough voice. 咆哮
+   ≫   I didn't mean to bark at you.  我不是有意吼你。
+4. (N-UNCOUNT) Bark is the tough material that covers the outside of a tree. 树皮
+5. (V) to scrape or rub off skin, as in an injury 擦伤; 刮伤
+
+========================================================================
+>>> sap
+------------------------------------------------------------------------
+sap    [美 sæp / 英 sæp]
+n. （植物的）汁，液；<非正式>傻瓜，容易上当的人；元气，活力；<史>（用以偷袭设防场所的）坑道，地道；大头短棒，棍棒
+v. 使削弱，使虚弱；<史>挖坑道；用大头短棒击，用棍棒打；（地理）（水或冰川作用）逐渐侵蚀；<古>破坏……的基础，侵蚀……的基础
+【名】 （Sap）（印、美、法、荷）萨（人名）
+★ TEM4 sapping,sapped,saps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something saps your strength or confidence, it gradually weakens or destroys it. 消耗; 削弱
+   ≫   I was afraid the sickness had sapped my strength.  恐怕这场病已经消耗了我的力气。
+2. (V-T) to undermine (a fortification, etc) by digging saps 挖地道以摧毁(工事等)
+3. (N-UNCOUNT) Sap is the watery liquid in plants and trees. (植物的) 汁液
+   ≫   The leaves, bark and sap are also common ingredients of local herbal remedies.  树叶、树皮和树液也是当地草药疗法的常用药材。
+4. (N-COUNT) a gullible or foolish person 容易上当的人 [slang]
+5. (N-COUNT) energy; vigour 精力
+6. (N-COUNT) a deep and narrow trench used to approach or undermine an enemy position, esp in siege warfare 地道
+
+========================================================================
+>>> cinchona bark
+------------------------------------------------------------------------
+cinchona bark
+金鸡纳皮，金鸡纳树皮
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The drug is derived from the bark of the cinchona tree, native to South America, and by 1856 demand for the drug was surpassing the available supply. 这种药物是从原产于南美洲的金鸡纳树的树皮中提取的。到了1856年，对这种药物的需求已经超过了现有的供应。
+≫   An alkaloid, C19H22N2O, derived from the bark of various cinchona trees and used as an antimalarial agent. 金鸡纳宁，辛可宁一种生物碱，c19h22n2o，由金鸡纳树的树皮中。
+
+========================================================================
+>>> quinine
+------------------------------------------------------------------------
+quinine    [美 ˈkwaɪnaɪn / 英 ˈkwɪniːn]
+n. 奎宁；金鸡纳碱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Quinine is a drug that is used to treat fevers such as malaria. 奎宁
+
+========================================================================
+>>> malaria
+------------------------------------------------------------------------
+malaria    [美 məˈleriə / 英 məˈleəriə]
+n. 疟疾
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Malaria is a serious disease carried by mosquitoes, which causes periods of fever. 疟疾
+
