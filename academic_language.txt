@@ -45367,3 +45367,34 @@ n. 回文
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) A palindrome is a word or a phrase that is the same whether you read it backward or forward, for example, the word "refer." 回文
 
+========================================================================
+>>> inflate
+------------------------------------------------------------------------
+inflate    [美 ɪnˈfleɪt / 英 ɪnˈfleɪt]
+v. （使）充气，（使）膨胀；使（价格、成本等）上涨；夸大，吹嘘
+★ CET6+ TEM4 inflating,inflated,inflates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you inflate something such as a balloon or tyre, or if it inflates, it becomes bigger as it is filled with air or a gas. 使充气; 充气
+   ≫   Stuart jumped into the sea and inflated the liferaft.  斯图尔特跳进海里给救生筏充气。
+2. (V-T/V-I) If you say that someone inflates the price of something, or that the price inflates, you mean that the price increases. 抬高 (物价); 涨高
+   ≫   The promotion of a big release can inflate a film's final cost.  一部大片的发行宣传会抬高影片的最终成本。
+3. (ADJ) inflated ADJ 高涨的
+   ≫   They had to buy everything at inflated prices at the ranch shop.  他们不得不以高价购买牧场商店里的各种物品。
+4. (V-T) If someone inflates the amount or effect of something, they say it is bigger, better, or more important than it really is, usually so that they can profit from it. 夸大
+   ≫   They inflated their clients' medical injuries and treatment to defraud insurance companies.  他们夸大了客户受伤及治疗的情况以欺骗保险公司。
+
+========================================================================
+>>> deflate
+------------------------------------------------------------------------
+deflate    [美 dɪˈfleɪt; ˌdiːˈfleɪt / 英 dɪˈfleɪt; ˌdiːˈfleɪt]
+vt. 放气；使缩小；紧缩通货；打击；使泄气
+vi. 缩小；物价下降
+★ TEM8 deflating,deflated,deflates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deflate someone or something, you take away their confidence or make them seem less important. 使泄气
+   ≫   I hate to deflate your ego, but you seem to have an exaggerated idea of your importance to me.  我不愿伤你的自尊，但是你好像高估了你对我的重要性。
+2. (ADJ) deflated ADJ 泄气的
+   ≫   When she refused I felt deflated.  她拒绝时，我感到很沮丧。
+3. (V-I) When something such as a tyre or balloon deflates, or when you deflate it, all the air comes out of it. 放气; 漏气
+   ≫   We drove a few miles until the tyre deflated and we had to stop the car.  我们开了几英里直到轮胎漏气了，然后我们不得不停下车。
+
