@@ -104306,3 +104306,95 @@ adj. 大脑的，脑的；理智的，智力的；卷舌的，卷舌音的
 2. (ADJ) Cerebral means relating to the brain. 大脑的 [医学] [ADJ n]
    ≫   ...a cerebral haemorrhage.  …脑溢血。
 
+========================================================================
+>>> hopfield
+------------------------------------------------------------------------
+Hopfield
+霍普菲尔德（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Hopfield net has two forms. Hopfield 网络有两种形式。
+≫   You should be aware of the limitations on Hopfield nets. 您应该意识到Hopfield网络的局限性。
+≫   Specifically, the suggestion is that you might employ a Hopfield net. 具体说，建议是说您可以使用一个Hopfield网络。
+
+========================================================================
+>>> guarantee
+------------------------------------------------------------------------
+guarantee    [美 ˌɡærənˈtiː / 英 ˌɡærənˈtiː]
+v. 确保，保证；担保，为……作保；保修，包换
+n. 保证，担保；保修单，质量保证书；担保金，抵押品
+★★★★ CET4 TEM4 guaranteeing,guaranteed,guarantees
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing guarantees another, the first is certain to cause the second thing to happen. 确保
+   ≫   Surplus resources alone do not guarantee growth.  仅有富足的资源并不能确保发展。
+2. (N-COUNT) Something that is a guarantee of something else makes it certain that it will happen or that it is true. 保证
+   ≫   A famous old name on a firm is not necessarily a guarantee of quality.  公司的老字号并不一定能保证质量。
+3. (V-T) If you guarantee something, you promise that it will definitely happen, or that you will do or provide it for someone. 保证…必定发生; 保证…做某事或提供某物
+   ≫   Most states guarantee the right to free and adequate education.  大多数州都保证免费和适当教育的权利。
+   ≫   We guarantee that you will find a community with which to socialize.  我们保证你将找到一个可以社交的团体。
+4. (N-COUNT) Guarantee is also a noun. 保证
+   ≫   The editors can give no guarantee that they will fulfil their obligations.  这些编辑不能保证他们将履行职责。
+5. (N-COUNT) A guarantee is a written promise by a company to replace or repair a product free of charge if it has any faults within a particular time. 保修单 [also 'under' N]
+   ≫   Whatever a guarantee says, when something goes wrong, you can still claim your rights from the shop.  不管保修单上怎么说，当产品出现故障时，你仍然可以去商店维护自身的权益。
+6. (V-T) If a company guarantees its product or work, they provide a guarantee for it. 担保
+   ≫   Some builders guarantee their work.  一些建筑商为他们的工作担保。
+   ≫   All Dreamland's electric blankets are guaranteed for three years.  所有“梦乡”牌的电热毯都保质3年。
+7. (N-COUNT) A guarantee is money or something valuable that you give to someone to show that you will do what you have promised. 担保物
+   ≫   Males between 18 and 20 had to leave a deposit as a guarantee of returning to do their military service.  18岁至20岁的男性必须留下押金作为回来服兵役的担保。
+
+========================================================================
+>>> kurtosis
+------------------------------------------------------------------------
+kurtosis    [美 kərˈtoʊsɪs / 英 kəˈtəʊsɪs]
+n. 峰态，峰度，峭度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a measure of the concentration of a distribution around its mean, esp the statistic B 2 = m 4/m 2² where m 2 and m 4 are respectively the second and fourth moment of the distribution around the mean. In a normal distribution B 2 = 3 峭度; 峰态 [statistics] → see also platykurtic, mesokurtic, leptokurtic
+
+========================================================================
+>>> poison
+------------------------------------------------------------------------
+poison    [美 'pɔɪzn / 英 'pɒɪz(ə)n]
+vt. 污染；使中毒，放毒于；败坏；阻碍
+vi. 放毒，下毒
+n. 毒药，毒物；酒；有毒害的事物；[助剂] 抑制剂
+adj. 有毒的
+n. (Poison)人名；(西)波伊松
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-MASS) Poison is a substance that harms or kills people or animals if they swallow it or absorb it. 毒药
+   ≫   Poison from the fish causes paralysis, swelling, and nausea.  这种鱼的毒素会引起瘫痪、肿胀、恶心。
+2. (V-T) If someone poisons another person, they kill the person or make them ill by giving them poison. 毒死
+   ≫   The rumours that she had poisoned him could never be proved.  说她毒死了他的谣言永远不可能得到证实。
+3. (N-UNCOUNT) poisoning 投毒
+   ≫   She was sentenced to twenty years' imprisonment for poisoning and attempted murder.  她因投毒和谋杀未遂而被判处了20年监禁。
+4. (V-T) If you are poisoned by a substance, it makes you very ill and sometimes kills you. 使中毒
+   ≫   Employees were taken to the hospital yesterday after being poisoned by fumes.  雇员们昨天在烟雾中毒后被送进了医院。
+5. (N-UNCOUNT) poisoning 中毒
+   ≫   ...acute alcohol poisoning.  …急性酒精中毒。
+6. (V-T) If someone poisons a food, drink, or weapon, they add poison to it so that it can be used to kill someone. 在…中下毒
+   ≫   If I was your wife I would poison your coffee.  如果我是你的妻子，我会在你的咖啡里下毒。
+7. (V-T) To poison water, air, or land means to damage it with harmful substances such as chemicals. 污染
+   ≫   ...the textile and fibre industries that taint the air, poison the water, and use vast amounts of natural resources.  …污染空气、水源并消耗大量自然资源的纺织业和纤维制造业。
+   ≫   The land has been completely poisoned by chemicals.  这块土地已完全被化学品污染了。
+8. (V-T) Something that poisons a good situation or relationship spoils it or destroys it. 玷污; 破环
+   ≫   The whole atmosphere has really been poisoned.  整个气氛已经完全被破坏了。
+
+========================================================================
+>>> subordinate
+------------------------------------------------------------------------
+subordinate    [美 səˈbɔːrdɪnət / 英 səˈbɔːdɪnət]
+adj. 从属的，下级的；次要的
+n. 部属，下级；从属，次要
+v. 使从属于，使处于次要地位；使隶属，使服从
+★★ CET6 TEM4 subordinating,subordinated,subordinates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If someone is your subordinate, they have a less important position than you in the organization that you both work for. 下级
+   ≫   Haig tended not to seek guidance from subordinates.  黑格不想向下属们寻求指导。
+2. (ADJ) Someone who is subordinate to you has a less important position than you and has to obey you. 下级的
+   ≫   Sixty of his subordinate officers followed his example.  他的60个下级官员都以他为榜样。
+3. (ADJ) Something that is subordinate to something else is less important than the other thing. 次要的; 从属的
+   ≫   It was an art in which words were subordinate to images.  它是一种语言比图像次要的艺术。
+4. (V-T) If you subordinate something to another thing, you regard it or treat it as less important than the other thing. 使从属于; 把…列于次要地位
+   ≫   He was both willing and able to subordinate all else to this aim.  他既愿意也能够让别的一切从属于这个目标。
+5. (N-UNCOUNT) subordination N-UNCOUNT 从属; 次要
+   ≫   ...the social subordination of women.  …妇女们的社会从属地位。
+
