@@ -45398,3 +45398,212 @@ vi. 缩小；物价下降
 3. (V-I) When something such as a tyre or balloon deflates, or when you deflate it, all the air comes out of it. 放气; 漏气
    ≫   We drove a few miles until the tyre deflated and we had to stop the car.  我们开了几英里直到轮胎漏气了，然后我们不得不停下车。
 
+========================================================================
+>>> sophisticated
+------------------------------------------------------------------------
+sophisticated    [英 səˈfɪstɪkeɪtɪd / 美 səˈfɪstɪkeɪtɪd]
+adj. 见多识广的，老练的，见过世面的；复杂巧妙的，先进的，精密的；水平高的，在行的；时尚的，精致的
+v. 使老于世故；使（设备、技术等）更复杂先进；<古>（老练地）讲话（或推理）（sophisticate 的过去式和过去分词形式）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A sophisticated machine, device, or method is more advanced or complex than others. 高级的; 复杂的
+   ≫   Honeybees use one of the most sophisticated communication systems of any insect.  蜜蜂所使用的交流系统是昆虫中最复杂的之一。
+2. (ADJ) Someone who is sophisticated is comfortable in social situations and knows about culture, fashion, and other matters that are considered socially important. 老练的; 久经世故的
+   ≫   Claude was a charming, sophisticated companion.  克劳德是个有魅力、见多识广的伙伴。
+3. (ADJ) A sophisticated person is intelligent and knows a lot, so that they are able to understand complicated situations. 干练的
+   ≫   These people are very sophisticated observers of the foreign policy scene.  这些人是外交政策领域干练的观察家。
+
+========================================================================
+>>> eventually
+------------------------------------------------------------------------
+eventually    [美 ɪˈventʃuəli / 英 ɪˈventʃuəli]
+adv. 最终，结果
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Eventually means in the end, especially after a lot of delays, problems, or arguments. 终于
+   ≫   Eventually, the army caught up with him in Latvia.  部队终于在拉脱维亚追上了他。
+2. (ADV) Eventually means at the end of a situation or process or as the final result of it. 最终
+   ≫   Eventually your child will leave home to lead her own life as a fully independent adult.  你的孩子最终会离开家，作为完全独立的成年人过她自己的日子。
+
+========================================================================
+>>> TCM promotion
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：4278
+TCM promotion
+中医推广
+
+========================================================================
+>>> permissive
+------------------------------------------------------------------------
+permissive    [英 pəˈmɪsɪv / 美 pərˈmɪsɪv]
+adj. 放任的，纵容的；<法律>允许而非强制的，可选择的；（生）允许的，许可的；（道路）公众获准可使用的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A permissive person, society, or way of behaving allows or tolerates things that other people disapprove of. 宽容的; 放任的
+   ≫   The call for law and order replaced the "permissive tolerance" of the 1960s.  对法治的呼吁取代了20世纪60年代的“姑息忍让”。
+2. (N-UNCOUNT) permissiveness N-UNCOUNT 宽容; 放任
+   ≫   Permissiveness and democracy go together.  宽容和民主并存。
+
+========================================================================
+>>> emphasis
+------------------------------------------------------------------------
+emphasis    [美 ˈemfəsɪs / 英 ˈemfəsɪs]
+n. 重要性，重点强调；重读，强调；（表达的）强有力
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Emphasis is special or extra importance that is given to an activity or to a part or aspect of something. 重点
+   ≫   Too much emphasis is placed on research.  把重点过多地放在研究上。
+2. (N-VAR) Emphasis is extra force that you put on a syllable, word, or phrase when you are speaking in order to make it seem more important. 重音
+   ≫   The emphasis is on the first syllable of the last word.  重音是在最末一个单词的第一个音节上。
+
+========================================================================
+>>> whilst
+------------------------------------------------------------------------
+whilst    [英 waɪlst / 美 waɪlst]
+conj. <英，正式>当……的时候；与…同时；然而，但是；虽然，尽管；<古>直到…为止；与……同时；<古>直到……为止
+★★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONJ) Whilst means the same as the conjunction while. 同连词(while) [英国英语]
+
+========================================================================
+>>> accompanying
+------------------------------------------------------------------------
+accompanying    [美 əˈkʌmpəniɪŋ / 英 əˈkʌmpəniɪŋ]
+v. 陪同；与……同时发生；为……伴奏（或伴唱）；附加（accompany 的现在分词）
+adj. 陪伴的；和……一起发生的；附随的
+★★★ CET4 TEM4 accompanying,accompanied,accompanies
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you accompany someone, you go somewhere with them. 陪伴 [正式]
+   ≫   Ken agreed to accompany me on a trip to Africa.  肯同意陪我去非洲旅行。
+   ≫   She was accompanied by her younger brother.  她由她的弟弟陪着。
+2. (V-T) If one thing accompanies another, it happens or exists at the same time, or as a result of it. 与…相伴 [正式]
+   ≫   This volume of essays was designed to accompany an exhibition in Seattle.  这部论文集是为配合西雅图的展览设计的。
+3. (V-T) If you accompany a singer or a musician, you play one part of a piece of music while they sing or play the main tune. 为…伴奏
+   ≫   On Meredith's new recording, Eddie Higgins accompanies her on all but one song.  在梅瑞迪斯的新唱片中，艾迪·希金斯为她伴奏了除一首歌以外的所有歌曲。
+
+========================================================================
+>>> Internally
+------------------------------------------------------------------------
+internally    [美 ɪnˈtɜːrnəli / 英 ɪnˈtɜːnəli]
+adv. 在国内，在组织内部；在体内，在内部；（计算机）内部
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A theory should be internally consistent. 一套理论应当内在一致。《柯林斯英汉双解大词典》
+≫   The new posts were only advertised internally. 新职位仅限于内部招聘。《牛津词典》
+≫   The state is not a unified and internally coherent entity. 这个国家不是一个内部凝聚的统一体。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> discrete
+------------------------------------------------------------------------
+discrete    [美 dɪˈskriːt / 英 dɪˈskriːt]
+adj. 分离的，各别的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Discrete ideas or things are separate and distinct from each other. 分立的 [正式] [usu ADJ n]
+   ≫   ...instruction manuals that break down jobs into scores of discrete steps.  …将这些工作分解为多个分立步骤的说明书。
+
+========================================================================
+>>> diagrammatic
+------------------------------------------------------------------------
+diagrammatic    [美 ˌdaɪəɡrəˈmætɪk / 英 ˌdaɪəɡrəˈmætɪk]
+adj. 图解的；概略的；图表的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is in diagrammatic form is arranged or drawn as a diagram. 图式的 [usu ADJ n]
+   ≫   This is the virus in very crude simple diagrammatic form.  这是非常粗略简单的图式病毒形态。
+
+========================================================================
+>>> hypothetical
+------------------------------------------------------------------------
+hypothetical    [美 ˌhaɪpəˈθetɪk(ə)l / 英 ˌhaɪpəˈθetɪk(ə)l]
+adj. （基于）假设的，假定的
+n. 假设命题，假设陈述
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is hypothetical, it is based on possible ideas or situations rather than actual ones. 假设的
+   ≫   Let's look at a hypothetical situation in which Carol, a recovering alcoholic, gets invited to a party.  我们来假设一下这样一个情景，卡罗尔，一个正在康复中的嗜酒者，被邀情去参加一场聚会。
+2. (ADV) hypothetically ADV 以假设方式
+   ≫   He was invariably willing to discuss the possibilities hypothetically.  他总是愿意以假设方式讨论各种可能性。
+
+========================================================================
+>>> Empirical
+------------------------------------------------------------------------
+empirical    [美 ɪmˈpɪrɪk(ə)l / 英 ɪmˈpɪrɪk(ə)l]
+adj. 经验主义的，以经验为依据的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically ADV 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> sparseness
+------------------------------------------------------------------------
+sparseness    [美 ˈspɑːrsnəs / 英 ˈspɑːsnəs]
+n. 稀疏；稀少
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The data sets have features such as high-dimensional, sparseness and binary value in many clustering applications. 在许多聚类应用中，数据对象是具有高维、稀疏、二元的特征。
+≫   The hierarchical clustering method is applied to deal with the problem that the solution of MLS-SVM is lack of sparseness. 运用谱系聚类方法解决多核最小二乘支持向量机的解缺乏稀疏性的问题。
+≫   Using pseudowords we can overcome data sparseness problem in supervised WSD and fully verify the experimental effect of word sense classifier. 使用伪词可以避免有指导的词义消歧方法中的数据稀疏问题，充分验证词义分类器的实验效果。
+
+========================================================================
+>>> expertise
+------------------------------------------------------------------------
+expertise    [美 ˌekspɜːrˈtiːz / 英 ˌekspɜːˈtiːz]
+n. 专长，专门技能（知识）；专家的意见
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Expertise is special skill or knowledge that is acquired by training, study, or practice. 专业技能; 专业知识
+   ≫   She was not an accountant and didn't have the expertise to verify all of the financial details.  她不是会计，不具有核查所有这些财政细目的专业知识。
+
+========================================================================
+>>> corpus
+------------------------------------------------------------------------
+corpus    [美 ˈkɔːrpəs / 英 ˈkɔːpəs]
+n. 文集，全集；语料库；体，身体；胃体；本金
+【名】 （Corpus）（西）科尔普斯（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A corpus is a large collection of written or spoken texts that is used for language research. 语料库 [技术] [usu with supp]
+
+========================================================================
+>>> Infra
+------------------------------------------------------------------------
+infra    [英 ˈɪnfrə / 美 ˈɪnfrə]
+adv. （文书用语）在下；下文
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) (esp in textual annotation) below; further on 下文
+
+========================================================================
+>>> enumerate
+------------------------------------------------------------------------
+enumerate    [美 ɪˈnuːməreɪt / 英 ɪˈnjuːməreɪt]
+vt. 列举；枚举；计算
+TEM8 enumerating,enumerated,enumerates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
+   ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
+
+========================================================================
+>>> non-trivial
+------------------------------------------------------------------------
+non-trivial
+adj. 非平凡的；重大的，重要的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Moving to agile for the entire organization is a non-trivial problem. 对于一个组织而言，转而运用敏捷不是一个简单的问题。
+≫   Virtually all non-trivial problems require you to filter good data from bad. 几乎所有重要问题都需要从无用数据中过滤出有用数据。
+≫   Adding this information to the process model is non-trivial and often leads to errors. 将这一信息添加到流程模型绝不是微不足道的小事，它常常会导致错误发生。
+
+========================================================================
+>>> discontinuity
+------------------------------------------------------------------------
+discontinuity    [美 ˌdɪsˌkɑːntɪˈnuːəti / 英 ˌdɪsˌkɒntɪˈnjuːəti]
+n. 不连续；中断；间断性；断绝
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Discontinuity in a process is a lack of smooth or continuous development. 间断 [正式]
+   ≫   There may appear to be discontinuities between broadcasts.  转播中可能出现中断。
+
+========================================================================
+>>> preceptron
+------------------------------------------------------------------------
+Not found :(
+
