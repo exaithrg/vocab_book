@@ -45607,3 +45607,330 @@ n. 不连续；中断；间断性；断绝
 ------------------------------------------------------------------------
 Not found :(
 
+========================================================================
+>>> actue
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> acute
+------------------------------------------------------------------------
+acute    [美 əˈkjuːt / 英 əˈkjuːt]
+adj. 严重的，危险的；急性的，剧烈的；灵敏的；敏锐的，有洞察力的；锐角的；带尖音符的；（声音）高的，尖的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You can use acute to indicate that an undesirable situation or feeling is very severe or intense. 严峻的
+   ≫   The war has aggravated an acute economic crisis.  这场战争加剧了一场严峻的经济危机。
+   ≫   The report has caused acute embarrassment to the government.  这份报告使政府极其尴尬。
+2. (ADJ) An acute illness is one that becomes severe very quickly but does not last very long. Compare . 急性的 [医学] [ADJ n]
+   ≫   ...a patient with acute rheumatoid arthritis.  …一位患急性风湿性关节炎的病人。
+3. (ADJ) If a person's or animal's sight, hearing, or sense of smell is acute, it is sensitive and powerful. 敏锐的
+   ≫   When she lost her sight, her other senses grew more acute.  失明以后，她的其他感官变得更加敏锐了。
+4. (ADJ) An acute angle is less than 90°. Compare angle. 锐 (角)
+5. (ADJ) An acute accent is a symbol that is placed over vowels in some languages in order to indicate how that vowel is pronounced or over one letter in a word to indicate where it is stressed. You refer to a letter with this accent as, for example, e acute. For example, there is an acute accent over the letter "e" in the French word "café." 尖音符的 (E)(上的符号) [ADJ n, n ADJ]
+
+========================================================================
+>>> preliminaries
+------------------------------------------------------------------------
+preliminaries    [美 prɪˈlɪməˌneri]
+n. 预赛；初期微震；正文前书页（preliminary 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) → the full word for prelims
+
+========================================================================
+>>> notation
+------------------------------------------------------------------------
+notation    [英 nəʊˈteɪʃn / 美 noʊˈteɪʃn]
+n. （音乐、数学等的）标记系统，成套符号，标记法；注释，评注
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A system of notation is a set of written symbols that are used to represent something such as music or mathematics. 符号 [usu supp N]
+   ≫   Musical notation was conceived for the C major scale and each line and space represents a note in this scale.  乐谱为C大音阶而构思，在这个音阶中的每一个线和间都代表一个音符。
+   ≫   ...some other abstract notation system like a computer language.  …一些如计算机语言的其它抽象符号系统。
+
+========================================================================
+>>> prioritized
+------------------------------------------------------------------------
+prioritized
+v. 按重要性排列；优先处理（prioritize 的过去式和过去分词）
+prioritizing,prioritized,prioritizes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you prioritize something, you treat it as more important than other things. 优先考虑
+   ≫   Prioritize your own wants rather than constantly thinking about others.  优先考虑你自己的需要，而不要总想着别人。
+2. (V-T) If you prioritize the tasks that you have to do, you decide which are the most important and do them first. 确定 (任务) 优先顺序
+   ≫   Make lists of what to do and prioritize your tasks.  把你要做的事情列出来，确定任务的轻重缓急。
+
+========================================================================
+>>> hitter
+------------------------------------------------------------------------
+hitter    [美 ˈhɪtər / 英 ˈhɪtə(r)]
+n. 击球员；打击者
+n. （Hitter）人名；（德、匈）希特尔
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In sports, you can use hitter to say how good someone is at hitting the ball. 击球手 [adj N]
+   ≫   The Georgian, aged 19, is not one of the game's big hitters.  该19岁的佐治亚州人并不是这场比赛中的优秀击球手之一。
+2. (N-COUNT) If you refer to someone such as a politician or a businessperson as a heavy hitter or a big hitter, you mean that they are powerful and influential. (政商)大人物; 有影响力者 [adj N]
+   ≫   ...friendships with heavy hitters like European industrialist Carlo De Benedetti.  ...与欧洲实业家卡罗•德•贝内代蒂等大人物之间的友谊。
+
+========================================================================
+>>> oracle
+------------------------------------------------------------------------
+oracle    [美 ˈɔrəkl / 英 ˈɒrəkl]
+n. （古希腊传达神谕的）牧师，女祭司；（古希腊）神示所；神谕，神示；能提供宝贵信息的人（或书）；预言机
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In ancient Greece, an oracle was a priest or priestess who made statements about future events or about the truth. (古希腊传达神谕的) 祭司
+
+========================================================================
+>>> eviction
+------------------------------------------------------------------------
+eviction    [美 ɪˈvɪkʃn / 英 ɪˈvɪkʃn]
+n. 逐出；赶出；收回
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Eviction is the act or process of officially forcing someone to leave a house or piece of land. 驱逐
+   ≫   He was facing eviction, along with his wife and family.  他及其妻儿正面临着被驱逐。
+
+========================================================================
+>>> retains
+------------------------------------------------------------------------
+retains    [美 rɪˈteɪnz]
+保持
+★★★ CET4 TEM4 retaining,retained,retains
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To retain something means to continue to have that thing. 保留 [正式]
+   ≫   The interior of the shop still retains a nineteenth-century atmosphere.  那家商店内部依然保持着19世纪的格调。
+
+========================================================================
+>>> regularities
+------------------------------------------------------------------------
+regularities    [英 reɡjʊˈlærɪtiz / 美 ˌreɡjuˈlærətiz]
+n. 规律（regularity 的复数）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A regularity is the fact that the same thing always happens in the same circumstances. 规律性; 规律 [正式]
+   ≫   Children seek out regularities and rules in acquiring language.  儿童在学习语言过程中会找出各种规律和规则。
+
+========================================================================
+>>> precludes
+------------------------------------------------------------------------
+precludes
+v．排除，阻止：使某事不可能发生或不可能存在。
+★ CET6 TEM8 precluding,precluded,precludes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something precludes an event or action, it prevents the event or action from happening. 阻止 (某事件或行动发生) [正式]
+   ≫   At 84, John feels his age precludes too much travel.  在84岁时，约翰感觉到他的年龄不允许他作太多的旅行。
+2. (V-T) If something precludes you from doing something or going somewhere, it prevents you from doing it or going there. 阻止 (某人做某事或去某地) [正式]
+   ≫   A constitutional amendment precludes any president from serving more than two terms.  宪法的一项修订条款规定任何总统不得连任两届以上。
+
+========================================================================
+>>> exploits
+------------------------------------------------------------------------
+exploits    [美 ɪkˈsplɔɪts / 英 ɪkˈsplɔɪts]
+n. 功绩，业绩；壮举（exploit 的复数）
+v. 利用；开发（exploit 的第三人称单数）
+★★★ CET4 exploiting,exploited,exploits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you say that someone is exploiting you, you think that they are treating you unfairly by using your work or ideas and giving you very little in return. 利用; 剥削
+   ≫   Critics claim he exploited black musicians for personal gain.  批评家们声称他为私利利用了黑人音乐家们。
+2. (N-UNCOUNT) exploitation N-UNCOUNT 利用; 剥削
+   ≫   Extra payments should be made to protect the interests of the staff and prevent exploitation.  额外报酬应被支付以维护员工的利益和防止剥削。
+3. (V-T) If you say that someone is exploiting a situation, you disapprove of them because they are using it to gain an advantage for themselves, rather than trying to help other people or do what is right. 利用 (某种情势) [表不满]
+   ≫   The government and its opponents compete to exploit the troubles to their advantage.  政府及其反对者们竞相利用这些动乱来取得利益。
+4. (N-SING) exploitation N-SING (对某种情势的) 利用
+   ≫   ...the exploitation of the famine by local politicians.  …当地政客对饥荒的利用。
+5. (V-T) If you exploit something, you use it well, and achieve something or gain an advantage from it. 充分利用
+   ≫   You'll need a good antenna to exploit the radio's performance.  你需要一根好的天线来充分利用该电台的节目。
+6. (V-T) To exploit resources or raw materials means to develop them and use them for industry or commercial activities. 开发利用 (资源、原材料)
+   ≫   I think we're being very short-sighted in not exploiting our own coal.  我想我们不开采利用自己的煤矿实在是目光短浅。
+7. (N-UNCOUNT) exploitation N-UNCOUNT (对资源、原材料的) 开发利用
+   ≫   ...the planned exploitation of its potential oil and natural gas reserves.  …对其潜在石油和天然气储备的有计划的开采利用。
+8. (N-COUNT) If you refer to someone's exploits, you mean the brave, interesting, or amusing things that they have done. 英勇事迹
+   ≫   His wartime exploits were later made into a film and a television series.  他战时的英勇事迹后来被改编成了电影和电视剧。
+
+========================================================================
+>>> Remarkably
+------------------------------------------------------------------------
+remarkably    [美 rɪˈmɑːrkəbli / 英 rɪˈmɑːkəbli]
+adv. 不寻常地，惊人地；不平常地，奇怪地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He's remarkably sanguine about the problems involved. 他对所涉及的问题非常自信。《柯林斯英汉双解大词典》
+≫   Herbal remedies are remarkably successful in treating eczema. 草药疗法医治湿疹非常成功。《柯林斯英汉双解大词典》
+≫   Remarkably, nobody was killed. 竟然没有死人，真是万幸。《牛津词典》
+
+========================================================================
+>>> unveiled
+------------------------------------------------------------------------
+unveiled    [美 ˌʌnˈveɪld / 英 ˌʌnˈveɪld]
+v. （首次）公开，揭示；为……揭幕，揭去……上的覆盖物；除去面纱，显露（unveil 的过去式和过去分词）
+★★ CET6 TEM4 unveiling,unveiled,unveils
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone formally unveils something such as a new statue or painting, they draw back the curtain which is covering it. 为…揭幕
+   ≫   ...a ceremony to unveil a monument to the victims.  …死难者纪念碑揭幕仪式。
+2. (V-T) If you unveil a plan, new product, or some other thing that has been kept secret, you introduce it to the public. 公布
+   ≫   Mr. Werner unveiled his new strategy this week.  沃纳先生本周公布了他的新策略。
+
+========================================================================
+>>> consequently
+------------------------------------------------------------------------
+consequently    [美 ˈkɑːnsɪkwentli / 英 ˈkɒnsɪkwəntli]
+adv. 因此，结果
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Consequently means as a result. 结果 [正式] [ADV with cl]
+   ≫   Grandfather had sustained a broken back while working in the mines. Consequently, he spent the rest of his life in a wheelchair.  爷爷在矿上做工时受了背伤，结果，他在轮椅上度过了他的余生。
+
+========================================================================
+>>> derivation
+------------------------------------------------------------------------
+derivation    [英 ˌderɪˈveɪʃ(ə)n / 美 ˌderɪˈveɪʃn]
+n. 起源，由来；派生，词源；求导，导数
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The derivation of something, especially a word, is its origin or source. 根源(尤指词根) [oft N 'of' n, 'of' adj N]
+   ≫   The derivation of its name is obscure.  它名字的根源起源鲜为人知。
+
+========================================================================
+>>> conducting
+------------------------------------------------------------------------
+conducting    [英 kənˈdʌktɪŋ / 美 kənˈdʌktɪŋ]
+v. 指挥；行为；传导（conduct 的 ing 形式）；指导
+adj. [物]传导的
+n. 指挥；执行；传导
+★★★★ CET4 TEM4 conducting,conducted,conducts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you conduct an activity or task, you organize it and do it. 组织并实施
+   ≫   I decided to conduct an experiment.  我决定做一项实验。
+2. (V-T) If you conduct yourself in a particular way, you behave in that way. (以某种方式) 表现
+   ≫   The way he conducts himself reflects on the family.  他的行为方式折射出他的家庭。
+3. (V-T/V-I) When someone conducts an orchestra or choir, they stand in front of it and direct its performance. 指挥 (交响乐、合唱等)
+   ≫   Dennis had recently begun a successful career conducting opera.  丹尼斯最近成功地开始了指挥歌剧的生涯。
+   ≫   Solti continued to conduct here and abroad.  佐尔蒂继续在国内外指挥。
+4. (V-T) If something conducts heat or electricity, it allows heat or electricity to pass through it or along it. 传导 (热、电) [no cont]
+   ≫   Water conducts heat faster than air.  水比空气导热快。
+5. (N-SING) The conduct of a task or activity is the way in which it is organized and carried out. 进行实施
+   ≫   Also up for discussion will be the conduct of free and fair elections.  还需讨论的是公平自由的选举如何进行。
+6. (N-UNCOUNT) Someone's conduct is the way they behave in particular situations. (某人在某情形中的) 行为方式
+   ≫   For Europeans, the law is a statement of basic principles of civilized conduct.  对欧洲人来说，该法律是对基本文明行为原则的表述。
+
+========================================================================
+>>> retrieval
+------------------------------------------------------------------------
+retrieval    [美 rɪˈtriːv(ə)l / 英 rɪˈtriːv(ə)l]
+n. 找回，取回；（计算机系统信息的）检索；恢复，挽回
+★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The retrieval of information from a computer is the process of getting it back. (电脑中信息的) 读取
+   ≫   ...electronic storage and retrieval systems.  …电子存储和读取系统。
+2. (N-UNCOUNT) The retrieval of something is the process of getting it back from a particular place, especially from a place where it should not be. 找回; 取回
+   ≫   Its real purpose is the launching and retrieval of small aeroplanes in flight.  它的真正目的是发射和找回飞行中的小型飞机。
+
+========================================================================
+>>> encounted
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> encountered
+------------------------------------------------------------------------
+encountered    [美 ɪnˈkaʊntər / 英 ɪnˈkaʊntəd]
+v. 遇到；曾遭遇（encounter 的过去式）
+★★★ CET4 TEM4 encountering,encountered,encounters
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you encounter problems or difficulties, you experience them. 遭遇
+   ≫   Every day of our lives we encounter major and minor stresses of one kind or another.  生活中的每一天，我们会遇到或大或小的这样那样的压力。
+2. (V-T) If you encounter someone, you meet them, usually unexpectedly. 邂逅 [正式]
+   ≫   Did you encounter anyone in the building?  你在那栋大楼里偶然遇到什么人了吗？
+3. (N-COUNT) An encounter with someone is a meeting with them, particularly one that is unexpected or significant. 邂逅
+   ≫   The author tells of a remarkable encounter with a group of South Vietnamese soldiers.  作者讲述了他与一群南越士兵的惊人邂逅。
+4. (N-COUNT) An encounter is a particular type of experience. 特殊经历
+   ≫   ...a sexual encounter.  …一次性经历。
+
+========================================================================
+>>> replicated
+------------------------------------------------------------------------
+replicated    [美 ˈreplɪkeɪtɪd / 英 ˈreplɪkeɪtɪd]
+重复的
+★ TEM8 replicating,replicated,replicates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you replicate someone's experiment, work, or research, you do it yourself in exactly the same way. 复制; 重做(试验、工作或研究) [正式]
+   ≫   He invited her to his laboratory to see if she could replicate the experiment.  他邀请她到他的实验室看她能否复制该实验。
+
+========================================================================
+>>> replicate
+------------------------------------------------------------------------
+replicate    [美 ˈreplɪkeɪt / 英 ˈreplɪkeɪt]
+v. 重复，复制；（遗传物质或生物）自我繁殖，自我复制；复证（实验或试验以得出一致的结果）
+adj. 复制的；（实验或试验）复现的
+n. 复制品；（乐）高（或低）八度反复音
+★ TEM8 replicating,replicated,replicates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you replicate someone's experiment, work, or research, you do it yourself in exactly the same way. 复制; 重做(试验、工作或研究) [正式]
+   ≫   He invited her to his laboratory to see if she could replicate the experiment.  他邀请她到他的实验室看她能否复制该实验。
+
+========================================================================
+>>> replication
+------------------------------------------------------------------------
+replication    [美 ˌreplɪˈkeɪʃn / 英 ˌreplɪˈkeɪʃn]
+n. 复制；回答；反响
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a reply or response 回复
+
+========================================================================
+>>> perceived
+------------------------------------------------------------------------
+perceived    [美 pə'sivd / 英 pə'siːvd]
+v. 感知；认为（perceive的过去分词）；领会
+adj. 感知到的；感观的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you perceive something, you see, notice, or realize it, especially when it is not obvious. 感知到
+   ≫   Students must perceive for themselves the relationship between success and effort.  学生们必须自己去认识到成功与努力之间的关系。
+2. (V-T) If you perceive someone or something as doing or being a particular thing, it is your opinion that they do this thing or that they are that thing. 认为
+   ≫   Stress is widely perceived as contributing to coronary heart disease.  压力普遍被认为能造成冠心病。
+
+========================================================================
+>>> atomic
+------------------------------------------------------------------------
+atomic    [美 əˈtɑːmɪk / 英 əˈtɒmɪk]
+adj. 原子的，与原子有关的；原子能的，核能的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Atomic means relating to power that is produced from the energy released by splitting atoms. 原子能的
+   ≫   ...atomic energy.  …原子能。
+2. (ADJ) Atomic means relating to the atoms of substances. 原子的 [ADJ n]
+   ≫   ...the atomic number of an element.  …一种元素的原子序数。
+
+========================================================================
+>>> quantum
+------------------------------------------------------------------------
+quantum    [美 ˈkwɑːntəm / 英 ˈkwɒntəm]
+n. 量子；量子论；额（特指定额、定量）；（乙酰胆碱释放的）单元量；美国昆腾公司（世界领先的硬盘生产商）
+adj. 量子的；(大小、数量的) 猛然剧增，(质量的) 突飞猛进
+★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) In physics, quantum theory and quantum mechanics are concerned with the behaviour of atomic particles. 量子的 [ADJ n]
+   ≫   Both quantum mechanics and chaos theory suggest a world constantly in flux.  量子力学和混沌理论都指出世界处在不断变化中。
+2. (ADJ) A quantum leap or quantum jump in something is a very great and sudden increase in its size, amount, or quality. (大小、数量的) 猛然剧增; (质量的) 突飞猛进 [ADJ n]
+   ≫   A vaccine which can halt this suffering represents a quantum leap in healthcare in this country.  一种能终结这种苦楚的疫苗代表了该国在医疗保健方面的一次巨大进步。
+
+========================================================================
+>>> retensive
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> rententive
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> retentive
+------------------------------------------------------------------------
+retentive    [美 rɪˈtentɪv / 英 rɪˈtentɪv]
+adj. 保持的；记性好的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you have a retentive memory, you are able to remember things very well. 记忆力强的; 记性好的 [usu ADJ n]
+   ≫   Luke had an amazingly retentive memory.  卢克记忆力惊人。
+
