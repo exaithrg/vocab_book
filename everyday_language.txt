@@ -104855,3 +104855,13 @@ n. 困惑，茫然；令人困惑的情形，令人费解的事物
 2. (N-COUNT) The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题 [usu pl]
    ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
 
+========================================================================
+>>> netherlands
+------------------------------------------------------------------------
+Netherlands    [美 ˈneðərləndz / 英 ˈneðələndz]
+n. 荷兰（形容词 Netherlandish）；地区名
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Netherlands has been reclaiming farmland from water. 荷兰一直在围海造田。《柯林斯英汉双解大词典》
+≫   I'm starting to wonder how men in the Netherlands feel. 我开始想知道荷兰男人的感受。
+≫   They are not native to the Netherlands, or even Europe. 他们不是荷兰人，甚至连欧洲人都算不上。
+
