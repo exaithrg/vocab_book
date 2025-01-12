@@ -104640,3 +104640,218 @@ CET6 TEM8
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) An academician is a member of an academy, usually one that has been formed to improve or maintain standards in a particular field. 院士
 
+========================================================================
+>>> tropical
+------------------------------------------------------------------------
+tropical    [美 ˈtrɑːpɪk(ə)l / 英 ˈtrɒpɪk(ə)l]
+adj. 热带的，热带地区的；（天气）湿热的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Tropical means belonging to or typical of the tropics. 热带的 [ADJ n]
+   ≫   ...tropical diseases.  …热带疾病。
+2. (ADJ) Tropical weather is hot and damp weather typical of the tropics. 湿热的
+   ≫   The cool, sweet milk is just what you need in the tropical heat.  清凉的甜牛奶正是你在湿热的高温中所需要的。
+
+========================================================================
+>>> temperate
+------------------------------------------------------------------------
+temperate    [美 ˈtempərət / 英 ˈtempərət]
+adj. 温带的，（气候）温和的；（行为）温和的，有节制的
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Temperate is used to describe a climate or a place which is never extremely hot or extremely cold. (气候或地区) 温和的
+   ≫   The Nile Valley keeps a temperate climate throughout the year.  尼罗河流域全年气候温和。
+
+========================================================================
+>>> temporature
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> temperature
+------------------------------------------------------------------------
+temperature    [美 ˈtemprətʃər; ˈtemprətʃʊr / 英 ˈtemprətʃə(r)]
+n. 温度，气温；体温；发烧；热烈程度，情绪激烈程度
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The temperature of something is a measure of how hot or cold it is. 温度
+   ≫   Winter closes in and the temperature drops below freezing.  冬天来临，气温降至冰点以下。
+2. (N-UNCOUNT) Your temperature is the temperature of your body. A normal temperature is about 98.6° Fahrenheit. 体温
+   ≫   His temperature continued to rise and the cough worsened until Tania finally persuaded him to see a doctor.  他的体温持续升高且咳嗽加重，直到塔妮娅最终说服了他去看医生。
+3. (N-COUNT) You can use temperature to talk about the feelings and emotions that people have in particular situations. (特定场合的) 氛围
+   ≫   There's also been a noticeable rise in the political temperature.  政治气氛也明显升温。
+4. (PHRASE) If you are running a temperature or if you have a temperature, your temperature is higher than it should be. 发烧
+   ≫   He began to run an extremely high temperature.  他开始发严重高烧。
+5. (PHRASE) If you take someone's temperature you use an instrument called a thermometer to measure the temperature of their body in order to see if they are ill. 量某人的体温
+   ≫   He will probably take your child's temperature too.  他可能也会量你孩子的体温。
+
+========================================================================
+>>> boreal
+------------------------------------------------------------------------
+boreal    [美 ˈbɔːriəl / 英 ˈbɔːriəl]
+adj. 北的，北方的；北风的
+n. （Boreal）人名；（法）博雷亚尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to the north or the north wind 北方的; 北风的
+
+========================================================================
+>>> subtropical
+------------------------------------------------------------------------
+subtropical    [美 ˌsʌbˈtrɑːpɪk(ə)l / 英 ˌsʌbˈtrɒpɪk(ə)l]
+adj. [地理] 亚热带的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Subtropical places have a climate that is warm and wet, and are often near tropical regions. 亚热带的
+   ≫   ...the subtropical region of the Chapare.  ...查帕雷亚热带区域。
+
+========================================================================
+>>> arctic
+------------------------------------------------------------------------
+arctic    [美 ˈɑːrktɪk / 英 ˈɑːktɪk]
+adj. 北极的；严寒的，极冷的
+n. 北极，北极地区；防水套鞋
+【名】 （Arctic）（英）阿克蒂克（人名）
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Arctic is the area of the world around the North Pole. It is extremely cold and there is very little light in winter and very little darkness in summer. 北极
+   ≫   ...winter in the Arctic.  …北极的冬天。
+2. (ADJ) If you describe a place or the weather as arctic, you are emphasizing that it is extremely cold. 极冷的 [非正式]
+   ≫   The bathroom, with its spartan pre-war facilities, is positively arctic.  这个有简陋战前设施的浴室实在冷极了。
+
+========================================================================
+>>> antarctic
+------------------------------------------------------------------------
+antarctic    [美 ænˈtɑːrktɪk / 英 ænˈtɑːktɪk]
+n. (the Antarctic) 南极洲，南极地区
+adj. 南极的，南极地带的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Antarctic is the area around the South Pole. 南极洲
+
+========================================================================
+>>> monsoon
+------------------------------------------------------------------------
+monsoon    [美 ˌmɑːnˈsuːn / 英 ˌmɒnˈsuːn]
+n. 季风；（印度等地的）雨季；季候风
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The monsoon is the season in Southern Asia when there is a lot of very heavy rain. (南亚地区的) 雨季
+   ≫   ...the end of the monsoon.  …雨季的结束。
+2. (N-PLURAL) Monsoon rains are sometimes referred to as the monsoons. 雨季的降雨
+   ≫   In Bangladesh, the monsoons have started.  在孟加拉国，雨季已经开始。
+
+========================================================================
+>>> coral reef
+------------------------------------------------------------------------
+coral reef
+珊瑚礁：一条长线状的珊瑚，位于温暖、浅水中的珊瑚礁。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A coral reef is a long narrow mass of coral and other substances, the top of which is usually just above or just below the surface of the sea. 珊瑚礁
+   ≫   An unspoiled coral reef encloses the bay.  未经破坏的珊瑚礁围绕着该海湾。
+
+========================================================================
+>>> polar
+------------------------------------------------------------------------
+polar    [美 ˈpoʊlər / 英 ˈpəʊlə(r)]
+adj. 极地的，来自极地的；截然不同的；磁极的；（天体）极性的，极地的；（细胞，器官，身体部分）极的；（液体，尤指溶剂）由偶极矩分子组成的；（固体）离子的；（几何）（球体）轴极的
+n. （几何）极线；极光双子星
+【名】 （Polar）（德、西）波拉尔（人名）
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Polar means near the North or South Poles. 极地的 [ADJ n]
+   ≫   ...the rigours of life in the polar regions.  …极地的艰苦生活。
+   ≫   There was a period of excessive warmth which melted some of the polar ice.  有段时期温度过高，融化了极地的部分冰层。
+2. (ADJ) Polar is used to describe things that are completely opposite in character, quality, or type. (性格、质量或类型) 正好相反的 [正式] [ADJ n]
+   ≫   The nomads' lifestyle was the polar opposite of collectivization.  游牧民的生活方式同集体化的生活方式刚好相反。
+
+========================================================================
+>>> frigid
+------------------------------------------------------------------------
+frigid    [美 ˈfrɪdʒɪd / 英 ˈfrɪdʒɪd]
+adj. 寒冷的，严寒的；冷淡的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A snowstorm hit the West today, bringing with it frigid temperatures. 一场暴风雪今天袭击西部地区，带来了严寒低温。《柯林斯英汉双解大词典》
+≫   Less solar energy is lost in evaporation at the frigid poles than in the tropics. 与热带地区相比，在寒冷的两极蒸发中损失的太阳能更少。
+≫   My husband says I am frigid. 我的丈夫说我性冷淡。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> tactical
+------------------------------------------------------------------------
+tactical    [美 ˈtæktɪkl / 英 ˈtæktɪkl]
+adj. 战术的；策略的；善于策略的
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use tactical to describe an action or plan which is intended to help someone achieve what they want in a particular situation. 战术上的
+   ≫   It's not yet clear whether his resignation offer is a serious one, or whether it's simply a tactical move.  还不清楚他的辞职请求是认真的，还是只是个策略上的举动。
+2. (ADV) tactically ADV 有策略地
+   ≫   The electorate is astute enough to vote tactically against the government.  全体选民非常精明，很有策略地投了政府的反对票。
+3. (ADJ) Tactical weapons or forces are those which a military leader can decide for themselves to use in a battle, rather than waiting for a decision by a political leader. (武器或军队) 战术性的 [ADJ n]
+   ≫   They have removed all tactical nuclear missiles that could strike Europe.  他们已经拆走了所有可能攻击欧洲的战术性核导弹。
+
+========================================================================
+>>> percentage
+------------------------------------------------------------------------
+percentage    [美 pərˈsentɪdʒ / 英 pəˈsentɪdʒ]
+n. 百分比，百分率；部分，比例；利润分成，提成；<非正式>利益，好处
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A percentage is a fraction of an amount expressed as a particular number of hundredths of that amount. 百分比
+   ≫   Only a few vegetable-origin foods have such a high percentage of protein.  只有几种来源于植物的食品含有如此高百分比的蛋白质。
+
+========================================================================
+>>> haber
+------------------------------------------------------------------------
+Haber    [美 ˈhɑːbər / 英 ˈhɑːbə(r)]
+n. 哈伯（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That is the Born-Haber Cycle. 这就是波恩哈伯循环。
+≫   That is the value of Born-Haber. 这就是波恩哈伯循环的意义。
+≫   This is Haber. He got the Nobel in 1918. 这是哈伯，他于1918年获得诺贝尔奖。
+
+========================================================================
+>>> harbor
+------------------------------------------------------------------------
+harbor    [美 ˈhɑːrbər / 英 ˈhɑːbə(r)]
+n. 港，海港；避难所
+v. 庇护；窝藏；怀有；为……提供庇护；入港停泊；居住，生存
+n. （Harbor）（美）哈伯（人名）
+★★★ CET4 TEM4 harboring,harbored,harbors
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Statue of Liberty towers stands above the harbor of New York. 自由女神像耸立在纽约港的上空。
+≫   Ships last a lot longer when they go to sea than when they stay in the harbor. 出海的船舶寿命要比留在港口里的船舶寿命长得多。
+≫   Though smaller than many other phocids, harbor seals are similar in size to most otariids. 虽然港海豹的体型较小，但其体型与大多数的 otariids（海狮和海狗）相似。
+
+========================================================================
+>>> diffusion
+------------------------------------------------------------------------
+diffusion    [美 dɪˈfjuːʒn / 英 dɪˈfjuːʒn]
+n. 扩散，传播
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There are data on the rates of diffusion of molecules. 有一些关于分子的扩散速率的数据。《柯林斯英汉双解大词典》
+≫   In December 1778, he proposed the plan "for the more general diffusion of knowledge". 1778年12月，他提出了“更普遍传播知识”的计划。
+≫   Iron came from West Asia, although its routes of diffusion were somewhat different than those of agriculture. 铁器来源于西亚，尽管它的传播路径跟农业技术的传播路径有些不同。
+
+========================================================================
+>>> peek
+------------------------------------------------------------------------
+peek    [美 piːk / 英 piːk]
+v. 偷看，窥视；微露出，探出
+n. 一瞥，偷偷地一看；（计算机）读取数据
+【名】 （Peek）（美、德、英）皮克（人名）
+★ TEM8 peeking,peeked,peeks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you peek at something or someone, you take a quick look at them, often secretly. (常指偷偷地) 瞥一眼
+   ≫   On two occasions she had peeked at him through a crack in the wall.  有两次她曾透过墙上的一个裂缝偷窥了他。
+2. (N-COUNT) Peek is also a noun. 一瞥
+   ≫   Companies have been paying outrageous fees for a peek at the technical data.  各公司一直在为该技术资料的一窥支付惊人的费用。
+
+========================================================================
+>>> perplexity
+------------------------------------------------------------------------
+perplexity    [英 pəˈpleksəti / 美 pərˈpleksəti]
+n. 困惑，茫然；令人困惑的情形，令人费解的事物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Perplexity is a feeling of being confused and frustrated because you do not understand something. 困惑; 迷惘
+   ≫   He began counting them and then, with growing perplexity, counted them a second time.  他开始数，然后更加困惑地数第二遍。
+2. (N-COUNT) The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题 [usu pl]
+   ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
+
