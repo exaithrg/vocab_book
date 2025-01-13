@@ -1,120 +1,120 @@
 entry: 12-bar blues
-first word: 12-bar
+first 4 words: 12-bar blues
 occurrences: 1
 
 entry: Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
-first word: Achieve
+first 4 words: Achieve every goal you
 occurrences: 1
 
 entry: aepe
-first word: aepe
+first 4 words: aepe
 occurrences: 1
 
 entry: Albus Dumbledore
-first word: Albus
+first 4 words: Albus Dumbledore
 occurrences: 1
 
 entry: army, navy, air force
-first word: army,
+first 4 words: army, navy, air force
 occurrences: 1
 
 entry: Bachelor's Button
-first word: Bachelor's
+first 4 words: Bachelor's Button
 occurrences: 1
 
 entry: Bachelor's Degree
-first word: Bachelor's
+first 4 words: Bachelor's Degree
 occurrences: 1
 
 entry: Co. Ltd
-first word: Co.
+first 4 words: Co. Ltd
 occurrences: 1
 
 entry: Coulomb's Law
-first word: Coulomb's
+first 4 words: Coulomb's Law
 occurrences: 1
 
 entry: engaging
-first word: engaging
+first 4 words: engaging
 occurrences: 1
 
 entry: entertainment
-first word: entertainment
+first 4 words: entertainment
 occurrences: 1
 
 entry: eon, era, period, epoch and age
-first word: eon,
+first 4 words: eon, era, period, epoch
 occurrences: 3
 
 entry: explicit
-first word: explicit
+first 4 words: explicit
 occurrences: 2
 
 entry: Faraday's Law of Electromagnetic Induction
-first word: Faraday's
+first 4 words: Faraday's Law of Electromagnetic
 occurrences: 1
 
 entry: formidable
-first word: formidable
+first 4 words: formidable
 occurrences: 1
 
 entry: Francisco,
-first word: Francisco,
+first 4 words: Francisco,
 occurrences: 1
 
 entry: inseption
-first word: inseption
+first 4 words: inseption
 occurrences: 1
 
 entry: involved
-first word: involved
+first 4 words: involved
 occurrences: 1
 
 entry: Neural Radiance Fields
-first word: Neural
+first 4 words: Neural Radiance Fields
 occurrences: 2
 
 entry: Neural Radiation Field Rendering
-first word: Neural
+first 4 words: Neural Radiation Field Rendering
 occurrences: 1
 
 entry: only a master of the five ways may enter
-first word: only
+first 4 words: only a master of
 occurrences: 1
 
 entry: plunge into
-first word: plunge
+first 4 words: plunge into
 occurrences: 1
 
 entry: retrieval augmented generatioin
-first word: retrieval
+first 4 words: retrieval augmented generatioin
 occurrences: 1
 
 entry: San Francisco, CA
-first word: San
+first 4 words: San Francisco, CA
 occurrences: 2
 
 entry: Science, Technology, Engineering, and Mathematics
-first word: Science,
+first 4 words: Science, Technology, Engineering, and
 occurrences: 1
 
 entry: synergies
-first word: synergies
+first 4 words: synergies
 occurrences: 1
 
 entry: too involved with
-first word: too
+first 4 words: too involved with
 occurrences: 1
 
 entry: 罗恩韦斯莱
-first word: 罗恩韦斯莱
+first 4 words: 罗恩韦斯莱
 occurrences: 1
 
 entry: 赫敏格兰杰
-first word: 赫敏格兰杰
+first 4 words: 赫敏格兰杰
 occurrences: 1
 
 entry: 邓布利多
-first word: 邓布利多
+first 4 words: 邓布利多
 occurrences: 1
 

@@ -1,0 +1,41 @@
+========================================================================
+>>> concurrent
+------------------------------------------------------------------------
+concurrent    [美 kənˈkɜːrənt / 英 kənˈkʌrənt]
+adj. 并存的，同时发生的；同意的，一致的；（两个或两个以上徒刑判决）同时执行的；（三条或三条以上线）共点的，会合的
+n. 共点；同时发生的事件
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Concurrent events or situations happen at the same time. 同时发生的
+   ≫   Galerie St. Etienne is holding three concurrent exhibitions.  圣·艾蒂安美术馆在同时举办3场展览。
+   ≫   He will actually be serving three concurrent five-year sentences.  实际上他要同期服3个5年的刑期。
+2. (ADV) concurrently ADV 同时发生地 [ADV with v]
+   ≫   He was jailed for 33 months to run concurrently with a sentence he is already serving for burglary.  他被关进监狱33个月，与因入室行窃已经在服的刑期同期执行。
+
+========================================================================
+>>> tuple
+------------------------------------------------------------------------
+tuple    [美 ˈtjʊpəl; ˈtʌpəl / 英 tjʊpəl; ˈtʌpəl]
+n. [计] 元组，重数
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a row of values in a relational database 元组 [计算机]
+
+========================================================================
+>>> decorator
+------------------------------------------------------------------------
+decorator    [美 ˈdekəreɪtər / 英 ˈdekəreɪtə(r)]
+n. 装饰者；室内装潢师
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A decorator is a person who is employed to design and decorate the inside of people's houses. 室内装修设计师 [美国英语]
+   ≫   ...Bloomberg's private palace, with its intricate interior design by decorator Jamie Drake.  …布隆伯格的私人宫殿，其精细的室内设计出自装修设计师杰米·德雷克之手。
+
+========================================================================
+>>> immutable
+------------------------------------------------------------------------
+immutable    [美 ɪˈmjuːtəb(ə)l / 英 ɪˈmjuːtəb(ə)l]
+adj. 永恒的，不可改变的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is immutable will never change or cannot be changed. 永恒的; 永远不变的 [正式]
+   ≫   ...the eternal and immutable principles of right and wrong.  ...这些永恒不变的对与错的原则。
+

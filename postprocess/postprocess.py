@@ -9,13 +9,14 @@ class VocabularyUnit:
         self.entry = entry.strip()
         self.contents = contents.strip()
         self.count = 1  # Initialize the counter for occurrences
-        self.first_word = self.extract_first_word(entry)
+        self.first_4_words = self.extract_first_4_words(entry)
 
     @staticmethod
-    def extract_first_word(text: str) -> str:
+    def extract_first_4_words(text: str) -> str:
         words = text.split()
         if words:
-            return words[0]
+            # return words[:4]
+            return ' '.join(words[:4])
         return ''
 
 def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
@@ -94,15 +95,17 @@ if __name__ == "__main__":
     # print(sys.path)
     # pdb.set_trace()
 
-    input_file_path = os.path.join(os.path.dirname(__file__), './testcase/testcase_language.txt')
-    
-    output_brief_file_path = os.path.join(os.path.dirname(__file__), './testcase/testcase_language_brief.txt')
-    output_detail_file_path = os.path.join(os.path.dirname(__file__), './testcase/testcase_language_detail.txt')
+    # vocab_file_path_prefix = './250113/freezed/everyday_language'
+    vocab_file_path_prefix = './testcase/testcase_language'
+
+    input_file_path = vocab_file_path_prefix + '.txt'
+    output_brief_file_path = vocab_file_path_prefix + '_brief.txt'
+    output_detail_file_path = vocab_file_path_prefix + '_detail.txt'
 
     # Optional: Get current timestamp and format it
     # timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
-    # output_brief_file_path = os.path.join(os.path.dirname(__file__), f'brief_{timestamp}.txt')
-    # output_detail_file_path = os.path.join(os.path.dirname(__file__), f'detail_{timestamp}.txt')
+    # output_brief_file_path = vocab_file_path_prefix + '_brief_' + timestamp + '.txt'
+    # output_detail_file_path = vocab_file_path_prefix + '_detail_' + timestamp + '.txt'
 
     vocab_units = parse_vocab_book(input_file_path)
     sorted_vocab_units = sort_units(vocab_units)
@@ -112,7 +115,7 @@ if __name__ == "__main__":
     with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
         for unit in merged_vocab_units:
             brief_file.write(f"entry: {unit.entry}\n")
-            brief_file.write(f"first word: {unit.first_word}\n")
+            brief_file.write(f"first 4 words: {unit.first_4_words}\n")
             brief_file.write(f"occurrences: {unit.count}\n\n")
 
     # Write detailed contents to another file
