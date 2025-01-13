@@ -47235,3 +47235,240 @@ n. 显著；卓越；特点；凸起
 ≫   Nonlinear sampling model is adopted and saliency map is formed based on contrast of neighboring sampling nodes. 在注意机制中采用非线性采样模型，并利用相邻采样点形成显著性图。
 ≫   A hierarchical object detection method based on vision saliency was proposed for automatic remote sensing image interpretation. 针对遥感图像自动判读的应用场景，提出了一种基于视觉显著性的分层目标检测方法。
 
+========================================================================
+>>> nickel
+------------------------------------------------------------------------
+nickel    [美 ˈnɪk(ə)l / 英 ˈnɪk(ə)l]
+n. （金属）镍；（美国或加拿大的）五分硬币
+v. 镀镍于
+【名】 （Nickel）（德、英）尼克尔（人名）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Nickel is a silver-coloured metal that is used in making steel. 镍
+2. (N-COUNT) In the United States and Canada, a nickel is a coin worth five cents. (美国和加拿大的) 五分镍币
+   ≫   ...a large glass jar filled with pennies, nickels, dimes, and quarters.  …一个装满1分、5分、10分和25分硬币的大玻璃罐。
+
+========================================================================
+>>> nickel
+------------------------------------------------------------------------
+nickel    [英 ˈnɪk(ə)l / 美 ˈnɪk(ə)l]
+n. （金属）镍；（美国或加拿大的）五分硬币
+v. 镀镍于
+【名】 （Nickel）（德、英）尼克尔（人名）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Nickel is a silver-coloured metal that is used in making steel. 镍
+2. (N-COUNT) In the United States and Canada, a nickel is a coin worth five cents. (美国和加拿大的) 五分镍币
+   ≫   ...a large glass jar filled with pennies, nickels, dimes, and quarters.  …一个装满1分、5分、10分和25分硬币的大玻璃罐。
+
+========================================================================
+>>> dense
+------------------------------------------------------------------------
+dense    [美 dens / 英 dens]
+adj. 稠密的；浓密的，浓重的；密度大的；（文字）难懂的；愚钝的，笨拙的
+★★ CET4 TEM4 denser,densest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is dense contains a lot of things or people in a small area. 稠密的
+   ≫   Where Bucharest now stands, there once was a large, dense forest.  现在的布加勒斯特所在地曾经是一片茂密的大森林。
+2. (ADV) densely ADV 稠密地
+   ≫   Java is a densely populated island.  爪哇是一个人口稠密的岛屿。
+3. (ADJ) Dense fog or smoke is difficult to see through because it is very heavy and dark. (烟、雾等) 浓重的
+   ≫   A dense column of smoke rose several miles into the air.  一柱浓烟升上几英里高的天空。
+4. (ADJ) In science, a dense substance is very heavy in relation to its volume. (物质) 密度大的 [技术]
+   ≫   ...a small dense star.  …一颗密度大的小恒星。
+
+========================================================================
+>>> sparse
+------------------------------------------------------------------------
+sparse    [美 spɑːrs / 英 spɑːs]
+adj. 稀少的，稀疏的；简朴的
+★ TEM4 sparser,sparsest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is sparse is small in number or amount and spread out over an area. 稀疏的
+   ≫   Many slopes are rock fields with sparse vegetation.  许多山坡都是植被稀疏的岩石地。
+   ≫   He was a tubby little man in his fifties, with sparse hair.  他是个50来岁的矮胖男人，头发稀疏。
+2. (ADV) sparsely ADV 稀疏地
+   ≫   ...the sparsely populated interior region, where there are few roads.  …人口稀少、几乎没有公路的内陆地区。
+
+========================================================================
+>>> renaissance
+------------------------------------------------------------------------
+renaissance    [美 ˈrenəsɑːns / 英 rɪˈneɪs(ə)ns]
+n. 复兴，再生；文艺复兴（时期）（the Renaissance）；文艺复兴文化，文艺复兴风格（Renaissance）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PROPER) The Renaissance was the period in Europe, especially Italy, in the 14th, 15th, and 16th centuries, when there was a new interest in art, literature, science, and learning. 文艺复兴时期
+   ≫   ...the Renaissance masterpieces in London's galleries.  …伦敦美术馆里文艺复兴时期的杰作。
+2. (N-SING) If something experiences a renaissance, it becomes popular or successful again after a time when people were not interested in it. 复兴
+   ≫   Popular art is experiencing a renaissance.  通俗艺术正在复兴。
+
+========================================================================
+>>> empirical
+------------------------------------------------------------------------
+empirical    [美 ɪmˈpɪrɪk(ə)l / 英 ɪmˈpɪrɪk(ə)l]
+adj. 经验主义的，以经验为依据的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically ADV 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> surpasses
+------------------------------------------------------------------------
+surpasses
+v．超过，胜过：在某种程度、质量或数量上超过某人或某物。
+★ CET6 TEM4 surpassing,surpassed,surpasses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one person or thing surpasses another, the first is better than, or has more of a particular quality than, the second. 优于; 超过
+   ≫   He was determined to surpass the achievements of his older brothers.  他决心超过他的几位哥哥的成就。
+2. (V-T) If something surpasses expectations, it is much better than it was expected to be. 远远超出 (预期)
+   ≫   Conrad Black gave an excellent party that surpassed expectations.  康拉德·布莱克办了一次远远超出预期的精彩聚会。
+
+========================================================================
+>>> fast-aggregation
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fast-aggregation
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：1556
+fast-aggregation
+短语
+
+========================================================================
+>>> aggregation
+------------------------------------------------------------------------
+aggregation    [美 ˌæɡrɪˈɡeɪʃn / 英 ˌæɡrɪˈɡeɪʃn]
+n. 聚集，聚合；（互联网）相关内容项的集合；聚集体，集合体
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or process of aggregating 聚集
+
+========================================================================
+>>> thermal
+------------------------------------------------------------------------
+thermal    [英 ˈθɜːm(ə)l / 美 ˈθɜːrm(ə)l]
+adj. 热的，热量的；（衣服）保暖的，御寒的；（水）天然温热的；地热的，地温的（同 geothermal）
+n. 上升的热气流；保暖衣服，保暖内衣（thermals）； 上升的热气流
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Thermal means relating to or caused by heat or by changes in temperature. 热的; 由热引起的; 由温度变化引起的 [ADJ n]
+   ≫   ...thermal power stations.  …热电站。
+2. (ADJ) Thermal streams or baths contain water which is naturally hot or warm. 天然温热的 [ADJ n]
+   ≫   Volcanic activity has created thermal springs and boiling mud pools.  火山活动产生了温泉和沸腾的泥浆池。
+3. (ADJ) Thermal clothes are specially designed to keep you warm in cold weather. 保暖的 (衣服) [ADJ n]
+   ≫   ...thermal underwear.  …保暖内衣
+   ≫   My feet were like blocks of ice despite the thermal socks.  我的双脚尽管穿着保暖袜，还是像冰块。
+4. (N-PLURAL) Thermals are thermal clothes. 保暖衣
+   ≫   Have you got your thermals on?  你穿上保暖衣了吗？
+5. (N-COUNT) A thermal is a movement of rising warm air. 上升的暖气流
+   ≫   Birds use thermals to lift them through the air.  鸟类利用上升的暖气流升空。
+
+========================================================================
+>>> demonstrate
+------------------------------------------------------------------------
+demonstrate    [美 ˈdemənstreɪt / 英 ˈdemənstreɪt]
+v. 证明；示范，演示；表露；游行，示威
+★★★ CET4 TEM4 demonstrating,demonstrated,demonstrates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To demonstrate a fact means to make it clear to people. 证明
+   ≫   The study also demonstrated a direct link between obesity and mortality.  这项研究也证明了肥胖和死亡率之间的直接关系。
+   ≫   They are anxious to demonstrate to the voters that they have practical policies.  他们急于向选民证明他们有切实可行的政策。
+2. (V-T) If you demonstrate a particular skill, quality, or feeling, you show by your actions that you have it. 展现 (才能、品质、感情)
+   ≫   Have they, for example, demonstrated a commitment to democracy?  例如，他们展现了对民主的奉献吗？
+3. (V-I) When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威
+   ≫   Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies.  昨天大约三万名愤怒的农民到布鲁塞尔游行示威，反对可能的补贴削减。
+   ≫   In the cities vast crowds have been demonstrating for change.  在各城市，已经有大量的群众举行示威游行要求变革。
+4. (V-T) If you demonstrate something, you show people how it works or how to do it. 展示
+   ≫   A selection of cosmetic companies will be there to demonstrate their new products.  一些化妆品公司会在那里展示他们的新产品。
+
+========================================================================
+>>> contemporary
+------------------------------------------------------------------------
+contemporary    [美 kənˈtempəreri / 英 kənˈtemp(ə)rəri]
+adj. 当代的，现代的；同时期的，同时代的
+n. 同时代的人；同龄人，同辈
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Contemporary things are modern and relate to the present time. 当代的
+   ≫   She writes a lot of contemporary music for people like Whitney Houston.  她为惠特尼·休斯敦等人创作大量当代音乐作品。
+2. (ADJ) Contemporary people or things were alive or happened at the same time as something else you are talking about. 同时代的
+   ≫   ...drawing upon official records and the reports of contemporary witnesses.  …借助官方记录以及当时目击者的证言。
+3. (N-COUNT) Someone's contemporary is a person who is or was alive at the same time as them. 同时代的人
+   ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
+
+========================================================================
+>>> distinct
+------------------------------------------------------------------------
+distinct    [美 dɪˈstɪŋkt / 英 dɪˈstɪŋkt]
+adj. 不同的，有区别的；清楚的，明显的；确切的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is distinct from something else of the same type, it is different or separate from it. 有区别的
+   ≫   Engineering and technology are disciplines distinct from one another and from science.  工程学和工艺学是互不相同的学科，也不同于理科。
+2. (ADV) distinctly ADV 不同地 [ADV adj]
+   ≫   ...a banking industry with two distinctly different sectors.  …有两个截然不同部门的银行业。
+3. (ADJ) If something is distinct, you can hear, see, or taste it clearly. 清楚的
+   ≫   ...to impart a distinct flavour with a minimum of cooking fat.  …加入最少量的烹调油脂做出独特的风味。
+4. (ADV) distinctly ADV 清楚地 [ADV with v]
+   ≫   I distinctly heard the loudspeaker calling passengers for the Washington-Miami flight.  我清楚地听到扩音器在呼叫由华盛顿飞往迈阿密的旅客。
+5. (ADJ) If an idea, thought, or intention is distinct, it is clear and definite. 明显的; 确切的
+   ≫   Now that Tony was no longer present, there was a distinct change in her attitude.  现在托尼不在场了，她的态度就发生了明显变化。
+6. (ADV) distinctly ADV 明显地; 确切地 [ADV with v]
+   ≫   I distinctly remember wishing I had not got involved.  我清楚地记得我巴不得自己没有参与进去。
+7. (ADJ) You can use distinct to emphasize that something is great enough in amount or degree to be noticeable or important. 显著的 [ADJ n] [强调]
+   ≫   Being 6ft 3in tall has some distinct disadvantages!  身高6英尺3英寸有明显的劣势！
+8. (ADV) distinctly ADV 显著地 [ADV adj/-ed]
+   ≫   His government is looking distinctly shaky.  他的政府看起来显然岌岌可危。
+9. (PHRASE) If you say that you are talking about one thing as distinct from another, you are indicating exactly which thing you mean. 与…有区别的
+   ≫   There's a lot of evidence that oily fish, as distinct from fatty meat, has a beneficial effect.  大量证据显示，含油的鱼与肥肉不同，具有益处。
+
+========================================================================
+>>> dramatically
+------------------------------------------------------------------------
+dramatically    [美 drəˈmætɪkli / 英 drəˈmætɪkli]
+adv. 剧烈地，明显地；戏剧性地，夸张地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The cost of living has increased dramatically. 生活费用已大幅增长了。《柯林斯英汉双解大词典》
+≫   The number of homeless people has increased dramatically. 无家可归者的人数急剧增加了。《牛津词典》
+≫   At speeds above 50 mph, serious injuries dramatically increase. 时速超过50英里时，重伤机率急剧上升。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> unawareness
+------------------------------------------------------------------------
+unawareness    [美 ˌʌnəˈwernəs / 英 ˌʌnəˈweənəs]
+n. 没认识到；未觉察到
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you understand your offender, you may realize that he or she was acting out of unawareness, fear and even love. 如果你理解了冒犯你的人，你可能会意识到他或她的行为是出于无意识、恐惧甚至是爱。
+≫   It's an unawareness of the fact that we have been and always will be 'whole'. 这是一个不知道的事实是，我们已经，而且永远会是'全'。
+≫   Conflict is the measurement to know whether that act is from awareness or unawareness. 冲突是衡量行动是否有觉知的指标。
+
+========================================================================
+>>> encompass
+------------------------------------------------------------------------
+encompass    [美 ɪnˈkʌmpəs / 英 ɪnˈkʌmpəs]
+v. 包含，包括；包围，环绕；<古>促成，实现
+★ CET6+ TEM8 encompassing,encompassed,encompasses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something encompasses particular things, it includes them. 包含
+   ≫   His repertoire encompassed everything from Bach to Schoenberg.  他的表演曲目从巴赫到勋伯格，样样俱全。
+2. (V-T) To encompass a place means to completely surround or cover it. 围住; 覆盖
+   ≫   The map shows the rest of the western region, encompassing nine states.  这地图显示了其余西部区域，覆盖了9个州。
+
+========================================================================
+>>> invoke
+------------------------------------------------------------------------
+invoke    [美 ɪnˈvoʊk / 英 ɪnˈvəʊk]
+v. 行使，实施（法权）；援用，援引（法律）；提及，援引（某人、某理论、实例等作为支持）；提及（某著名人物）；唤起，引起（感情或想象）；（尤指向神灵）祈祷，祈求；用法术召唤（魔鬼）；（计算机）调用，激活
+★ CET6+ TEM8 invoking,invoked,invokes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you invoke a law, you state that you are taking a particular action because that law allows or tells you to. 求助于 (法律)
+   ≫   The judge invoked an international law that protects refugees.  法官援用了一项保护难民的国际法律。
+2. (V-T) If you invoke something such as a principle, a saying, or a famous person, you refer to them in order to support your argument. 援引
+   ≫   ...economists who invoke the principle of "consumer sovereignty" to support their arguments.  …援引“消费者主权”原则来支持自己论点的经济学家们。
+3. (V-T) If something such as a piece of music invokes a feeling or an image, it causes someone to have the feeling or to see the image. Many people consider this use to be incorrect because is the correct word for this. 使人想起
+   ≫   "Appalachian Spring" by Aaron Copland invoked the atmosphere of the wide open spaces of the prairies.  艾伦·科普兰的《阿帕拉契亚的春天》使人想起了那种辽阔草原的氛围。
+
