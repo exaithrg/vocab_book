@@ -47472,3 +47472,74 @@ v. 行使，实施（法权）；援用，援引（法律）；提及，援引�
 3. (V-T) If something such as a piece of music invokes a feeling or an image, it causes someone to have the feeling or to see the image. Many people consider this use to be incorrect because is the correct word for this. 使人想起
    ≫   "Appalachian Spring" by Aaron Copland invoked the atmosphere of the wide open spaces of the prairies.  艾伦·科普兰的《阿帕拉契亚的春天》使人想起了那种辽阔草原的氛围。
 
+========================================================================
+>>> deprecated
+------------------------------------------------------------------------
+deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+
+========================================================================
+>>> hangs
+------------------------------------------------------------------------
+hangs    ['hæŋ]
+v. 悬( hang的过去分词 )；（被）绞死；贴；逗留
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something hangs in a high place or position, or if you hang it there, it is attached there so it does not touch the ground. 悬挂
+   ≫   Notices painted on sheets hang at every entrance.  写在纸上的通告悬挂在每个入口处。
+   ≫   ...small hanging lanterns.  …几盏小吊灯。
+2. (PHRASAL VERB) Hang up means the same as . 悬挂
+   ≫   I found his jacket, which was hanging up in the hallway.  我找到了他的夹克，它就挂在门厅里。
+3. (V-I) If a piece of clothing or fabric hangs in a particular way or position, that is how it is worn or arranged. (衣服或织物) 披垂
+   ≫   ...a ragged fur coat that hung down to her calves.  …一件垂到她的小腿的破旧皮大衣。
+4. (V-I) If something hangs loose or hangs open, it is partly fixed in position, but is not firmly held, supported, or controlled, often in such a way that it moves freely. 垂下
+   ≫   ...her long golden hair which hung loose about her shoulders.  …她那松散着披在肩头的金色长发。
+5. [usu passive] If something such as a wall is hung with pictures or other objects, they are attached to it. 悬挂着 (画等)
+   ≫   The walls were hung with huge modern paintings.  墙上挂着一些巨幅现代油画。
+6. (V-T/V-I) If someone is hanged or if they hang, they are killed, usually as a punishment, by having a rope tied around their neck and the support taken away from under their feet. 绞死; 吊死
+   ≫   The five were expected to be hanged at 7 a.m. on Tuesday.  这5个人将在星期二上午7:00被处以绞刑。
+   ≫   He hanged himself two hours after arriving at a mental hospital.  他到达精神病院两小时后上吊自杀了。
+7. (V-I) If something such as someone's breath or smoke hangs in the air, it remains there without appearing to move or change position. 悬浮
+   ≫   His breath was hanging in the air before him.  他呼出的水汽悬浮在他面前的空气中。
+8. (V-I) If a possibility hangs over you, it worries you and makes your life unpleasant or difficult because you think it might happen. 使...忧虑
+   ≫   A constant threat of unemployment hangs over thousands of university researchers.  持续的失业威胁使数千名大学研究人员感到忧虑。
+9. → see also
+10. [非正式] If you get the hang of something such as a skill or activity, you begin to understand or realize how to do it. 掌握…的窍门
+   ≫   It's a bit tricky at first till you get the hang of it.  它在一开始当你还没掌握它的窍门的时候有些棘手。
+11. [非正式] If you tell someone to hang in there or to hang on in there, you are encouraging them to keep trying to do something and not to give up even though it might be difficult. 坚持下去
+   ≫   Hang in there and you never know what is achievable.  坚持下去，你永远无法知道会有什么样的收获。
+
+========================================================================
+>>> feat
+------------------------------------------------------------------------
+feat    [美 fiːt / 英 fiːt]
+n. 功绩，壮举；武艺，技艺
+adj. 合适的，灵巧的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you refer to an action, or the result of an action, as a feat, you admire it because it is an impressive and difficult achievement. 功绩 [表赞许]
+   ≫   A racing car is an extraordinary feat of engineering.  赛车是工程学的一项非凡业绩。
+
+========================================================================
+>>> tangy
+------------------------------------------------------------------------
+tangy    [美 ˈtæŋi / 英 ˈtæŋi]
+adj. 扑鼻的；有刺激性的；强烈的；咸的
+★ tangier,tangiest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A tangy flavour or smell is one that is sharp, especially a flavour like that of lemon juice or a smell like that of sea air. 酸的; 咸腥的
+
+========================================================================
+>>> 2025
+------------------------------------------------------------------------
+2025
+two thousand and twenty-five
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The address is 2025 M Street, NW, Washington, DC, 20036. 地址是华盛顿哥伦比亚特区，华盛顿西北，M街2025号，邮编20036。《柯林斯英汉双解大词典》
+≫   It's said that a new bridge will be built in my hometown in 2025. 据说我的家乡将在2025年建一座新桥。
+≫   Hopefully in 2025 we will no longer be e-mailing each other, for we will have developed more convenient electronic communication tools by then. 希望到2025年，我们将不再互发电子邮件，因为到那时，我们将开发出更方便的电子通信工具。
+
