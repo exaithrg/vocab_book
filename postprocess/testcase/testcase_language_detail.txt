@@ -1,4 +1,9 @@
 ========================================================================
+>>> 12-bar blues
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
 Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
 用强大的动力、坚定的决心和敏锐的智慧来实现你为自己设定的每一个目标。
 
@@ -6,6 +11,47 @@ Achieve every goal you set for yourself with formidable drive, unwavering determ
 >>> aepe
 ------------------------------------------------------------------------
 Not found :(
+
+========================================================================
+Albus Dumbledore
+n. 阿不思·邓不利多
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Harry and Hermione clutch The Life and Lies of Albus Dumbledore by Rita Skeeter, which reveals the secret past of the late Hogwarts headmaster. 哈利与赫敏紧握丽塔·斯基特写的《邓布利多的人生与谎言》，其中披露了已故霍格沃茨校长的秘密往事。
+≫   Albus Dumbledore is the greatest sorcerer in the world! 阿不思·邓不利多才是世界上最伟大的魔法师！ ！
+≫   Albus Dumbledore: Professor, I would trust Hagrid with my life. 阿不思。邓不利多：教授，我能把我的性命交付给海格。
+
+========================================================================
+>>> army, navy, air force
+------------------------------------------------------------------------
+army, navy, air force
+陆军，海军，空军
+
+========================================================================
+>>> Bachelor's Button
+------------------------------------------------------------------------
+bachelor's button
+矢车菊
+
+========================================================================
+>>> Bachelor's Degree
+------------------------------------------------------------------------
+Bachelor's Degree
+学士学位
+
+========================================================================
+>>> Co. Ltd
+------------------------------------------------------------------------
+Co.Ltd
+有限责任公司
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Nantong Sailing Marine equipment Co. Ltd is a professional manufacturer of calorifier. 南通赛冷船舶设备有限公司是生产热化器的专业生产厂家。
+≫   Hirai Seimitsu Co. Ltd. on Japan invested capital into Sammyung Precision (Jiaxing) Co., Ltd. 日本平井精光株式会社向三明精密（嘉兴）有限公司投资。
+≫   Jim huddled up an agreement with Harding Co. Ltd. and flew back New York this morning. 今天上午吉姆匆匆与哈丁公司签订了一份合同，接着就乘飞机返回了纽约。
+
+========================================================================
+>>> Coulomb's Law
+------------------------------------------------------------------------
+库仑定律；库伦氏定律
 
 ========================================================================
 >>> engaging
@@ -28,6 +74,14 @@ CET4 TEM4
    ≫   ...the world of entertainment and international stardom.  …国际娱乐界及明星界。
 
 ========================================================================
+>>> eon, era, period, epoch and age
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：11976
+eon, era, period, epoch and age
+Eon, era, period， epoch和age
+
+========================================================================
 explicit    [美 ɪk'splɪsɪt / 英 ɪk'splɪsɪt; ek-]
 adj. 明确的；清楚的；直率的；详述的
 CET4
@@ -40,6 +94,12 @@ CET4
    ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
 4. [ADV with v] explicitly 直言不讳地
    ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+
+========================================================================
+>>> Faraday's Law of Electromagnetic Induction
+------------------------------------------------------------------------
+Faraday's Law of Electromagnetic Induction
+[电磁] 法拉第电磁感应定律
 
 ========================================================================
 formidable    [美 'fɔrmɪdəbl / 英 'fɔːmɪdəb(ə)l; fɔː'mɪd-]
@@ -56,12 +116,25 @@ San Francisco, CA
 旧金山，加州
 
 ========================================================================
+>>> inseption
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+involved
+adj. 复杂的；与……关系密切的；专心于……的，忙于……的；卷入的，参与的 v. 牵涉，包含（involve 的过去式和过去分词形式）
+
+========================================================================
 Neural Radiance Fields
 神经辐射场
 
 ========================================================================
 Neural Radiation Field Rendering
 神经辐射场渲染
+
+========================================================================
+only a master of the five ways may enter
+只有精通五道的人才能进入
 
 ========================================================================
 plunge into    [美 plʌndʒ ˈɪntə]
@@ -91,11 +164,21 @@ San Francisco, CA
 旧金山，加州
 
 ========================================================================
+>>> Science, Technology, Engineering, and Mathematics
+------------------------------------------------------------------------
+Science, Technology, Engineering, and Mathematics
+科学、技术、工程和数学
+
+========================================================================
 synergies    [sɪ'nɚdʒɪd; 'sɪnədʒɪd]
 n. 协同增效效应；合并效果（synergy的复数）
 ------------------------------------------------------------------------
 1. [商业] If there is synergy between two or more organizations or groups, they are more successful when they work together than when they work separately. 协同作用
    ≫   Of course, there's quite obviously a lot of synergy between the two companies.  当然，这两家公司之间显然有许多的协同作用。
+
+========================================================================
+too involved with
+太投入于
 
 ========================================================================
 罗恩韦斯莱

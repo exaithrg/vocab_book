@@ -1,9 +1,37 @@
+entry: 12-bar blues
+first word: 12-bar
+occurrences: 1
+
 entry: Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
 first word: Achieve
 occurrences: 1
 
 entry: aepe
 first word: aepe
+occurrences: 1
+
+entry: Albus Dumbledore
+first word: Albus
+occurrences: 1
+
+entry: army, navy, air force
+first word: army,
+occurrences: 1
+
+entry: Bachelor's Button
+first word: Bachelor's
+occurrences: 1
+
+entry: Bachelor's Degree
+first word: Bachelor's
+occurrences: 1
+
+entry: Co. Ltd
+first word: Co.
+occurrences: 1
+
+entry: Coulomb's Law
+first word: Coulomb's
 occurrences: 1
 
 entry: engaging
@@ -14,9 +42,17 @@ entry: entertainment
 first word: entertainment
 occurrences: 1
 
+entry: eon, era, period, epoch and age
+first word: eon,
+occurrences: 3
+
 entry: explicit
 first word: explicit
 occurrences: 2
+
+entry: Faraday's Law of Electromagnetic Induction
+first word: Faraday's
+occurrences: 1
 
 entry: formidable
 first word: formidable
@@ -26,12 +62,24 @@ entry: Francisco,
 first word: Francisco,
 occurrences: 1
 
+entry: inseption
+first word: inseption
+occurrences: 1
+
+entry: involved
+first word: involved
+occurrences: 1
+
 entry: Neural Radiance Fields
 first word: Neural
 occurrences: 2
 
 entry: Neural Radiation Field Rendering
 first word: Neural
+occurrences: 1
+
+entry: only a master of the five ways may enter
+first word: only
 occurrences: 1
 
 entry: plunge into
@@ -46,8 +94,16 @@ entry: San Francisco, CA
 first word: San
 occurrences: 2
 
+entry: Science, Technology, Engineering, and Mathematics
+first word: Science,
+occurrences: 1
+
 entry: synergies
 first word: synergies
+occurrences: 1
+
+entry: too involved with
+first word: too
 occurrences: 1
 
 entry: 罗恩韦斯莱
