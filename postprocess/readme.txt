@@ -1,20 +1,29 @@
 注意事项
 
+Step 1：
 在跑postprocess脚本之前，请先完成如下事宜：
 1. 替换所有的☣ ERROR为正确输出
 2. 清除 ≫  未找到守护进程，正在启动...
 3. 清除 ✔  成功启动守护进程，PID：3176
+4. 清除所有>>> f 开头的词条查询，这些基本是打错了
+5. 简单看一下Not found :(词条，这些不一定是需要删除的，因为有些是错误拼写的记录
+6. 备份两个txt文件到postprocess/date/freezed
 
+Step 2：
+1. 跑postprocess脚本，统计查词重复频率，并打印排序后的顺序版本的txt文件。
+2. 查词重复频率统计应当进行两次，一次是区分学术和日常的，一次是合并的。
+
+Step 3：
 跑完postprocess脚本之后，请额外进行：
-1. 将生成的detail文件中的⸺+\n替换为---\n
-
-千万不要把源文件中的⸺+\n替换为---\n
-Do not replace 
-⸺+\n
-with
-------------------------------------------------------------------------\n
-in original vocab_book.txt
-as ⸺+\n will always be appended to the original file.
+1.  将生成的detail文件中的⸺+\n替换为---\n
+    千万不要把源文件中的⸺+\n替换为---\n
+    Do not replace 
+    ⸺+\n
+    with
+    ------------------------------------------------------------------------\n
+    in original vocab_book.txt
+    as ⸺+\n will always be appended to the original file.
+2.  开始进行word和excel工作。
 
 可能的问题：
 ========================================================================

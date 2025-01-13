@@ -32689,11 +32689,6 @@ n. [岩] 闪长岩；闪绿岩
 1. (N) a dark coarse-grained igneous plutonic rock consisting of plagioclase feldspar and ferromagnesian minerals such as hornblende 闪长岩
 
 ========================================================================
->>> f basalt
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> basalt
 ------------------------------------------------------------------------
 basalt    [美 bə'sɔlt / 英 'bæsɔːlt; -(ə)lt]
@@ -51637,11 +51632,6 @@ n. [免疫] 抗原
 1. (N-COUNT) An antigen is a substance that helps the production of antibodies. 抗原
 
 ========================================================================
->>> f antibody
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> antibody
 ------------------------------------------------------------------------
 antibody    [美 ˈæntibɑːdi / 英 ˈæntibɒdi]
@@ -52913,11 +52903,6 @@ endorphins
 n. [生化] 内啡肽；脑内啡；内腓呔；安多芬
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) any of a class of polypeptides, including enkephalin, occurring naturally in the brain, that bind to pain receptors and so block pain sensation 内啡肽
-
-========================================================================
->>> f morphine
-------------------------------------------------------------------------
-Not found :(
 
 ========================================================================
 >>> morphine
@@ -54566,11 +54551,6 @@ n. 生产能力过剩
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-UNCOUNT) If there is overcapacity in a particular industry or area, more goods have been produced than are needed, and the industry is therefore less profitable than it could be. 生产能力过剩 [商业]
    ≫   There is huge overcapacity in the world car industry.  世界汽车工业存在巨大的生产能力过剩。
-
-========================================================================
->>> f el nino
-------------------------------------------------------------------------
-Not found :(
 
 ========================================================================
 >>> el nino
@@ -57958,11 +57938,6 @@ n. <古>风景，景色（等于 scenery）；<废语>（戏剧的）布景
 ≫   When people go to a place for travel seeing new scenary, breathing fresh air and watching different people, they will have another mood. 首先，人们去旅行时，会看到新的风景，呼吸到新鲜的空气，遇到不同的人，他们会有另一种心情。
 
 ========================================================================
->>> f tended to
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> tended to
 ------------------------------------------------------------------------
 tend to    [美 tend tu]
@@ -60868,11 +60843,6 @@ adj. 天空的，天上的；天国的，天堂的；精美绝伦的
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (ADJ) Celestial is used to describe things relating to heaven or to the sky. 天上的; 天堂的 [文学性]
    ≫   ...the clusters of celestial bodies in the ever-expanding universe.  …不断扩展的宇宙中的这些天体群。
-
-========================================================================
->>> f celerity
-------------------------------------------------------------------------
-Not found :(
 
 ========================================================================
 >>> celerity
@@ -73355,11 +73325,6 @@ morning glory    [英 ˌmɔːnɪŋ ˈɡlɔːri]
 ≫   This one, called Morning Glory, forms regularly in northern Queensland, Australia. 上图中的卷云被称之为晨曦，它会定期形成于澳洲昆士兰的北部地区。
 
 ========================================================================
->>> f trumpet
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> trumpet
 ------------------------------------------------------------------------
 trumpet    [美 ˈtrʌmpɪt / 英 ˈtrʌmpɪt]
@@ -79823,16 +79788,24 @@ adj. 矮胖的，粗矮的
    ≫   You can't simply wander around squatting on other people's property.  你不能只是四处游荡，非法占据他人房产。
 
 ========================================================================
->>> get squat
+>>> squat
 ------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> get squat
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：5876
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+squat    [美 skwɑːt / 英 skwɒt]
+v. 蹲坐；擅自占用（建筑物或土地）；<澳新，史>占用王室土地来放牧牛羊；（举重）蹲举
+n. 蹲坐；被非法占用的建筑物；非法占用空屋；<美，非正式>几乎没有（常用于否定句中作强调）；（举重）蹲举训练；（体操）下蹲动作；俯撑腿屈伸（双手撑地下蹲后双腿同时前后跳动）
+adj. 矮胖的，粗矮的
+★ CET6+ TEM4 squatting,squatted,squats
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you squat, you lower yourself toward the ground, balancing on your feet with your legs bent. 蹲下
+   ≫   We squatted beside the pool and watched the diver sink slowly down.  我们蹲在池边，看潜水员慢慢沉下水。
+2. (PHRASAL VERB) Squat down means the same as . 蹲下
+   ≫   Albert squatted down and examined it.  阿尔伯特蹲下仔细查看它。
+3. (N-SING) Squat is also a noun. 蹲下
+   ≫   He bent to a squat and gathered the puppies on his lap.  他弯腰蹲下，把小狗们聚揽到他的大腿上。
+4. (ADJ) If you describe someone or something as squat, you mean they are short and thick, usually in an unattractive way. 矮胖的
+   ≫   Eddie was a short squat fellow in his forties with thinning hair.  埃迪是个矮胖的人，四十来岁，头发稀疏。
+5. (V-I) People who squat occupy an unused building or unused land without having a legal right to do so. (对某空建筑、空地) 非法占据
+   ≫   You can't simply wander around squatting on other people's property.  你不能只是四处游荡，非法占据他人房产。
 
 ========================================================================
 >>> recover
@@ -86265,11 +86238,6 @@ n. 明矾石
 1. (N) a white, grey, or reddish mineral consisting of hydrated aluminium sulphate. It occurs in volcanic igneous rocks and is a source of potassium and aluminium compounds. Formula: KAl3(SO4)2(OH)6 明矾石
 
 ========================================================================
->>> f alum
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> alum
 ------------------------------------------------------------------------
 alum    [美 ˈæləm / 英 ˈæləm]
@@ -87200,11 +87168,6 @@ n. （贵重品的）廉价仿制品
 1. (N-COUNT) A knockoff is a cheap copy of a well-known product. 廉价仿制品 [非正式] [oft N n]
    ≫   Frilly dresses are out; Chanel knockoffs are in.  百褶裙过时了，仿制的香奈儿裙装正流行。
    ≫   You can buy a nice knockoff watch from them.  你能从他们那儿买到质量很好的仿制名牌手表。
-
-========================================================================
->>> f composite
-------------------------------------------------------------------------
-Not found :(
 
 ========================================================================
 >>> composite
@@ -96328,9 +96291,7 @@ Not found :(
 ========================================================================
 >>> toast with jam
 ------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：7004
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+果酱吐司
 
 ========================================================================
 >>> fruit salad
@@ -101086,24 +101047,9 @@ v. 塞进，填进；填满，装满；填作料，填馅（stuff 的过去式�
 1. (ADJ) filled with something, esp (of poultry and other food) filled with stuffing 塞满了的; 吃饱了的
 
 ========================================================================
->>> stemed broccoli
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> stemed broccoli
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：6658
-stemed broccoli
-简介西兰花
-
-========================================================================
 >>> steamed broccoli
 ------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：6695
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+蒸西兰花
 
 ========================================================================
 >>> stem
@@ -106213,14 +106159,7 @@ lotus leaf
 ========================================================================
 >>> zongzi leaves
 ------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> zongzi leaves
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：4775
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+粽子叶
 
 ========================================================================
 >>> reed
@@ -106233,11 +106172,6 @@ v. 用芦苇盖，用芦苇装饰
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N-COUNT) Reeds are tall plants that grow in large groups in shallow water or on ground that is always wet and soft. They have strong, hollow stems that can be used for making things such as mats or baskets. 芦苇
 2. (N-COUNT) A reed is a small piece of cane or metal inserted into the mouthpiece of a woodwind instrument. The reed vibrates when you blow through it and makes a sound. (木管乐器的) 簧片
-
-========================================================================
->>> f membrane
-------------------------------------------------------------------------
-Not found :(
 
 ========================================================================
 >>> membrane
@@ -106775,11 +106709,6 @@ wood sorrel
 1. (N) a Eurasian plant, Oxalis acetosella, having trifoliate leaves, an underground creeping stem, and white purple-veined flowers: family Oxalidaceae 酢浆草
 
 ========================================================================
->>> f foxtail
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> foxtail
 ------------------------------------------------------------------------
 foxtail    [英 ˈfɒksteɪl / 美 ˈfɑːksˌteɪl]
@@ -107173,21 +107102,9 @@ v. 宴请；参加宴会
    ≫   ...a wedding banquet.  …一场婚宴。
 
 ========================================================================
->>> banquet disheds
-------------------------------------------------------------------------
-Not found :(
-
-========================================================================
 >>> banquet dishes
 ------------------------------------------------------------------------
-Not found :(
-
-========================================================================
->>> banquet dishes
-------------------------------------------------------------------------
-≫  未找到守护进程，正在启动...
-✔  成功启动守护进程，PID：8236
-☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
+宴会菜肴
 
 ========================================================================
 >>> prawn
