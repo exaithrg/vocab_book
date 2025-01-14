@@ -128,3 +128,41 @@ n. colon
 ≫   Fields are separated by the colon (":") symbol. 字段由冒号（“:”）分隔。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> escape sequence
+------------------------------------------------------------------------
+escape sequence    [美 ɪˈskeɪp ˈsiːkwəns]
+转义序列：计算机和电信领域中的一个术语，指的是一个转义字符和随后的字符组合，这些字符组合在输出时不按照原样输出，而是指定了特定的行为。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   An invalid escape sequence error is generated. 生成了一个无效的转义序列错误。
+≫   This is commonly known as an escape sequence. 这通常也称为 转义序列。
+≫   HTML is a programming language, too, and it has four different forms of escape sequence. HTML也是一种编程语言，它有四种形式的转义序列。
+
+========================================================================
+>>> substantial
+------------------------------------------------------------------------
+substantial    [美 səbˈstænʃəl / 英 səb'stænʃ(ə)l]
+adj. 大量的；实质的；内容充实的
+n. 本质；重要材料
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Substantial means large in amount or degree. 大量的; 很大程度的
+   ≫   A substantial number of mothers with young children are deterred from undertaking paid work because they lack access to childcare.  很多有小孩的母亲找不到人照顾小孩，从而无法从事有薪工作。
+
+========================================================================
+>>> overlap
+------------------------------------------------------------------------
+overlap    [美 ˌoʊvərˈlæp / 英 ˌəʊvəˈlæp]
+v. （与……）互搭，（与……）复叠；（在关注的问题、承担的责任等方面）部分地重叠，部分相同；（与……）同时发生
+n. （物体的）重叠部分，重叠量；（范围方面的）重叠部分；（两事发生的）重叠时间，交接时期
+★★ CET6 TEM4 overlapping,overlapped,overlaps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one thing overlaps another, or if you overlap them, a part of the first thing occupies the same area as a part of the other thing. You can also say that two things overlap. 重叠
+   ≫   When the bag is folded, the bottom overlaps one side.  把包折叠起来时，其底部与一边就重合了。
+   ≫   Overlap the slices carefully so there are no gaps.  把薄片小心地叠放在一起，那样就没有间隙。
+2. (V-RECIP) If one idea or activity overlaps another, or overlaps with another, they involve some of the same subjects, people, or periods of time. 与…重合
+   ≫   Christian Holy Week overlaps with the beginning of the Jewish holiday of Passover.  基督教的圣周与犹太教逾越节的开始时间是重合的。
+   ≫   The needs of patients invariably overlap.  患者们的各种需求总是相互重合的。
+3. (N-VAR) Overlap is also a noun. 重合
+   ≫   ...the overlap between civil and military technology.  …民用技术与军用技术之间的重合。
+

@@ -305,3 +305,23 @@ v. 认为……属于；把……归咎于；确定……产生的时间（attri
 4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
    ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
 
+========================================================================
+>>> escape sequence
+------------------------------------------------------------------------
+escape sequence    [美 ɪˈskeɪp ˈsiːkwəns]
+转义序列：计算机和电信领域中的一个术语，指的是一个转义字符和随后的字符组合，这些字符组合在输出时不按照原样输出，而是指定了特定的行为。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   An invalid escape sequence error is generated. 生成了一个无效的转义序列错误。
+≫   This is commonly known as an escape sequence. 这通常也称为 转义序列。
+≫   HTML is a programming language, too, and it has four different forms of escape sequence. HTML也是一种编程语言，它有四种形式的转义序列。
+
+========================================================================
+>>> consecutive
+------------------------------------------------------------------------
+consecutive    [美 kənˈsekjətɪv / 英 kənˈsekjətɪv]
+adj. 连续的，不间断的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Consecutive periods of time or events happen one after the other without interruption. 连续的
+   ≫   The Cup was won for the third consecutive year by the Toronto Maple Leafs.  这个奖杯连续第三年由多伦多枫叶队赢去了。
+
