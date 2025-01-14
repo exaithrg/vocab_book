@@ -31,7 +31,7 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
             previous_line_empty = False  # Track whether the last line was empty
             for line in lines:
                 stripped_line:str = line.strip()
-                if stripped_line.startswith('========================================================================'):
+                if stripped_line.startswith('='*72):
                     if current_unit_lines:  # If there's a unit accumulated, finalize it and add to the list.
                         entry, contents = extract_entry_and_contents(current_unit_lines)
                         units.append(VocabularyUnit(entry, ''.join(current_unit_lines)))
