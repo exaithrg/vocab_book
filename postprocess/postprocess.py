@@ -10,6 +10,7 @@ class VocabularyUnit:
         self.contents = contents.strip()
         self.count = 1  # Initialize the counter for occurrences
         self.first_4_words = self.extract_first_4_words(entry)
+        self.first_4_words_lowercase = self.lower_first_4_words()
 
     @staticmethod
     def extract_first_4_words(text: str) -> str:
@@ -18,6 +19,10 @@ class VocabularyUnit:
             # return words[:4]
             return ' '.join(words[:4])
         return ''
+    
+    def lower_first_4_words(self) -> str:
+        return self.first_4_words.lower()
+        
 
 def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
     units: List[VocabularyUnit] = []
@@ -115,8 +120,10 @@ if __name__ == "__main__":
     with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
         for unit in merged_vocab_units:
             brief_file.write(f"entry: {unit.entry}\n")
+            brief_file.write(f"occurrences: {unit.count}\n")
             brief_file.write(f"first 4 words: {unit.first_4_words}\n")
-            brief_file.write(f"occurrences: {unit.count}\n\n")
+            brief_file.write(f"first 4 words lower: {unit.first_4_words_lowercase}\n")
+            brief_file.write("\n")
 
     # Write detailed contents to another file
     with open(output_detail_file_path, 'w', encoding='utf-8') as detail_file:

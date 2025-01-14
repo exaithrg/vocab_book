@@ -1,120 +1,150 @@
 entry: 12-bar blues
-first 4 words: 12-bar blues
 occurrences: 1
+first 4 words: 12-bar blues
+first 4 words lower: 12-bar blues
 
 entry: Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
-first 4 words: Achieve every goal you
 occurrences: 1
+first 4 words: Achieve every goal you
+first 4 words lower: achieve every goal you
 
 entry: aepe
-first 4 words: aepe
 occurrences: 1
+first 4 words: aepe
+first 4 words lower: aepe
 
 entry: Albus Dumbledore
-first 4 words: Albus Dumbledore
 occurrences: 1
+first 4 words: Albus Dumbledore
+first 4 words lower: albus dumbledore
 
 entry: army, navy, air force
-first 4 words: army, navy, air force
 occurrences: 1
+first 4 words: army, navy, air force
+first 4 words lower: army, navy, air force
 
 entry: Bachelor's Button
-first 4 words: Bachelor's Button
 occurrences: 1
+first 4 words: Bachelor's Button
+first 4 words lower: bachelor's button
 
 entry: Bachelor's Degree
-first 4 words: Bachelor's Degree
 occurrences: 1
+first 4 words: Bachelor's Degree
+first 4 words lower: bachelor's degree
 
 entry: Co. Ltd
-first 4 words: Co. Ltd
 occurrences: 1
+first 4 words: Co. Ltd
+first 4 words lower: co. ltd
 
 entry: Coulomb's Law
-first 4 words: Coulomb's Law
 occurrences: 1
+first 4 words: Coulomb's Law
+first 4 words lower: coulomb's law
 
 entry: engaging
-first 4 words: engaging
 occurrences: 1
+first 4 words: engaging
+first 4 words lower: engaging
 
 entry: entertainment
-first 4 words: entertainment
 occurrences: 1
+first 4 words: entertainment
+first 4 words lower: entertainment
 
 entry: eon, era, period, epoch and age
-first 4 words: eon, era, period, epoch
 occurrences: 3
+first 4 words: eon, era, period, epoch
+first 4 words lower: eon, era, period, epoch
 
 entry: explicit
-first 4 words: explicit
 occurrences: 2
+first 4 words: explicit
+first 4 words lower: explicit
 
 entry: Faraday's Law of Electromagnetic Induction
-first 4 words: Faraday's Law of Electromagnetic
 occurrences: 1
+first 4 words: Faraday's Law of Electromagnetic
+first 4 words lower: faraday's law of electromagnetic
 
 entry: formidable
-first 4 words: formidable
 occurrences: 1
+first 4 words: formidable
+first 4 words lower: formidable
 
 entry: Francisco,
-first 4 words: Francisco,
 occurrences: 1
+first 4 words: Francisco,
+first 4 words lower: francisco,
 
 entry: inseption
-first 4 words: inseption
 occurrences: 1
+first 4 words: inseption
+first 4 words lower: inseption
 
 entry: involved
-first 4 words: involved
 occurrences: 1
+first 4 words: involved
+first 4 words lower: involved
 
 entry: Neural Radiance Fields
-first 4 words: Neural Radiance Fields
 occurrences: 2
+first 4 words: Neural Radiance Fields
+first 4 words lower: neural radiance fields
 
 entry: Neural Radiation Field Rendering
-first 4 words: Neural Radiation Field Rendering
 occurrences: 1
+first 4 words: Neural Radiation Field Rendering
+first 4 words lower: neural radiation field rendering
 
 entry: only a master of the five ways may enter
-first 4 words: only a master of
 occurrences: 1
+first 4 words: only a master of
+first 4 words lower: only a master of
 
 entry: plunge into
-first 4 words: plunge into
 occurrences: 1
+first 4 words: plunge into
+first 4 words lower: plunge into
 
 entry: retrieval augmented generatioin
-first 4 words: retrieval augmented generatioin
 occurrences: 1
+first 4 words: retrieval augmented generatioin
+first 4 words lower: retrieval augmented generatioin
 
 entry: San Francisco, CA
-first 4 words: San Francisco, CA
 occurrences: 2
+first 4 words: San Francisco, CA
+first 4 words lower: san francisco, ca
 
 entry: Science, Technology, Engineering, and Mathematics
-first 4 words: Science, Technology, Engineering, and
 occurrences: 1
+first 4 words: Science, Technology, Engineering, and
+first 4 words lower: science, technology, engineering, and
 
 entry: synergies
-first 4 words: synergies
 occurrences: 1
+first 4 words: synergies
+first 4 words lower: synergies
 
 entry: too involved with
-first 4 words: too involved with
 occurrences: 1
+first 4 words: too involved with
+first 4 words lower: too involved with
 
 entry: 罗恩韦斯莱
-first 4 words: 罗恩韦斯莱
 occurrences: 1
+first 4 words: 罗恩韦斯莱
+first 4 words lower: 罗恩韦斯莱
 
 entry: 赫敏格兰杰
-first 4 words: 赫敏格兰杰
 occurrences: 1
+first 4 words: 赫敏格兰杰
+first 4 words lower: 赫敏格兰杰
 
 entry: 邓布利多
-first 4 words: 邓布利多
 occurrences: 1
+first 4 words: 邓布利多
+first 4 words lower: 邓布利多
 
