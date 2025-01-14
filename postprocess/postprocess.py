@@ -1,5 +1,6 @@
 import os
 import sys
+import re
 import pdb
 from typing import List, Dict
 from datetime import datetime
@@ -29,13 +30,16 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
             lines: List[str] = file.readlines()
             current_unit_lines = []
             previous_line_empty = False  # Track whether the last line was empty
+            # regular expressions pattern
+            vocab_unit_start_separator='^={72}$'
             for line in lines:
                 stripped_line:str = line.strip()
-                if stripped_line.startswith('='*72):
+                # if stripped_line.startswith('='*72):
+                if re.match(vocab_unit_start_separator, stripped_line):
                     if current_unit_lines:  # If there's a unit accumulated, finalize it and add to the list.
                         entry, contents = extract_entry_and_contents(current_unit_lines)
                         units.append(VocabularyUnit(entry, ''.join(current_unit_lines)))
-                        current_unit_lines = [line]  # Start new unit with separator
+                        current_unit_lines = [line]  # Start new unit with separator('^={72}$')
                     else:
                         current_unit_lines.append(line)  # Add separator for the first unit
                     previous_line_empty = False  # Reset after a unit separator
@@ -48,11 +52,13 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
                 entry, contents = extract_entry_and_contents(current_unit_lines)
                 units.append(VocabularyUnit(entry, ''.join(current_unit_lines)))
 
-    except FileNotFoundError:
-        print(f"Error: The file at {file_path} was not found.")
+    except FileNotFoundError as e:
+        print(type(e))
+        print(f"Error: The file at {file_path} was not found. {e}")
     except IOError as e:
+        print(type(e))
         print(f"Error reading file: {e}")
-
+    
     return units
 
 def extract_entry_and_contents(lines: List[str]) -> (str, str):
