@@ -131,3 +131,177 @@ CET4
 4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
    ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
 
+========================================================================
+>>> parse
+------------------------------------------------------------------------
+parse    [美 pɑːrs / 英 pɑːz]
+v. 对（句子）作语法分析；仔细研究，分析
+n. （计算机）句法分析，句法分析结果
+parsing,parsed,parses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) In grammar, if you parse a sentence, you examine each word and clause in order to work out their grammatical type. 做语法分析 [技术] [V n]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> ambiguous
+------------------------------------------------------------------------
+ambiguous    [英 æm'bɪgjʊəs / 美 æm'bɪɡjuəs]
+adj. 模糊不清的；引起歧义的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in more than one way. 模棱两可的
+   ≫   This agreement is very ambiguous and open to various interpretations.  这个协议非常模棱两可，可以有多种解释。
+2. (ADV) ambiguously 模棱两可地
+   ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> tuple
+------------------------------------------------------------------------
+tuple    [美 ˈtjʊpəl; ˈtʌpəl / 英 tjʊpəl; ˈtʌpəl]
+n. [计] 元组，重数
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a row of values in a relational database 元组 [计算机]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> casting
+------------------------------------------------------------------------
+casting    [美 ˈkæstɪŋ / 英 ˈkɑːstɪŋ]
+n. 角色分配，演员挑选；铸件，铸造物
+v. 投射（光，影）；将（视线，目光）投向；浇铸（金属等）（cast 的现在分词形式）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A casting is an object or piece of machinery which has been made by pouring a liquid such as hot metal into a container, so that when it hardens it has the required shape. 铸件; 铸造物 → see also cast
+
+========================================================================
+>>> type casting
+------------------------------------------------------------------------
+type casting
+类型转换：在计算机编程中，将一种数据类型转换为另一种数据类型的过程。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Does this type casting assign the address or the data? 这类铸件指定地址或数据？
+≫   Process and technological parameters of centrifugal pipe casting and the construction of WLZ84 type casting machine are introduced. 介绍了离心铸管的工艺、技术参数以及WLZ84型离心铸管机的结构、组成等。
+≫   Insofar as the detailed picture is concerned, there are numerous detailed features (such at type casting) that are expected from a true OOP language which are not available in Alice. 更细致的来说一种真正的面向对象程序设计语言会有更多的细节特性[例如type casting(将某种格式的数据转换为其他格式的操作)]而alice不具备这些特性。
+
+========================================================================
+>>> explicit
+------------------------------------------------------------------------
+explicit    [英 ɪkˈsplɪsɪt / 美 ɪkˈsplɪsɪt]
+adj. 清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的
+n. （手稿、早期印刷品或礼拜仪式上唱诗的）结束语
+★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is explicit is expressed or shown clearly and openly, without any attempt to hide anything. 明确表达的; 公开显露的
+   ≫   Sexually explicit scenes in movies and books were taboo under the old regime.  电影和书籍中露骨的性爱场景在旧体制下是禁忌的。
+2. (ADV) explicitly ADV 明确表达地; 公开显露地
+   ≫   The play was the first commercially successful work dealing explicitly with homosexuality.  该剧是首部在商业上获得成功的公然描写同性恋的作品。
+3. (ADJ) If you are explicit about something, you speak about it very openly and clearly. 直言不讳的 [v-link ADJ, oft ADJ 'about' n]
+   ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
+4. (ADV) explicitly ADV 直言不讳地 [ADV with v]
+   ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+
+========================================================================
+>>> implicit
+------------------------------------------------------------------------
+implicit    [美 ɪmˈplɪsɪt / 英 ɪmˈplɪsɪt]
+adj. 含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的
+★★ CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is implicit is expressed in an indirect way. 含蓄的
+   ≫   ...an implicit warning to the Moroccans not to continue or repeat the military actions they began a week ago.  …叫摩洛哥人不要继续或重复一周前开始的军事行动的含蓄警告。
+2. (ADV) implicitly ADV 含蓄地 [ADV with v]
+   ≫   The jury implicitly criticized the government by their verdict.  陪审团通过他们的裁决含蓄地批评了政府。
+3. (ADJ) If a quality or element is implicit in something, it is involved in it or is shown by it. 内含的 [正式] [v-link ADJ 'in' n]
+   ≫   Trust is implicit in the system.  信任是这种体制里内含的。
+4. (ADJ) If you say that someone has an implicit belief or faith in something, you mean that they have complete faith in it and no doubts at all. 绝对的 (信任)
+   ≫   He had implicit faith in the noble intentions of the Emperor.  他对皇帝的崇高旨意笃信不疑。
+5. (ADV) implicitly ADV 绝对地 [ADV after v]
+   ≫   I trust him implicitly.  我绝对信任他。
+
+========================================================================
+>>> discard
+------------------------------------------------------------------------
+discard    [美 dɪˈskɑːrd / 英 dɪˈskɑːd]
+v. 扔掉，弃置；打出（无用的牌），垫（牌）
+n. 被抛弃物；（纸牌游戏中）垫出的牌
+★★ CET4 TEM4 discarding,discarded,discards
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you discard something, you get rid of it because you no longer want it or need it. 丢弃
+   ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
+
+========================================================================
+>>> seek
+------------------------------------------------------------------------
+seek    [美 siːk / 英 siːk]
+v. 寻找；寻求，谋求；请求（帮助），征求（意见）；试图，设法；找出，找到（seek sb./sth. out）；自然地向……移动；<古>去，前往（某地）
+★★★ CET4 TEM4 seeking,sought,seeks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you seek something such as a job or a place to live, you try to find one. 寻找 [正式]
+   ≫   They have had to seek work as labourers.  他们只好找体力活来做。
+   ≫   Four people who sought refuge in the Italian embassy have left voluntarily.  到意大利大使馆寻求避难的四个人已经自愿离开了。
+2. (V-T) When someone seeks something, they try to obtain it. 谋求 [正式]
+   ≫   The prosecutors have warned they will seek the death penalty.  原告已警告说他们会努力争取死刑。
+3. (V-T) If you seek someone's help or advice, you contact them in order to ask for it. 请求; 征求 [正式]
+   ≫   Always seek professional legal advice before entering into any agreement.  在签订任何协议之前，一定要征求法律专家的意见。
+   ≫   On important issues, they seek a second opinion.  在重要问题上，他们都征求别人的意见。
+4. (V-T) If you seek to do something, you try to do it. 力图; 设法 [正式]
+   ≫   He also denied that he would seek to annex the country.  他还否认了他企图并吞该国。
+
+========================================================================
+>>> whence
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> inspect
+------------------------------------------------------------------------
+inspect    [美 ɪn'spɛkt / 英 ɪn'spekt]
+vt. 检查；视察；检阅
+vi. 进行检查；进行视察
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you inspect something, you look at every part of it carefully in order to find out about it or check that it is all right. 检查; 检验
+   ≫   Elaine went outside to inspect the playing field.  伊莱恩到外边去检查运动场。
+2. (N-VAR) inspection 检查; 检验
+   ≫   "Excellent work," he said when he had completed his inspection of the painted doors.  “干得好，”他在检查完刷过油漆的门之后说道。
+3. (V-T) When an official inspects a place or a group of people, they visit it and check it carefully, for example, in order to find out whether regulations are being obeyed. 视察
+   ≫   The Public Utilities Commission inspects us once a year.  公用设施委员会每年到我们这里视察一次。
+4. (N-VAR) inspection 视察
+   ≫   Officers making a routine inspection of the vessel found fifty kilograms of cocaine.  对船只做例行检查的警官们发现了50公斤可卡因。
+
+========================================================================
+>>> ommitted
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> omitted
+------------------------------------------------------------------------
+omitted    [美 əˈmɪtɪd; oʊˈmɪtɪd / 英 əʊˈmɪtɪd]
+adj. 省略了的；省去的
+v. 遗漏，省略（omit 的过去分词）
+★★ CET4 TEM4 omitting,omitted,omits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you omit something, you do not include it in an activity or piece of work, deliberately or accidentally. 删节; 省略; 遗漏
+   ≫   Omit the salt in this recipe.  去掉这个食谱中的盐。
+2. (V-T) If you omit to do something, you do not do it. 未 (做) [正式]
+   ≫   His new girlfriend had omitted to tell him she was married.  他的新任女友没有跟他说她已经结婚。
+
+========================================================================
+>>> attributes
+------------------------------------------------------------------------
+attributes    [美 əˈtrɪbjuːts / 英 əˈtrɪbjuːts]
+n. 属性（attribute 的复数）
+v. 认为……属于；把……归咎于；确定……产生的时间（attribute 的第三人称单数）
+★★ CET4 attributing,attributed,attributes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. (V-T) If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自… [usu passive]
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+

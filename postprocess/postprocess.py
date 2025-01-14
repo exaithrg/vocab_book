@@ -10,7 +10,6 @@ class VocabularyUnit:
         self.contents = contents.strip()
         self.count = 1  # Initialize the counter for occurrences
         self.first_4_words = self.extract_first_4_words(entry)
-        self.first_4_words_lowercase = self.lower_first_4_words()
 
     @staticmethod
     def extract_first_4_words(text: str) -> str:
@@ -19,20 +18,19 @@ class VocabularyUnit:
             # return words[:4]
             return ' '.join(words[:4])
         return ''
-    
-    def lower_first_4_words(self) -> str:
-        return self.first_4_words.lower()
-        
 
 def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
     units: List[VocabularyUnit] = []
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
-            lines = file.readlines()
+            # pdb.set_trace()
+            # 2025.1.15 2:56:33 I wrote "lines: List[str] = file.readlines()"
+            #   which indicates that my python skill is rapidly improving
+            lines: List[str] = file.readlines()
             current_unit_lines = []
             previous_line_empty = False  # Track whether the last line was empty
             for line in lines:
-                stripped_line = line.strip()
+                stripped_line:str = line.strip()
                 if stripped_line.startswith('========================================================================'):
                     if current_unit_lines:  # If there's a unit accumulated, finalize it and add to the list.
                         entry, contents = extract_entry_and_contents(current_unit_lines)
@@ -122,7 +120,6 @@ if __name__ == "__main__":
             brief_file.write(f"entry: {unit.entry}\n")
             brief_file.write(f"occurrences: {unit.count}\n")
             brief_file.write(f"first 4 words: {unit.first_4_words}\n")
-            brief_file.write(f"first 4 words lower: {unit.first_4_words_lowercase}\n")
             brief_file.write("\n")
 
     # Write detailed contents to another file

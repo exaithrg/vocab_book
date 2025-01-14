@@ -79,3 +79,52 @@ n. 诊断，判断
 1. (N-VAR) Diagnosis is the discovery and naming of what is wrong with someone who is ill or with something that is not working properly. 诊断
    ≫   I need to have a second test to confirm the diagnosis.  我需要复查来确诊。
 
+========================================================================
+>>> vibrant
+------------------------------------------------------------------------
+vibrant    [美 ˈvaɪbrənt / 英 ˈvaɪbrənt]
+adj. 充满活力的，充满生机的，生气勃勃的；鲜艳的，醒目的；洪亮的，强劲的；颤抖的，震动的
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone or something that is vibrant is full of life, energy, and enthusiasm. 充满活力的
+   ≫   Tom felt himself being drawn toward her vibrant personality.  汤姆感到自己正被她充满活力的个性所吸引。
+   ≫   ...Shakespeare's vibrant language.  …莎士比亚那充满活力的语言。
+2. (N-UNCOUNT) vibrancy N-UNCOUNT 活力
+   ≫   She was a woman with extraordinary vibrancy and extraordinary knowledge.  她是一个活力四射、知识渊博的女性。
+3. (ADJ) Vibrant colours are very bright and clear. (色彩) 鲜亮的
+   ≫   Horizon blue, corn yellow and pistachio green are just three of the vibrant colours in this range.  天际蓝、玉米黄和淡草绿只是这一色域中的3种鲜亮色彩。
+4. (ADV) vibrantly ADV 鲜亮地 [ADV adj]
+   ≫   ...a selection of vibrantly coloured French cast-iron saucepans.  …一套精选的色彩鲜亮的法国铸铁炖锅。
+
+========================================================================
+>>> confusion
+------------------------------------------------------------------------
+confusion    [美 kənˈfjuːʒ(ə)n / 英 kənˈfjuːʒn]
+n. 困惑，不明确；混淆，混同；慌乱，窘迫；混乱局面，乱成一团
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is confusion about something, it is not clear what the true situation is, especially because people believe different things. 不明朗
+   ≫   There's still confusion about the number of students.  学生的人数依然不清楚。
+2. (N-UNCOUNT) Confusion is a situation in which everything is in disorder, especially because there are lots of things happening at the same time. 混乱
+   ≫   There was confusion when a man fired shots.  一名男子开了枪，出现了混乱。
+
+========================================================================
+>>> tuple
+------------------------------------------------------------------------
+tuple    [美 ˈtjʊpəl; ˈtʌpəl / 英 tjʊpəl; ˈtʌpəl]
+n. [计] 元组，重数
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a row of values in a relational database 元组 [计算机]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> 冒号
+------------------------------------------------------------------------
+冒号
+n. colon
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It's, and in particular, the colon is the start, and the carriage return is the end. 尤其是，冒号是开始，回车意味着结束。
+≫   The colon separates the hostname from the display name. 冒号将主机名与显示器名称分隔开。
+≫   Fields are separated by the colon (":") symbol. 字段由冒号（“:”）分隔。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
