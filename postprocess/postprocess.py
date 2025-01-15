@@ -64,23 +64,20 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
 
 # process a vocab unit (multiple continious lines)
 def extract_entry_and_contents(lines: List[str]) -> (str, str):
-    vocab_unit_start_separator='^={72}$'
-    # seems useless
-    if len(lines) > 1 and re.match(vocab_unit_start_separator, lines[0]):
-        first_line = lines[1]
-    else:
-        first_line = lines[0]
-
-    # Check if the line contains phonetic symbols (indicating an entry with pronunciation)
-    if '[' in first_line and ']' in first_line:
+    # Check if lines only have 1 line which is "^={72}$"
+    if len(lines) == 1:
+        assert False, "This should never happen"
+    # Check if the line[1] contains phonetic symbols (indicating an entry with pronunciation)
+    if '[' in lines[1]:
         # Extract the part before the phonetic symbols
-        entry = first_line.split('[')[0].strip()
-    elif first_line.startswith('>>>'):
+        entry = lines[1].split('[')[0].strip()
+    # Standard starts
+    elif lines[1].startswith('>>>'):
         # Remove the leading '>>>' and take the rest of the line as entry
-        entry = first_line[3:].strip()
+        entry = lines[1][3:].strip()
     else:
         # Take the whole line as entry
-        entry = first_line.strip()
+        entry = lines[1].strip()
 
     return entry, ''.join(lines)
 
