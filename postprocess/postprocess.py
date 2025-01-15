@@ -37,6 +37,7 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
                 # if stripped_line.startswith('='*72):
                 if re.match(vocab_unit_start_separator, stripped_line):
                     if current_unit_lines:  # If there's a unit accumulated, finalize it and add to the list.
+                        # current_unit_lines: List[str]
                         entry, contents = extract_entry_and_contents(current_unit_lines)
                         units.append(VocabularyUnit(entry, ''.join(current_unit_lines)))
                         current_unit_lines = [line]  # Start new unit with separator('^={72}$')
@@ -61,8 +62,11 @@ def parse_vocab_book(file_path: str) -> List[VocabularyUnit]:
     
     return units
 
+# process a vocab unit (multiple continious lines)
 def extract_entry_and_contents(lines: List[str]) -> (str, str):
-    if len(lines) > 1 and lines[0].startswith('========================================================================'):
+    vocab_unit_start_separator='^={72}$'
+    # seems useless
+    if len(lines) > 1 and re.match(vocab_unit_start_separator, lines[0]):
         first_line = lines[1]
     else:
         first_line = lines[0]
