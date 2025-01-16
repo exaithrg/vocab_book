@@ -150,16 +150,24 @@ if __name__ == "__main__":
 
     # input_file_path = './testcase/testcase_language.txt'
     # generated_path_prefix = './testcase/generated/testcase_language'
-    # input_file_path = './250116/academic_language.txt'
-    # generated_path_prefix = './250116/generated/academic_language'
-    input_file_path = './250116/everyday_language.txt'
-    generated_path_prefix = './250116/generated/everyday_language'
 
-    output_brief_file_path = generated_path_prefix + '_brief.txt'
-    output_detail_file_path = generated_path_prefix + '_contents.txt'
-    output_alphabet_csv_file_path = generated_path_prefix + '_alphabet.csv'
-    output_frequency_csv_file_path = generated_path_prefix + '_frequency.csv'
-    output_oriwithfreq_csv_file_path = generated_path_prefix + '_oriwithfreq.csv'
+    input_file_path = './250116/academic_language.txt'
+    # AVL: ACADEMIC VOCABULARY LEXICON
+    generated_path_prefix = './250116/generated/AVL'
+
+    # input_file_path = './250116/everyday_language.txt'
+    # # EED: EVERYDAY ENGLISH DICTIONARY
+    # generated_path_prefix = './250116/generated/EED'
+
+    output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
+    # WORD DETAILS with ALPHABETICAL ORDER
+    output_detail_file_path = generated_path_prefix + '_WD_AO.txt'
+    # WORD LIST with ALPHABETICAL ORDER
+    output_alphabet_csv_file_path = generated_path_prefix + '_WL_AO.csv'
+    # WORD LIST with QUERY-FREQUENCY ORDER
+    output_frequency_csv_file_path = generated_path_prefix + '_WL_QFO.csv'
+    # WORD LIST with QUERY ORDER
+    output_oriwithfreq_csv_file_path = generated_path_prefix + '_WL_QO.csv'
 
     vocab_units = parse_vocab_book(input_file_path)
     careted_vocab_units = replace_commas_with_caret(vocab_units)
