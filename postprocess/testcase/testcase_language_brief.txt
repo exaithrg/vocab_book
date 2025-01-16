@@ -2,6 +2,10 @@ entry: 12-bar blues
 occurrences: 1
 first 4 words: 12-bar blues
 
+entry: AAAA Duplicated Item
+occurrences: 2
+first 4 words: AAAA Duplicated Item
+
 entry: Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
 occurrences: 1
 first 4 words: Achieve every goal you
@@ -22,10 +26,6 @@ entry: Bachelor's Button
 occurrences: 1
 first 4 words: Bachelor's Button
 
-entry: Bachelor's Degree
-occurrences: 1
-first 4 words: Bachelor's Degree
-
 entry: Co. Ltd
 occurrences: 1
 first 4 words: Co. Ltd
@@ -33,6 +33,10 @@ first 4 words: Co. Ltd
 entry: Coulomb's Law
 occurrences: 1
 first 4 words: Coulomb's Law
+
+entry: Doctoral Degree
+occurrences: 1
+first 4 words: Doctoral Degree
 
 entry: engaging
 occurrences: 1

@@ -5,6 +5,8 @@ import pdb
 from typing import List, Dict
 from datetime import datetime
 
+# 2025.1.16 I have fully understood these codes.
+
 class VocabularyUnit:
     def __init__(self, entry: str, contents: str):
         self.entry = entry.strip()
@@ -92,6 +94,8 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
         if unit.entry in seen_entries:
             # Increment the count of the existing unit
             seen_entries[unit.entry].count += 1
+            # Use the latest version
+            seen_entries[unit.entry].contents = unit.contents
         else:
             # Add new unit to the dictionary and list
             seen_entries[unit.entry] = unit
