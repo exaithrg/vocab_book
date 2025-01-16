@@ -47513,3 +47513,458 @@ two thousand and twenty-five
 ≫   It's said that a new bridge will be built in my hometown in 2025. 据说我的家乡将在2025年建一座新桥。
 ≫   Hopefully in 2025 we will no longer be e-mailing each other, for we will have developed more convenient electronic communication tools by then. 希望到2025年，我们将不再互发电子邮件，因为到那时，我们将开发出更方便的电子通信工具。
 
+========================================================================
+>>> concurrent
+------------------------------------------------------------------------
+concurrent    [美 kənˈkɜːrənt / 英 kənˈkʌrənt]
+adj. 并存的，同时发生的；同意的，一致的；（两个或两个以上徒刑判决）同时执行的；（三条或三条以上线）共点的，会合的
+n. 共点；同时发生的事件
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Concurrent events or situations happen at the same time. 同时发生的
+   ≫   Galerie St. Etienne is holding three concurrent exhibitions.  圣·艾蒂安美术馆在同时举办3场展览。
+   ≫   He will actually be serving three concurrent five-year sentences.  实际上他要同期服3个5年的刑期。
+2. (ADV) concurrently ADV 同时发生地 [ADV with v]
+   ≫   He was jailed for 33 months to run concurrently with a sentence he is already serving for burglary.  他被关进监狱33个月，与因入室行窃已经在服的刑期同期执行。
+
+========================================================================
+>>> tuple
+------------------------------------------------------------------------
+tuple    [美 ˈtjʊpəl; ˈtʌpəl / 英 tjʊpəl; ˈtʌpəl]
+n. [计] 元组，重数
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a row of values in a relational database 元组 [计算机]
+
+========================================================================
+>>> decorator
+------------------------------------------------------------------------
+decorator    [美 ˈdekəreɪtər / 英 ˈdekəreɪtə(r)]
+n. 装饰者；室内装潢师
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A decorator is a person who is employed to design and decorate the inside of people's houses. 室内装修设计师 [美国英语]
+   ≫   ...Bloomberg's private palace, with its intricate interior design by decorator Jamie Drake.  …布隆伯格的私人宫殿，其精细的室内设计出自装修设计师杰米·德雷克之手。
+
+========================================================================
+>>> immutable
+------------------------------------------------------------------------
+immutable    [美 ɪˈmjuːtəb(ə)l / 英 ɪˈmjuːtəb(ə)l]
+adj. 永恒的，不可改变的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is immutable will never change or cannot be changed. 永恒的; 永远不变的 [正式]
+   ≫   ...the eternal and immutable principles of right and wrong.  ...这些永恒不变的对与错的原则。
+
+========================================================================
+>>> assasin
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> assassin
+------------------------------------------------------------------------
+assassin    [美 əˈsæsn / 英 əˈsæsɪn]
+n. 暗杀者，刺客
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An assassin is a person who assassinates someone. 杀手
+   ≫   He saw the shooting and memorized the licence plate of the assassin's car.  他目睹了那起枪击事件并且记住了杀手的车牌。
+
+========================================================================
+>>> assassinate
+------------------------------------------------------------------------
+assassinate    [美 əˈsæsɪneɪt / 英 əˈsæsɪneɪt]
+v. 暗杀，行刺
+★★ CET6 TEM4 assassinating,assassinated,assassinates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When someone important is assassinated, they are murdered as a political act. (因政治原因而) 刺杀
+   ≫   Would the U.S. be radically different today if Kennedy had not been assassinated?  如果肯尼迪没有被刺杀，今天的美国会大不相同吗？
+2. (N-VAR) assassination N-VAR 刺杀
+   ≫   She would like an investigation into the assassination of her husband.  她想要对其丈夫的遇刺进行调查。
+   ≫   He lives in constant fear of assassination.  他一直生活在对刺杀的恐惧之中。
+
+========================================================================
+>>> strip
+------------------------------------------------------------------------
+strip    [美 strɪp / 英 strɪp]
+v. 除去，撕掉（外皮或表层）；夺去，剥夺（地位，权力，财产）；脱衣服，脱光……的衣服；表演脱衣舞；为（奶牛）收奶；拆卸，拆开（机器、车辆或引擎 ）；<美>拆散（汽车等）卖零件；使空无一物，搬光（家具、设备等）；（使）（螺丝或齿轮）受损；（为利润）出售（公司资产）；分离（债券的）息票使二者分开出售；（子弹出膛时因膛面磨损而）不旋转
+n. （纸、金属、织物等）条，带；带状地带；<英>（比赛时穿的）队服，球衣；商业街；脱衣舞；连环漫画；<英>（定时播出的）广播节目；飞机跑道
+【名】 （Strip）（俄、美）史地鄱（人名）
+★★★ CET4 TEM4 stripping,stripped,strips
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A strip of something such as paper, cloth, or food is a long, narrow piece of it. (纸、布或食物的) 条
+   ≫   ...a new kind of manufactured wood made by pressing strips of wood together and baking them.  …一种通过把木条挤压并烘干而制成的新型人造木材。
+   ≫   The simplest rag-rugs are made with strips of fabric braided together.  这些最简单的碎布地毯是由织物条编织而成的。
+2. (N-COUNT) A strip of land or water is a long narrow area of it. 狭长 (地带或水域)
+   ≫   The coastal cities of Liguria sit on narrow strips of land lying under steep mountains.  利古里亚的那些海滨城市坐落在陡峭山脉下的狭长地带。
+3. (N-COUNT) A strip is a long street in a city or town, where there are a lot of stores, restaurants, and hotels. 商业街 [美国英语]
+   ≫   ...Goff's Charcoal Hamburgers on Lover's Lane, a busy commercial strip in North Dallas.  …在北达拉斯的一条繁忙的商业街——“情人巷”上的戈夫炭烤汉堡店。
+4. (V-I) If you strip, you take off your clothes. 脱衣服
+   ≫   They stripped completely, and lay and turned in the damp grass.  他们脱光了衣服，躺在潮湿的草地上翻滚。
+5. (PHRASAL VERB) Strip off means the same as . 脱衣服
+   ≫   The children were brazenly stripping off and leaping into the sea.  这些孩子们那时正无所顾忌地脱掉衣服，跳进海里。
+6. (V-T) If someone is stripped, their clothes are taken off by another person, for example in order to search for hidden or illegal things. 脱掉…的衣服 [usu passive]
+   ≫   One prisoner claimed he'd been dragged to a cell, stripped, and beaten.  一个犯人声称他曾被拖进一间牢房，被脱掉衣服殴打。
+7. (V-T) To strip something means to remove everything that covers it. 剥离
+   ≫   After Mike left for work I stripped the beds and vacuumed the carpets.  迈克去上班后，我揭下了床罩并吸了地毯。
+8. (V-T) If you strip an engine or a piece of equipment, you take it to pieces so that it can be cleaned or repaired. 拆卸
+   ≫   Volvo's three-man team stripped the car and treated it to a restoration.  沃尔沃的3人小组拆了那辆汽车并对它进行了修复。
+9. (V) to cut or divide into strips 切成或分成条
+10. (PHRASAL VERB) Strip down means the same as . 拆卸
+   ≫   In five years I had to strip the water pump down four times.  在5年里我不得不拆卸了那个水泵4次。
+11. (V-T) To strip someone of their property, rights, or titles means to take those things away from them. 剥夺 (财产、权利); 撤销 (头衔)
+   ≫   The soldiers have stripped the civilians of their passports, and every other type of document.  那些士兵们已经夺走了市民的护照以及所有其他证件。
+12. (N-COUNT) In a newspaper or magazine, a strip is a series of drawings which tell a story. The words spoken by the characters are often written on the drawings. 连环画
+   ≫   ...the Doonesbury strip.  …杜恩斯伯利的连环画。
+13. (N) the act or an instance of undressing or of performing a striptease 脱衣; 脱衣舞表演
+
+========================================================================
+>>> spectrum
+------------------------------------------------------------------------
+spectrum    [美 ˈspektrəm / 英 ˈspektrəm]
+n. 范围，幅度；光谱；波谱，频谱；余象
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) The spectrum is the range of different colours which is produced when light passes through a glass prism or through a drop of water. A rainbow shows the colours in the spectrum. 光谱
+2. (N-COUNT) A spectrum is a range of a particular type of thing. 范围
+   ≫   She'd seen his moods range across the emotional spectrum.  她见过他在各种情感间的情绪变化。
+   ≫   Politicians across the political spectrum have denounced the act.  政界圈各派政客都谴责了这种行为。
+
+========================================================================
+>>> attributes
+------------------------------------------------------------------------
+attributes    ['ætrə,bjʊt]
+n. 属性（attribute的复数）
+v. 认为…属于；把…归咎于；确定…产生的时间（attribute的第三人称单数）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. [usu passive] If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自…
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> parse
+------------------------------------------------------------------------
+parse    [美 pɑːrs / 英 pɑːz]
+v. 对（句子）作语法分析；仔细研究，分析
+n. （计算机）句法分析，句法分析结果
+parsing,parsed,parses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) In grammar, if you parse a sentence, you examine each word and clause in order to work out their grammatical type. 做语法分析 [技术] [V n]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> ambiguous
+------------------------------------------------------------------------
+ambiguous    [英 æm'bɪgjʊəs / 美 æm'bɪɡjuəs]
+adj. 模糊不清的；引起歧义的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in more than one way. 模棱两可的
+   ≫   This agreement is very ambiguous and open to various interpretations.  这个协议非常模棱两可，可以有多种解释。
+2. (ADV) ambiguously 模棱两可地
+   ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> tuple
+------------------------------------------------------------------------
+tuple    [美 ˈtjʊpəl; ˈtʌpəl / 英 tjʊpəl; ˈtʌpəl]
+n. [计] 元组，重数
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a row of values in a relational database 元组 [计算机]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> casting
+------------------------------------------------------------------------
+casting    [美 ˈkæstɪŋ / 英 ˈkɑːstɪŋ]
+n. 角色分配，演员挑选；铸件，铸造物
+v. 投射（光，影）；将（视线，目光）投向；浇铸（金属等）（cast 的现在分词形式）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A casting is an object or piece of machinery which has been made by pouring a liquid such as hot metal into a container, so that when it hardens it has the required shape. 铸件; 铸造物 → see also cast
+
+========================================================================
+>>> type casting
+------------------------------------------------------------------------
+type casting
+类型转换：在计算机编程中，将一种数据类型转换为另一种数据类型的过程。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Does this type casting assign the address or the data? 这类铸件指定地址或数据？
+≫   Process and technological parameters of centrifugal pipe casting and the construction of WLZ84 type casting machine are introduced. 介绍了离心铸管的工艺、技术参数以及WLZ84型离心铸管机的结构、组成等。
+≫   Insofar as the detailed picture is concerned, there are numerous detailed features (such at type casting) that are expected from a true OOP language which are not available in Alice. 更细致的来说一种真正的面向对象程序设计语言会有更多的细节特性[例如type casting(将某种格式的数据转换为其他格式的操作)]而alice不具备这些特性。
+
+========================================================================
+>>> explicit
+------------------------------------------------------------------------
+explicit    [英 ɪkˈsplɪsɪt / 美 ɪkˈsplɪsɪt]
+adj. 清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的
+n. （手稿、早期印刷品或礼拜仪式上唱诗的）结束语
+★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is explicit is expressed or shown clearly and openly, without any attempt to hide anything. 明确表达的; 公开显露的
+   ≫   Sexually explicit scenes in movies and books were taboo under the old regime.  电影和书籍中露骨的性爱场景在旧体制下是禁忌的。
+2. (ADV) explicitly ADV 明确表达地; 公开显露地
+   ≫   The play was the first commercially successful work dealing explicitly with homosexuality.  该剧是首部在商业上获得成功的公然描写同性恋的作品。
+3. (ADJ) If you are explicit about something, you speak about it very openly and clearly. 直言不讳的 [v-link ADJ, oft ADJ 'about' n]
+   ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
+4. (ADV) explicitly ADV 直言不讳地 [ADV with v]
+   ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+
+========================================================================
+>>> implicit
+------------------------------------------------------------------------
+implicit    [美 ɪmˈplɪsɪt / 英 ɪmˈplɪsɪt]
+adj. 含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的
+★★ CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is implicit is expressed in an indirect way. 含蓄的
+   ≫   ...an implicit warning to the Moroccans not to continue or repeat the military actions they began a week ago.  …叫摩洛哥人不要继续或重复一周前开始的军事行动的含蓄警告。
+2. (ADV) implicitly ADV 含蓄地 [ADV with v]
+   ≫   The jury implicitly criticized the government by their verdict.  陪审团通过他们的裁决含蓄地批评了政府。
+3. (ADJ) If a quality or element is implicit in something, it is involved in it or is shown by it. 内含的 [正式] [v-link ADJ 'in' n]
+   ≫   Trust is implicit in the system.  信任是这种体制里内含的。
+4. (ADJ) If you say that someone has an implicit belief or faith in something, you mean that they have complete faith in it and no doubts at all. 绝对的 (信任)
+   ≫   He had implicit faith in the noble intentions of the Emperor.  他对皇帝的崇高旨意笃信不疑。
+5. (ADV) implicitly ADV 绝对地 [ADV after v]
+   ≫   I trust him implicitly.  我绝对信任他。
+
+========================================================================
+>>> discard
+------------------------------------------------------------------------
+discard    [美 dɪˈskɑːrd / 英 dɪˈskɑːd]
+v. 扔掉，弃置；打出（无用的牌），垫（牌）
+n. 被抛弃物；（纸牌游戏中）垫出的牌
+★★ CET4 TEM4 discarding,discarded,discards
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you discard something, you get rid of it because you no longer want it or need it. 丢弃
+   ≫   Read the manufacturer's guidelines before discarding the box.  先阅读制造商的说明书再把盒子丢掉。
+
+========================================================================
+>>> seek
+------------------------------------------------------------------------
+seek    [美 siːk / 英 siːk]
+v. 寻找；寻求，谋求；请求（帮助），征求（意见）；试图，设法；找出，找到（seek sb./sth. out）；自然地向……移动；<古>去，前往（某地）
+★★★ CET4 TEM4 seeking,sought,seeks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you seek something such as a job or a place to live, you try to find one. 寻找 [正式]
+   ≫   They have had to seek work as labourers.  他们只好找体力活来做。
+   ≫   Four people who sought refuge in the Italian embassy have left voluntarily.  到意大利大使馆寻求避难的四个人已经自愿离开了。
+2. (V-T) When someone seeks something, they try to obtain it. 谋求 [正式]
+   ≫   The prosecutors have warned they will seek the death penalty.  原告已警告说他们会努力争取死刑。
+3. (V-T) If you seek someone's help or advice, you contact them in order to ask for it. 请求; 征求 [正式]
+   ≫   Always seek professional legal advice before entering into any agreement.  在签订任何协议之前，一定要征求法律专家的意见。
+   ≫   On important issues, they seek a second opinion.  在重要问题上，他们都征求别人的意见。
+4. (V-T) If you seek to do something, you try to do it. 力图; 设法 [正式]
+   ≫   He also denied that he would seek to annex the country.  他还否认了他企图并吞该国。
+
+========================================================================
+>>> whence
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> inspect
+------------------------------------------------------------------------
+inspect    [美 ɪn'spɛkt / 英 ɪn'spekt]
+vt. 检查；视察；检阅
+vi. 进行检查；进行视察
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you inspect something, you look at every part of it carefully in order to find out about it or check that it is all right. 检查; 检验
+   ≫   Elaine went outside to inspect the playing field.  伊莱恩到外边去检查运动场。
+2. (N-VAR) inspection 检查; 检验
+   ≫   "Excellent work," he said when he had completed his inspection of the painted doors.  “干得好，”他在检查完刷过油漆的门之后说道。
+3. (V-T) When an official inspects a place or a group of people, they visit it and check it carefully, for example, in order to find out whether regulations are being obeyed. 视察
+   ≫   The Public Utilities Commission inspects us once a year.  公用设施委员会每年到我们这里视察一次。
+4. (N-VAR) inspection 视察
+   ≫   Officers making a routine inspection of the vessel found fifty kilograms of cocaine.  对船只做例行检查的警官们发现了50公斤可卡因。
+
+========================================================================
+>>> ommitted
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> omitted
+------------------------------------------------------------------------
+omitted    [美 əˈmɪtɪd; oʊˈmɪtɪd / 英 əʊˈmɪtɪd]
+adj. 省略了的；省去的
+v. 遗漏，省略（omit 的过去分词）
+★★ CET4 TEM4 omitting,omitted,omits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you omit something, you do not include it in an activity or piece of work, deliberately or accidentally. 删节; 省略; 遗漏
+   ≫   Omit the salt in this recipe.  去掉这个食谱中的盐。
+2. (V-T) If you omit to do something, you do not do it. 未 (做) [正式]
+   ≫   His new girlfriend had omitted to tell him she was married.  他的新任女友没有跟他说她已经结婚。
+
+========================================================================
+>>> attributes
+------------------------------------------------------------------------
+attributes    [美 əˈtrɪbjuːts / 英 əˈtrɪbjuːts]
+n. 属性（attribute 的复数）
+v. 认为……属于；把……归咎于；确定……产生的时间（attribute 的第三人称单数）
+★★ CET4 attributing,attributed,attributes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. (V-T) If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自… [usu passive]
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> escape sequence
+------------------------------------------------------------------------
+escape sequence    [美 ɪˈskeɪp ˈsiːkwəns]
+转义序列：计算机和电信领域中的一个术语，指的是一个转义字符和随后的字符组合，这些字符组合在输出时不按照原样输出，而是指定了特定的行为。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   An invalid escape sequence error is generated. 生成了一个无效的转义序列错误。
+≫   This is commonly known as an escape sequence. 这通常也称为 转义序列。
+≫   HTML is a programming language, too, and it has four different forms of escape sequence. HTML也是一种编程语言，它有四种形式的转义序列。
+
+========================================================================
+>>> consecutive
+------------------------------------------------------------------------
+consecutive    [美 kənˈsekjətɪv / 英 kənˈsekjətɪv]
+adj. 连续的，不间断的
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Consecutive periods of time or events happen one after the other without interruption. 连续的
+   ≫   The Cup was won for the third consecutive year by the Toronto Maple Leafs.  这个奖杯连续第三年由多伦多枫叶队赢去了。
+
+========================================================================
+>>> duplicate
+------------------------------------------------------------------------
+duplicate    [美 'duplɪket / 英 ˈdjuːplɪkeɪt]
+vt. 复制；使加倍
+n. 副本；复制品
+adj. 复制的；二重的
+vi. 复制；重复
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you duplicate something that has already been done, you repeat or copy it. 复制
+   ≫   His task will be to duplicate his success overseas here at home.  他的任务将是在国内复制他在海外的成功。
+2. (N-COUNT) Duplicate is also a noun. 复制; 复制品
+   ≫   The tight race is almost a duplicate of the elections in Georgia and South Dakota last month that pitted a Republican challenger against a Democratic incumbent.  这次紧张的竞选几乎是上个月在佐治亚州和南达科他州选举的翻版，由一个共和党的挑战者竞争一个现任的民主党人。
+3. (V-T) To duplicate something which has been written, drawn, or recorded onto tape means to make exact copies of it. 复印; 复制
+   ≫   ...a business which duplicates video tapes for the film makers.  …一家为电影制片人复制录像带的企业。
+4. [also 'in' N] Duplicate is also a noun. 复本
+   ≫   I'm on my way to Switzerland, but I've lost my card. I've got to get a duplicate.  我在去瑞士的路上，但是我的卡丢了。我得弄张补发卡。
+5. [ADJ n] Duplicate is used to describe things that have been made as an exact copy of other things, usually in order to serve the same purpose. 复制的
+   ≫   He let himself in with a duplicate key.  他用一把另配的钥匙打开门进去了。
+
+========================================================================
+>>> phonetic
+------------------------------------------------------------------------
+phonetic    [美 fə'nɛtɪk / 英 fə'netɪk]
+adj. 语音的，语音学的；音形一致的；发音有细微区别的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to phonetics 语音的
+
+========================================================================
+>>> duplication
+------------------------------------------------------------------------
+duplication    [美 ˌduːplɪˈkeɪʃ(ə)n / 英 ˌdjuːplɪˈkeɪʃ(ə)n]
+n. 复制，复印；重复；成倍，成双；副本，复制品；（染色体中DNA的）重复段
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you say that there has been duplication of something, you mean that someone has done a task unnecessarily because it has already been done before. 重复
+   ≫   There could be a serious loss of efficiency through unnecessary duplication of resources.  不必要的资源重复会导致严重的效率损耗。
+
+========================================================================
+>>> enumerate
+------------------------------------------------------------------------
+enumerate    [美 ɪˈnuːməreɪt / 英 ɪˈnjuːməreɪt]
+vt. 列举；枚举；计算
+TEM8 enumerating,enumerated,enumerates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
+   ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
+
+========================================================================
+>>> deprecation
+------------------------------------------------------------------------
+deprecation    [美 ˌdeprəˈkeɪʃ(ə)n / 英 ˌdeprəˈkeɪʃ(ə)n]
+n. 祈免；贬低；反对；（计）弃用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Too much deprecation will make a Chihuahua dog. 过度贬低会使人变得像吉娃娃一样。
+≫   That’s self-deprecation, not service. 那是一种自我贬低，而非服务。
+≫   Service migration (deprecation and sunsetting). 服务迁移(启用和退役)。
+
+========================================================================
+>>> retrieve
+------------------------------------------------------------------------
+retrieve    [美 rɪˈtriːv / 英 rɪˈtriːv]
+v. 找回，收回；检索（储存于计算机的信息）；（狗等）衔回（物品、猎物）；挽救，挽回；回忆，追忆；收绕钓鱼线
+n. （尤指中枪猎物的）找回；收绕钓鱼线；<古> 恢复的可能性；检索
+★★ CET6 TEM8 retrieving,retrieved,retrieves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 'ɡɑrbld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 'ɡɑrbld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [美 həˈloʊ / 英 həˈləʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 ˈɡɑːrb(ə)ld / 英 ˈɡɑːb(ə)ld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+========================================================================
+>>> mojibake
+------------------------------------------------------------------------
+mojibake
+n. 乱码：指在计算机系统或软件中，由于字符编码不匹配或转换错误导致的文本显示错误。
+

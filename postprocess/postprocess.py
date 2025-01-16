@@ -120,9 +120,9 @@ if __name__ == "__main__":
     vocab_file_path_prefix = './testcase/testcase_language'
 
     input_file_path = vocab_file_path_prefix + '.txt'
-    output_brief_file_path = vocab_file_path_prefix + '_brief.txt'
-    output_detail_file_path = vocab_file_path_prefix + '_detail.txt'
-    output_csv_file_path = vocab_file_path_prefix + '_csv.csv'
+    output_brief_file_path = './generated/' + vocab_file_path_prefix + '_brief.txt'
+    output_detail_file_path = './generated/' + vocab_file_path_prefix + '_detail.txt'
+    output_csv_file_path = './generated/' + vocab_file_path_prefix + '_csv.csv'
 
     # Optional: Get current timestamp and format it
     # timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
