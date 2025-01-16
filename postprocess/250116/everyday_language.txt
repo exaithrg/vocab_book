@@ -1,4 +1,15 @@
 ========================================================================
+>>> lexicon
+------------------------------------------------------------------------
+lexicon    [英 'leksɪk(ə)n / 美 'lɛksɪkən]
+n. 词典，辞典
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [with supp] The lexicon of a particular subject is all the terms associated with it. The lexicon of a person or group is all the words they commonly use. (某一学科、个人或群体的)全部词汇
+   ≫   ...the lexicon of management.  ...管理学词汇。
+   ≫   Chocolate equals sin in most people's lexicon.  巧克力在大多数人的字典里等同于罪恶。
+2. (N-COUNT) A lexicon is an alphabetical list of the words in a language or the words associated with a particular subject. (某一语言或学科的)词汇表
+
+========================================================================
 >>> terminology
 ------------------------------------------------------------------------
 terminology    [美 ˌtɜːrmɪˈnɑːlədʒi / 英 ˌtɜːmɪˈnɒlədʒi]
@@ -112320,20 +112331,6 @@ double underscores
 双下划线
 
 ========================================================================
->>> ascend
-------------------------------------------------------------------------
-ascend    [美 əˈsend / 英 əˈsend]
-v. 攀登，登上；上升，升高，通往高处；升职，晋升；追溯，溯源
-★ CET6 TEM4 ascending,ascended,ascends
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (V-T) If you ascend a hill or staircase, you go up it. 上 (山、楼梯) [书面]
-   ≫   Mrs. Clayton had to hold Lizzie's hand as they ascended the steps.  上台阶时克莱顿夫人不得不抓着莉齐的手。
-2. (V-I) If a staircase or path ascends, it leads up to a higher position. (楼梯或路) 向上延伸 [书面]
-   ≫   A number of staircases ascend from the cobbled streets onto the ramparts.  若干个阶梯从鹅卵石街道向上延伸到城墙上。
-3. (V-I) If something ascends, it moves up, usually vertically or into the air. (通常垂直地) 向上移动 [书面]
-   ≫   Keep the drill centred in the borehole while it ascends and descends.  当钻头上下钻时，要把钻孔保持在中心。
-
-========================================================================
 >>> canvas
 ------------------------------------------------------------------------
 canvas    [美 ˈkænvəs / 英 ˈkænvəs]
@@ -112355,3 +112352,17 @@ n. 脱字符号；插入符号
 n. （Caret）人名；（法）卡雷；（英）卡雷特
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) a symbol (‸) used to indicate the place in written or printed matter at which something is to be inserted 脱字符号
+
+========================================================================
+>>> ascend
+------------------------------------------------------------------------
+ascend    [美 əˈsend / 英 əˈsend]
+v. 攀登，登上；上升，升高，通往高处；升职，晋升；追溯，溯源
+★ CET6 TEM4 ascending,ascended,ascends
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you ascend a hill or staircase, you go up it. 上 (山、楼梯) [书面]
+   ≫   Mrs. Clayton had to hold Lizzie's hand as they ascended the steps.  上台阶时克莱顿夫人不得不抓着莉齐的手。
+2. (V-I) If a staircase or path ascends, it leads up to a higher position. (楼梯或路) 向上延伸 [书面]
+   ≫   A number of staircases ascend from the cobbled streets onto the ramparts.  若干个阶梯从鹅卵石街道向上延伸到城墙上。
+3. (V-I) If something ascends, it moves up, usually vertically or into the air. (通常垂直地) 向上移动 [书面]
+   ≫   Keep the drill centred in the borehole while it ascends and descends.  当钻头上下钻时，要把钻孔保持在中心。

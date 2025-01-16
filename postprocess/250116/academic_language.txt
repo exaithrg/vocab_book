@@ -47504,16 +47504,6 @@ adj. 扑鼻的；有刺激性的；强烈的；咸的
 1. (ADJ) A tangy flavour or smell is one that is sharp, especially a flavour like that of lemon juice or a smell like that of sea air. 酸的; 咸腥的
 
 ========================================================================
->>> 2025
-------------------------------------------------------------------------
-2025
-two thousand and twenty-five
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-≫   The address is 2025 M Street, NW, Washington, DC, 20036. 地址是华盛顿哥伦比亚特区，华盛顿西北，M街2025号，邮编20036。《柯林斯英汉双解大词典》
-≫   It's said that a new bridge will be built in my hometown in 2025. 据说我的家乡将在2025年建一座新桥。
-≫   Hopefully in 2025 we will no longer be e-mailing each other, for we will have developed more convenient electronic communication tools by then. 希望到2025年，我们将不再互发电子邮件，因为到那时，我们将开发出更方便的电子通信工具。
-
-========================================================================
 >>> concurrent
 ------------------------------------------------------------------------
 concurrent    [美 kənˈkɜːrənt / 英 kənˈkʌrənt]
@@ -47917,44 +47907,6 @@ n. （尤指中枪猎物的）找回；收绕钓鱼线；<古> 恢复的可能�
 ========================================================================
 >>> garbled
 ------------------------------------------------------------------------
-garbled    [美 'ɡɑrbld]
-adj. 篡改的；混乱的；引起误解的
-v. 断章取义（garble的过去式和过去分词）
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
-   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
-
-========================================================================
->>> garbled
-------------------------------------------------------------------------
-garbled    [美 'ɡɑrbld]
-adj. 篡改的；混乱的；引起误解的
-v. 断章取义（garble的过去式和过去分词）
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
-   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
-
-========================================================================
->>> hello
-------------------------------------------------------------------------
-hello    [美 həˈloʊ / 英 həˈləʊ]
-int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
-n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
-v. 说（或大声说）“喂”；打招呼
-★★★ CET4 TEM4 alsohullo
-⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
-1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
-   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
-2. (N-COUNT) Hello is also a noun. 招呼
-   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
-3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
-   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
-4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
-   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
-
-========================================================================
->>> garbled
-------------------------------------------------------------------------
 garbled    [美 ˈɡɑːrb(ə)ld / 英 ˈɡɑːb(ə)ld]
 adj. 篡改的；混乱的；引起误解的
 v. 断章取义（garble 的过去式和过去分词）
@@ -47968,3 +47920,22 @@ v. 断章取义（garble 的过去式和过去分词）
 mojibake
 n. 乱码：指在计算机系统或软件中，由于字符编码不匹配或转换错误导致的文本显示错误。
 
+========================================================================
+>>> calibration
+------------------------------------------------------------------------
+calibration    [美 ˌkælɪˈbreɪʃn / 英 ˌkælɪˈbreɪʃn]
+n. 标定，校准；（测量器具上的）刻度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Calibration takes place in this step. 校准也是在这一步中进行。
+≫   ClearType Text Tuning and Display Color Calibration. ClearType文字微调和显示颜色校准。
+≫   You always must be sure that you have a good calibration of your wavelength. 你们必须确定，对于波长有一个，很好的标度。
+
+========================================================================
+>>> 2025
+------------------------------------------------------------------------
+2025
+two thousand and twenty-five
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The address is 2025 M Street, NW, Washington, DC, 20036. 地址是华盛顿哥伦比亚特区，华盛顿西北，M街2025号，邮编20036。《柯林斯英汉双解大词典》
+≫   It's said that a new bridge will be built in my hometown in 2025. 据说我的家乡将在2025年建一座新桥。
+≫   Hopefully in 2025 we will no longer be e-mailing each other, for we will have developed more convenient electronic communication tools by then. 希望到2025年，我们将不再互发电子邮件，因为到那时，我们将开发出更方便的电子通信工具。

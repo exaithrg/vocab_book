@@ -1,0 +1,108 @@
+========================================================================
+>>> clutch
+------------------------------------------------------------------------
+clutch    [美 klʌtʃ / 英 klʌtʃ]
+v. 紧握，紧抓；（因害怕或痛苦）突然抓住
+n. 离合器踏板；一小群，一小簇；势力范围，控制；紧握，紧抓；一窝（蛋）；<美>女式无带手提包
+adj. 关键性的；（尤指体育比赛中）在关键时刻表现良好的
+★★ CET6 TEM4 clutching,clutched,clutches
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you clutch at something or clutch something, you hold it tightly, usually because you are afraid or anxious. (因为害怕或焦虑而) 抓牢
+   ≫   I staggered and had to clutch at a chair for support.  我踉跄了几步，不得不抓住一把椅子扶稳。
+2. (N-PLURAL) If someone is in another person's clutches, that person has captured them or has power over them. 掌控
+   ≫   Tony fell into the clutches of an attractive American who introduced him to drugs.  托尼落入一个有魅力的美国人的掌控，那人给他介绍毒品。
+3. (N-COUNT) In a vehicle, the clutch is the pedal that you press before you change gear. 离合器踏板
+   ≫   Laura let out the clutch and pulled slowly away down the drive.  劳拉松开离合器踏板，慢慢沿着车道把车开走了。
+4. (N-COUNT) a hatch of eggs laid by a particular bird or laid in a single nest 一窝蛋
+
+========================================================================
+>>> clutch moment
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> clutch moment
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：91284
+clutch moment
+离合器的时刻
+
+========================================================================
+>>> employed
+------------------------------------------------------------------------
+employed    [美 ɪmˈplɔɪd / 英 ɪmˈplɔɪd]
+adj. 被雇用的
+vt. 雇佣；使用（employ 的过去式与过去分词）
+★★★ CET4 TEM4 employing,employed,employs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a person or company employs you, they pay you to work for them. 雇用
+   ≫   The company employs 18 workers.  该公司雇用18位职工。
+   ≫   More than 3,000 local workers are employed in the tourism industry.  超过3000名本地工人受雇于旅游业。
+2. (V-T) If you employ certain methods, materials, or expressions, you use them. 使用
+   ≫   The group will employ a mix of tactics to achieve its aim.  该团体将运用混合策略来实现其目标。
+3. (V-T) If your time is employed in doing something, you are using the time you have to do that thing. 利用 [usu passive]
+   ≫   Your time could be usefully employed in attending night classes.  你的时间可以被有效地利用来上夜课。
+
+========================================================================
+>>> commentary
+------------------------------------------------------------------------
+commentary    [美 ˈkɑːmənteri / 英 ˈkɒmənt(ə)ri]
+n. 现场解说，实况报道；评注性著作，评论文；讨论，评论；说明，写照
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A commentary is a description of an event that is broadcast on radio or television while the event is taking place. 实况报道
+   ≫   He gave the listening crowd a running commentary.  他为听众进行了实况报道。
+2. (N-COUNT) A commentary is an article or book which explains or discusses something. 评论性文章 (或书籍)
+   ≫   Ms. Rich will be writing a twice-weekly commentary on American society and culture.  里奇女士将就美国社会和文化每周写两篇评论文章。
+3. (N-UNCOUNT) Commentary is discussion or criticism of something. 评论 [also 'a' N, with supp]
+   ≫   The show mixed comedy with social commentary.  这个节目把喜剧和社会评论结合了起来。
+
+========================================================================
+>>> revenue
+------------------------------------------------------------------------
+revenue    [美 'rɛvənu / 英 'revənjuː]
+n. 税收，国家的收入；收益
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also N in pl] Revenue is money that a company, organization, or government receives from people. (公司、组织或政府的) 收入
+   ≫   ...a boom year at the movies, with record advertising revenue and the highest ticket sales since 1980.  …电影业欣欣向荣的一年，广告及票房收入都创下1980年以来的最高纪录。
+2. → see also
+
+========================================================================
+>>> revenue
+------------------------------------------------------------------------
+revenue    [美 'rɛvənu / 英 'revənjuː]
+n. 税收，国家的收入；收益
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also N in pl] Revenue is money that a company, organization, or government receives from people. (公司、组织或政府的) 收入
+   ≫   ...a boom year at the movies, with record advertising revenue and the highest ticket sales since 1980.  …电影业欣欣向荣的一年，广告及票房收入都创下1980年以来的最高纪录。
+2. → see also
+
+========================================================================
+>>> reveal
+------------------------------------------------------------------------
+reveal    [美 rɪˈviːl / 英 rɪˈviːl]
+v. 揭示，透露；表明，证明；展示，显示；（通过神或超自然手段）启示
+n. （电视节目最后的）揭示；门侧，窗侧
+★★★★ CET4 TEM4 revealing,revealed,reveals
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To reveal something means to make people aware of it. 透露; 显示
+   ≫   She has refused to reveal the whereabouts of her daughter.  她已拒绝透露她女儿的行踪。
+   ≫   A survey of the American diet has revealed that a growing number of people are overweight.  一项有关美国人日常饮食的调查表明越来越多的人超重。
+2. (V-T) If you reveal something that has been out of sight, you uncover it so that people can see it. 使显露; 揭露
+   ≫   In the principal room, a grey carpet was removed to reveal the original pine floor.  在主房间里，一块灰色的地毯被挪开了，使原有的松木地板露了出来。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> procrastination
+------------------------------------------------------------------------
+procrastination    [美 prəˌkræstɪˈneɪʃn / 英 prəˌkræstɪˈneɪʃ(ə)n]
+n. 耽搁，拖延；拖延症
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He hates delay and procrastination in all its forms. 他厌恶各种形式的延迟和耽搁。《柯林斯英汉双解大词典》
+≫   Though I desperately wanted to lay blame elsewhere, I finally had to admit that my bad habits had less to do with new-age technology and more to do with old-fashioned procrastination. 尽管我极力想把责任推卸到其他地方，但最终不得不承认，我的坏习惯与新时代的技术没什么关系，而与传统的拖延症关系更大。
+≫   The problem is procrastination. 问题在于拖延症。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
