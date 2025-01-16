@@ -148,12 +148,12 @@ if __name__ == "__main__":
     # print(sys.path)
     # pdb.set_trace()
 
-    input_file_path = './testcase/testcase_language.txt'
-    generated_path_prefix = './testcase/generated/testcase_language'
+    # input_file_path = './testcase/testcase_language.txt'
+    # generated_path_prefix = './testcase/generated/testcase_language'
     # input_file_path = './250116/academic_language.txt'
     # generated_path_prefix = './250116/generated/academic_language'
-    # input_file_path = './250116/everyday_language.txt'
-    # generated_path_prefix = './250116/generated/everyday_language'
+    input_file_path = './250116/everyday_language.txt'
+    generated_path_prefix = './250116/generated/everyday_language'
 
     output_brief_file_path = generated_path_prefix + '_brief.txt'
     output_detail_file_path = generated_path_prefix + '_contents.txt'
