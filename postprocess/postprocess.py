@@ -154,11 +154,13 @@ if __name__ == "__main__":
 
     # input_file_path = './250116/academic_language.txt'
     # # AVL: ACADEMIC VOCABULARY LEXICON
-    # generated_path_prefix = './250116/generated/AVL'
+    # generated_path_prefix = './250116/generated/AVL' # for txt files
+    # forprint_path_prefix = './250116/forprint/AVL' # for csv files
 
     input_file_path = './250116/everyday_language.txt'
     # EED: EVERYDAY ENGLISH DICTIONARY
-    generated_path_prefix = './250116/generated/EED'
+    generated_path_prefix = './250116/generated/EED' # for txt files
+    forprint_path_prefix = './250116/forprint/EED' # for csv files
 
     output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
     # WORD DETAILS with ALPHABETICAL ORDER
@@ -166,11 +168,18 @@ if __name__ == "__main__":
     # WORD DETAILS with QUERY ORDER (Original input file)
     output_original_file_path = generated_path_prefix + '_WD_QO.txt'
     # WORD LIST with ALPHABETICAL ORDER
-    output_alphabet_csv_file_path = generated_path_prefix + '_WL_AO.csv'
+    output_alphabet_csv_file_path = forprint_path_prefix + '_WL_AO.csv'
     # WORD LIST with QUERY-FREQUENCY ORDER
-    output_frequency_csv_file_path = generated_path_prefix + '_WL_QFO.csv'
+    output_frequency_csv_file_path = forprint_path_prefix + '_WL_QFO.csv'
     # WORD LIST with QUERY ORDER
-    output_oriwithfreq_csv_file_path = generated_path_prefix + '_WL_QO.csv'
+    output_oriwithfreq_csv_file_path = forprint_path_prefix + '_WL_QO.csv'
+
+    directory = os.path.dirname(output_brief_file_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    directory = os.path.dirname(output_alphabet_csv_file_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
     shutil.copyfile(input_file_path, output_original_file_path)
 
@@ -178,10 +187,6 @@ if __name__ == "__main__":
     careted_vocab_units = replace_commas_with_caret(vocab_units)
     alphabet_sorted_vocab_units = alphabet_sort_units(careted_vocab_units)
     merged_vocab_units = count_and_merge_duplicate_entries(alphabet_sorted_vocab_units)
-
-    directory = os.path.dirname(output_brief_file_path)
-    if not os.path.exists(directory):
-        os.makedirs(directory)
 
     # Write brief information to one file
     with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
