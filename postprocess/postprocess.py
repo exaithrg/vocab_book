@@ -111,6 +111,10 @@ def count_and_merge_duplicate_entries(units: List[VocabularyUnit]) -> List[Vocab
 
     return merged_units
 
+def query_frequency_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    # sort name first, then sort counts
+    return sorted(units, key=lambda unit: (-unit.count, unit.entry.lower()))
+
 def update_original_units_count(units_ori: List[VocabularyUnit], units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     # Dict: {entry: count}
     entry_to_count = {unit.entry: unit.count for unit in units}
@@ -155,6 +159,7 @@ if __name__ == "__main__":
     output_detail_file_path = generated_path_prefix + '_contents.txt'
     output_alphabet_csv_file_path = generated_path_prefix + '_alphabet.csv'
     output_frequency_csv_file_path = generated_path_prefix + '_frequency.csv'
+    output_oriwithfreq_csv_file_path = generated_path_prefix + '_oriwithfreq.csv'
 
     vocab_units = parse_vocab_book(input_file_path)
     careted_vocab_units = replace_commas_with_caret(vocab_units)
@@ -193,13 +198,29 @@ if __name__ == "__main__":
             else:
                 csv_file.write(",")
 
-    freqed_ori_vocab_units = update_original_units_count(vocab_units, merged_vocab_units)
-    freqed_query_order_vocab_units = query_frequency_sort_units(freqed_ori_vocab_units)
+    freq_alphabet_vocab_units = query_frequency_sort_units(merged_vocab_units)
 
     with open(output_frequency_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
         # 3 units in 1 csv line
         chunknum = 0
-        for unit in freqed_query_order_vocab_units:
+        for unit in freq_alphabet_vocab_units:
+            csv_line = ','.join([unit.first_4_words, str(unit.count)])
+            csv_file.write(f"{csv_line}")
+            chunknum += 1
+            if chunknum == 3:
+                csv_file.write("\n")
+                chunknum = 0
+            else:
+                csv_file.write(",")
+
+    freqed_ori_vocab_units = update_original_units_count(vocab_units, merged_vocab_units)
+    # freq_query_order_vocab_units = query_frequency_sort_units(freqed_ori_vocab_units)
+    # merged_fqo_vocab_units = merge_continous_duplicate_entries(freq_query_order_vocab_units)
+
+    with open(output_oriwithfreq_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
+        # 3 units in 1 csv line
+        chunknum = 0
+        for unit in freqed_ori_vocab_units:
             csv_line = ','.join([unit.first_4_words, str(unit.count)])
             csv_file.write(f"{csv_line}")
             chunknum += 1
@@ -214,3 +235,4 @@ if __name__ == "__main__":
     print(f"Detail output: {output_detail_file_path}")
     print(f"Alphabet CSV output: {output_alphabet_csv_file_path}")
     print(f"Frequency CSV output: {output_frequency_csv_file_path}")
+    print(f"Original Sequnce with Freqency CSV output: {output_oriwithfreq_csv_file_path}")
