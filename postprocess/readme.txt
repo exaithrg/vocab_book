@@ -60,6 +60,16 @@ Step 3：
     as ⸺+\n will always be appended to the original file.
 2.  开始进行word和excel工作。
 
+Step 4:
+csv转打印版XLSX指南：
+我们特意使用了6列的CSV，就是为了方便用A4打印
+设置页边距为常规，字体字号为宋体+Times New Roman 16
+列宽为22 5 22 5 22 5，则正好可以打印。
+注意设置边框，预览打印效果。
+可以参考：D:\Manuals\ENGLISH\vocab_book_241215\caches
+里面的
+merged_vocab_alphabet_2024_12_15_01_01_51.xlsx
+
 可能的问题：
 ========================================================================
 ☣ ERROR: 解析daemon返回结果失败: unexpected end of JSON input
