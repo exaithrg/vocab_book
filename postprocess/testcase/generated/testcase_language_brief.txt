@@ -1,0 +1,124 @@
+entry: 12-bar blues
+occurrences: 1
+first 4 words: 12-bar blues
+
+entry: AAAA Duplicated Item
+occurrences: 2
+first 4 words: AAAA Duplicated Item
+
+entry: Achieve every goal you set for yourself with formidable drive, unwavering determination, and sharp, incisive intellect.
+occurrences: 1
+first 4 words: Achieve every goal you
+
+entry: aepe
+occurrences: 1
+first 4 words: aepe
+
+entry: Albus Dumbledore
+occurrences: 1
+first 4 words: Albus Dumbledore
+
+entry: army, navy, air force
+occurrences: 1
+first 4 words: army^ navy^ air force
+
+entry: Bachelor's Button
+occurrences: 1
+first 4 words: Bachelor's Button
+
+entry: Co. Ltd
+occurrences: 1
+first 4 words: Co. Ltd
+
+entry: Coulomb's Law
+occurrences: 1
+first 4 words: Coulomb's Law
+
+entry: Doctoral Degree
+occurrences: 1
+first 4 words: Doctoral Degree
+
+entry: engaging
+occurrences: 1
+first 4 words: engaging
+
+entry: entertainment
+occurrences: 1
+first 4 words: entertainment
+
+entry: eon, era, period, epoch and age
+occurrences: 3
+first 4 words: eon^ era^ period^ epoch
+
+entry: explicit
+occurrences: 2
+first 4 words: explicit
+
+entry: Faraday's Law of Electromagnetic Induction
+occurrences: 1
+first 4 words: Faraday's Law of Electromagnetic
+
+entry: formidable
+occurrences: 1
+first 4 words: formidable
+
+entry: Francisco,
+occurrences: 1
+first 4 words: Francisco^
+
+entry: inseption
+occurrences: 1
+first 4 words: inseption
+
+entry: involved
+occurrences: 1
+first 4 words: involved
+
+entry: Neural Radiance Fields
+occurrences: 2
+first 4 words: Neural Radiance Fields
+
+entry: Neural Radiation Field Rendering
+occurrences: 1
+first 4 words: Neural Radiation Field Rendering
+
+entry: only a master of the five ways may enter
+occurrences: 1
+first 4 words: only a master of
+
+entry: plunge into
+occurrences: 1
+first 4 words: plunge into
+
+entry: retrieval augmented generatioin
+occurrences: 1
+first 4 words: retrieval augmented generatioin
+
+entry: San Francisco, CA
+occurrences: 2
+first 4 words: San Francisco^ CA
+
+entry: Science, Technology, Engineering, and Mathematics
+occurrences: 1
+first 4 words: Science^ Technology^ Engineering^ and
+
+entry: synergies
+occurrences: 1
+first 4 words: synergies
+
+entry: too involved with
+occurrences: 1
+first 4 words: too involved with
+
+entry: 罗恩韦斯莱
+occurrences: 1
+first 4 words: 罗恩韦斯莱
+
+entry: 赫敏格兰杰
+occurrences: 1
+first 4 words: 赫敏格兰杰
+
+entry: 邓布利多
+occurrences: 1
+first 4 words: 邓布利多
+

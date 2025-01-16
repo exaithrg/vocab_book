@@ -83,13 +83,15 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
 
     return entry, ''.join(lines)
 
+def replace_commas_with_caret(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    for unit in units:
+        # Replace commas with carets in the `first_4_words` attribute
+        unit.first_4_words = unit.first_4_words.replace(',', '^')
+    return units
+
 def alphabet_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     # sort name first, then sort counts
     return sorted(units, key=lambda unit: (unit.entry.lower(), unit.count))
-
-def frequency_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
-    # sort name first, then sort counts
-    return sorted(units, key=lambda unit: (-unit.count, unit.entry.lower()))
 
 def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     merged_units: List[VocabularyUnit] = []
@@ -108,11 +110,12 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
 
     return merged_units
 
-def replace_commas_with_caret(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
-    for unit in units:
-        # Replace commas with carets in the `first_4_words` attribute
-        unit.first_4_words = unit.first_4_words.replace(',', '^')
-    return units
+# def update_original_units_count(units_ori: List[VocabularyUnit], units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+#     return
+
+def query_frequency_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    # sort name first, then sort counts
+    return sorted(units, key=lambda unit: unit.count, reverse=True)
 
 # Usage example
 if __name__ == "__main__":
@@ -122,10 +125,10 @@ if __name__ == "__main__":
 
     # input_file_path = './testcase/testcase_language.txt'
     # generated_path_prefix = './testcase/generated/testcase_language'
-    # input_file_path = './250116/academic_language.txt'
-    # generated_path_prefix = './250116/generated/academic_language'
-    input_file_path = './250116/everyday_language.txt'
-    generated_path_prefix = './250116/generated/everyday_language'
+    input_file_path = './250116/academic_language.txt'
+    generated_path_prefix = './250116/generated/academic_language'
+    # input_file_path = './250116/everyday_language.txt'
+    # generated_path_prefix = './250116/generated/everyday_language'
 
     output_brief_file_path = generated_path_prefix + '_brief.txt'
     output_detail_file_path = generated_path_prefix + '_contents.txt'
@@ -133,12 +136,9 @@ if __name__ == "__main__":
     output_frequency_csv_file_path = generated_path_prefix + '_frequency.csv'
 
     vocab_units = parse_vocab_book(input_file_path)
-    alphabet_sorted_vocab_units = alphabet_sort_units(vocab_units)
+    careted_vocab_units = replace_commas_with_caret(vocab_units)
+    alphabet_sorted_vocab_units = alphabet_sort_units(careted_vocab_units)
     merged_vocab_units = merge_duplicate_entries(alphabet_sorted_vocab_units)
-    careted_vocab_units = replace_commas_with_caret(merged_vocab_units)
-
-    output_vocab_units = careted_vocab_units
-
 
     directory = os.path.dirname(output_brief_file_path)
     if not os.path.exists(directory):
@@ -146,7 +146,7 @@ if __name__ == "__main__":
 
     # Write brief information to one file
     with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
-        for unit in output_vocab_units:
+        for unit in merged_vocab_units:
             brief_file.write(f"entry: {unit.entry}\n")
             brief_file.write(f"occurrences: {unit.count}\n")
             brief_file.write(f"first 4 words: {unit.first_4_words}\n")
@@ -154,7 +154,7 @@ if __name__ == "__main__":
 
     # Write detailed contents to another file
     with open(output_detail_file_path, 'w', encoding='utf-8') as detail_file:
-        for unit in output_vocab_units:
+        for unit in merged_vocab_units:
             detail_file.write(f"{unit.contents}\n\n")
 
     # Write first_4_words and unit.count to csv file
@@ -162,7 +162,7 @@ if __name__ == "__main__":
     with open(output_alphabet_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
         # 3 units in 1 csv line
         chunknum = 0
-        for unit in output_vocab_units:
+        for unit in merged_vocab_units:
             csv_line = ','.join([unit.first_4_words, str(unit.count)])
             csv_file.write(f"{csv_line}")
             chunknum += 1
@@ -172,12 +172,12 @@ if __name__ == "__main__":
             else:
                 csv_file.write(",")
 
-    output_vocab_units = frequency_sort_units(output_vocab_units)
+    qf_vocab_units = query_frequency_sort_units(merged_vocab_units)
 
     with open(output_frequency_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
         # 3 units in 1 csv line
         chunknum = 0
-        for unit in output_vocab_units:
+        for unit in qf_vocab_units:
             csv_line = ','.join([unit.first_4_words, str(unit.count)])
             csv_file.write(f"{csv_line}")
             chunknum += 1
