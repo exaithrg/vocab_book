@@ -83,6 +83,7 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
 
     return entry, ''.join(lines)
 
+# Do not change entry and contents
 def replace_commas_with_caret(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     for unit in units:
         # Replace commas with carets in the `first_4_words` attribute
@@ -93,7 +94,7 @@ def alphabet_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     # sort name first, then sort counts
     return sorted(units, key=lambda unit: (unit.entry.lower(), unit.count))
 
-def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+def count_and_merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     merged_units: List[VocabularyUnit] = []
     seen_entries: Dict[str, VocabularyUnit] = {}
 
@@ -110,23 +111,43 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
 
     return merged_units
 
-# def update_original_units_count(units_ori: List[VocabularyUnit], units: List[VocabularyUnit]) -> List[VocabularyUnit]:
-#     return
+def update_original_units_count(units_ori: List[VocabularyUnit], units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    # Dict: {entry: count}
+    entry_to_count = {unit.entry: unit.count for unit in units}
+    for unit_ori in units_ori:
+        if unit_ori.entry in entry_to_count:
+            unit_ori.count = entry_to_count[unit_ori.entry]
+    return units_ori
 
 def query_frequency_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     # sort name first, then sort counts
     return sorted(units, key=lambda unit: unit.count, reverse=True)
 
-# Usage example
+def merge_continous_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    if not units:
+        return []
+
+    merged_units: List[VocabularyUnit] = []
+    previous_unit: VocabularyUnit = units[0]
+    merged_units.append(previous_unit)
+
+    for current_unit in units[1:]:
+        if current_unit.entry != previous_unit.entry:
+            merged_units.append(current_unit)
+            previous_unit = current_unit
+
+    return merged_units
+
+# MAIN
 if __name__ == "__main__":
 
     # print(sys.path)
     # pdb.set_trace()
 
-    # input_file_path = './testcase/testcase_language.txt'
-    # generated_path_prefix = './testcase/generated/testcase_language'
-    input_file_path = './250116/academic_language.txt'
-    generated_path_prefix = './250116/generated/academic_language'
+    input_file_path = './testcase/testcase_language.txt'
+    generated_path_prefix = './testcase/generated/testcase_language'
+    # input_file_path = './250116/academic_language.txt'
+    # generated_path_prefix = './250116/generated/academic_language'
     # input_file_path = './250116/everyday_language.txt'
     # generated_path_prefix = './250116/generated/everyday_language'
 
@@ -138,7 +159,7 @@ if __name__ == "__main__":
     vocab_units = parse_vocab_book(input_file_path)
     careted_vocab_units = replace_commas_with_caret(vocab_units)
     alphabet_sorted_vocab_units = alphabet_sort_units(careted_vocab_units)
-    merged_vocab_units = merge_duplicate_entries(alphabet_sorted_vocab_units)
+    merged_vocab_units = count_and_merge_duplicate_entries(alphabet_sorted_vocab_units)
 
     directory = os.path.dirname(output_brief_file_path)
     if not os.path.exists(directory):
@@ -172,12 +193,13 @@ if __name__ == "__main__":
             else:
                 csv_file.write(",")
 
-    qf_vocab_units = query_frequency_sort_units(merged_vocab_units)
+    freqed_ori_vocab_units = update_original_units_count(vocab_units, merged_vocab_units)
+    freqed_query_order_vocab_units = query_frequency_sort_units(freqed_ori_vocab_units)
 
     with open(output_frequency_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
         # 3 units in 1 csv line
         chunknum = 0
-        for unit in qf_vocab_units:
+        for unit in freqed_query_order_vocab_units:
             csv_line = ','.join([unit.first_4_words, str(unit.count)])
             csv_file.write(f"{csv_line}")
             chunknum += 1
