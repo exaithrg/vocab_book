@@ -325,3 +325,131 @@ adj. 连续的，不间断的
 1. (ADJ) Consecutive periods of time or events happen one after the other without interruption. 连续的
    ≫   The Cup was won for the third consecutive year by the Toronto Maple Leafs.  这个奖杯连续第三年由多伦多枫叶队赢去了。
 
+========================================================================
+>>> duplicate
+------------------------------------------------------------------------
+duplicate    [美 'duplɪket / 英 ˈdjuːplɪkeɪt]
+vt. 复制；使加倍
+n. 副本；复制品
+adj. 复制的；二重的
+vi. 复制；重复
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you duplicate something that has already been done, you repeat or copy it. 复制
+   ≫   His task will be to duplicate his success overseas here at home.  他的任务将是在国内复制他在海外的成功。
+2. (N-COUNT) Duplicate is also a noun. 复制; 复制品
+   ≫   The tight race is almost a duplicate of the elections in Georgia and South Dakota last month that pitted a Republican challenger against a Democratic incumbent.  这次紧张的竞选几乎是上个月在佐治亚州和南达科他州选举的翻版，由一个共和党的挑战者竞争一个现任的民主党人。
+3. (V-T) To duplicate something which has been written, drawn, or recorded onto tape means to make exact copies of it. 复印; 复制
+   ≫   ...a business which duplicates video tapes for the film makers.  …一家为电影制片人复制录像带的企业。
+4. [also 'in' N] Duplicate is also a noun. 复本
+   ≫   I'm on my way to Switzerland, but I've lost my card. I've got to get a duplicate.  我在去瑞士的路上，但是我的卡丢了。我得弄张补发卡。
+5. [ADJ n] Duplicate is used to describe things that have been made as an exact copy of other things, usually in order to serve the same purpose. 复制的
+   ≫   He let himself in with a duplicate key.  他用一把另配的钥匙打开门进去了。
+
+========================================================================
+>>> phonetic
+------------------------------------------------------------------------
+phonetic    [美 fə'nɛtɪk / 英 fə'netɪk]
+adj. 语音的，语音学的；音形一致的；发音有细微区别的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to phonetics 语音的
+
+========================================================================
+>>> duplication
+------------------------------------------------------------------------
+duplication    [美 ˌduːplɪˈkeɪʃ(ə)n / 英 ˌdjuːplɪˈkeɪʃ(ə)n]
+n. 复制，复印；重复；成倍，成双；副本，复制品；（染色体中DNA的）重复段
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you say that there has been duplication of something, you mean that someone has done a task unnecessarily because it has already been done before. 重复
+   ≫   There could be a serious loss of efficiency through unnecessary duplication of resources.  不必要的资源重复会导致严重的效率损耗。
+
+========================================================================
+>>> enumerate
+------------------------------------------------------------------------
+enumerate    [美 ɪˈnuːməreɪt / 英 ɪˈnjuːməreɪt]
+vt. 列举；枚举；计算
+TEM8 enumerating,enumerated,enumerates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you enumerate a list of things, you name each one in turn. 列举; 枚举
+   ≫   I enumerate the work that will have to be done.  我将必须要做的工作一一列举出来。
+
+========================================================================
+>>> deprecation
+------------------------------------------------------------------------
+deprecation    [美 ˌdeprəˈkeɪʃ(ə)n / 英 ˌdeprəˈkeɪʃ(ə)n]
+n. 祈免；贬低；反对；（计）弃用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Too much deprecation will make a Chihuahua dog. 过度贬低会使人变得像吉娃娃一样。
+≫   That’s self-deprecation, not service. 那是一种自我贬低，而非服务。
+≫   Service migration (deprecation and sunsetting). 服务迁移(启用和退役)。
+
+========================================================================
+>>> retrieve
+------------------------------------------------------------------------
+retrieve    [美 rɪˈtriːv / 英 rɪˈtriːv]
+v. 找回，收回；检索（储存于计算机的信息）；（狗等）衔回（物品、猎物）；挽救，挽回；回忆，追忆；收绕钓鱼线
+n. （尤指中枪猎物的）找回；收绕钓鱼线；<古> 恢复的可能性；检索
+★★ CET6 TEM8 retrieving,retrieved,retrieves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 'ɡɑrbld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 'ɡɑrbld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [美 həˈloʊ / 英 həˈləʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 ˈɡɑːrb(ə)ld / 英 ˈɡɑːb(ə)ld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+========================================================================
+>>> mojibake
+------------------------------------------------------------------------
+mojibake
+n. 乱码：指在计算机系统或软件中，由于字符编码不匹配或转换错误导致的文本显示错误。
+

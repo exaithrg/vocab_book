@@ -84,7 +84,8 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
     return entry, ''.join(lines)
 
 def sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
-    return sorted(units, key=lambda unit: unit.entry.lower())
+    # sort name first, then sort counts
+    return sorted(units, key=lambda unit: (unit.entry.lower(), unit.count))
 
 def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     merged_units: List[VocabularyUnit] = []
@@ -149,11 +150,21 @@ if __name__ == "__main__":
             detail_file.write(f"{unit.contents}\n\n")
 
     # Write first_4_words and unit.count to csv file
-    with open(output_csv_file_path, 'w', encoding='utf-8') as csv_file:
+    # Do not use encoding='utf-8', or will cause Excel 
+    with open(output_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
+        # 3 units in 1 csv line
+        chunknum = 0
         for unit in output_vocab_units:
             csv_line = ','.join([unit.first_4_words, str(unit.count)])
-            csv_file.write(f"{csv_line}\n")
+            csv_file.write(f"{csv_line}")
+            chunknum += 1
+            if chunknum == 3:
+                csv_file.write("\n")
+                chunknum = 0
+            else:
+                csv_file.write(",")
 
     print("Output has been written to:")
     print(f"Brief output: {output_brief_file_path}")
     print(f"Detail output: {output_detail_file_path}")
+    print(f"CSV output: {output_csv_file_path}")

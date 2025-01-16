@@ -166,3 +166,119 @@ n. （物体的）重叠部分，重叠量；（范围方面的）重叠部分�
 3. (N-VAR) Overlap is also a noun. 重合
    ≫   ...the overlap between civil and military technology.  …民用技术与军用技术之间的重合。
 
+========================================================================
+>>> refugee
+------------------------------------------------------------------------
+refugee    [英 ˌrefjuˈdʒiː / 美 ˌrefjuˈdʒiː]
+n. 难民，避难者
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Refugees are people who have been forced to leave their homes or their country, either because there is a war there, because of their political or religious beliefs, or because of natural disaster. 难民
+   ≫   A political refugee from Cameroon has moved into our neighbourhood.  一个喀麦隆的政治难民已经搬进了我们小区。
+
+========================================================================
+>>> scalable
+------------------------------------------------------------------------
+scalable    [美 'skeləbl / 英 'skeɪləb(ə)l]
+adj. 可攀登的；可去鳞的；可称量的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) capable of being scaled or climbed 可去鳞的; 可称重的; 可攀登的
+
+========================================================================
+>>> prologue
+------------------------------------------------------------------------
+prologue    [英 ˈprəʊlɒɡ / 美 ˈproʊlɔːɡ]
+n. 开场白；序言
+vt. 加上……前言；为……作序
+★ TEM8 alsoprolog
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prologue is a speech or section of text that introduces a play or book. 开场白; 前言
+   ≫   The prologue to the novel is written in the form of a newspaper account.  该小说的前言是以新闻报道的形式写的。
+
+========================================================================
+>>> lethal
+------------------------------------------------------------------------
+lethal    [美 ˈliːθ(ə)l / 英 ˈliːθ(ə)l]
+adj. 致命的，致死的；危害极大的，破坏性的；极成功的，极有效的
+★★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A substance that is lethal can kill people or animals. 致命的
+   ≫   ...a lethal dose of sleeping pills.  …安眠药的致命剂量。
+2. (ADJ) If you describe something as lethal, you mean that it is capable of causing a lot of damage. 危害极大的
+   ≫   Amorality and intelligence is probably the most lethal combination to be found within one personality.  缺乏道德却聪明智慧可能是同一人格中危害最大的组合。
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [美 həˈloʊ / 英 həˈləʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+>>> ensemble
+------------------------------------------------------------------------
+ensemble    [美 ɑːnˈsɑːmb(ə)l / 英 ɒnˈsɒmb(ə)l]
+n. （经常在一起演出的小型）乐团，剧团，舞剧团；全体，整体；全套服装；合奏（曲），合唱（曲）；成套的东西；演出者之间的配合；（主物理）系综
+adj. 合奏的，合演的
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An ensemble is a group of musicians, actors, or dancers who regularly perform together. 表演团体
+   ≫   ...an ensemble of young musicians.  …一个由年轻音乐家组成的乐团。
+
+
+========================================================================
+>>> double underscores
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：10843
+double underscores
+双下划线
+
+========================================================================
+>>> ascend
+------------------------------------------------------------------------
+ascend    [美 əˈsend / 英 əˈsend]
+v. 攀登，登上；上升，升高，通往高处；升职，晋升；追溯，溯源
+★ CET6 TEM4 ascending,ascended,ascends
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you ascend a hill or staircase, you go up it. 上 (山、楼梯) [书面]
+   ≫   Mrs. Clayton had to hold Lizzie's hand as they ascended the steps.  上台阶时克莱顿夫人不得不抓着莉齐的手。
+2. (V-I) If a staircase or path ascends, it leads up to a higher position. (楼梯或路) 向上延伸 [书面]
+   ≫   A number of staircases ascend from the cobbled streets onto the ramparts.  若干个阶梯从鹅卵石街道向上延伸到城墙上。
+3. (V-I) If something ascends, it moves up, usually vertically or into the air. (通常垂直地) 向上移动 [书面]
+   ≫   Keep the drill centred in the borehole while it ascends and descends.  当钻头上下钻时，要把钻孔保持在中心。
+
+========================================================================
+>>> canvas
+------------------------------------------------------------------------
+canvas    [美 ˈkænvəs / 英 ˈkænvəs]
+n. 帆布；画布，油画
+v. 用帆布覆盖
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Canvas is a strong, heavy cloth that is used for making things such as tents, sails, and bags. 帆布
+   ≫   ...a canvas bag.  …一个帆布包。
+2. (N-VAR) A canvas is a piece of canvas or similar material on which an oil painting can be done. 油画布
+3. (N-COUNT) A canvas is a painting that has been done on canvas. 帆布油画
+   ≫   The show includes canvases by masters like Carpaccio, Canaletto and Guardi.  展览包括卡巴秋、卡纳列托和瓜第等大师的帆布油画。
+
+========================================================================
+>>> caret
+------------------------------------------------------------------------
+caret    [英 ˈkærət / 美 ˈkærət]
+n. 脱字符号；插入符号
+n. （Caret）人名；（法）卡雷；（英）卡雷特
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a symbol (‸) used to indicate the place in written or printed matter at which something is to be inserted 脱字符号
+
