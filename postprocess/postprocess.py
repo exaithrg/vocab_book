@@ -83,9 +83,13 @@ def extract_entry_and_contents(lines: List[str]) -> (str, str):
 
     return entry, ''.join(lines)
 
-def sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+def alphabet_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     # sort name first, then sort counts
     return sorted(units, key=lambda unit: (unit.entry.lower(), unit.count))
+
+def frequency_sort_units(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    # sort name first, then sort counts
+    return sorted(units, key=lambda unit: (-unit.count, unit.entry.lower()))
 
 def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
     merged_units: List[VocabularyUnit] = []
@@ -117,16 +121,28 @@ if __name__ == "__main__":
     # pdb.set_trace()
 
     input_file_path = './testcase/testcase_language.txt'
-    output_brief_file_path = './testcase/generated/testcase_language_brief.txt'
-    output_detail_file_path = './testcase/generated/testcase_language_contents.txt'
-    output_csv_file_path = './testcase/generated/testcase_language_csv.csv'
+    generated_path_prefix = './testcase/generated/testcase_language'
+    # input_file_path = './250116/academic_language.txt'
+    # generated_path_prefix = './250116/generated/academic_language'
+    # input_file_path = './250116/everyday_language.txt'
+    # generated_path_prefix = './250116/generated/everyday_language'
+
+    output_brief_file_path = generated_path_prefix + '_brief.txt'
+    output_detail_file_path = generated_path_prefix + '_contents.txt'
+    output_alphabet_csv_file_path = generated_path_prefix + '_alphabet.csv'
+    output_frequency_csv_file_path = generated_path_prefix + '_frequency.csv'
 
     vocab_units = parse_vocab_book(input_file_path)
-    sorted_vocab_units = sort_units(vocab_units)
-    merged_vocab_units = merge_duplicate_entries(sorted_vocab_units)
+    alphabet_sorted_vocab_units = alphabet_sort_units(vocab_units)
+    merged_vocab_units = merge_duplicate_entries(alphabet_sorted_vocab_units)
     careted_vocab_units = replace_commas_with_caret(merged_vocab_units)
 
     output_vocab_units = careted_vocab_units
+
+
+    directory = os.path.dirname(output_brief_file_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
     # Write brief information to one file
     with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
@@ -143,7 +159,22 @@ if __name__ == "__main__":
 
     # Write first_4_words and unit.count to csv file
     # Do not use encoding='utf-8', or will cause Excel 
-    with open(output_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
+    with open(output_alphabet_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
+        # 3 units in 1 csv line
+        chunknum = 0
+        for unit in output_vocab_units:
+            csv_line = ','.join([unit.first_4_words, str(unit.count)])
+            csv_file.write(f"{csv_line}")
+            chunknum += 1
+            if chunknum == 3:
+                csv_file.write("\n")
+                chunknum = 0
+            else:
+                csv_file.write(",")
+
+    output_vocab_units = frequency_sort_units(output_vocab_units)
+
+    with open(output_frequency_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
         # 3 units in 1 csv line
         chunknum = 0
         for unit in output_vocab_units:
@@ -159,4 +190,5 @@ if __name__ == "__main__":
     print("Output has been written to:")
     print(f"Brief output: {output_brief_file_path}")
     print(f"Detail output: {output_detail_file_path}")
-    print(f"CSV output: {output_csv_file_path}")
+    print(f"Alphabet CSV output: {output_alphabet_csv_file_path}")
+    print(f"Frequency CSV output: {output_frequency_csv_file_path}")
