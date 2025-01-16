@@ -103,6 +103,12 @@ def merge_duplicate_entries(units: List[VocabularyUnit]) -> List[VocabularyUnit]
 
     return merged_units
 
+def replace_commas_with_caret(units: List[VocabularyUnit]) -> List[VocabularyUnit]:
+    for unit in units:
+        # Replace commas with carets in the `first_4_words` attribute
+        unit.first_4_words = unit.first_4_words.replace(',', '^')
+    return units
+
 # Usage example
 if __name__ == "__main__":
 
@@ -115,6 +121,7 @@ if __name__ == "__main__":
     input_file_path = vocab_file_path_prefix + '.txt'
     output_brief_file_path = vocab_file_path_prefix + '_brief.txt'
     output_detail_file_path = vocab_file_path_prefix + '_detail.txt'
+    output_csv_file_path = vocab_file_path_prefix + '_csv.csv'
 
     # Optional: Get current timestamp and format it
     # timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
@@ -124,10 +131,13 @@ if __name__ == "__main__":
     vocab_units = parse_vocab_book(input_file_path)
     sorted_vocab_units = sort_units(vocab_units)
     merged_vocab_units = merge_duplicate_entries(sorted_vocab_units)
+    careted_vocab_units = replace_commas_with_caret(merged_vocab_units)
+
+    output_vocab_units = careted_vocab_units
 
     # Write brief information to one file
     with open(output_brief_file_path, 'w', encoding='utf-8') as brief_file:
-        for unit in merged_vocab_units:
+        for unit in output_vocab_units:
             brief_file.write(f"entry: {unit.entry}\n")
             brief_file.write(f"occurrences: {unit.count}\n")
             brief_file.write(f"first 4 words: {unit.first_4_words}\n")
@@ -135,8 +145,14 @@ if __name__ == "__main__":
 
     # Write detailed contents to another file
     with open(output_detail_file_path, 'w', encoding='utf-8') as detail_file:
-        for unit in merged_vocab_units:
+        for unit in output_vocab_units:
             detail_file.write(f"{unit.contents}\n\n")
+
+    # Write first_4_words and unit.count to csv file
+    with open(output_csv_file_path, 'w', encoding='utf-8') as csv_file:
+        for unit in output_vocab_units:
+            csv_line = ','.join([unit.first_4_words, str(unit.count)])
+            csv_file.write(f"{csv_line}\n")
 
     print("Output has been written to:")
     print(f"Brief output: {output_brief_file_path}")
