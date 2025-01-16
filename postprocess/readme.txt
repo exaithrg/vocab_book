@@ -18,8 +18,13 @@
 因为我们的乱序版就是.txt文件原版，所以没必要进一步处理
 我们的正序版会相对麻烦，因为正序版必须
 
-大致上everyday language需要2000页，academic language需要1000页
-300页一本的话大概需要18本。我靠，太多了。
+大致数量级：
+根据D:\Manuals\English\vocab_book\250116中
+academic_language_short.pdf
+的测试情况，我们用学术英语测到了cafeteria，大概是11076行，需要104页。
+一个粗估的方法就是行数/100就是页数
+那么Academic大概需要479页，考虑分为2本。
+那么Everyday大概需要1123页，考虑分为4本。
 
 注意事项
 
