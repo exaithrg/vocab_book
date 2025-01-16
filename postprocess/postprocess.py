@@ -116,18 +116,10 @@ if __name__ == "__main__":
     # print(sys.path)
     # pdb.set_trace()
 
-    # vocab_file_path_prefix = './250113/freezed/everyday_language'
-    vocab_file_path_prefix = './testcase/testcase_language'
-
-    input_file_path = vocab_file_path_prefix + '.txt'
-    output_brief_file_path = './generated/' + vocab_file_path_prefix + '_brief.txt'
-    output_detail_file_path = './generated/' + vocab_file_path_prefix + '_detail.txt'
-    output_csv_file_path = './generated/' + vocab_file_path_prefix + '_csv.csv'
-
-    # Optional: Get current timestamp and format it
-    # timestamp = datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
-    # output_brief_file_path = vocab_file_path_prefix + '_brief_' + timestamp + '.txt'
-    # output_detail_file_path = vocab_file_path_prefix + '_detail_' + timestamp + '.txt'
+    input_file_path = './testcase/testcase_language.txt'
+    output_brief_file_path = './testcase/generated/testcase_language_brief.txt'
+    output_detail_file_path = './testcase/generated/testcase_language_contents.txt'
+    output_csv_file_path = './testcase/generated/testcase_language_csv.csv'
 
     vocab_units = parse_vocab_book(input_file_path)
     sorted_vocab_units = sort_units(vocab_units)
