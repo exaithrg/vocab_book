@@ -114,14 +114,15 @@ D:\Manuals\English\vocab_book\250116
 Step 4:
 csv转打印版XLSX指南：
 1. 首先存成xlsx
-2. 页边距：常规
+2. 页边距：上1 下1 左1.2 右1.2
+3. 为了保证打印页面居中，务必勾选页边距下面的水平、垂直居中，这样可以让表格位于A4纸正中间
 3. 查询^并替换成,
 3. 字体字号为宋体 Times New Roman 12
-4. 列宽：22 5 22 5 22 5
-5. 居中
-6. 全部设置边框
+4. 列宽：7.7 22 3.9 22 3.9 22 3.9
+5. 选中所有列，点居中
+6. 右键单元格格式，全部设置边框
 7. 自动换行
-8. 删除最后的中文
+8. 检查自动换行是否生效，并决定是否删除最后的中文
 9. 保存成PDF
 10. 添加空白页以保证PDF为偶数页
 对于250116来说，一共有23*2+59*2=164页
@@ -145,3 +146,39 @@ Everyday English Dictionary (EED)
 11. 审阅整个文档，看一下奇偶页页眉页脚情况
 12. 由于导出PDF很慢，直接选用Adobe PDF打印好了。
 13. 添加空白页以保证PDF为偶数页
+
+Step 6：
+1. 新建book文件夹
+1. 将所有预计要使用的PDF文件复制到all_printable_pdf文件夹内，例如包括：
+AVL_WD_AO.pdf        AVL_WL_AO.pdf         AVL_WL_QO.pdf        EED_WD_QO.pdf        EED_WL_QFO.pdf
+AVL_WD_AO_TITLE.pdf  AVL_WL_AO_TITLE.pdf   AVL_WL_QO_TITLE.pdf  EED_WD_QO_TITLE.pdf  EED_WL_QFO_TITLE.pdf
+AVL_WD_QO.pdf        AVL_WL_QFO.pdf        EED_WD_AO.pdf        EED_WL_AO.pdf        EED_WL_QO.pdf
+AVL_WD_QO_TITLE.pdf  AVL_WL_QFO_TITLE.pdf  EED_WD_AO_TITLE.pdf  EED_WL_AO_TITLE.pdf  EED_WL_QO_TITLE.pdf
+2. 检查这些PDF文件是否都是偶数页，不是的话插入空白页
+3. 重命名这些PDF，标注顺序。WD_AO和WD_QO的顺序应该一样，都在最后。推荐的顺序是：
+AVL_1_WL_AO_TITLE.pdf
+AVL_2_WL_AO.pdf
+AVL_3_WL_QFO_TITLE.pdf
+AVL_4_WL_QFO.pdf
+AVL_5_WL_QO_TITLE.pdf
+AVL_6_WL_QO.pdf
+AVL_7_WD_AO_TITLE.pdf
+AVL_7_WD_QO_TITLE.pdf
+AVL_8_WD_AO.pdf
+AVL_8_WD_QO.pdf
+EED_1_WL_AO_TITLE.pdf
+EED_2_WL_AO.pdf
+EED_3_WL_QFO_TITLE.pdf
+EED_4_WL_QFO.pdf
+EED_5_WL_QO_TITLE.pdf
+EED_6_WL_QO.pdf
+EED_7_WD_AO_TITLE.pdf
+EED_7_WD_QO_TITLE.pdf
+EED_8_WD_AO.pdf
+EED_8_WD_QO.pdf
+3. 将每本书需要使用的PDF文件复制到单独的文件夹内
+EED_AO
+EED_QO
+AVL_AO
+AVL_QO
+4. 合并PDF为BOOK
