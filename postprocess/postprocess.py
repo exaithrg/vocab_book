@@ -184,15 +184,15 @@ if __name__ == "__main__":
 
     output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
     # WORD DETAILS with ALPHABETICAL ORDER
-    output_WD_AO_file_path = generated_path_prefix + '_WD_AO.txt'
+    output_WD_AO_file_path = generated_path_prefix + '_8_WD_AO.txt'
     # WORD DETAILS with QUERY ORDER (Original input file)
-    output_WD_QO_file_path = generated_path_prefix + '_WD_QO.txt'
+    output_WD_QO_file_path = generated_path_prefix + '_8_WD_QO.txt'
     # WORD LIST with ALPHABETICAL ORDER
-    output_WL_AO_file_path = forprint_path_prefix + '_WL_AO.csv'
+    output_WL_AO_file_path = forprint_path_prefix + '_2_WL_AO.csv'
     # WORD LIST with QUERY-FREQUENCY ORDER
-    output_WL_QFO_file_path = forprint_path_prefix + '_WL_QFO.csv'
+    output_WL_QFO_file_path = forprint_path_prefix + '_4_WL_QFO.csv'
     # WORD LIST with QUERY ORDER
-    output_WL_QO_file_path = forprint_path_prefix + '_WL_QO.csv'
+    output_WL_QO_file_path = forprint_path_prefix + '_6_WL_QO.csv'
 
     directory = os.path.dirname(output_brief_file_path)
     if not os.path.exists(directory):
