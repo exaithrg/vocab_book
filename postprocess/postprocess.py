@@ -135,8 +135,10 @@ def merge_continous_duplicate_entries(units: List[VocabularyUnit]) -> List[Vocab
     merged_units: List[VocabularyUnit] = []
     previous_unit: VocabularyUnit = units[0]
     merged_units.append(previous_unit)
-
+    # pdb.set_trace()
     for current_unit in units[1:]:
+        # if previous_unit.entry == 'casual':
+        #     pdb.set_trace()
         if current_unit.entry != previous_unit.entry:
             merged_units.append(current_unit)
             previous_unit = current_unit
@@ -165,20 +167,20 @@ if __name__ == "__main__":
     # print(sys.path)
     # pdb.set_trace()
 
-    input_file_path = './testcase/testcase_language.txt'
-    # For Test
-    generated_path_prefix = './testcase/generated/testcase' # for txt files
-    forprint_path_prefix = './testcase/forprint/testcase' # for csv files
+    # input_file_path = './testcase/testcase_language.txt'
+    # # For Test
+    # generated_path_prefix = './testcase/generated/testcase' # for txt files
+    # forprint_path_prefix = './testcase/forprint/testcase' # for csv files
 
     # input_file_path = './250116/academic_language.txt'
     # # AVL: ACADEMIC VOCABULARY LEXICON
     # generated_path_prefix = './250116/generated/AVL' # for txt files
     # forprint_path_prefix = './250116/forprint/AVL' # for csv files
 
-    # input_file_path = './250116/everyday_language.txt'
-    # # EED: EVERYDAY ENGLISH DICTIONARY
-    # generated_path_prefix = './250116/generated/EED' # for txt files
-    # forprint_path_prefix = './250116/forprint/EED' # for csv files
+    input_file_path = './250116/everyday_language.txt'
+    # EED: EVERYDAY ENGLISH DICTIONARY
+    generated_path_prefix = './250116/generated/EED' # for txt files
+    forprint_path_prefix = './250116/forprint/EED' # for csv files
 
     output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
     # WORD DETAILS with ALPHABETICAL ORDER
