@@ -152,15 +152,15 @@ if __name__ == "__main__":
     # input_file_path = './testcase/testcase_language.txt'
     # generated_path_prefix = './testcase/generated/testcase_language'
 
-    # input_file_path = './250116/academic_language.txt'
-    # # AVL: ACADEMIC VOCABULARY LEXICON
-    # generated_path_prefix = './250116/generated/AVL' # for txt files
-    # forprint_path_prefix = './250116/forprint/AVL' # for csv files
+    input_file_path = './250116/academic_language.txt'
+    # AVL: ACADEMIC VOCABULARY LEXICON
+    generated_path_prefix = './250116/generated/AVL' # for txt files
+    forprint_path_prefix = './250116/forprint/AVL' # for csv files
 
-    input_file_path = './250116/everyday_language.txt'
-    # EED: EVERYDAY ENGLISH DICTIONARY
-    generated_path_prefix = './250116/generated/EED' # for txt files
-    forprint_path_prefix = './250116/forprint/EED' # for csv files
+    # input_file_path = './250116/everyday_language.txt'
+    # # EED: EVERYDAY ENGLISH DICTIONARY
+    # generated_path_prefix = './250116/generated/EED' # for txt files
+    # forprint_path_prefix = './250116/forprint/EED' # for csv files
 
     output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
     # WORD DETAILS with ALPHABETICAL ORDER

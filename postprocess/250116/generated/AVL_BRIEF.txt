@@ -13722,10 +13722,6 @@ entry: 哥斯拉
 occurrences: 1
 first 4 words: 哥斯拉
 
-entry: 圣女
-occurrences: 1
-first 4 words: 圣女
-
 entry: 多拉贡
 occurrences: 1
 first 4 words: 多拉贡
