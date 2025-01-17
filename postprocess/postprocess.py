@@ -165,13 +165,15 @@ if __name__ == "__main__":
     # print(sys.path)
     # pdb.set_trace()
 
-    # input_file_path = './testcase/testcase_language.txt'
-    # generated_path_prefix = './testcase/generated/testcase_language'
+    input_file_path = './testcase/testcase_language.txt'
+    # For Test
+    generated_path_prefix = './testcase/generated/testcase' # for txt files
+    forprint_path_prefix = './testcase/forprint/testcase' # for csv files
 
-    input_file_path = './250116/academic_language.txt'
-    # AVL: ACADEMIC VOCABULARY LEXICON
-    generated_path_prefix = './250116/generated/AVL' # for txt files
-    forprint_path_prefix = './250116/forprint/AVL' # for csv files
+    # input_file_path = './250116/academic_language.txt'
+    # # AVL: ACADEMIC VOCABULARY LEXICON
+    # generated_path_prefix = './250116/generated/AVL' # for txt files
+    # forprint_path_prefix = './250116/forprint/AVL' # for csv files
 
     # input_file_path = './250116/everyday_language.txt'
     # # EED: EVERYDAY ENGLISH DICTIONARY
@@ -180,24 +182,24 @@ if __name__ == "__main__":
 
     output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
     # WORD DETAILS with ALPHABETICAL ORDER
-    output_detail_file_path = generated_path_prefix + '_WD_AO.txt'
+    output_WD_AO_file_path = generated_path_prefix + '_WD_AO.txt'
     # WORD DETAILS with QUERY ORDER (Original input file)
-    output_original_file_path = generated_path_prefix + '_WD_QO.txt'
+    output_WD_QO_file_path = generated_path_prefix + '_WD_QO.txt'
     # WORD LIST with ALPHABETICAL ORDER
-    output_alphabet_csv_file_path = forprint_path_prefix + '_WL_AO.csv'
+    output_WL_AO_file_path = forprint_path_prefix + '_WL_AO.csv'
     # WORD LIST with QUERY-FREQUENCY ORDER
-    output_frequency_csv_file_path = forprint_path_prefix + '_WL_QFO.csv'
+    output_WL_QFO_file_path = forprint_path_prefix + '_WL_QFO.csv'
     # WORD LIST with QUERY ORDER
-    output_oriwithfreq_csv_file_path = forprint_path_prefix + '_WL_QO.csv'
+    output_WL_QO_file_path = forprint_path_prefix + '_WL_QO.csv'
 
     directory = os.path.dirname(output_brief_file_path)
     if not os.path.exists(directory):
         os.makedirs(directory)
-    directory = os.path.dirname(output_alphabet_csv_file_path)
+    directory = os.path.dirname(output_WL_AO_file_path)
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-    shutil.copyfile(input_file_path, output_original_file_path)
+    shutil.copyfile(input_file_path, output_WD_QO_file_path)
 
     vocab_units = parse_vocab_book(input_file_path)
     careted_vocab_units = replace_commas_with_caret(vocab_units)
@@ -213,26 +215,28 @@ if __name__ == "__main__":
             brief_file.write("\n")
 
     # Write detailed contents to another file
-    with open(output_detail_file_path, 'w', encoding='utf-8') as detail_file:
+    with open(output_WD_AO_file_path, 'w', encoding='utf-8') as detail_file:
         for unit in merged_vocab_units:
             detail_file.write(f"{unit.contents}\n\n")
 
     # Write first_4_words and unit.count to csv file
     # Do not use encoding='utf-8', or will cause Excel
-    write_word_list_to_csv_file(output_alphabet_csv_file_path, merged_vocab_units)
-
-    freq_alphabet_vocab_units = query_frequency_sort_units(merged_vocab_units)
-    write_word_list_to_csv_file(output_frequency_csv_file_path, freq_alphabet_vocab_units)
+    write_word_list_to_csv_file(output_WL_AO_file_path, merged_vocab_units)
 
     freqed_ori_vocab_units = update_original_units_count(vocab_units, merged_vocab_units)
     # freq_query_order_vocab_units = query_frequency_sort_units(freqed_ori_vocab_units)
     # merged_fqo_vocab_units = merge_continous_duplicate_entries(freq_query_order_vocab_units)
-    write_word_list_to_csv_file(output_oriwithfreq_csv_file_path, freqed_ori_vocab_units)
+    write_word_list_to_csv_file(output_WL_QO_file_path, freqed_ori_vocab_units)
+
+
+    pre_freq_order_ori_vocab_units = query_frequency_sort_units(freqed_ori_vocab_units)
+    freq_order_ori_vocab_units = merge_continous_duplicate_entries(pre_freq_order_ori_vocab_units)
+    write_word_list_to_csv_file(output_WL_QFO_file_path, freq_order_ori_vocab_units)
 
     print("Output has been written to:")
     print(f"Brief information: {output_brief_file_path} (BRIEF: Vocabulary summary)")
-    print(f"Word Details with Alphabetical Order: {output_detail_file_path} (WD_AO: Detailed vocabulary list in alphabetical order)")
-    print(f"Word List with Alphabetical Order: {output_alphabet_csv_file_path} (WL_AO: CSV in alphabetical order)")
-    print(f"Word List with Query-Frequency Order: {output_frequency_csv_file_path} (WL_QFO: CSV sorted by frequency)")
-    print(f"Original Sequence with Frequency: {output_oriwithfreq_csv_file_path} (WL_QO: Original order with frequency)")
-    print(f"Original Input File Renamed: {output_original_file_path} (WD_QO: Renamed input file in generated folder)")
+    print(f"Word Details with Alphabetical Order: {output_WD_AO_file_path} (WD_AO: Detailed vocabulary list in alphabetical order)")
+    print(f"Word List with Alphabetical Order: {output_WL_AO_file_path} (WL_AO: CSV in alphabetical order)")
+    print(f"Word List with Query-Frequency Order: {output_WL_QFO_file_path} (WL_QFO: CSV sorted by frequency)")
+    print(f"Original Sequence with Frequency: {output_WL_QO_file_path} (WL_QO: Original order with frequency)")
+    print(f"Original Input File Renamed: {output_WD_QO_file_path} (WD_QO: Renamed input file in generated folder)")
