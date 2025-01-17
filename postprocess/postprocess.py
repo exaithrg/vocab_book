@@ -168,15 +168,15 @@ if __name__ == "__main__":
     # input_file_path = './testcase/testcase_language.txt'
     # generated_path_prefix = './testcase/generated/testcase_language'
 
-    # input_file_path = './250116/academic_language.txt'
-    # # AVL: ACADEMIC VOCABULARY LEXICON
-    # generated_path_prefix = './250116/generated/AVL' # for txt files
-    # forprint_path_prefix = './250116/forprint/AVL' # for csv files
+    input_file_path = './250116/academic_language.txt'
+    # AVL: ACADEMIC VOCABULARY LEXICON
+    generated_path_prefix = './250116/generated/AVL' # for txt files
+    forprint_path_prefix = './250116/forprint/AVL' # for csv files
 
-    input_file_path = './250116/everyday_language.txt'
-    # EED: EVERYDAY ENGLISH DICTIONARY
-    generated_path_prefix = './250116/generated/EED' # for txt files
-    forprint_path_prefix = './250116/forprint/EED' # for csv files
+    # input_file_path = './250116/everyday_language.txt'
+    # # EED: EVERYDAY ENGLISH DICTIONARY
+    # generated_path_prefix = './250116/generated/EED' # for txt files
+    # forprint_path_prefix = './250116/forprint/EED' # for csv files
 
     output_brief_file_path = generated_path_prefix + '_BRIEF.txt'
     # WORD DETAILS with ALPHABETICAL ORDER
@@ -222,37 +222,12 @@ if __name__ == "__main__":
     write_word_list_to_csv_file(output_alphabet_csv_file_path, merged_vocab_units)
 
     freq_alphabet_vocab_units = query_frequency_sort_units(merged_vocab_units)
-
-    with open(output_frequency_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
-        chunknum = 0
-        for unit in freq_alphabet_vocab_units:
-            chunknum += 1
-            if chunknum % 3 == 1: 
-                csv_file.write(f"{chunknum},")
-            csv_line = ','.join([unit.first_4_words, str(unit.count)])
-            csv_file.write(f"{csv_line}")
-            if chunknum % 3 == 0:
-                csv_file.write("\n")
-            else:
-                csv_file.write(",")
+    write_word_list_to_csv_file(output_frequency_csv_file_path, freq_alphabet_vocab_units)
 
     freqed_ori_vocab_units = update_original_units_count(vocab_units, merged_vocab_units)
     # freq_query_order_vocab_units = query_frequency_sort_units(freqed_ori_vocab_units)
     # merged_fqo_vocab_units = merge_continous_duplicate_entries(freq_query_order_vocab_units)
-
-    with open(output_oriwithfreq_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
-        # 3 units in 1 csv line
-        chunknum = 0
-        for unit in freqed_ori_vocab_units:
-            chunknum += 1
-            if chunknum % 3 == 1: 
-                csv_file.write(f"{chunknum},")
-            csv_line = ','.join([unit.first_4_words, str(unit.count)])
-            csv_file.write(f"{csv_line}")
-            if chunknum % 3 == 0:
-                csv_file.write("\n")
-            else:
-                csv_file.write(",")
+    write_word_list_to_csv_file(output_oriwithfreq_csv_file_path, freqed_ori_vocab_units)
 
     print("Output has been written to:")
     print(f"Brief information: {output_brief_file_path} (BRIEF: Vocabulary summary)")
