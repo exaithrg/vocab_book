@@ -143,6 +143,22 @@ def merge_continous_duplicate_entries(units: List[VocabularyUnit]) -> List[Vocab
 
     return merged_units
 
+def write_word_list_to_csv_file(csv_target_path: str, vocab_units: List[VocabularyUnit]):
+    with open(csv_target_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
+        # 3 units in 1 csv line
+        chunknum = 0
+        for unit in vocab_units:
+            chunknum += 1
+            if chunknum % 3 == 1: 
+                csv_file.write(f"{chunknum},")
+            csv_line = ','.join([unit.first_4_words, str(unit.count)])
+            csv_file.write(f"{csv_line}")
+            if chunknum % 3 == 0:
+                csv_file.write("\n")
+            else:
+                csv_file.write(",")
+    return
+
 # MAIN
 if __name__ == "__main__":
 
@@ -203,19 +219,7 @@ if __name__ == "__main__":
 
     # Write first_4_words and unit.count to csv file
     # Do not use encoding='utf-8', or will cause Excel
-    with open(output_alphabet_csv_file_path, 'w', encoding='utf-8-sig', newline='') as csv_file:
-        # 3 units in 1 csv line
-        chunknum = 0
-        for unit in merged_vocab_units:
-            chunknum += 1
-            if chunknum % 3 == 1: 
-                csv_file.write(f"{chunknum},")
-            csv_line = ','.join([unit.first_4_words, str(unit.count)])
-            csv_file.write(f"{csv_line}")
-            if chunknum % 3 == 0:
-                csv_file.write("\n")
-            else:
-                csv_file.write(",")
+    write_word_list_to_csv_file(output_alphabet_csv_file_path, merged_vocab_units)
 
     freq_alphabet_vocab_units = query_frequency_sort_units(merged_vocab_units)
 
