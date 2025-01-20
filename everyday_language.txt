@@ -244,3 +244,49 @@ TEM8 deprecating,deprecated,deprecates
    ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> collision
+------------------------------------------------------------------------
+collision    [美 kəˈlɪʒ(ə)n / 英 kəˈlɪʒ(ə)n]
+n. 碰撞，相撞；冲突，抵触；争用
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A collision occurs when a moving object crashes into something. 碰撞
+   ≫   They were on their way to the airport when their van was involved in a collision with a car.  他们正往机场赶路的时候，其货车和一辆小汽车相撞了。
+2. (N-COUNT) A collision of cultures or ideas occurs when two very different cultures or people meet and conflict. (文化或观点的) 冲突
+   ≫   The play represents the collision of three generations.  该剧表现了3代人之间的冲突。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> scratch
+------------------------------------------------------------------------
+scratch    [美 skrætʃ / 英 skrætʃ]
+v. （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）；（用爪子）抓，刨；（鸟、哺乳动物，尤指鸡）用嘴（或爪子）扒地找食物；寻觅（难找的人或物）（scratch for）；艰难生活（scratch along）；勾掉，划去（写下的字）；<非正式> 仓促写下；（用尖利物）刮擦出声音；<非正式> 取消，撤销（想法或计划）；<非正式>（使）退出比赛；（用刮擦技法）播放唱片
+n. （某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠；刮擦声；唱片的嚓嚓声（指唱片纹道与唱针的摩擦噪声）；刮擦（多用于快板乐中，用手制止唱片转动，使其来回移动发出有节奏的嚓嚓声的技巧）；（高尔夫）零让步（表明选手不弱，能在场上达到规定击球的次数）；<非正式> 钱
+adj. （球队或一群人等）仓促拼凑的，匆匆组成的；（高尔夫球员）无让杆的，无让步优待的；碰巧的；打草稿用的
+★★ CET4 TEM4 scratching,scratched,scratches
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you scratch yourself, you rub your fingernails against your skin because it is itching. 挠
+   ≫   He scratched himself under his arm.  他在自己腋下挠了挠。
+   ≫   The old man lifted his cardigan to scratch his side.  那位老人撩起他的开襟毛衣挠了挠身子侧面。
+2. (V-T) If a sharp object scratches someone or something, it makes small shallow cuts on their skin or surface. 划破
+   ≫   The branches tore at my jacket and scratched my hands and face.  那些树枝挂了我的夹克，划破了我的双手和脸。
+3. (N-COUNT) Scratches on someone or something are small shallow cuts. 划伤
+   ≫   The seven-year-old was found crying with scratches on his face and neck.  那个7岁的孩子被找到时正在哭，脸上和颈上都有划伤。
+4. (PHRASE) If you do something from scratch, you do it without making use of anything that has been done before. 从零开始
+   ≫   Building a home from scratch can be both exciting and challenging.  白手起家既激动人心又具有挑战性。
+5. (PHRASE) If you say that someone is scratching their head, you mean that they are thinking hard and trying to solve a problem or puzzle. 绞尽脑汁思考
+   ≫   The Institute spends a lot of time scratching its head about how to boost American productivity.  这家研究所花大量时间绞尽脑汁思考怎样推进美国的生产力。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> playground
+------------------------------------------------------------------------
+playground    [美 ˈpleɪɡraʊnd / 英 ˈpleɪɡraʊnd]
+n. （尤指学校或公园中的儿童）操场，游乐场；（某一群体的）游憩胜地，度假场所
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A playground is a piece of land, at school or in a public area, where children can play. 游戏场
+   ≫   ...a seven-year-old boy playing in a school playground.  …一个在学校操场上玩耍的7岁男孩。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+

@@ -53,3 +53,209 @@ n. 在逃；（箭的）发射；放纵
    ≫   Up to a thousand prisoners may be on the loose inside the jail.  多达一千名的囚犯可能在监狱里行动自由。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> parity
+------------------------------------------------------------------------
+parity    [美 ˈpærəti / 英 ˈpærəti]
+n. （尤指薪金或地位）平等，相同；（两个不同国家的货币单位的）平价，等价；（数字）奇偶性；（物理）宇称；（物理）宇称性；（计算机）奇偶校验；（医）经产（状况）；已产子女数
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If there is parity between two things, they are equal. 平等; 相等 [正式]
+   ≫   Women have yet to achieve wage or occupational parity in many fields.  妇女们在许多领域尚有待获得薪酬或职业的平等。
+2. (N) the condition or fact of having given birth 分娩或分娩状态
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> boiler
+------------------------------------------------------------------------
+boiler    [美 ˈbɔɪlər / 英 ˈbɔɪlə(r)]
+n. 汽锅，锅炉；烧水装置（或容器）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A boiler is a device that burns gas, oil, electricity, or coal in order to provide hot water, especially for the central heating in a building. 锅炉
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> boilerplate
+------------------------------------------------------------------------
+boilerplate    [英 ˈbɔɪləpleɪt / 美 ˈbɔɪlərpleɪt]
+n. 样板文件；引用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a form of mild-steel plate used in the production of boiler shells 锅炉壳用低碳钢板
+2. (V) to incorporate standard material automatically in a text 引用样板文件
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> homogeneous
+------------------------------------------------------------------------
+homogeneous    [美 ˌhoʊməˈdʒiːniəs / 英 ˌhɒməˈdʒiːniəs]
+adj. 同种类的，同性质的；齐性的，齐次的；同形态（固态、液态或气态）的
+★ CET6 TEM8 alsohomogenous
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Homogeneous is used to describe a group or thing which has members or parts that are all the same. 同种类的 [正式]
+   ≫   The unemployed are not a homogeneous group.  失业者并不都是同一类人。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bindings
+------------------------------------------------------------------------
+bindings    ['baindiŋ]
+n. 捆绑；捆缚物；镶边；粘合剂（binding的复数）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+4. → see also
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> binding
+------------------------------------------------------------------------
+binding    [英 'baɪndɪŋ / 美 'baɪndɪŋ]
+n. 装订；捆绑；粘合物
+adj. 有约束力的；捆绑的
+v. 捆绑（bind的ing形式）
+n. (Binding)人名；(德)宾丁
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+4. → see also
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> binding
+------------------------------------------------------------------------
+binding    [美 'baɪndɪŋ / 英 'baɪndɪŋ]
+n. 装订；捆绑；粘合物
+adj. 有约束力的；捆绑的
+v. 捆绑（bind的ing形式）
+n. (Binding)人名；(德)宾丁
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+4. → see also
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bindings
+------------------------------------------------------------------------
+bindings    ['baindiŋ]
+n. 捆绑；捆缚物；镶边；粘合剂（binding的复数）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+4. → see also
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bindings
+------------------------------------------------------------------------
+bindings    [美 ˈbaɪndɪŋz]
+n. 捆绑；捆缚物；镶边；粘合剂（binding 的复数）
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bindings
+------------------------------------------------------------------------
+bindings    [美 ˈbaɪndɪŋz]
+n. 捆绑；捆缚物；镶边；粘合剂（binding 的复数）
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bindings
+------------------------------------------------------------------------
+bindings    [美 ˈbaɪndɪŋz]
+n. 捆绑；捆缚物；镶边；粘合剂（binding 的复数）
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bindings
+------------------------------------------------------------------------
+bindings    [美 ˈbaɪndɪŋz]
+n. 捆绑；捆缚物；镶边；粘合剂（binding 的复数）
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A binding promise, agreement, or decision must be obeyed or carried out. 有约束力的
+   ≫   ...proposals for a legally binding commitment on nations to stabilize emissions of carbon dioxide.  …关于就稳定二氧化碳排放各国做出有法律约束力的承诺的建议。
+2. (N-VAR) The binding of a book is its cover. (书的) 封面
+   ≫   Its books are noted for the quality of their paper and bindings.  其书籍以纸张和封面的品质而著称。
+3. (N-VAR) Binding is a strip of material that you put around the edge of a piece of cloth or other object in order to protect or decorate it. 滚条; 镶边
+   ≫   ...the Regency mahogany dining table with satinwood binding.  …摄政时期有椴木镶边的桃花心木餐桌
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> snippets
+------------------------------------------------------------------------
+snippets    ['snippit]
+n. 片段（snippet的复数形式）；小片
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snippet of something is a small piece of it. 片段
+   ≫   ...snippets of popular classical music.  …流行古典音乐的片段。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> snippets
+------------------------------------------------------------------------
+snippets
+n. 片段（snippet 的复数形式）；小片
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snippet of something is a small piece of it. 片段
+   ≫   ...snippets of popular classical music.  …流行古典音乐的片段。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> abliterated
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> abliterated
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
