@@ -1,0 +1,55 @@
+========================================================================
+>>> deprecated
+------------------------------------------------------------------------
+deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> loos
+------------------------------------------------------------------------
+loos    [美 luːs]
+n. 损耗，洗手间（loo 复数形式）
+n. （Loos）人名；（法、德、西、捷、瑞典）洛斯；（英）卢斯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) [英国英语] → an informal or dialect word for lavatory
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> loose
+------------------------------------------------------------------------
+loose    [英 luːs / 美 luːs]
+adj. 未固定牢的，松动的；零散的，松脱的；不受束缚的，未拴住的；（衣服）宽松的；疏松的；组织不严密的；不严谨的，不精确的；不道德的，放荡的；无球员控制的；稀的；说话随便的；（身体）懒散的，放松的
+v. 释放，发泄；松开，解开；发射（子弹、箭等）
+adv. 宽松地
+n. 在逃；（箭的）发射；放纵
+【名】 （Loose）（英）卢斯，（捷、瑞典）洛塞，（德）洛泽（人名）
+★★★ CET4 TEM4 looser,loosest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is loose is not firmly held or fixed in place. 松的
+   ≫   If a tooth feels very loose, your dentist may recommend that it's taken out.  如果有颗牙齿非常松动，你的牙医可能会建议拔掉它。
+   ≫   Two wooden beams had come loose from the ceiling.  天花板上的两根木梁松动了。
+2. (ADV) loosely ADV 松松地 [ADV with v]
+   ≫   Tim clasped his hands together and held them loosely in front of his belly.  蒂姆十指交叉搭在腹前。
+3. (ADJ) Something that is loose is not attached to anything, or held or contained in anything. 零散的
+   ≫   Frank emptied a handful of loose change on the table.  弗兰克将一把零钱全部放在了桌子上。
+4. (ADJ) If people or animals break loose or are set loose, they are no longer held, tied, or kept somewhere and can move around freely. 自由的
+   ≫   She broke loose from his embrace and crossed to the window.  她从他的拥抱中挣脱出来，穿过房间走到窗边。
+5. (ADJ) Clothes that are loose are somewhat large and do not fit closely. 宽松的
+   ≫   A pistol wasn't that hard to hide under a loose shirt.  把一支手枪藏在宽松的衬衣里面并没那么难。
+6. (ADV) loosely ADV 宽松地
+   ≫   His shirt hung loosely over his thin shoulders.  他的衬衣松松垮垮地挂在他瘦削的双肩上。
+7. (ADJ) If your hair is loose, it hangs freely around your shoulders and is not tied back. 披散的
+   ≫   She was still in her nightgown, with her hair hanging loose over her shoulders.  她仍穿着睡衣，头发披散在肩上。
+8. (ADJ) A loose grouping, arrangement, or organization is flexible rather than strictly controlled or organized. 松散的 (分组、安排、组织)
+   ≫   Murray and Alison came to some sort of loose arrangement before he went home.  在他回家之前，默里和艾莉森做了些松散的安排。
+9. (ADV) loosely ADV 松散地 [ADV with v]
+   ≫   The investigation had aimed at a loosely organized group of criminals.  该调查曾是针对一群组织松散的罪犯的。
+10. (PHRASE) If a person or an animal is on the loose, they are free because they have escaped from a person or place. 在逃; 行动自由
+   ≫   Up to a thousand prisoners may be on the loose inside the jail.  多达一千名的囚犯可能在监狱里行动自由。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+

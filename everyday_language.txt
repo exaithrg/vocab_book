@@ -106,3 +106,141 @@ n. 耽搁，拖延；拖延症
 ≫   The problem is procrastination. 问题在于拖延症。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> hostage
+------------------------------------------------------------------------
+hostage    [美 ˈhɑːstɪdʒ / 英 ˈhɒstɪdʒ]
+n. 人质
+★★★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hostage is someone who has been captured by a person or organization and who may be killed or injured if people do not do what that person or organization demands. 人质
+   ≫   It is hopeful that two hostages will be freed in the next few days.  两名人质有望在几天后获释。
+2. (PHRASE) If someone is taken hostage or is held hostage, they are captured and kept as a hostage. 将某人扣作人质
+   ≫   He was taken hostage while on his first foreign assignment as a television journalist.  他第一次作为电视记者出国采访时就被扣作人质。
+3. (N-VAR) If you say you are hostage to something, you mean that your freedom to take action is restricted by things that you cannot control. 受到…的限制
+   ≫   Wine growers say they've been held hostage to the interests of cereal farmers.  葡萄酒制造商们说他们已被谷物种植者的利益所左右。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> rope
+------------------------------------------------------------------------
+rope    [英 rəʊp / 美 roʊp]
+n. 粗绳，绳索；（球状物的）（一）串，（一）条；<美>（套捕牛、马等的）套索；（拳击台、摔跤台的）围绳（the ropes）；绞刑（the rope）；<非正式>办事的规矩，诀窍（the ropes）
+v. 用绳子捆（或绑、系）；<美>用绳套捕捉（动物）；用绳（或带子）围起（或隔开）（rope sth. off）；借绳爬下/借绳登山（rope down/up）；<非正式>说服……参加（活动） (rope someone in/into)；拧成绳状
+【名】 （Rope）（英）罗普，（芬）罗佩（人名）
+★★ CET4 TEM4 roping,roped,ropes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A rope is a thick cord or wire that is made by twisting together several thinner cords or wires. Ropes are used for jobs such as pulling cars, tying up boats, or tying things together. 缆绳
+   ≫   He tied the rope around his waist.  他把那条缆绳系在他的腰上。
+2. (V-T) If you rope one thing to another, you tie the two things together with a rope. (用绳) 系
+   ≫   I roped myself to the chimney.  我用绳子将自己系在了那个烟囱上。
+3. (PHRASE) If you give someone enough rope to hang themselves, you give them the freedom to do a job in their own way because you hope that their attempts will fail and that they will look foolish. 任某人自作自受
+   ≫   The king has merely given the politicians enough rope to hang themselves.  那位国王不过是任那些政客自作自受。
+4. (PHRASE) If you are learning the ropes, you are learning how a particular task or job is done. 熟悉门道 [非正式]
+   ≫   He tried hiring more salesmen to push his radio products, but they took too much time to learn the ropes.  他试图雇佣更多的销售员来推销无线电产品，但那些人用了太多时间熟悉门道。
+5. (PHRASE) If you know the ropes, you know how a particular job or task should be done. 懂行 [非正式]
+   ≫   The moment she got to know the ropes, there was no stopping her.  一旦她懂了行，她就一往无前了。
+6. (PHRASE) If you show someone the ropes, you show them how to do a particular job or task. 给某人指点门道 [非正式]
+   ≫   We had a patrol out on the border, breaking in some young soldiers, showing them the ropes.  我们在边境上进行了一次巡逻，训练一些年轻士兵，对他们做了指点。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> ballon
+------------------------------------------------------------------------
+ballon    [美 bæˈloʊn / 英 ˈbɑːlʊŋ]
+n. （舞者）轻快优雅；一小束，一小捆
+n. （Ballon）（美、法）巴隆（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   While he holds Barcelona's Ballon d'Or winner Messi in very high regard, he would have preferred another player to scoop the award. 尽管他对巴塞罗那的金球奖得主梅西非常尊重，他更希望另一个运动员赢得这个奖项。
+≫   Give me a balloon, a balloon, a ballon. 给我一个气球、一个气球、一个气球。
+≫   Messi wins his fifth Ballon d'Or award recently, which helps him makes the new record. 梅西最近赢了他的第五个金球奖奖项，这帮助他创造了新的纪录。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> balloon
+------------------------------------------------------------------------
+balloon    [美 bəˈluːn / 英 bəˈluːn]
+n. 气球；热气球；气球状对话框；球形大酒杯；<非正式>蠢人；分期付款中最后一笔数目特大的还款
+v. 激增；突然长胖；膨胀，鼓起来；乘热气球旅行；（球）被踢（或打）得腾空飞起；（把球）踢飞，打飞
+adj. 像气球般鼓起的
+【名】 （Balloon）（美、印、泰、俄、巴）巴隆（人名）
+★★ CET4 TEM4 ballooning,ballooned,balloons
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A balloon is a small, thin, rubber bag that you blow air into so that it becomes larger and rounder or longer. Balloons are used as toys or decorations. 气球
+   ≫   She popped a balloon with her fork.  她用叉子把气球砰的一声戳爆了。
+2. (N-COUNT) A balloon is a large, strong bag filled with gas or hot air, which can carry passengers in a container that hangs underneath it. 热气球
+   ≫   They are to attempt to be the first to circle the Earth non-stop by balloon.  他们将试图成为首批乘热气球不间断环球飞行的人。
+3. (V-I) When something balloons, it increases rapidly in amount. (数量上) 猛增
+   ≫   The jail's female and minority populations have both ballooned in recent years.  该监狱的女性及少数民族犯人在近几年都猛增了。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> nuisance
+------------------------------------------------------------------------
+nuisance    [美 ˈnuːs(ə)ns / 英 ˈnjuːsns]
+n. 麻烦事，讨厌的人（或事物、情况）；损害，妨害；骚扰行为，妨害行为
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情
+   ≫   He could be a bit of a nuisance when he was drunk.  他喝醉时会是一个有点令人讨厌的人。
+   ≫   Sorry to be a nuisance.  对不起，麻烦一下。
+2. (PHRASE) If someone makes a nuisance of themselves, they behave in a way that annoys other people. 惹人讨厌。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> deaf
+------------------------------------------------------------------------
+deaf    [美 def / 英 def]
+adj. 聋的；置若罔闻的
+★★ CET4 TEM4 deafer,deafest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is deaf is unable to hear anything or is unable to hear very well. 聋的; 听不清的
+   ≫   She is now profoundly deaf.  她现在几乎一点声音都听不到了。
+2. (N-PLURAL) The deaf are people who are deaf. 失聪者
+   ≫   Many regular TV programmes are captioned for the deaf.  许多固定的电视节目都为失聪者提供字幕。
+3. (N-UNCOUNT) deafness N-UNCOUNT 失聪
+   ≫   Because of her deafness she was hard to make conversation with.  由于她失聪，和她交流很困难。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> shrunk
+------------------------------------------------------------------------
+shrunk    [英 ʃrʌŋk / 美 ʃrʌŋk]
+v. 收缩（shrink 的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The tumour had shrunk to the size of a pea. 肿瘤已缩小到豌豆大小。《牛津词典》
+≫   The vast forests of West Africa have shrunk. 西非那片广袤的森林已经缩小了。《柯林斯英汉双解大词典》
+≫   Income inequality usually falls during a recession, but it has not shrunk in this one. 在经济衰退期间，收入差距通常会缩小，但这次却没有。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> shrink
+------------------------------------------------------------------------
+shrink    [美 ʃrɪŋk / 英 ʃrɪŋk]
+v. （使）缩小，减少；（通常指布料、衣服等洗后）缩水，皱缩；退缩，畏缩；畏避，回避（工作、责任等）
+n. <非正式> 精神病学家，心理学家；收缩；畏缩
+★★ CET4 TEM4 shrinking,shrank,shrunk,shrinks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If cloth or clothing shrinks, it becomes smaller in size, usually as a result of being washed. 缩水
+   ≫   People were short in those days – or else those military uniforms all shrank in the wash!  那个年代人们很矮–要么就是那些军装在洗涤时全都缩水了！
+2. (V-T/V-I) If something shrinks or something else shrinks it, it becomes smaller. 使缩小; 缩小
+   ≫   The vast forests of West Africa have shrunk.  西非那片广袤的森林已经缩小了。
+3. (V-I) If you shrink away from someone or something, you move away from them because you are frightened, shocked, or disgusted by them. (因害怕、震惊或厌恶) 避开
+   ≫   One child shrinks away from me when I try to talk to him.  我试着和这个孩子说话时，他避开了我。
+4. (V-I) If you do not shrink from a task or duty, you do it even though it is unpleasant or dangerous. 逃避 (不愉快或危险的事) [usu with neg]
+   ≫   He is decisive and won't shrink from a fight.  他很果断，而且不会逃避战斗。
+5. (N-COUNT) A shrink is a psychiatrist. 精神病医生 [非正式]
+   ≫   I've seen a shrink already.  我已经看过了精神病医生。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> deprecated
+------------------------------------------------------------------------
+deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
