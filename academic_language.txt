@@ -259,3 +259,353 @@ Not found :(
 Not found :(
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> carbon
+------------------------------------------------------------------------
+carbon    [美 'kɑrbən / 英 'kɑːb(ə)n]
+n. [化学] 碳；碳棒；复写纸
+adj. 碳的；碳处理的
+n. (Carbon)人名；(西)卡尔翁；(法)卡尔邦；(英)卡本
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Carbon is a chemical element that diamonds and coal are made up of. (化学元素) 碳
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> carbon footprint
+------------------------------------------------------------------------
+≫  未找到守护进程，正在启动...
+✔  成功启动守护进程，PID：675
+carbon footprint
+碳足迹；碳排放量
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> optical
+------------------------------------------------------------------------
+optical    [美 ˈɑːptɪk(ə)l / 英 ˈɒptɪk(ə)l]
+adj. 视力的，视觉的；有助于视力的，光学的；光读取的，光存贮的；（装置）光电的
+n. <印度>（一副）眼镜（opticals）
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Optical devices, processes, and effects involve or relate to vision, light, or images. 视力的; 光学的
+   ≫   ...optical telescopes.  …光学望远镜。
+   ≫   ...an optical scanner.  …一台光学扫描仪。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> CONCEPTUAL
+------------------------------------------------------------------------
+conceptual    [美 kən'sɛptʃʊəl / 英 kən'septjʊəl]
+adj. 概念上的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Conceptual means related to ideas and concepts formed in the mind. 概念的
+   ≫   ...replacing old laws with new within the same conceptual framework.  ...在同样的概念体系内用新法则代替旧法则。
+2. (ADV) conceptually
+   ≫   The monograph is conceptually confused, unclear in its structure, and weak in its methodology.  这篇专题论文概念混乱、结构不清，方法论弱。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> contemporary
+------------------------------------------------------------------------
+contemporary    [英 kənˈtemp(ə)rəri / 美 kənˈtempəreri]
+adj. 当代的，现代的；同时期的，同时代的
+n. 同时代的人；同龄人，同辈
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Contemporary things are modern and relate to the present time. 当代的
+   ≫   She writes a lot of contemporary music for people like Whitney Houston.  她为惠特尼·休斯敦等人创作大量当代音乐作品。
+2. (ADJ) Contemporary people or things were alive or happened at the same time as something else you are talking about. 同时代的
+   ≫   ...drawing upon official records and the reports of contemporary witnesses.  …借助官方记录以及当时目击者的证言。
+3. (N-COUNT) Someone's contemporary is a person who is or was alive at the same time as them. 同时代的人
+   ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> out-of-the-box
+------------------------------------------------------------------------
+out-of-the-box
+adj. 拆盒即可使用的；开箱即用的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   When you are faced with difficulties, you need to calm down and then think out of the box. 当你面临困难时，你需要冷静下来然后另辟蹊径。
+≫   The lever gets them out of the box, but after more and more trials, they stopped scratching at the bars and pushing at the ceiling. 杠杆让它们出了盒子，但在越来越多的尝试之后，它们不再抓栏杆和推天花板。
+≫   The thing I'm really worried about—I mean, I haven't even taken it out of the box yet—is a camera I just bought. 我真正担心的是我刚买的一台相机——我甚至还没有把它从盒子里拿出来。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> modalities
+------------------------------------------------------------------------
+modalities    [məu'dæləti]
+n. 形式；形态（modality的复数）；样式
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the condition of being modal 情态
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [美 ˈsentɪmənt / 英 ˈsentɪmənt]
+n. 观点，看法，情绪；多愁善感，伤感情绪
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> accommodate
+------------------------------------------------------------------------
+accommodate    [美 ə'kɑmədet / 英 ə'kɒmədeɪt]
+vt. 容纳；使适应；供应；调解
+vi. 适应；调解
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [no cont] If a building or space can accommodate someone or something, it has enough room for them. 容纳
+   ≫   The school was not big enough to accommodate all the children.  学校没有足够的地方容纳所有的学生。
+2. (V-T) To accommodate someone means to provide them with a place to live or stay. 为…提供住宿
+   ≫   ...a hotel built to accommodate guests for the wedding of King Alfonso.  …一个为来参加阿方索国王婚礼的客人提供住宿而建造的宾馆。
+3. [正式] If something is planned or changed to accommodate a particular situation, it is planned or changed so that it takes this situation into account. 使…适应
+   ≫   The roads are built to accommodate gradual temperature changes.  这些道路是为适应气温的逐渐变化而建的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> hood
+------------------------------------------------------------------------
+hood    [英 hʊd]
+n. 头巾；覆盖；兜帽
+vt. 罩上；以头巾覆盖
+n. (Hood)人名；(英)胡德；(德、荷)霍德
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hood is a part of a coat which you can pull up to cover your head. It is in the shape of a triangular bag attached to the neck of the coat at the back. (连在外套上的) 风帽
+   ≫   She threw back the hood of her cloak.  她把披风上的风帽向后甩去。
+2. [美国英语] The hood of a car is the metal cover over the engine at the front. (汽车的) 引擎罩
+3. [slang] hoodlum的缩写 → short for
+4. (V) to cover or provide with or as if with a hood 覆盖
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> under the hood
+------------------------------------------------------------------------
+under the hood
+在表面之下：指在某物的内部工作过程中。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Steam billowed out from under the hood. 蒸汽从机罩下冒了出来。《柯林斯英汉双解大词典》
+≫   Should I look under the hood? 要不要我看看引擎盖下面？
+≫   What's under the hood? 车篷下有什么？
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> retrieves
+------------------------------------------------------------------------
+retrieves
+v．
+1. 取回，恢复：找回丢失或被遗忘的东西；重新获得失去的东西。
+2. 挽回，弥补：改正错误或不利局面。
+★★ CET6 TEM8 retrieving,retrieved,retrieves
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> replicate
+------------------------------------------------------------------------
+replicate    [美 ˈreplɪkeɪt / 英 ˈreplɪkeɪt]
+v. 重复，复制；（遗传物质或生物）自我繁殖，自我复制；复证（实验或试验以得出一致的结果）
+adj. 复制的；（实验或试验）复现的
+n. 复制品；（乐）高（或低）八度反复音
+★ TEM8 replicating,replicated,replicates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you replicate someone's experiment, work, or research, you do it yourself in exactly the same way. 复制; 重做(试验、工作或研究) [正式]
+   ≫   He invited her to his laboratory to see if she could replicate the experiment.  他邀请她到他的实验室看她能否复制该实验。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> torture
+------------------------------------------------------------------------
+torture    [美 'tɔrtʃɚ / 英 'tɔːtʃə]
+vt. 折磨；拷问；歪曲
+n. 折磨；拷问；歪曲
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone is tortured, another person deliberately causes them terrible pain over a period of time, in order to punish them or to make them reveal information. 拷打; 拷问
+   ≫   Despite being tortured she proclaimed her innocence.  尽管受到拷打，她仍声称自己是清白的。
+2. (N-VAR) Torture is also a noun. 拷打; 拷问
+   ≫   ...alleged cases of torture and murder by the security forces.  …安全部队涉嫌严刑拷打与谋杀的案子。
+3. (V-T) To torture someone means to cause them to suffer mental pain or anxiety. (精神上) 折磨
+   ≫   He would not torture her further by trying to argue with her.  他不会通过和她争吵而进一步折磨她。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> granted
+------------------------------------------------------------------------
+granted    [美 ˈɡræntɪd / 英 ˈɡrɑːntɪd]
+adv. 的确，诚然
+conj. 因为（granted that）
+v. 授予，给予；承认（grant 的过去式和过去分词）
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONJ) You use granted or granted that at the beginning of a clause to say that something is true, before you make a comment on it. 诚然
+   ≫   Granted that the firm has not broken the law, is the law what it should be?  诚然该公司没有违犯那条法律，那条法律就是对的吗？
+2. (ADV) Granted is also an adverb. 的确 [ADV with cl]
+   ≫   Granted, he doesn't look too bad for his age, but I don't care for him.  的确，就年龄来说他看上去不太差，但我不喜欢他。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> consolidated
+------------------------------------------------------------------------
+consolidated    [美 kən'sɑlə,detɪd / 英 kən'sɒlɪdeɪtɪd]
+adj. 巩固的；统一的；整理过的
+v. 合并；巩固（consolidate的过去分词形式）；统一
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you consolidate something that you have, for example power or success, you strengthen it so that it becomes more effective or secure. 巩固
+   ≫   The question is: will the junta consolidate its power by force?  问题是，这个军政府会通过武力来巩固它的政权吗？
+2. (V-T) To consolidate a number of small groups or companies means to make them into one large organization. 合并
+   ≫   Judge Charles Schwartz is giving the state 60 days to disband and consolidate Louisiana's four higher education boards.  查尔斯·施瓦茨法官给该州60天解散且合并路易斯安那的4个高等教育委员会。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> imitation
+------------------------------------------------------------------------
+imitation    [美 ˌɪmɪˈteɪʃn / 英 ˌɪmɪˈteɪʃn]
+n. 模仿，仿效；滑稽模仿；仿制品，赝品；乐句重复
+adj. 人造的，仿制的，伪造的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An imitation of something is a copy of it. 仿造品
+   ≫   ...the most accurate imitation of Chinese architecture in Europe.  …欧洲最逼真的仿中国建筑。
+2. (N-UNCOUNT) Imitation means copying someone else's actions. 动作模仿
+   ≫   They discussed important issues in imitation of their elders.  他们模仿长辈的口气讨论重大问题。
+3. (ADJ) Imitation things are not genuine but are made to look as if they are. 人造的; 仿造的 [ADJ n]
+   ≫   ...a complete set of Dickens bound in imitation leather.  …用人造革装帧的一整套《狄更斯全集》。
+4. (N-COUNT) If someone does an imitation of another person, they copy the way they speak or behave, sometimes in order to be funny. (有时是为逗乐而) 学样
+   ≫   One boy did an imitation of a soldier with a loudspeaker.  一个男孩拿着扬声器学着士兵的样子。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> derived
+------------------------------------------------------------------------
+derived    [美 dɪˈraɪvd / 英 dɪˈraɪvd]
+adj. 导出的；衍生的，派生的
+v. 从……衍生出，源于；（从……中）得到，提取；导出（derive 的过去式和过去分词）
+★★ CET4 TEM4 deriving,derived,derives
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you derive something such as pleasure or benefit from a person or from something, you get it from them. 获得 [正式]
+   ≫   Mr. Ying is one of those happy people who derive pleasure from helping others.  英先生是那种助人为乐的快活人。
+2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
+   ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> override
+------------------------------------------------------------------------
+override    [美 ,ovɚ'raɪd / 英 əʊvə'raɪd]
+vt. 推翻；不顾；践踏
+n. 代理佣金
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing in a situation overrides other things, it is more important than they are. 比…更重要
+   ≫   The welfare of a child should always override the wishes of its parents.  孩子的幸福应该永远比其父母的心愿更重要。
+2. (V-T) If someone in authority overrides a person or their decisions, they cancel their decisions. 推翻
+   ≫   The president vetoed the bill, and the Senate failed by a single vote to override his veto.  总统否决了议案，而参议院因一票之差未能推翻他的否决。
+3. [美国英语] An override is an attempt to cancel someone's decisions by using your authority over them or by gaining more votes than they do in an election or contest. 推翻
+   ≫   The bill now goes to the House where an override vote is expected to fail.  议案现在到了众议院，预计在这里推翻表决会失败。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> explicit
+------------------------------------------------------------------------
+explicit    [美 ɪkˈsplɪsɪt / 英 ɪkˈsplɪsɪt]
+adj. 清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的
+n. （手稿、早期印刷品或礼拜仪式上唱诗的）结束语
+★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is explicit is expressed or shown clearly and openly, without any attempt to hide anything. 明确表达的; 公开显露的
+   ≫   Sexually explicit scenes in movies and books were taboo under the old regime.  电影和书籍中露骨的性爱场景在旧体制下是禁忌的。
+2. (ADV) explicitly ADV 明确表达地; 公开显露地
+   ≫   The play was the first commercially successful work dealing explicitly with homosexuality.  该剧是首部在商业上获得成功的公然描写同性恋的作品。
+3. (ADJ) If you are explicit about something, you speak about it very openly and clearly. 直言不讳的 [v-link ADJ, oft ADJ 'about' n]
+   ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
+4. (ADV) explicitly ADV 直言不讳地 [ADV with v]
+   ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> implicit
+------------------------------------------------------------------------
+implicit    [美 ɪmˈplɪsɪt / 英 ɪmˈplɪsɪt]
+adj. 含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的
+★★ CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is implicit is expressed in an indirect way. 含蓄的
+   ≫   ...an implicit warning to the Moroccans not to continue or repeat the military actions they began a week ago.  …叫摩洛哥人不要继续或重复一周前开始的军事行动的含蓄警告。
+2. (ADV) implicitly ADV 含蓄地 [ADV with v]
+   ≫   The jury implicitly criticized the government by their verdict.  陪审团通过他们的裁决含蓄地批评了政府。
+3. (ADJ) If a quality or element is implicit in something, it is involved in it or is shown by it. 内含的 [正式] [v-link ADJ 'in' n]
+   ≫   Trust is implicit in the system.  信任是这种体制里内含的。
+4. (ADJ) If you say that someone has an implicit belief or faith in something, you mean that they have complete faith in it and no doubts at all. 绝对的 (信任)
+   ≫   He had implicit faith in the noble intentions of the Emperor.  他对皇帝的崇高旨意笃信不疑。
+5. (ADV) implicitly ADV 绝对地 [ADV after v]
+   ≫   I trust him implicitly.  我绝对信任他。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> intensity
+------------------------------------------------------------------------
+intensity    [美 ɪnˈtensəti / 英 ɪnˈtensəti]
+n. 强烈，剧烈；（光、声音等的）强度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The solemn intensity of Jade's gaze discomfited him. 在杰德强烈而严肃的凝视下他狼狈不堪。《柯林斯英汉双解大词典》
+≫   Everyone I know who kept it up at that intensity is burned-out. 我所认识的一直保持那样工作强度的人都早衰了。《柯林斯英汉双解大词典》
+≫   The intensity of the work left little room for personal grief or anxiety. 该工作的强度很少给个人留下悲伤或忧虑的机会。《柯林斯英汉双解大词典》
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> Attainable
+------------------------------------------------------------------------
+attainable    [美 ə'tenəbl / 英 ə'teɪnəbl]
+adj. 可得到的；可达到的；可到达的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is attainable can be achieved. 可达到的
+   ≫   It is unrealistic to believe perfection is an attainable goal.  相信可以达到完美是不现实的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> enterprise
+------------------------------------------------------------------------
+enterprise    [美 ˈentərpraɪz / 英 ˈentəpraɪz]
+n. 企业，事业单位；事业心，进取心；事业；创业，企业经营
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An enterprise is a company or business. 公司; 企业 [商业]
+   ≫   There are plenty of small industrial enterprises.  有很多小型的工业企业。
+2. (N-COUNT) An enterprise is something new, difficult, or important that you do or try to do. 事业
+   ≫   Horse breeding is indeed a risky enterprise.  养马的确是一项有风险的事业。
+3. (N-UNCOUNT) Enterprise is the activity of managing companies and businesses and starting new ones. 创业 [商业]
+   ≫   He is still involved in voluntary work promoting local enterprise.  他仍从事志愿工作推动当地创业。
+4. (N-UNCOUNT) Enterprise is the ability to think of new and effective things to do, together with an eagerness to do them. 开创力; 开拓精神 [表赞许]
+   ≫   ...the spirit of enterprise worthy of a free and industrious people.  …与一个自由勤劳的民族相称的开拓精神。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> snippet
+------------------------------------------------------------------------
+snippet    [英 'snɪpɪt /  'snɪpɪt]
+n. 小片；片断；不知天高地厚的年轻人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snippet of something is a small piece of it. 片段
+   ≫   ...snippets of popular classical music.  …流行古典音乐的片段。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+

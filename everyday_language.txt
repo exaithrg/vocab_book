@@ -290,3 +290,84 @@ n. （尤指学校或公园中的儿童）操场，游乐场；（某一群体�
    ≫   ...a seven-year-old boy playing in a school playground.  …一个在学校操场上玩耍的7岁男孩。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> rematch
+------------------------------------------------------------------------
+rematch    [美 'rimætʃ / 英 'riːmætʃ]
+n. 复赛；再匹配
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rematch is a second game that is played between two people or teams, for example because their first match was a draw or because there was a dispute about some aspect of it. 重赛
+   ≫   Duff said he would be demanding a rematch.  达夫说他会要求重赛。
+2. [美国英语] →see
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> plantium
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> platinum
+------------------------------------------------------------------------
+platinum    [美 ˈplætɪnəm / 英 ˈplætɪnəm]
+n. 铂，白金；白金销量（至少销出一百万张）；银灰色，青灰色
+adj. 铂的，白金的；（激光唱盘、唱片等）白金的；（头发）白金色的，银灰色的
+★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Platinum is a very valuable, silvery-grey metal. It is often used for making jewellery. 铂; 白金
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> rivaling
+------------------------------------------------------------------------
+rivaling
+v．与……竞争，与……相匹敌：与某人或某事物竞争，试图超越或达到相同的水平。
+★★★★ CET4 TEM4 rivalling,rivalled,rivals
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your rival is a person, business, or organization who you are competing or fighting against in the same area or for the same things. 对手
+   ≫   The world champion finished more than two seconds ahead of his nearest rival.  这位世界冠军领先离他最近的对手两秒多钟冲过终点。
+2. (N-COUNT) If you say that someone or something has no rivals or is without rival, you mean that it is best of its type. 可匹敌者
+   ≫   The area is famous for its wonderfully fragrant wine which has no rivals in the Rhone.  这一地区以其极为醇香的葡萄酒而闻名，这种酒在罗纳河流域没有可匹敌者。
+3. (V-T) If you say that one thing rivals another, you mean that they are both of the same standard or quality. 与…相匹敌
+   ≫   Cassette recorders cannot rival the sound quality of CDs.  盒式磁带录音机在音质上无法与CD相媲美。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> enterprise
+------------------------------------------------------------------------
+enterprise    [美 ˈentərpraɪz / 英 ˈentəpraɪz]
+n. 企业，事业单位；事业心，进取心；事业；创业，企业经营
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An enterprise is a company or business. 公司; 企业 [商业]
+   ≫   There are plenty of small industrial enterprises.  有很多小型的工业企业。
+2. (N-COUNT) An enterprise is something new, difficult, or important that you do or try to do. 事业
+   ≫   Horse breeding is indeed a risky enterprise.  养马的确是一项有风险的事业。
+3. (N-UNCOUNT) Enterprise is the activity of managing companies and businesses and starting new ones. 创业 [商业]
+   ≫   He is still involved in voluntary work promoting local enterprise.  他仍从事志愿工作推动当地创业。
+4. (N-UNCOUNT) Enterprise is the ability to think of new and effective things to do, together with an eagerness to do them. 开创力; 开拓精神 [表赞许]
+   ≫   ...the spirit of enterprise worthy of a free and industrious people.  …与一个自由勤劳的民族相称的开拓精神。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> snippet
+------------------------------------------------------------------------
+snippet    ['snɪpɪt / 英 'snɪpɪt]
+n. 小片；片断；不知天高地厚的年轻人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A snippet of something is a small piece of it. 片段
+   ≫   ...snippets of popular classical music.  …流行古典音乐的片段。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> warmly
+------------------------------------------------------------------------
+warmly    [美 ˈwɔːrmli / 英 ˈwɔːmli]
+adv. 热情地；温暖地；亲切地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I warmly welcome this decision. 我热烈欢迎这一决定。《牛津词典》
+≫   She embraced her son warmly. 她热情地拥抱儿子。《牛津词典》
+≫   He grasped my hand and shook it warmly. 他热情地抓住我的手握了起来。《牛津词典》
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
