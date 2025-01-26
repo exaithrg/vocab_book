@@ -609,3 +609,359 @@ n. 小片；片断；不知天高地厚的年轻人
    ≫   ...snippets of popular classical music.  …流行古典音乐的片段。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> emergent
+------------------------------------------------------------------------
+emergent    [美 ɪ'mɝdʒənt / 英 ɪ'mɜːdʒ(ə)nt]
+adj. 紧急的；浮现的；意外的；自然发生的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] An emergent country, political movement, or social group is one that is becoming powerful or coming into existence. (国家、政治运动或社会团体)新兴的; 兴起的
+   ≫   ...an emergent state.  ...一个新兴国家。
+   ≫   ...an emergent nationalist movement.  ...一次新兴民族主义运动。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> emergent
+------------------------------------------------------------------------
+emergent    [美 ɪˈmɜːrdʒənt / 英 ɪˈmɜːdʒənt]
+adj. 新兴的，处于发展初期的；（特征）突现的，突创的；（植物，尤指森林中的大树）突出的，露头的；（水生植物）露出水面的
+n. 突创特征；露出水面的植物，（高于林中其他树木的）露头树
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An emergent country, political movement, or social group is one that is becoming powerful or coming into existence. (国家、政治运动或社会团体)新兴的; 兴起的 [书面] [ADJ n]
+   ≫   ...an emergent state.  ...一个新兴国家。
+   ≫   ...an emergent nationalist movement.  ...一次新兴民族主义运动。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> representation
+------------------------------------------------------------------------
+representation    [美 ˌreprɪzenˈteɪʃ(ə)n / 英 ˌreprɪzenˈteɪʃ(ə)n]
+n. 代理人，代表；描绘，表现；表示，象征；表现物（尤指画或模型）；<正式>抗议，陈述；（感知理论用语）表象
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If a group or person has representation in a legislature or on a committee, someone in the legislature or on the committee supports them and makes decisions on their behalf. 代表
+   ≫   Puerto Ricans are U.S. citizens but they have no representation in Congress.  波多黎各人是美国公民，但是他们在国会中没有代表。
+2. (N-COUNT) You can describe a picture, model, or statue of a person or thing as a representation of them. 描写; 描绘 [正式]
+   ≫   ...a lifelike representation of Christ.  …对基督的生动描绘。
+
+========================================================================
+>>> pawsome
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [美 həˈloʊ / 英 həˈləʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+>>> magnificient
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> magnificent
+------------------------------------------------------------------------
+magnificent    [美 mæg'nɪfəsnt / 英 mæg'nɪfɪs(ə)nt]
+adj. 高尚的；壮丽的；华丽的；宏伟的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you say that something or someone is magnificent, you mean that you think they are extremely good, beautiful, or impressive. 出色的; 壮丽的
+   ≫   ...a magnificent country house in wooded grounds.  …林地中一座漂亮的村宅。
+2. (N-UNCOUNT) magnificence 出色; 壮丽
+   ≫   I shall never forget the magnificence of the Swiss mountains and the beauty of the lakes.  我永远也不会忘记瑞士山岳的壮美和湖泊的秀丽。
+
+========================================================================
+>>> obsolete
+------------------------------------------------------------------------
+obsolete    [美 ˌɑːbsəˈliːt / 英 ˈɒbsəliːt]
+adj. 淘汰的，废弃的；（生物特征的一部分）退化的
+vt. <美>淘汰（产品），废弃（想法）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is obsolete is no longer needed because something better has been invented. 被淘汰的
+   ≫   So much equipment becomes obsolete almost as soon as it's made.  很多设备几乎刚制造出来就过时了。
+
+========================================================================
+>>> osx
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> squeeze
+------------------------------------------------------------------------
+squeeze    [英 skwiːz / 美 skwiːz]
+v. 挤压，捏；挤出，榨出（液体等）；（使）挤入，塞入；为……挤出时间（squeeze someone/something in）；排挤出（squeeze someone/something out）；敲诈勒索，榨取；严格限制，紧缩（资金）；好不容易取得，勉强成功；紧紧闭上双眼；扣扳机射击，打一整发（子弹）；拍照；（桥牌）逼（对方）放弃一张赢墩牌，逼牌
+n. 挤压，捏；拥挤，塞满；挤出来的少量事物；紧缩，拮据；<美，非正式> 男朋友，女朋友；<非正式> 勒索（或敲诈）的钱；拥抱；（桥牌）紧逼打法（逼对手扔掉一张重要的牌）；压模，拓印；（棒球）抢分战术； <旧> 拥挤的社交舞会
+★★★ CET4 TEM4 squeezing,squeezed,squeezes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you squeeze something, you press it firmly, usually with your hands. (常指用手) 挤压; 紧捏
+   ≫   He squeezed her arm reassuringly.  他安慰地捏了捏她的手臂。
+2. (N-COUNT) Squeeze is also a noun. 紧捏; 挤压
+   ≫   I liked her way of reassuring you with a squeeze of the hand.  我喜欢她捏捏手来安慰人的方式。
+3. (V-T) If you squeeze a liquid or a soft substance out of an object, you get the liquid or substance out by pressing the object. 挤; 压榨 (液体等)
+   ≫   Joe put the plug in the sink and squeezed some detergent over the dishes.  乔把塞子插进水槽，往盘子上挤了些洗洁精。
+4. (V-T/V-I) If you squeeze a person or thing somewhere or if they squeeze there, they manage to get through or into a small space. 塞进; 挤进
+   ≫   They lowered him gradually into the cockpit. Somehow they squeezed him in the tight space, and strapped him in.  他们缓缓地把他向下放入驾驶舱，设法把他塞进那狭小的空间，并给系上了安全带。
+5. (N-SING) If you say that getting a number of people into a small space is a squeeze, you mean that it is only just possible for them all to get into it. 满塞 [非正式]
+
+========================================================================
+>>> unsqueeze
+------------------------------------------------------------------------
+unsqueeze
+解缩
+
+========================================================================
+>>> subscriptable
+------------------------------------------------------------------------
+subscriptable
+adj. 可下标访问的
+
+========================================================================
+>>> drop-in
+------------------------------------------------------------------------
+drop-in    [英 ˈdrɒp ɪn / 美 ˈdrɑːp ɪn]
+adj. （咨询、服务中心等）不用预约的；立即使用的；（座椅）等嵌入式的；插入即可使用的
+n. 非正式造访；不速之客（等于 dropper-in）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Drop-in centres or services provide information and help for people with particular problems, usually on a free and informal basis. 免费提供信息和帮助的(中心或服务) [ADJ n]
+   ≫   ...a drop-in centre for young mothers.  ...为年轻妈妈们免费提供信息和帮助的活动中心。
+
+========================================================================
+>>> drop-out
+------------------------------------------------------------------------
+drop-out    [英 drɒp aʊt]
+n. 任意球；中途退学的人
+dropping,dropped,drops
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASAL VERB) If someone drops out of college or a race, for example, they leave it without finishing what they started. 辍学
+   ≫   He'd dropped out of high school at the age of 16.  他16岁时就从高中退学了。
+
+========================================================================
+>>> dropout
+------------------------------------------------------------------------
+dropout    [美 ˈdrɑːpaʊt / 英 ˈdrɒpaʊt]
+n. 辍学者；隐士，遁世者；（英橄）以踢抛踢球重新开始开赛；信息漏失，信息失落；U形槽
+adj. 辍学的
+★ CET4 alsodrop-out
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you describe someone as a dropout, you disapprove of the fact that they have rejected the accepted ways of society, for example, by not having a regular job. 离经叛道者 [表不满]
+   ≫   ...long-haired, dope-smoking dropouts.  …蓄着长发，吸着大麻的离经叛道之人。
+2. (N-COUNT) A dropout is someone who has left school or college before they have finished their studies. 辍学者
+   ≫   ...high-school dropouts.  …中学辍学生。
+3. (ADJ) If you refer to the dropout rate, you are referring to the number of people who leave a school or college early, or leave a course or other activity before they have finished it. 辍学的 (比率); 中途退出的 [ADJ n]
+   ≫   The dropout rate among students is currently one in three.  学生的辍学率目前是1/3。
+
+========================================================================
+>>> dropin
+------------------------------------------------------------------------
+dropin
+n. 磁带杂音信息（落入）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This allows the schema owner to control which users have the privilege to create, alter, and drop objects in the schema (CREATEIN, ALTERIN, DROPIN privilege). 这使模式所有者能够控制哪些用户有权在这个模式中创建、修改和删除对象（CREATEIN、ALTERIN、DROPIN 特权）。
+
+========================================================================
+>>> interpretable
+------------------------------------------------------------------------
+interpretable    [美 ɪnˈtɜːrprətəbl / 英 ɪnˈtɜːprətəbl]
+adj. 可说明的；可判断的；可翻译的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The statement is interpretable to most people. 这项声明对大多数人来说是可解释的。
+≫   The law is therefore a story that is interpretable. 法律是可以被解释的故事。
+≫   Base on these concepts, the fuzzy systems are interpretable. 基于这些概念的模糊系统具有可理解性。
+
+========================================================================
+>>> sprawling
+------------------------------------------------------------------------
+sprawling    [美 ˈsprɔːlɪŋ / 英 ˈsprɔːlɪŋ]
+adj. 蔓延的，杂乱延伸的
+v. 伸开四肢坐、躺或倒下；蔓延，杂乱无序地拓展（sprawl 的现在分词）
+★ CET6+ TEM8 sprawling,sprawled,sprawls
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you sprawl somewhere, you sit or lie down with your legs and arms spread out in a careless way. 伸开四肢坐着; 摊开四肢躺着
+   ≫   She sprawled on the bed as he had left her, not even moving to cover herself up.  他离开她后，她摊开四肢躺在床上，甚至懒得动动把自己盖上。
+2. (PHRASAL VERB) Sprawl out means the same as . 伸开四肢坐着; 摊开四肢躺着
+   ≫   He would take two aspirin and sprawl out on his bed.  他会吃两片阿斯匹林，然后摊开四肢躺在床上。
+3. (V-I) If you say that a place sprawls, you mean that it covers a large area of land. 延伸
+   ≫   The State Recreation Area sprawls over 900 acres on the southern tip of Key Biscayne.  州立休闲区占地九百多英亩，地处基·比斯坎南端。
+4. (N-UNCOUNT) You can use sprawl to refer to an area where a city has grown outward in an uncontrolled way. (城市的) 无计划扩张区域
+   ≫   The whole urban sprawl of Ankara contains over 2.6 million people.  整个安卡拉城区总共容纳了260万以上的人口。
+
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [美 ˈsentɪmənt / 英 ˈsentɪmənt]
+n. 观点，看法，情绪；多愁善感，伤感情绪
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+>>> schoolmate
+------------------------------------------------------------------------
+schoolmate    [美 'skʊl'met / 英 'skuːlmeɪt]
+n. 同学；同窗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft with poss] A schoolmate is a child who goes to the same school as you, especially one who is your friend. 同学
+   ≫   He started the magazine with a schoolmate.  他和他的一个同学创办了那份杂志。
+
+========================================================================
+>>> classmate
+------------------------------------------------------------------------
+classmate    [美 'klæsmet / 英 'klɑːsmeɪt]
+n. 同班同学
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your classmates are students who are in the same class as you at school or college. 同班同学
+
+========================================================================
+>>> schoolmate
+------------------------------------------------------------------------
+schoolmate    [美 'skʊl'met / 英 'skuːlmeɪt]
+n. 同学；同窗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft with poss] A schoolmate is a child who goes to the same school as you, especially one who is your friend. 同学
+   ≫   He started the magazine with a schoolmate.  他和他的一个同学创办了那份杂志。
+
+========================================================================
+>>> classmate
+------------------------------------------------------------------------
+classmate    [美 'klæsmet / 英 'klɑːsmeɪt]
+n. 同班同学
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your classmates are students who are in the same class as you at school or college. 同班同学
+
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [英 ˈsentɪmənt / 美 ˈsentɪmənt]
+n. 观点，看法，情绪；多愁善感，伤感情绪
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+>>> sentiment
+------------------------------------------------------------------------
+sentiment    [美 ˈsentɪmənt / 英 ˈsentɪmənt]
+n. 观点，看法，情绪；多愁善感，伤感情绪
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A sentiment that people have is an attitude which is based on their thoughts and feelings. 情绪
+   ≫   Public sentiment rapidly turned anti-American.  公众的情绪迅速转向反美。
+   ≫   He's found growing sentiment for military action.  他已经发现支持军事行动的情绪在日益增长。
+2. (N-COUNT) A sentiment is an idea or feeling that someone expresses in words. 观点; 感想
+   ≫   I must agree with the sentiments expressed by John Prescott.  我必须同意约翰·普雷斯科特表达的观点。
+3. (N-UNCOUNT) Sentiment is feelings such as pity or love, especially for things in the past, and may be considered exaggerated and foolish. 伤感; 感情
+   ≫   Laura kept that letter out of sentiment.  劳拉出于伤感保留了那封信。
+
+========================================================================
+>>> schoolmate
+------------------------------------------------------------------------
+schoolmate    [美 ˈskuːlmeɪt / 英 ˈskuːlmeɪt]
+n. 同学；同窗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A schoolmate is a child who goes to the same school as you, especially one who is your friend. 同学 [英国英语] [oft with poss]
+   ≫   He started the magazine with a schoolmate.  他和他的一个同学创办了那份杂志。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> classmate
+------------------------------------------------------------------------
+classmate    [美 ˈklæsmeɪt / 英 ˈklɑːsmeɪt]
+n. 同班同学
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your classmates are students who are in the same class as you at school or college. 同班同学
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> candidate
+------------------------------------------------------------------------
+candidate    [美 ˈkændɪdət / 英 ˈkændɪdət]
+n. 候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者
+★★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A candidate is someone who is being considered for a position, for example someone who is running in an election or applying for a job. 候选人
+   ≫   The Democratic candidate is still leading in the polls.  那名民主党候选人仍在民意测验中领先。
+   ≫   He is a candidate for the office of governor.  他是州长的候选人。
+2. (N-COUNT) A candidate is someone who is studying for a degree at a college. 攻读学位者 [美国英语]
+   ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
+3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
+   ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> prohibited
+------------------------------------------------------------------------
+prohibited    [美 prəˈhɪbɪtɪd / 英 prəˈhɪbɪtɪd]
+adj. 被禁止的
+v. （通过法律、条例等）禁止；阻止，使不可能（prohibit 的过去式和过去分词）
+★★ CET4 TEM4 prohibiting,prohibited,prohibits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a law or someone in authority prohibits something, they forbid it or make it illegal. 禁止 [正式]
+   ≫   ...a law that prohibits tobacco advertising in newspapers and magazines.  …一项禁止在报纸和杂志上刊登烟草广告的法律。
+   ≫   Fishing is prohibited.  捕鱼是受禁止的。
+2. (N-UNCOUNT) prohibition N-UNCOUNT 禁止
+   ≫   The air force and the navy retain their prohibition of women on air combat missions.  空军和海军都保留了对女性空中作战任务的禁止。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> causal
+------------------------------------------------------------------------
+causal    [美 ˈkɔːz(ə)l / 英 ˈkɔːz(ə)l]
+adj. 因果关系的，构成原因的；（连接词）表示原因的；由某种原因引起的
+n. 表示原因的连词
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If there is a causal relationship between two things, one thing is responsible for causing the other thing. 因果关系的 [正式] [usu ADJ n]
+   ≫   Rawlins stresses that it is impossible to prove a causal link between the drug and the deaths.  罗林斯强调说证实毒品与死亡之间的因果关系是不可能的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> casual
+------------------------------------------------------------------------
+casual    [美 ˈkæʒuəl / 英 ˈkæʒuəl]
+adj. 休闲的，便装的；随便的，非正式的；漫不经心的，随意的；临时的，短期的；碰巧的，偶然的；不认真的，马虎的；不定期的，偶尔的；感情不深的，疏远的
+n. 便服，便装（casuals）；临时工；<英>散漫青年；待命士兵
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are casual, you are, or you pretend to be, relaxed and not very concerned about what is happening or what you are doing. 放松的
+   ≫   It's difficult for me to be casual about anything.  要我轻松待事有难度。
+2. (ADV) casually ADV 放松地 [ADV with v]
+   ≫   "No need to hurry," Ben said casually.  “不必匆忙，”本轻松地说道。
+3. (ADJ) A casual event or situation happens by chance or without planning. 不经意的 [ADJ n]
+   ≫   What you mean as a casual remark could be misinterpreted.  你不经意所说的话可能会被误解。
+4. (ADJ) Casual clothes are ones that you normally wear at home or on holiday, and not on formal occasions. (服装) 休闲的 [ADJ n]
+   ≫   I also bought some casual clothes for the weekend.  我还买了些休闲服准备周末穿。
+5. (ADV) casually ADV 休闲地
+   ≫   They were casually dressed.  他们穿着休闲。
+6. (ADJ) Casual work is done for short periods and not on a permanent or regular basis. 临时的 [英国英语]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
