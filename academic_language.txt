@@ -965,3 +965,61 @@ n. 便服，便装（casuals）；临时工；<英>散漫青年；待命士兵
 6. (ADJ) Casual work is done for short periods and not on a permanent or regular basis. 临时的 [英国英语]
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> arange
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [英 həˈləʊ / 美 həˈloʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> legacy
+------------------------------------------------------------------------
+legacy    [美 ˈleɡəsi / 英 ˈleɡəsi]
+n. 遗产，遗赠物；遗留问题，后遗症
+adj. （软件或硬件）已过时但因使用范围广而难以替代的
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> squeeze
+------------------------------------------------------------------------
+squeeze    [美 skwiːz / 英 skwiːz]
+v. 挤压，捏；挤出，榨出（液体等）；（使）挤入，塞入；为……挤出时间（squeeze someone/something in）；排挤出（squeeze someone/something out）；敲诈勒索，榨取；严格限制，紧缩（资金）；好不容易取得，勉强成功；紧紧闭上双眼；扣扳机射击，打一整发（子弹）；拍照；（桥牌）逼（对方）放弃一张赢墩牌，逼牌
+n. 挤压，捏；拥挤，塞满；挤出来的少量事物；紧缩，拮据；<美，非正式> 男朋友，女朋友；<非正式> 勒索（或敲诈）的钱；拥抱；（桥牌）紧逼打法（逼对手扔掉一张重要的牌）；压模，拓印；（棒球）抢分战术； <旧> 拥挤的社交舞会
+★★★ CET4 TEM4 squeezing,squeezed,squeezes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you squeeze something, you press it firmly, usually with your hands. (常指用手) 挤压; 紧捏
+   ≫   He squeezed her arm reassuringly.  他安慰地捏了捏她的手臂。
+2. (N-COUNT) Squeeze is also a noun. 紧捏; 挤压
+   ≫   I liked her way of reassuring you with a squeeze of the hand.  我喜欢她捏捏手来安慰人的方式。
+3. (V-T) If you squeeze a liquid or a soft substance out of an object, you get the liquid or substance out by pressing the object. 挤; 压榨 (液体等)
+   ≫   Joe put the plug in the sink and squeezed some detergent over the dishes.  乔把塞子插进水槽，往盘子上挤了些洗洁精。
+4. (V-T/V-I) If you squeeze a person or thing somewhere or if they squeeze there, they manage to get through or into a small space. 塞进; 挤进
+   ≫   They lowered him gradually into the cockpit. Somehow they squeezed him in the tight space, and strapped him in.  他们缓缓地把他向下放入驾驶舱，设法把他塞进那狭小的空间，并给系上了安全带。
+5. (N-SING) If you say that getting a number of people into a small space is a squeeze, you mean that it is only just possible for them all to get into it. 满塞 [非正式]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+

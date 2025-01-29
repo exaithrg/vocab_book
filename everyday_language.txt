@@ -631,3 +631,101 @@ n. 独居，独处，孤独；偏僻的地方，无人居住的地方
    ≫   He enjoyed his moments of solitude before the pressures of the day began in earnest.  他很喜欢一天的压力真正开始前的独处时刻。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> innocent
+------------------------------------------------------------------------
+innocent    [美 ˈɪnəs(ə)nt / 英 ˈɪnəs(ə)nt]
+adj. 天真的，幼稚的；清白的，无罪的；无辜受害的；没有恶意的，无冒犯之意的
+n. 天真无邪的人，幼稚的人；无辜的受害者（尤指犯罪或战争的受害者）
+【名】 （Innocent）（英、西）因诺森特，（法）伊诺桑（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If someone is innocent, they did not commit a crime that they have been accused of. 清白的
+   ≫   He was sure that the man was innocent of any crime.  他确信此人是清白无罪的。
+2. (ADJ) If someone is innocent, they have no experience or knowledge of the more complex or unpleasant aspects of life. 阅历浅的; 天真的
+   ≫   They seemed so young and innocent.  他们看上去如此少不更事。
+3. (N-COUNT) An innocent is someone who is innocent. 阅历浅的人; 天真的人
+   ≫   She had always regarded Greg as a hopeless innocent where women were concerned.  她过去一直认为格雷格在关于女人方面是一个不可救药的无知者。
+4. (ADV) innocently ADV 天真地
+   ≫   The baby gurgled innocently on the bed.  那个婴儿在床上天真地咯咯笑。
+5. (ADJ) Innocent people are those who are not involved in a crime or conflict, but are injured or killed as a result of it. 无辜受害的
+   ≫   All those wounded were innocent victims.  所有受伤的人都是无辜的受害者。
+6. (ADJ) An innocent question, remark, or comment is not intended to offend or upset people, even if it does so. 无恶意的
+   ≫   It was probably an innocent question, but Michael got flustered anyway.  那也许是个没有恶意的问题，但迈克尔还是变得紧张不安。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> purity
+------------------------------------------------------------------------
+purity    [美 'pjʊrəti / 英 'pjʊərɪtɪ]
+n. [化学] 纯度；纯洁；纯净；纯粹
+n. (Purity)人名；(肯)普丽蒂
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What do you think politics is, a game of moral purity? 你认为政治是什么，是关于道德纯洁的游戏？
+≫   He attacks your purity with lust, and he attacks your serenity with worry. 他攻击欲望你的纯度，他用焦虑攻击你的宁平静。
+≫   Growing up in a Christian home, steeped in "true love waits, " at one time in my life I hardly could grasp what a test of purity would look like. 在一个基督教家庭里长大，沉浸在“真爱要等待”的教育中。 在我的生命中，有一段时间，我很难想象纯净测验会是什么样子的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> eternal
+------------------------------------------------------------------------
+eternal    [美 ɪˈtɜːrn(ə)l / 英 ɪˈtɜːn(ə)l]
+adj. 永恒的，永存的；似乎无休无止的，没完没了的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is eternal lasts forever. 永恒的
+   ≫   ...the quest for eternal youth.  …对永远年轻的追求。
+2. (ADV) eternally ADV 永恒地
+   ≫   She is eternally grateful to her family for their support.  她因家人的支持对他们永存感激之心。
+3. (ADJ) If you describe something as eternal, you mean that it seems to last forever, often because you think it is boring or annoying. 无休止的
+   ≫   In the background was that eternal hum.  背景里是那没完没了的哼哼声。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> odyssey
+------------------------------------------------------------------------
+Odyssey    ['ɑdəsi]
+n. 奥德赛（古希腊史诗）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] An odyssey is a long exciting journey on which a lot of things happen. 长而刺激的行程
+   ≫   The march to Travnik was the final stretch of a 16-hour odyssey.  向特拉夫尼克行军是长达16小时艰险旅程的最后一段。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> blast
+------------------------------------------------------------------------
+blast    [美 blæst / 英 blɑːst]
+n. 爆炸；冲击波；一阵
+vi. 猛攻
+vt. 爆炸；损害；使枯萎
+n. (Blast)人名；(德)布拉斯特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A blast is a big explosion, especially one caused by a bomb. (尤指炸弹引起的) 大爆炸
+   ≫   250 people were killed in the blast.  250人在这次大爆炸中丧生。
+2. (V-T) If something is blasted into a particular place or state, an explosion causes it to be in that place or state. If a hole is blasted in something, it is created by an explosion. 由爆炸生成; 由爆炸引起
+   ≫   There is a risk that toxic chemicals might be blasted into the atmosphere.  有毒化学品有爆炸后进入空气的危险。
+   ≫   The explosion which followed blasted out the wall of her apartment.  随后的爆炸炸开了她房间的那面墙。
+3. (V-T) If workers are blasting rock, they are using explosives to make holes in it or destroy it, for example, so that a road or tunnel can be built. 用炸药炸
+   ≫   Local workmen were blasting the rock face beside the track in order to make it wider.  当地工人正在用炸药炸开小路旁边的岩石面以便将其拓宽。
+4. [journalism] To blast someone means to shoot them with a gun. 向…射击
+   ≫   A son blasted his father to death after a lifetime of bullying, a court was told yesterday.  昨天有人告知法庭，一个儿子因长期受欺凌而开枪打死了其父亲。
+5. (N-COUNT) Blast is also a noun. 枪击
+   ≫   Anthony died from a shotgun blast to the face.  安东尼因被猎枪击中面部而死。
+6. (V-T) If someone blasts their way somewhere, they get there by shooting at people or causing an explosion. 借助射击或爆炸打开 (通道)
+   ≫   The police were reported to have blasted their way into the house using explosives.  据报道，警察已经借助炸药开道冲进了那所房子。
+7. (V-T) If something blasts water or air somewhere, it sends out a sudden, powerful stream of it. 强速喷射 (水流或气流)
+   ≫   Blasting cold air over it makes the water evaporate.  向它上面快速喷冷气可使水蒸发掉。
+8. (N-COUNT) Blast is also a noun. 强劲的 (气或水) 流
+   ≫   Blasts of cold air swept down from the mountains.  阵阵强冷气流从山上席卷下来。
+9. (V-T/V-I) If you blast something such as a car horn, or if it blasts, it makes a sudden, loud sound. If something blasts music, or music blasts, the music is very loud. 突然大声按响; 大声放 (音乐); 突然发出巨响; (音乐) 大声播放
+   ≫   ...drivers who do not blast their horns.  …那些没有狂按喇叭的驾驶员。
+10. (N-COUNT) Blast is also a noun. (喇叭或音乐等的) 大声鸣响
+   ≫   The buzzer suddenly responded in a long blast of sound.  蜂鸣器突然以一声长长的鸣响做出回应。
+11. [非正式] If you say that something was a blast, you mean that you enjoyed it very much. 奇妙的感受
+   ≫   He went sledding with his daughter. "It was a blast," he said later.  他和女儿去坐雪橇玩了。“那真是一次奇妙的感受，”他后来说。
+12. (PHRASE) If something such as a radio or a heater is on full blast, or on at full blast, it is producing as much sound or power as it is able to. 最大音量; 最大限量
+   ≫   In many of those homes the television is on full blast 24 hours a day.  许多家庭一天24小时都把电视开到最大音量。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
