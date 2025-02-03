@@ -729,3 +729,287 @@ CET4 TEM4
    ≫   In many of those homes the television is on full blast 24 hours a day.  许多家庭一天24小时都把电视开到最大音量。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> hilarious
+------------------------------------------------------------------------
+hilarious    [美 hɪ'lɛrɪəs / 英 hɪ'leərɪəs]
+adj. 欢闹的；非常滑稽的；喜不自禁的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is hilarious, it is extremely funny and makes you laugh a lot. 令人捧腹大笑的
+   ≫   We thought it was hilarious when we first heard about it.  我们第一次听说这件事的时候觉得它很可笑。
+2. (ADV) hilariously 令人大笑地
+   ≫   She found it hilariously funny.  她觉得这事儿滑稽极了。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> grin
+------------------------------------------------------------------------
+grin    [美 ɡrɪn / 英 grɪn]
+v. 露齿而笑，咧着嘴笑
+n. 露齿笑
+n. (Grin)人名；(法)格兰；(俄、罗、英)格林
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When you grin, you smile broadly. 咧嘴笑
+   ≫   He grins, delighted at the memory.  想起往事，他咧嘴笑了。
+   ≫   Sarah tried several times to catch Philip's eye, but he just grinned at her.  萨拉几次试图吸引菲利普的注意，但他只是对她咧嘴笑笑。
+2. (N-COUNT) A grin is a broad smile. 咧嘴笑
+   ≫   ...a big grin on her face.  …她脸上一个大大的笑容。
+3. (PHRASE) If you grin and bear it, you accept a difficult or unpleasant situation without complaining because you know there is nothing you can do to make things better. 默默地忍受
+   ≫   They cannot stand the sight of each other, but they will just have to grin and bear it.  他们看都不想看对方一眼，但又不得不默默忍受。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> contemporary
+------------------------------------------------------------------------
+contemporary    [美 kənˈtempəreri / 英 kənˈtemp(ə)rəri]
+adj. 当代的，现代的；同时期的，同时代的
+n. 同时代的人；同龄人，同辈
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Contemporary things are modern and relate to the present time. 当代的
+   ≫   She writes a lot of contemporary music for people like Whitney Houston.  她为惠特尼·休斯敦等人创作大量当代音乐作品。
+2. (ADJ) Contemporary people or things were alive or happened at the same time as something else you are talking about. 同时代的
+   ≫   ...drawing upon official records and the reports of contemporary witnesses.  …借助官方记录以及当时目击者的证言。
+3. (N-COUNT) Someone's contemporary is a person who is or was alive at the same time as them. 同时代的人
+   ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> rule of ive
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> rule of five
+------------------------------------------------------------------------
+rule of five
+五法则：一种用于评估化合物药物性质的规则，包括分子量、脂水分配系数、氢键供体数、氢键受体数和旋转键数。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The earliest research report on the five-second rule is attributed to Jillian Clarke, a high school student participating in a research project at the University of Illinois. 最早的关于五秒定律的研究报告被认为是吉莉安·克拉克所写，她是一名高中生，参加了伊利诺伊大学的一个研究项目。
+≫   rule of thumb for thawing a frozen turkey in the refrigerator is to allow a day for every five pounds of meat. 专家说，要给冰箱里的冰冻火鸡解冻，一条很好的经验法则是每五磅肉留出一天时间解冻。
+≫   That is the percentage of your retirement savings that should be fully protected from losing value. So, for a sixty-five-year-old, the rule works like this. 他说，在你年龄后面加个百分号，就是你应该全力保护防止贬值的退休积蓄的比例。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> eye
+------------------------------------------------------------------------
+eye    [美 aɪ / 英 aɪ]
+n. 眼睛；视力；眼光；见解，观点
+vt. 注视，看
+n. (Eye)人名；(德)艾厄；(英)艾
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your eyes are the parts of your body with which you see. 眼睛
+   ≫   I opened my eyes and looked.  我睁开眼睛看了看。
+   ≫   ...a tall, thin white-haired lady with piercing dark brown eyes.  …有一双深邃的深棕色眼睛的一位瘦高个白发女士。
+2. (V-T) If you eye someone or something in a particular way, you look at them carefully in that way. 注视
+   ≫   Sally eyed Claire with interest.  萨莉饶有兴味地注视着克莱尔。
+   ≫   We eyed each other thoughtfully.  我们若有所思地看了看彼此。
+3. (V) to look at in a manner indicating sexual interest; ogle 色迷迷地看; 送秋波 (Also eye up)
+4. (N-COUNT) You use eye when you are talking about a person's ability to judge things or about the way in which they are considering or dealing with things. 眼光
+   ≫   William was a man of discernment, with an eye for quality.  威廉是个有鉴赏力的人，对于品质的优劣很有眼力。
+   ≫   He first learned to fish under the watchful eye of his grandmother.  他最初在祖母留心的眼光下学习钓鱼。
+5. → see also
+6. [强调] If you say that something happens before your eyes, in front of your eyes, or under your eyes, you are emphasizing that it happens where you can see it clearly and often implying that it is surprising or unpleasant. 在…眼前/下
+   ≫   A lot of them died in front of our eyes.  他们中有很多死在我们眼前。
+7. (PHRASE) If you cast your eye or run your eye over something, you look at it or read it quickly. 投以一瞥
+   ≫   I would be grateful if he could cast an expert eye over it and tell me what he thought of it.  如果他能以专家的眼光看一下它并告诉我他的想法，我将不胜感激。
+8. (PHRASE) If something catches your eye, you suddenly notice it. 突然注意到
+   ≫   As she turned back, a movement across the lawn caught her eye.  当她转身时，草地那头的一个动静引起了她的注意。
+9. → see also
+10. (PHRASE) If you catch someone's eye, you do something to attract their attention, so that you can speak to them. 吸引注意
+   ≫   He tried to catch Annie's eye as he walked by her seat.  从安妮座位旁走过时，他设法吸引她的注意。
+11. (PHRASE) If you close your eyes to something bad or if you shut your eyes to it, you ignore it. 不理会某事物
+   ≫   Most governments must simply be shutting their eyes to the problem.  大多数政府定会干脆不理会这个问题。
+12. [非正式] If you cry your eyes out, you cry very hard. 痛哭
+   ≫   He didn't mean to be cruel but I cried my eyes out.  他并非有意苛刻，但我还是大哭了一场。
+13. (PHRASE) If there is something as far as the eye can see, there is a lot of it and you cannot see anything else beyond it. 视线所能及
+   ≫   There are pine trees as far as the eye can see.  极目望去只见松林。
+14. (PHRASE) If you say that someone has an eye for something, you mean that they are good at noticing it or making judgments about it. 对…有眼力; 对…有判别力
+   ≫   Susan has a keen eye for detail, so each dress is beautifully finished.  苏珊对细节有敏锐的眼力，所以每件衣服都完成得相当漂亮。
+15. (PHRASE) You use expressions such as in his eyes or to her eyes to indicate that you are reporting someone's opinion and that other people might think differently. 在某人看来
+   ≫   The other serious problem in the eyes of the new government is communalism.  在新政府看来，另外一个严峻的问题是地方自治主义。
+16. [非正式] If you keep your eyes open or keep an eye out for someone or something, you watch for them carefully. 密切注意
+   ≫   I ask the mounted patrol to keep their eyes open.  我要求巡逻骑警密切注意。
+17. (PHRASE) If you keep an eye on something or someone, you watch them carefully, for example to make sure that they are satisfactory or safe, or not causing trouble. 照看; 留意
+   ≫   I went for a run there, keeping an eye on the children the whole time.  我去那里跑步，其间始终留意着孩子们。
+18. [journalism] If you say that all eyes are on something or that the eyes of the world are on something, you mean that everyone is paying careful attention to it and what will happen. 众目关注
+   ≫   All eyes will be on tomorrow's vote.  明天的投票将是众目所注。
+19. (PHRASE) If someone has their eye on you, they are watching you carefully to see what you do. 密切注意某人
+   ≫   A spokesman for the shop said: "He comes here quite a lot. We've had our eye on him before."  该商店一位发言人说：“他常常光顾这里。我们以前就注意他了。”
+20. [非正式] If you have your eye on something, you want to have it. 看中
+   ≫   If you're saving up for a new outfit you've had your eye on, cheap dinners for a month might let you buy it.  如果你想省钱买一套你看中的新套装，吃一个月的廉价晚餐也许会让你买得起。
+21. (PHRASE) If you say that you did something with your eyes open or with your eyes wide open, you mean that you knew about the problems and difficulties that you were likely to have. 负责任地
+   ≫   We want all our members to undertake this trip responsibly, with their eyes open.  我们希望我们所有的成员都明白其中的困难、负责任地进行这次旅行。
+22. (PHRASE) If something opens your eyes, it makes you aware that something is different from the way that you thought it was. (开)眼界
+   ≫   Watching your child explore the world about her can open your eyes to delights long forgotten.  看着你的孩子探索她周围的世界能使你看到遗忘很久的快乐。
+23. (PHRASE) If you see eye to eye with someone, you agree with them and have the same opinions and views. (与某人) 看法一致
+   ≫   Yuriko saw eye to eye with Yul on almost every aspect of the production.  百合子和尤尔几乎在产品的每一个方面都意见一致。
+24. (PHRASE) When you take your eyes off the thing you have been watching or looking at, you stop looking at it. 把目光移开
+   ≫   She took her eyes off the road to glance at me.  她把目光移开马路，瞥了我一眼。
+25. to turn a blind eye →see
+26. to feast your eyes →see
+27. in your mind's eye →see
+28. (PHRASE) 
+29. (N-COUNT) An eye is a small metal loop that a hook fits into, as a fastening on a piece of clothing. (衣服搭扣之) 环扣
+   ≫   There were lots of hooks and eyes in Victorian costumes!  维多利亚时代的服装上有很多钩子和环扣！
+30. (N-COUNT) The eye of a needle is the small hole at one end that the thread passes through. (针) 眼
+   ≫   The only difficult part was threading the cotton through the eye of the needle!  唯一困难的部分是将棉线穿过针眼！
+31. (N-SING) The eye of a storm, tornado, or hurricane is the centre of it. (暴风雨、龙卷风或飓风的) 中心; (龙卷风、飓风的) 眼
+   ≫   The eye of the hurricane hit Florida just south of Miami.  飓风中心袭击了迈阿密正南面的佛罗里达州。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> emplace
+------------------------------------------------------------------------
+emplace    [英 ɪm'pleɪs]
+vt. 安置就位；安放，放列
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to put in place or position 安放
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> naive
+------------------------------------------------------------------------
+naive    [美 naɪ'iv / 英 naɪ'iːv; nɑː'iːv]
+adj. 天真的,幼稚的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone as naive, you think they lack experience and so expect things to be easy or people to be honest or kind. 幼稚的
+   ≫   It's naive to think that teachers are always tolerant.  认为老师总是很宽容是幼稚的。
+   ≫   Their view was that he had been politically naive.  他们的看法是，他在政治上曾是幼稚的。
+2. (ADV) naively 幼稚地
+   ≫   ...naively applying Western solutions to Eastern problems.  …幼稚地用西方的办法来解决东方的问题。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> mending
+------------------------------------------------------------------------
+mending    [英 'mendɪŋ /  'mendɪŋ]
+n. 修补；修补工作
+v. 修补（mend的现在分词）；修理
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [老式] Mending is the sewing and repairing of clothes that have got holes in them. 缝补 → see also
+   ≫   Who will then do the cooking, the washing, the mending?  那么，谁来做饭、洗衣、缝补呢？
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> thorns
+------------------------------------------------------------------------
+thorns    [美 θɔrnz / 英 θɔːnz]
+n. [植] 刺，刺尖（thorn的复数形式）；[植] 荆棘
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Thorns are the sharp points on some plants and trees, for example, on a rose bush. 刺
+   ≫   Roses will always have thorns but with care they can be avoided.  玫瑰总有刺，但是只要小心，还是可以避开刺。
+2. (N-VAR) A thorn or a thorn bush or a thorn tree is a bush or tree which has a lot of thorns on it. 带刺灌木丛; 带刺的树
+   ≫   ...the shade of a thorn bush.  …一棵带刺灌木的树阴。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> respiration
+------------------------------------------------------------------------
+respiration    [美 ,rɛspə'reʃən / 英 respɪ'reɪʃ(ə)n]
+n. 呼吸；呼吸作用
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [医学] Your respiration is your breathing. 呼吸 → see also
+   ≫   His respiration grew fainter throughout the day.  一天当中，他的呼吸越来越微弱。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> aqua
+------------------------------------------------------------------------
+aqua    [美 ˈɑːkwə / 英 ˈækwə]
+n. 水；溶液；浅绿色
+adj. 浅绿色的
+n. （Aqua）人名；（卢旺）阿卡
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (COLOR) Aqua is the same as the colour . 浅绿色; 水绿色
+   ≫   ...floor-length curtains in restful aqua and lavender colours.  ...令人悦目的浅绿和淡紫色相间的落地窗帘。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> affinity
+------------------------------------------------------------------------
+affinity    [美 ə'fɪnəti / 英 ə'fɪnɪtɪ]
+n. 密切关系；吸引力；姻亲关系；类同
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-SING) If you have an affinity with someone or something, you feel that you are similar to them or that you know and understand them very well. 亲切感
+   ≫   He has a close affinity with the landscape and people he knew when he was growing up.  他对他成长过程中所熟悉的景色和人们有一种很强的亲切感。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> piercing
+------------------------------------------------------------------------
+piercing    [美 'pɪrsɪŋ / 英 'pɪəsɪŋ]
+adj. 刺穿的；敏锐的；尖刻的；打动人心的
+n. 熔化穿孔
+v. 刺穿；感动；洞察（pierce的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A piercing sound or voice is high-pitched and very sharp and clear in an unpleasant way. 刺耳的
+   ≫   A piercing scream split the air.  一声刺耳的尖叫划破天空。
+2. [书面] If someone has piercing eyes or a piercing stare, they seem to look at you very intensely. (目光) 锐利的
+   ≫   ...his sandy blond hair and piercing blue eyes.  …他那淡金色的头发和犀利的蓝眼睛。
+3. (ADJ) A piercing wind makes you feel very cold. 刺骨的
+   ≫   Warm clothing is recommended as the wind can be piercing.  寒风刺骨，建议穿暖和些的衣服。
+4. →see
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> pierce
+------------------------------------------------------------------------
+pierce    [美 pɪrs / 英 pɪəs]
+vt. 刺穿；洞察；响彻；深深地打动
+vi. 进入；透入
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If a sharp object pierces something, or if you pierce something with a sharp object, the object goes into it and makes a hole in it. 刺穿
+   ≫   One bullet pierced the left side of his chest.  一颗子弹射入了他的左胸。
+2. (V-T) If you have your ears or some other part of your body pierced, you have a small hole made through them so that you can wear a piece of jewellery in them. 穿孔
+   ≫   I'm having my ears pierced on Saturday.  我星期六要去扎耳洞。
+3. (N-VAR) piercing 穿孔
+   ≫   ...health risks from needles used in piercing and tattooing.  …穿孔和纹身中使用针而带来的健康风险。
+   ≫   ...barefoot girls with braids and piercings.  …梳着辫子、扎有耳洞的赤脚姑娘们。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> braids
+------------------------------------------------------------------------
+braids    [breid]
+n. 辫子（braid的复数）；穗带
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Braid is a narrow piece of decorated cloth or twisted threads, which is used to decorate clothes or curtains. 流穗
+   ≫   ...a plum-coloured uniform with lots of gold braid.  …一套带很多金色流穗的梅色制服。
+2. [美国英语] If you braid hair or a group of threads, you twist three or more lengths of the hair or threads over and under each other to make one thick length. 把…编成辫子
+3. [美国英语] A braid is a length of hair that has been divided into three or more lengths and then braided. 发辫
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> pony
+------------------------------------------------------------------------
+pony    [美 'poni / 英 'pəʊnɪ]
+n. 矮种马；小型马
+adj. 小型的；每日摘要的
+vt. 付清
+vi. 付清
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pony is a small or young horse. 小马
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> ponytail
+------------------------------------------------------------------------
+ponytail    [美 'ponɪ'tel / 英 'pəʊnɪteɪl]
+n. 马尾辫
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ponytail is a hairstyle in which someone's hair is tied up at the back of the head and hangs down like a tail. 马尾发型
+   ≫   Her long, fine hair was swept back in a ponytail.  她那漂亮的长发向后梳成了一个马尾辫。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+

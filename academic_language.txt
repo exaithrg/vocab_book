@@ -1023,3 +1023,67 @@ n. 挤压，捏；拥挤，塞满；挤出来的少量事物；紧缩，拮据�
 5. (N-SING) If you say that getting a number of people into a small space is a squeeze, you mean that it is only just possible for them all to get into it. 满塞 [非正式]
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> algebra
+------------------------------------------------------------------------
+algebra    [美 ˈældʒɪbrə / 英 ˈældʒɪbrə]
+n. 代数；代数学
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Algebra is a type of mathematics in which letters are used to represent possible quantities. 代数
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> contemporary
+------------------------------------------------------------------------
+contemporary    [美 kənˈtempəreri / 英 kənˈtemp(ə)rəri]
+adj. 当代的，现代的；同时期的，同时代的
+n. 同时代的人；同龄人，同辈
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Contemporary things are modern and relate to the present time. 当代的
+   ≫   She writes a lot of contemporary music for people like Whitney Houston.  她为惠特尼·休斯敦等人创作大量当代音乐作品。
+2. (ADJ) Contemporary people or things were alive or happened at the same time as something else you are talking about. 同时代的
+   ≫   ...drawing upon official records and the reports of contemporary witnesses.  …借助官方记录以及当时目击者的证言。
+3. (N-COUNT) Someone's contemporary is a person who is or was alive at the same time as them. 同时代的人
+   ≫   Like most of my contemporaries, I grew up in a vastly different world.  像我同时代的大多数人一样，我在一个非常不同的世界里长大。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> brevity
+------------------------------------------------------------------------
+brevity    [美 'brɛvəti / 英 'brevɪtɪ]
+n. 简洁，简短；短暂，短促
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N 'of' n] The brevity of something is the fact that it is short or lasts for only a short time. 短暂
+   ≫   ...the hardship and brevity of human existence.  ...人类存在的艰难及短暂。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> omitted
+------------------------------------------------------------------------
+omitted    [美 əˈmɪtɪd; oʊˈmɪtɪd / 英 əʊˈmɪtɪd]
+adj. 省略了的；省去的
+v. 遗漏，省略（omit 的过去分词）
+★★ CET4 TEM4 omitting,omitted,omits
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you omit something, you do not include it in an activity or piece of work, deliberately or accidentally. 删节; 省略; 遗漏
+   ≫   Omit the salt in this recipe.  去掉这个食谱中的盐。
+2. (V-T) If you omit to do something, you do not do it. 未 (做) [正式]
+   ≫   His new girlfriend had omitted to tell him she was married.  他的新任女友没有跟他说她已经结婚。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> ambiguous
+------------------------------------------------------------------------
+ambiguous    [美 æmˈbɪɡjuəs / 英 æmˈbɪɡjuəs]
+adj. 模棱两可的，有歧义的；不明朗的，不确定的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in more than one way. 模棱两可的
+   ≫   This agreement is very ambiguous and open to various interpretations.  这个协议非常模棱两可，可以有多种解释。
+2. (ADV) ambiguously ADV 模棱两可地
+   ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
