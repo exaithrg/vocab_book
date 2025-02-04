@@ -1087,3 +1087,44 @@ adj. 模棱两可的，有歧义的；不明朗的，不确定的
    ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> boilerplate
+------------------------------------------------------------------------
+boilerplate    [英 ˈbɔɪləpleɪt / 美 ˈbɔɪlərpleɪt]
+n. 样板文件；引用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a form of mild-steel plate used in the production of boiler shells 锅炉壳用低碳钢板
+2. (V) to incorporate standard material automatically in a text 引用样板文件
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> deprecateion
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> deprecation
+------------------------------------------------------------------------
+deprecation    [美 ˌdeprəˈkeɪʃ(ə)n / 英 ˌdeprəˈkeɪʃ(ə)n]
+n. 祈免；贬低；反对；（计）弃用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Too much deprecation will make a Chihuahua dog. 过度贬低会使人变得像吉娃娃一样。
+≫   That’s self-deprecation, not service. 那是一种自我贬低，而非服务。
+≫   Service migration (deprecation and sunsetting). 服务迁移(启用和退役)。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> legacy
+------------------------------------------------------------------------
+legacy    [美 ˈleɡəsi / 英 ˈleɡəsi]
+n. 遗产，遗赠物；遗留问题，后遗症
+adj. （软件或硬件）已过时但因使用范围广而难以替代的
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+

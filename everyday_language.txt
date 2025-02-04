@@ -1013,3 +1013,97 @@ n. 马尾辫
    ≫   Her long, fine hair was swept back in a ponytail.  她那漂亮的长发向后梳成了一个马尾辫。
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> premissive
+------------------------------------------------------------------------
+Not found :(
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> permissive
+------------------------------------------------------------------------
+permissive    [美 pərˈmɪsɪv / 英 pəˈmɪsɪv]
+adj. 放任的，纵容的；<法律>允许而非强制的，可选择的；（生）允许的，许可的；（道路）公众获准可使用的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A permissive person, society, or way of behaving allows or tolerates things that other people disapprove of. 宽容的; 放任的
+   ≫   The call for law and order replaced the "permissive tolerance" of the 1960s.  对法治的呼吁取代了20世纪60年代的“姑息忍让”。
+2. (N-UNCOUNT) permissiveness N-UNCOUNT 宽容; 放任
+   ≫   Permissiveness and democracy go together.  宽容和民主并存。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> entitle
+------------------------------------------------------------------------
+entitle    [美 ɪn'taɪtl / 英 ɪn'taɪt(ə)l; en-]
+vt. 称做…；定名为…；给…称号；使…有权利
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you are entitled to something, you have the right to have it or do it. 使有权
+   ≫   If the warranty is limited, the terms may entitle you to a replacement or refund.  如果保修单有限制，这些条款可让你有权换货或退款。
+   ≫   They are entitled to first class travel.  他们有权享受头等舱旅行。
+2. [usu passive] If the title of something such as a book, film, or painting is, for example, "Sunrise," you can say that it is entitled "Sunrise." 给 (书、电影、画作等) 命名
+   ≫   ...a performance entitled "United States."  …一场名为“合众国”的演出。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> irrelevant
+------------------------------------------------------------------------
+irrelevant    [美 ɪ'rɛləvənt / 英 ɪ'relɪv(ə)nt]
+adj. 不相干的；不切题的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something such as a fact or remark as irrelevant, you mean that it is not connected with what you are discussing or dealing with. 不相关的
+   ≫   ...irrelevant details.  …一些不相关的细节。
+2. (ADJ) If you say that something is irrelevant, you mean that it is not important in a situation. 不重要的
+   ≫   The choice of subject matter is irrelevant.  主题的选择不重要。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> deprecation
+------------------------------------------------------------------------
+deprecation    [美 ˌdeprəˈkeɪʃ(ə)n / 英 ˌdeprəˈkeɪʃ(ə)n]
+n. 祈免；贬低；反对；（计）弃用
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Too much deprecation will make a Chihuahua dog. 过度贬低会使人变得像吉娃娃一样。
+≫   That’s self-deprecation, not service. 那是一种自我贬低，而非服务。
+≫   Service migration (deprecation and sunsetting). 服务迁移(启用和退役)。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> pottery
+------------------------------------------------------------------------
+pottery    [美 'pɑtəri / 英 'pɒt(ə)rɪ]
+n. 陶器；陶器厂；陶器制造术
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) You can use pottery to refer to pots, dishes, and other objects made from clay and then baked in an oven until they are hard. 陶器
+   ≫   ...a fine range of pottery.  …一系列的优质陶器。
+2. (N-UNCOUNT) You can use pottery to refer to the hard clay that some pots, dishes, and other objects are made of. 陶土
+   ≫   Some bowls were made of pottery and wood.  一些碗是用陶土和木头做的。
+3. (N-UNCOUNT) Pottery is the craft or activity of making objects out of clay. 制陶; 陶器制造术
+   ≫   He became interested in sculpting and pottery.  他变得对雕刻和制陶感兴趣了。
+4. (N-COUNT) A pottery is a factory or other place where pottery is made. 制陶厂
+   ≫   ...the many galleries and potteries which sell pieces by local artists.  …出售本地艺术家作品的诸多画廊和制陶厂。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> interpretable
+------------------------------------------------------------------------
+interpretable    [美 ɪnˈtɜːrprətəbl / 英 ɪnˈtɜːprətəbl]
+adj. 可说明的；可判断的；可翻译的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The statement is interpretable to most people. 这项声明对大多数人来说是可解释的。
+≫   The law is therefore a story that is interpretable. 法律是可以被解释的故事。
+≫   Base on these concepts, the fuzzy systems are interpretable. 基于这些概念的模糊系统具有可理解性。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> concatenated
+------------------------------------------------------------------------
+concatenated    [kɔn'kætineit]
+串级
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to link or join together, esp in a chain or series 连接
+2. (ADJ) linked or joined together 连接的
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
