@@ -1107,3 +1107,206 @@ concatenated    [kɔn'kætineit]
 2. (ADJ) linked or joined together 连接的
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> utility
+------------------------------------------------------------------------
+utility    [美 ju'tɪləti / 英 juːˈtɪlɪtɪ]
+n. 实用；效用；公共设施；功用
+adj. 实用的；通用的；有多种用途的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A utility is an important service such as water, electricity, or gas that is provided for everyone, and that everyone pays for. 公用事业
+   ≫   ...public utilities such as gas, electricity and phones.  …煤气、电和电话等公用事业。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> utilities
+------------------------------------------------------------------------
+utilities    [美 ju'tɪlətiz / 英 juː'tɪlɪtɪz]
+n. 公用事业；实用工具，[计] 实用程序；公共事业设备；公用程式（utility的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A utility is an important service such as water, electricity, or gas that is provided for everyone, and that everyone pays for. 公用事业
+   ≫   ...public utilities such as gas, electricity and phones.  …煤气、电和电话等公用事业。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> utility
+------------------------------------------------------------------------
+utility    [美 ju'tɪləti / 英 juːˈtɪlɪtɪ]
+n. 实用；效用；公共设施；功用
+adj. 实用的；通用的；有多种用途的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A utility is an important service such as water, electricity, or gas that is provided for everyone, and that everyone pays for. 公用事业
+   ≫   ...public utilities such as gas, electricity and phones.  …煤气、电和电话等公用事业。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> perimetry
+------------------------------------------------------------------------
+perimetry    [美 pəˈrɪmətri / 英 pəˈrɪmɪtri]
+n. 视野测量
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Objective To study the presentation of frequency doubling perimetry (FDP) in patients with primary open angle glaucoma(POAG). 目的探讨早期原发性开角型青光眼（POAG）倍频视野（FDP）的表现。
+≫   As a testing method of visual function, perimetry is important tool to the diagnosis, selection of treatment and follow up of glaucoma. 视野检查作为视功能检测的一种方法，在青光眼的诊断、指导治疗、追踪随访中占有重要地位。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> tweak
+------------------------------------------------------------------------
+tweak    [美 twik / 英 twiːk]
+n. 扭；拧；焦急
+vt. 扭；用力拉；开足马力
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you tweak something, especially part of someone's body, you hold it between your finger and thumb and twist it or pull it. 扭; 扯
+   ≫   He tweaked Guy's ear roughly.  他粗暴地扯盖伊的耳朵。
+2. [非正式] If you tweak something such as a system or a design, you improve it by making a slight change. 稍稍改进(如系统或设计)
+   ≫   He expects the system to get even better as the engineers tweak its performance.  他期望在工程师对该系统的性能稍加改进后，它会运行得更为良好。
+3. (N-COUNT) Tweak is also a noun. 稍稍改进
+   ≫   The camera has undergone only two minor tweaks since its introduction.  这款相机自推出以来只经过两次小的改进。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> tweaked
+------------------------------------------------------------------------
+tweaked    [twi:k]
+拧（tweak的过去分词）
+调整（tweak的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you tweak something, especially part of someone's body, you hold it between your finger and thumb and twist it or pull it. 扭; 扯
+   ≫   He tweaked Guy's ear roughly.  他粗暴地扯盖伊的耳朵。
+2. [非正式] If you tweak something such as a system or a design, you improve it by making a slight change. 稍稍改进(如系统或设计)
+   ≫   He expects the system to get even better as the engineers tweak its performance.  他期望在工程师对该系统的性能稍加改进后，它会运行得更为良好。
+3. (N-COUNT) Tweak is also a noun. 稍稍改进
+   ≫   The camera has undergone only two minor tweaks since its introduction.  这款相机自推出以来只经过两次小的改进。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> bleeding
+------------------------------------------------------------------------
+bleeding    [美 'blidɪŋ / 英 'bliːdɪŋ]
+n. 出血；渗色
+adj. 流血的；同情的
+v. 出血；渗出（bleed的ing形式）；感到疼痛
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When you bleed, you lose blood from your body as a result of injury or illness. 流血
+   ≫   His head had struck the sink and was bleeding.  他的头撞到了洗脸池上，正在流血。
+   ≫   He was bleeding profusely.  他正大量流血。
+2. (N-UNCOUNT) bleeding 出血
+   ≫   This results in internal bleeding.  这导致内部出血。
+3. (V-I) If the colour of one substance bleeds into the colour of another substance that it is touching, it goes into the other thing so that its colour changes in an undesirable way. (颜色) 掺混
+   ≫   The colouring pigments from the skins are not allowed to bleed into the grape juice.  这些果皮的色素不允许掺混进葡萄汁中。
+4. [表不满] If someone is being bled, money or other resources are gradually being taken away from them. 榨取 (钱财)
+   ≫   We have been gradually bled for twelve years.  12年来，我们被逐渐榨尽了钱财。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> nucleus
+------------------------------------------------------------------------
+nucleus    [美 ˈnuːkliəs / 英 ˈnjuːkliəs]
+n. 原子核；细胞核；核心，中心；神经核；（彗星的）核
+★ CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The nucleus of an atom or cell is the central part of it. (原子或细胞) 核
+   ≫   Neutrons and protons are bound together in the nucleus of an atom.  在一个原子的核内，中子和质子聚合在一起。
+2. (N-COUNT) The nucleus of a group of people or things is the small number of members which form the most important part of the group. 核心
+   ≫   Matt Cummings and Liko Soules-Ono form the nucleus of the team.  马特·卡明斯和莱克·索尔斯-奥诺形成了这个团队的核心。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> suicide
+------------------------------------------------------------------------
+suicide    [美 'suɪsaɪd / 英 's(j)uːɪsaɪd]
+n. 自杀；自杀行为；自杀者
+adj. 自杀的
+vt. 自杀
+vi. 自杀
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) People who commit suicide deliberately kill themselves because they do not want to continue living. 自杀
+   ≫   She tried to commit suicide on several occasions.  她曾几次试图进行自杀。
+   ≫   ...a case of attempted suicide.  …一个自杀未遂的案子。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> shuffle
+------------------------------------------------------------------------
+shuffle    [英 'ʃʌf(ə)l / 美 'ʃʌfl]
+v. 洗牌；推诿，推卸；拖曳，慢吞吞地走；搅乱
+n. 洗牌，洗纸牌；混乱，蒙混；拖着脚走
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you shuffle somewhere, you walk there without lifting your feet properly off the ground. 拖着脚走
+   ≫   Moira shuffled across the kitchen.  莫伊拉拖着脚走过了厨房。
+2. (N-SING) Shuffle is also a noun. 拖着脚走
+   ≫   She noticed her own proud walk had become a shuffle.  她注意到了自己得意的步伐已变成了拖着脚走。
+3. (V-T/V-I) If you shuffle around, you move your feet about while standing or you move your bottom about while sitting, often because you feel uncomfortable or embarrassed. (因不舒服或尴尬) 站着的脚来回挪动; 坐立不安
+   ≫   He shuffles around in his chair.  他在椅子上坐立不安。
+4. (V-T) If you shuffle playing cards, you mix them up before you begin a game. 洗 (牌)
+   ≫   There are various ways of shuffling and dealing the cards.  有各种不同的洗牌和发牌方法。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> explicit
+------------------------------------------------------------------------
+explicit    [英 ɪkˈsplɪsɪt / 美 ɪkˈsplɪsɪt]
+adj. 清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的
+n. （手稿、早期印刷品或礼拜仪式上唱诗的）结束语
+★★ CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is explicit is expressed or shown clearly and openly, without any attempt to hide anything. 明确表达的; 公开显露的
+   ≫   Sexually explicit scenes in movies and books were taboo under the old regime.  电影和书籍中露骨的性爱场景在旧体制下是禁忌的。
+2. (ADV) explicitly ADV 明确表达地; 公开显露地
+   ≫   The play was the first commercially successful work dealing explicitly with homosexuality.  该剧是首部在商业上获得成功的公然描写同性恋的作品。
+3. (ADJ) If you are explicit about something, you speak about it very openly and clearly. 直言不讳的 [v-link ADJ, oft ADJ 'about' n]
+   ≫   He was explicit about his intention to overhaul the party's internal voting system.  他对自己彻底革新该党内投票体制的意图直言不讳。
+4. (ADV) explicitly ADV 直言不讳地 [ADV with v]
+   ≫   She has been talking very explicitly about AIDS to these groups.  她一直在毫不避讳地与这些群体谈论艾滋病。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> interleaved
+------------------------------------------------------------------------
+interleaved    [美 ˌɪntərˈliv]
+v. 夹（空白纸等）于（书页）间；（尤指将片状物）插入；交替（两个或两个以上数码信号）；交叉存取（interleave 的过去式及过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to intersperse (with), esp alternately, as the illustrations in a book (with protective leaves) 插入纸
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> pure
+------------------------------------------------------------------------
+pure    [美 pjʊr / 英 pjʊə]
+adj. 纯的；纯粹的；纯洁的；清白的；纯理论的
+n. (Pure)人名；(俄)普雷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A pure substance is not mixed with anything else. 纯粹的
+   ≫   ...a carton of pure orange juice.  …一箱纯橙汁。
+2. (ADJ) Something that is pure is clean and does not contain any harmful substances. 洁净的
+   ≫   In remote regions, the air is pure and the crops are free of poisonous insecticides.  在偏远地区，空气是纯净的，庄稼也不用有毒的杀虫剂。
+3. [with poss] purity 洁净
+   ≫   They worried about the purity of tap water.  他们担心自来水是否洁净。
+4. (ADJ) If you describe something such as a colour, a sound, or a type of light as pure, you mean that it is very clear and represents a perfect example of its type. 纯的
+   ≫   She was dressed in pure white clothes.  她穿着纯白的衣服。
+5. (N-UNCOUNT) purity 清亮
+   ≫   The soaring purity of her voice conjured up the frozen bleakness of the Far North.  她高亢、清亮的声音使人们想到了遥远的北方萧瑟的冰天雪地。
+6. [ADJ n] Pure science or pure research is concerned only with theory and not with how this theory can be used in practical ways. 纯理论的
+   ≫   Physics isn't just about pure science with no immediate applications.  物理学并非没有直接应用价值的纯科学。
+7. [强调] Pure means complete and total. 完全的
+   ≫   The old man turned to give her a look of pure surprise.  那位老人回过头来非常吃惊地看了她一眼。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> corpus
+------------------------------------------------------------------------
+corpus    [美 ˈkɔːrpəs / 英 ˈkɔːpəs]
+n. 文集，全集；语料库；体，身体；胃体；本金
+【名】 （Corpus）（西）科尔普斯（人名）
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A corpus is a large collection of written or spoken texts that is used for language research. 语料库 [技术] [usu with supp]
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
