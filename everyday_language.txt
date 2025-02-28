@@ -1310,3 +1310,276 @@ n. 文集，全集；语料库；体，身体；胃体；本金
 1. (N-COUNT) A corpus is a large collection of written or spoken texts that is used for language research. 语料库 [技术] [usu with supp]
 ☺  发现新版本v0.0.13，请执行`kd --update`更新
 
+========================================================================
+>>> factor
+------------------------------------------------------------------------
+factor    [美 'fæktɚ / 英 'fæktə]
+n. 因素；要素；[物] 因数；代理人
+vi. 做代理商
+vt. 把…作为因素计入；代理经营；把…分解成
+n. (Factor)人名；(英)法克特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A factor is one of the things that affects an event, decision, or situation. 因素
+   ≫   Physical activity is an important factor in maintaining fitness.  体育活动是保持健康的一个重要因素。
+2. (N-COUNT) If an amount increases by a factor of two, for example, or by a factor of eight, then it becomes two times bigger or eight times bigger. 倍数
+   ≫   The cost of butter quadrupled and bread prices increased by a factor of five.  黄油的价格是原来的4倍，面包的价格上涨了5倍。
+3. (N-SING) You can use factor to refer to a particular level on a scale of measurement. 系数
+   ≫   A sunscreen with a protection factor of 30 allows you to stay in the sun without burning.  一种防护系数为30的防晒霜使你能够待在太阳底下而不被晒伤。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> factorization
+------------------------------------------------------------------------
+factorization    [美 ˌfæktərəˈzeɪʃən / 英 ˌfæktəraɪˈzeɪʃən]
+n. [数] 因子分解；[数] 因式分解
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sounds like a classic matrix factorization task to me. 听起来像是一个经典的矩阵分解我的任务。
+≫   Factorization works well enough for interactive challenges. 对交互式质询来说，因数分解足以胜任。
+≫   RSA public-key cryptography is based on this property of factorization. RSA 公钥密码系统就是基于这种因数分解特性的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> quote
+------------------------------------------------------------------------
+quote    [美 kwot / 英 kwəʊt]
+vt. 报价；引述；举证
+vi. 报价；引用；引证
+n. 引用
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you quote someone as saying something, you repeat what they have written or said. 引用; 引述
+   ≫   He quoted Mr. Polay as saying that peace negotiations were already underway.  他引用波利先生的话说，和平谈判已在进行。
+   ≫   I gave the letter to the local press and they quoted from it.  我把信交给了当地的报社，他们从中引用了内容。
+2. (N-COUNT) A quote from a book, poem, play, or speech is a passage or phrase from it. 引文; 引语
+   ≫   The paper starts its editorial comment with a quote from an unnamed member of the House.  该报社论以一位匿名议员的引语展开。
+3. (V-T) If you quote something such as a law or a fact, you state it because it supports what you are saying. 引用 (法律条款、事实等)
+   ≫   The Congresswoman quoted statistics saying that the standard of living of the poorest people had fallen.  这位女国会议员援引统计数据说，赤贫人口的生活水平已经下降。
+4. (V-T) If someone quotes a price for doing something, they say how much money they would charge you for a service they are offering or a for a job that you want them to do. 报 (价)
+   ≫   A travel agent quoted her $260 for a flight from Boston to New Jersey.  一家旅行社给她从波士顿到新泽西的航班报价$260。
+5. (N-COUNT) A quote for a piece of work is the price that someone says they will charge you to do the work. 报价
+   ≫   Always get a written quote for any repairs needed.  对任何所需的修理都索取一份书面报价。
+6. [商业] If a company's shares, a substance, or a currency is quoted at a particular price, that is its current market price. 报 (公司股票、物质、货币) 的牌价
+   ≫   In early trading in Hong Kong yesterday, gold was quoted at $368.20 an ounce.  昨天在香港早市的交易中，黄金被报出每盎司$368.20的牌价。
+7. [非正式] Quotes are the same as quotation marks. 引号
+   ≫   The word "remembered" is in quotes.  “”一词是打了引号的。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [英 həˈləʊ / 美 həˈloʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> teardown
+------------------------------------------------------------------------
+teardown    [美 ˈteərˌdaʊn / 英 ˈteəˌdaʊn]
+n. 拆卸；待拆房屋
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Write the setup and teardown methods. 编写setup和teardown方法。
+≫   FBI Vehicle-Tracking Device: The teardown. FBI的汽车跟踪设备：拆解。
+≫   Each test function call is sandwiched between a call to setUp and tearDown. 每个测试函数的调用被夹在setUp和tearDown调用之间。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> warranty
+------------------------------------------------------------------------
+warranty    [美 ˈwɔːrənti / 英 ˈwɒrənti]
+n. （商品的）保修单，保用卡；（保险合同用语）（被保险人对某些陈述所作的）保证，担保；<古>正当理由，依据
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A warranty is a written promise by a company that, if you find a fault in something they have sold you within a certain time, they will repair it or replace it free of charge. 保修单 [also 'under' N]
+   ≫   ...a twelve-month warranty.  …为期12个月的保修单。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> extent
+------------------------------------------------------------------------
+extent    [美 ɪkˈstent / 英 ɪkˈstent]
+n. 程度；范围，长度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   That's true, to a certain extent. 在一定程度上的确如此。《牛津词典》
+≫   To some extent this was the truth. 在某种程度上这是事实。《柯林斯英汉双解大词典》
+≫   The extent of the violence came as a shock. 暴力的程度令人震惊。《柯林斯英汉双解大词典》
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> utility
+------------------------------------------------------------------------
+utility    [美 juːˈtɪləti / 英 juːˈtɪləti]
+n. （煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；<澳>小卡车，轻型货车；（博弈论，经济学）效用
+adj. 有用的，多功能的；（体育运动）多面手的；实用的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A utility is an important service such as water, electricity, or gas that is provided for everyone, and that everyone pays for. 公用事业
+   ≫   ...public utilities such as gas, electricity and phones.  …煤气、电和电话等公用事业。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> utilities
+------------------------------------------------------------------------
+utilities    [美 juːˈtɪlətiz / 英 juːˈtɪlətiz]
+n. 公用事业；实用工具，应用程序；公共事业设备（utility 的复数）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A utility is an important service such as water, electricity, or gas that is provided for everyone, and that everyone pays for. 公用事业
+   ≫   ...public utilities such as gas, electricity and phones.  …煤气、电和电话等公用事业。
+☺  发现新版本v0.0.13，请执行`kd --update`更新
+
+========================================================================
+>>> convey
+------------------------------------------------------------------------
+convey    [英 kənˈveɪ / 美 kənˈveɪ]
+v. 传送，运输；表达，传递；<法律>转让（土地、财产等）
+★★ CET4 TEM4 conveying,conveyed,conveys
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To convey information or feelings means to cause them to be known or understood by someone. 传达
+   ≫   When I returned home, I tried to convey the wonder of this machine to my husband.  回到家之后，我设法让我丈夫知道这台机器的神奇之处。
+   ≫   In every one of her pictures she conveys a sense of immediacy.  她的每一张画都有一种直观性。
+
+========================================================================
+>>> conscious
+------------------------------------------------------------------------
+conscious    [美 ˈkɑːnʃəs / 英 ˈkɒnʃəs]
+adj. 意识到的；神志清醒的，有知觉的；关注的；刻意的，慎重的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are conscious of something, you notice it or realize that it is happening. 意识到的 [v-link ADJ]
+   ≫   He was conscious of the faint, musky aroma of aftershave.  他留意到须后水那淡淡的、似麝香的芳香。
+   ≫   She was very conscious of Max studying her.  她十分清楚马克斯在仔细端详着她。
+2. (ADJ) If you are conscious of something, you think about it a lot, especially because you are unhappy about it or because you think it is important. (尤指因为自认不满意或很重要而) 在意的 [v-link ADJ]
+   ≫   I'm very conscious of my weight.  我很在意自己的体重。
+3. (ADJ) A conscious decision or action is made or done deliberately with you giving your full attention to it. 刻意的
+   ≫   I don't think we ever made a conscious decision to have a big family.  我不认为我们曾刻意下决定要成为一大家子。
+4. (ADV) consciously ADV 刻意地 [ADV with v]
+   ≫   Sophie was not consciously seeking a replacement after her father died.  索菲在父亲去世后没有刻意地找一个代替的人。
+5. (ADJ) Someone who is conscious is awake rather than asleep or unconscious. 神志清醒的
+   ≫   She was fully conscious throughout the surgery and knew what was going on.  她在整个手术过程中神志完全清醒，知道发生了什么。
+6. (ADJ) Conscious memories or thoughts are ones that you are aware of. 清楚的 (记忆、想法) [ADJ n]
+   ≫   He had no conscious memory of his four-week stay in the hospital.  他对自己住院的4个星期记不大清了。
+7. (ADV) consciously ADV 清楚地 (记得、想起)
+   ≫   Most people cannot consciously remember much before the ages of 3 to 5 years.  多数人不能清楚地记得3到5岁之前的多少事情。
+
+========================================================================
+>>> conventions
+------------------------------------------------------------------------
+conventions    [美 kənˈvenʃnz]
+n. [法]惯例；会议；[计]约定（convention 的复数）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A convention is a way of behaving that is considered to be correct or polite by most people in a society. 习俗
+   ≫   It's just a social convention that men don't wear skirts.  男人不穿裙子仅仅是一个社会习俗。
+2. (N-COUNT) In art, literature, or the theatre, a convention is a traditional method or style. 惯例
+   ≫   We go offstage and come back for the convention of the encore.  按照惯例，当要求我们再唱一次的时候，我们得先下台然后再返回台上。
+3. (N-COUNT) A convention is an official agreement between countries or groups of people. 公约
+   ≫   ...the U.N. convention on climate change.  …关于气候变化的联合国公约。
+4. (N-COUNT) A convention is a large meeting of an organization or political group. 大型会议
+   ≫   ...the annual convention of the Society of Professional Journalists.  …职业新闻工作者协会的年会。
+
+========================================================================
+>>> permute
+------------------------------------------------------------------------
+permute    [美 pərˈmjʊt / 英 pəˈmjuːt]
+v. 改变……的次序，重新排列
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to change the sequence of 重新排列
+
+========================================================================
+>>> granularity
+------------------------------------------------------------------------
+granularity    [英 ˌɡrænjəˈlærəti / 美 ˈɡrænjʊˈlerəti]
+n. 间隔尺寸，[岩] 粒度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the state or quality of being grainy or granular 粒度
+
+========================================================================
+>>> infrastructre
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> infrastructure
+------------------------------------------------------------------------
+infrastructure    [美 ˈɪnfrəstrʌktʃər / 英 ˈɪnfrəstrʌktʃə(r)]
+n. 下面结构；永久性军事设施；基础设施，基础建设
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) The infrastructure of a country, society, or organization consists of the basic facilities such as transportation, communications, power supplies, and buildings, which enable it to function. (国家、社会、组织赖以行使职能的) 基础设施
+   ≫   ...improvements in the country's infrastructure.  …国家基础设施的改善。
+
+========================================================================
+>>> heliotrope
+------------------------------------------------------------------------
+heliotrope    [美 ˈhiːliətroʊp / 英 ˈhiːliətrəʊp]
+n. 天芥菜属植物；[植] 向阳植物；淡紫色；鸡血石
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any boraginaceous plant of the genus Heliotropium, esp the South American H. arborescens, cultivated for its small fragrant purple flowers 任一一种天芥菜属植物
+
+========================================================================
+>>> dryad
+------------------------------------------------------------------------
+dryad    [美 ˈdraɪæd / 英 ˈdraɪæd]
+n. 德律阿得斯（希腊神话中的树神）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a nymph or divinity of the woods 树精 [Greek myth]
+
+========================================================================
+>>> Cerebellum
+------------------------------------------------------------------------
+cerebellum    [美 'sɛrə'bɛləm / 英 ,serɪ'beləm]
+n. [解剖] 小脑
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft 'the' N] The cerebellum is a part of the brain in humans and other mammals that controls the body's movements and balance. 小脑
+   ≫   Damage to the cerebellum can disrupt motor activity in other ways.  小脑损伤可能连带影响运动机能。
+
+========================================================================
+>>> Cerebrum
+------------------------------------------------------------------------
+cerebrum    [美 səˈriːbrəmˌˈserəbrəm / 英 səˈriːbrəm; ˈserəbrəm]
+n. [解剖] 大脑
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the anterior portion of the brain of vertebrates, consisting of two lateral hemispheres joined by a thick band of fibres: the dominant part of the brain in man, associated with intellectual function, emotion, and personality 大脑 →see telencephalon
+
+========================================================================
+>>> Brainstem
+------------------------------------------------------------------------
+brainstem    ['brenstɛm]
+n. [解剖] 脑干
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the stalklike part of the brain consisting of the medulla oblongata, the midbrain, and the pons Varolii 脑干
+
+========================================================================
+>>> grove
+------------------------------------------------------------------------
+grove    [美 ɡroʊv / 英 ɡrəʊv]
+n. 树丛，小树林；果树林，果园；（用于街道名）街，路（Grove）
+【名】 （Grove）格鲁夫（人名）
+★★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A grove is a group of trees that are close together. 树丛 [usu with supp]
+   ≫   ...an olive grove.  …一片橄榄树丛。
+
+========================================================================
+>>> prevailing
+------------------------------------------------------------------------
+prevailing    [美 prɪˈveɪlɪŋ / 英 prɪˈveɪlɪŋ]
+adj. 现存的，存在的； 风靡的，盛行的
+v. 盛行，流行；劝说（某人）做某事；（在比赛、竞赛或争辩中）击败，获胜（prevail 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) The prevailing wind in an area is the type of wind that blows over that area most of the time. (风)盛行的 [ADJ n]
+   ≫   The direction of the prevailing winds should be taken into account.  应该将盛行风的风向考虑在内。
+
