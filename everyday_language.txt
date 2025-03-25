@@ -1725,3 +1725,370 @@ TEM8 vexing,vexed,vexes
 2. (ADJ) vexed ADJ 烦恼的
    ≫   Exporters, farmers and industrialists alike are vexed and blame the government.  出口商、农场主和工业家们同样恼火，都谴责政府。
 
+========================================================================
+>>> patent
+------------------------------------------------------------------------
+patent    [英 'pæt(ə)nt; 'peɪt(ə)nt / 美 'pætnt]
+vt. 授予专利；取得…的专利权
+adj. 专利的；新奇的；显然的
+n. 专利权；执照；专利品
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A patent is an official right to be the only person or company allowed to make or sell a new product for a certain period of time. 专利
+   ≫   P&G applied for a patent on its cookies.  宝洁公司为其饼干申请了专利。
+   ≫   He held a number of patents for his many innovations.  他为他的许多革新申请了几项专利。
+2. (V-T) If you patent something, you obtain a patent for it. 得到…专利
+   ≫   He patented the idea that the atom could be split.  他得到了原子可以分裂的这个见解的专利。
+   ≫   The invention has been patented by the university.  那项发明已经由那所大学获取了专利。
+3. [强调] You use patent to describe something, especially something bad, in order to indicate in an emphatic way that you think its nature or existence is clear and obvious. 显而易见的
+   ≫   This was patent nonsense.  这显然是一派胡言。
+4. (ADV) patently 显而易见地
+   ≫   He made his displeasure patently obvious.  他清楚地表明了他的不悦。
+5. (ADJ) open or available for inspection (esp in the phrase letters patent) 公开的
+
+========================================================================
+>>> array
+------------------------------------------------------------------------
+array    [美 əˈreɪ / 英 əˈreɪ]
+n. 一系列，大量；数组，阵列；盛装
+v. 布置，排列；配置（兵力）；穿戴，打扮
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) An array of different things or people is a large number or wide range of them. 大量; 各种
+   ≫   As the deadline approached she experienced a bewildering array of emotions.  随着最后期限的临近，她心绪变得纷繁复杂起来。
+2. (N-COUNT) An array of objects is a collection of them that is displayed or arranged in a particular way. 陈列
+   ≫   We visited the local markets and saw wonderful arrays of fruit and vegetables.  我们参观了当地的市场，看到了漂亮地摆放着的水果蔬菜。
+
+========================================================================
+>>> unary
+------------------------------------------------------------------------
+unary    [美 ˈjuːnəri / 英 ˈjuːnəri]
+adj. [数] 一元的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) consisting of, or affecting, a single element or component; monadic 一元的
+
+========================================================================
+>>> completion
+------------------------------------------------------------------------
+completion    [美 kəmˈpliːʃ(ə)n / 英 kəmˈpliːʃ(ə)n]
+n. 完成，结束；成功前传；<英>（房地产等）完成交易，完成交割
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The project is nearing completion. 这项工程就要竣工了。《牛津词典》
+≫   The new library is close to completion. 新图书馆快要竣工了。《牛津词典》
+≫   The project is due for completion in the spring. 这项工程预定在明年春季竣工。《牛津词典》
+
+========================================================================
+>>> dune
+------------------------------------------------------------------------
+dune    [美 duːn / 英 djuːn]
+n. （由风吹积而成的）沙丘
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dune is a hill of sand near the ocean or in a desert. 沙丘
+   ≫   Large dunes make access to the beach difficult in places.  在有些地方大沙丘使得靠近海滩很难。
+
+========================================================================
+>>> dune
+------------------------------------------------------------------------
+dune    [美 duːn / 英 djuːn]
+n. （由风吹积而成的）沙丘
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dune is a hill of sand near the ocean or in a desert. 沙丘
+   ≫   Large dunes make access to the beach difficult in places.  在有些地方大沙丘使得靠近海滩很难。
+
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [美 həˈloʊ / 英 həˈləʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+>>> dune
+------------------------------------------------------------------------
+dune    [美 duːn / 英 djuːn]
+n. （由风吹积而成的）沙丘
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dune is a hill of sand near the ocean or in a desert. 沙丘
+   ≫   Large dunes make access to the beach difficult in places.  在有些地方大沙丘使得靠近海滩很难。
+
+========================================================================
+>>> amethyst
+------------------------------------------------------------------------
+amethyst    [美 ˈæməθɪst / 英 ˈæməθɪst]
+n. 紫水晶；[宝] 紫晶；紫色
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Amethysts are clear purple stones, sometimes used to make jewellery. 紫晶
+   ≫   The necklace consisted of amethysts set in gold.  这条项链是金镶紫水晶的。
+   ≫   ...rows of amethyst beads.  ...一排排紫水晶珠子。
+2. (COLOR) Amethyst is used to describe things that are pale purple in colour. 淡紫色
+   ≫   The colours changed from green to amethyst.  这些颜色从绿色变成了淡紫色。
+   ≫   ...amethyst glass.  ...淡紫色杯子。
+
+========================================================================
+>>> azalea
+------------------------------------------------------------------------
+azalea    [美 əˈzeɪliə / 英 əˈzeɪliə]
+n. 杜鹃花
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An azalea is a woody plant with shiny, dark-green leaves that produces many brightly-coloured flowers in the spring. 杜鹃花
+
+========================================================================
+>>> smite
+------------------------------------------------------------------------
+smite    [英 smaɪt / 美 smaɪt]
+vt. 打；重击；毁灭；侵袭；使神魂颠倒
+vi. 打；重击
+n. 打；重击
+smiting,smote,smitten,smites
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To smite something means to hit it hard. 重击; 猛打 [文学性] → see also smitten
+   ≫   The heroic leader charged into battle, ready to smite the enemy.  英勇的军官冲上战场，准备重击敌人。
+
+========================================================================
+>>> privilege
+------------------------------------------------------------------------
+privilege    [美 ˈprɪvəlɪdʒ / 英 ˈprɪvəlɪdʒ]
+n. 特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势；（律师、医生及其他专业人士的）保密权；言行免责权（尤指议员的权利）；<史>（授予个人，公司，某地的）特许经营权；（生活）优越
+v. <正式> 给予特权，特别优待；特免，免除（某人）
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A privilege is a special right or advantage that only one person or group has. (某人、某团体拥有的) 特权
+   ≫   The Russian Federation has issued a decree abolishing special privileges for government officials.  俄罗斯联邦已颁布了一条取消政府官员特权的法令。
+2. (N-UNCOUNT) If you talk about privilege, you are talking about the power and advantage that only a small group of people have, usually because of their wealth or their connections with powerful people. (一小部分人因其财富或与有权人的关系而拥有的) 特权
+   ≫   Pironi was the son of privilege and wealth, and it showed.  皮罗尼是富贵人家的子弟，这一点明摆着。
+3. (N-SING) You can use privilege in expressions such as be a privilege or have the privilege when you want to show your appreciation of someone or something, or to show your respect. 荣幸
+   ≫   It must be a privilege to know such a man.  认识这样一个人必是一种荣幸。
+
+========================================================================
+>>> sedan
+------------------------------------------------------------------------
+sedan    [美 sɪˈdæn / 英 sɪˈdæn]
+n. 轿车；轿子
+n. （Sedan）人名；（英）塞丹
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A sedan is a car with seats for four or more people, a fixed roof, and a boot that is separate from the part of the car that you sit in. 箱式小货车 [美国英语]
+
+========================================================================
+>>> exterior
+------------------------------------------------------------------------
+exterior    [英 ɪkˈstɪəriə(r) / 美 ɪkˈstɪriər]
+adj. 外部的，外面的；外表的，表面的；（电影场景）外部拍摄的
+n. 外观，外部；外貌
+★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The exterior of something is its outside surface. 外部
+   ≫   The exterior of the building was a masterpiece of architecture, elegant and graceful.  该建筑物在外观上是一项建筑杰作，精美雅致。
+2. (N-COUNT) You can refer to someone's usual appearance or behaviour as their exterior, especially when it is very different from their real character. 外表
+   ≫   According to Mandy, Pat's tough exterior hides a shy and sensitive soul.  据曼迪说，帕特坚强的外表下藏着一个害羞、敏感的灵魂。
+3. (ADJ) You use exterior to refer to the outside parts of something or things that are outside something. 外面的 [ADJ n]
+   ≫   The exterior walls were made of preformed concrete.  外墙是用预制混凝土建造的。
+
+========================================================================
+>>> panels
+------------------------------------------------------------------------
+panels    [美 ˈpænlz / 英 ˈpænəlz]
+n. 面板（panel 的复数）；[建]嵌板；事务委员会
+v. 嵌镶（panel 的第三人称单数形式）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) A panel is a small group of people who are chosen to do something, for example, to discuss something in public or to make a decision. 专门小组
+   ≫   He assembled a panel of scholars to advise him.  他集结了一个学者小组为他出谋划策。
+   ≫   All the writers on the panel agreed that Quinn's book should be singled out for special praise.  专门小组中的所有作家都同意奎因的书应该被挑出来予以特别表扬。
+2. (N-COUNT) A panel is a flat rectangular piece of wood or other material that forms part of a larger object such as a door. (门等的) 镶板; 嵌板
+   ≫   ...the frosted glass panel set in the centre of the door.  …嵌在门中心的毛玻璃板。
+3. (N-COUNT) A control panel or instrument panel is a board or surface that contains switches and controls to operate a machine or piece of equipment. (控制) 面板; (仪表) 板 [n N]
+   ≫   The equipment was extremely sophisticated and was monitored from a central control panel.  这台设备极其复杂，是由中央控制面板监控的。
+
+========================================================================
+>>> asphalt
+------------------------------------------------------------------------
+asphalt    [美 ˈæsfɔːlt / 英 ˈæsfælt]
+n. 沥青；柏油
+vt. 以沥青铺
+adj. 用柏油铺成的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Asphalt is a black substance used to make the surfaces of things such as roads and playgrounds. 沥青; 柏油 [oft N n]
+
+========================================================================
+>>> entrepreneur
+------------------------------------------------------------------------
+entrepreneur    [美 ˌɑːntrəprəˈnɜːr / 英 ˌɒntrəprəˈnɜː(r)]
+n. 企业家，创业者；主办者，提倡者
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An entrepreneur is a person who sets up businesses and business deals. 创业者 [商业]
+
+========================================================================
+>>> cast
+------------------------------------------------------------------------
+cast    [美 kæst / 英 kɑːst]
+v. 投射（光，影）；将（视线，目光）投向；浇铸，铸造；分配角色；扔，掷，抛；描述，描写；投票；使人怀疑；使（魔咒）生效，施法；抛（钓丝），撒（网）；（生长过程中）蜕（皮），脱（角）；（马）失（蹄铁）；用（星相）占卜；（乡村舞蹈中的）转向；（猎）（狗）四处探寻失踪的嗅迹；放开（猎狗）以探寻嗅迹；用绳子绊倒（动物，尤指母牛）
+n. 演员阵容；铸型，模型；（固定断骨用的）石膏； 特性，外貌；（眼睛）斜视；掷，投，抛；浅淡的色调；（猎狗）探寻嗅迹；（蚯蚓钻洞时拱到地面的）小土堆；（鹰或猫头鹰的）颗粒状呕吐物；<罕>一群鹰，隼
+【名】 （Cast）（法）卡斯特（人名）
+★★★★ CET4 TEM4 casting,casts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) The cast of a play or film is all the people who act in it. 全体演员
+   ≫   The show is very amusing and the cast is very good.  表演非常有趣，演员都很优秀。
+2. (V-T) To cast an actor in a play or film means to choose them to act a particular role in it. 选…扮演角色
+   ≫   The world premiere of Harold Pinter's new play casts Ian Holm in the lead role.  哈罗德·品特新戏的首次全球公演选择伊恩·霍姆扮演主要角色。
+   ≫   He was cast as a college professor.  他被选扮演大学教授这个角色。
+3. (V-T) If you cast your eyes or cast a look in a particular direction, you look quickly in that direction. 扫视 [书面]
+   ≫   He cast a stern glance at the two men.  他严厉地瞪了那两名男子一眼。
+   ≫   I cast my eyes down briefly.  我往下瞅了瞅。
+4. (V-T) If something casts a light or shadow somewhere, it causes it to appear there. 投射 [书面]
+   ≫   The moon cast a bright light over the garden.  月亮在院子里撒下清辉。
+5. (V-T) To cast doubt on something means to cause people to be unsure about it. 使人生疑
+   ≫   Last night a top criminal psychologist cast doubt on the theory.  昨晚，一位顶级的犯罪心理学家让人对该理论生疑。
+6. (V-T) When you cast your vote in an election, you vote. 投票
+   ≫   About ninety-five per cent of those who cast their votes approve the new constitution.  95%的人投票赞成新宪法。
+7. (V-T) To cast an object means to make it by pouring a liquid such as hot metal into a specially shaped container and leaving it there until it becomes hard. 铸造
+   ≫   Our door knocker is cast in solid brass.  我们的门环是纯铜铸造的。
+8. (N-COUNT) A cast is a model that has been made by pouring a liquid such as plaster or hot metal onto something or into something, so that when it hardens it has the same shape as that thing. 模型
+   ≫   An orthodontist took a cast of the inside of Billy's mouth to make a dental plate.  正牙医师从比利的口腔内部取了模型来制作齿板。
+9. (N-COUNT) A cast is the same as a . 石膏模型
+
+========================================================================
+>>> legacy
+------------------------------------------------------------------------
+legacy    [美 ˈleɡəsi / 英 ˈleɡəsi]
+n. 遗产，遗赠物；遗留问题，后遗症
+adj. （软件或硬件）已过时但因使用范围广而难以替代的
+★★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+
+========================================================================
+>>> dedication
+------------------------------------------------------------------------
+dedication    [美 ˌdedɪˈkeɪʃ(ə)n / 英 ˌdedɪˈkeɪʃ(ə)n]
+n. 献身，奉献；献辞；落成典礼
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dedication is a message which is written at the beginning of a book, or a short announcement which is sometimes made before a play or piece of music is performed, as a sign of affection or respect for someone. 献辞
+
+========================================================================
+>>> hatred
+------------------------------------------------------------------------
+hatred    [美 ˈheɪtrɪd / 英 ˈheɪtrɪd]
+n. 仇恨，憎恨，敌意
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Hatred is an extremely strong feeling of dislike for someone or something. 憎恨
+   ≫   Her hatred of them would never lead her to murder.  她对他们的仇恨永远不会将她引向凶杀。
+
+========================================================================
+>>> scrubbing
+------------------------------------------------------------------------
+scrubbing    [英 ˈskrʌbɪŋ / 美 ˈskrʌbɪŋ]
+n. [核]洗涤
+v. 用力擦洗（scrub 的现在分词）
+★★ CET6 scrubbing,scrubbed,scrubs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you scrub something, you rub it hard in order to clean it, using a stiff brush and water. 用力刷洗
+   ≫   Surgeons began to scrub their hands and arms with soap and water before operating.  外科医生们在手术前开始用肥皂和水清洗他们的手和手臂。
+2. (N-SING) Scrub is also a noun. 用力刷洗
+   ≫   The walls needed a good scrub.  这些墙需要一次好好的刷洗。
+3. (V-T) If you scrub dirt or stains off something, you remove them by rubbing hard. (将污渍等从某物上) 用力擦 (除)
+   ≫   I started to scrub off the dirt.  我开始用力擦除污物。
+4. (V-T) to delete or cancel 删除; 取消 [非正式]
+5. (N-UNCOUNT) Scrub consists of low trees and bushes, especially in an area that has very little rain. (尤指少雨地区的) 矮灌木丛
+   ≫   There is an area of scrub and woodland beside the railway line.  那条铁路旁边有一片矮灌木丛和林地。
+6. (N-PLURAL) Scrubs are the protective clothes that surgeons and other hospital staff wear in operating rooms. 手术服 [美国英语] [非正式]
+   ≫   ...a man wearing blue hospital scrubs.  …一个穿着蓝色的医院手术服的男子。
+7. (N) a small or insignificant person 小人物
+8. (N) anything stunted or inferior 次货
+9. (N) a player not in the first team 二流队员 [美国英语] [sport]
+10. (ADJ) small, stunted, or inferior 矮小的; 低劣的
+
+========================================================================
+>>> pavement
+------------------------------------------------------------------------
+pavement    [美 ˈpeɪvmənt / 英 ˈpeɪvmənt]
+n. <英>人行道；<美>（公路或街道的）硬路面；铺过的表面（地方）；（水平分布的）裸露岩面，砾石滩
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The pavement is the hard surface of a road. 路面 [美国英语]
+   ≫   The tyres of Lenny's bike hissed over the wet pavement.  伦尼的自行车轮胎嘶嘶地驶过湿漉漉的路面。
+2. (N-COUNT) A pavement is a path with a hard surface, usually by the side of a road. 人行道 [英国英语]
+   ≫   Two men and a woman were walking briskly down the pavement towards him.  两个男子和一个女子正轻快地沿着人行道朝他走去。
+
+========================================================================
+>>> Saturate
+------------------------------------------------------------------------
+saturate    [美 ˈsætʃəreɪt / 英 ˈsætʃəreɪt]
+v. 使湿透，浸透；使充满，使饱和；充斥（市场），使（市场）供大于求；使（化学溶液）饱和；饱和磁化；饱和充电；饱和轰炸
+adj. <文>湿透的；饱和的
+n. 饱和脂肪
+★ CET6 TEM4 saturating,saturated,saturates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If people or things saturate a place or object, they fill it completely so that no more can be added. 使饱和; 使充满
+   ≫   In the last days before the vote, both sides are saturating the airwaves.  在投票前的最后几天，双方的宣传充斥着各个广播频道。
+2. (V-T) If someone or something is saturated, they become extremely wet. 使湿透
+   ≫   If the filter has been saturated with motor oil, it should be discarded and replaced.  如果过滤器已被机油浸透，就应该丢掉并更换一个。
+
+========================================================================
+>>> escort
+------------------------------------------------------------------------
+escort    [美 ˈeskɔːrt / 英 'eskɔːt]
+n. 陪同；护航舰；护卫队；护送者
+vt. 护送；陪同；为…护航
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you escort someone somewhere, you accompany them there, usually in order to make sure that they leave a place or get to their destination. 护送
+   ≫   I escorted him to the door.  我护送他到门口。
+2. (N-COUNT) An escort is a person who travels with someone in order to protect or guard them. 护送者
+   ≫   He arrived with a police escort shortly before half past nine.  快到9点半时，他由警察护送到达了。
+3. (PHRASE) If someone is taken somewhere under escort, they are accompanied by guards, either because they have been arrested or because they need to be protected. 在押送下; 在护送下
+4. (N-COUNT) An escort is a person who accompanies another person of the opposite sex to a social event. Sometimes people are paid to be escorts. (异性的) 社交陪同
+   ≫   My sister needed an escort for a company dinner.  我妹为了一个公司晚宴而需要一个社交陪同。
+
+========================================================================
+>>> indicate
+------------------------------------------------------------------------
+indicate    [美 'ɪndɪket / 英 'ɪndɪkeɪt]
+vt. 表明；指出；预示；象征
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one thing indicates another, the first thing shows that the second is true or exists. 表明
+   ≫   A survey of retired people has indicated that most are independent and enjoying life.  一项对退休人员的调查表明，他们中的大部分人生活自立而愉快。
+   ≫   Our vote today indicates a change in United States policy.  我们今天的投票表明了美国政策的变化。
+2. (V-T) If you indicate an opinion, an intention, or a fact, you mention it in an indirect way. 暗示
+   ≫   Mr. Rivers has indicated that he may resign.  里弗斯先生已经暗示他可能要辞职。
+3. [正式] If you indicate something to someone, you show them where it is, especially by pointing to it. 指示
+   ≫   He indicated a chair. "Sit down."  他指着一把椅子说，“坐下。”
+4. (V-T) If one thing indicates something else, it is a sign of that thing. 象征; 代表
+   ≫   Dreams can help indicate your true feelings.  梦能代表你的真实情感。
+5. (V-T) If a technical instrument indicates something, it shows a measurement or reading. (仪器等) 指示
+   ≫   ...an instrument used to indicate wind direction.  …一台用于指示风向的仪器。
+6. [英国英语] When drivers indicate, they make lights flash on one side of their vehicle to show that they are going to turn in that direction. (车辆打转向灯) 指示转向
+
+========================================================================
+>>> elapsed
+------------------------------------------------------------------------
+elapsed    [美 ɪˈlæpst]
+v. （时间）消逝，过去（elapse 的过去式和过去分词）
+adj. 过去的，经过的
+★ CET6 TEM4 elapsing,elapsed,elapses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) When time elapses, it passes. (时间) 流逝 [正式]
+   ≫   Forty-eight hours have elapsed since his arrest.  他被捕后48小时已经过去了。
+
