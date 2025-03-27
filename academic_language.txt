@@ -1239,3 +1239,76 @@ n. 启发法；启发式教学法
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 1. (N) a method or set of rules for solving problems other than by algorithm 探试的 [maths] → see also algorithm, artificial intelligence
 
+========================================================================
+>>> orientation
+------------------------------------------------------------------------
+orientation    [美 ˌɔːriənˈteɪʃ(ə)n / 英 ˌɔːriənˈteɪʃ(ə)n]
+n. 目标，定位；方向，朝向；（基本的）态度，倾向；（岗前、学前、课前等的）情况介绍，培训；适应，熟悉
+★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If you talk about the orientation of an organization or country, you are talking about the kinds of aims and interests it has. 方向; 目标
+   ≫   ...a marketing orientation.  …一个营销目标。
+   ≫   To a society which has lost its orientation he has much to offer.  对一个迷失了方向的社会，他有许多要做的。
+2. (N-VAR) Someone's orientation is their basic beliefs or preferences. 基本信仰; 取向
+   ≫   ...legislation that would have made discrimination on the basis of sexual orientation illegal.  …原本可以使基于性取向的歧视不合法的立法。
+3. (N-UNCOUNT) Orientation is basic information or training that is given to people starting a new job, school, or course. (任职、上学等之前的) 情况介绍; 训练
+   ≫   They give their new employees a day or two of orientation.  他们对新员工进行一两天的培训。
+4. (N-COUNT) The orientation of a structure or object is the direction it faces. 朝向
+   ≫   Farnese had the orientation of the church changed so that the front would face a square.  法尔内塞把教堂的朝向改了，使其正面对着一个广场。
+
+========================================================================
+>>> lateral
+------------------------------------------------------------------------
+lateral    [美 ˈlætərəl / 英 ˈlætərəl]
+adj. 侧面的，横（向）的；（职位、工作、关系等）平级的，同级的；<英>多角度思考的；（辅音，尤指英语清音l，或其发音）边音的，旁流音的
+n. 物体旁侧部分，（尤指长于植物主干一侧的）侧芽，侧枝；边音，旁流音；侧向传球
+v. 横向传球
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Lateral means relating to the sides of something, or moving in a sideways direction. 侧面的; 横向的
+   ≫   McKinnon estimated the lateral movement of the bridge to be between four and six inches.  麦金农估计大桥的横向移动范围在4到6英寸之间。
+
+========================================================================
+>>> etching
+------------------------------------------------------------------------
+etching    [美 ˈetʃɪŋ / 英 ˈetʃɪŋ]
+n. 蚀刻术；蚀刻版画
+v. 蚀刻；刻画（etch 的 ing 形式）
+adj. 蚀刻的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An etching is a picture printed from a metal plate that has had a design cut into it with acid. 蚀刻版画
+
+========================================================================
+>>> recess
+------------------------------------------------------------------------
+recess    [美 ˈriːses / 英 ˈriːses; rɪˈses]
+n. （议会、委员会等政治机构的）休会，（法院的）休庭；<美>课间休息；壁龛，（墙的）凹进处；幽深处，隐蔽处；（思想或心灵的）深处；
+v. <美>暂时休会，休庭；将（家具，设备）安装在墙壁凹处（或物体表面）
+★ CET6+ TEM4 recessing,recessed,recesses
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A recess is a break between the periods of work of an official body such as a committee, a court of law, or a government. (会议、法庭或政府等官方机构的) 休息 [also 'in/from' N]
+   ≫   The conference broke for a recess, but the 10-minute break stretched to two hours.  会议暂时休会，但10分钟的休息延长到了两小时。
+2. (N-VAR) In a school, recess is the period of time between classes when the children are allowed to play. 课间休息 [美国英语]
+   ≫   She decides to visit the school library during recess.  她准备课间休息的时候去参观学校图书馆。
+   ≫   ...the children's first morning recess.  …那些孩子们上午的第一次课间休息。
+3. (V-I) When formal meetings or court cases recess, they stop temporarily. 暂时休会; 休庭 [正式]
+   ≫   The hearings have now recessed for dinner.  听证会现已暂时休会以便大家吃饭。
+4. (N-COUNT) In a room, a recess is part of a wall which is built further back than the rest of the wall. Recesses are often used as a place to put furniture such as shelves. 壁龛
+   ≫   ...a discreet recess next to a fireplace.  …一座壁炉旁的一个隐秘的壁龛。
+5. (N-COUNT) The recesses of something or somewhere are the parts of it that are hard to see because light does not reach them or they are hidden from view. 暗处; 隐蔽处
+   ≫   He emerged from the dark recesses of the garage.  他从那间车库漆黑的隐蔽处走了出来。
+6. (N-COUNT) If you refer to the recesses of someone's mind or soul, you are referring to thoughts or feelings they have which are hidden or difficult to describe. (思想、灵魂的) 深处
+   ≫   There was something in the darker recesses of his unconscious that was troubling him.  在他潜意识的隐秘的深处有一些东西让他觉得不安。
+
+========================================================================
+>>> impractical
+------------------------------------------------------------------------
+impractical    [美 ɪmˈpræktɪk(ə)l / 英 ɪmˈpræktɪk(ə)l]
+adj. 不明智的，不切实际的；（人）无动手能力的，手不灵巧的
+★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe an object, idea, or course of action as impractical, you mean that it is not sensible or realistic, and does not work well in practice. 不切实际的
+   ≫   Once there were regularly scheduled airlines, it became impractical to make a business trip by ocean liner.  一旦有了定期的飞机航班，乘坐远洋客轮出差就变得不切实际了。
+2. (ADJ) If you describe someone as impractical, you mean that they do not have the abilities or skills to do practical work such as making, repairing, or organizing things. 缺乏实际能力的
+   ≫   Geniuses are supposed to be difficult, eccentric and hopelessly impractical.  天才被认为很难相处、行为怪僻且毫无实际能力。
+
