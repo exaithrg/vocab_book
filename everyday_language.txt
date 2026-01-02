@@ -10,3 +10,229 @@ two thousand and twenty-six
 ≫   South Korea is due to achieve the perilous status of being a “super-aged” country by 2026. 因此，到2026年，韩国很可能会达到一个危险的状态——超高龄社会。
 
 <<=== 2026.01.02 08:59 ===>>
+========================================================================
+>>> hierarchy—attributes
+------------------------------------------------------------------------
+hierarchy attributes
+Attributes hierarchy 属性级别 ; 属性优先级别
+attributes hierarchy model 属性判断矩阵
+Attributes s hierarchy 属性级别
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   使用这种方法，您可以将一个完整类层次结构映射成一个数据实体，而层次结构中所有类的所有属性都存储在这个实体中。 With this approach, you map an entire class hierarchy into one data entity, where all the attributes of all the classes in the hierarchy are stored.
+≫   清单2展示了一个XML模式实例中的初始元素和属性的层次结构。 Listing 2 demonstrates the initial elements and attributes of the hierarchy within an XML schema instance.
+≫   对于查询中的每个(维、层次结构、级)集，判断使用哪些维属性。 For each (dimension, hierarchy, level) set in the query, determine the attributes from the dimension to be in the query.
+
+========================================================================
+>>> impose
+------------------------------------------------------------------------
+impose    [美 ɪmˈpoʊz / 英 ɪmˈpəʊz]
+v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦；把（活字页）拼版；欺骗
+★★★★ CET4 TEM4 imposing,imposed,imposes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you impose something on people, you use your authority to force them to accept it. 强制实行
+   ≫   Fines are imposed on retailers who sell tobacco to minors.  向未成年人销售烟草制品的零售商要被强制罚款。
+   ≫   A third of companies reviewing pay since last August have imposed a pay freeze of up to a year.  自去年8月以来，在审检工资发放的公司中，有三分之一已经强行实施工资冻结长达1年。
+2. (N-UNCOUNT) imposition N-UNCOUNT 强制实行
+   ≫   ...the imposition of sanctions against Pakistan.  …对巴基斯坦制裁的强制实行。
+3. (V-T) If you impose your opinions or beliefs on other people, you try and make people accept them as a rule or as a model to copy. 把 (观点、信仰等) 强加于
+   ≫   Parents should beware of imposing their own tastes on their children.  父母应该提防把自己的兴趣强加给孩子。
+4. (V-T) If something imposes strain, pressure, or suffering on someone, it causes them to experience it. 使承受 (令人不快之事物)
+   ≫   The filming imposed an additional strain on her.  影片拍摄使她承受了额外的压力。
+5. (V-I) If someone imposes on you, they unreasonably expect you to do something for them which you do not want to do. 不合理地要求
+   ≫   I was afraid you'd feel we were imposing on you.  我担心你会觉得我们在不合理地要求你。
+6. (N-COUNT) imposition N-COUNT 不合理的要求
+   ≫   I know this is an imposition. But please hear me out.  我知道这是个不合理的要求，但请听我把话说完。
+7. (V-T) If someone imposes themselves on you, they force you to accept their company although you may not want to. 使强迫接受
+   ≫   I didn't want to impose myself on my married friends.  我不想硬要我的已婚朋友们接受我。
+
+========================================================================
+>>> mandatory
+------------------------------------------------------------------------
+mandatory    [美 ˈmændətɔːri / 英 ˈmændətəri]
+adj. 强制性的，义务的；受（前国际联盟）委任统治的
+n. 受托人，代理人（=mandatary）
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If an action or procedure is mandatory, people have to do it, because it is a rule or a law. 法定的 [正式]
+   ≫   ...the mandatory retirement age of 65.  …65岁的法定退休年龄。
+2. (ADJ) If a crime carries a mandatory punishment, that punishment is fixed by law for all cases, in contrast to crimes for which the judge or magistrate has to decide the punishment for each particular case. (刑罚) 强制性的 [正式]
+   ≫   ...the mandatory life sentence for murder.  …谋杀罪的强制性终身监禁。
+
+========================================================================
+>>> trim
+------------------------------------------------------------------------
+trim    [美 trɪm / 英 trɪm]
+v. 修剪，修整；削减，减少；修饰，点缀（尤指某物的边缘）；切除，剪掉（不规则或不需要的部分）；调整（船帆）利用风力；使（飞机）配平；调整负载以保持（船，飞机）的平衡；使（身体某一部分）变结实，变瘦；（为个人升迁而在政治上）随大流，见风使舵
+n. （尤指毛发的）修剪；额外装饰，边饰，点缀物；汽车装饰（尤指车内座椅铺面或内垫衬料）；（电影剪辑后的）废片；（船在水中的）水平位势；（飞机）配平；良好的状态（或情况）；机翼的位置
+adj. 整齐的，整洁美观的；修长的，苗条而健康的
+【名】 （Trim）（美）特里姆（人名）
+★★ CET4 TEM4 trimming,trimmed,trimmer,trims,trimmest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is trim is neat, and attractive. 整洁美观的
+   ≫   The neighbors' gardens were trim and neat.  邻居们的花园既整洁又美观。
+2. (ADJ) If you describe someone's figure as trim, you mean that it is attractive because there is no extra fat on their body. 苗条的 [表赞许]
+   ≫   The driver was a trim young woman of perhaps thirty.  驾车者是一位大约三十来岁的苗条年轻女子。
+3. (V-T) If you trim something, for example, someone's hair, you cut off small amounts of it in order to make it look neater. 修剪
+   ≫   My friend trims my hair every eight weeks.  我朋友每隔8周就为我修剪一次头发。
+4. (N-SING) Trim is also a noun. 修剪
+   ≫   His hair needed a trim.  他的头发需要修剪了。
+5. (V-T) If a government or other organization trims something such as a plan, policy, or amount, they reduce it slightly in extent or size. 削减
+   ≫   American companies looked at ways they could trim these costs.  美国公司研究了他们可能削减成本的方案。
+6. (V-T) If something such as a piece of clothing is trimmed with a type of material or design, it is decorated with it, usually along its edges. 镶边于 [usu passive]
+   ≫   ...jackets, which are then trimmed with crocheted flowers.  …镶着钩针编织花边的夹克。
+7. (N-VAR) The trim on something such as a piece of clothing is a decoration, for example, along its edges, that is in a different colour or material. 镶边
+   ≫   ...a white satin scarf with black trim.  …一条镶着黑边的白色绸缎围巾。
+
+========================================================================
+>>> ultimately
+------------------------------------------------------------------------
+ultimately    [美 ˈʌltɪmətli / 英 ˈʌltɪmətli]
+adv. 最终，最后；根本上，最重要地
+★★★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADV) Ultimately means finally, after a long and often complicated series of events. 最终
+   ≫   Whatever the scientists ultimately conclude, all of their data will immediately be disputed.  无论科学家们最终得出什么结论，他们的所有数据将随即受到质疑。
+2. (ADV) You use ultimately to indicate that what you are saying is the most important point in a discussion. 最重要地 [ADV with cl]
+   ≫   Ultimately, Judge Lewin has the final say.  最重要地，卢因法官有最终发言权。
+
+========================================================================
+>>> attributes
+------------------------------------------------------------------------
+attributes    [美 əˈtrɪbjuːts / 英 əˈtrɪbjuːts]
+n. 属性（attribute 的复数）
+v. 认为……属于；把……归咎于；确定……产生的时间（attribute 的第三人称单数）
+★★ CET4 attributing,attributed,attributes
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. (V-T) If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自… [usu passive]
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> wrap
+------------------------------------------------------------------------
+wrap    [美 ræp / 英 ræp]
+v. 包，裹，包装；用（手臂、指头或腿）围紧，用……绕住；绕……走；完成拍摄，杀青 ；<非正式>使（车辆）撞上（固定物体）；（使文字）换行
+n. 披肩，围巾； 包裹（或包装）材料；宽松外套，浴衣；面卷饼（一种三明治，由薄面包包着肉、蔬菜等）；拍摄（或录音）结束，停机；（全身覆盖湿布或海草等进行的）皮肤护理；（喻）秘密；<英，非正式>一小包白粉（毒品）
+★★★ CET4 TEM4 wrapping,wrapped,wraps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When you wrap something, you fold paper or cloth tightly around it to cover it completely, for example, in order to protect it or so that you can give it to someone as a present. 包
+   ≫   Harry had carefully bought and wrapped presents for Mark to give the children.  哈里已精心为马克买好、包好那些给孩子们的礼物。
+2. (PHRASAL VERB) Wrap up means the same as . 包
+   ≫   Diana is taking the opportunity to wrap up the family presents.  戴安娜正在利用这个机会包装给家人的礼物。
+3. (V-T) When you wrap something such as a piece of paper or cloth around another thing, you put it around it. 用…包裹
+   ≫   She wrapped a handkerchief around her bleeding palm in an effort to protect it.  她用手帕包扎她那流血的手掌来保护它。
+4. (PHRASE) If you keep something under wraps, you keep it secret, often until you are ready to announce it at some time in the future. 保密
+   ≫   The bids were submitted in May and were kept under wraps until October.  标书是5月递交的，直到10月都秘而不宣。
+
+========================================================================
+>>> swizzling
+------------------------------------------------------------------------
+swizzling
+vt. 用搅酒棒拌和（swizzle 的现在分词）
+vi. 过量饮酒（swizzle 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an unshaken cocktail 未摇的鸡尾酒 [美国英语]
+2. (V) to stir a swizzle stick in (a drink) 把调酒棒插入(饮品中)
+
+========================================================================
+>>> swizzle
+------------------------------------------------------------------------
+swizzle    [美 ˈswɪzl / 英 ˈswɪz(ə)l]
+n. 碎冰鸡尾酒
+vt. 狂饮；用搅酒棒拌和
+vi. 纵酒
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an unshaken cocktail 未摇的鸡尾酒 [美国英语]
+2. (V) to stir a swizzle stick in (a drink) 把调酒棒插入(饮品中)
+
+========================================================================
+>>> stride
+------------------------------------------------------------------------
+stride    [美 straɪd / 英 straɪd]
+n. 大步；步幅；进展
+vt. 跨过；大踏步走过；跨坐在…
+vi. 跨；跨过；大步行走
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you stride somewhere, you walk there with quick, long steps. 大步走
+   ≫   They were joined by a newcomer who came striding across a field.  他们中又来了个新人，那人穿过一块田地大步走过来。
+2. (N-COUNT) A stride is a long step which you take when you are walking or running. 大步
+   ≫   With every stride, runners hit the ground with up to five times their body-weight.  赛跑者的每一步都以5倍于他们体重的力量撞击地面。
+3. (N-COUNT) If you make strides in something that you are doing, you make rapid progress in it. 进步
+   ≫   The country has made enormous strides politically but not economically.  这个国家在政治上取得了巨大进步，但在经济上却没有。
+4. (PHRASE) If you get into your stride or hit your stride, you start to do something easily and confidently, after being slow and uncertain. 进入状态
+   ≫   The campaign is just getting into its stride.  这场运动刚刚进入状态。
+5. (PHRASE) If you take a problem or difficulty in stride, you deal with it calmly and easily. 从容处理某事
+   ≫   He took the ridiculous accusation in stride.  他从容应对那荒谬的指控。
+
+========================================================================
+>>> retard
+------------------------------------------------------------------------
+retard    [美 rɪˈtɑːrd / 英 rɪˈtɑːd]
+v. <正式>阻碍，减缓；减慢，受到阻滞
+n. <非正式>弱智，笨蛋；延迟，阻止
+TEM8 retarding,retarded,retards
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something retards a process, or the development of something, it makes it happen more slowly. 阻碍; 减缓 [正式]
+   ≫   Continuing violence will retard negotiations over the country's future.  持续不断的暴力活动会阻碍关于国家未来的谈判的进行。
+2. (N-COUNT) If you describe someone as a retard, you mean that they have not developed normally, either mentally or socially. 笨蛋; 傻子 [非正式，侮辱]
+
+========================================================================
+>>> vetard
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Acyclic
+------------------------------------------------------------------------
+acyclic    [美 e'saɪklɪk / 英 eɪ'saɪklɪk; -'sɪk-]
+adj. 非循环的；[物] 非周期的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [chem] not cyclic; having an open chain structure 非环式的
+
+========================================================================
+>>> stried
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> stride
+------------------------------------------------------------------------
+stride    [英 straɪd / 美 straɪd]
+n. 大步，阔步；步态，步伐；步距，步幅；步速；进展，进步；<非正式>裤子（strides）；钢琴跨越弹奏法
+v. 大步走，阔步走；跨越，跨过；<文>跨坐在……上，跨立在……上
+★★ CET4 TEM4 striding,strode,strides
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you stride somewhere, you walk there with quick, long steps. 大步走
+   ≫   They were joined by a newcomer who came striding across a field.  他们中又来了个新人，那人穿过一块田地大步走过来。
+2. (N-COUNT) A stride is a long step which you take when you are walking or running. 大步
+   ≫   With every stride, runners hit the ground with up to five times their body-weight.  赛跑者的每一步都以5倍于他们体重的力量撞击地面。
+3. (N-COUNT) If you make strides in something that you are doing, you make rapid progress in it. 进步
+   ≫   The country has made enormous strides politically but not economically.  这个国家在政治上取得了巨大进步，但在经济上却没有。
+4. (PHRASE) If you get into your stride or hit your stride, you start to do something easily and confidently, after being slow and uncertain. 进入状态
+   ≫   The campaign is just getting into its stride.  这场运动刚刚进入状态。
+5. (PHRASE) If you take a problem or difficulty in stride, you deal with it calmly and easily. 从容处理某事
+   ≫   He took the ridiculous accusation in stride.  他从容应对那荒谬的指控。
+
+========================================================================
+>>> corresponding
+------------------------------------------------------------------------
+corresponding    [美 ,kɔrə'spɑndɪŋ / 英 ,kɒrɪ'spɒndɪŋ]
+adj. 相当的，相应的；一致的；通信的
+v. 类似（correspond的ing形式）；相配
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one thing corresponds to another, there is a close similarity or connection between them. You can also say that two things correspond. 相一致; 相对应
+   ≫   Racegoers will be given a number which will correspond to a horse running in a race.  观看赛马的观众将领到一个与参赛马匹相对应的号码。
+   ≫   The two maps of the Rockies correspond closely.  这两张落基山脉的地图极为相似。
+2. [ADJ n] corresponding 相应的
+   ≫   The rise in interest rates was not reflected in a corresponding rise in the dollar.  利率上调没有反映在相应的美元增值上。
+3. (V-RECIP) If you correspond with someone, you write letters to them. You can also say that two people correspond. 通信
+   ≫   She still corresponds with friends she met in Majorca nine years ago.  她依然和9年前在马略卡岛遇到的朋友们通信。
+
+<<=== 2026.01.03 01:36 ===>>
