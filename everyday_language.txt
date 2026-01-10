@@ -515,3 +515,41 @@ alsotimeline
 Not found :(
 
 <<=== 2026.01.09 18:06 ===>>
+========================================================================
+>>> reticle
+------------------------------------------------------------------------
+reticle    [美 ˈretəkl / 英 ˈretɪk(ə)l]
+n. [光] 标线；[光] 分划板；[光] 十字线
+alsoreticule
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a network of fine lines, wires, etc, placed in the focal plane of an optical instrument to assist measurement of the size or position of objects under observation (放在光学仪器焦平面上的)格子线; 以协助在观察下对大小或位置的测量 (Also called graticule)
+
+========================================================================
+>>> sharding
+------------------------------------------------------------------------
+sharding
+n. 分片；分区
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Sharding: a test drive with easyb. 切分：使用easyb的测试驱动。
+≫   High-level design of an ADO.NET sharding library. NET sharding library的高层次设计。
+≫   Next, I need to verify that my sharding implementation works. 接下来，我需要验证我的切分实现可以工作。
+
+========================================================================
+>>> stub
+------------------------------------------------------------------------
+stub    [美 stʌb / 英 stʌb]
+n. 存根；烟蒂；树桩；断株
+vt. 踩熄；连根拔除
+n. （Stub）人名；（挪、瑞典）斯图布
+★ TEM8 stubbing,stubbed,stubs
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The stub of a cigarette or a pencil is the last short piece of it which remains when the rest has been used. (香烟或铅笔的) 残端
+   ≫   He pulled the stub of a pencil from behind his ear.  他从他的耳朵后面抽出了一个铅笔头。
+2. (N-COUNT) A ticket stub is the part that you keep when you go in to watch a performance. 票根
+   ≫   Fans who still have their ticket stubs should contact the box office by July 3.  仍保留着票根的歌迷们应在7月3号前联系售票处。
+3. (N-COUNT) A cheque stub is the small part that you keep as a record of what you have paid. (支票的) 存根
+   ≫   I have every cheque stub we've written since 1959.  我有自1959年以来我们填写过的每一张支票存根。
+4. (V-T) If you stub your toe, you hurt it by accidentally kicking something. 不小心踢到
+   ≫   I stubbed my toes against a table leg.  我不小心把我的脚趾踢到一条桌腿上。
+
+<<=== 2026.01.10 17:43 ===>>
