@@ -554,3 +554,33 @@ n. （Stub）人名；（挪、瑞典）斯图布
 
 <<=== 2026.01.10 17:43 ===>>
 <<=== 2026.01.10 17:44 ===>>
+========================================================================
+>>> polyhedron
+------------------------------------------------------------------------
+polyhedron    [美 ˌpɑːliˈhiːdrən; ˌpɑːliˈhedrən / 英 ˌpɒliˈhiːdrən; ˌpɒliˈhedrən]
+n. 多面体
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a solid figure consisting of four or more plane faces (all polygons), pairs of which meet along an edge, three or more edges meeting at a vertex. In a regular polyhedron all the faces are identical regular polygons making equal angles with each other. Specific polyhedrons are named according to the number of faces, such as tetrahedron, icosahedron, etc 多面体
+
+========================================================================
+>>> disjoint
+------------------------------------------------------------------------
+disjoint    [美 dɪsˈdʒɔɪnt / 英 dɪsˈdʒɔɪnt]
+v. 打散；拆开；（使）关节脱离
+adj. 不连贯的；（两个集合）不相交的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to take apart or come apart at the joints 使...的关节脱离
+2. (ADJ) (of two sets) having no members in common (两个集合)不相交的 [maths]
+
+========================================================================
+>>> emulate
+------------------------------------------------------------------------
+emulate    [美 ˈemjuleɪt / 英 ˈemjuleɪt]
+v. 仿效，模仿；仿真；努力赶上
+adj. <古>争强好胜的
+★ CET6+ TEM8 emulating,emulated,emulates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you emulate something or someone, you imitate them because you admire them a great deal. 效仿 [正式]
+   ≫   Sons are traditionally expected to emulate their fathers.  传统上认为儿子应该效仿他们的父亲。
+
+<<=== 2026.01.11 12:33 ===>>
