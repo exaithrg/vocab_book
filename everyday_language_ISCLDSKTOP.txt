@@ -14,3 +14,22 @@ n. （Hi）人名；（柬）希
 <<=== 2026.01.17 20:36 @ ISCLDSKTOP ===>>
 <<=== 2026.01.17 20:36 @ ISCLDSKTOP ===>>
 <<=== 2026.01.21 10:11 @ ISCLDSKTOP ===>>
+========================================================================
+>>> chart
+------------------------------------------------------------------------
+chart    [美 tʃɑːrt / 英 tʃɑːt]
+n. 图表，曲线图；海图，星位图；排行榜
+v. 绘制；记录，跟踪；制定（行动计划）；进榜，上榜
+【名】 （Chart）（泰）察（人名）
+★★★ CET4 TEM4 charting,charted,charts
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chart is a diagram, picture, or graph which is intended to make information easier to understand. 图表
+   ≫   Male unemployment was 14.2%, compared with 5.8% for women (see chart on next page).  男性失业率是14.2%，相比女性为5.8% (参见下页图表)。
+2. (N-COUNT) A chart is a map of the sea or stars. 海图; 星图
+   ≫   ...charts of Greek waters.  …希腊水域图。
+3. (V-T) If you chart an area of land, sea, or sky, or a feature in that area, you make a map of the area or show the feature in it. 绘制
+   ≫   Ptolemy charted more than 1,000 stars in 48 constellations.  托勒密绘制了48个星座中1000多颗星的星图。
+4. (V-T) If you chart the development or progress of something, you observe it and record or show it. You can also say that a report or graph charts the development or progress of something. 用图表记录
+   ≫   One doctor has charted a dramatic rise in local childhood asthma since the road was built.  一位医生用图表记录的方式，说明道路建成后当地儿童哮喘发病率急剧上升。
+
+<<=== 2026.01.21 13:37 @ ISCLDSKTOP ===>>
