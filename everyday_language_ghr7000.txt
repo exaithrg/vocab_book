@@ -326,3 +326,64 @@ residing    [美 rɪˈzaɪdɪŋ]
    ≫   Happiness does not reside in strength or money.  幸福不存在于力量或金钱之中。
 
 <<=== 2026.01.21 13:38 @ ghr7000 ===>>
+========================================================================
+>>> comment
+------------------------------------------------------------------------
+comment    [美 ˈkɑːment / 英 ˈkɒment]
+n. 评论，意见；批评，指责；说明，写照；<旧>解说，注释；（计算机）注解
+v. 评论，发表意见；（计算机）注解，把（部分程序）转成注解
+【名】 （Comment）（美、瑞、法）科门特（人名）
+★★★★ CET4 TEM4 commenting,commented,comments
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you comment on something, you give your opinion about it or you give an explanation for it. 评论; 解释
+   ≫   So far, Mr. Cook has not commented on these reports.  到目前为止，库克先生还未对这些报告进行过评论。
+   ≫   You really can't comment until you know the facts.  你的确不能在你知道事实之前进行评论。
+   ≫   One student commented that she preferred literature to social science.  一位学生解释说，较之于社会科学她更喜欢文学。
+2. (N-VAR) A comment is something that you say which expresses your opinion of something or which gives an explanation of it. 评论; 解释
+   ≫   He made his comments at a news conference in Amsterdam.  他在阿姆斯特丹的一次记者招待会上做了评论。
+   ≫   There's been no comment so far from police about the allegations.  到目前为止还没有来自警方的对那些指控的任何解释。
+3. (CONVENTION) People say "no comment" as a way of refusing to answer a question, usually when it is asked by a journalist. 无可奉告
+   ≫   No comment. I don't know anything.  无可奉告。我什么也不知道。
+
+========================================================================
+>>> 注释
+------------------------------------------------------------------------
+注释
+n. annotation
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It will be published with annotations and index. 这本书出版时将附有注释和索引。《牛津词典》
+≫   These statements are accompanied by a series of explanatory notes. 这些声明附有一系列的解释性注释。《柯林斯英汉双解大词典》
+≫   He supplied annotations to nearly 15,000 musical works. 他给近15,000部音乐作品提供了注释。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> 蓝图
+------------------------------------------------------------------------
+蓝图
+vt. blueprint
+misc. positive print
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The report is being heralded as a blueprint for the future of transport. 这份报告被宣称是未来运输的蓝图。《牛津词典》
+≫   The president will offer delegates his blueprint for the country's future. 总统将向代表们提出他的国家未来蓝图。《柯林斯英汉双解大词典》
+≫   There is a slight inaccuracy in this blueprint. 这张蓝图有点不准。《新英汉大辞典》
+
+========================================================================
+>>> 半自动
+------------------------------------------------------------------------
+半自动
+adj. semi-automatic
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   France dislikes "semi-automatic" sanctions. 法国不赞成“半自动”的制裁。
+≫   This washing machine is automatic, and the others are semiautomatic. 这是自动清洗机，和其他人都是半自动。
+≫   Demand remedies backed by the threat of "semi-automatic" sanctions. 要求实行以“半自动”处罚威胁保证的补救手段。
+
+========================================================================
+>>> 分配
+------------------------------------------------------------------------
+分配
+allocation ; distribution ; allot ; distribute ; apportion ; assign
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What they're doing is setting up distributional networks. 他们在做的是建立好货物分配网络。《柯林斯英汉双解大词典》
+≫   Tickets are limited and will be allocated to those who apply first. 票数有限，将分配给那些先申请的人。《柯林斯英汉双解大词典》
+≫   The two large classrooms have been assigned to us. 这两间大教室分配给了我们。《牛津词典》
+
+<<=== 2026.01.22 01:04 @ ghr7000 ===>>
