@@ -844,3 +844,203 @@ v. 筑防于，设要塞于；提高（食品）营养价值；使增强体质�
    ≫   All sherry is made from wine fortified with brandy.  所有雪利酒都是由用白兰地强化了的葡萄酒制成的。
 
 <<=== 2026-01-28 ===>>
+========================================================================
+>>> crop
+------------------------------------------------------------------------
+crop    [美 krɑːp / 英 krɒp]
+n. 庄稼；（谷物或水果的）收成，产量；（同时涌现的）一批，一帮；平头，短发；（尤指头发）大量，丰富；短马鞭；（鸟的）嗉囊；（农场一年的）牲口总数；鞣制的整张兽皮
+v. 剪短；剪裁（照片）；（牲畜）啃吃（草）；种植（庄稼）；收获
+★★★ CET4 TEM4 cropping,cropped,crops
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Crops are plants such as wheat and potatoes that are grown in large quantities for food. 庄稼
+   ≫   Rice farmers here still plant and harvest their crops by hand.  这里的稻农仍然用手工种植和收割庄稼。
+2. (N-COUNT) The plants or fruits that are collected at harvest time are referred to as a crop. 收成
+   ≫   Each year it produces a fine crop of fruit.  每年这里的水果收成都不错。
+   ≫   The U.S. government says that this year's corn crop should be about 8 percent more than last year.  美国政府称今年的玉米产量应该比去年增长约8﹪。
+3. (N-COUNT) A crop is a short hairstyle. 短发
+   ≫   She had her long hair cut into a boyish crop.  她让人把她的长发剪成了像男孩子的短发。
+4. (N-SING) You can refer to a group of people or things that have appeared together as a crop of people or things. 一群 (人); 一堆 (物) [非正式]
+   ≫   The present crop of books and documentaries about Marilyn Monroe exploit the thirtieth anniversary of her death.  现在这批有关玛丽莲·梦露的书籍和记录片是借她去世三十周年纪念之机而发行的。
+5. (V-I) When a plant crops, it produces fruits or parts which people want. 收获
+   ≫   Although these vegetables adapt well to our temperate climate, they tend to crop poorly.  虽然这些蔬菜能够适应我们这里的温和气候，但它们的产量常常不高。
+6. (V-T) To crop someone's hair means to cut it short. 把…剪短
+   ≫   She cropped her hair and dyed it blonde.  她把头发剪短并染成了金色。
+7. (V-T) If you crop a photograph, you cut part of it off, in order to get rid of part of the picture or to be able to frame it. 裁切
+   ≫   I decided to crop the picture just above the water line.  我决定把这张照片裁切到刚刚高于水位线的地方。
+
+========================================================================
+>>> typical
+------------------------------------------------------------------------
+typical    [美 ˈtɪpɪk(ə)l / 英 ˈtɪpɪk(ə)l]
+adj. 典型的，有代表性的；一贯的，平常的；不出所料，特有的；象征性的
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use typical to describe someone or something that shows the most usual characteristics of a particular type of person or thing, and is therefore a good example of that type. (某人或某物) 有典型性的; 有代表性的
+   ≫   Cheney is everyone's image of a typical cop: a big white guy, six feet, 220 pounds.  切尼是每个人心目中典型的警察形象：高大的白人，身高6英尺，体重220磅。
+2. (ADJ) If a particular action or feature is typical of someone or something, it shows their usual qualities or characteristics. (行为或特征) 典型的
+   ≫   This reluctance to move toward a democratic state is typical of totalitarian regimes.  这种不愿朝民主国家迈进的态度是极权主义政体的典型特征。
+3. (ADJ) If you say that something is typical of a person, situation, or thing, you are criticizing them or complaining about them and saying that they are just as bad or disappointing as you expected them to be. 一贯的 (用于批评或抱怨) [情感]
+   ≫   She threw her hands into the air. "That is just typical of you, isn't it?"  她往空中挥挥双手说，“你一贯就是这个样子，是不是？”
+
+========================================================================
+>>> invasice
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> invasive
+------------------------------------------------------------------------
+invasive    [美 ɪnˈveɪsɪv / 英 ɪnˈveɪsɪv]
+adj. 扩散性的，侵入的；切入的，开刀的
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use invasive to describe something undesirable that spreads very quickly and that is very difficult to stop from spreading. (令人不快的事物) 迅速扩散的
+   ≫   They found invasive cancer during a routine examination.  他们在一次例行检查中发现了扩散的癌细胞。
+2. (ADJ) An invasive medical procedure involves operating on a patient or examining the inside of their body. 开刀的
+   ≫   Many people find the idea of any kind of invasive surgery unbearable.  许多人觉得任何一种开刀手术都是难以忍受的。
+
+========================================================================
+>>> vine
+------------------------------------------------------------------------
+vine    [美 vaɪn / 英 vaɪn]
+n. 葡萄属植物，葡萄藤；藤本植物，攀缘植物
+v. 长成藤蔓，爬藤
+【名】 （Vine）（葡）维内，（英）瓦因（人名）
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A vine is a plant that grows up or over things, especially one that produces grapes. (尤指葡萄的) 藤
+   ≫   Every square metre of soil was used, mainly for olives, vines, and almonds.  每一平方米的土壤都用上了，主要是种植橄榄、葡萄藤和杏树。
+
+========================================================================
+>>> cassava
+------------------------------------------------------------------------
+cassava    [美 kəˈsɑːvə / 英 kəˈsɑːvə]
+n. 木薯（等于 cassawa）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cassava is a South American plant with thick roots. It is grown for food. 木薯
+2. (N-UNCOUNT) Cassava is a substance that comes from the root of the cassava plant and is used to make flour. 木薯粉
+
+========================================================================
+>>> ivy
+------------------------------------------------------------------------
+ivy    [美 ˈaɪvi / 英 ˈaɪvi]
+n. 常青藤；用于类似的攀缘植物的名称中
+adj. 常春藤联盟的
+【名】 （Ivy）（美、英）艾维（人名）
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Ivy is an evergreen plant that grows up walls or along the ground. 常春藤
+
+========================================================================
+>>> tropical
+------------------------------------------------------------------------
+tropical    [美 ˈtrɑːpɪk(ə)l / 英 ˈtrɒpɪk(ə)l]
+adj. 热带的，热带地区的；（天气）湿热的
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Tropical means belonging to or typical of the tropics. 热带的 [ADJ n]
+   ≫   ...tropical diseases.  …热带疾病。
+2. (ADJ) Tropical weather is hot and damp weather typical of the tropics. 湿热的
+   ≫   The cool, sweet milk is just what you need in the tropical heat.  清凉的甜牛奶正是你在湿热的高温中所需要的。
+
+========================================================================
+>>> onigiri
+------------------------------------------------------------------------
+onigiri
+饭团
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Nori is most widely enjoyed is in the hugely popular snack known as onigiri, which has sandwich-like portability and can be readily consumed. 紫菜最受欢迎的是饭团，它像三明治一样轻便携带，随时可供食用。
+≫   Onigiri are often a essential part of any bento or Japanese boxed meal. 饭团是日式便当里不可或缺的角色。
+≫   Come in at lunch time on a weekday and get free Onigiri (rice ball) with your meal! 平日午餐时间饭团也免费供应！
+
+========================================================================
+>>> zunda
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pudding
+------------------------------------------------------------------------
+pudding    [美 'pʊdɪŋ / 英 'pʊdɪŋ]
+n. 布丁
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A pudding is a cooked sweet food made from ingredients such as milk, sugar, flour, and eggs, and is served either hot or cold. 布丁
+   ≫   ...a banana vanilla pudding.  …一份香蕉香草布丁。
+
+========================================================================
+>>> soyoil
+------------------------------------------------------------------------
+soyoil
+黄豆油
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Soyoil: 10 to 20 points higher; spillover from soybeans, crude oil. 豆油：由于受到大豆和原油的外溢作用，将有10到20点的涨幅。
+≫   "Usually, when soyoil is being shipped from the United States, the price (of soyoil) usually goes up as the country is not geared towards large exports," he said. “通常，当美国开始出口豆油时，(豆油)价格总会上升，因为美国不是一个大量出口豆油的国家，”他说。
+≫   "Soyoil imports will rise as after the recent rally in palm oil prices, it has become cheaper than palm oil," B. V. Mehta, executive director of Solvent Extractors' Association of India said. “棕榈油价格最近上涨之后，已超过豆油价格，因此豆油进口量将上升，”印度炼油企业协会执行董事梅塔说。
+
+========================================================================
+>>> ruby
+------------------------------------------------------------------------
+ruby    [美 ˈruːbi / 英 ˈruːbi]
+n. 红宝石；深红色；（印刷）5点铅字
+adj. 深红色的
+【名】 （Ruby）（法）吕比，（英、西、德、匈、瑞典）鲁比（人名）
+★ CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A ruby is a dark red jewel. 红宝石
+   ≫   ...a ruby and diamond ring.  …一枚红宝石钻戒。
+2. (COLOR) Something that is ruby is dark red in colour. 深红色 (的)
+   ≫   ...a glass of ruby-red Cabernet Sauvignon.  …一杯深红色的赤霞珠红葡萄酒。
+
+========================================================================
+>>> veggie
+------------------------------------------------------------------------
+veggie    [美 ˈvedʒi / 英 ˈvedʒi]
+n. 素食者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Veggie means the same as . 同vegetarian [非正式]
+   ≫   You can cook a cheap veggie chilli in 15 minutes.  你可以在15分钟内做出一道便宜的辣椒素菜。
+2. (N-COUNT) A veggie is someone who is vegetarian. 素食主义者
+3. (N-COUNT) Veggies is an abbreviation for vegetables. vegetables的缩写 [美国英语] [非正式] [usu pl]
+
+========================================================================
+>>> fennel
+------------------------------------------------------------------------
+fennel    [美 'fɛnl / 英 'fen(ə)l]
+n. 茴香
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Fennel is a plant with a crisp rounded base and feathery leaves. It can be eaten as a vegetable or the leaves can be used as a herb. 茴香
+
+========================================================================
+>>> honeydew
+------------------------------------------------------------------------
+honeydew    [美 ˈhʌnɪˌdjʊ / 英 ˈhʌnidjuː]
+n. 蜜露；蜜汁；甘汁
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a sugary substance excreted by aphids and similar insects (蚜虫和类似的昆虫分泌出的)含糖物
+
+========================================================================
+>>> otter
+------------------------------------------------------------------------
+otter    [美 ˈɑːtər / 英 ˈɒtə(r)]
+n. 水獭；水獭皮；浮钩具
+【名】 （Otter）（英、德、法、瑞典）奥特（人名）
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An otter is a small animal with brown fur, short legs, and a long tail. Otters swim well and eat fish. 水獭
+
+========================================================================
+>>> cobwab
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> cobweb
+------------------------------------------------------------------------
+cobweb    [美 'kɑb'wɛb / 英 'kɒbweb]
+n. 蜘蛛网；蛛丝；圈套
+vt. 使布满蛛网；使混乱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) mustiness, confusion, or obscurity 陈腐; 混乱; 晦涩
+
+<<=== 2026-01-29 ===>>
