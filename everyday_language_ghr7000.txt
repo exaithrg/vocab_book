@@ -1044,3 +1044,47 @@ vt. 使布满蛛网；使混乱
 1. (N-PLURAL) mustiness, confusion, or obscurity 陈腐; 混乱; 晦涩
 
 <<=== 2026-01-29 ===>>
+========================================================================
+>>> bugle
+------------------------------------------------------------------------
+bugle    [美 ˈbjuːɡl / 英 ˈbjuːɡl]
+n. 喇叭；军号；筋骨草属植物
+vt. 吹号集合
+vi. 吹号；吹喇叭
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bugle is a simple brass musical instrument that looks like a small trumpet. Bugles are often used in the army to announce when activities such as meals are about to begin. 军号
+2. (V) to play or sound (on) a bugle 吹军号
+3. (N) any of several Eurasian plants of the genus Ajuga, esp A. reptans, having small blue or white flowers: family Lamiaceae (labiates) 筋骨草 (Also called bugleweed) → see also ground pine
+4. (N) a tubular glass or plastic bead sewn onto clothes for decoration 圆管状饰珠
+
+========================================================================
+>>> castle
+------------------------------------------------------------------------
+castle    [英 ˈkɑːs(ə)l / 美 ˈkæs(ə)l]
+n. 城堡，堡垒；（国际象棋中的）车；豪宅
+v. （国际象棋中）王车易位；置……于城堡中
+【名】 （Castle）（英）卡斯尔（人名）
+★★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A castle is a large building with thick, high walls. Castles were built by important people, such as kings, in former times, especially for protection during wars and battles. 城堡
+
+========================================================================
+>>> nautilus
+------------------------------------------------------------------------
+nautilus    [美 ˈnɔːtɪləs / 英 ˈnɔːtɪləs]
+n. 鹦鹉螺；鹦鹉螺号
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any cephalopod mollusc of the genus Nautilus, esp the pearly nautilus 鹦鹉螺目软体动物
+
+========================================================================
+>>> proxy
+------------------------------------------------------------------------
+proxy    [美 ˈprɑːksi / 英 ˈprɒksi]
+n. 代理权，代表权；代理人，代表；（测算用的）代替物，指标；投票委托书
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you do something by proxy, you arrange for someone else to do it for you. 代理权
+   ≫   Those not attending the meeting may vote by proxy.  没有到会的人可由别人代为投票。
+
+<<=== 2026-01-30 ===>>
