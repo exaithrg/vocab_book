@@ -1089,3 +1089,101 @@ n. 代理权，代表权；代理人，代表；（测算用的）代替物，�
 
 <<=== 2026-01-30 ===>>
 <<=== 2026-01-31 ===>>
+========================================================================
+>>> canvas
+------------------------------------------------------------------------
+canvas    [美 'kænvəs / 英 'kænvəs]
+n. 帆布
+vt. 用帆布覆盖，用帆布装备
+adj. 帆布制的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Canvas is a strong, heavy cloth that is used for making things such as tents, sails, and bags. 帆布
+   ≫   ...a canvas bag.  …一个帆布包。
+2. (N-VAR) A canvas is a piece of canvas or similar material on which an oil painting can be done. 油画布
+3. (N-COUNT) A canvas is a painting that has been done on canvas. 帆布油画
+   ≫   The show includes canvases by masters like Carpaccio, Canaletto and Guardi.  展览包括卡巴秋、卡纳列托和瓜第等大师的帆布油画。
+
+========================================================================
+>>> canvas
+------------------------------------------------------------------------
+canvas    [美 'kænvəs / 英 'kænvəs]
+n. 帆布
+vt. 用帆布覆盖，用帆布装备
+adj. 帆布制的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Canvas is a strong, heavy cloth that is used for making things such as tents, sails, and bags. 帆布
+   ≫   ...a canvas bag.  …一个帆布包。
+2. (N-VAR) A canvas is a piece of canvas or similar material on which an oil painting can be done. 油画布
+3. (N-COUNT) A canvas is a painting that has been done on canvas. 帆布油画
+   ≫   The show includes canvases by masters like Carpaccio, Canaletto and Guardi.  展览包括卡巴秋、卡纳列托和瓜第等大师的帆布油画。
+
+========================================================================
+>>> canvas
+------------------------------------------------------------------------
+canvas    [美 'kænvəs / 英 'kænvəs]
+n. 帆布
+vt. 用帆布覆盖，用帆布装备
+adj. 帆布制的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Canvas is a strong, heavy cloth that is used for making things such as tents, sails, and bags. 帆布
+   ≫   ...a canvas bag.  …一个帆布包。
+2. (N-VAR) A canvas is a piece of canvas or similar material on which an oil painting can be done. 油画布
+3. (N-COUNT) A canvas is a painting that has been done on canvas. 帆布油画
+   ≫   The show includes canvases by masters like Carpaccio, Canaletto and Guardi.  展览包括卡巴秋、卡纳列托和瓜第等大师的帆布油画。
+
+========================================================================
+>>> ambient
+------------------------------------------------------------------------
+ambient    [美 ˈæmbiənt / 英 ˈæmbiənt]
+adj. 环境的，周围的；（与）背景音乐（有关）的；（广告）利用环境来做的（区别于媒体广告）
+n. 环境音乐
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) The ambient temperature is the temperature of the air above the ground in a particular place. 环境的 [技术] [ADJ n]
+2. (ADJ) Ambient sound or light is the sound or light which is all around you. (声音或光线)环绕的 [技术] [usu ADJ n]
+   ≫   ...ambient sounds of children in the background.  ...背景处环绕着孩子们的声音。
+
+========================================================================
+>>> pump
+------------------------------------------------------------------------
+pump    [美 pʌmp / 英 pʌmp]
+n. 泵，抽水机；<英>平底鞋，轻软舞鞋；<美>高跟无带女鞋；抽吸，泵送；（生理）泵（指特定离子逆浓度梯度进行的跨膜主动运输机制）
+v. 用泵（或泵样器官等）输送；快速上下（或内外）运动；涌出，涌流；<非正式> 盘问，套问；<非正式> 让某人使用大量药物；<非正式> 举重（pump iron）；给......洗胃；<非正式> 不断制造（pump out）；<非正式>大量增加（pump up）；<非正式>接连发射
+【名】 （Pump）（美、俄、印、泰、加）蓬普（人名）
+★★★ CET4 TEM4 pumping,pumped,pumps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A pump is a machine or device that is used to force a liquid or gas to flow in a particular direction. 泵
+   ≫   ...pumps that circulate the fuel around in the engine.  …使燃料在发动机内循环的压泵。
+   ≫   There was no water in the building, just a pump in the courtyard.  楼里没水，只在院子里有个水泵。
+2. (V-T) To pump a liquid or gas in a particular direction means to force it to flow in that direction using a pump. 抽送
+   ≫   It's not enough to get rid of raw sewage by pumping it out to sea.  仅用水泵将未经处理的污水排入海中是不够的。
+   ≫   The money raised will be used to dig bore holes to pump water into the dried-up lake.  筹到的钱款将用来挖井眼，再将水抽入干涸的湖中。
+3. (N-COUNT) A fuel or petrol pump is a machine with a tube attached to it that you use to fill a car with petrol. 加油泵
+   ≫   The average price for all grades of petrol at the pump was $3.49 a gallon.  加油泵所有等级的汽油平均价格为1加仑3.49美元。
+4. (V-T) If someone has their stomach pumped, doctors remove the contents of their stomach, for example, because they have swallowed poison or drugs. 洗胃 [usu passive]
+   ≫   One woman was rushed to the emergency room to have her stomach pumped.  一名妇女被紧急送进急诊室去洗胃。
+5. (N-COUNT) Pumps are the same as. 同court shoes [美国英语]
+6. (N) a low-cut low-heeled shoe without fastenings, worn esp for dancing 舞鞋
+
+========================================================================
+>>> restrited
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> restrite
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> persimmon
+------------------------------------------------------------------------
+persimmon    [美 pərˈsɪmən / 英 pəˈsɪmən]
+n. 柿子；柿子树
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A persimmon is a soft, orange fruit that looks like a large tomato. Persimmons grow on trees in warm areas including the southern U.S. 柿子
+
+<<=== 2026-02-01 ===>>
