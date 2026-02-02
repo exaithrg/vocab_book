@@ -1187,3 +1187,97 @@ TEM4
 1. (N-COUNT) A persimmon is a soft, orange fruit that looks like a large tomato. Persimmons grow on trees in warm areas including the southern U.S. 柿子
 
 <<=== 2026-02-01 ===>>
+========================================================================
+>>> calamari
+------------------------------------------------------------------------
+calamari    [英 ˌkæləˈmɑːri]
+n. 鱿鱼，炸鱿鱼；炸花枝
+n. （Calamari）人名；（法、意、英）卡拉马里
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) squid cooked for eating, esp cut into rings and fried in batter (用作食品的)鱿鱼
+
+========================================================================
+>>> lamprey
+------------------------------------------------------------------------
+lamprey    [美 ˈlæmpri / 英 ˈlæmpri]
+n. [鱼] 七鳃鳗；八目鳗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any eel-like cyclostome vertebrate of the family Petromyzonidae, having a round sucking mouth for clinging to and feeding on the blood of other animals 七鳃鲤 (Also called lamper eel) → see also sea lamprey
+
+========================================================================
+>>> can
+------------------------------------------------------------------------
+can    [美 kæn; kən / 英 kæn; kən]
+v. （表示有能力做或能够发生）能，会；（表示可能性）可以，能；（用于请求）能，可以；（表示允许）可以；应该（表示某事该做或不该做）；（用于礼貌地提出帮忙）可以，能；把食品装罐保存；<美，非正式>解雇，开除；<美，非正式>停止，结束（某事）
+n. 罐，听；（装液体、垃圾等带盖的）金属容器，塑料容器；<美，非正式>监狱；<美，非正式>厕所；臀部；驱逐舰；破坏者
+【名】 （Can）（美）卡恩（人名）
+★★★★★ CET4 TEM4 canning,canned,cans
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (MODAL) You use can when you are mentioning a quality or fact about something which people may make use of if they want to. 可以
+   ≫   Tickets can be purchased at the Madstone Theatre box office.  票可在麦德斯通剧院售票处买到。
+   ≫   A central reservation number can direct you to accommodations that best suit your needs.  预订总机可以帮你找到最适合你需求的住处。
+2. (MODAL) You use can to indicate that someone has the ability or opportunity to do something. 能够; 会
+   ≫   Don't worry yourself about me, I can take care of myself.  别为我担心，我会照顾好自己的。
+   ≫   I can't give you details because I don't actually have any details.  我无法告诉你详情，因为我确实不了解具体情况。
+   ≫   The United States will do whatever it can to help Greece.  美国将尽一切所能帮助希腊。
+3. (MODAL) You use cannot to indicate that someone is not able to do something because circumstances make it impossible for them to do it. 无法
+   ≫   We cannot buy food and clothes and pay for rent and utilities on $20 a week.  我们无法靠每星期$20来购买食品、衣物，付房租和水电费。
+4. (MODAL) You use can to indicate that something is true sometimes or is true in some circumstances. 可能
+   ≫   ...long-term therapy that can last five years or more.  …可能要持续5年或者更长时间的长期治疗。
+   ≫   Exercising alone can be boring.  独自一个人锻炼可能会很无聊。
+5. (MODAL) You use cannot and can't to state that you are certain that something is not the case or will not happen. 不可能; 不会
+   ≫   From her knowledge of Douglas's habits, she feels sure that that person can't have been Douglas.  根据她对道格拉斯的习惯的了解，她肯定那人不会是道格拉斯。
+   ≫   Things can't be that bad.  情况不会那么糟。
+6. (MODAL) You use can to indicate that someone is allowed to do something. You use cannot or can't to indicate that someone is not allowed to do something. 可以
+   ≫   Can I really have your jeans when you go?  你走后，我真的可以穿你的牛仔裤吗？
+   ≫   We can't answer any questions, I'm afraid.  我们恐怕不能再回答任何问题了。
+7. (MODAL) You use cannot or can't when you think it is very important that something should not happen or that someone should not do something. 不应该 [强调]
+   ≫   It is an intolerable situation and it can't be allowed to go on.  这种情形令人无法容忍，不应该被允许继续下去。
+8. (MODAL) You use can, usually in questions, in order to make suggestions or to offer to do something. 可以; 能 (用于表示建议或给予)
+   ≫   What can I do around here?  在这里我能做什么？
+   ≫   This elderly woman was struggling out of the train and I said, "Oh, can I help you?"  这位老妇人力图挤出列车时，我问道，“哦，我能帮忙吗？”
+9. (MODAL) You use can in questions in order to make polite requests. You use can't in questions in order to request strongly that someone does something. 可以; 能 (用于表示请求) [礼貌]
+   ≫   Can I have a look at that?  我能看看那个东西吗？
+   ≫   Why can't you leave me alone?  你为什么不能别管我的事情？
+10. (MODAL) You use can as a polite way of interrupting someone or of introducing what you are going to say next. 可不可以 (打断谈话或插嘴时) [正式，口语]
+   ≫   Can I interrupt you just for a minute?  我可不可以打断你一会儿？
+   ≫   But if I can interrupt, Joe, I don't think anybody here is personally blaming you.  恕我打断你，乔，我认为这里并没有人在怪你。
+11. (MODAL) You use can with verbs such as "imagine," "think," and "believe" in order to emphasize how you feel about a particular situation. 能够 (与imagine， think， believe连用，表示强调) [非正式，口语]
+   ≫   You can imagine he was terribly upset.  你能想像他有多苦恼。
+   ≫   You can't think how glad I was to see them all go.  你想不到看到他们都走掉我有多开心。
+12. (MODAL) You use can in questions with "how" to indicate that you feel strongly about something. 与(how)连用，表示强烈的感受 [口语]
+   ≫   How can millions of dollars go astray?  数百万美元怎么会丢失了呢？
+   ≫   How can you say such a thing?  你怎么能说这样的话？
+
+========================================================================
+>>> lamprey
+------------------------------------------------------------------------
+lamprey    [美 ˈlæmpri / 英 ˈlæmpri]
+n. [鱼] 七鳃鳗；八目鳗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any eel-like cyclostome vertebrate of the family Petromyzonidae, having a round sucking mouth for clinging to and feeding on the blood of other animals 七鳃鲤 (Also called lamper eel) → see also sea lamprey
+
+========================================================================
+>>> scavenging
+------------------------------------------------------------------------
+scavenging    [美 ˈskævɪndʒɪŋ / 英 ˈskævɪndʒɪŋ]
+n. 清除；净化；[动力]除气法
+v. 打扫；排除废气（scavenge 的现在分词形式）
+★ TEM8 scavenging,scavenged,scavenges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If people or animals scavenge for things, they collect them by searching among waste or unwanted objects. (在垃圾或废物中) 捡拾
+   ≫   Many are orphans, their parents killed as they scavenged for food.  很多人是孤儿，他们的父母在垃圾中捡食物时丢了性命。
+   ≫   Children scavenge through rubbish.  孩子们在垃圾中捡破烂。
+2. (N-COUNT) scavenger N-COUNT 捡破烂的人; 食腐动物
+   ≫   ...scavengers such as rats.  …老鼠之类的食腐动物。
+
+========================================================================
+>>> urchin
+------------------------------------------------------------------------
+urchin    [英 ˈɜːtʃɪn / 美 ˈɜːrtʃɪn]
+n. 顽童，淘气鬼；海胆；刺猬
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An urchin is a young child who is dirty and poorly dressed. (穿着破烂的)小脏孩 [老式] → see also sea urchin
+   ≫   We were in the bazaar with all the little urchins watching us.  我们在集市上被所有穿着破衣烂衫的小脏孩盯着看。
+
+<<=== 2026-02-02 ===>>
