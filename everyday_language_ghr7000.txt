@@ -1407,3 +1407,111 @@ parsing,parsed,parses
 1. (V-T) In grammar, if you parse a sentence, you examine each word and clause in order to work out their grammatical type. 做语法分析 [技术] [V n]
 
 <<=== 2026-02-03 ===>>
+========================================================================
+>>> forge
+------------------------------------------------------------------------
+forge    [美 fɔːrdʒ / 英 fɔːdʒ]
+v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+n. 锻铁炉，锻造车间
+【名】 （Forge）（美）福格（人名）
+★★ CET4 TEM4 forging,forged,forges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one person or institution forges an agreement or relationship with another, they create it with a lot of hard work, hoping that it will be strong or lasting. 努力地缔造
+   ≫   The prime minister is determined to forge a good relationship with the country's new leader.  该首相决意与该国的新领袖建立良好的关系。
+   ≫   They agreed to forge closer economic ties.  他们同意建立更密切的经济联系。
+2. (V-T) If someone forges something such as paper money, a document, or a painting, they copy it or make it so that it looks genuine, in order to deceive people. 伪造 (纸币、文件或画作等)
+   ≫   He admitted seven charges including forging passports.  他承认了包括伪造护照在内的7项罪名。
+   ≫   They used forged documents to leave the country.  他们利用伪造的文件离开了这个国家。
+3. (N-COUNT) forger N-COUNT 伪造者
+   ≫   ...the most prolific art forger in the country.  …该国最大的艺术品伪造者。
+4. (V) to shape (metal) by heating and hammering 锻造(金属)
+5. (V) to move at a steady and persevering pace 匀速移动
+6. (N) a place in which metal is worked by heating and hammering; smithy 锻造间
+
+========================================================================
+>>> prolific
+------------------------------------------------------------------------
+prolific    [美 prəˈlɪfɪk / 英 prəˈlɪfɪk]
+adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A prolific writer, artist, or composer produces a large number of works. (作家、艺术家或作曲家) 多产的
+   ≫   She is a prolific writer of novels and short stories.  她是位多产的长篇和短篇小说家。
+2. (ADJ) An animal, person, or plant that is prolific produces a large number of babies, young plants, or fruit. (动物、人、植物) 多产的
+   ≫   They are prolific breeders, with many hens laying up to six eggs.  他们是多产的培育者，有许多能下多达6个蛋的母鸡。
+
+========================================================================
+>>> reap
+------------------------------------------------------------------------
+reap    [美 riːp / 英 riːp]
+v. 获得，收获；收割（庄稼等）
+【名】 （Reap）（英）里普（人名）
+★ CET4 TEM4 reaping,reaped,reaps
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you reap the benefits or the rewards of something, you enjoy the good things that happen as a result of it. 获得
+   ≫   You'll soon begin to reap the benefits of being fitter.  你很快就会获得身体更健康带来的好处。
+
+========================================================================
+>>> exotic
+------------------------------------------------------------------------
+exotic    [美 ɪɡ'zɑtɪk / 英 ɪg'zɒtɪk; eg-]
+adj. 异国的；外来的；异国情调的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is exotic is unusual and interesting, usually because it comes from or is related to a distant country. (常因来自遥远的他国而显得) 奇异的
+   ≫   ...brilliantly coloured, exotic flowers.  …色彩绚丽的奇异花卉。
+2. (ADV) exotically 奇异地
+   ≫   ...exotically beautiful scenery.  …奇异美景。
+
+========================================================================
+>>> exotic
+------------------------------------------------------------------------
+exotic    [美 ɪɡ'zɑtɪk / 英 ɪg'zɒtɪk; eg-]
+adj. 异国的；外来的；异国情调的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is exotic is unusual and interesting, usually because it comes from or is related to a distant country. (常因来自遥远的他国而显得) 奇异的
+   ≫   ...brilliantly coloured, exotic flowers.  …色彩绚丽的奇异花卉。
+2. (ADV) exotically 奇异地
+   ≫   ...exotically beautiful scenery.  …奇异美景。
+
+========================================================================
+>>> exotic
+------------------------------------------------------------------------
+exotic    [英 ɪɡˈzɒtɪk / 美 ɪɡˈzɑːtɪk]
+adj. 奇异的，异国风情的
+n. 外来植物，外来动物
+★★ CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is exotic is unusual and interesting, usually because it comes from or is related to a distant country. (常因来自遥远的他国而显得) 奇异的
+   ≫   ...brilliantly coloured, exotic flowers.  …色彩绚丽的奇异花卉。
+2. (ADV) exotically ADV 奇异地
+   ≫   ...exotically beautiful scenery.  …奇异美景。
+
+========================================================================
+>>> Insomnia
+------------------------------------------------------------------------
+insomnia    [美 ɪnˈsɑːmniə / 英 ɪnˈsɒmniə]
+n. 失眠（症）
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Someone who suffers from insomnia finds it difficult to sleep. 失眠
+
+========================================================================
+>>> cemetery
+------------------------------------------------------------------------
+cemetery    [美 ˈseməteri / 英 ˈsemətri]
+n. 公墓，墓地
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A cemetery is a place where dead people's bodies or their ashes are buried. 墓地
+
+========================================================================
+>>> cochineal
+------------------------------------------------------------------------
+cochineal    [英 ˌkɒtʃɪˈniːl / 美 ˈkɑːtʃəniːl]
+n. [昆] 胭脂虫；[染料] 胭脂虫红
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cochineal is a red substance that is used for colouring food. 胭脂虫红颜料; 可做食用色素
+
+<<=== 2026-02-04 ===>>
