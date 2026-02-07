@@ -1762,3 +1762,124 @@ n. [鱼] 鲦鱼（一种小淡水鱼）
 1. (N-COUNT) A minnow is a very small fish that lives in lakes and rivers. 鲦鱼
 
 <<=== 2026-02-06 ===>>
+========================================================================
+>>> propeller
+------------------------------------------------------------------------
+propeller    [美 prəˈpelər / 英 prəˈpelə(r)]
+n. （飞机或轮船的）螺旋桨，推进器
+★
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A propeller is a device with blades attached to a boat or aircraft. The engine makes the propeller spin around and causes the boat or aircraft to move. 螺旋桨
+   ≫   ...a fixed three-bladed propeller.  …一个固定的三叶螺旋桨。
+
+========================================================================
+>>> toggle
+------------------------------------------------------------------------
+toggle    [美 ˈtɑːɡl / 英 ˈtɒɡl]
+n. 套索扣，栓扣钉；转换键，切换键；系墙螺栓；（鱼叉上的）转动倒钩
+v. （计算机）切换，转换；为…配备棒形纽扣（或倒钩），用绳针拴牢，用系墙螺栓拧紧
+toggling,toggled,toggles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A toggle is a small piece of wood or plastic which is sewn to something such as a coat or bag, and which is pushed through a loop or hole to fasten it. 棒形纽扣
+2. (V-I) On computers and some other machines, if you toggle between two functions, you use a part of the machine that allows you to switch from one function to the other one. 切换
+   ≫   You can toggle between them and the normal icons by selecting View Options.  你可以通过选定视图选项在它们和正常图标间切换。
+   ≫   He toggled the com to talk to air traffic control.  他切换了通信以与空管交谈。
+3. (N-COUNT) Toggle is also a noun. 切换 [oft N n]
+   ≫   Zimmer reached down on his console and flipped a toggle switch.  齐默把手伸到控制台上并按下了切换开关。
+
+========================================================================
+>>> tooltip
+------------------------------------------------------------------------
+tooltip    [英 ˈtuːltɪp / 美 ˈtuːltɪp]
+n. 工具提示；提示信息；提示框；提示文本
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Listing 1 shows the code for this tooltip. 清单1显示了这个工具提示的代码。
+≫   In this article, I use the more generic term tooltip. 在本文，我使用的是其中更为常见的术语工具提示。
+≫   Notice the value of the hostname variable as a tooltip. 请注意作为工具提示的主机变量的值。
+
+========================================================================
+>>> cosmetic
+------------------------------------------------------------------------
+cosmetic    [美 kɑːzˈmetɪk / 英 kɒzˈmetɪk]
+adj. 装门面的，表面的；化妆用的，美容的；整容的；不重要的，没意义的
+n. 化妆品，美容品
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Cosmetics are substances such as lipstick or powder, which people put on their face to make themselves look more attractive. 化妆品
+   ≫   ...the cosmetics counter of a department store.  …一个百货商店的化妆品专柜。
+2. (ADJ) If you describe measures or changes as cosmetic, you mean they improve the appearance of a situation or thing but do not change its basic nature, and you are usually implying that they are inadequate. 装门面的 [表不满]
+   ≫   It is a cosmetic measure which will do nothing to help the situation long term.  这是装点门面的措施，无益于局势的长期发展。
+
+========================================================================
+>>> Telemetry
+------------------------------------------------------------------------
+telemetry    [美 təˈlemətri / 英 təˈlemətri]
+n. [自] 遥测技术；遥感勘测；自动测量记录传导
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Telemetry is the science of using automatic equipment to make scientific measurements and transmit them by radio to a receiving station. 遥感勘测 [技术]
+
+========================================================================
+>>> Insomnia
+------------------------------------------------------------------------
+insomnia    [美 ɪnˈsɑːmniə / 英 ɪnˈsɒmniə]
+n. 失眠（症）
+★ CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Someone who suffers from insomnia finds it difficult to sleep. 失眠
+
+========================================================================
+>>> ABREVIARE
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Sisyphus
+------------------------------------------------------------------------
+Sisyphus    [美 ˈsɪsəfəs]
+n. 科林斯王（希腊暴君）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a king of Corinth, punished in Hades for his misdeeds by eternally having to roll a heavy stone up a hill: every time he approached the top, the stone escaped his grasp and rolled to the bottom 薛西弗斯; 柯林斯国王，因犯下过错在阴间遭罚，永远把一块巨石向小山滚动，每次当他接近山顶之际都会失手而巨石掉到山脚 [Greek myth]
+
+========================================================================
+>>> mixin
+------------------------------------------------------------------------
+mixin
+n. （计算机）混入
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   A mixin can implement multiple interfaces. 一个mixin可以实现多个接口。
+≫   The callback logic is a good example of a mixin. 这个回调逻辑就是mixin的一个不错例子。
+≫   It turns out that there is — it's known as a mixin. 答案是有的—它就是mixin。
+
+========================================================================
+>>> forcibly
+------------------------------------------------------------------------
+forcibly    [美 ˈfɔːrsəbli / 英 ˈfɔːsəbli]
+adv. 用力地；用武力地，强制地；有说服力地，清楚地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Supporters were forcibly removed from the court. 支持者都被强行从法庭驱走。《牛津词典》
+≫   Four protestors had to be forcibly removed by police. 4名抗议者不得不被警察强行拖走。《柯林斯英汉双解大词典》
+≫   It struck me forcibly how honest he'd been. 我猛然醒悟他是多么的正直。《牛津词典》
+
+========================================================================
+>>> Ecliptic
+------------------------------------------------------------------------
+ecliptic    [美 ɪˈklɪptɪk / 英 ɪˈklɪptɪk]
+adj. （日、月等）食的，黄道的
+n. 黄道
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the great circle on the celestial sphere representing the apparent annual path of the sun relative to the stars. It is inclined at 23.45° to the celestial equator. The poles of the ecliptic lie on the celestial sphere due north and south of the plane of the ecliptic 黄道
+2. (N) (as modifier) 黄道的
+   ≫   the ecliptic plane  
+3. (ADJ) of or relating to an eclipse (天体)食的
+
+========================================================================
+>>> equinox
+------------------------------------------------------------------------
+equinox    [英 ˈekwɪnɒks; ˈiːkwɪnɒks / 美 ˈekwɪnɑːksˌˈiːkwɪnɑːks]
+n. 春分；秋分；昼夜平分点
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An equinox is one of the two days in the year when day and night are of equal length. 昼夜平分日; 指春分或秋分 [oft supp N]
+   ≫   In the Chinese calendar, the Spring Equinox always occurs in the second month.  在中国历法中，春分总是出现在二月份。
+
+<<=== 2026-02-07 ===>>
