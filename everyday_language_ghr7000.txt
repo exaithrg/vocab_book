@@ -2596,3 +2596,48 @@ n. magazine ; journal
 <<=== 2026-03-02 ===>>
 <<=== 2026-03-03 ===>>
 <<=== 2026-03-04 ===>>
+========================================================================
+>>> hallucinate
+------------------------------------------------------------------------
+hallucinate    [美 hə'lusɪnet / 英 hə'luːsɪneɪt]
+vt. 使产生幻觉
+vi. 出现幻觉
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you hallucinate, you see things that are not really there, either because you are ill or because you have taken a drug. 产生幻觉
+   ≫   Hunger made him hallucinate.  饥饿使他产生了幻觉。
+
+========================================================================
+>>> abstain
+------------------------------------------------------------------------
+abstain    [美 əb'sten / 英 əb'steɪn]
+vi. 自制；放弃；避免
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you abstain from something, usually something you want to do, you deliberately do not do it. 对…节制
+   ≫   Abstain from sex or use condoms.  节制性生活或使用避孕套。
+2. (V-I) If you abstain during a vote, you do not use your vote. 弃权
+   ≫   Three countries abstained in the vote.  三个国家在投票中弃权了。
+
+========================================================================
+>>> retrieval
+------------------------------------------------------------------------
+retrieval    [美 rɪ'trivl / 英 rɪ'triːvl]
+n. 检索；恢复；取回；拯救
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The retrieval of information from a computer is the process of getting it back. (电脑中信息的) 读取
+   ≫   ...electronic storage and retrieval systems.  …电子存储和读取系统。
+2. (N-UNCOUNT) The retrieval of something is the process of getting it back from a particular place, especially from a place where it should not be. 找回; 取回
+   ≫   Its real purpose is the launching and retrieval of small aeroplanes in flight.  它的真正目的是发射和找回飞行中的小型飞机。
+
+========================================================================
+>>> augmented
+------------------------------------------------------------------------
+augmented    [美 ɔg'mɛntɪd / 英 ɔːɡ'mentɪd]
+adj. 增广的；增音的；扩张的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [music] (of an interval) increased or expanded from the state of being perfect or major by the raising of the higher note or the dropping of the lower note by one semitone 增半音的 → compare
+   ≫   C to G is a perfect fifth, but C to G sharp is an augmented fifth  
+
+<<=== 2026-03-05 ===>>
