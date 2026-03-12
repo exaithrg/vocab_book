@@ -2855,3 +2855,18 @@ CET4 TEM4
    ≫   The choir sang with precision.  合唱团的演唱准确无误。
 
 <<=== 2026-03-11 ===>>
+========================================================================
+>>> tile
+------------------------------------------------------------------------
+tile    [英 taɪl / 美 taɪl]
+n. （贴墙或铺地用的）瓷砖，地砖；（铺屋顶的）瓦，瓦片；（拼字游戏、麻将等牌戏中的）（一张）牌；（棋盘游戏的）棋子；（数）平铺
+v. 铺瓦，铺砖；（计算机）平铺（窗口）
+【名】 （Tile）（俄、塞、萨摩）蒂勒（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tiles are flat, square pieces of baked clay, carpet, cork, or other substance, which are fixed as a covering onto a floor or wall. (贴墙或铺地用的) 瓷砖; 地毯; 地板
+   ≫   Amy's shoes squeaked on the tiles as she walked down the corridor.  埃米走过走廊时，鞋子在地砖上吱吱作响。
+2. (N-VAR) Tiles are flat pieces of baked clay which are used for covering roofs. (覆盖屋顶的) 瓦片
+   ≫   ...a fine building, with a neat little porch and ornamental tiles on the roof.  …一幢精致建筑，有个整洁的小门廊，屋顶上盖着装饰瓦。
+
+<<=== 2026-03-12 ===>>
