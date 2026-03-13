@@ -2870,3 +2870,16 @@ v. 铺瓦，铺砖；（计算机）平铺（窗口）
    ≫   ...a fine building, with a neat little porch and ornamental tiles on the roof.  …一幢精致建筑，有个整洁的小门廊，屋顶上盖着装饰瓦。
 
 <<=== 2026-03-12 ===>>
+========================================================================
+>>> macro
+------------------------------------------------------------------------
+macro    [美 'mækro / 英 'mækrəʊ]
+adj. 巨大的，大量的
+n. 宏，巨（计算机术语）
+n. (Macro)人名；(意)马克罗
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] You use macro to indicate that something relates to a general area, rather than being detailed or specific. 宏观的
+   ≫   ...coordinated programmes of regulation of the economy both at the macro level and at the micro level.  …从宏观和微观两方面进行的经济调控计划。
+2. [计算机] A macro is a shortened version of a computer command which makes the computer carry out a set of actions. 宏指令
+
+<<=== 2026-03-13 ===>>
