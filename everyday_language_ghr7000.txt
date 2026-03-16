@@ -2904,3 +2904,16 @@ TEM4
 
 <<=== 2026-03-14 ===>>
 <<=== 2026-03-15 ===>>
+========================================================================
+>>> coupon
+------------------------------------------------------------------------
+coupon    [美 'kupɑn / 英 'kuːpɒn]
+n. 息票；赠券；联票；[经] 配给券
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A coupon is a piece of printed paper which allows you to pay less money than usual for a product, or to get it free. 优惠券
+   ≫   ...a money-saving coupon.  …一张省钱的优惠券。
+2. (N-COUNT) A coupon is a small form, for example, in a newspaper or magazine, which you send off to ask for information, to order something, or to enter a competition. (报纸、杂志附的) 传单
+   ≫   Mail this coupon with your cheque or postal order.  把这张表单和你的支票或汇款单一起邮寄。
+
+<<=== 2026-03-16 ===>>
