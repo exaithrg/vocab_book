@@ -2953,3 +2953,13 @@ CET4 TEM4
 8. (V) to cut, carve, sculpt, or engrave 凿; 雕; 刻
 
 <<=== 2026-03-17 ===>>
+========================================================================
+>>> tilde
+------------------------------------------------------------------------
+tilde    [美 'tɪldə / 英 'tɪldə]
+n. 波浪字符；加在西班牙语n字上的发音符号
+n. (Tilde)人名；(德)蒂尔德
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tilde is a symbol that is written over the letter "n" in Spanish (ñ) and the letters "o" (õ) and "a" (ã) in Portuguese to indicate the way in which they should be pronounced. 腭化符号; 波浪符; 西班牙语标在字母n上，葡萄牙语标在字母o和a上
+
+<<=== 2026-03-18 ===>>
