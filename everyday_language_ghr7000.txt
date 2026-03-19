@@ -2963,3 +2963,60 @@ n. (Tilde)人名；(德)蒂尔德
 1. (N-COUNT) A tilde is a symbol that is written over the letter "n" in Spanish (ñ) and the letters "o" (õ) and "a" (ã) in Portuguese to indicate the way in which they should be pronounced. 腭化符号; 波浪符; 西班牙语标在字母n上，葡萄牙语标在字母o和a上
 
 <<=== 2026-03-18 ===>>
+========================================================================
+>>> deprecated
+------------------------------------------------------------------------
+deprecated    [英 ˈdeprəkeɪtɪd / 美 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+
+========================================================================
+>>> rack
+------------------------------------------------------------------------
+rack    [美 ræk / 英 ræk]
+n. [机] 齿条；行李架；拷问台
+vi. 变形；随风飘；小步跑
+vt. 折磨；榨取
+n. (Rack)人名；(法、德、意、匈)拉克
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A rack is a frame or shelf, usually with bars or hooks, that is used for holding things or for hanging things on. 搁物架; 挂物架
+   ≫   A luggage rack is a sensible option.  行李架是个明智的选择。
+2. [usu passive] If someone is racked by something such as illness or anxiety, it causes them great suffering or pain. 使痛苦
+   ≫   His already infirm body was racked by high fever.  他已经很孱弱的身体受到高烧的折磨。
+3. (N) an instrument of torture that stretched the body of the victim 拉肢刑架
+4. (V) to torture on the rack 施拉肢酷刑
+5. (N) destruction; wreck (obsolete except in the phrase go to rack and ruin) 毁灭
+6. (N) the neck or rib section of mutton, pork, or veal (羊、猪或小牛的)颈脊
+7. (N) another word for single-foot, a gait of the horse (马)小步跑
+8. (N) a group of broken clouds moving in the wind 碎积云
+9. (V) (of clouds) to be blown along by the wind (云)随风飘过
+10. (V) to clear (wine, beer, etc) as by siphoning it off from the dregs 吸干(酒等)
+11. (PHRASE) If you rack your brains, you try very hard to think of something. 绞尽脑汁
+   ≫   She began to rack her brains to remember what had happened at the nursing home.  她开始绞尽脑汁地回忆在疗养院发生的事。
+
+========================================================================
+>>> Exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪkˈskluːsɪv / 英 ɪkˈskluːsɪv]
+adj. 独有的，专用的；高档的，昂贵的；不含……的；排外的；排斥的；全部的；唯一关心的；（新闻或报道）独家的；（条款）除外责任的；高级的，昂贵的
+n. 独家新闻，独家报道
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+<<=== 2026-03-19 ===>>
