@@ -3097,3 +3097,76 @@ n. 招聘人员，征兵人员
 <<=== 2026-03-22 ===>>
 <<=== 2026-03-23 ===>>
 <<=== 2026-03-24 ===>>
+========================================================================
+>>> vibe
+------------------------------------------------------------------------
+vibe    [美 vaɪb / 英 vaɪb]
+n. 气氛，氛围
+n. (Vibe)人名；(挪)维伯
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] Vibes are the good or bad atmosphere that you sense with a person or in a place. 感应; 气氛
+   ≫   Sorry, Chris, but I have bad vibes about this guy.  对不起，克里斯，但我对这家伙感觉不太好。
+
+========================================================================
+>>> Anthropic
+------------------------------------------------------------------------
+anthropic    [美 æn'θrɑpɪk / 英 æn'θrɒpɪk]
+adj. 有关人类的，人类的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to human beings 人类的
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪkˈskluːsɪv / 英 ɪkˈskluːsɪv]
+adj. 独有的，专用的；高档的，昂贵的；不含……的；排外的；排斥的；全部的；唯一关心的；（新闻或报道）独家的；（条款）除外责任的；高级的，昂贵的
+n. 独家新闻，独家报道
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> awfully
+------------------------------------------------------------------------
+awfully    [美 'ɔfli / 英 'ɔːfʊlɪ]
+adv. 可怕地；十分；非常；很
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The awfully awkward warship is warned not to be  awarded war reward. 那艘非常拙劣的军舰受到不给予战争报酬的警告。
+≫   Certain numbers, like dates, look awfully funny as raw data and would not be the correct values if stored without formatting. 某些数字，比如日期，作为原始数据时看起来很奇怪，如果未带格式存储，那么可能会是不正确的值。
+≫   George seems awfully confident.He must have an ace in the hole. 乔治似乎非常有信心,他必然有一张备用的王牌。
+
+========================================================================
+>>> profusely
+------------------------------------------------------------------------
+profusely    [英 prə'fju:sli /  prə'fju:sli]
+adv. 丰富地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Then, turning to the model, he thanked her profusely and ushered her backstage. 接着，他转向模特儿，对她一再致谢，把她送到了后台。
+≫   But when "occasionally" turns to "often", when your boss stops thanking you profusely for your efforts and just treats it as norm, this is when we're all in trouble. 但是当“偶尔”变成了“经常”， 当你的老板停止对你的加班进行丰富的感谢并且只把那当成一种常态，那就是我们陷入麻烦的时候。
+≫   As a result, extremely graphic and violent hallucinations filled my mind, to the point where although just lying in my bed, I was sweating profusely from the horrific images in my mind. 其后果是，我脑子里充满了极其真实而又强烈的幻觉，尽管我只不过是躺在床上，但我却因心里想到的令人恐惧的景象而冷汗淋漓。
+
+========================================================================
+>>> proposal
+------------------------------------------------------------------------
+proposal    [美 prə'pozl / 英 prə'pəʊz(ə)l]
+n. 提议，建议；求婚
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A proposal is a plan or an idea, often a formal or written one, which is suggested for people to think about and decide upon. (常为正式书面的) 提议
+   ≫   The president is to put forward new proposals for resolving the country's constitutional crisis.  总统将提出解决国家宪法危机的新议案。
+   ≫   ...the governor's proposal to restrict cigarette sales.  …州长关于限制香烟销售的提案。
+2. (N-COUNT) A proposal is the act of asking someone to marry you. 求婚
+   ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
+
+<<=== 2026-03-25 ===>>
