@@ -3170,3 +3170,19 @@ CET4 TEM4
    ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
 
 <<=== 2026-03-25 ===>>
+========================================================================
+>>> zeroing
+------------------------------------------------------------------------
+zeroing    ['ziroɪŋ]
+n. 归零，[仪] 零位调整
+v. 做归零校正；把…减少到零（zero的现在分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (NUM) Zero is the number 0. 零
+   ≫   Visibility at the city's airport came down to zero, bringing air traffic to a standstill.  这个城市机场的能见度下降到了零，使航空运输陷入停顿状态。
+2. (N-UNCOUNT) Zero is a temperature of 0°. It is freezing point on the centigrade and Celsius scales, and 32° below freezing point on the Fahrenheit scale. (摄氏) 零度
+   ≫   It's a sunny late winter day, just a few degrees above zero.  这是晚冬晴朗的一天，只有零上几度。
+3. (ADJ) You can use zero to say that there is none at all of the thing mentioned. 为零的
+   ≫   This new ministry was being created with zero assets and zero liabilities.  这个新部门当时是以零资产零负债进行创建。
+
+<<=== 2026-03-26 ===>>
