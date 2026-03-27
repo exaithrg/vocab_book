@@ -3289,3 +3289,85 @@ n. 手递手传球（美国橄榄球）；传送
 ≫   Without a well-defined, well-governed handoff, this assurance cannot be guaranteed. 没有定义良好的，管理良好的切换，这种保证不能得到确认。
 
 <<=== 2026-03-27 ===>>
+========================================================================
+>>> attributes
+------------------------------------------------------------------------
+attributes    ['ætrə,bjʊt]
+n. 属性（attribute的复数）
+v. 认为…属于；把…归咎于；确定…产生的时间（attribute的第三人称单数）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you attribute something to an event or situation, you think that it was caused by that event or situation. 把…归因于
+   ≫   Women tend to attribute their success to external causes such as luck.  女性往往把她们的成功归因于外因，如运气。
+2. (V-T) If you attribute a particular quality or feature to someone or something, you think that they have it. 赋予 (某品质或特点)
+   ≫   People were beginning to attribute superhuman qualities to him.  人们开始赋予他超人的品质。
+3. [usu passive] If a piece of writing, a work of art, or a remark is attributed to someone, people say that they wrote it, created it, or said it. 认为 (文章、作品等) 出自…
+   ≫   This, and the remaining frescoes, are not attributed to Giotto.  这个，还有那些残存的壁画，被认为不是乔托的作品。
+4. (N-COUNT) An attribute is a quality or feature that someone or something has. 特性
+   ≫   Cruelty is a normal attribute of human behaviour.  残忍是人类行为的一种正常的特性。
+
+========================================================================
+>>> bully
+------------------------------------------------------------------------
+bully    [美 'bʊli / 英 'bʊlɪ]
+n. 欺凌弱小者；土霸
+adj. 第一流的；特好的
+vt. 欺负；威吓
+vi. 欺侮人
+adv. 很；十分
+int. 好；妙
+n. (Bully)人名；(法)布利
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bully is someone who uses their strength or power to hurt or frighten other people. 恃强凌弱者
+   ≫   I fell victim to the office bully.  我成了这个办公室霸王欺负的对象。
+2. (V-T) If someone bullies you, they use their strength or power to hurt or frighten you. 欺负
+   ≫   I wasn't going to let him bully me.  我可不会让他欺负我。
+3. (N-UNCOUNT) bullying 欺凌行为
+   ≫   ...schoolchildren who were victims of bullying.  …遭受欺凌的小学生。
+4. (V-T) If someone bullies you into something, they make you do it by using force or threats. 威逼
+   ≫   We think an attempt to bully them into submission would be counterproductive.  我们认为威逼他们屈服的尝试可能会适得其反。
+   ≫   She used to bully me into doing my schoolwork.  她过去总逼我做作业。
+5. [非正式] well done! bravo! 真棒 (Also bully for you)
+6. (N) any of various small freshwater fishes of the genera Gobiomorphus and Philynodon of New Zealand (新西兰)塘鲤 (Also called (NZ) pakoko, titarakura, toitoi)
+
+========================================================================
+>>> sarcastic
+------------------------------------------------------------------------
+sarcastic    [英 sɑː'kæstɪk / 美 sɑr'kæstɪk]
+adj. 挖苦的；尖刻的，辛辣的
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is sarcastic says or does the opposite of what they really mean in order to mock or insult someone. 控苦的; 讽刺的
+   ≫   She poked fun at people's shortcomings with sarcastic remarks.  她用挖苦的话来取笑别人的缺点。
+2. (ADV) sarcastically 挖苦地; 讽刺地
+   ≫   "What a surprise!" Caroline murmured sarcastically.  “多么惊喜呀！”卡罗琳讽刺地嘟囔。
+
+========================================================================
+>>> Agentic
+------------------------------------------------------------------------
+agentic
+adj. 代理的，像代理人的；（心理学）代理人的，服从权威的；（心理学）与表现或地位有关的；（心理学）主体的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> agent
+------------------------------------------------------------------------
+agent    [美 'edʒənt / 英 'eɪdʒ(ə)nt]
+n. 代理人，代理商；药剂；特工
+vt. 由…作中介；由…代理
+adj. 代理的
+n. (Agent)人名；(罗)阿真特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] An agent is a person who looks after someone else's business affairs or does business on their behalf. 代理商
+   ≫   You are buying direct, rather than through an agent.  你在直接购买，而不是通过代理商购买。
+2. → see also
+3. (N-COUNT) An agent in the arts world is a person who gets work for an actor or musician, or who sells the work of a writer to publishers. (艺术界的) 经纪人
+   ≫   My literary agent thinks it is not unreasonable to expect $500,000 in total.  我的文学经纪人认为预期总共50万美元并非不合情理。
+4. (N-COUNT) An agent is a person who works for a country's secret service. 间谍
+   ≫   All these years he's been an agent for the East.  这些年来他一直为东方国家做间谍。
+5. (N-COUNT) A chemical that has a particular effect or is used for a particular purpose can be referred to as a particular kind of agent. 剂
+   ≫   ...the bleaching agent in white flour.  …白面粉中的漂白剂。
+
+<<=== 2026-03-28 ===>>
