@@ -3382,3 +3382,47 @@ n. 启发式教育法
 2. [计算机] A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 → see also
 
 <<=== 2026-03-29 ===>>
+========================================================================
+>>> formation
+------------------------------------------------------------------------
+formation    [美 fɔr'meʃən / 英 fɔː'meɪʃ(ə)n]
+n. 形成；构造；编队
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Theformationof something is the starting or creation of it. 始创
+   ≫   Time is running out for the formation of a new government.  组建新政府所剩的时间不多了。
+2. (N-UNCOUNT) Theformationof an idea, habit, relationship, or character is the process of developing and establishing it. (观念、习惯、关系、性格等的) 形成
+   ≫   My profession had an important influence in the formation of my character and temperament.  我的职业对我的性格和性情的形成有重要的影响。
+3. (N-COUNT) If people or things are in formation, they are arranged in a particular pattern as they move. 编队
+   ≫   He was flying in formation with seven other jets.  他和另外7架喷气式飞机编队飞行。
+4. (N-COUNT) A rock or cloud formation is rock or cloud of a particular shape or structure. (岩石或云的) 形成物
+   ≫   ...a vast rock formation shaped like a pillar.  …形状如柱子的一块巨大岩层。
+
+========================================================================
+>>> perplexity
+------------------------------------------------------------------------
+perplexity    [英 pə'pleksɪtɪ / 美 pɚ'plɛksəti]
+n. 困惑；混乱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Perplexity is a feeling of being confused and frustrated because you do not understand something. 困惑; 迷惘
+   ≫   He began counting them and then, with growing perplexity, counted them a second time.  他开始数，然后更加困惑地数第二遍。
+2. [usu pl] The perplexities of something are those things about it that are difficult to understand because they are complicated. 疑难问题
+   ≫   ...the perplexities of quantum mechanics.  ...量子力学难题。
+
+========================================================================
+>>> retrieve
+------------------------------------------------------------------------
+retrieve    [美 rɪ'triv / 英 rɪ'triːv]
+vt. [计] 检索；恢复；重新得到
+vi. 找回猎物
+n. [计] 检索；恢复，取回
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+
+<<=== 2026-03-30 ===>>
