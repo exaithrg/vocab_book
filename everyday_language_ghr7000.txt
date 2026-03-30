@@ -3426,3 +3426,51 @@ CET6 TEM8
    ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
 
 <<=== 2026-03-30 ===>>
+========================================================================
+>>> cavest
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Saturation
+------------------------------------------------------------------------
+saturation    [美 'sætʃə'reʃən / 英 sætʃə'reɪʃ(ə)n]
+n. 饱和；色饱和度；浸透；磁化饱和
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Saturation is the process or state that occurs when a place or thing is filled completely with people or things, so that no more can be added. 饱和
+   ≫   Japanese car makers have been equally blind to the saturation of their markets at home and abroad.  日本的汽车制造商对国内外市场的饱和同样视而不见。
+2. [ADJ n] Saturation is used to describe a campaign or other activity that is carried out very thoroughly, so that nothing is missed. (运动、活动) 彻底的
+   ≫   The concept of saturation marketing makes perfect sense.  饱和营销的概念很有道理。
+
+========================================================================
+>>> manual
+------------------------------------------------------------------------
+manual    [美 'mænjuəl / 英 'mænjʊ(ə)l]
+adj. 手工的；体力的
+n. 手册，指南
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Manual work is work in which you use your hands or your physical strength rather than your mind. 手工的; 靠劳力的
+   ≫   ...skilled manual workers.  …熟练的手工工人。
+2. [ADJ n] Manual is used to talk about movements which are made by someone's hands. 用手的
+   ≫   ...toys designed to help develop manual dexterity.  …旨在培养手的灵活性的玩具。
+3. [ADJ n] Manual means operated by hand, rather than by electricity or a motor. 用手操作的
+   ≫   There is a manual pump to get rid of the water.  有一台手动水泵用来排水。
+4. [ADV with v] manually 用手操作地
+   ≫   The device is manually operated, using a simple handle.  这个装置利用一个简单的手柄，可以用手操作。
+5. (N-COUNT) A manual is a book which tells you how to do something or how a piece of machinery works. 使用手册
+   ≫   ...the instruction manual.  …使用说明书。
+
+========================================================================
+>>> inventory
+------------------------------------------------------------------------
+inventory    [美 'ɪnvəntɔri / 英 'ɪnv(ə)nt(ə)rɪ]
+n. 存货，存货清单；详细目录；财产清册
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] An inventory is a supply or stock of something. 存货
+   ≫   ...one inventory of twelve sails for each yacht.  …为每艘游艇配备12张帆的存货。
+2. (N-COUNT) An inventory is a written list of all the objects in a particular place such as all the merchandise in a shop. 清单
+   ≫   Before starting, he made an inventory of everything that was to stay.  出发前，他把要留下的所有东西列了一份详细清单。
+
+<<=== 2026-03-31 ===>>
