@@ -3474,3 +3474,64 @@ CET6 TEM4
    ≫   Before starting, he made an inventory of everything that was to stay.  出发前，他把要留下的所有东西列了一份详细清单。
 
 <<=== 2026-03-31 ===>>
+========================================================================
+>>> categories
+------------------------------------------------------------------------
+categories    [美 'kætəɡɔrɪz / 英 'kætɪg(ə)rɪz]
+n. 类别（category的复数）；分类
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If people or things are divided into categories, they are divided into groups in such a way that the members of each group are similar to each other in some way. 种类; 范畴
+   ≫   This book clearly falls into the category of fictionalized autobiography.  这本书显然类属自传体小说。
+
+========================================================================
+>>> tier
+------------------------------------------------------------------------
+tier    [美 tɪr / 英 tɪə]
+n. 层，排；行，列；等级
+vt. 使层叠
+vi. 成递升排列
+n. (Tier)人名；(英)蒂尔
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tier is a row or layer of something that has other layers above or below it. 排; 层
+   ≫   ...the auditorium with the tiers of seats around and above it.  …周围和上方有一排排座位的礼堂。
+2. (COMB in ADJ) Tier is also a combining form. (用于构成合成形容词) …排的; …层的
+   ≫   ...a three-tier wedding cake.  …一个3层的结婚蛋糕。
+3. (N-COUNT) A tier is a level in an organization or system. (组织或系统中的) 级
+   ≫   Islanders have campaigned for the abolition of one of the three tiers of municipal power on the island.  岛民们已经发起了运动，要废除该岛3级市政权力中的1级。
+4. (COMB in ADJ) Tier is also a combining form. (用于构成合成形容词) …级的
+   ≫   ...the possibility of a two-tier system of universities.  …大学双轨制的可能性。
+5. (V) to be or arrange in tiers 使层叠; 按层排列
+6. (V) 
+7. (N) a person or thing that ties 捆绑的人(或物)
+
+========================================================================
+>>> declaration
+------------------------------------------------------------------------
+declaration    [美 ,dɛklə'reʃən / 英 deklə'reɪʃ(ə)n]
+n. （纳税品等的）申报；宣布；公告；申诉书
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A declaration is an official announcement or statement. 官方声明
+   ≫   The opening speeches sounded more like declarations of war than offerings of peace.  那些开幕辞听起来更像宣战书而不是和平倡议。
+2. (N-COUNT) A declaration is a firm, emphatic statement which shows that you have no doubts about what you are saying. 宣言
+   ≫   ...declarations of undying love.  …永恒爱情的宣言。
+3. (N-COUNT) A declaration is a written statement about something which you have signed and which can be used as evidence in a court of law. 书面声明
+   ≫   On the customs declaration, the sender labelled the freight as agricultural machinery.  在报关单上，发货方将货物列为农业机械。
+
+========================================================================
+>>> make CASE=fa/fa1_v1_rcp clean_advisor tile_location_suggest
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> orchestration
+------------------------------------------------------------------------
+orchestration    [美 ,ɔkɛs'treʃən]
+n. 管弦乐编曲；和谐的结合
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An orchestration is a piece of music that has been rewritten so that it can be played by an orchestra. 改编成的管弦乐曲
+   ≫   Mahler's own imaginative orchestration was heard in the same concert.  在同一场音乐会上，听到了马勒自己改编的充满想像力的管弦乐曲。
+
+<<=== 2026-04-01 ===>>
