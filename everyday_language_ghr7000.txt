@@ -3535,3 +3535,79 @@ n. 管弦乐编曲；和谐的结合
    ≫   Mahler's own imaginative orchestration was heard in the same concert.  在同一场音乐会上，听到了马勒自己改编的充满想像力的管弦乐曲。
 
 <<=== 2026-04-01 ===>>
+========================================================================
+>>> misc
+------------------------------------------------------------------------
+misc    [美 ˈmɪsk / 英 ˈmɪsk]
+abbr. 混杂的；各色各样混在一起；多才多艺的（miscellaneous）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The extension class loader (sun/misc/Launcher$ExtClass loader) 扩展类装入器（sun/misc/Launcher$ExtClassLoader）
+≫   The Misc incubator package contains an eclectic collection of one-task components. Misc孵化器包包含一个挑选出来的单任务组件集合。
+≫   By default, Drupal applies style through the styles.css file in the misc directory. 在默认情况下，drupal会通过misc目录中的styles . css文件应用样式。
+
+========================================================================
+>>> archive
+------------------------------------------------------------------------
+archive    [美 'ɑrkaɪv]
+n. 档案馆；档案文件
+vt. 把…存档
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Archives are a collection of documents and records that contain historical information. You can also use archives to refer to the place where archives are stored. 档案; 档案馆
+   ≫   ...the State Library's archives.  …国立图书馆的档案。
+2. [ADJ n] Archive material is information that comes from archives. 记入档案的
+   ≫   ...archive material.  …档案资料。
+3. (V-T) If you archive material such as documents or data, you store it in an archive. 把…存档
+   ≫   The system will archive the information so agencies can review it in detail.  该系统会将该信息存档，以便各代理机构能对其详细审阅。
+
+========================================================================
+>>> lark
+------------------------------------------------------------------------
+lark    [美 lɑrk / 英 lɑːk]
+n. 云雀；百灵鸟；欢乐
+vi. 骑马玩乐；嬉耍
+vt. 愚弄
+n. (Lark)人名；(东南亚国家华语)六
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A lark is a small brown bird which makes a pleasant sound. 百灵鸟; 云雀
+2. (N-COUNT) a carefree adventure or frolic 无忧无虑的冒险; 无忧无虑的嬉戏
+3. (V) to have a good time by frolicking 嬉闹玩耍
+
+========================================================================
+>>> tailor
+------------------------------------------------------------------------
+tailor    [美 'telɚ / 英 'teɪlə]
+vt. 剪裁；使合适
+n. 裁缝
+vi. 做裁缝
+n. (Tailor)人名；(英)泰勒
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tailor is a person whose job is to make men's clothes. (缝制男装的) 裁缝
+2. (V-T) If you tailor something such as a plan or system to someone's needs, you make it suitable for a particular person or purpose by changing the details of it. 调整
+   ≫   We can tailor the programme to the patient's needs.  我们可以根据病人的需要调整这个方案。
+
+========================================================================
+>>> naive
+------------------------------------------------------------------------
+naive    [英 naɪ'iːv; nɑː'iːv / 美 naɪ'iv]
+adj. 天真的,幼稚的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone as naive, you think they lack experience and so expect things to be easy or people to be honest or kind. 幼稚的
+   ≫   It's naive to think that teachers are always tolerant.  认为老师总是很宽容是幼稚的。
+   ≫   Their view was that he had been politically naive.  他们的看法是，他在政治上曾是幼稚的。
+2. (ADV) naively 幼稚地
+   ≫   ...naively applying Western solutions to Eastern problems.  …幼稚地用西方的办法来解决东方的问题。
+
+========================================================================
+>>> epilogue
+------------------------------------------------------------------------
+epilogue    [美 'ɛpɪlɔɡ / 英 'epɪlɒg]
+n. 结语，收场白；尾声，后记
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'the' N in sing] An epilogue is a passage or speech that is added to the end of a book or play as a conclusion. (书的)后记; (戏剧的)收场白
+
+<<=== 2026-04-02 ===>>
