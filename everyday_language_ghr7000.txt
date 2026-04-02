@@ -3611,3 +3611,99 @@ TEM8
 1. [usu 'the' N in sing] An epilogue is a passage or speech that is added to the end of a book or play as a conclusion. (书的)后记; (戏剧的)收场白
 
 <<=== 2026-04-02 ===>>
+========================================================================
+>>> heuristic
+------------------------------------------------------------------------
+heuristic    [美 hjʊ'rɪstɪk / 英 ,hjʊ(ə)'rɪstɪk]
+adj. 启发式的；探索的
+n. 启发式教育法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的
+2. [计算机] A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 → see also
+
+========================================================================
+>>> arcade
+------------------------------------------------------------------------
+arcade    [美 ɑr'ked / 英 ɑː'keɪd]
+n. 拱廊；（内设投角子电子游戏机等的）游乐场；有拱廊的街道
+vt. 使有拱廊
+n. (Arcade)人名；(西、法)阿卡德
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An arcade is a place where you can play games on machines which work when you put money in them. 游戏厅
+2. → see also
+3. [英国英语] An arcade is a covered passage where there are stores or market stalls. (购物) 拱廊
+   ≫   ...a shopping arcade.  …一条购物拱廊。
+
+========================================================================
+>>> stink
+------------------------------------------------------------------------
+stink    [美 stɪŋk / 英 stɪŋk]
+n. 臭味；讨厌的人
+vi. 发出臭味；招人讨厌
+vt. 使发出臭气；用臭味驱赶
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) To stink means to smell very bad. 发臭
+   ≫   We all stank and nobody minded.  我们大家都很臭，所以也就没人在乎。
+   ≫   The place stinks of fried onions.  这地方有股难闻的炒洋葱味。
+2. (N-SING) Stink is also a noun. 臭味
+   ≫   He was aware of the stink of stale beer on his breath.  他注意到自己有变味啤酒般的口臭。
+3. [非正式] If you say that something stinks, you mean that you disapprove of it because it involves ideas, feelings, or practices that you do not like. 令人讨厌
+   ≫   I think their methods stink.  我觉得他们的方法令人讨厌。
+4. [非正式] If someone makes a stink about something they are angry about, they show their anger in order to make people take notice. 公然表示的愤怒
+   ≫   The family's making a hell of a stink.  这家人正在大吵大闹。
+
+========================================================================
+>>> Manipulation
+------------------------------------------------------------------------
+manipulation    [英 mə,nɪpjʊ'leɪʃ(ə)n / 美 mə,nɪpjʊ'leʃən]
+n. 操纵；操作；处理；篡改
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They make a lot of money by clever manipulation of the Stock Market. 他们巧妙地操纵股票市场而大赚其钱。
+≫   In this model, the pragmatic attributes relate to manipulation of the software. 在这个模型里，使用主义属性和软件的操作相关。
+≫   PKI is entrusted with managing everything related to the creation, manipulation, and management of these keys. PKI 受委托管理与这些密钥的创建、处理和管理有关的一切事情。
+
+========================================================================
+>>> forge
+------------------------------------------------------------------------
+forge    [美 fɔːrdʒ / 英 fɔːdʒ]
+v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+n. 锻铁炉，锻造车间
+【名】 （Forge）（美）福格（人名）
+★★ CET4 TEM4 forging,forged,forges
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If one person or institution forges an agreement or relationship with another, they create it with a lot of hard work, hoping that it will be strong or lasting. 努力地缔造
+   ≫   The prime minister is determined to forge a good relationship with the country's new leader.  该首相决意与该国的新领袖建立良好的关系。
+   ≫   They agreed to forge closer economic ties.  他们同意建立更密切的经济联系。
+2. (V-T) If someone forges something such as paper money, a document, or a painting, they copy it or make it so that it looks genuine, in order to deceive people. 伪造 (纸币、文件或画作等)
+   ≫   He admitted seven charges including forging passports.  他承认了包括伪造护照在内的7项罪名。
+   ≫   They used forged documents to leave the country.  他们利用伪造的文件离开了这个国家。
+3. (N-COUNT) forger N-COUNT 伪造者
+   ≫   ...the most prolific art forger in the country.  …该国最大的艺术品伪造者。
+4. (V) to shape (metal) by heating and hammering 锻造(金属)
+5. (V) to move at a steady and persevering pace 匀速移动
+6. (N) a place in which metal is worked by heating and hammering; smithy 锻造间
+
+========================================================================
+>>> Cumulative
+------------------------------------------------------------------------
+cumulative    [美 'kjumjəletɪv / 英 'kjuːmjʊlətɪv]
+adj. 累积的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a series of events have a cumulative effect, each event makes the effect greater. 累积的
+   ≫   It is simple pleasures, such as a walk on a sunny day, which have a cumulative effect on our mood.  诸如在晴朗的日子散步这样简朴的乐趣对我们的情绪有累积性益处。
+
+========================================================================
+>>> cum
+------------------------------------------------------------------------
+cum    [美 kʌm / 英 kʌm]
+prep. 附有；连同
+n. 精液；精子
+n. (Cum)人名；(意)库姆
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This gives you the feeling of flying when you cum. 这样你高潮的时候会有一种飞起来的感觉。
+≫   The genius of the whole system is that it is so cum bersome and complex that it has trouble accomplish ing anything irredeemably stupid. 整个系统的天才之处就在于它是如此繁琐复杂，要完成那些无可救药的愚蠢之事，它实在是有困难。
+
+<<=== 2026-04-03 ===>>
