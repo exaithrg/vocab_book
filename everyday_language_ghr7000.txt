@@ -3843,3 +3843,49 @@ TEM8
    ≫   He did not want to enter into a semantic debate.  他不想卷入一场关于语义的争论。
 
 <<=== 2026-04-05 ===>>
+========================================================================
+>>> tautology
+------------------------------------------------------------------------
+tautology    [美 tɔ'tɑlədʒi / 英 tɔː'tɒlədʒɪ]
+n. 同义反复；无谓的重复
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tautology is the use of different words to say the same thing twice in the same statement. "The money should be adequate enough" is an example of tautology. 赘述
+
+========================================================================
+>>> contract
+------------------------------------------------------------------------
+contract    [美 'kɑntrækt / 英 'kɒntrækt]
+vi. 收缩；感染；订约
+vt. 感染；订约；使缩短
+n. 合同；婚约
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A contract is a legal agreement, usually between two companies or between an employer and employee, which involves doing work for a stated sum of money. 合同
+   ≫   The company won a hefty contract for work on Chicago's tallest building.  公司赢得了芝加哥最高建筑的重要施工合同。
+   ≫   Have you read the contract?  你看过这份合同了吗？
+2. [正式] If you contract with someone to do something, you legally agree to do it for them or for them to do it for you. (与某人) 签订合同
+   ≫   You can contract with us to deliver your cargo.  你们可以和我们签订合同，由我们负责运输你们的货物。
+3. (V-T/V-I) When something contracts or when something contracts it, it becomes smaller or shorter. 缩小; 缩短; 使缩小; 使缩短
+   ≫   Blood is only expelled from the heart when it contracts.  心脏收缩时，血液才从心脏射出。
+4. (N-VAR) contraction 收缩
+   ≫   ...the contraction and expansion of blood vessels.  …血管的收缩与扩张。
+5. (V-I) When something such as an economy or market contracts, it becomes smaller. (经济、市场等) 萎缩
+   ≫   The manufacturing economy contracted in October for the sixth consecutive month.  制造业经济到10月份已连续萎缩6个月了。
+6. [no cont] If you contract a serious illness, you become ill with it. 染 (重病)
+   ≫   He contracted AIDS from a blood transfusion.  他因一次输血感染了艾滋病。
+7. (PHRASE) If you are under contract to someone, you have signed a contract agreeing to work for them, and for no one else, during a fixed period of time. 已经与…签订合同
+   ≫   The director wanted Olivia de Havilland, then under contract to Warner Brothers.  导演想要奥莉维亚·德·哈维兰，但是那时她已经签约华纳兄弟公司。
+
+========================================================================
+>>> statistical
+------------------------------------------------------------------------
+statistical    [美 stə'tɪstɪkl / 英 stə'tɪstɪk(ə)l]
+adj. 统计的；统计学的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Statistical means relating to the use of statistics. 统计的; 统计学的
+   ≫   The report contains a great deal of statistical information.  该报告包含大量统计资料。
+2. (ADV) statistically 统计上地; 统计学上地
+   ≫   The results are not statistically significant.  这些结果在统计上没有显著意义。
+
+<<=== 2026-04-06 ===>>
