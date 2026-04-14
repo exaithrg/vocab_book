@@ -4560,3 +4560,46 @@ alsovertu
 1. (N) a taste or love for curios or works of fine art; connoisseurship 对古董(或艺术品)的爱好; 鉴赏力
 
 <<=== 2026-04-14 ===>>
+========================================================================
+>>> ripperdoc
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> balcony
+------------------------------------------------------------------------
+balcony    [英 'bælkənɪ / 美 'bælkənɪ]
+n. 阳台；包厢；戏院楼厅
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A balcony is a platform on the outside of a building, above ground level, with a wall or railing around it. 阳台
+2. (N-SING) The balcony in a theatre or cinema is an area of seats above the main seating area. (戏院或电影院里的) 楼座
+
+========================================================================
+>>> ripper
+------------------------------------------------------------------------
+ripper    [美 'rɪpɚ / 英 'rɪpə]
+n. 撕裂者；粗齿锯；裂具
+n. (Ripper)人名；(德、匈、葡)里佩尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who rips 撕裂者
+
+========================================================================
+>>> evacuate
+------------------------------------------------------------------------
+evacuate    [美 ɪ'vækjuet / 英 ɪ'vækjʊeɪt]
+vt. 疏散，撤退；排泄
+vi. 疏散；撤退；排泄
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To evacuate someone means to send them to a place of safety, away from a dangerous building, town, or area. 疏散; 使…撤离
+   ≫   They were planning to evacuate the seventy American officials still in the country.  他们当时在计划将仍在那个国家的70位美国官员撤离。
+2. (N-VAR) evacuation 疏散; 撤离
+   ≫   ...the evacuation of the sick and wounded.  …伤病员的撤离。
+   ≫   An evacuation of the city's four-million inhabitants is planned for later this week.  该市400万居民的撤离计划本周晚些时候进行。
+3. (V-T) If people evacuate a place, they move out of it for a period of time, especially because it is dangerous. (尤指因为危险而) 撤离
+   ≫   The fire is threatening about sixty homes, and residents have evacuated the area.  这场大火威胁着约六十个家庭，居民已经撤离了该地区。
+4. (N-VAR) evacuation 撤离
+   ≫   ...the mass evacuation of the Bosnian town of Srebrenica.  …波斯尼亚的斯雷布雷尼察镇大撤离。
+
+<<=== 2026-04-15 ===>>
