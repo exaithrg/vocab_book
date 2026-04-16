@@ -4603,3 +4603,52 @@ CET6 TEM8
    ≫   ...the mass evacuation of the Bosnian town of Srebrenica.  …波斯尼亚的斯雷布雷尼察镇大撤离。
 
 <<=== 2026-04-15 ===>>
+========================================================================
+>>> tail
+------------------------------------------------------------------------
+tail    [美 tel / 英 teɪl]
+n. 尾巴；踪迹；辫子；燕尾服
+vt. 尾随；装上尾巴
+vi. 跟踪；变少或缩小
+adj. 从后面而来的；尾部的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The tail of an animal, bird, or fish is the part extending beyond the end of its body. 尾巴
+   ≫   ...a black dog with a long tail.  …一只长尾巴的黑狗。
+2. (N-COUNT) You can use tail to refer to the end or back of something, especially something long and thin. (尤指细长物体的) 尾部
+   ≫   ...the horizontal stabilizer bar on the plane's tail.  …飞机尾部的水平稳定杆。
+3. (N-PLURAL) If a man is wearing tails, he is wearing a formal jacket which has two long pieces hanging down at the back. 燕尾服
+   ≫   ...men in tails and women in party dresses.  …穿燕尾服的男士和穿宴会礼服的女士。
+4. [非正式] To tail someone means to follow close behind them and watch where they go and what they do. 跟踪
+   ≫   Officers had tailed the gang during a major undercover operation.  警方在一次重大的秘密行动中跟踪过这个团伙。
+5. [ADV after v] If you toss a coin and it comes down tails, you can see the side of it that does not have a picture of a head on it. (硬币) 反面朝上地
+   ≫   "Heads or tails?"  “正面还是反面？”
+   ≫   The captain called heads as usual — and the coin came down tails.  队长像以往一样叫了正面—可硬币反面朝上地落了下来。
+6. cannot make head or tail of something →see
+
+========================================================================
+>>> tile
+------------------------------------------------------------------------
+tile    [美 taɪl / 英 taɪl]
+n. （贴墙或铺地用的）瓷砖，地砖；（铺屋顶的）瓦，瓦片；（拼字游戏、麻将等牌戏中的）（一张）牌；（棋盘游戏的）棋子；（数）平铺
+v. 铺瓦，铺砖；（计算机）平铺（窗口）
+【名】 （Tile）（俄、塞、萨摩）蒂勒（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tiles are flat, square pieces of baked clay, carpet, cork, or other substance, which are fixed as a covering onto a floor or wall. (贴墙或铺地用的) 瓷砖; 地毯; 地板
+   ≫   Amy's shoes squeaked on the tiles as she walked down the corridor.  埃米走过走廊时，鞋子在地砖上吱吱作响。
+2. (N-VAR) Tiles are flat pieces of baked clay which are used for covering roofs. (覆盖屋顶的) 瓦片
+   ≫   ...a fine building, with a neat little porch and ornamental tiles on the roof.  …一幢精致建筑，有个整洁的小门廊，屋顶上盖着装饰瓦。
+
+========================================================================
+>>> inertia
+------------------------------------------------------------------------
+inertia    [美 ɪ'nɝʃə / 英 ɪ'nɜːʃə]
+n. [力] 惯性；惰性，迟钝；不活动
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you have a feeling of inertia, you feel very lazy and unwilling to move or be active. 懒惰
+   ≫   He resented her inertia, her lack of energy and self-direction.  他讨厌她的懒惰、缺乏活力和自我。
+2. [技术] Inertia is the tendency of a physical object to remain still or to continue moving, unless a force is applied to it. 惯性
+
+<<=== 2026-04-16 ===>>
