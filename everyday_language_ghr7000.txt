@@ -4652,3 +4652,62 @@ CET6 TEM4
 2. [技术] Inertia is the tendency of a physical object to remain still or to continue moving, unless a force is applied to it. 惯性
 
 <<=== 2026-04-16 ===>>
+========================================================================
+>>> deceptious
+------------------------------------------------------------------------
+deceptious
+adj. 虚假的；骗人的（等于 deceptive）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Or you think they are deceptious? 还是觉得他们都是骗人的？
+
+========================================================================
+>>> trough
+------------------------------------------------------------------------
+trough    [美 trɔf / 英 trɒf]
+n. 水槽，水槽；低谷期；饲料槽；低气压
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A trough is a long narrow container from which farm animals drink or eat. 饮水槽; 饲料槽
+   ≫   The old stone cattle trough still sits by the main entrance.  那尊古老的石制牛食槽依旧位于主要入口处。
+2. (N-COUNT) A trough is a low area between two big waves on the sea. (波浪间的) 波谷
+   ≫   The boat rolled heavily in the troughs between the waves.  小船在海浪间的波谷中剧烈地摇晃着。
+3. (N-COUNT) A trough is a low point in a process that has regular high and low points, for example, a period in business when people do not produce as much as usual. 低谷
+   ≫   ...recovery from the industry's worst-ever trough in 2001 and 2002.  …从2001和2002年工业的最低谷复苏。
+4. [技术] A trough of low pressure is a long narrow area of low air pressure between two areas of higher pressure. (低气压) 槽
+   ≫   The trough of low pressure extends over 1,000 miles.  低气压槽延伸一千多英里。
+
+========================================================================
+>>> jam
+------------------------------------------------------------------------
+jam    [英 dʒæm / 美 dʒæm]
+n. 果酱；拥挤；困境；扣篮
+vt. 使堵塞；挤进，使塞满；混杂；压碎
+vi. 堵塞；轧住
+n. (Jam)人名；(伊朗、巴基)贾姆
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you jam something somewhere, you push or put it there roughly. 胡乱地塞
+   ≫   Pete jammed his hands into his pockets.  皮特把他的双手胡乱塞进了他的兜里。
+2. (V-T/V-I) If something such as a part of a machine jams, or if something jams it, the part becomes fixed in position and is unable to move freely or work properly. 卡住
+   ≫   The second time he fired his gun jammed.  他开第二枪时，枪卡壳了。
+   ≫   A rope jammed the boat's propeller.  一条绳子卡住了船的推进器。
+3. (V-T) If vehicles jam a road, there are so many of them that they cannot move. (车辆) 堵塞
+   ≫   Hundreds of departing motorists jammed roads that had been closed during the height of the storm.  数百名要开走的驾车者堵住了在风暴最猛烈时被关闭了的那些公路。
+4. (N-COUNT) Jam is also a noun. 堵塞
+   ≫   400 trucks may sit in a jam for ten hours waiting to cross the limited number of bridges.  400 辆卡车可能会堵上10个小时才能通过有限的几座桥。
+5. (ADJ) jammed 堵塞了的
+   ≫   Nearby roads and the dirt track to the beach were jammed with cars.  附近的公路和通往海滩的土路都堵满了汽车。
+6. (V-T/V-I) If a lot of people jam a place, or jam into a place, they are pressed tightly together so that they can hardly move. 挤满
+   ≫   Hundreds of people jammed the boardwalk to watch.  上百人挤在木板道上观看。
+7. (ADJ) jammed 挤满的
+   ≫   The stadium was jammed and they had to turn away hundreds of disappointed fans.  该体育场挤满了人，他们不得不谢绝上百名失望的球迷入场。
+8. (V-T) To jam a radio or electronic signal means to interfere with it and prevent it from being received or heard clearly. 干扰 (无线电、电子信号等)
+   ≫   They will try to jam the transmissions electronically.  他们会设法用电子手段干扰这些发射。
+9. (N-UNCOUNT) jamming 干扰
+   ≫   The plane is used for electronic jamming and radar detection.  这架飞机用于进行电子干扰和雷达探测。
+10. (V-T) If callers are jamming telephone lines, there are so many callers that the people answering the telephones find it difficult to deal with them all. 堵塞 (电话线路)
+   ≫   Hundreds of callers jammed the switchboard for more than an hour.  上百个来电者堵塞了总机一个多小时。
+11. [英国英语] Jam is a sweet food consisting of pieces of fruit cooked with a large amount of sugar until it is thickened. It is usually spread on bread. 果酱
+   ≫   I had two jam sandwiches.  我吃了两个花生酱果酱三明治。
+
+<<=== 2026-04-19 ===>>
