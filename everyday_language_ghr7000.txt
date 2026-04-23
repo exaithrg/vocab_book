@@ -4785,3 +4785,32 @@ vt. 在…上贴花转印图案（decal的第三人称单数）
 
 <<=== 2026-04-22 ===>>
 <<=== 2026-04-23 ===>>
+========================================================================
+>>> fixer
+------------------------------------------------------------------------
+fixer    [英 'fɪksə]
+n. 固定器；[摄] 定影剂；毒贩子；调停者
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [journalism] If someone is a fixer, he or she is the sort of person who solves problems and gets things done. 解决问题的人
+
+========================================================================
+>>> hound
+------------------------------------------------------------------------
+hound    [美 haʊnd / 英 haʊnd]
+vt. 追猎；烦扰；激励
+n. 猎犬；卑劣的人
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hound is a type of dog that is often used for hunting or racing. 猎犬; 赛犬
+   ≫   Rainey's chief interest in life is hunting with hounds.  雷尼一生中的主要嗜好是带着猎犬去打猎。
+2. (N-COUNT) (in combination) 结合词
+   ≫   an otterhound  
+   ≫   a deerhound  
+3. (N-COUNT) either of a pair of horizontal bars that reinforce the running gear of a horse-drawn vehicle 马车两边的固定横杆
+4. (V-T) If someone hounds you, they constantly disturb or speak to you in an annoying or upsetting way. (不断地) 烦扰
+   ≫   Newcomers are constantly hounding them for advice.  新来的人老是缠着他们问这问那的。
+5. [usu passive] If someone is hounded out of a job or place, they are forced to leave it, often because other people are constantly criticizing them. 迫使 (某人) 离开
+   ≫   There is a general view around that he has been hounded out of office by the press.  人们普遍认为是媒体迫使他离职的。
+
+<<=== 2026-04-24 ===>>
