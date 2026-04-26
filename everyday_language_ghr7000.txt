@@ -4871,3 +4871,14 @@ CET6+ TEM4
 1. (N-COUNT) A skyscraper is a very tall building in a city. 摩天楼
 
 <<=== 2026-04-26 ===>>
+========================================================================
+>>> vicinity
+------------------------------------------------------------------------
+vicinity    [美 və'sɪnəti / 英 vɪ'sɪnɪtɪ]
+n. 邻近，附近；近处
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something is in the vicinity of a particular place, it is near it. (在…) 附近
+   ≫   There were a hundred or so hotels in the vicinity of the station.  在车站附近有大约一百家左右的旅馆。
+
+<<=== 2026-04-27 ===>>
