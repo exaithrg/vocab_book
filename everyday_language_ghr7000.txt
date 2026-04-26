@@ -4853,3 +4853,21 @@ n. 奖赏；荣誉
 ≫   All these phantom travelers were described to be young, which compels Kudo to believe that they were indeed victims of the 2011 tsunami. 据司机们的描述，所有的鬼乘客都是些年轻人，因此工藤优花认为，他们确实是2011年的海啸遇难者。
 
 <<=== 2026-04-25 ===>>
+========================================================================
+>>> scraper
+------------------------------------------------------------------------
+scraper    [美 'skrepɚ / 英 'skreɪpə]
+n. 刮刀；铲土机；守财奴
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A scraper is a tool that has a small handle and a metal or plastic blade and can be used for scraping a particular surface clean. 刮削器
+
+========================================================================
+>>> skyscraper
+------------------------------------------------------------------------
+skyscraper    [美 'skaɪ'skrepɚ / 英 'skaɪskreɪpə]
+n. 摩天楼，超高层大楼；特别高的东西
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A skyscraper is a very tall building in a city. 摩天楼
+
+<<=== 2026-04-26 ===>>
