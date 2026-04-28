@@ -4882,3 +4882,51 @@ CET6 TEM8
    ≫   There were a hundred or so hotels in the vicinity of the station.  在车站附近有大约一百家左右的旅馆。
 
 <<=== 2026-04-27 ===>>
+========================================================================
+>>> shards
+------------------------------------------------------------------------
+shards    [ʃɑ:d]
+陶瓷碎片
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N of n] Shards are pieces of broken glass, pottery, or metal. (玻璃、陶瓷或金属的)碎片
+   ≫   Eyewitnesses spoke of rocks and shards of glass flying in the air.  目击者们提到了在空中飞舞的石子和玻璃碎片。
+
+========================================================================
+>>> iconic
+------------------------------------------------------------------------
+iconic    [美 aɪ'kɑnɪk / 英 aɪ'kɒnɪk]
+adj. 图标的，形象的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] An iconic image or thing is important or impressive because it seems to be a symbol of something. 偶像的; 图符的; 象征性的
+   ≫   The ads helped Nike to achieve iconic status.  这些广告帮助耐克公司成就了偶像地位。
+
+========================================================================
+>>> unravel
+------------------------------------------------------------------------
+unravel    [ʌn'rævl]
+vt. 解开；阐明；解决；拆散
+vi. 解决；散开
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you unravel something that is knotted, woven, or knitted, or if it unravels, it becomes one straight piece again or separates into its different threads. 解开; 拆散
+   ≫   He could unravel a knot that others wouldn't even attempt.  他能解开其他人甚至不敢尝试的绳结。
+2. (V-T/V-I) If you unravel a mystery or puzzle, or it unravels, it gradually becomes clearer until you can work out the answer to it. 揭开
+   ≫   A young mother has flown to Iceland to unravel the mystery of her husband's disappearance.  一个年轻母亲已飞到冰岛，去揭开她丈夫失踪之谜。
+
+========================================================================
+>>> metaquest
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> erotic
+------------------------------------------------------------------------
+erotic    [美 ɪ'rɑtɪk / 英 ɪ'rɒtɪk]
+adj. 色情的；性爱的；性欲的
+n. 好色之徒
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as erotic, you mean that it involves sexual feelings or arouses sexual desire. 性爱的; 引起性欲的
+   ≫   It might sound like a fantasy, but it wasn't an erotic experience at all.  这听起来像一场梦幻，但绝不是一次性爱体验。
+
+<<=== 2026-04-28 ===>>
