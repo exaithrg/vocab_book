@@ -4930,3 +4930,50 @@ TEM8
    ≫   It might sound like a fantasy, but it wasn't an erotic experience at all.  这听起来像一场梦幻，但绝不是一次性爱体验。
 
 <<=== 2026-04-28 ===>>
+========================================================================
+>>> payphone
+------------------------------------------------------------------------
+payphone    ['peifəun]
+n. 付费电话
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A payphone is a telephone that you put coins or a card into before you can make a call. Payphones are usually in public places. (投币式或插卡式) 公用电话
+
+========================================================================
+>>> invasion
+------------------------------------------------------------------------
+invasion    [英 ɪn'veɪʒ(ə)n / 美 ɪn'veʒn]
+n. 入侵，侵略；侵袭；侵犯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is an invasion of a country, a foreign army enters it by force. 入侵
+   ≫   ...seven years after the Roman invasion of Britain.  …罗马人入侵大不列颠岛之后的7年。
+2. (N-VAR) If you refer to the arrival of a large number of people or things as an invasion, you are emphasizing that they are unpleasant or difficult to deal with. 大群涌入
+   ≫   ...this year's annual invasion of flies, wasps and ants.  …今年苍蝇、黄蜂和蚂蚁像往年一样的大量涌入。
+3. [表不满] If you describe an action as an invasion, you disapprove of it because it affects someone or something in a way that is not wanted. 侵扰
+   ≫   Is reading a child's diary always a gross invasion of privacy?  看孩子的日记在任何情况下都是严重侵犯隐私的行为吗？
+
+========================================================================
+>>> mercenary
+------------------------------------------------------------------------
+mercenary    [英 'mɜːsɪn(ə)rɪ / 美 'mɝsənɛri]
+adj. 雇佣的；唯利是图的
+n. 雇佣兵；唯利是图者
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mercenary is a soldier who is paid to fight by a country or group that they do not belong to. 雇佣兵
+   ≫   ...the recruitment of foreign mercenaries.  …对外籍雇佣兵的招募。
+2. [表不满] If you describe someone as mercenary, you are criticizing them because you think that they are only interested in the money that they can get from a particular person or situation. 惟利是图的
+   ≫   "I hate to sound mercenary," Labane said, "but am I getting paid to be in this play of yours?"  “我不愿让自己听起来惟利是图，”拉班说：“但是参与你这出戏演出我会得到报酬吗？”
+
+========================================================================
+>>> merc
+------------------------------------------------------------------------
+merc    [mə:k]
+n. 外国雇佣兵
+n. (Merc)人名；(塞)梅尔茨
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The driver of the pickup was not arrested, the Merc reported. 据圣荷西水星报报道，肇事司机尚未被逮捕。
+≫   It can all end, right now. Peace. Bliss. Just say it. Cry out merc.. 一切马上就要结束了，平静，至福。只要说一句“宽恕我”。
+≫   It is an increasingly familiar story as ranks of wealthy Chinese move from bike to Bentley and moped to Merc in a generation. 中国越来越多的富人们在短时间内从完成了从自行车到宾利，轻便摩托到奔驰的跨越。
+
+<<=== 2026-04-29 ===>>
