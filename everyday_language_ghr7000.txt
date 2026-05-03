@@ -5576,3 +5576,332 @@ adj. vagrant
 ≫   Tramps are from the lowest stratum of society. 流浪汉来自社会最下层。
 
 <<=== 2026-05-03 ===>>
+========================================================================
+>>> phantom
+------------------------------------------------------------------------
+phantom    [美 'fæntəm / 英 'fæntəm]
+n. 幽灵；幻影；虚位
+adj. 幽灵的；幻觉的；有名无实的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A phantom is a ghost. 幽灵
+   ≫   They vanished down the stairs like two phantoms.  他们像两个幽灵似的下楼不见了。
+2. [ADJ n] You use phantom to describe something that you think you experience but that is not real. 幻觉的
+   ≫   ...phantom pregnancies.  …精神性假妊娠。
+3. [ADJ n] Phantom is used to describe business organizations, agreements, or goods that do not really exist, but that someone pretends do exist in order to cheat people. (企业、协议或商品等) 有名无实的
+   ≫   A phantom trading scheme at a Wall Street investment bank went unnoticed for three years.  一家华尔街投资银行的虚构的交易方案历经3年都未被察觉。
+
+========================================================================
+>>> liberty
+------------------------------------------------------------------------
+liberty    [美 'lɪbɚti / 英 'lɪbətɪ]
+n. 自由；许可；冒失
+n. (Liberty)人名；(英)利伯蒂
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Liberty is the freedom to live your life in the way that you want, without interference from other people or the authorities. 自由
+   ≫   ...the ideal of equality and the appreciation of liberty.  …对平等的向往及对自由的欣赏。
+2. (N-UNCOUNT) Liberty is the freedom to go wherever you want, which you lose when you are a prisoner. 人身自由
+   ≫   Why not say that three convictions before court for stealing cars means three months' loss of liberty.  为什么不说法庭上关于盗车的3项判决就意味着失去了3个月的人身自由。
+3. (PHRASE) If someone is at liberty to do something, they have been given permission to do it. 获得许可的
+   ≫   The island's in the Pacific Ocean; I'm not at liberty to say exactly where, because we're still negotiating for its purchase.  这个岛屿在太平洋上；我还不能说具体在哪里，因为我们仍然在就它的购买问题进行谈判。
+
+========================================================================
+>>> Prologue
+------------------------------------------------------------------------
+prologue    [英 'prəʊlɒg / 美 'prolɔɡ]
+n. 开场白；序言
+vt. 加上…前言；为…作序
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prologue is a speech or section of text that introduces a play or book. 开场白; 前言
+   ≫   The prologue to the novel is written in the form of a newspaper account.  该小说的前言是以新闻报道的形式写的。
+
+========================================================================
+>>> interlude
+------------------------------------------------------------------------
+interlude    [英 'ɪntəl(j)uːd / 美 'ɪntɚ'lʊd]
+n. 插曲；穿插；幕间节目；[数] 插算
+vt. 使中断
+vi. 插入
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An interlude is a short period of time when an activity or situation stops and something else happens. 间歇
+
+========================================================================
+>>> eplogue
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> epilogue
+------------------------------------------------------------------------
+epilogue    [美 'ɛpɪlɔɡ / 英 'epɪlɒg]
+n. 结语，收场白；尾声，后记
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'the' N in sing] An epilogue is a passage or speech that is added to the end of a book or play as a conclusion. (书的)后记; (戏剧的)收场白
+
+========================================================================
+>>> Epilogue
+------------------------------------------------------------------------
+epilogue    [美 'ɛpɪlɔɡ / 英 'epɪlɒg]
+n. 结语，收场白；尾声，后记
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'the' N in sing] An epilogue is a passage or speech that is added to the end of a book or play as a conclusion. (书的)后记; (戏剧的)收场白
+
+========================================================================
+>>> establishes
+------------------------------------------------------------------------
+establishes    [i'stæbliʃ]
+建立
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone establishes something such as an organization, a type of activity, or a set of rules, they create it or introduce it in such a way that it is likely to last for a long time. 建立; 确立
+   ≫   The UN has established detailed criteria for who should be allowed to vote.  联合国就谁应当被允许投票确立了详细标准。
+2. [正式] If you establish contact with someone, you start to have contact with them. You can also say that two people, groups, or countries establish contact. 建立 (联系)
+   ≫   We had already established contact with the museum.  我们已经与那个博物馆建立了联系。
+3. [正式] If you establish that something is true, you discover facts that show that it is definitely true. 证实
+   ≫   Medical tests established that she was not their own child.  医学检测证实她不是他们的亲生孩子。
+   ≫   It will be essential to establish how the money is being spent.  搞清这笔钱是如何被花费的将至关重要。
+4. (ADJ) established 被证实了的
+   ≫   That link is an established medical fact.  那种联系是被证实了的医学事实。
+5. (V-T) If you establish yourself, your reputation, or a good quality that you have, you succeed in doing something, and achieve respect or a secure position as a result of this. 确立 (地位)
+   ≫   This is going to be the show where up-and-coming comedians will establish themselves.  这会是一场很有前途的喜剧演员们将在此确立他们地位的演出。
+   ≫   He has established himself as a pivotal figure in state politics.  他作为国家政治中的一位轴心人物的地位已经确立。
+
+========================================================================
+>>> mutually
+------------------------------------------------------------------------
+mutually    [美 'mjutʃuəli / 英 ˈmjuːtʃuəli]
+adv. 互相地；互助
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Without honesty, your best efforts to resolve conflicts will be wasted because you will not understand each other well enough to find mutually acceptable solutions. 没有诚实，就不能很充分很好地了解彼此以找到互相都能接受的解决方法也解决冲突的最大努力也将白费。
+≫   For example, it is hard to say whether an ART baby has died because of the ART technology or because one of its parents had a mutation that mutually contributed to subpar fertility and infant death. 例如，很难说是否一个ART的宝宝会因为ART技术而死亡，或者他父母中的其中一个出现突变，这对于在平均水平以下的受精和婴儿的死亡是互相贡献的。
+≫   In the first case, the decisions are among two mutually exclusive alternatives. 在第一种情况下，决策是两个互相排斥的选择之一。
+
+========================================================================
+>>> exclusive
+------------------------------------------------------------------------
+exclusive    [美 ɪkˈskluːsɪv / 英 ɪkˈskluːsɪv]
+adj. 独有的，专用的；高档的，昂贵的；不含……的；排外的；排斥的；全部的；唯一关心的；（新闻或报道）独家的；（条款）除外责任的；高级的，昂贵的
+n. 独家新闻，独家报道
+★★ CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+   ≫   It used to be a private, exclusive club, and now it's open to all New Yorkers.  它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+2. (ADJ) Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+   ≫   Our group will have exclusive use of a 60-foot boat.  我们组将有一条专用的60英尺的船。
+3. (ADJ) If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+   ≫   He told the magazine in an exclusive interview: "All my problems stem from drinking."  他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”
+4. (N-COUNT) An exclusive is an exclusive article or report. 独家文章; 独家报道
+   ≫   Some papers thought they had an exclusive.  一些报社以为他们有一条独家报道。
+5. (ADJ) If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+   ≫   ...the average cost of a three-course dinner exclusive of tax, tip and beverage.  …不含税、小费和酒水费用的3道菜晚餐的平均花费。
+6. (PHRASE) If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+   ≫   They both have learned that ambition and successful fatherhood can be mutually exclusive.  他们都明白了事业心与做个成功的父亲是互相排斥的。
+
+========================================================================
+>>> mercenary
+------------------------------------------------------------------------
+mercenary    [美 'mɝsənɛri / 英 'mɜːsɪn(ə)rɪ]
+adj. 雇佣的；唯利是图的
+n. 雇佣兵；唯利是图者
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mercenary is a soldier who is paid to fight by a country or group that they do not belong to. 雇佣兵
+   ≫   ...the recruitment of foreign mercenaries.  …对外籍雇佣兵的招募。
+2. [表不满] If you describe someone as mercenary, you are criticizing them because you think that they are only interested in the money that they can get from a particular person or situation. 惟利是图的
+   ≫   "I hate to sound mercenary," Labane said, "but am I getting paid to be in this play of yours?"  “我不愿让自己听起来惟利是图，”拉班说：“但是参与你这出戏演出我会得到报酬吗？”
+
+========================================================================
+>>> corpo
+------------------------------------------------------------------------
+Corpo
+n. （巴西、意、阿根、美、印）科波（人名）
+
+========================================================================
+>>> lackey
+------------------------------------------------------------------------
+lackey    [英 'lækɪ /  'lækɪ]
+n. 男仆；侍从；马屁精
+vt. 侍候，服侍；奉承
+n. (Lackey)人名；(英)拉基
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you describe someone as a lackey, you are critical of them because they follow someone's orders completely, without ever questioning them. 唯命是从之徒; 应声虫
+
+========================================================================
+>>> Nomad
+------------------------------------------------------------------------
+nomad    [美 'nomæd / 英 'nəʊmæd]
+n. 游牧民；流浪者
+adj. 游牧的；流浪的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A nomad is a member of a group of people who travel from place to place rather than living in one place all the time. 游牧人; 游牧部落
+   ≫   ...a country of nomads who raise cattle and camels.  ...一个饲养牛和骆驼的游牧国家。
+
+========================================================================
+>>> deuteragonist
+------------------------------------------------------------------------
+deuteragonist    [美 ˌduːtəˈræɡənɪst / 英 ˌdjuːtəˈræɡənɪst]
+n. 当配角的人；（古希腊戏剧的）第二演员
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) (in ancient Greek drama) the character next in importance to the protagonist, esp the antagonist (古希腊戏剧中)当配角的人
+
+========================================================================
+>>> elusive
+------------------------------------------------------------------------
+elusive    [美 ɪ'lusɪv / 英 ɪ'l(j)uːsɪv]
+adj. 难懂的；易忘的；逃避的；难捉摸的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something or someone that is elusive is difficult to find, describe, remember, or achieve. 难 (找、形容、记、取得) 的
+   ≫   In Denver late-night taxis are elusive and far from cheap.  在丹佛，深夜出租车很难找，而且绝不便宜。
+
+========================================================================
+>>> nomad
+------------------------------------------------------------------------
+nomad    [美 'nomæd / 英 'nəʊmæd]
+n. 游牧民；流浪者
+adj. 游牧的；流浪的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A nomad is a member of a group of people who travel from place to place rather than living in one place all the time. 游牧人; 游牧部落
+   ≫   ...a country of nomads who raise cattle and camels.  ...一个饲养牛和骆驼的游牧国家。
+
+========================================================================
+>>> explanation
+------------------------------------------------------------------------
+explanation    [英 eksplə'neɪʃ(ə)n / 美 ,ɛksplə'neʃən]
+n. 说明，解释；辩解
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also 'of/in' N] If you give an explanation of something that has happened, you give people reasons for it, especially in an attempt to justify it. 解释 (原因)
+   ≫   She told the court she would give a full explanation of the prosecution's decision on Monday.  她告诉法庭她将在星期一就控方的决定做出详尽的解释。
+2. (N-COUNT) If you say there is an explanation for something, you mean that there is a reason for it. 原因
+   ≫   The deputy airport manager said there was no apparent explanation for the crash.  机场副经理称那次飞机坠毁没有明显的原因。
+3. (N-COUNT) If you give an explanation of something, you give details about it or describe it so that it can be understood. 详细说明
+   ≫   He has given a very clear explanation of his remarks and the context in which they were made.  他对他的评论以及作出那些评论的情境已经作了非常清楚详细的说明。
+
+========================================================================
+>>> params
+------------------------------------------------------------------------
+params    [美 ˈpærəmz / 英 ˈpærəmz]
+n. 参数；参数个数（param 的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Also, notice the init-params. 此外，请注意init - params。
+≫   The last line, debug (params), is optional. 最后一行debug (params)是可选的。
+≫   Normally the query string gets parsed and stored in params. 通常，查询字符串被解析并存储到params中。
+
+========================================================================
+>>> forfeited
+------------------------------------------------------------------------
+forfeited    ['fɔ:fit]
+v. 丧失；被迫放弃；被剥夺（forfeit的过去分词）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you forfeit something, you lose it or are forced to give it up because you have broken a rule or done something wrong. (因违规或做错事而) 失去; 被迫放弃
+   ≫   He was ordered to forfeit more than $1.5m.  他被令放弃了一百五十多万美元。
+2. (V-T) If you forfeit something, you give it up willingly, especially so that you can achieve something else. (尤指为获得别物而) 自愿放弃
+   ≫   Do you think that they would forfeit profit in the name of safety?  你认为他们会为了安全而自愿放弃利润吗？
+3. (N-COUNT) A forfeit is something that you have to give up because you have done something wrong. (因做错事而) 被迫放弃之物
+   ≫   That is the forfeit he must pay.  那是他必须付的罚金。
+
+========================================================================
+>>> eliminated
+------------------------------------------------------------------------
+eliminated    [ɪ'lɪmɪnetɪd]
+v. 被淘汰；消除；排除（eliminate的过去分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] To eliminate something, especially something you do not want or need, means to remove it completely. 根除
+   ≫   Recent measures have not eliminated discrimination in employment.  最近的举措还未能根除就业歧视。
+2. (N-UNCOUNT) elimination 根除
+   ≫   ...the prohibition and elimination of chemical weapons.  …对化学武器的禁止和销毁。
+3. (V-T PASSIVE) When a person or team is eliminated from a competition, they are defeated and so stop participating in the competition. 淘汰
+   ≫   I was eliminated from the 400 metres in the semi-finals.  我在400米半决赛中被淘汰了。
+4. (V-T) If someone says that they have eliminated an enemy, they mean that they have killed them. By using the word "eliminate," they are trying to make the action sound more positive than if they used the word "kill." 消灭
+   ≫   He declared war on the government and urged right-wingers to eliminate their opponents.  他向政府宣战并且力劝右翼分子们消灭他们的对手。
+
+========================================================================
+>>> switchboard
+------------------------------------------------------------------------
+switchboard    [美 'swɪtʃbɔrd / 英 'swɪtʃbɔːd]
+n. 配电盘；接线总机
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A switchboard is a place in a large office or business where all the telephone calls are connected. 电话总机
+   ≫   He asked to be connected to the central switchboard.  他要求转接到电话总机。
+
+========================================================================
+>>> cryptically
+------------------------------------------------------------------------
+cryptically    ['kriptikəli]
+adv. 隐秘地；意义含糊地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   “Good. Now move onto the second thing, ” she cryptically says. “好，现在进行第二件事，”她含蓄地指示他们。
+≫   Most of my students knew, at least cryptically, what happened in Tiananmen Square right around the year most of them were born. 二十年前，恰好是我的学生出生的年代，他们中绝大多数知道，至少是秘而不宣的知道当时在广场发生的事情。
+≫   It has only a single, illuminated button that serves as the on-off switch and an indicator light that blinks cryptically in different colors. 它只有单个的发光按键来作为通断开关，而且只有一个指示灯含糊不清地闪烁着不同颜色。
+
+========================================================================
+>>> neutralized
+------------------------------------------------------------------------
+neutralized    ['nju:trəlaiz]
+adj. 中立化的
+v. 中立化（neutralize的过去式和过去分词）
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To neutralize something means to prevent it from having any effect or from working properly. 使无效; 使不能正常运作
+   ≫   The U.S. is trying to neutralize the resolution in the UN Security Council.  美国试图在联合国安理会阻止该决议的通过。
+2. (V-T) When a chemical substance neutralizes an acid, it makes it less acid. 中和
+   ≫   Antacids are alkaline and they relieve pain by neutralizing acid in the contents of the stomach.  抗酸剂是碱性的，它们通过中和胃容物中的酸来缓解疼痛。
+
+========================================================================
+>>> negotiate
+------------------------------------------------------------------------
+negotiate    [英 nɪ'gəʊʃɪeɪt / 美 nɪ'ɡoʃɪet]
+vt. 谈判，商议；转让；越过
+vi. 谈判，交涉
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-RECIP) If people negotiate with each other or negotiate an agreement, they talk about a problem or a situation such as a business arrangement in order to solve the problem or complete the arrangement. 谈判
+   ≫   It is not clear whether the president is willing to negotiate with the Democrats.  尚不清楚总统是否愿意与民主党人进行谈判。
+   ≫   When you have two adversaries negotiating, you need to be on neutral territory.  在你让敌对双方谈判时，你应该采取中间立场。
+   ≫   The local government and the army negotiated a truce.  该地方政府和军方谈判达成了休战协定。
+   ≫   Western governments have this week urged him to negotiate and avoid force.  西方国家政府本周已敦促他进行谈判并且避免使用武力。
+2. (V-T) If you negotiate an area of land, a place, or an obstacle, you successfully travel across it or around it. 成功越过
+   ≫   Frank Mariano negotiates the desert terrain in his battered pickup.  弗兰克·马里亚诺驾驶他那辆破旧的敞篷小货车成功地穿越了沙漠地区。
+   ≫   I negotiated the corner on my motorcycle and pulled to a stop.  我骑着摩托车顺利地绕过弯道，停了下来。
+
+========================================================================
+>>> ambiguous
+------------------------------------------------------------------------
+ambiguous    [美 æm'bɪɡjuəs / 英 æm'bɪgjʊəs]
+adj. 模糊不清的；引起歧义的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in more than one way. 模棱两可的
+   ≫   This agreement is very ambiguous and open to various interpretations.  这个协议非常模棱两可，可以有多种解释。
+2. (ADV) ambiguously 模棱两可地
+   ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
+
+========================================================================
+>>> anonymous
+------------------------------------------------------------------------
+anonymous    [美 ə'nɑnəməs / 英 ə'nɒnɪməs]
+adj. 匿名的，无名的；无个性特征的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you remain anonymous when you do something, you do not let people know that you were the person who did it. 匿名的
+   ≫   You can remain anonymous if you wish.  如果你愿意你可以保持匿名。
+   ≫   An anonymous benefactor stepped in to provide the prize money.  一位匿名捐助人参与进来提供了奖金。
+2. (N-UNCOUNT) anonymity 匿名
+   ≫   Both mother and daughter, who have requested anonymity, are doing fine.  要求匿名的母女情况都好。
+3. (ADJ) Something that is anonymous does not reveal who you are. 不记名的
+   ≫   Of course, that would have to be by anonymous vote.  当然，那得是通过不记名投票。
+4. (N-UNCOUNT) anonymity 不记名
+   ≫   He claims many more people would support him in the anonymity of a voting booth.  他声称在投票站不记名的情况下更多的人会支持他。
+
+<<=== 2026-05-04 ===>>
