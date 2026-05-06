@@ -6095,3 +6095,63 @@ TEM8
 1. (N-UNCOUNT) You use headgear to refer to hats or other things worn on the head. 帽子; 头饰
 
 <<=== 2026-05-05 ===>>
+========================================================================
+>>> crowns
+------------------------------------------------------------------------
+crowns    [kraʊn]
+n. 王冠（crown的复数形式）
+v. 使…成王（crown的第三人称单数形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A crown is a circular ornament, usually made of gold and jewels, which a king or queen wears on their head at official ceremonies. You can also use crown to refer to anything circular that is worn on someone's head. 王冠; 冠
+   ≫   ...a crown of flowers.  …一个花冠。
+2. (N-COUNT) Your crown is the top part of your head, at the back. 头顶后部
+   ≫   He laid his hand gently on the crown of her head.  他把手轻轻地放在她的头顶后部。
+3. (N-COUNT) A crown is an artificial top piece fixed over a broken or decayed tooth. 齿冠
+   ≫   How long does it take to have crowns fitted?  镶齿冠需要多长时间？
+4. (N-PROPER) The government of a country that has a king or queen is sometimes referred to as the Crown. 王国政府
+   ≫   She says the sovereignty of the Crown must be preserved.  她说君主政权必须予以保留。
+   ≫   ...a minister of the Crown.  …王国政府的一位大臣。
+5. [usu passive] When a king or queen is crowned, a crown is placed on their head as part of a ceremony in which they are officially made king or queen. 为…加冕
+   ≫   Two days later, Juan Carlos was crowned king.  两天后，胡安·卡洛斯被加冕为国王。
+
+========================================================================
+>>> princess
+------------------------------------------------------------------------
+princess    [美 prɪnˌsɛs / 英 prɪn'ses]
+n. 公主；王妃；女巨头
+n. (Princess)人名；(英)普琳西丝；
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-TITLE/N-COUNT) A princess is a female member of a royal family, usually the daughter of a king or queen or the wife of a prince. 公主; 王妃
+   ≫   Princess Anne topped the guest list.  安妮公主的名字位于来宾名单之首。
+
+========================================================================
+>>> tactical
+------------------------------------------------------------------------
+tactical    [美 ˈtæktɪkl / 英 ˈtæktɪkl]
+adj. 战术的；策略的；善于策略的
+★★ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use tactical to describe an action or plan which is intended to help someone achieve what they want in a particular situation. 战术上的
+   ≫   It's not yet clear whether his resignation offer is a serious one, or whether it's simply a tactical move.  还不清楚他的辞职请求是认真的，还是只是个策略上的举动。
+2. (ADV) tactically ADV 有策略地
+   ≫   The electorate is astute enough to vote tactically against the government.  全体选民非常精明，很有策略地投了政府的反对票。
+3. (ADJ) Tactical weapons or forces are those which a military leader can decide for themselves to use in a battle, rather than waiting for a decision by a political leader. (武器或军队) 战术性的 [ADJ n]
+   ≫   They have removed all tactical nuclear missiles that could strike Europe.  他们已经拆走了所有可能攻击欧洲的战术性核导弹。
+
+========================================================================
+>>> covert
+------------------------------------------------------------------------
+covert    [美 'kovɝt / 英 'kʌvət; 'kəʊvɜːt]
+n. 隐藏处；树丛；蔽覆羽翮基部的羽毛
+adj. 隐蔽的；隐密的；偷偷摸摸的；在丈夫保护下的
+n. (Covert)人名；(英)科弗特
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Covert activities or situations are secret or hidden. 隐秘的
+   ≫   They have been supplying covert military aid to the rebels.  他们一直在为叛军提供隐秘的军事援助。
+2. (ADV) covertly 隐秘地
+   ≫   They covertly observed Lauren, who was sitting between Ned and Algie at a nearby table.  他们秘密地观察着邻近桌子上坐在内德和阿尔吉之间的罗伦。
+
+<<=== 2026-05-06 ===>>
