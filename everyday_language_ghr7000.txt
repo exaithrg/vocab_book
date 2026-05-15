@@ -6466,3 +6466,450 @@ TEM8
    ≫   ...Andy Warhol's New York loft.  …安迪·沃霍尔在纽约的顶楼寓所。
 
 <<=== 2026-05-14 ===>>
+========================================================================
+>>> canvas
+------------------------------------------------------------------------
+canvas    [英 'kænvəs / 美 'kænvəs]
+n. 帆布
+vt. 用帆布覆盖，用帆布装备
+adj. 帆布制的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Canvas is a strong, heavy cloth that is used for making things such as tents, sails, and bags. 帆布
+   ≫   ...a canvas bag.  …一个帆布包。
+2. (N-VAR) A canvas is a piece of canvas or similar material on which an oil painting can be done. 油画布
+3. (N-COUNT) A canvas is a painting that has been done on canvas. 帆布油画
+   ≫   The show includes canvases by masters like Carpaccio, Canaletto and Guardi.  展览包括卡巴秋、卡纳列托和瓜第等大师的帆布油画。
+
+========================================================================
+>>> summit
+------------------------------------------------------------------------
+summit    [美 'sʌmɪt / 英 'sʌmɪt]
+n. 顶点；最高级会议；最高阶层
+adj. 最高级的；政府首脑的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A summit is a meeting at which the leaders of two or more countries discuss important matters. 峰会
+   ≫   ...next week's Washington summit.  …下周的华盛顿峰会。
+2. (N-COUNT) The summit of a mountain is the top of it. (山) 峰
+   ≫   He made it to the summit of Kilimanjaro before collapsing.  他成功登上乞力马扎罗山峰顶后倒下了。
+
+========================================================================
+>>> embassy
+------------------------------------------------------------------------
+embassy    [美 'ɛmbəsi / 英 'embəsɪ]
+n. 大使馆；大使馆全体人员
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An embassy is a group of government officials, headed by an ambassador, who represent their government in a foreign country. The building in which they work is also called an embassy. 大使及其随员; 大使馆
+   ≫   The American embassy has already complained.  美国使馆已经提出抗议。
+
+========================================================================
+>>> disciplined
+------------------------------------------------------------------------
+disciplined    [美 'dɪsəplɪnd / 英 'dɪsɪplɪnd]
+adj. 遵守纪律的；受过训练的
+v. 使有纪律（discipline的过去分词）；训导
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Someone who is disciplined behaves or works in a controlled way. 有纪律的
+   ≫   For me it meant being very disciplined about how I run my life.  对我而言，它意味着要以非常有纪律的方式生活。
+
+========================================================================
+>>> grace
+------------------------------------------------------------------------
+grace    [美 ɡres / 英 greɪs]
+n. 优雅；恩惠；魅力；慈悲
+vt. 使优美
+n. (Grace)人名；(英)格雷斯，格雷丝 (女名)；(法)格拉斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If someone moves with grace, they move in a smooth, controlled, and attractive way. 优美
+   ≫   He moved with the grace of a trained boxer.  他的动作带有一个训练有素的拳击手的风采。
+2. (N-PLURAL) The graces are the ways of behaving and doing things which are considered polite and well-mannered. 风度
+   ≫   She didn't fit in and she had few social graces.  她不适应而且没有什么社交风度。
+3. [正式] If you say that something graces a place or a person, you mean that it makes them more attractive. 使优美
+   ≫   He went to the beautiful old Shaker dresser that graced this homely room.  他走向那个使这间陋室生辉的漂亮的夏克尔式旧橱柜。
+4. (N-UNCOUNT) In Christianity and some other religions, grace is the kindness that God shows to people because He loves them. (上帝的) 恩惠
+   ≫   It was only by the grace of God that no one died.  正是承蒙上帝的恩惠才没有人死去。
+5. (N-VAR) When someone says grace before or after a meal, they say a prayer in which they thank God for the food and ask Him to bless it. (饭前或饭后的) 谢恩祷告
+   ≫   Leo, will you say grace?  利奥，你要做祷告吗？
+
+========================================================================
+>>> course
+------------------------------------------------------------------------
+course    [美 kɔrs / 英 kɔːs]
+n. 科目；课程；过程；进程；道路；路线，航向；一道菜
+vt. 追赶；跑过
+vi. 指引航线；快跑
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. Course is often used in the expression "of course," or instead of "of course" in informal spoken English. See . 当然 (在口语中代替)(of course)
+2. [also 'a' N] The course of a vehicle, especially a ship or aircraft, is the route along which it is travelling. 路线
+   ≫   Aircraft can avoid each other by altering course to left or right.  飞行器可以通过向左或向右改变航线来避免相撞。
+3. (N-COUNT) A course of action is an action or a series of actions that you can do in a particular situation. 做法
+   ≫   My best course of action was to help Gill by being sympathetic.  我最好的做法是通过表达同情去帮助吉尔。
+4. (N-COUNT) A course is a series of lessons or lectures on a particular subject. 课程
+   ≫   ...a course in business administration.  …一门工商管理课程。
+5. → see also ,
+6. (N-COUNT) A course of medical treatment is a series of treatments that a doctor gives someone. 疗程
+   ≫   He had a course of antibiotics to kill the bacterium.  他服了一疗程的抗生素来杀死细菌。
+7. (N-COUNT) A course is one part of a meal. 一道菜
+   ≫   The lunch was excellent, especially the first course.  午饭非常好吃，尤其是第一道菜。
+8. (N-COUNT) In sports, a course is an area of land where races are held or golf is played, or the land over which a race takes place. 跑马场; 跑道; 高尔夫球场
+   ≫   Only 12 seconds separated the first three riders on the course.  跑道上的前3名选手12秒就拉开距离了。
+9. (N-COUNT) The course of a river is the channel along which it flows. 河道
+   ≫   Romantic castles overlook the river's twisting course.  一座座传奇式的城堡俯瞰着小河蜿蜒曲折的河道。
+10. in due course →see
+11. (PHRASE) If something happens in the course of a particular period of time, it happens during that period of time. 在…期间
+   ≫   In the course of the 1930s steel production approximately doubled.  20世纪30年代间，钢产量几乎翻了一番。
+12. (PHRASE) If you do something as a matter of course, you do it as part of your normal work or way of life. 作为理所当然的事
+   ≫   If police are carrying arms as a matter of course, then doesn't it encourage criminals to carry them?  如果警察理所当然地携带武器，这难道不是鼓励罪犯也携带武器吗？
+13. (PHRASE) If a ship or aircraft is on course, it is travelling along the correct route. If it is off course, it is no longer travelling along the correct route. 在正确路线上/偏离正确路线
+   ≫   The ship was sent off course into shallow waters.  轮船被驶出轨，进入了浅水区。
+14. (PHRASE) If you are on course for something, you are likely to achieve it. 极有可能得到…
+   ≫   The company is on course for profits of $20m.  这家公司的利润有望达到2000万美元。
+
+========================================================================
+>>> dinner course
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> buffet
+------------------------------------------------------------------------
+buffet    [美 bəˈfe; bʌfɪt / 英 ˈbʊfeɪ;ˈbʌfɪt]
+n. 自助餐；小卖部；打击；猛烈冲击
+vt. 与…搏斗；连续猛击
+vi. 斗争；奋勇前进
+adj. 自助的；自助餐的
+n. (Buffet)人名；(法)比费
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A buffet is a meal of food that is displayed on a long table at a party or public occasion. Guests usually serve themselves. 自助餐
+   ≫   ...a buffet lunch.  …自助午餐。
+2. (N-COUNT) A buffet is a café, usually in a hotel or station. (旅馆、车站等处的) 餐饮部
+   ≫   We sat in the station buffet sipping tea.  我们坐在车站餐饮部喝茶。
+3. (N) a blow, esp with a fist or hand (尤指用拳头或手的)一击
+4. (V-T) If something is buffeted by strong winds or by stormy seas, it is repeatedly struck or blown around by them. (狂风、巨浪) 反复袭击
+   ≫   Their plane had been severely buffeted by storms.  他们的飞机遭到了暴风雨的猛烈袭击。
+
+========================================================================
+>>> cute
+------------------------------------------------------------------------
+cute    [美 kjʊt / 英 kjuːt]
+adj. 可爱的；漂亮的；聪明的，伶俐的
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] Something or someone that is cute is very pretty or attractive, or is intended to appear pretty or attractive. 可爱的
+   ≫   Oh, look at that dog! He's so cute.  哦，看那条狗！它真可爱。
+2. [非正式] If you describe someone as cute, you think they are sexually attractive. 性感的
+   ≫   There was this girl, and I thought she was really cute.  就是这个女孩，我觉得她真的很性感。
+3. [美国英语] If you describe someone as cute, you mean that they deal with things cleverly. 聪明的
+   ≫   That's a cute trick.  那是个聪明的把戏。
+
+========================================================================
+>>> schong
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> reluctant
+------------------------------------------------------------------------
+reluctant    [美 rɪ'lʌktənt / 英 rɪ'lʌkt(ə)nt]
+adj. 不情愿的；勉强的；顽抗的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are reluctant to do something, you are unwilling to do it and hesitate before doing it, or do it slowly and without enthusiasm. 不愿意的; 勉强的
+   ≫   Mr. Spero was reluctant to ask for help.  斯珀洛先生不愿意请求帮助。
+2. [ADV with v] reluctantly 不愿意地; 勉强地
+   ≫   We have reluctantly agreed to let him go.  我们已勉强同意让他走了。
+
+========================================================================
+>>> toast
+------------------------------------------------------------------------
+toast    [美 tost / 英 təʊst]
+n. 干杯；烤面包；接受敬酒的人；（在某领域）广受赞誉的人
+vt. 向…祝酒，为…干杯
+vi. 烤火，取暖；使暖和；烘烤（面包片等）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Toast is bread which has been cut into slices and made brown and crisp by cooking at a high temperature. 烤面包片
+   ≫   ...a piece of toast.  …一片烤面包片。
+2. (V-T) When you toast something such as bread, you cook it at a high temperature so that it becomes brown and crisp. 烤 (面包等)
+   ≫   Toast the bread lightly on both sides.  把面包的两面稍微烤一下。
+3. (N-COUNT) When you drink a toast to someone or something, you drink some wine or another alcoholic drink as a symbolic gesture, in order to show your appreciation of them or to wish them success. 敬酒
+   ≫   Eleanor and I drank a toast to the bride and groom.  埃莉诺和我给新郎和新娘敬了酒。
+4. (V-T) When you toast someone or something, you drink a toast to them. 为…举杯祝酒
+   ≫   We all toasted his health.  我们大家为他的健康举杯祝酒。
+
+========================================================================
+>>> stakes
+------------------------------------------------------------------------
+stakes    [steik]
+n. 赌注；风险（stake的复数）；利益
+v. 用桩支撑；以…打赌（stake的第三人称单数）
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) If something is at stake, it is being risked and might be lost or damaged if you are not successful. 得失难料
+   ≫   The tension was naturally high for a game with so much at stake.  一场成败如此难料的比赛紧张度自然很高。
+2. (N-PLURAL) The stakes involved in a contest or a risky action are the things that can be gained or lost. (竞赛、冒险行为中的) 赌注
+   ≫   The game was usually played for high stakes between two large groups.  这种游戏通常是两大组人为赢得大的赌注而进行的。
+3. (V-T) If you stake something such as your money or your reputation on the result of something, you risk your money or reputation on it. 以 (金钱、名誉等) 下赌注
+   ≫   He has staked his political future on an election victory.  他已把他的政治前途赌在了一次选举获胜上。
+4. (N-COUNT) If you have a stake in something such as a business, it matters to you, for example because you own part of it or because its success or failure will affect you. (商业等中的) 利害关系
+   ≫   He was eager to return to a more entrepreneurial role in which he had a big financial stake in his own efforts.  他渴望回到更具企业家性质的角色，这样他的努力就跟自己有大的金融利害关系。
+5. (N-PLURAL) You can use stakes to refer to something that is like a contest. For example, you can refer to the choosing of a leader as the leadership stakes. 争夺赛
+   ≫   We are lagging behind in the childcare stakes.  我们在儿童保育竞赛中正落在后面。
+6. (N-COUNT) A stake is a pointed wooden post which is pushed into the ground, for example in order to support a young tree. 桩
+   ≫   His arms were tied to wooden stakes to hold him flat.  他的双臂被绑在木桩上以便使他平躺着。
+7. (PHRASE) If you stake a claim, you say that something is yours or that you have a right to it. 提出所有权要求
+   ≫   Jane is determined to stake her claim as an actress.  简决心提出她作为一名女演员的应有权利。
+
+========================================================================
+>>> statesmanship
+------------------------------------------------------------------------
+statesmanship    [美 'stetsmənʃɪp / 英 'steɪtsmənʃɪp]
+n. 政治才能；政治家的风度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Statesmanship is the skill and activities of a statesman. 政治家风范; 政治家的才干
+   ≫   He praised the two leaders warmly for their statesmanship.  他热情地赞扬了两位领导人的政治家风范。
+
+========================================================================
+>>> hardship
+------------------------------------------------------------------------
+hardship    [美 'hɑrdʃɪp / 英 'hɑːdʃɪp]
+n. 困苦；苦难；艰难险阻
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Hardship is a situation in which your life is difficult or unpleasant, often because you do not have enough money. 困境
+   ≫   Many people are suffering economic hardship.  很多人正遭受着经济困难。
+
+========================================================================
+>>> clown
+------------------------------------------------------------------------
+clown    [美 klaʊn / 英 klaʊn]
+n. 小丑；乡下人；粗鲁笨拙的人
+vi. 扮小丑；装傻
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A clown is a performer in a circus who wears funny clothes and bright makeup, and does silly things in order to make people laugh. 小丑
+2. (N-COUNT) If you say that someone is a clown, you mean that they say funny things or do silly things to amuse people. 滑稽的人
+   ≫   Chapman was the family clown, with a knack for making a joke out of any situation.  查普曼是家里的诙谐人物，他有诀窍在任何场合开玩笑。
+3. (V-I) If you clown, you do silly things in order to make people laugh. 扮演小丑
+   ≫   He clowned with John Belushi and Bill Murray in National Lampoon shows.  他与约翰·贝鲁西和比尔·默里在全国讽刺作品表演会上一起扮演小丑。
+4. (PHRASAL VERB) Clown around means the same as . 扮演小丑
+   ≫   Bev made her laugh, the way she was always clowning around.  贝芙令她大笑，用她常用的扮小丑手法。
+
+========================================================================
+>>> parise
+------------------------------------------------------------------------
+Parise
+n. （Parise）人名；（意）帕里塞
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For most of the people more parise than pudding. 对大多数人来说，宁要实惠不要恭维。
+
+========================================================================
+>>> praise
+------------------------------------------------------------------------
+praise    [美 prez / 英 preɪz]
+n. 赞扬；称赞；荣耀；崇拜
+vt. 赞美，歌颂；表扬
+vi. 赞美；赞扬
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you praise someone or something, you express approval for their achievements or qualities. 称赞
+   ≫   The American president praised Turkey for its courage.  美国总统称赞了土耳其的勇气。
+   ≫   Many others praised Sanford for taking a strong stand.  还有许多人称赞桑福德立场坚定。
+2. (N-UNCOUNT) Praise is what you say or write about someone when you are praising them. 赞美
+   ≫   All the ladies are full of praise for the staff and service they received.  所有女士对工作人员和她们得到的服务赞不绝口。
+   ≫   I have nothing but praise for the police.  我对警察只有赞扬。
+
+========================================================================
+>>> interpreter
+------------------------------------------------------------------------
+interpreter    [美 ɪn'tɝprɪtɚ / 英 ɪn'tɜːprɪtə]
+n. 解释者；口译者；注释器
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An interpreter is a person whose job is to translate what someone is saying into another language. 口译员
+   ≫   Speaking through an interpreter, Aristide said that Haitians had hoped coups were behind them.  通过口译员，亚里斯蒂德说海地人希望政变再也不发生了。
+
+========================================================================
+>>> sedated
+------------------------------------------------------------------------
+sedated
+adj．镇静的，安定的：指经过药物镇静后的状态，通常用于医学领域。
+★ sedating,sedated,sedates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe someone or something as sedate, you mean that they are quiet and rather dignified, though perhaps a bit dull. 沉静的; 庄重的; 不苟言笑的
+   ≫   She took them to visit her sedate, elderly cousins.  她带他们去探望她那些不苟言笑的表哥表姐们。
+   ≫   Her life was sedate, almost mundane.  她的生活很平静，几乎有些枯燥。
+2. (ADJ) If you move along at a sedate pace, you move slowly, in a controlled way. 不慌不忙的
+   ≫   We set off again at a more sedate pace.  我们又一次出发了,步调更加缓慢。
+3. (V-T) If someone is sedated, they are given a drug to calm them or to make them sleep. (用镇静剂) 使镇静
+   ≫   The patient is sedated with intravenous use of sedative drugs.  这名患者在静脉注射了镇静剂后镇静了下来。
+
+========================================================================
+>>> power
+------------------------------------------------------------------------
+power    [美 'paʊɚ / 英 'paʊə]
+n. 力量，能力；电力，功率；政权，势力；[数] 幂
+vt. 激励；供以动力；使…有力量
+vi. 快速前进
+adj. 借影响有权势人物以操纵权力的
+n. (Power)人名；(英、葡)鲍尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If someone has power, they have a lot of control over people and activities. 权力
+   ≫   In a democracy, power must be divided.  在民主政体中，权力必须被分散。
+2. (N-UNCOUNT) Your power to do something is your ability to do it. 能力
+   ≫   Human societies have the power to solve the problems confronting them.  人类社会有能力解决他们面临的问题。
+   ≫   Fathers have the power to dominate children and young people.  父辈们有控制孩子们和年轻人的能力。
+3. (N-UNCOUNT) If it is in or within your power to do something, you are able to do it or you have the resources to deal with it. 能力范围
+   ≫   Your debt situation is only temporary, and it is within your power to resolve it.  你的债务状况只是暂时的，解决它在你的能力范围里。
+4. [also N in pl] If someone in authority has the power to do something, they have the legal right to do it. (法律赋予的) 权力
+   ≫   The police have the power of arrest.  警察有逮捕权。
+5. (N-UNCOUNT) If people take power or come to power, they take charge of a country's affairs. If a group of people are in power, they are in charge of a country's affairs. 政权
+   ≫   Idi Amin came into power several years later.  伊迪·阿明几年后执掌了政权。
+   ≫   He first assumed power in 1970.  他于1970年首次执掌了政权。
+6. (N-COUNT) You can use power to refer to a country that is very rich or important, or has strong military forces. 强国
+   ≫   ....the emergence of the new major economic power, Japan.  …新的主要经济强国日本的崛起。
+7. (N-UNCOUNT) The power of something is the ability that it has to move or affect things. 动力
+   ≫   The vehicle had better power, better tyres, and better brakes.  这种车辆有更好的动力、更好的轮胎和更好的刹车。
+8. (N-UNCOUNT) Power is energy, especially electricity, that is obtained in large quantities from a fuel source and used to operate lights, heating, and machinery. (尤指电) 能量
+   ≫   Nuclear power is cleaner than coal.  核能比煤更清洁。
+   ≫   Power has been restored to most parts that were hit last night by high winds.  昨天夜里受到强风袭击的大部分地区已经恢复了供电。
+9. (V-T) The device or fuel that powers a machine provides the energy that the machine needs in order to work. 为…提供动力
+   ≫   The "flywheel" battery, it is said, could power an electric car for 600 miles on a single charge.  据说，“飞轮”电池每充电一次可驱动一辆电动汽车行驶600英里。
+10. [ADJ n] Power tools are operated by electricity. 电动的
+   ≫   ...large power tools, such as chainsaws.  …大型电动工具，如链锯。
+
+========================================================================
+>>> plead
+------------------------------------------------------------------------
+plead    [美 plid / 英 pliːd]
+vt. 借口；为...辩护；托称
+vi. 恳求；辩护
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you plead with someone to do something, you ask them in an intense, emotional way to do it. 恳求
+   ≫   The lady pleaded with her daughter to come back home.  那位女士恳求她的女儿回家。
+   ≫   He was kneeling on the floor pleading for mercy.  他正跪在地板上请求宽恕。
+2. (V-I) When someone charged with a crime pleads guilty or not guilty in a court of law, they officially state that they are guilty or not guilty of the crime. 表示服罪/不服罪
+   ≫   Morris had pleaded guilty to robbery.  莫里斯已经承认犯有抢劫罪。
+3. (V-T) If you plead the case or cause of someone or something, you speak out in their support or defence. 为…辩护
+   ≫   He appeared before the committee to plead his case.  他出现在委员会上为他的案子辩护。
+4. (V-T) If you plead a particular thing as the reason for doing or not doing something, you give it as your excuse. 以…为借口
+   ≫   Mr. Giles pleads ignorance as his excuse.  贾尔斯先生以不知情作为他的借口。
+
+========================================================================
+>>> vassals
+------------------------------------------------------------------------
+vassal    [美 ˈvæsl / 英 ˈvæsl]
+n. 诸侯；封臣
+adj. 臣属的
+n. （Vassal）人名；（英、法、德、罗）瓦萨尔；（西）巴萨尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In feudal society, a vassal was a man who gave military service to a lord, in return for which he was protected by the lord and received land to live on. 封臣
+2. (N-COUNT) If you say that one country is a vassal of another, you mean that it is controlled by it. 附庸国 [书面] [usu sing]
+   ≫   Opponents of the treaty argue that monetary union will turn France into a vassal of Germany.  协定的反对者认为货币联盟会使法国沦为德国的附庸国。
+
+========================================================================
+>>> chants
+------------------------------------------------------------------------
+chants    [tʃɑ:nt; tʃænt]
+n. 圣歌；合唱；儿歌（chant的复数）
+v. 吟唱；颂扬（chant的第三人称单数）
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chant is a word or group of words that is repeated over and over again. 重复的话语
+   ≫   He was greeted by the chant of "Judas! Judas!"  他迎来的是不绝于耳的呼喊“叛徒！叛徒！”。
+2. (N-COUNT) A chant is a religious song or prayer that is sung on only a few notes. 圣歌; 赞美诗
+   ≫   ...a Gregorian chant.  …一首格列高利圣歌。
+3. (V-T/V-I) If you chant something or if you chant, you repeat the same words over and over again. 反复地说
+   ≫   Demonstrators chanted slogans.  示威者们反复地喊着口号。
+   ≫   The crowd chanted "We are with you."  民众反复喊着“我们支持你。”
+4. (N-UNCOUNT) chanting 重复的呼声
+   ≫   A lot of the chanting was in support of the deputy prime minister.  很多不绝于耳的呼声都支持副总理。
+5. (V-T/V-I) If you chant or if you chant something, you sing a religious song or prayer. 吟诵; 唱圣歌
+   ≫   Muslims chanted and prayed.  穆斯林唱了圣歌并祈祷了。
+6. (N-UNCOUNT) chanting 吟诵声
+   ≫   The chanting inside the temple stopped.  寺庙里面的诵经声停止了。
+
+========================================================================
+>>> bodyguards
+------------------------------------------------------------------------
+bodyguards    ['bɔdiɡɑ:d]
+n. 保镖（bodyguard的复数）
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bodyguard is a person or a group of people employed to protect someone. 保镖
+   ≫   Three of his bodyguards were injured in the attack.  他的三名保镖在袭击中受了伤。
+
+========================================================================
+>>> nominal
+------------------------------------------------------------------------
+nominal    [英 'nɒmɪn(ə)l / 美 'nɑmɪnl]
+adj. 名义上的；有名无实的；[会计] 票面上的
+n. [语] 名词性词
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use nominal to indicate that someone or something is supposed to have a particular identity or status, but in reality does not have it. 名义上的
+   ≫   As he was still not allowed to run a company, his wife became its nominal head.  由于他仍未获准管理公司，他的妻子就成了公司名义上的老板。
+2. (ADV) nominally 在名义上
+   ≫   The sultan was still nominally the chief of staff.  苏丹在名义上仍是军队领导人。
+   ≫   The road is nominally under the control of UN peacekeeping troops.  那条路名义上是在联合国维和部队的控制之下。
+3. [ADJ n] A nominal price or sum of money is very small in comparison with the real cost or value of the thing that is being bought or sold. (价格、金额) 象征性的
+   ≫   I am prepared to sell my shares at a nominal price.  我准备以低价卖掉我的股票。
+4. [ADJ n] In economics, the nominal value, rate, or level of something is the one expressed in terms of current prices or figures, without taking into account general changes in prices that take place over time. 票面上的
+   ≫   Inflation would be lower and so nominal rates would be more attractive in real terms.  通货膨胀将要降低，所以名义汇率实际上会更有吸引力。
+
+========================================================================
+>>> clown
+------------------------------------------------------------------------
+clown    [美 klaʊn / 英 klaʊn]
+n. 小丑；乡下人；粗鲁笨拙的人
+vi. 扮小丑；装傻
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A clown is a performer in a circus who wears funny clothes and bright makeup, and does silly things in order to make people laugh. 小丑
+2. (N-COUNT) If you say that someone is a clown, you mean that they say funny things or do silly things to amuse people. 滑稽的人
+   ≫   Chapman was the family clown, with a knack for making a joke out of any situation.  查普曼是家里的诙谐人物，他有诀窍在任何场合开玩笑。
+3. (V-I) If you clown, you do silly things in order to make people laugh. 扮演小丑
+   ≫   He clowned with John Belushi and Bill Murray in National Lampoon shows.  他与约翰·贝鲁西和比尔·默里在全国讽刺作品表演会上一起扮演小丑。
+4. (PHRASAL VERB) Clown around means the same as . 扮演小丑
+   ≫   Bev made her laugh, the way she was always clowning around.  贝芙令她大笑，用她常用的扮小丑手法。
+
+========================================================================
+>>> obsessed
+------------------------------------------------------------------------
+obsessed    [英 əb'sest /  əb'sest]
+adj. 着迷的；无法摆脱的
+v. 着迷（obsess的过去式）；纠缠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If someone is obsessed with a person or thing, they keep thinking about them and find it difficult to think about anything else. 受困扰的; 对…痴迷的
+   ≫   He was obsessed with gangster movies.  他那时迷上了警匪片。
+
+========================================================================
+>>> cooked
+------------------------------------------------------------------------
+cooked    [kʊkt]
+adj. 煮熟的
+v. 煮（cook的过去式、过去分词形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you cook a meal, you prepare food for eating by heating it. 烹调
+   ≫   I have to go and cook dinner.  我要去做饭了。
+   ≫   Chefs at the restaurant once cooked for President Kennedy.  这家饭店的厨师曾经给肯尼迪总统做过饭。
+2. (N-UNCOUNT) cooking 烹饪
+   ≫   Her hobbies include music, dancing, sport, and cooking.  她的爱好包括音乐、跳舞、运动和烹饪。
+3. (V-T/V-I) When you cook food, or when food cooks, it is heated until it is ready to be eaten. 烹制
+   ≫   ...some basic instructions on how to cook a turkey.  ...火鸡的一些基本做法。
+   ≫   Let the vegetables cook gently for about 10 minutes.  把蔬菜小火煮约十分钟。
+4. (N-COUNT) A cook is a person whose job is to prepare and cook food, especially in someone's home or in an institution. (职业) 厨师
+   ≫   They had a butler, a cook, and a maid.  他们有一位管家、一位厨师和一位女仆。
+5. (N-COUNT) If you say that someone is a good cook, you mean they are good at preparing and cooking food. 厨师 (指擅长烹调的人)
+   ≫   I'm a lousy cook.  我是个蹩脚的厨师。
+
+<<=== 2026-05-15 ===>>
