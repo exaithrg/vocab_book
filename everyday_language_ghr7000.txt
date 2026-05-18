@@ -6925,3 +6925,364 @@ CET4 TEM4
    ≫   They walked together through the arch and into the cobbled courtyard.  他们一起走过拱门，来到了铺着鹅卵石的庭院。
 
 <<=== 2026-05-17 ===>>
+========================================================================
+>>> capsult
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Cricket
+------------------------------------------------------------------------
+cricket    [美 'krɪkɪt / 英 'krɪkɪt]
+n. 板球，板球运动；蟋蟀
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Cricket is an outdoor game played between two teams. Players try to score points, called runs, by hitting a ball with a wooden bat. 板球
+   ≫   During the summer term we would play cricket at the village ground.  夏季学期里我们常在村里的空地上玩板球。
+2. (N-COUNT) A cricket is a small jumping insect that produces short, loud sounds by rubbing its wings together. 蟋蟀
+3. (N-COUNT) a small low stool 小矮凳
+4. (V) to play cricket 打板球
+
+========================================================================
+>>> sunken
+------------------------------------------------------------------------
+sunken    [美 ˈsʌŋkən / 英 ˈsʌŋkən]
+adj. 沉没的；凹陷的；比周围低的
+v. 沉没（sink 的过去分词）；下沉
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Sunken ships have sunk to the bottom of a sea, ocean, or lake. 沉没的 [ADJ n]
+   ≫   The sunken sail boat was a glimmer of white on the bottom.  这条沉没的帆船在海底呈一道白色微光。
+2. (ADJ) Sunken gardens, roads, or other features are below the level of their surrounding area. 低洼的 [ADJ n]
+   ≫   Steps lead down to the sunken garden.  台阶向下通往那个低洼的花园。
+3. (ADJ) Sunken eyes, cheeks, or other parts of the body curve inward and make you look thin and unwell. 凹陷的
+   ≫   Her eyes were sunken and black-ringed.  她的双眼凹陷且有黑眼圈。
+
+========================================================================
+>>> noble
+------------------------------------------------------------------------
+noble    [美 'nobl / 英 'nəʊb(ə)l]
+adj. 高尚的；贵族的；惰性的；宏伟的
+n. 贵族
+vt. 抓住；逮捕
+n. (Noble)人名；(英、法、意)诺布尔；(西)诺夫莱；(阿拉伯)努布莱
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] If you say that someone is a noble person, you admire and respect them because they are unselfish and morally good. 高尚的
+   ≫   He was an upright and noble man who was always willing to help in any way he could.  他是一个正直、高尚的人，总是愿意尽其所能来帮忙。
+2. [ADV with v] nobly 高尚地
+   ≫   Eric's sister had nobly volunteered to help with the gardening.  埃里克的姐姐无私地主动帮忙做些园艺工作。
+3. [表赞许] If you say that something is a noble idea, goal, or action, you admire it because it is based on high moral principles. 崇高的
+   ≫   He had implicit faith in their noble intentions.  他对他们的崇高目标深信不疑。
+   ≫   We'll always justify our actions with noble sounding theories.  我们将始终用崇高的理论思想指导我们的行动。
+4. (ADJ) If you describe something as noble, you think that its appearance or quality is very impressive, making it superior to other things of its type. 卓越的; 超群的
+   ≫   ...the great parks with their noble trees.  …树木参天的大公园。
+5. (ADJ) Noble means belonging to a high social class and having a title. 高贵的; 贵族的
+   ≫   ...rich and noble families.  …富有而高贵的家族。
+
+========================================================================
+>>> mist
+------------------------------------------------------------------------
+mist    [美 mɪst / 英 mɪst]
+n. 薄雾；视线模糊不清；模糊不清之物
+vi. 下雾；变模糊
+vt. 使模糊；使蒙上薄雾
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Mist consists of a large number of tiny drops of water in the air, which make it difficult to see very far. 雾
+   ≫   Thick mist made flying impossible.  浓雾使得无法飞行。
+2. (V-T/V-I) If a piece of glass mists or is misted, it becomes covered with tiny drops of moisture, so that you cannot see through it easily. 使蒙上薄雾; 蒙上薄雾
+   ≫   The windows misted, blurring the stark streetlight.  窗户蒙上了一层水汽，使得明亮的街灯模糊了。
+3. (PHRASAL VERB) Mist over means the same as . 同(mist)
+   ≫   The front windshield was misting over.  前挡风玻璃蒙上了一层水汽。
+
+========================================================================
+>>> seeker
+------------------------------------------------------------------------
+seeker    [美 'sikɚ / 英 'siːkə]
+n. 探求者；搜查人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A seeker is someone who is looking for or trying to get something. 追求者
+   ≫   I am a seeker after truth.  我是一名真理的追求者。
+2. → see also
+
+========================================================================
+>>> infested
+------------------------------------------------------------------------
+infested    [in'fest]
+adj. 为患的，大批滋生的（常与with搭配）
+v. 害虫、野兽大批出没于( infest的过去式和过去分词 )；遍布于
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When creatures such as insects or rats infest plants or a place, they are present in large numbers and cause damage. (昆虫或老鼠等) 大批出没于
+   ≫   ...pests like aphids which infest cereal crops.  …像蚜虫那样大肆侵害谷类作物的害虫。
+2. (ADJ) infested 大批出没的
+   ≫   The prison is infested with rats.  那座监狱里鼠满为患。
+3. [表不满] If you say that people or things you disapprove of or regard as dangerous are infesting a place, you mean that there are large numbers of them in that place. 充斥着
+   ≫   Crime and drugs are infesting the inner cities.  犯罪和毒品充斥着市中心区。
+4. (ADJ) infested 成群危害的
+   ≫   The road further south was infested with bandits.  更南边的公路盗匪猖獗。
+
+========================================================================
+>>> gamefowl
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> fowl
+------------------------------------------------------------------------
+fowl    [美 faʊl / 英 faʊl]
+n. 家禽；鸟；飞禽
+vi. 打鸟；捕野禽
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A fowl is a bird, especially one that can be eaten as food, such as a duck or a chicken. 家禽
+   ≫   Carve the fowl into 8 pieces.  将这只家禽切成8块。
+
+========================================================================
+>>> gecko
+------------------------------------------------------------------------
+gecko    [美 'gɛko / 英 'gekəʊ]
+n. [脊椎] 壁虎
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) any small insectivorous terrestrial lizard of the family Gekkonidae, of warm regions. The digits have adhesive pads, which enable these animals to climb on smooth surfaces 壁虎
+
+========================================================================
+>>> hound
+------------------------------------------------------------------------
+hound    [美 haʊnd / 英 haʊnd]
+vt. 追猎；烦扰；激励
+n. 猎犬；卑劣的人
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hound is a type of dog that is often used for hunting or racing. 猎犬; 赛犬
+   ≫   Rainey's chief interest in life is hunting with hounds.  雷尼一生中的主要嗜好是带着猎犬去打猎。
+2. (N-COUNT) (in combination) 结合词
+   ≫   an otterhound  
+   ≫   a deerhound  
+3. (N-COUNT) either of a pair of horizontal bars that reinforce the running gear of a horse-drawn vehicle 马车两边的固定横杆
+4. (V-T) If someone hounds you, they constantly disturb or speak to you in an annoying or upsetting way. (不断地) 烦扰
+   ≫   Newcomers are constantly hounding them for advice.  新来的人老是缠着他们问这问那的。
+5. [usu passive] If someone is hounded out of a job or place, they are forced to leave it, often because other people are constantly criticizing them. 迫使 (某人) 离开
+   ≫   There is a general view around that he has been hounded out of office by the press.  人们普遍认为是媒体迫使他离职的。
+
+========================================================================
+>>> ound
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> subject
+------------------------------------------------------------------------
+subject    [美 ˈsʌbdʒekt / 英 ˈsʌbdʒɪkt]
+n. 主题，话题；学科，科目，课程；主语；（绘画、摄影等的）主题，题材；实验对象；（批评、学习、调查的）对象；国民；起因；（逻）主词，主项，主概念；（乐）主旋律；（哲）主体，主观；中心实体
+v. 使臣服，征服，压服；使经受，使遭受
+adj. 隶属的，臣服的；可能受……影响的，易遭受……的；受……支配的，服从于……的；取决于，视……而定
+★★★★ CET4 TEM4 subjecting,subjected,subjects
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The subject of something such as a conversation, letter, or book is the thing that is being discussed or written about. 话题; 主题
+   ≫   It was I who first raised the subject of plastic surgery.  是我首先提起了整形手术这个话题。
+   ≫   ...the president's own views on the subject.  …该总统对此问题的个人观点。
+2. (N-COUNT) Someone or something that is the subject of criticism, study, or an investigation is being criticized, studied, or investigated. (批评、研究或调查的) 对象
+   ≫   Over the past few years, some of the positions Mr. Meredith has adopted have made him the subject of criticism.  在过去的几年里，梅雷迪恩先生所采取的一些立场已使他成为了被批评的对象。
+3. (N-COUNT) A subject is an area of knowledge or study, especially one that you study in school, or college. (尤指在学校学习的) 科目
+   ≫   Surprisingly, maths was voted their favourite subject.  令人吃惊的是，数学被评为他们喜爱的科目。
+4. (N-COUNT) In an experiment or piece of research, the subject is the person or animal that is being tested or studied. 实验对象; 研究对象 [正式]
+   ≫   "White noise" was played into the subject's ears through headphones.  “白色噪音”通过耳机被送进实验对象的耳朵里。
+5. (N-COUNT) An artist's subjects are the people, animals, or objects that he or she paints, models, or photographs. (绘画、摄影等的) 题材
+   ≫   Sailboats and fish are popular subjects for local artists.  帆船和鱼是当地艺术家们喜爱的题材。
+6. (N-COUNT) In grammar, the subject of a clause is the noun group that refers to the person or thing that is doing the action expressed by the verb. For example, in "My cat keeps catching birds," "my cat" is the subject. 主语
+7. (ADJ) To be subject to something means to be affected by it or to be likely to be affected by it. (可能) 受…影响的 [v-link ADJ 'to' n]
+   ≫   Prices may be subject to alteration.  价格可能会受变更影响。
+8. (ADJ) If someone is subject to a particular set of rules or laws, they have to obey those rules or laws. 受…支配的 [v-link ADJ 'to' n]
+   ≫   The tribunal is unique because Mr. Jones is not subject to the normal police discipline code.  这个审判很特别，因为琼斯先生不受一般的警务纪律约束。
+9. (V-T) If you subject someone to something unpleasant, you make them experience it. 使遭受
+   ≫   ...the man who had subjected her to four years of beatings and abuse.  …那个使她遭受了4年殴打和辱骂的男人。
+10. (N-COUNT) The people who live in or belong to a particular country, usually one ruled by a monarch, are the subjects of that monarch or country. (常指君主制国家的) 臣民
+   ≫   ...his subjects regarded him as a great and wise monarch.  …他的臣民把他看成了一位伟大而英明的君主。
+11. (PHRASE) When someone involved in a conversation changes the subject, they start talking about something else, often because the previous subject was embarrassing. 转变话题
+   ≫   He tried to change the subject, but she wasn't to be put off.  他试图转变话题，但她不愿被打断。
+12. (PHRASE) If an event will take place subject to a condition, it will take place only if that thing happens. 取决于
+   ≫   They denied a report that Egypt had agreed to a summit, subject to certain conditions.  他们否认了埃及已同意在特定条件下参加峰会的报道。
+
+========================================================================
+>>> rock
+------------------------------------------------------------------------
+rock    [美 rɑk / 英 rɒk]
+n. 岩石；摇滚乐；暗礁
+vt. 摇动；使摇晃
+vi. 摇动；摇晃
+n. (Rock)人名；(英、德、匈、意、瑞典)罗克
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Rock is the hard substance which the earth is made of. 岩石
+   ≫   The hills above the valley are bare rock.  河谷上面的山是光秃秃的岩石。
+2. (N-COUNT) A rock is a large piece of rock that sticks up out of the ground or the sea, or that has broken away from a mountain or a cliff. 巨石
+   ≫   She sat cross-legged on the rock.  她盘着腿坐在那块巨石上。
+3. (N-COUNT) A rock is a piece of rock that is small enough for you to pick up. 小石块
+   ≫   She bent down, picked up a rock, and threw it into the trees.  她弯下腰，拣起一块小石头，把它扔进树林里。
+4. (V-T/V-I) When something rocks or when you rock it, it moves slowly and regularly backward and forward or from side to side. 使摇晃; 摇晃
+   ≫   His body rocked from side to side with the train.  他的身体随着火车左右晃动着。
+5. [journalism] If an explosion or an earthquake rocks a building or an area, it causes the building or area to shake. 使震动; 震动
+   ≫   Three people were injured yesterday when an explosion rocked the factory.  昨天，三名工人在爆炸引起的工厂震动时受伤。
+   ≫   In Taipei buildings rocked back and forth.  在台北，建筑物前后摇晃着。
+6. [journalism] If an event or a piece of news rocks a group or society, it shocks them or makes them feel less secure. 震惊
+   ≫   His death rocked the fashion business.  他的死震惊了时装界。
+7. (N-UNCOUNT) Rock is loud music with a strong beat that is usually played and sung by a small group of people using instruments such as electric guitars and drums. 摇滚乐
+   ≫   ...a rock concert.  …一场摇滚音乐会。
+8. (N) a rocking motion 前后摇动
+
+========================================================================
+>>> diver
+------------------------------------------------------------------------
+diver    [英 'daɪvə / 美 'daɪvɚ]
+n. 潜水者；跳水的选手；潜鸟
+n. (Diver)人名；(法)迪韦；(英)戴弗
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A diver is a person who swims under water using special breathing equipment. 潜水员
+   ≫   Police divers have recovered the body of a sixteen year old boy.  警方潜水员已经发现了一个16岁男孩的尸体。
+2. (N-COUNT) a sea bird of northern oceans, with a straight pointed bill, small wings, and a long body, and noted for swiftness and skill in swimming and diving 一种海鸟
+
+========================================================================
+>>> mibu
+------------------------------------------------------------------------
+MIBU
+abbr. 异丁脲（isobutyl urea）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He was taken to the Mibu headquarters. 他被送往壬生总部。
+
+========================================================================
+>>> clan
+------------------------------------------------------------------------
+clan    [美 klæn / 英 klæn]
+n. 宗族；部落；集团
+n. (Clan)人名；(英)克兰
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A clan is a group which consists of families that are related to each other. 家族
+   ≫   ...rival clans.  …敌对家族。
+2. [非正式] You can refer to a group of people with the same interests as a clan. 帮派
+   ≫   ...a powerful clan of industrialists from Monterrey.  …有权势的一帮来自于蒙特雷的实业家们。
+
+========================================================================
+>>> okami
+------------------------------------------------------------------------
+Okami
+n. （日）御神
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The voice which are all of commended and curse is come from Okami mouth, then the Bodhisattva will feel a deep shock. 这所有赞颂与诅咒的起始之声，从大神口中发出时，菩萨心中感到了一种深刻的震荡。
+≫   In a recently posted 1Up interview from last TGS (thanks for the leisurely update!), Platinum Games cohort and Okami producer Atsuhi Inaba (pictured) expresses interest in the Wii and DS. 消息灵通的1UP在最近TGS上的访问中得知，白金游戏制作组和《大神》制作者稲叶 敦志（图中这位）表示对Wii和DS很感兴趣。
+
+========================================================================
+>>> fencer
+------------------------------------------------------------------------
+fencer    [美 'fɛnsɚ / 英 'fensə]
+n. 击剑者；剑术家；（澳）篱笆匠
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a person who fights with a sword, esp one who practises the art of fencing 剑术家
+
+========================================================================
+>>> taro
+------------------------------------------------------------------------
+taro    [美 'tærəʊ / 英 'tɑːrəʊ; 'tærəʊ]
+n. 芋头，[园艺] 芋艿
+n. (Taro)人名；(塞、肯、意)塔罗；(日)多吕 (姓)
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) an aroid plant, Colocasia esculenta, cultivated in the tropics for its large edible rootstock 芋头
+
+========================================================================
+>>> katana
+------------------------------------------------------------------------
+katana    [英 kəˈtɑːnə]
+n. 武士刀（日本武士使用的单刃长剑）
+n. （Katana）（美）卡塔纳（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a long, curved single-edged sword traditionally used by Japanese samurai 武士刀; 日本武士传统使用的长、弯、单刃刀
+
+========================================================================
+>>> bandit
+------------------------------------------------------------------------
+bandit    [美 'bændɪt / 英 'bændɪt]
+n. 强盗，土匪；恶棍；敲诈者
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Robbers are sometimes called bandits, especially if they are found in areas where the law has broken down. 土匪
+   ≫   This is real bandit country.  这是真正的强盗之地。
+
+========================================================================
+>>> ogre
+------------------------------------------------------------------------
+ogre    [美 'oɡɚ / 英 'əʊgə]
+n. 食人魔鬼，怪物（童话等中的）；令人害怕的人
+n. (Ogre)人名；(法)奥格尔
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you refer to someone as an ogre, you are saying in a humorous way that they are very frightening. 食人魔; 形容人可怕的幽默说法
+   ≫   Tax auditors do not really like being thought of as ogres.  税务审计员们不想让别人觉得他们是妖魔鬼怪。
+
+========================================================================
+>>> orge
+------------------------------------------------------------------------
+orge
+n. 食人魔；巨魔
+n. （Orge）人名；（葡）奥热
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   B: Wow, you are such a complaining guy, you are leading a normal human's life, you stupid orge. 哎哟……你就会抱怨，你不正过着正常人类的生活吗？你这只傻怪物！
+≫   A new age has orge, an age of freedom. And all will know that 300 Spartans gave their last breath to defend it. 一个新的，自由的时代到来了。所有的人都会知道，斯巴达300勇士用尽了他们的最后一口气去捍卫它！
+
+========================================================================
+>>> revoir
+------------------------------------------------------------------------
+Revoir
+n. 雷瓦尔（姓氏）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We cannot forget the last email, the last conversation, the last meal together and the last au revoir. 我们不能忘记最后一封电子邮件，最后一次谈话，最后一起吃饭和最后一次约会。
+≫   Since I hope to see you again, I'll say au revoir rather than adieu. 因为我希望再次见你，我将说再见，而非告别。
+≫   Adding a warm "au revoir," she strolled out of Laverie Automatique, into the cool Alpine air. 随着一声温暖的“再见”，她离开了洗衣店，步入阿尔卑斯山的寒意中。
+
+========================================================================
+>>> servoir
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> sevoir
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> casual
+------------------------------------------------------------------------
+casual    [美 'kæʒʊəl / 英 'kæʒjʊəl; -zj-]
+adj. 随便的；非正式的；临时的；偶然的
+n. 便装；临时工人；待命士兵
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are casual, you are, or you pretend to be, relaxed and not very concerned about what is happening or what you are doing. 放松的
+   ≫   It's difficult for me to be casual about anything.  要我轻松待事有难度。
+2. [ADV with v] casually 放松地
+   ≫   "No need to hurry," Ben said casually.  “不必匆忙，”本轻松地说道。
+3. [ADJ n] A casual event or situation happens by chance or without planning. 不经意的
+   ≫   What you mean as a casual remark could be misinterpreted.  你不经意所说的话可能会被误解。
+4. [ADJ n] Casual clothes are ones that you normally wear at home or on holiday, and not on formal occasions. (服装) 休闲的
+   ≫   I also bought some casual clothes for the weekend.  我还买了些休闲服准备周末穿。
+5. (ADV) casually 休闲地
+   ≫   They were casually dressed.  他们穿着休闲。
+6. [英国英语] Casual work is done for short periods and not on a permanent or regular basis. 临时的
+
+========================================================================
+>>> parctice
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> practive
+------------------------------------------------------------------------
+practive
+实践
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I've gotten in some practive. 我已经得到了一些见习。
+≫   Some valuable references are provided for the clinical practive. 为临床提供了一些有益的借鉴。
+≫   With the constant enhancement of the practive links, teachers and students all need to change their ideas. 随着高职高专院校对学生实训环节的不断加强，教师和学生都需要进一步转变观念。
+
+<<=== 2026-05-18 ===>>
