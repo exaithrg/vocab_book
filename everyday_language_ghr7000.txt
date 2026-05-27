@@ -8980,3 +8980,69 @@ TEM8
    ≫   Each cell of our bodies contains 46 chromosomes.  我们体内的每个细胞都有46条染色体。
 
 <<=== 2026-05-27 ===>>
+========================================================================
+>>> disscussions
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> disscussion
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> discussion
+------------------------------------------------------------------------
+discussion    [美 dɪ'skʌʃən / 英 dɪ'skʌʃ(ə)n]
+n. 讨论，议论
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is discussion about something, people talk about it, often in order to reach a decision. 讨论
+   ≫   There was a lot of discussion about the wording of the report.  有很多关于该份报告措词的讨论。
+   ≫   Board members are due to have informal discussions later on today.  董事会成员们预定在今天稍后进行非正式讨论。
+2. (PHRASE) If something is under discussion, it is still being talked about and a final decision has not yet been reached. 在讨论中
+3. (N-COUNT) A discussion of a subject is a piece of writing or a lecture in which someone talks about it in detail. 详述
+   ≫   For a discussion of biology and sexual politics, see chapter 4.  欲获得一个生物学与性别政治学的论述，请看第4章。
+4. [ADJ n] A discussion document or paper is one that contains information and usually proposals for people to discuss. 供讨论的
+   ≫   ...a NASA discussion paper on long-duration ballooning.  …一份美国国家航空航天局关于长时间气球飞行的讨论文件。
+
+========================================================================
+>>> discussions
+------------------------------------------------------------------------
+discussions    [dɪ'skʌʃən]
+n. 讨论；论述（discussion的复数）；审议
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) If there is discussion about something, people talk about it, often in order to reach a decision. 讨论
+   ≫   There was a lot of discussion about the wording of the report.  有很多关于该份报告措词的讨论。
+   ≫   Board members are due to have informal discussions later on today.  董事会成员们预定在今天稍后进行非正式讨论。
+2. (PHRASE) If something is under discussion, it is still being talked about and a final decision has not yet been reached. 在讨论中
+3. (N-COUNT) A discussion of a subject is a piece of writing or a lecture in which someone talks about it in detail. 详述
+   ≫   For a discussion of biology and sexual politics, see chapter 4.  欲获得一个生物学与性别政治学的论述，请看第4章。
+4. [ADJ n] A discussion document or paper is one that contains information and usually proposals for people to discuss. 供讨论的
+   ≫   ...a NASA discussion paper on long-duration ballooning.  …一份美国国家航空航天局关于长时间气球飞行的讨论文件。
+
+========================================================================
+>>> surveillance
+------------------------------------------------------------------------
+surveillance    [美 sɝ'veləns / 英 sə'veɪl(ə)ns; -'veɪəns]
+n. 监督；监视
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Surveillance is the careful watching of someone, especially by an organization such as the police or the army. 监视
+   ≫   He was arrested after being kept under constant surveillance.  他在被连续监视之后给逮捕了。
+   ≫   Police swooped on the home after a two-week surveillance operation.  警方经过两周的监视行动后突击搜查了该住宅。
+
+========================================================================
+>>> oppressed
+------------------------------------------------------------------------
+oppressed    [ə'prest / 英 ə'prest]
+adj. 受压制的，受压迫的
+v. 压迫；折磨（oppress的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) People who are oppressed are treated cruelly or are prevented from having the same opportunities, freedom, and benefits as others. 被压迫的
+   ≫   Before they took power, they felt oppressed by the white English speakers who controlled things.  在掌握政权之前，他们觉得受到那些控制一切的、讲英语的白人的压迫。
+2. (N-PLURAL) The oppressed are people who are oppressed. 被压迫者
+   ≫   ...a sense of community with the poor and oppressed.  …同属于被压迫的穷人的感觉。
+
+<<=== 2026-05-28 ===>>
