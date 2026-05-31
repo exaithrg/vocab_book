@@ -9133,3 +9133,70 @@ CET4 TEM4
    ≫   I don't want to do anything that will involve me in a long-term commitment.  我不想做任何会使自己做出长期承诺的事情。
 
 <<=== 2026-05-30 ===>>
+========================================================================
+>>> draft
+------------------------------------------------------------------------
+draft    [美 dræft / 英 drɑːft]
+n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流
+vt. 起草；制定；征募
+vi. 拟稿；绘样；作草图
+adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A draft is an early version of a letter, book, or speech. 草稿; 初稿
+   ≫   I rewrote his rough draft, which was published under my name.  我改写了他那篇以我的名义发表了的初稿。
+   ≫   I faxed a first draft of this article to him.  我把这篇文章的初稿传真给他。
+2. (N-COUNT) A draft is a written order for payment of money by a bank, especially from one bank to another. 汇票
+   ≫   Payments must be made in U.S. dollars by a bank draft drawn to the order of the United Nations Postal Administration.  付款必须用开给联合国邮政管理处的银行汇票，并以美元支付。
+3. [美国英语] A draft is a current of air that comes into a place in an undesirable way. (钻进某处的) 风
+   ≫   Block drafts around doors and windows.  挡住门窗周围的风。
+4. (V-T) When you draft a letter, book, or speech, you write the first version of it. 起草
+   ≫   He drafted a letter to the editors.  他草拟了一封给编辑的信。
+5. [usu passive] If you are drafted, you are ordered to serve in the armed forces, usually for a limited period of time. 征兵
+   ≫   During the Second World War, he was drafted into the U.S. Army.  第二次世界大战期间，他应征加入美国陆军。
+6. (V-T) If people are drafted to do something, they are asked to do a particular job. 选派
+   ≫   She hoped that Fox could be drafted to run the organization.  她希望福克斯能够被选派来掌管这个组织。
+7. [美国英语] The draft is the practice of ordering people to serve in the armed forces, usually for a limited period of time. 征兵
+   ≫   ...his effort to avoid the draft.  …他逃避兵役的努力。
+
+========================================================================
+>>> pitch
+------------------------------------------------------------------------
+pitch    [美 pɪtʃ / 英 pɪtʃ]
+vi. 倾斜；投掷；搭帐篷；坠落
+vt. 投；掷；定位于；用沥青涂；扎营；向前倾跌
+n. 沥青；音高；程度；树脂；倾斜；投掷；球场
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you pitch something somewhere, you throw it with some force, usually aiming it carefully. 投掷
+   ≫   Simon pitched the empty bottle into the lake.  西蒙把空瓶子投进湖里。
+2. (V-T) In the game of baseball, when you pitch the ball, you throw it to the batter for them to hit it. 投 (球) 给击球手
+   ≫   We passed long, hot afternoons pitching a baseball.  我们以打棒球来消磨一个个漫长的炎热午后。
+3. (V-T/V-I) To pitch somewhere means to fall forwards suddenly and with a lot of force. (向前) 跌倒
+   ≫   The movement took him by surprise, and he pitched forward.  突然的移动让他猝不及防，向前跌倒。
+   ≫   Alan staggered sideways, pitched head-first over the low wall and fell into the lake.  艾伦两侧摇晃着，一头栽过矮墙，掉进湖里。
+4. (V-T) If someone is pitched into a new situation, they are suddenly forced into it. 迫使进入 (一种新的处境)
+   ≫   They were being pitched into a new adventure in which they would have to fight the whole world.  他们当时正被胁迫参与到一次不得不与整个世界抗衡的新冒险中。
+5. (N) the degree of elevation or depression 程度
+6. (N-UNCOUNT) The pitch of a sound is how high or low it is. 音调
+   ≫   He raised his voice to an even higher pitch.  他将嗓门提得更高了。
+7. [usu passive] If a sound is pitched at a particular level, it is produced at the level indicated. 使 (音调)达到(指定水准)
+   ≫   His cry is pitched at a level that makes it impossible to ignore.  他哭声之大让人不可能置若罔闻。
+   ≫   His voice was pitched high, the words muffled by his crying.  他的嗓门提得很高，说的话都被他的叫喊声压得听不清了。
+8. → see also
+9. (V-T) If something is pitched at a particular level or degree of difficulty, it is set at that level. 给…设定水平 (或难度)
+   ≫   While this is very important material I think it's probably pitched at too high a level for our students.  尽管这是个很重要的材料，但我认为它的难度太大，不适合我们的学生。
+10. (N-SING) If something such as a feeling or a situation rises to a high pitch, it rises to a high level. (感情或形势等的) 程度
+   ≫   The public's feelings were at a high pitch of indignation.  公众的愤怒情绪达到了极点。
+11. (V-T) If someone pitches an idea for something such as a new product, they try to persuade people to accept the idea. 力荐(某主张)
+   ≫   My agent has pitched the idea to my editor in New York.  我的代理人已向我在纽约的编辑力荐这个想法。
+12. [英国英语] A pitch is an area of ground that is marked out and used for playing a game such as football, cricket, or hockey. 比赛场地
+   ≫   ...a football pitch.  …一个足球场。
+   ≫   He was the fastest thing I ever saw on a baseball field.  他是我见过的在棒球场上跑得最快的家伙。
+13. (N) any of various heavy dark viscid substances obtained as a residue from the distillation of tars 沥青 → see also
+14. (V) to apply pitch to (something) 用沥青覆盖(某物)
+15. (PHRASE) If someone makes a pitch for something, they try to persuade people to do or buy it. 游说
+   ≫   The president speaks in New York today, making another pitch for his economic programme.  总统今天在纽约发表讲话，再一次游说他的经济计划。
+16. → see also
+
+<<=== 2026-05-31 ===>>
