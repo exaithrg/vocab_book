@@ -9698,3 +9698,270 @@ CET4 TEM4
    ≫   This machine is designed to save you effort, and keep your work surfaces tidy into the bargain.  这种机器是为了省力而设计的，而且它还会使你的工作台面保持整洁。
 
 <<=== 2026-06-04 ===>>
+========================================================================
+>>> chill
+------------------------------------------------------------------------
+chill    [美 tʃɪl / 英 tʃɪl]
+n. 寒冷；寒意；寒心
+adj. 寒冷的；冷漠的；扫兴的
+vt. 冷冻，冷藏；使寒心；使感到冷
+vi. 冷藏；变冷
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you chill something or when it chills, you lower its temperature so that it becomes colder but does not freeze. 使冷却; 冷却
+   ≫   Chill the fruit salad until serving time.  上菜前把水果色拉冷却。
+   ≫   These doughs can be rolled out while you wait for the pastry to chill.  当你等待油酥面团冷却时，可以擀平这些生面团。
+2. (V-T) When cold weather or something cold chills a person or a place, it makes that person or that place feel very cold. 使很冷
+   ≫   The marble floor was beginning to chill me.  大理石的地板开始让我感到很冷。
+   ≫   Wade placed his chilled hands on the radiator and warmed them.  韦德把他冰冷的双手放到散热器上取暖。
+3. (N-COUNT) If something sends a chill through you, it gives you a sudden feeling of fear or anxiety. 害怕的感觉
+   ≫   The violence used against the students sent a chill through Indonesia.  对学生使用暴力使得整个印度尼西亚不寒而栗。
+4. (N-COUNT) A chill is a mild illness which can give you a slight fever and headache. 风寒
+   ≫   He caught a chill while performing at a rain-soaked open-air venue.  他在一个被雨浸湿的露天场地表演时着了风寒。
+5. [ADJ n] Chill weather is cold and unpleasant. 寒冷的
+   ≫   ...chill winds, rain and choppy seas.  …寒冷的风、雨以及波浪起伏的大海。
+6. (N-SING) Chill is also a noun. 寒冷
+   ≫   September is here, bringing with it a chill in the mornings.  9月到了，带来了清晨的寒意。
+
+========================================================================
+>>> slur
+------------------------------------------------------------------------
+slur    [美 slɝ / 英 slɜː]
+vt.
+
+略过；对…忽略(over):
+The general slurred over his contribution to the campaign.
+将军没提到他对这次战役所做的贡献。
+ 含糊不清地说出(或读出)：
+He slurred English. No man could understand him.
+他含糊不清地说着英语，没人能听得懂他说的是什么。
+ 草草地做，马虎地办：
+to slur over one's duty
+马虎从事，不负责任
+ 诽谤；贬低；侮辱：
+to slur over somebody's contributions
+贬低某人的功绩
+He felt that his reputation was slurred by a paper.
+他感到他的名誉受到某一报刊的诋毁。
+ [美国方言] 玷污，弄脏：
+Be careful. Don't slur your shirt.
+小心点，别弄脏了你的衬衣。
+ 【音乐】圆润地连唱(或奏)；给…标连音符
+ 【印刷】使有重影；把…蹭脏
+vi.
+
+含糊地说(或读、唱)；潦草地写：
+to slur on the paper
+潦草地记笔记
+ 拖着脚走，沉重地走；[方言] 滑动：
+He slurred home after working.
+工作后他拖着沉重的脚步走回家。
+ 【印刷】有重影；被蹭脏
+n.
+
+含糊的发音
+ 诬蔑，诋毁；藐视
+ (名誉上的)污点，瑕疵
+ 【音乐】连唱；连奏；连线符
+ 【印刷】重影；蹭脏
+变形：
+vt.  slurred
+                                                                                                                       . slurring
+
+========================================================================
+>>> viral
+------------------------------------------------------------------------
+viral    [美 'vaɪrəl / 英 'vaɪr(ə)l]
+adj. 病毒性的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A viral disease or infection is caused by a virus. 病毒性的
+   ≫   ...a 65-year-old patient suffering from severe viral pneumonia.  …一位65岁患有严重病毒性肺炎的病人。
+
+========================================================================
+>>> reveal
+------------------------------------------------------------------------
+reveal    [美 rɪ'vil / 英 rɪ'viːl]
+vt. 显示；透露；揭露；泄露
+n. 揭露；暴露；门侧，窗侧
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To reveal something means to make people aware of it. 透露; 显示
+   ≫   She has refused to reveal the whereabouts of her daughter.  她已拒绝透露她女儿的行踪。
+   ≫   A survey of the American diet has revealed that a growing number of people are overweight.  一项有关美国人日常饮食的调查表明越来越多的人超重。
+2. (V-T) If you reveal something that has been out of sight, you uncover it so that people can see it. 使显露; 揭露
+   ≫   In the principal room, a grey carpet was removed to reveal the original pine floor.  在主房间里，一块灰色的地毯被挪开了，使原有的松木地板露了出来。
+
+========================================================================
+>>> essence
+------------------------------------------------------------------------
+essence    [美 'ɛsns / 英 'es(ə)ns]
+n. 本质，实质；精华；香精
+n. (Essence)人名；(英)埃森丝
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) The essence of something is its basic and most important characteristic that gives it its individual identity. 本质
+   ≫   The essence of consultation is to listen to, and take account of, the views of those consulted.  咨询的本质是倾听并把那些被咨询者的观点考虑进来。
+2. [正式] If you say that something is of the essence, you mean that it is absolutely necessary in order for a particular action to be successful. 至关重要
+   ≫   Speed was of the essence in a project of this type.  速度在一个这种类型的项目中至关重要。
+3. [正式] You use in essence to emphasize that you are talking about the most important or central aspect of an idea, situation, or event. 本质上
+   ≫   Though complicated in detail, local taxes are in essence simple.  虽然细节复杂，地方税本质上是简单的。
+4. (N-MASS) Essence is a very concentrated liquid that is used for flavouring food or for its smell. 精油
+   ≫   ...a few drops of vanilla essence.  …几滴香草精油。
+
+========================================================================
+>>> transcendence
+------------------------------------------------------------------------
+transcendence    [træn'sɛndəns]
+n. 超越；卓越；超然存在
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Transcendence is the quality of being able to go beyond normal limits or boundaries. 超越
+   ≫   The Arab-American Society promotes the transcendence of racial and religious differences.  阿拉伯裔美国人协会促进了种族和宗教差异的超越。
+
+========================================================================
+>>> endure
+------------------------------------------------------------------------
+endure    [美 ɪn'dʊr / 英 ɪn'djʊə; en-; -'djɔː]
+vt. 忍耐；容忍
+vi. 忍耐；持续
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you endure a painful or difficult situation, you experience it and do not avoid it or give up, usually because you cannot. 承受
+   ≫   The company endured heavy financial losses.  公司承受了沉重的财务损失。
+2. (V-I) If something endures, it continues to exist without any loss in quality or importance. 延续
+   ≫   Somehow the language endures and continues to survive.  由于某种原因，这种语言持续生存下来了。
+3. (ADJ) enduring 持久的
+   ≫   This chance meeting was the start of an enduring friendship.  这次偶然的相遇是一段持久友情的开始。
+
+========================================================================
+>>> undisputed
+------------------------------------------------------------------------
+undisputed    [英 ʌndɪ'spjuːtɪd / 美 ,ʌndɪ'spjutɪd]
+adj. 无可争辩的；无异议的；毫无疑问的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe a fact or opinion as undisputed, you are trying to persuade someone that it is generally accepted as true or correct. (事实、观点等) 无需争议的
+   ≫   ...an undisputed fact.  …无需争议的事实。
+   ≫   ...his undisputed genius.  …他那无需争议的天才。
+2. (ADJ) If you describe someone as the undisputed leader or champion, you mean that everyone accepts their position as leader or champion. 公认的; 无异议的 (领袖、冠军等)
+   ≫   Seles won 10 tournaments, and was the undisputed world champion.  塞莱斯赢了10次锦标赛，是无异议的世界冠军。
+   ≫   At 78 years of age, he's still undisputed leader of his country.  78岁时，他仍是他的国家公认的领袖。
+
+========================================================================
+>>> preeminent
+------------------------------------------------------------------------
+preeminent    [美 pri'ɛmɪnənt / 英 prɪ'emɪnənt]
+adj. 卓越的；超群的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If someone or something is preeminent in a group, they are more important, powerful, or capable than other people or things in the group. 杰出的
+   ≫   ...some of the preeminent names in baseball.  …棒球史上一些杰出的名字。
+2. (N-UNCOUNT) preeminence 杰出
+   ≫   Europe was poised to reassert its traditional preeminence in Western art.  欧洲准备重新确立其在西方艺术上的传统卓越地位。
+
+========================================================================
+>>> unprecedented
+------------------------------------------------------------------------
+unprecedented    [美 ʌn'prɛsɪdɛntɪd / 英 ʌn'presɪdentɪd]
+adj. 空前的；无前例的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is unprecedented, it has never happened before. 史无前例的
+   ≫   Such a move is rare, but not unprecedented.  这样的举动少见，但并非从来没有过。
+2. [强调] If you describe something as unprecedented, you are emphasizing that it is very great in quality, amount, or scale. (质量、数量或规模) 空前的
+   ≫   The mission has been hailed as an unprecedented success.  这次使命已被宣布为一次空前的成功。
+
+========================================================================
+>>> naval
+------------------------------------------------------------------------
+naval    [美 'nevl / 英 'neɪv(ə)l]
+adj. 海军的；军舰的
+n. (Naval)人名；(西、德、印)纳瓦尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Naval means belonging to, relating to, or involving a country's navy. 海军的
+   ≫   He was the senior serving naval officer.  他曾是高级现役海军军官。
+
+========================================================================
+>>> rivals
+------------------------------------------------------------------------
+rivals    [英 ˈraɪvlz / 美 raɪvlz]
+n. 对手（rival的复数）；[劳经] 竞争者
+v. 竞争（rival的三单形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Your rival is a person, business, or organization who you are competing or fighting against in the same area or for the same things. 对手
+   ≫   The world champion finished more than two seconds ahead of his nearest rival.  这位世界冠军领先离他最近的对手两秒多钟冲过终点。
+2. (N-COUNT) If you say that someone or something has no rivals or is without rival, you mean that it is best of its type. 可匹敌者
+   ≫   The area is famous for its wonderfully fragrant wine which has no rivals in the Rhone.  这一地区以其极为醇香的葡萄酒而闻名，这种酒在罗纳河流域没有可匹敌者。
+3. (V-T) If you say that one thing rivals another, you mean that they are both of the same standard or quality. 与…相匹敌
+   ≫   Cassette recorders cannot rival the sound quality of CDs.  盒式磁带录音机在音质上无法与CD相媲美。
+
+========================================================================
+>>> dwarf
+------------------------------------------------------------------------
+dwarf    [美 dwɔrf / 英 dwɔːf]
+vi. 变矮小
+n. 侏儒，矮子
+vt. 使矮小
+adj. 矮小的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one person or thing is dwarfed by another, the second is so much bigger than the first that it makes them look very small. 使…显得过于矮小
+   ≫   His figure is dwarfed by the huge red McDonald's sign.  他的个子被巨大的红色麦当劳招牌衬得格外矮小。
+2. [ADJ n] Dwarf is used to describe varieties or species of plants and animals which are much smaller than the usual size for their kind. (植物或动物) 过于矮小的
+   ≫   ...dwarf shrubs.  …过于矮小的灌木丛。
+3. (N-COUNT) In children's stories, a dwarf is an imaginary creature that is like a small man. Dwarfs often have magical powers. (童话中的) 小矮人
+4. [侮辱，老式] In former times, people who were much smaller than normal were called dwarves. 侏儒
+
+========================================================================
+>>> veto
+------------------------------------------------------------------------
+veto    [美 'vito / 英 'viːtəʊ]
+n. 否决权
+vt. 否决；禁止
+vi. 否决；禁止
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone in authority vetoes something, they forbid it, or stop it from being put into action. 否决
+   ≫   The president vetoed the economic package passed by Congress.  总统否决了国会通过的一揽子经济计划。
+2. (N-COUNT) Veto is also a noun. 否决
+   ≫   They need 12 votes to override his veto.  他们需要12票来推翻他的否决。
+3. (N-UNCOUNT) Veto is the right that someone in authority has to forbid something. 否决权
+   ≫   ...the president's power of veto.  …总统的否决权。
+
+========================================================================
+>>> vote
+------------------------------------------------------------------------
+vote    [美 vot; voʊt / 英 vəʊt]
+n. 投票，选举；选票；得票数
+vt. 提议，使投票；投票决定；公认
+vi. 选举，投票
+n. (Vote)人名；(英、法)沃特
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A vote is a choice made by a particular person or group in a meeting or an election. 选票
+   ≫   He walked to the local polling place to cast his vote.  他走到当地的投票点去投票。
+   ≫   Mr. Reynolds was re-elected by 102 votes to 60.  雷诺兹先生以102票对60票再次当选。
+2. (N-COUNT) Avote is an occasion when a group of people make a decision by each person indicating his or her choice. The choice that most people support is accepted by the group. 投票表决
+   ≫   Why do you think we should have a vote on that?  你为什么认为我们应该对那件事进行投票表决？
+3. (N-SING) Thevote is the total number of votes or voters in an election, or the number of votes received or cast by a particular group. 投票总数; 得票总数
+   ≫   Opposition parties won about fifty-five percent of the vote.  反对党赢得大约55％的选票。
+4. (N-SING) If you have the vote in an election, or have a vote in a meeting, you have the legal right to indicate your choice. 选举权
+   ≫   Before that, women did not have a vote at all.  在那之前，妇女根本就没有选举权。
+5. (V-T/V-I) When you vote, you indicate your choice officially at a meeting or in an election, for example, by raising your hand or writing on a piece of paper. 投票; 表决
+   ≫   Two-thirds of the national electorate had the chance to vote in these elections.  全国2/3的选民有机会在这些选举中投票。
+   ≫   Nearly two-thirds of this group voted for Buchanan.  这一组几乎2/3的人将票投给了布坎南。
+   ≫   The residents of Leningrad voted to restore the city's original name of St. Petersburg.  列宁格勒的居民投票赞成恢复该市原来的名字圣彼得堡。
+6. (N-UNCOUNT) voting 投票
+   ≫   Voting began about two hours ago.  投票开始于约两个小时前。
+7. (V-T) If you vote a particular political party or leader, or vote yes or no, you make that choice with the vote that you have. 投票支持
+   ≫   52.5% of those questioned said they'd vote Republican.  52.5%的受访者说他们将投票支持共和党。
+8. (V-T) If people vote someone a particular title, they choose that person to have that title. 投票授予…称号
+   ≫   His class voted him the man "who had done the most for Yale."  他所在的班级投票授予他“耶鲁最大贡献者”称号。
+9. (PHRASE) If you vote with your feet, you show that you do not support something by leaving the place where it is happening or leaving the organization that is supporting it. (以离去或退出的方式) 反对
+   ≫   Thousands of citizens are already voting with their feet, and leaving the country.  成千上万的公民已表明了他们的反对意见，要离开这个国家。
+10. [非正式] If you say, for example, "I vote that we go" or "I vote we stay," you are suggesting that you should go or stay. 我建议
+   ≫   I vote that we all go to Houston immediately.  我建议我们都马上去休斯敦。
+11. (PHRASE) One man one vote or one person one vote is a system of voting in which every person in a group or country has the right to cast their vote, and in which each individual's vote is counted and has equal value. 一人一票制
+   ≫   Mr. Gould called for a move toward "one man one vote."  古尔德先生要求向“一人一票”制迈出一步。
+
+<<=== 2026-06-05 ===>>
