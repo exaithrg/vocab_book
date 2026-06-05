@@ -9965,3 +9965,29 @@ CET4 TEM4
    ≫   Mr. Gould called for a move toward "one man one vote."  古尔德先生要求向“一人一票”制迈出一步。
 
 <<=== 2026-06-05 ===>>
+========================================================================
+>>> perish
+------------------------------------------------------------------------
+perish    [美 'pɛrɪʃ / 英 'perɪʃ]
+vt. 使麻木；毁坏
+vi. 死亡；毁灭；腐烂；枯萎
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡
+   ≫   Most of the butterflies perish in the first frosts of autumn.  大多数蝴蝶在秋季初霜来临时死亡。
+
+========================================================================
+>>> conquer
+------------------------------------------------------------------------
+conquer    [美 'kɑŋkɚ / 英 'kɒŋkə]
+vt. 战胜，征服；攻克，攻取
+vi. 胜利；得胜
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If one country or group of people conquers another, they take complete control of their land. 征服; 攻占
+   ≫   During 1936, Mussolini conquered Abyssinia.  1936年墨索里尼攻占了阿比西尼亚。
+2. (V-T) If you conquer something such as a problem, you succeed in ending it or dealing with it successfully. 克服
+   ≫   I was certain that love was quite enough to conquer our differences.  我确信爱颇足以消除我们的分歧。
+   ≫   He has never conquered his addiction to smoking.  他从未戒除过烟瘾。
+
+<<=== 2026-06-06 ===>>
