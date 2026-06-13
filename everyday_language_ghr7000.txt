@@ -10055,3 +10055,16 @@ Not found :(
 <<=== 2026-06-09 ===>>
 <<=== 2026-06-11 ===>>
 <<=== 2026-06-12 ===>>
+========================================================================
+>>> mentor
+------------------------------------------------------------------------
+mentor    ['mɛn'tɔr]
+n. 指导者，良师益友
+vt. 指导
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A person's mentor is someone who gives them help and advice over a period of time, especially help and advice related to their job. 导师
+   ≫   Leon Sullivan was my mentor and my friend.  利昂·沙利文既是我的导师，也是我的朋友。
+2. (V-T) To mentor someone means to give them help and advice over a period of time, especially help and advice related to their job. 指导
+   ≫   He had mentored scores of younger doctors.  他指导过许多更年轻的医生。
+
+<<=== 2026-06-13 ===>>
