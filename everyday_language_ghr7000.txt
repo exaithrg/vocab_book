@@ -10075,3 +10075,58 @@ Not found :(
 
 <<=== 2026-06-14 ===>>
 <<=== 2026-06-15 ===>>
+========================================================================
+>>> aggregated
+------------------------------------------------------------------------
+aggregated    ['ægrigitid]
+adj. 聚合的；合计的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] An aggregate amount or score is made up of several smaller amounts or scores added together. 合计的
+   ≫   The rate of growth of GNP will depend upon the rate of growth of aggregate demand.  国民生产总值的增长率将依赖于总需求的增长率。
+
+========================================================================
+>>> disaggregated
+------------------------------------------------------------------------
+disaggregated
+v. 分解；脱离组织或大众，解开聚集（disaggregate 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to separate from a group or mass 脱离组织或大众
+
+========================================================================
+>>> aggregated
+------------------------------------------------------------------------
+aggregated    ['ægrigitid]
+adj. 聚合的；合计的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] An aggregate amount or score is made up of several smaller amounts or scores added together. 合计的
+   ≫   The rate of growth of GNP will depend upon the rate of growth of aggregate demand.  国民生产总值的增长率将依赖于总需求的增长率。
+
+========================================================================
+>>> empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> Serving
+------------------------------------------------------------------------
+serving    [美 'sɝvɪŋ / 英 'sɜːvɪŋ]
+n. 服务；上菜；一份食物
+v. 服务（serve的ing形式）
+adj. 用于上菜的
+n. (Serving)人名；(瑞典)塞尔温
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A serving is an amount of food that is given to one person at a meal. (食物的) 一份
+   ≫   Quantities will vary according to how many servings of soup you want to prepare.  数量取决于你要准备多少份汤。
+2. [ADJ n] A serving spoon or dish is used for giving out food at a meal. 上菜用的
+   ≫   Pile the potatoes into a warm serving dish.  把土豆堆在一只上菜的热盘子里。
+
+<<=== 2026-06-16 ===>>
