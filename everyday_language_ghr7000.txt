@@ -10185,3 +10185,66 @@ CET4 TEM4
    ≫   After a three-weekend courtship, Pam accepted Randy's proposal of marriage.  经过一段为期3个周末的恋爱，帕姆接受了兰迪的求婚。
 
 <<=== 2026-06-18 ===>>
+========================================================================
+>>> tail
+------------------------------------------------------------------------
+tail    [美 tel / 英 teɪl]
+n. 尾巴；踪迹；辫子；燕尾服
+vt. 尾随；装上尾巴
+vi. 跟踪；变少或缩小
+adj. 从后面而来的；尾部的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The tail of an animal, bird, or fish is the part extending beyond the end of its body. 尾巴
+   ≫   ...a black dog with a long tail.  …一只长尾巴的黑狗。
+2. (N-COUNT) You can use tail to refer to the end or back of something, especially something long and thin. (尤指细长物体的) 尾部
+   ≫   ...the horizontal stabilizer bar on the plane's tail.  …飞机尾部的水平稳定杆。
+3. (N-PLURAL) If a man is wearing tails, he is wearing a formal jacket which has two long pieces hanging down at the back. 燕尾服
+   ≫   ...men in tails and women in party dresses.  …穿燕尾服的男士和穿宴会礼服的女士。
+4. [非正式] To tail someone means to follow close behind them and watch where they go and what they do. 跟踪
+   ≫   Officers had tailed the gang during a major undercover operation.  警方在一次重大的秘密行动中跟踪过这个团伙。
+5. [ADV after v] If you toss a coin and it comes down tails, you can see the side of it that does not have a picture of a head on it. (硬币) 反面朝上地
+   ≫   "Heads or tails?"  “正面还是反面？”
+   ≫   The captain called heads as usual — and the coin came down tails.  队长像以往一样叫了正面—可硬币反面朝上地落了下来。
+6. cannot make head or tail of something →see
+
+========================================================================
+>>> prologue
+------------------------------------------------------------------------
+prologue    [美 'prolɔɡ / 英 'prəʊlɒg]
+n. 开场白；序言
+vt. 加上…前言；为…作序
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prologue is a speech or section of text that introduces a play or book. 开场白; 前言
+   ≫   The prologue to the novel is written in the form of a newspaper account.  该小说的前言是以新闻报道的形式写的。
+
+========================================================================
+>>> candidate
+------------------------------------------------------------------------
+candidate    [英 'kændɪdeɪt; -dət / 美 ˈkændɪˌdet, -dɪt]
+n. 候选人，候补者；应试者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A candidate is someone who is being considered for a position, for example someone who is running in an election or applying for a job. 候选人
+   ≫   The Democratic candidate is still leading in the polls.  那名民主党候选人仍在民意测验中领先。
+   ≫   He is a candidate for the office of governor.  他是州长的候选人。
+2. [美国英语] A candidate is someone who is studying for a degree at a college. 攻读学位者
+   ≫   He is now a candidate for a Master's degree in social work at San Francisco State University.  他目前在旧金山州立大学攻读社会工作硕士学位。
+3. (N-COUNT) A candidate is a person or thing that is regarded as being suitable for a particular purpose or as being likely to do or be a particular thing. 有望做…的人; 有望成为…的事
+   ≫   Those who are overweight or indulge in high-salt diets are candidates for hypertension.  那些身体超重或饮食偏咸的人属于易患高血压症的人群。
+
+========================================================================
+>>> Meterials
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> materials
+------------------------------------------------------------------------
+materials    [美 mə'tɪrrɪrlz / 英 mə'tɪərɪəlz]
+n. [材] 材料；材质（material的复数）；材料科学；材料费
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) the equipment necessary for a particular activity (某一特定活动的必需)设备
+
+<<=== 2026-06-19 ===>>
