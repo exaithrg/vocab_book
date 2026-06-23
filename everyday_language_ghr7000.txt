@@ -10249,3 +10249,47 @@ n. [材] 材料；材质（material的复数）；材料科学；材料费
 
 <<=== 2026-06-19 ===>>
 <<=== 2026-06-22 ===>>
+========================================================================
+>>> Empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> implications
+------------------------------------------------------------------------
+implications    [,ɪmplɪ'keʃən]
+n. 蕴涵式；暗指，暗示；含蓄，含意；卷入（implication的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Theimplicationsof something are the things that are likely to happen as a result. 可能的结果
+   ≫   The Attorney General was aware of the political implications of his decision to prosecute.  总检察长知道自己起诉的决定可能引起的政治后果。
+2. (N-COUNT) Theimplication of a statement, event, or situation is what it implies or suggests is the case. 含意
+   ≫   The implication was obvious: vote for us or it will be very embarrassing for you.  含意很明显：投票给我们，否则你会很难堪。
+3. (PHRASE) If you say that something is the case by implication, you mean that a statement, event, or situation implies that it is the case. 言下之意; 暗示地
+   ≫   Now his authority and, by implication, that of the whole management team are under threat as never before.  言下之意，现在他的权力以及整个管理团队的权威正面临空前的威胁。
+4. → see also
+
+========================================================================
+>>> vulgar
+------------------------------------------------------------------------
+vulgar    [美 'vʌlɡɚ / 英 'vʌlgə]
+adj.
+
+粗俗的，粗鄙的，庸俗的
+ 下流的，猥亵的，淫荡的
+ 平民的；普通的，一般的
+ 流行的；受欢迎的
+ (语言)通俗的；乡土的，方言的
+n.
+
+[古语]平民，百姓
+ [废语]土语，方言
+
+<<=== 2026-06-23 ===>>
