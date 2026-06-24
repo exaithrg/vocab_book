@@ -10293,3 +10293,70 @@ n.
  [废语]土语，方言
 
 <<=== 2026-06-23 ===>>
+========================================================================
+>>> sawtooth
+------------------------------------------------------------------------
+sawtooth    [美 'sɔ,tʊθ / 英 'sɔːtuːθ]
+n. 锯齿；锐齿
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of a waveform) having an amplitude that varies linearly with time between two values, the interval in one direction often being much greater than the other (波形)锯齿的
+
+========================================================================
+>>> agentic
+------------------------------------------------------------------------
+agentic
+adj. 代理的，像代理人的；（心理学）代理人的，服从权威的；（心理学）与表现或地位有关的；（心理学）主体的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> experience
+------------------------------------------------------------------------
+experience    [美 ɪk'spɪrɪəns / 英 ɪkˈspɪərɪəns]
+n. 经验；经历；体验
+vt. 经验；经历；体验
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Experience is knowledge or skill in a particular job or activity that you have gained because you have done that job or activity for a long time. 经验
+   ≫   He has also had managerial experience on every level.  他还具备各层次的管理经验。
+2. (N-UNCOUNT) Experience is used to refer to the past events, knowledge, and feelings that make up someone's life or character. 阅历
+   ≫   I should not be in any danger here, but experience has taught me caution.  我在这里应该没有任何危险，但阅历已教会我谨慎。
+3. (N-COUNT) An experience is something that you do or that happens to you, especially something important that affects you. 经历
+   ≫   His only experience of gardening so far proved immensely satisfying.  他仅有的园艺经历到目前为止非常令人满意。
+4. (V-T) If you experience a particular situation, you are in that situation or it happens to you. 经历
+   ≫   We had never experienced this kind of holiday before and had no idea what to expect.  我们以前从未经历过这种假期，不知道有什么可期待的。
+5. (V-T) If you experience a feeling, you feel it or are affected by it. 感受
+   ≫   Widows seem to experience more distress than widowers.  寡妇似乎比鳏夫感受更多痛苦。
+6. (N-SING) Experience is also a noun. 感受
+   ≫   ...the experience of pain.  …痛苦的感受。
+
+========================================================================
+>>> maxima
+------------------------------------------------------------------------
+maxima    ['mæksəmə]
+n. 最大数，极大值；最大限度，极限；顶点，最高；maximum的复数
+n. (Maxima)人名；(葡)马克西马
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) → a plural of
+
+========================================================================
+>>> citrus
+------------------------------------------------------------------------
+citrus    [美 'sɪtrəs / 英 'sɪtrəs]
+n. [园艺] 柑橘属果树；柑橘类的植物
+adj. 柑橘属植物的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] A citrus fruit is a juicy fruit with a sharp taste such as an orange, lemon, or grapefruit. 柑橘类的
+   ≫   ...citrus groves.  …柑橘林。
+
+========================================================================
+>>> eureka
+------------------------------------------------------------------------
+eureka    [美 juˈriːkə / 英 juˈriːkə]
+int. 我发现了，我找到了
+n. 优铜
+n. （Eureka）（美）欧雷卡（人名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (INTERJ) Someone might say "eureka" when they suddenly find or realize something, or when they solve a problem. (欢呼)找到了; 有了 [HUMOROUS, OLD-FASHIONED]
+   ≫   "Eureka! I've got it!"  “找到了！我找到了！”
+
+<<=== 2026-06-24 ===>>
