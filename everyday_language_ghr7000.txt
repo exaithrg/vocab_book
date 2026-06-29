@@ -10489,3 +10489,56 @@ TEM8 deprecating,deprecated,deprecates
    ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
 
 <<=== 2026-06-26 ===>>
+========================================================================
+>>> decleration
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> declaration
+------------------------------------------------------------------------
+declaration    [美 ,dɛklə'reʃən / 英 deklə'reɪʃ(ə)n]
+n. （纳税品等的）申报；宣布；公告；申诉书
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A declaration is an official announcement or statement. 官方声明
+   ≫   The opening speeches sounded more like declarations of war than offerings of peace.  那些开幕辞听起来更像宣战书而不是和平倡议。
+2. (N-COUNT) A declaration is a firm, emphatic statement which shows that you have no doubts about what you are saying. 宣言
+   ≫   ...declarations of undying love.  …永恒爱情的宣言。
+3. (N-COUNT) A declaration is a written statement about something which you have signed and which can be used as evidence in a court of law. 书面声明
+   ≫   On the customs declaration, the sender labelled the freight as agricultural machinery.  在报关单上，发货方将货物列为农业机械。
+
+========================================================================
+>>> Fractal
+------------------------------------------------------------------------
+fractal    [美 'fræktl]
+n. 不规则碎片形
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N n] In geometry, a fractal is a shape made up of parts that are the same shape as itself and are of smaller and smaller sizes. (几合学)分形
+
+========================================================================
+>>> native
+------------------------------------------------------------------------
+native    [美 'netɪv / 英 'neɪtɪv]
+adj. 本国的；土著的；天然的；与生俱来的；天赋的
+n. 本地人；土产；当地居民
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Your native country or area is the country or area where you were born and brought up. 出生并从小长大的 (国家或地方)
+   ≫   It was his first visit to his native country since 1948.  这是1948年以来他首次访问祖国。
+2. (N-COUNT) A native of a particular country or region is someone who was born in that country or region. 本国人; 本地人
+   ≫   Dr. Aubin is a native of St. Louis.  奥宾医生是圣路易斯人。
+3. [ADJ n] Native is also an adjective. 本国的; 本地的
+   ≫   Joshua Halpern is a native Northern Californian.  乔舒亚·哈尔彭是土生土长的北加州人。
+4. (N-COUNT) Some European people use native to refer to a person living in a non-Western country who belongs to the race or tribe that the majority of people there belong to. This use could cause offence. 土著
+   ≫   They used force to banish the natives from the more fertile land.  他们用武力将土著人驱逐出更加肥沃的土地。
+5. [ADJ n] Native is also an adjective. 土著的
+   ≫   Native people were allowed to retain some sense of their traditional culture and religion.  土著人被允许保留一些自己的传统文化和宗教。
+6. [ADJ n] Your native language or tongue is the first language that you learned to speak when you were a child. 第一 (语言)
+   ≫   She spoke not only her native language, Swedish, but also English and French.  她不仅讲她的母语瑞典语，还讲英语和法语。
+7. [ADJ n, v-link ADJ 'to' n] Plants or animals that are native to a particular region live or grow there naturally and were not brought there. 当地土生的 (动、植物)
+   ≫   ...a project to create a 50 acre forest of native Caledonian pines.  …一个营造50英亩喀里多尼亚土生松林的项目。
+8. (N-COUNT) Native is also a noun. 土生动植物
+   ≫   The coconut palm is a native of Malaysia.  这棵椰子树是马来西亚的土生植物。
+
+<<=== 2026-06-29 ===>>
