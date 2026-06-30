@@ -10542,3 +10542,63 @@ CET4 TEM4
    ≫   The coconut palm is a native of Malaysia.  这棵椰子树是马来西亚的土生植物。
 
 <<=== 2026-06-29 ===>>
+========================================================================
+>>> meritocratic
+------------------------------------------------------------------------
+meritocratic    [,meritə'krætik]
+精英管理的
+贤能统治的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] A meritocratic society or social system gives people status or rewards because of what they achieve, rather than because of their wealth or social position. (社会或社会制度)评功论赏的; 任人唯才的; 以功绩定地位的
+
+========================================================================
+>>> tier
+------------------------------------------------------------------------
+tier    [美 tɪr / 英 tɪə]
+n. 层，排；行，列；等级
+vt. 使层叠
+vi. 成递升排列
+n. (Tier)人名；(英)蒂尔
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A tier is a row or layer of something that has other layers above or below it. 排; 层
+   ≫   ...the auditorium with the tiers of seats around and above it.  …周围和上方有一排排座位的礼堂。
+2. (COMB in ADJ) Tier is also a combining form. (用于构成合成形容词) …排的; …层的
+   ≫   ...a three-tier wedding cake.  …一个3层的结婚蛋糕。
+3. (N-COUNT) A tier is a level in an organization or system. (组织或系统中的) 级
+   ≫   Islanders have campaigned for the abolition of one of the three tiers of municipal power on the island.  岛民们已经发起了运动，要废除该岛3级市政权力中的1级。
+4. (COMB in ADJ) Tier is also a combining form. (用于构成合成形容词) …级的
+   ≫   ...the possibility of a two-tier system of universities.  …大学双轨制的可能性。
+5. (V) to be or arrange in tiers 使层叠; 按层排列
+6. (V) 
+7. (N) a person or thing that ties 捆绑的人(或物)
+
+========================================================================
+>>> split
+------------------------------------------------------------------------
+split    [美 splɪt / 英 splɪt]
+vt. 分离；使分离；劈开；离开；分解
+vi. 离开；被劈开；断绝关系
+n. 劈开；裂缝
+adj. 劈开的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something splits or if you split it, it is divided into two or more parts. 分开
+   ≫   In a severe gale the ship split in two.  在一次强劲的大风中那艘船断成了两半。
+   ≫   If the chicken is fairly small, you may simply split it in half.  要是鸡不太大，你把它分成两半就行。
+2. (V-T/V-I) If an organization splits or is split, one group of members disagree strongly with the other members, and may form a group of their own. 分裂
+   ≫   Yet it is feared the Republican leadership could split over the agreement.  然而人们担心共和党领导层可能会因该协议而出现分裂。
+3. (ADJ) Split is also an adjective. 分裂的
+   ≫   The Kremlin is deeply split in its approach to foreign policy.  克里姆林宫在对外政策的看法上严重分歧。
+4. (N-COUNT) A split in an organization is a disagreement between its members. 分歧
+   ≫   They accused both radicals and conservatives of trying to provoke a split in the party.  他们指责激进人士和保守人士都企图挑起党内分歧。
+5. (N-SING) A split between two things is a division or difference between them. 区分; 区别
+   ≫   ...a split between what is thought and what is felt.  …所想和所感之间的区别。
+6. (V-T/V-I) If something such as wood or a piece of clothing splits or is split, a long crack or tear appears in it. 使裂开; 裂开
+   ≫   The seat of his grey trousers split.  他的那条灰色裤子的臀部裂开了。
+7. (N-COUNT) A split is a long crack or tear. 裂缝
+   ≫   The plastic-covered seat has a few small splits around the corners.  那个有塑料套的座位的角边周围有几处小裂缝。
+8. (V-T) If two or more people split something, they share it between them. 分摊; 分享
+   ≫   I would rather pay for a meal than watch nine friends pick over and split a bill.  我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。
+
+<<=== 2026-06-30 ===>>
