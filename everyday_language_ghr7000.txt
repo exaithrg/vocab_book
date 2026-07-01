@@ -10602,3 +10602,32 @@ CET4 TEM4
    ≫   I would rather pay for a meal than watch nine friends pick over and split a bill.  我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。
 
 <<=== 2026-06-30 ===>>
+========================================================================
+>>> Glossary
+------------------------------------------------------------------------
+glossary    [美 'ɡlɑsəri / 英 'glɒs(ə)rɪ]
+n. 术语（特殊用语）表；词汇表；专业词典
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A glossary of special, unusual, or technical words or expressions is an alphabetical list of them giving their meanings, for example at the end of a book on a particular subject. 词汇表
+   ≫   A glossary of terms is included for the reader's convenience.  为了方便读者，还收录了术语汇编。
+
+========================================================================
+>>> Agentic
+------------------------------------------------------------------------
+agentic
+adj. 代理的，像代理人的；（心理学）代理人的，服从权威的；（心理学）与表现或地位有关的；（心理学）主体的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+
+========================================================================
+>>> cancer
+------------------------------------------------------------------------
+cancer    [英 'kænsə / 美 'kænsɚ]
+n. 癌症；恶性肿瘤
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Cancer is a serious disease in which cells in a person's body increase rapidly in an uncontrolled way, producing abnormal growths. 癌症
+   ≫   Her mother died of breast cancer.  她母亲死于乳腺癌。
+   ≫   Jane was just 25 when she learned she had cancer.  珍妮得知自己患了癌症时才25岁。
+
+<<=== 2026-07-01 ===>>
