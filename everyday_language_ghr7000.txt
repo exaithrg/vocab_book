@@ -10631,3 +10631,29 @@ CET4 TEM4
    ≫   Jane was just 25 when she learned she had cancer.  珍妮得知自己患了癌症时才25岁。
 
 <<=== 2026-07-01 ===>>
+========================================================================
+>>> perish
+------------------------------------------------------------------------
+perish    [美 'pɛrɪʃ / 英 'perɪʃ]
+vt. 使麻木；毁坏
+vi. 死亡；毁灭；腐烂；枯萎
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡
+   ≫   Most of the butterflies perish in the first frosts of autumn.  大多数蝴蝶在秋季初霜来临时死亡。
+
+========================================================================
+>>> reveal
+------------------------------------------------------------------------
+reveal    [美 rɪ'vil / 英 rɪ'viːl]
+vt. 显示；透露；揭露；泄露
+n. 揭露；暴露；门侧，窗侧
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To reveal something means to make people aware of it. 透露; 显示
+   ≫   She has refused to reveal the whereabouts of her daughter.  她已拒绝透露她女儿的行踪。
+   ≫   A survey of the American diet has revealed that a growing number of people are overweight.  一项有关美国人日常饮食的调查表明越来越多的人超重。
+2. (V-T) If you reveal something that has been out of sight, you uncover it so that people can see it. 使显露; 揭露
+   ≫   In the principal room, a grey carpet was removed to reveal the original pine floor.  在主房间里，一块灰色的地毯被挪开了，使原有的松木地板露了出来。
+
+<<=== 2026-07-03 ===>>
