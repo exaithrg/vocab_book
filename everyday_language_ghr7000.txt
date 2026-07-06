@@ -10657,3 +10657,583 @@ CET4 TEM4
    ≫   In the principal room, a grey carpet was removed to reveal the original pine floor.  在主房间里，一块灰色的地毯被挪开了，使原有的松木地板露了出来。
 
 <<=== 2026-07-03 ===>>
+========================================================================
+>>> spin
+------------------------------------------------------------------------
+spin    [美 spɪn / 英 spɪn]
+vi. 旋转；纺纱；吐丝；晕眩
+vt. 使旋转；纺纱；编造；结网
+n. 旋转；疾驰
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something spins or if you spin it, it turns quickly around a central point. 转动
+   ≫   The latest disks, used for small portable computers, spin 3,600 times a minute.  用于小型手提电脑的最新磁盘每分钟转动3600次。
+   ≫   He spun the wheel sharply and made a U turn in the middle of the road.  他猛打方向盘，在路中间掉了个头。
+2. (N-VAR) Spin is also a noun. 旋转
+   ≫   This driving mode allows you to move off in third gear to reduce wheel-spin in icy conditions.  这种驾驶方法可以让你用三档发动汽车以减少结冰情况下的车轮打滑。
+3. (V-I) If your head is spinning, you feel unsteady or confused, for example because you are drunk, ill, or excited. 眩晕
+   ≫   My head was spinning from the wine.  当时我因喝了酒而感到眩晕。
+4. [非正式] If someone puts a certain spin on an event or situation, they interpret it and try to present it in a particular way. (特意做的) 诠释与宣传
+   ≫   He interpreted the vote as support for the constitution and that is the spin his supporters are putting on the results today.  他把这次投票结果解释为对宪法的支持，这也是他的支持者们对今天的结果所做的诠释与宣传。
+5. (N-UNCOUNT) In politics, spin is the way in which political parties try to present everything they do in a positive way to the public and the media. (政治) 粉饰
+   ≫   The public is sick of spin and tired of promises.  公众厌倦了粉饰和许诺。
+6. (N-SING) If you go for a spin or take a car for a spin, you make a short trip in a car just to enjoy yourself. 兜风
+   ≫   Tom Wright celebrated his 99th birthday by going for a spin in his sporty Mazda.  汤姆•赖特开着他的运动型马自达车出去兜风以庆祝其99岁生日。
+7. (V-T) When people spin, they make thread by twisting together pieces of a fibre such as wool or cotton using a device or machine. 纺; 纺线
+   ≫   Michelle will also spin a customer's wool fleece to specification at a cost of $2.25 an ounce.  米歇尔也将以每盎司$2.25的价格按照顾客的要求为其纺羊毛呢。
+8. (N-UNCOUNT) In a game such as tennis or baseball, if you put spin on a ball, you deliberately make it spin rapidly when you hit it or throw it. (击球或投球时故意使球做出的) 快速旋转
+   ≫   He threw it back again, putting a slight spin on the ball.  他把球略带旋转地又投掷了回去。
+
+========================================================================
+>>> spinner
+------------------------------------------------------------------------
+spinner    [英 'spɪnə / 美 'spɪnɚ]
+n. 纺纱机；纺纱工人；旋床工人；旋式诱饵
+n. (Spinner)人名；(德、匈)施平纳；(英、瑞典)斯平纳
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A spinner is a person who makes thread by spinning. 纺纱工
+2. [usu supp N] A spinner is a cricketer who makes the ball spin when he or she bowls it so that it changes direction when it hits the ground or the bat. (投旋转球的)板球投手
+
+========================================================================
+>>> accomplishing
+------------------------------------------------------------------------
+accomplishing    [ə'kʌmpliʃ; ə'kɔm-]
+完成
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you accomplish something, you succeed in doing it. 完成
+   ≫   If we'd all work together, I think we could accomplish our goal.  如果我们齐心协力，我想我们能实现我们的目标。
+
+========================================================================
+>>> actualizing
+------------------------------------------------------------------------
+actualizing    [美 ˈæktʃuəlaɪzɪŋ / 英 ˈæktʃuəlaɪzɪŋ]
+实现，实施，实行（actualize 的现在分词）
+alsoactualise
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to make actual or real 实现
+
+========================================================================
+>>> brewing
+------------------------------------------------------------------------
+brewing    [美 'brʊɪŋ / 英 'bruːɪŋ]
+n. 酿造；酝酿；计划
+v. 酿造；策划阴谋（brew的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a quantity of a beverage brewed at one time 一次酿酒量
+
+========================================================================
+>>> calculating
+------------------------------------------------------------------------
+calculating    [美 'kælkjuletɪŋ / 英 'kælkjʊleɪtɪŋ]
+adj. 计算的；深谋远虑的；审慎的
+v. 计算（calculate的ing形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you describe someone as calculating, you disapprove of the fact that they deliberately plan to get what they want, often by hurting or harming other people. 精明的; 会算计的
+   ≫   Northbridge is a cool, calculating, and clever criminal who could strike again.  诺思布里奇是个冷静、精明、机灵的罪犯，他有可能再犯。
+
+========================================================================
+>>> cerebrating
+------------------------------------------------------------------------
+cerebrating
+v．思考，动脑筋：使用大脑进行思考、分析或解决问题。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to use the mind; think; ponder; consider 思考 [facetious]
+
+========================================================================
+>>> churning
+------------------------------------------------------------------------
+churning    [美 'tʃɝnɪŋ]
+n. 搅乳；一次提制的奶油
+v. 搅拌（churn的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Churning water is moving about violently. 漩涡的
+   ≫   ...anything to take our minds off that gap and the brown, churning water below.  ...任何能让我们把思绪离开那个裂缝和它下面棕色漩涡的事。
+
+========================================================================
+>>> claude
+------------------------------------------------------------------------
+Claude    [英 klɔ:d /  klɔ:d]
+n. 克劳德（男子名）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Captain Claude “Coplan” Pivi, minister for presidential security: There are conflicting reports about whether Pivi was present at the stadium during the massacre. 上尉克劳德∙ "考葡林"∙皮围, 总统安全部长：关于皮围在大屠杀期间是否在体育场内, 有互相矛盾的报告。
+
+========================================================================
+>>> clauding
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> coalescing
+------------------------------------------------------------------------
+coalescing    [,kəuə'les]
+adj. 聚结的
+v. 合并；联合（coalesce的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If two or more things coalesce, they come together and form a larger group or system. 合并
+   ≫   As the number of moisture droplets increases, they begin to coalesce into small rivulets of fluid.  当水滴数量增加，它们会汇集成细流。
+   ≫   His sporting and political interests coalesced admirably in his writing about climbing.  他对运动和政治的兴趣,很了不起地共同体现在他关于攀岩运动的写作中。
+
+========================================================================
+>>> cogitating
+------------------------------------------------------------------------
+cogitating
+v. 深思熟虑，仔细考虑（cogitate 的现在分词）
+cogitating,cogitated,cogitates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you are cogitating, you are thinking deeply about something. 深思 [正式]
+   ≫   He sat silently cogitating.  他静坐深思。
+   ≫   We cogitated on the meaning of life.  我们深思生命的意义。
+2. (N-UNCOUNT) cogitation N-UNCOUNT
+   ≫   After much cogitation, we decided to move to the Bahamas.  经过认真考虑，我们决定搬到巴哈马群岛去。
+
+========================================================================
+>>> conjuring
+------------------------------------------------------------------------
+conjuring    ['kʌndʒərɪŋ]
+n. 魔术
+关于魔术的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the performance of tricks that appear to defy natural laws 魔术
+2. (ADJ) denoting or relating to such tricks or entertainment 表示魔术的; 关于魔术的
+
+========================================================================
+>>> crunching
+------------------------------------------------------------------------
+crunching
+v．
+1. 嘎吱作响：发出嘎吱嘎吱的声音，通常是因为在咀嚼硬质食物或踩在碎裂物上。
+2. 压碎，粉碎：用力压碎或破碎某物。
+3. 处理大量数据：快速处理大量数据或信息。
+★★ CET6+ TEM8 crunching,crunched,crunches
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you crunch something hard, such as a sweet, or if it crunches, you crush it noisily between your teeth. 嘎吱嘎吱地咬嚼 (某物); 发出嘎吱声
+   ≫   She sucked an ice cube into her mouth, and crunched it loudly.  她把一冰块儿含在嘴里，并嘎吱嘎吱地大声嚼起来。
+2. (V-T/V-I) If something crunches or if you crunch it, it makes a breaking or crushing noise, for example, when you step on it. 嘎吱嘎吱地碾或踩 (某物); 发出嘎吱声
+   ≫   A piece of china crunched under my foot.  一块瓷片在我的脚下发出嘎吱的响声。
+3. (N-COUNT) Crunch is also a noun. 嘎吱嘎吱的声音
+   ≫   She heard the crunch of tyres on the gravel driveway.  她听到车胎碾在碎石铺成的私家车道上发出的嘎吱声。
+4. (V-I) If you crunch across a surface made of very small stones, you move across it causing it to make a crunching noise. 嘎吱嘎吱地踩
+   ≫   I crunched across the gravel.  我从石子上嘎吱嘎吱地踩过。
+5. (V-T) To crunch numbers means to do a lot of calculations using a calculator or computer. (用计算器或电脑) 运算
+   ≫   I pored over the books with great enthusiasm, often crunching the numbers until 1:00 a.m.  我饶有兴趣地细读这些书，常常运算到凌晨1：00。
+6. (N-SING) You can refer to an important time or event, for example, when an important decision has to be made, as the crunch. 关键时刻
+   ≫   He can rely on my support when the crunch comes.  在关键时刻他会得到我的支持的。
+7. (N-COUNT) A situation in which a business or economy has very little money can be referred to as a crunch. 财政困难 [商业]
+   ≫   The U.N. is facing a cash crunch.  联合国正面临着资金短缺。
+
+========================================================================
+>>> deliberating
+------------------------------------------------------------------------
+deliberating
+v. 仔细考虑（deliberate 的现在分词）
+★★★ CET4 deliberating,deliberated,deliberates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you do something that is deliberate, you planned or decided to do it beforehand, and so it happens on purpose rather than by chance. 故意的
+   ≫   Witnesses say the firing was deliberate and sustained.  目击者说这次射击是蓄意的，而且还持续了一段时间。
+2. (ADV) deliberately ADV 故意地
+   ≫   It looks as if the blaze was started deliberately.  看来那场火是有人故意放的。
+3. (ADJ) If a movement or action is deliberate, it is done slowly and carefully. 从容谨慎的
+   ≫   ...stepping with deliberate slowness up the steep paths.  …小心翼翼地缓步走上陡峭的小径。
+4. (ADV) deliberately ADV 从容谨慎地 [ADV after v]
+   ≫   The Japanese have acted calmly and deliberately.  那些日本人表现得镇定且从容。
+5. (V-T/V-I) If you deliberate, you think about something carefully, especially before making a very important decision. 仔细考虑
+   ≫   She deliberated over the decision for a good few years before she finally made up her mind.  在她最终下定决心之前，她仔细考虑了这个决定多年。
+
+========================================================================
+>>> finagling
+------------------------------------------------------------------------
+finagling    [美 fɪˈneɪɡlɪŋ / 英 fɪˈneɪɡ(ə)lɪŋ]
+v. 欺诈，骗取；耍花招（finagle 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to get or achieve by trickery, craftiness, or persuasion; wangle 诈取
+
+========================================================================
+>>> forging
+------------------------------------------------------------------------
+forging    [美 'fɔrdʒɪŋ / 英 'fɔːdʒɪŋ]
+n. 锻造；锻件；伪造
+v. 锻造；打制（forge的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the process of producing a metal component by hammering 锻造
+
+========================================================================
+>>> hatching
+------------------------------------------------------------------------
+hatching    ['hætʃɪŋ]
+n. [禽] 孵化；剖面线；画影线
+v. [禽] 孵化；给…加影线；策划（hatch的ing形式）
+adj. 孵化的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When a baby bird, insect, or other animal hatches, or when it is hatched, it comes out of its egg by breaking the shell. 使孵出; 孵出
+   ≫   The young disappeared soon after they were hatched.  幼崽孵出后不久就不见了。
+2. (V-T/V-I) When an egg hatches or when a bird, insect, or other animal hatches an egg, the egg breaks open and a baby comes out. 孵化
+   ≫   The eggs hatch after a week or ten days.  这些蛋1周或10天后孵化。
+3. (V-T) If you hatch a plot or a scheme, you think of it and work it out. 策划
+   ≫   He has accused opposition parties of hatching a plot to assassinate the pope.  他曾指责各反对党阴谋策划暗杀教皇。
+4. [art] to mark (a figure, shade, etc) with fine parallel or crossed lines to indicate shading 在(图形、投影等上)画影线 → compare
+5. (N-COUNT) A hatch is an opening in the deck of a ship, through which people or cargo can go. You can also refer to the door of this opening as a hatch. 舱口; 舱口盖
+   ≫   He stuck his head up through the hatch.  他把脑袋伸出舱口。
+6. (N) the act or process of hatching 孵化
+7. [非正式] hatchback的缩写 → short for
+
+========================================================================
+>>> herding
+------------------------------------------------------------------------
+herding    [hɝd]
+n. 集中畜群；畜牧
+v. 聚在一起；牧放（herd的ing形式）
+n. (Herding)人名；(德)赫尔丁
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A herd is a large group of animals of one kind that live together. 畜群
+   ≫   Chobe is also renowned for its large herds of elephant and buffalo.  乔贝还以其大群的大象和水牛而闻名。
+2. (N-COUNT) 
+3. [archaic, DIALECT] a man or boy who tends livestock; herdsman 牧人; 放牧者
+4. (N-COUNT) (in combination) (用于组合词)
+   ≫   goatherd  
+   ≫   swineherd  
+5. [表不满] If you say that someone has joined the herd or follows the herd, you are criticizing them because you think that they behave just like everyone else and do not think for themselves. (缺乏独立思想的) 群众
+   ≫   They are individuals; they will not follow the herd.  他们是独立的个体；他们不会随大流。
+6. (V-T) If you herd people somewhere, you make them move there in a group. 把…集中赶往
+   ≫   He began to herd the prisoners out.  他开始把囚犯集中起来赶出去。
+7. (V-T) If you herd animals, you make them move along as a group. 驱赶 (畜群)
+   ≫   Stefano used a motorcycle to herd the sheep.  斯蒂芬诺骑一辆摩托车驱赶羊群。
+
+========================================================================
+>>> honking
+------------------------------------------------------------------------
+honking    [hɔŋk]
+n. 发情叫声；发出响号
+v. 按汽车喇叭（honk的ing形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you honk the horn of a vehicle or if the horn honks, you make the horn produce a short loud sound. 鸣 (车辆喇叭); (车辆喇叭) 鸣响
+   ≫   Drivers honked their horns in solidarity with the peace marchers.  司机们鸣笛，表示对和平示威者的坚决支持。
+   ≫   Horns honk. An angry motorist shouts.  喇叭鸣响。一位愤怒的司机大声叫喊着。
+2. (N-COUNT) Honk is also a noun. 鸣笛; 鸣响
+   ≫   She pulled to the right with a honk.  她按了声喇叭，把车开到了右边。
+
+========================================================================
+>>> hustling
+------------------------------------------------------------------------
+hustling
+v．
+1. 忙碌，奔波：为了达到目标而忙碌地行动。
+2. 催促，推动：迅速或强烈地推动某事。
+★ CET6+ TEM4 hustling,hustled,hustles
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you hustle someone, you try to make them go somewhere or do something quickly, for example by pulling or pushing them along. 猛拉; 猛推
+   ≫   The guards hustled Harry out of the car.  卫兵们把哈里从车子里拉了出来。
+2. (V-I) If you hustle, you go somewhere or do something as quickly as you can. 快速行进; 赶快做
+   ≫   You'll have to hustle if you're to get home for supper.  你想回家吃晚饭的话，得赶紧走了。
+3. (V-I) If someone hustles, they try hard to earn money or to gain an advantage from a situation. 奋力争取 [美国英语]
+   ≫   I like it here. It forces you to hustle and you can earn money.  我喜欢在这里生活。这个想法迫使你拼命干活，这样可以挣到钱。
+   ≫   Hustling for social contacts isn't something that just happens. You have to make it happen.  社会关系不是说建立就建立起来的，你得想尽一切办法去争取。
+4. (V-T) If someone hustles you, or if they hustle something, they try hard to get something, often by using dishonest or illegal means. 诈取 (通常用不正当或非法的手段) [美国英语]
+   ≫   Two teenage boys asked us for money, saying they were forming a baseball team. Anna said they were hustling us.  两个小男孩向我们要钱，说他们要成立棒球队。安娜说他们在骗钱。
+   ≫   He hustled several daytime jobs and finished his education at night.  他骗得了几份白班工作，利用晚上完成了学业。
+5. (N-UNCOUNT) Hustle is busy, noisy activity. 忙碌; 熙熙攘攘
+   ≫   ...the hustle and bustle of New York.  …纽约的熙攘喧闹。
+
+========================================================================
+>>> ideating
+------------------------------------------------------------------------
+ideating
+v. 想象，设想（ideate 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to form or have an idea of; to imagine or conceive 形成概念; 想象
+
+========================================================================
+>>> manifesting
+------------------------------------------------------------------------
+manifesting    ['mænifestiŋ]
+adj. 显现（形式）的
+v. 使显现（manifest的现在分词）；显示；证明
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you say that something is manifest, you mean that it is clearly true and that nobody would disagree with it if they saw it or considered it. 明显的
+   ≫   ...the manifest failure of the policies.  …这些政策明显的失败。
+2. (ADV) manifestly 明显地
+   ≫   She manifestly failed to last the mile-and-a-half of the race.  她显然没有跑完1.5英里的比赛。
+3. [正式] If you manifest a particular quality, feeling, or illness, or if it manifests itself, it becomes visible or obvious. 显现出
+   ≫   He manifested a pleasing personality on stage.  他在舞台上表现出讨人喜欢的个性。
+   ≫   The virus needs two weeks to manifest itself.  这种病毒需要两周才能发作。
+4. (ADJ) Manifest is also an adjective. 显现出的
+   ≫   The same alarm is manifest everywhere.  同样的恐慌在各地都已出现。
+
+========================================================================
+>>> marinating
+------------------------------------------------------------------------
+marinating    ['mærə,net]
+n. 海水腌制；卤制
+v. 把…浸泡在卤汁中（marinate的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you marinate meat or fish, or if it marinates, you keep it in a mixture of oil, vinegar, spices, and herbs before cooking it, so that it can develop a special flavour. 使受腌汁浸泡; 腌泡
+   ≫   Marinate the chicken for at least 4 hours.  把鸡肉放在腌汁里浸泡至少四个小时。
+
+========================================================================
+>>> moseying
+------------------------------------------------------------------------
+moseying
+v．闲逛，漫步：以悠闲、无目的的方式行走。
+moseying,moseyed,moseys
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you mosey somewhere, you go there slowly, often without any particular purpose. 闲逛; 溜达 [非正式]
+   ≫   He usually moseys into town for no special reason.  他常无所事事地溜达到城里。
+
+========================================================================
+>>> mulling
+------------------------------------------------------------------------
+mulling    ['mʌliŋ]
+n. 研碎
+v. 仔细考虑；弄坏（mull的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] If you mull something, you think about it for a long time before deciding what to do. 斟酌
+   ≫   Last month, a federal grand jury began mulling evidence in the case.  上个月，一个联邦大陪审团开始仔细斟酌该案的证据。
+2. (V-T) to heat (wine, ale, etc) with sugar and spices to make a hot drink 加糖和香料并烫热(葡萄酒、麦芽酒等)
+3. [SCOTTISH] a promontory 岬; 海角
+
+========================================================================
+>>> mustering
+------------------------------------------------------------------------
+mustering
+v．
+1. 集合，召集：把人或动物聚集在一起，通常是为了某个特定目的。
+2. 鼓起，振作：鼓起勇气、力量或精力去应对某种情况。
+★ TEM8 mustering,mustered,musters
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you muster something such as support, strength, or energy, you gather as much of it as you can in order to do something. 聚集 (支持、力量、精力等)
+   ≫   He travelled around West Africa trying to muster support for his movement.  他走遍西非，努力为他的运动寻求支持。
+2. (V-T/V-I) When soldiers muster or are mustered, they gather together in one place in order to take part in a military action. 召集; (军队等) 集合
+   ≫   The men mustered before their clan chiefs.  男人们在他们的氏族首领前集合。
+
+========================================================================
+>>> nusing
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> percolating
+------------------------------------------------------------------------
+percolating    ['pɝkə,let]
+n. 渗透
+adj. 渗透的
+v. 渗透（percolate的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If an idea, feeling, or piece of information percolates through a group of people or a thing, it spreads slowly through the group or thing. (想法、感觉、信息)缓慢传开
+   ≫   New fashions took a long time to percolate down.  新时尚要很长时间才能在大众中流行起来。
+   ≫   All of these thoughts percolated through my mind.  所有这些想法在我心里慢慢扩散开来。
+2. (V-T/V-I) When you percolate coffee or when coffee percolates, you prepare it in a percolator. 用渗滤式咖啡壶滤煮
+3. (V-I) To percolate somewhere means to pass slowly through something that has very small holes or gaps in it. 渗透
+   ≫   Rain water will only percolate through slowly.  雨水只会慢慢地渗进来。
+
+========================================================================
+>>> pondering
+------------------------------------------------------------------------
+pondering    ['pɔndəriŋ]
+v. 沉思，默想，考虑（ponder的ing形式）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you ponder something, you think about it carefully. 仔细思考
+   ≫   I found myself constantly pondering the question: "How could anyone do these things?"  我发现自己不停地思索着这个问题：“怎么会有人做出这些事情？”
+   ≫   He pondered over the difficulties involved.  他仔细思考了有关的种种困难。
+
+========================================================================
+>>> puttering
+------------------------------------------------------------------------
+puttering    [美 ˈpʌtərɪŋ]
+v. 发出噗噗声；噗噗行进；放松地做；闲逛（putter 的现在分词）
+★ puttering,puttered,putters
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A putter is a club used for hitting a golf ball a short distance once it is on the green. (高尔夫球的)推杆
+2. (V-I) [美国英语] →see potter
+
+========================================================================
+>>> reticulating
+------------------------------------------------------------------------
+reticulating
+v．使成网状，使成格子状：使物体或结构形成网状或格子状的排列。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) in the form of a network or having a network of parts 网状的
+   ≫   a reticulate leaf  
+2. (V) to form or be formed into a net 呈网状; 使呈网状
+
+========================================================================
+>>> runminating
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> schledpping
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> shucking
+------------------------------------------------------------------------
+shucking
+v．剥壳，去壳：从硬壳中取出内部物质的过程，通常用于玉米、贝类、坚果等。
+shucking,shucked,shucks
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The shuck of something is its outer covering, for example, the leaves around an ear of corn, or the shell of a shellfish. 壳; 外皮 [美国英语]
+   ≫   ...corn shucks.  ...玉米包衣。
+2. (V-T) If you shuck something such as corn or shellfish, you remove it from its outer covering. 剥...的壳; 去...的外皮 [美国英语]
+   ≫   On a good day, each employee will shuck 3,500 oysters.  天气好的时候，每名雇员一天能剥3500只牡蛎。
+3. (V-T) If you shuck something that you are wearing, you take it off. 脱去 [美国英语] [非正式]
+   ≫   He shucked his coat and set to work.  他脱掉了外套开始工作。
+4. (INTERJ) Shucks is an exclamation that is used to express embarrassment, disappointment, or annoyance. (表示尴尬、失望或厌烦)哎 [美国英语] [非正式]
+   ≫   Terry actually says "Oh, shucks!" when complimented on her singing.  当人们赞美特里的歌声时，她实际上会说“噢，这没什么!”
+
+========================================================================
+>>> simmering
+------------------------------------------------------------------------
+simmering    ['sɪmɚ]
+n. 气体漏泄时发出的叫声；激化状态，即将爆发的状态
+vt. 慢煮（simmer的现在分词）
+vi. 煨（simmer的现在分词）；（争吵或暴力）即将爆发
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When you simmer food or when it simmers, you cook it by keeping it at boiling point or just below boiling point. 用文火炖; 煨
+   ≫   Make an infusion by boiling and simmering the rhubarb and camomile together.  煮炖大黄和黄春菊来熬成浓汁。
+2. (N-SING) Simmer is also a noun. 炖; 煨
+   ≫   Combine the stock, whole onion and peppercorns in a pan and bring to a simmer.  把高汤料、整个洋葱和胡椒粒拌入平底锅内，然后用文火炖。
+3. (V-I) If a conflict or a quarrel simmers, it does not actually happen for a period of time, but eventually builds up to the point where it does. (冲突或争吵) 酝酿; 趋于激化
+   ≫   ...bitter divisions that have simmered for more than half a century.  …酝酿了半个多世纪的严重分歧。
+
+========================================================================
+>>> smooshing
+------------------------------------------------------------------------
+smooshing
+vt. 压软，压碎；轻轻涂刷（smoosh 的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If they’re thrilled to be telling the story, dismissing them too suddenly is like smooshing an ant. （你要）耐心听，找到一个机会转移话题。 如果这样的故事让他们激动，突然打断他们就会像碾死一只蚂蚁一样让人不安。
+
+========================================================================
+>>> sstewing
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> transmuting
+------------------------------------------------------------------------
+transmuting    [trænz'mju:t; træns-; tra:n-]
+v. 易质；内化作用（transmute的ing形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something transmutes or is transmuted into a different form, it is changed into that form. 转化; 使···转化
+   ≫   She ceased to think, as anger transmuted into passion.  随着愤慨变为激怒，她停止了思考。
+   ≫   Scientists transmuted matter into pure energy and exploded the first atomic bomb.  科学家们使物质转化为纯能量，爆破了第一枚原子弹。
+2. (N-VAR) transmutation
+   ≫   ...the transmutation of food into energy.  ...食物到能量的转化。
+
+========================================================================
+>>> verdict
+------------------------------------------------------------------------
+verdict    [美 'vɝdɪkt / 英 'vɜːdɪkt]
+n. 结论；裁定
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In a court of law, the verdict is the decision that is given by the jury or judge at the end of a trial. 裁决
+   ≫   The jury returned a unanimous guilty verdict.  该陪审团作出了一份一致通过的有罪裁决。
+2. (N-COUNT) Someone's verdict on something is their opinion of it, after thinking about it or investigating it. 判断
+   ≫   The doctor's verdict was that he was entirely healthy.  这名医生的判断是他完全是健康的。
+
+========================================================================
+>>> ANTHROPIC
+------------------------------------------------------------------------
+anthropic    [英 æn'θrɒpɪk / 美 æn'θrɑpɪk]
+adj. 有关人类的，人类的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to human beings 人类的
+
+========================================================================
+>>> sainx
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> thinkering
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> tinkering
+------------------------------------------------------------------------
+tinkering    ['tɪŋkərɪŋ]
+n. 铸补，熔补
+v. 做焊锅匠，笨拙的修补（tinker的现在分词形式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you tinker with something, you make some small changes to it, in an attempt to improve it or repair it. 小修改
+   ≫   Instead of the country admitting its error, it just tinkered with the problem.  该国未承认自己的错误，只是对这个问题稍作修改。
+
+========================================================================
+>>> propagating
+------------------------------------------------------------------------
+propagating    ['prɔpəɡeit]
+adj. 传播的；繁殖的
+v. 传播（propagate的ing形式）；繁殖
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If people propagate an idea or piece of information, they spread it and try to make people believe it or support it. 宣传
+   ≫   They propagated political doctrines that promised to tear apart the fabric of society.  他们宣传有可能摧毁社会结构的政治学说。
+2. (N-UNCOUNT) propagation 宣传
+   ≫   These two countries must work together toward the propagation of true Buddhism.  这两个国家必须携手进行真正的佛教教义的宣传。
+3. [技术] If you propagate plants, you grow more of them from the original ones. 繁殖
+   ≫   The easiest way to propagate a vine is to take hardwood cuttings.  繁殖葡萄藤最容易的办法就是采取硬木扦插。
+
+========================================================================
+>>> anthropicsd
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> anthropics
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> anthropics
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> tide
+------------------------------------------------------------------------
+tide    [英 taɪd / 美 taɪd]
+n. 趋势，潮流；潮汐
+vt. 随潮漂流
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Thetide is the regular change in the level of the ocean on the beach. You say the tide is in when water reaches a high point on the land or out when the water leaves the land. 潮水
+   ≫   The tide was at its highest.  潮水那时正处于最高位。
+   ≫   The tide was going out, and the sand was smooth and glittering.  潮水正在退去，沙滩平坦，闪闪发亮。
+2. (N-COUNT) A tide is a current in the sea that is caused by the regular and continuous movement of large areas of water toward and away from the shore. (不断冲刷海岸的) 海浪
+   ≫   Roman vessels used to sail with the tide from Boulogne to Richborough.  罗马的船只过去常常乘着海浪从布洛涅航行到里奇伯勒。
+3. (N-SING) The tide of opinion, for example, is what the majority of people think at a particular time. (观点的) 潮流
+   ≫   The tide of opinion seems overwhelmingly in his favour.  大部分人的观点似乎对他极为有利。
+4. (V) to carry or be carried with or as if with the tide (用潮水)冲走; (像潮水般)被带走
+
+========================================================================
+>>> tideline
+------------------------------------------------------------------------
+tideline    [美 ˈtaɪdlaɪn / 英 ˈtaɪdlaɪn]
+涨潮线
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the mark or line left by the tide when it retreats from its highest point 涨潮点; 潮痕
+
+========================================================================
+>>> nonprofit
+------------------------------------------------------------------------
+nonprofit    [,nɑn'prɑfɪt]
+adj. 非盈利的；不以盈利为目的的
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] A nonprofit organization is one which is not run with the aim of making a profit. 非营利的
+   ≫   Most of that money goes to nonprofit organizations that run programmes for the poor.  那笔钱的大部分用于从事扶贫项目的非营利性组织。
+
+<<=== 2026-07-06 ===>>
