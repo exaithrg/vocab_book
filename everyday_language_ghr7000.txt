@@ -11237,3 +11237,46 @@ CET6
    ≫   Most of that money goes to nonprofit organizations that run programmes for the poor.  那笔钱的大部分用于从事扶贫项目的非营利性组织。
 
 <<=== 2026-07-06 ===>>
+========================================================================
+>>> Harness
+------------------------------------------------------------------------
+harness    [美 'hɑrnɪs / 英 'hɑːnɪs]
+vt. 治理；套；驾驭；披上甲胄；利用
+n. 马具；甲胄；挽具状带子；降落伞背带；日常工作
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you harness something such as an emotion or natural source of energy, you bring it under your control and use it. 利用
+   ≫   Turkey plans to harness the waters of the Tigris and Euphrates rivers for big hydro-electric power projects.  土耳其计划利用底格里斯河与幼发拉底河的水来建造大型水力发电工程。
+2. (N-COUNT) A harness is a set of straps which fit under a person's arms and fasten around their body in order to keep a piece of equipment in place or to prevent the person moving from a place. 背带; 安全带
+3. (N-COUNT) A harness is a set of leather straps and metal links fastened around a horse's head or body so that the horse can have a carriage, cart, or plough fastened to it. 马具; 挽具
+4. [usu passive] If a horse or other animal is harnessed, a harness is put on it, especially so that it can pull a carriage, cart, or plough. 给…套上挽具
+   ≫   On Sunday the horses were harnessed to a heavy wagon for a day-long ride over the border.  星期天这些马被套在一辆沉重的货车上，踏上长达一天的旅程越过边境。
+
+========================================================================
+>>> booststrapping
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> bootstrapping
+------------------------------------------------------------------------
+bootstrapping    ['bu:tstræpiŋ]
+n. 自举电路；引导指令；自展
+v. 依靠自己的努力获得成功；自展（bootstrap的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Bootstrapping - creates an application context that provides the runtime context for an application. 引导程序 —— 创建应用程序上下文，它为应用程序提供运行时上下文。
+≫   He calls this self-refreshing property “bootstrapping, ” and it was enough to make his homomorphic encryption scheme fully homomorphic. 他称这种自我更新的属性为“自展的”，该属性保证他的同态加密方案是完全同态的。
+≫   Jack spent years bootstrapping himself through university. 杰克靠多年自我奋斗才念完了大学。
+
+========================================================================
+>>> strapping
+------------------------------------------------------------------------
+strapping    [英 'stræpɪŋ / 美 'stræpɪŋ]
+n. 鞭打；皮带材料；裹伤胶带
+adj. 魁梧的；高大健壮的
+v. 用带捆扎；约束，束缚（strap的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] If you describe someone as strapping, you mean that they are tall and strong, and look healthy. 高大健壮的
+   ≫   He was a bricklayer – a big, strapping fellow.  他是个砌砖工—一个高大健壮的年轻人。
+
+<<=== 2026-07-07 ===>>
