@@ -11381,3 +11381,89 @@ CET6 TEM4
    ≫   to brew a plot  
 
 <<=== 2026-07-08 ===>>
+========================================================================
+>>> apt
+------------------------------------------------------------------------
+apt    [美 æpt / 英 æpt]
+adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的
+【名】 （Apt）（英、法、波）阿普特（人名）
+★★ CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An apt remark, description, or choice is especially suitable. 恰当的
+   ≫   The words of this report are as apt today as in 1929.  这份报告的措词在当今如在1929年一样恰当。
+2. (ADV) aptly ADV 恰当地
+   ≫   ...the beach in the aptly named town of Oceanside.  …命名贴切的“海边镇”上的沙滩。
+3. (ADJ) If someone is apt to do something, they often do it and so it is likely that they will do it again. 易于…的 [v-link ADJ to-inf]
+   ≫   She was apt to raise her voice and wave her hands about.  她常常提高嗓门并挥舞双手。
+4. (ADJ) An apt student is intelligent and able to understand things easily. 聪慧的 [ADJ n]
+   ≫   She had taught him French and he had been an apt student.  她教过他法语，他一直是个聪慧的学生。
+
+========================================================================
+>>> bonus
+------------------------------------------------------------------------
+bonus    [美 'bonəs / 英 'bəʊnəs]
+n. 奖金；红利；额外津贴
+n. (Bonus)人名；(西、塞)博努斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A bonus is an extra amount of money that is added to someone's pay, usually because they have worked very hard. 奖金
+   ≫   Workers in big firms receive a substantial part of their pay in the form of bonuses and overtime.  大公司的工人，工资很大一部分是奖金和加班费。
+   ≫   ...a $60 bonus.  …一笔$60的奖金。
+2. (N-COUNT) A bonus is something good that you get in addition to something else, and which you would not usually expect. 额外收获
+   ≫   We felt we might finish third. Any better would be a bonus.  我们觉得我们可能得第三名。任何更好的结果都是意外收获。
+
+========================================================================
+>>> saturation
+------------------------------------------------------------------------
+saturation    [英 sætʃə'reɪʃ(ə)n / 美 'sætʃə'reʃən]
+n. 饱和；色饱和度；浸透；磁化饱和
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Saturation is the process or state that occurs when a place or thing is filled completely with people or things, so that no more can be added. 饱和
+   ≫   Japanese car makers have been equally blind to the saturation of their markets at home and abroad.  日本的汽车制造商对国内外市场的饱和同样视而不见。
+2. [ADJ n] Saturation is used to describe a campaign or other activity that is carried out very thoroughly, so that nothing is missed. (运动、活动) 彻底的
+   ≫   The concept of saturation marketing makes perfect sense.  饱和营销的概念很有道理。
+
+========================================================================
+>>> diagnostic
+------------------------------------------------------------------------
+diagnostic    [美 ,daɪəɡ'nɑstɪk / 英 daɪəg'nɒstɪk]
+adj. 诊断的；特征的
+n. 诊断法；诊断结论
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Diagnostic equipment, methods, or systems are used for discovering what is wrong with people who are ill or with things that do not work properly. 诊断的
+   ≫   ...X-rays and other diagnostic tools.  …X光和其他诊断工具。
+
+========================================================================
+>>> oyster
+------------------------------------------------------------------------
+oyster    [美 'ɔɪstɚ / 英 'ɒɪstə]
+n. 牡蛎，[无脊椎] 蚝；沉默寡言的人
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An oyster is a large flat shellfish. Some oysters can be eaten and others produce valuable objects called pearls. 牡蛎
+   ≫   He had two dozen oysters and enjoyed every one of them.  他吃了两打牡蛎，每一个都吃得津津有味。
+2. (PHRASE) If you say that the world is someone's oyster, you mean that they can do anything or go anywhere that they want to. 某人可以随心所欲
+   ≫   You're young, you've got a lot of opportunity. The world is your oyster.  你年轻，又得到了很多机会。你可以随心所欲地施展自己。
+
+========================================================================
+>>> alloc
+------------------------------------------------------------------------
+alloc
+abbr. 分配（allocate, allocation）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   REG label alloc memory fail ! 宣告REG时，记忆体不足。
+≫   This is done in Listing 7 with the alloc parameter. 这是在清单7中使用alloc参数完成的。
+≫   Alloc An allocator whose value type is the same as the container's value type. 分配器，它的值类型与容器的值类型相同。
+
+========================================================================
+>>> coalesced
+------------------------------------------------------------------------
+coalesced    [,kəuə'les]
+合并（coalesce的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If two or more things coalesce, they come together and form a larger group or system. 合并
+   ≫   As the number of moisture droplets increases, they begin to coalesce into small rivulets of fluid.  当水滴数量增加，它们会汇集成细流。
+   ≫   His sporting and political interests coalesced admirably in his writing about climbing.  他对运动和政治的兴趣,很了不起地共同体现在他关于攀岩运动的写作中。
+
+<<=== 2026-07-09 ===>>
