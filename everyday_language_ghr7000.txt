@@ -11468,3 +11468,31 @@ coalesced    [,kəuə'les]
 
 <<=== 2026-07-09 ===>>
 <<=== 2026-07-10 ===>>
+========================================================================
+>>> sympathies
+------------------------------------------------------------------------
+sympathies    [美 'sɪmpəθi]
+n. 同情（sympathy的复数）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also N in pl] If you have sympathy for someone who is in a bad situation, you are sorry for them, and show this in the way you behave toward them. 同情
+   ≫   We expressed our sympathy for her loss.  我们对她的损失表示了同情。
+   ≫   I have had very little help from doctors and no sympathy whatsoever.  我从医生那儿得到的帮助极少，而且没得到任何同情。
+2. [also N in pl, oft N 'with/for' n] If you have sympathy with someone's ideas or opinions, you agree with them. 赞同
+   ≫   I have some sympathy with this point of view.  我对这一观点有些赞同。
+   ≫   Lithuania still commands considerable international sympathy for its cause.  立陶宛仍得到相当多对其事业的国际支持。
+3. (N-UNCOUNT) If you take some action in sympathy with someone else, you do it in order to show that you support them. 支持
+   ≫   Several hundred workers struck in sympathy with their colleagues.  几百名工人举行罢工以示对其工友们的支持。
+
+========================================================================
+>>> waive
+------------------------------------------------------------------------
+waive    [美 wev / 英 weɪv]
+vt. 放弃；搁置
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you waive your right to something, such as legal representation, you choose not to have it or do it. 放弃 (权利)
+   ≫   He pleaded guilty to the murders of three boys and waived his right to appeal.  他对杀害了3个男孩的罪行表示认罪伏法，并放弃上诉的权利。
+2. (V-T) If someone waives a rule, they say that people do not have to obey it in a particular situation. 放弃 (规则)
+   ≫   The art gallery waives admission charges on Sundays.  美术馆星期天免费开放。
+
