@@ -11497,3 +11497,37 @@ TEM8
    ≫   The art gallery waives admission charges on Sundays.  美术馆星期天免费开放。
 
 <<=== 2026-07-13 ===>>
+========================================================================
+>>> calibrate
+------------------------------------------------------------------------
+calibrate    [美 'kælɪbret / 英 'kælɪbreɪt]
+vt. 校正；调整；测定口径
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately. 校准
+   ≫   ...instructions on how to calibrate a thermometer.  …校准温度计的说明。
+
+========================================================================
+>>> Invoice
+------------------------------------------------------------------------
+invoice    [美 'ɪnvɔɪs / 英 'ɪnvɒɪs]
+n. 发票；货物；发货单
+vt. 开发票；记清单
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An invoice is a document that lists goods that have been supplied or services that have been done, and says how much money you owe for them. 费用清单; 发票
+   ≫   We will then send you an invoice for the total course fees.  然后我们将寄给你一张全部课程费用的发票。
+2. (V-T) If you invoice someone, you send them a bill for goods or services you have provided them with. 给…开具发票
+   ≫   The agency invoices the client who then pays the full amount to the agency.  那个代销处给客户开具发票，然后客户向代销处支付全部的款项。
+
+========================================================================
+>>> modulo
+------------------------------------------------------------------------
+modulo    [美 ˈmɑːdjəˌloʊ / 英 ˈmɒdjʊləʊ]
+prep. 以……为模
+adj. 按模的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The Checksum Word contains the twos complement of the modulo 256 sum of the. 校验字包含两个数据信息的和与256的模的两个补码。
+≫   This technique requires a variable modulo counter, another counter for the selection, and logic for state control. 这技术以柜台为模需要一个变数，另外的一个柜台为选择，和逻辑对于州控制。
+≫   Use modulo to simulate rolling the wheel: $result1 = $wheel1[rand(count($wheel1), 10*count($wheel1)) % count($wheel1)];. 使用模数来模拟滚动转轮：$result1 = $wheel1[rand(count($wheel1), 10*count($wheel1)) % count($wheel1)];。
+
+<<=== 2026-07-14 ===>>
