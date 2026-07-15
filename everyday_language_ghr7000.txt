@@ -11531,3 +11531,74 @@ adj. 按模的
 ≫   Use modulo to simulate rolling the wheel: $result1 = $wheel1[rand(count($wheel1), 10*count($wheel1)) % count($wheel1)];. 使用模数来模拟滚动转轮：$result1 = $wheel1[rand(count($wheel1), 10*count($wheel1)) % count($wheel1)];。
 
 <<=== 2026-07-14 ===>>
+========================================================================
+>>> affine
+------------------------------------------------------------------------
+affine    [美 əˈfaɪn / 英 ˈæfaɪn]
+adj. （数）仿射的
+n. 姻亲
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of, characterizing, or involving transformations which preserve collinearity, esp in classical geometry, those of translation, rotation and reflection in an axis 仿射的 [maths]
+
+========================================================================
+>>> tora
+------------------------------------------------------------------------
+tora    ['tɔ:rə]
+n. 神谕
+n. (Tora)人名；(日)寅 (名)；(西、罗、匈、意、斐、挪)托拉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Since escaping that winter during a battle in the Tora Bora region of eastern Afghanistan bin Laden had defied American efforts to trace him. 自从那年冬天在阿富汗东部Tora Bora地区的战斗中逃脱之后，本拉登已挫败了美国追踪其行踪的努力。
+≫   There are stories that bin Laden doubled back there from Tora Bora and spent a few days cloistered in the house of a wealthy landowner, even as U.S. forces and their allies were closing in. 即使当美国军队以及他们的联盟正在逼近的情况下，本拉登甚至曾从Tora Bora原路返回，在贾拉拉巴德小镇其中一个富有的地主楼房里隐匿了几天。
+≫   But the public prosecutor says the former president is now fit enough to be transferred to Tora prison in Cairo, where his sons are being held. 但是公共检察官表示，前总统的身体状况已经比较好，可以转移到开罗多拉监狱。 他的两个儿子也是被关押在这里。
+
+========================================================================
+>>> petition
+------------------------------------------------------------------------
+petition    [美 pə'tɪʃən / 英 pɪ'tɪʃ(ə)n]
+n. 请愿；请愿书；祈求；[法] 诉状
+vi. 请愿；请求
+vt. 请愿；请求；恳求
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A petition is a document signed by a lot of people that asks a government or other official group to do a particular thing. 请愿书
+   ≫   People feel so strongly that we recently presented the government with a petition signed by 4,500 people.  人们感受如此强烈，以至我们最近向政府提交了一份由4500人签名的请愿书。
+2. [法律] A petition is a formal request made to a court of law for some legal action to be taken. 诉状; (向法院提出的) 申请
+   ≫   His lawyers filed a petition for all charges to be dropped.  他的律师们提出申请要求撤销所有指控。
+3. [法律] If you petition someone in authority, you make a formal request to them. 正式请求
+   ≫   ...couples petitioning for divorce.  …申请离婚的几对夫妇。
+   ≫   All the attempts to petition Congress had failed.  所有向国会提出请求的努力都已失败了。
+
+========================================================================
+>>> riggerd
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> rigged
+------------------------------------------------------------------------
+rigged    [rɪgd]
+adj. 作弊的，以不正当手段操纵的
+v. 操纵，控制（rig的过去分词）；给（船等）装配帆；仓促安排
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone rigs an election, a job appointment, or a game, they dishonestly arrange it to get the result they want or to give someone an unfair advantage. (欺骗性地) 幕后操纵
+   ≫   She accused her opponents of rigging the vote.  她指责对手幕后操纵了这次选举。
+2. [nautical] to equip (a vessel, mast, etc) with (sails, rigging, etc) 给(船、桅等)装配帆、锁具等
+3. (N-COUNT) A rig is a large structure that is used for looking for oil or gas and for taking it out of the ground or the sea bed. 钻塔
+   ≫   ...a supply vessel for oil rigs in the Gulf of Mexico.  …一艘墨西哥湾石油钻塔的供给船。
+4. [美国英语] A rig is a truck that is made in two or more sections which are jointed together by metal bars, so that the vehicle can turn more easily. 重型铰接式卡车
+   ≫   An inspection of his rig showed that three of the brakes were faulty.  对他的重型卡车的检查显示有3处刹车存在问题。
+5. [nautical] the distinctive arrangement of the sails, masts, and other spars of a vessel 船具装配
+6. [DIALECT] a ridge or raised strip of unploughed land in a ploughed field 田埂
+
+========================================================================
+>>> blatantly
+------------------------------------------------------------------------
+blatantly    ['bleitəntli]
+adv. 公然地；喧闹地；看穿了地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [强调] Blatantly is used to add emphasis when you are describing states or situations that you think are bad. 极其
+   ≫   It became blatantly obvious to me that the band wasn't going to last.  我看得再清楚不过，这个乐队存在不了多久。
+   ≫   For years, blatantly false assertions have gone unchallenged.  很多年来，极其错误的断言从未曾受到质疑。
+
+<<=== 2026-07-15 ===>>
