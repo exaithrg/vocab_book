@@ -11602,3 +11602,24 @@ adv. 公然地；喧闹地；看穿了地
    ≫   For years, blatantly false assertions have gone unchallenged.  很多年来，极其错误的断言从未曾受到质疑。
 
 <<=== 2026-07-15 ===>>
+========================================================================
+>>> advisor
+------------------------------------------------------------------------
+advisor    [美 əd'vaɪzɚ / 英 əd'vaɪzə]
+n. 顾问；指导教师；劝告者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is the role of the coach, advisor, or teacher. 这就是教练、顾问或者老师所扮演的角色。
+≫   Upgrade Advisor identifies feature and configuration changes that might affect your upgrade, and it provides links to documentation that describes each identified issue and how to resolve it. 升级顾问还会确定那些可能会影响到升级的特性和配置变更，并提供描述每个确定问题和解决方法的文档链接。
+≫   When you purchase stocks, or equities, as your advisor might put it, you become a part owner of the business. 当你买入股票或者等价物，你的顾问会告诉你说你已经成为了企业的部分所有者。
+
+========================================================================
+>>> advisor
+------------------------------------------------------------------------
+advisor    [美 əd'vaɪzɚ / 英 əd'vaɪzə]
+n. 顾问；指导教师；劝告者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This is the role of the coach, advisor, or teacher. 这就是教练、顾问或者老师所扮演的角色。
+≫   Upgrade Advisor identifies feature and configuration changes that might affect your upgrade, and it provides links to documentation that describes each identified issue and how to resolve it. 升级顾问还会确定那些可能会影响到升级的特性和配置变更，并提供描述每个确定问题和解决方法的文档链接。
+≫   When you purchase stocks, or equities, as your advisor might put it, you become a part owner of the business. 当你买入股票或者等价物，你的顾问会告诉你说你已经成为了企业的部分所有者。
+
+<<=== 2026-07-16 ===>>
