@@ -11651,3 +11651,20 @@ Vamos
 ⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
 
 <<=== 2026-07-17 ===>>
+========================================================================
+>>> investment
+------------------------------------------------------------------------
+investment    [美 ɪn'vɛstmənt / 英 ɪn'ves(t)m(ə)nt]
+n. 投资；投入；封锁
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Investment is the activity of investing money. 投资
+   ≫   He said the government must introduce tax incentives to encourage investment.  他说，政府必须通过给予税收利益来鼓励投资。
+2. (N-VAR) An investment is an amount of money that you invest, or the thing that you invest it in. 投资额
+   ≫   ...an investment of twenty-eight million dollars.  …2800万美元的投资额。
+3. (N-COUNT) If you describe something you buy as an investment, you mean that it will be useful, especially because it will help you to do a task more cheaply or efficiently. 有益的购买物
+   ≫   When selecting boots, fine, quality leather will be a wise investment.  在挑选靴子时，买精致、质量上乘的皮靴会是明智的。
+4. (N-UNCOUNT) Investment of time or effort is the spending of time or effort on something in order to make it a success. 投入
+   ≫   I worry about this big investment of time not working.  我担心这么多的时间投入不起作用。
+
+<<=== 2026-07-18 ===>>
