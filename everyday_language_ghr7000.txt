@@ -11670,3 +11670,21 @@ CET4 TEM4
 <<=== 2026-07-18 ===>>
 <<=== 2026-07-19 ===>>
 <<=== 2026-07-20 ===>>
+========================================================================
+>>> Campaign
+------------------------------------------------------------------------
+campaign    [美 kæm'pen / 英 kæm'peɪn]
+vi. 作战；参加竞选；参加活动
+n. 运动；活动；战役
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A campaign is a planned set of activities that people carry out over a period of time in order to achieve something such as social or political change. (有计划的) 活动; 运动
+   ≫   During his election campaign he promised to put the economy back on its feet.  竞选活动期间，他许诺要致力于恢复经济。
+   ≫   ...a campaign to improve the training of staff.  …改进员工培训的一个活动。
+2. (N-COUNT) In a war, a campaign is a series of planned movements carried out by armed forces. 一系列军事行动; 战役
+   ≫   The allies are intensifying their air campaign.  盟军在加强他们的空中军事活动。
+3. (V-I) If someone campaigns for something, they carry out a planned set of activities over a period of time in order to achieve their aim. 从事运动
+   ≫   We are campaigning for law reform.  我们正从事法律改革运动。
+4. → see also
+
+<<=== 2026-07-21 ===>>
