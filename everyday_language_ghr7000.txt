@@ -11690,3 +11690,122 @@ CET4 TEM4
 <<=== 2026-07-21 ===>>
 <<=== 2026-07-23 ===>>
 <<=== 2026-07-24 ===>>
+========================================================================
+>>> delegating
+------------------------------------------------------------------------
+delegating    ['deliɡət; -ɡeit; 'deliɡeit]
+v. 授权（delegate的ing形式）；选举
+n. 授权；委派；授权式
+adj. 授权的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A delegate is a person who is chosen to vote or make decisions on behalf of a group of other people, especially at a conference or a meeting. 代表
+   ≫   The Canadian delegate offered no reply.  那位加拿大代表没给答复。
+2. (V-T/V-I) If you delegate duties, responsibilities, or power to someone, you give them those duties, those responsibilities, or that power so that they can act on your behalf. 委托; 授权
+   ≫   He talks of travelling less, and delegating more authority to his deputies.  他说要减少旅行，还有要授予他的副手们更多的权力。
+3. (N-UNCOUNT) delegation 委托; 授权
+   ≫   A key factor in running a business is the delegation of responsibility.  经商的一个关键因素是责任委托。
+4. [usu passive] If you are delegated to do something, you are given the duty of acting on someone else's behalf by making decisions, voting, or doing some particular work. 委派
+   ≫   Officials have now been delegated to start work on a draft settlement.  官员们现已被委派开始准备一份拟定协议。
+
+========================================================================
+>>> 投机
+------------------------------------------------------------------------
+投机
+speculate ; speculation ; be opportunistic ; seize a chance to seek private gain
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thousands of retirees were persuaded to mortgage their homes to invest in speculative bonds. 上千的退休人员被劝说抵押他们的房子去投资投机性的债券。《柯林斯英汉双解大词典》
+≫   The banks made too many risky loans which now can't be repaid, and they speculated in property whose value has now dropped. 银行贷出了太多现在无法偿还的风险贷款，而且他们在房地产业做了投机买卖，其价值目前也已经下跌。《柯林斯英汉双解大词典》
+≫   He sold the contracts to another speculator for a profit. 为了牟利他把合约卖给了另一个投机商。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> misc
+------------------------------------------------------------------------
+misc    [美 ˈmɪsk / 英 ˈmɪsk]
+abbr. 混杂的；各色各样混在一起；多才多艺的（miscellaneous）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The extension class loader (sun/misc/Launcher$ExtClass loader) 扩展类装入器（sun/misc/Launcher$ExtClassLoader）
+≫   The Misc incubator package contains an eclectic collection of one-task components. Misc孵化器包包含一个挑选出来的单任务组件集合。
+≫   By default, Drupal applies style through the styles.css file in the misc directory. 在默认情况下，drupal会通过misc目录中的styles . css文件应用样式。
+
+========================================================================
+>>> miscellaneous
+------------------------------------------------------------------------
+miscellaneous    [美 'mɪsə'lenɪəs / 英 ,mɪsə'leɪnɪəs]
+adj. 混杂的，各种各样的；多方面的，多才多艺的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category. 各式各样的
+   ≫   ...a hoard of miscellaneous junk.  …五花八门的废旧物品的贮藏库。
+
+========================================================================
+>>> spectacular
+------------------------------------------------------------------------
+spectacular    [英 spek'tækjʊlə / 美 spɛk'tækjəlɚ]
+adj. 壮观的，惊人的；公开展示的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is spectacular is very impressive or dramatic. 壮观的
+   ≫   ...spectacular views of the Sugar Loaf Mountain.  …甜面包山壮观的景色。
+2. (ADV) spectacularly 可观地
+   ≫   My turnover increased spectacularly.  我的营业额大幅上升。
+3. [usu n N] A spectacular is a show or performance which is very grand and impressive. 盛大的演出
+   ≫   ...a television spectacular.  …一场盛大的电视演出。
+
+========================================================================
+>>> speculative
+------------------------------------------------------------------------
+speculative    [美 'spɛkjələtɪv / 英 'spekjʊlətɪv]
+adj. 投机的；推测的；思索性的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A piece of information that is speculative is based on guesses rather than knowledge. 猜测性的
+   ≫   The papers ran speculative stories about the mysterious disappearance of Eddie Donagan.  各报刊登了有关埃迪•多纳根神秘失踪的猜测性报道。
+2. (ADJ) Speculative is used to describe activities which involve buying goods or shares, or buildings and properties, in the hope of being able to sell them again at a higher price and make a profit. 投机性的
+   ≫   Thousands of retirees were persuaded to mortgage their homes to invest in speculative bonds.  上千的退休人员被劝说抵押他们的房子去投资投机性的债券。
+
+========================================================================
+>>> private
+------------------------------------------------------------------------
+private    [美 ˈpraɪvɪt / 英 ˈpraɪvɪt]
+adj. 私人的，私有的；私立的；私营的
+adj. 私下的，不公开的，秘密的
+adj. （场所）清静的；（人）不愿吐露心思的，内向的
+adj. 无官职的
+n. 列兵；二等兵
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] Private companies, industries, and services are owned or controlled by individuals or stockholders, rather than by the government or an official organization. 私有的
+   ≫   ...a joint venture with private industry.  …一个与私有企业合资的企业。
+   ≫   They sent their children to private schools.  他们送孩子们上私立学校。
+2. [ADV with v] privately 私有地
+   ≫   No other European country had so much state ownership and so few privately owned businesses.  没有任何别的欧洲国家有这么多的国有企业和这么少的私有企业。
+3. [ADJ n] Private individuals are acting only for themselves, and are not representing any group, company, or organization. 代表个人行事的
+   ≫   Private individuals with money to lend are more difficult to find than traditional lenders.  有钱借的个人比传统的放贷者更难找。
+   ≫   The king was on a private visit to enable him to pray at the tombs of his ancestors.  国王在做一次私访以便能祭拜其祖坟。
+4. (ADJ) Your private things belong only to you, or may only be used by you. 私人的 (财物)
+   ≫   They want more state control over private property.  他们想要对私人财产更多国家控制。
+5. (ADJ) Private places or gatherings may be attended only by a particular group of people, rather than by the general public. 不对外开放的
+   ≫   673 private golf clubs took part in a recent study.  673家不对外开放的高尔夫俱乐部参加了最近的一次调查。
+   ≫   The door is marked "Private."  门上写着“闲人免进”。
+6. (ADJ) Private meetings, discussions, and other activities involve only a small number of people, and very little information about them is given to other people. 私下的 (会晤、讨论等)
+   ≫   Don't bug private conversations, and don't buy papers that reprint them.  不要窃听私下谈话，也不要买翻印这种谈话的报纸。
+7. (ADV) privately 私下地
+   ≫   Few senior figures have issued any public statements but privately the resignation's been welcomed.  几乎没有高级人物发表过任何公开声明，但私底下辞职是受欢迎的。
+8. (ADJ) Your private life is that part of your life that is concerned with your personal relationships and activities, rather than with your work or business. 私人的 (生活)
+   ≫   I've always kept my private and professional life separate.  我一向将我的私生活和职业生涯分开。
+9. (ADJ) Your private thoughts or feelings are ones that you do not talk about to other people. 私下的 (想法、情感)
+   ≫   We all felt as if we were intruding on his private grief.  我们都觉得好像我们在触犯他的个人悲痛。
+10. (ADV) privately 私下地
+   ≫   Privately, she worries about whether she's really good enough.  私下里，她担心她是不是真的够好。
+11. (ADJ) If you describe a place as private, or as somewhere where you can be private, you mean that it is a quiet place and you can be alone there without being disturbed. 无他人打扰的 (地方)
+   ≫   It was the only reasonably private place they could find.  这是他们能找到的惟一颇不受他人打扰的地方。
+12. (ADJ) If you describe someone as a private person, you mean that they are very quiet by nature and do not reveal their thoughts and feelings to other people. 孤僻的
+   ≫   Gould was an intensely private individual.  古尔德曾是个相当孤僻的人。
+13. (N-COUNT/N-TITLE) A private is a soldier of the lowest rank in an army or the marines. 列兵
+   ≫   He was a private in the U.S. Army.  他是美国陆军中的一名列兵。
+14. → see also
+15. (PHRASE) If you do something in private, you do it without other people being present, often because it is something that you want to keep secret. 私下地
+   ≫   Some of what we're talking about might better be discussed in private.  我们正在谈论的有些事也许私下讨论更好。
+
+<<=== 2026-07-27 ===>>
