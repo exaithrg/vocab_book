@@ -11812,3 +11812,273 @@ CET4 TEM4
 <<=== 2026-07-28 ===>>
 <<=== 2026-07-29 ===>>
 <<=== 2026-07-30 ===>>
+========================================================================
+>>> routine
+------------------------------------------------------------------------
+routine    [美 rʊ'tin / 英 ruː'tiːn]
+n. [计] 程序；日常工作；例行公事
+adj. 日常的；例行的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) A routine is the usual series of things that you do at a particular time. A routine is also the practice of regularly doing things in a fixed order. 惯例; 常规
+   ≫   The players had to change their daily routine and lifestyle.  这些运动员不得不改变他们的每日常规和生活方式。
+2. (ADJ) You use routine to describe activities that are done as a normal part of a job or process. 常规的
+   ≫   ...a series of routine medical tests including X-rays and blood tests.  …一系列包括X光和验血在内的常规医学检查。
+3. [表不满] A routine situation, action, or event is one which seems completely ordinary, rather than interesting, exciting, or different. 平淡的
+   ≫   So many days are routine and uninteresting, especially in winter.  太多的日子都是平淡和无趣，尤其是在冬季。
+4. [表不满] You use routine to refer to a way of life that is uninteresting and ordinary, or hardly ever changes. 平淡乏味
+   ≫   ...the mundane routine of her life.  …她生活的平常乏味。
+5. [计算机] A routine is a computer program, or part of a program, that performs a specific function. 程序
+   ≫   ...an installation routine.  …一个安装程序。
+6. (N-COUNT) A routine is a short sequence of jokes, remarks, actions, or movements that forms part of a longer performance. (一) 套
+   ≫   ...an athletic dance routine.  …一套体育舞蹈动作。
+
+========================================================================
+>>> legacy
+------------------------------------------------------------------------
+legacy    [美 'lɛgəsi / 英 'legəsɪ]
+n. 遗赠，遗产
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A legacy is money or property which someone leaves to you when they die. 遗产
+   ≫   You could make a real difference to someone's life by leaving them a generous legacy.  你留给某人一大笔遗产就可以真正改变他的生活。
+2. (N-COUNT) A legacy of an event or period of history is something which is a direct result of it and which continues to exist after it is over. 遗留问题
+   ≫   ...a programme to overcome the legacy of inequality and injustice created by Apartheid.  …解决种族隔离引起的不平等和不公正等遗留问题的一个计划。
+
+========================================================================
+>>> curvy
+------------------------------------------------------------------------
+curvy    [英 'kɜːvɪ /  'kɜːvɪ]
+adj. 弯曲的；曲线美的（等于curvaceous）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] If someone describes a woman as curvy, they think she is attractive because of the curves of her body. 曲线美的
+
+========================================================================
+>>> outfide
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> pubic
+------------------------------------------------------------------------
+pubic    [美 'pjubɪk / 英 'pjuːbɪk]
+adj. 耻骨的；阴毛的；阴部的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Pubic means relating to the area just above a person's genitals. 生殖器上方区域的
+   ≫   ...pubic hair.  ...阴毛。
+
+========================================================================
+>>> prostitute
+------------------------------------------------------------------------
+prostitute    [美 'prɑstətut / 英 'prɒstɪtjuːt]
+vt. 使沦为妓女
+adj. 卖淫的；堕落的
+n. 妓女
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prostitute is a person, usually a woman, who has sex with men in exchange for money. 娼妓
+   ≫   He admitted last week he paid for sex with a prostitute.  他承认上星期曾和一名妓女有过性交易。
+
+========================================================================
+>>> slim
+------------------------------------------------------------------------
+slim    [美 slɪm / 英 slɪm]
+adj. 苗条的；修长的；微小的；差的
+vt. 使…体重减轻；使…苗条
+vi. 减轻体重；变细
+n. (Slim)人名；(阿拉伯)萨利姆；(英、西)斯利姆
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表赞许] A slim person has an attractively thin and well-shaped body. 苗条的; 纤细的
+   ≫   The young woman was tall and slim.  那个年轻女子个子高挑，身材苗条。
+2. (ADJ) A slim book, wallet, or other object is thinner than usual. 薄的
+   ≫   The slim booklets describe a range of services and facilities.  那些薄薄的小册子描述了一系列服务和设施。
+3. (ADJ) A slim chance or possibility is a very small one. (机会或可能性) 微小的
+   ≫   There's still a slim chance that he may become president.  仍然有微小的可能他会当上总统。
+4. [商业] If an organization slims its products or workers, it reduces the number of them that it has. 缩减
+   ≫   The company recently slimmed its product line.  该公司最近缩减了生产线。
+
+========================================================================
+>>> curvy
+------------------------------------------------------------------------
+curvy    [英 'kɜːvɪ /  'kɜːvɪ]
+adj. 弯曲的；曲线美的（等于curvaceous）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] If someone describes a woman as curvy, they think she is attractive because of the curves of her body. 曲线美的
+
+========================================================================
+>>> distress
+------------------------------------------------------------------------
+distress    [美 dɪ'strɛs / 英 dɪ'stres]
+n. 危难，不幸；贫困；悲痛
+vt. 使悲痛；使贫困
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Distress is a state of extreme sorrow, suffering, or pain. 悲痛; 疼痛
+   ≫   Jealousy causes distress and painful emotions.  嫉妒会引发悲伤和痛苦的情绪。
+2. (N-UNCOUNT) Distress is the state of being in extreme danger and needing urgent help. 危难; 危急
+   ≫   He expressed concern that the ship might be in distress.  他对船可能处在危急状态表示忧虑。
+3. (V-T) If someone or something distresses you, they cause you to be upset or worried. 使心烦; 使忧虑
+   ≫   The idea of Toni being in danger distresses him enormously.  想到托尼仍处在危险当中就使他忧心忡忡。
+
+========================================================================
+>>> canyon
+------------------------------------------------------------------------
+canyon    [英 'kænjən /  'kænjən]
+n. 峡谷
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT/N-IN-NAMES) A canyon is a long, narrow valley with very steep sides. 峡谷
+   ≫   ...the Grand Canyon.  …大峡谷。
+
+========================================================================
+>>> child
+------------------------------------------------------------------------
+child    [美 tʃaɪld / 英 tʃaɪld]
+n. 儿童，小孩，孩子；产物；子孙；幼稚的人；弟子
+n. （英）蔡尔德（人名）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A child is a human being who is not yet an adult. 小孩
+   ≫   When I was a child I lived in a country village.  小时候我住在乡村里。
+   ≫   ...a child of six.  …一个6岁的小孩。
+2. (N-COUNT) Someone's children are their sons and daughters of any age. 子女
+   ≫   How are the children?  孩子们好吗？
+   ≫   His children have left home.  他的儿女们已经离开家了。
+
+========================================================================
+>>> burning
+------------------------------------------------------------------------
+burning    [美 'bɝnɪŋ / 英 'bɜːnɪŋ]
+adj. 燃烧的；强烈的；发热的
+n. 燃烧
+vi. 燃烧（burn的现在分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) You use burning to describe something that is extremely hot. 炙热的
+   ≫   ...the burning desert of central Asia.  …中亚地区炙热的沙漠。
+2. (ADV) Burning is also an adverb. 炽热地
+3. [ADV adj] 火热地
+   ≫   He touched the boy's forehead. It was burning hot.  他摸了摸男孩的前额，热得发烫。
+4. [ADJ n] If you have a burning interest in something or a burning desire to do something, you are extremely interested in it or want to do it very much. 强烈的
+   ≫   I had a burning ambition to become a journalist.  我有强烈的愿望要成为一名记者。
+5. [ADJ n] A burning issue or question is a very important or urgent one that people feel very strongly about. 重要的; 迫切的
+   ≫   The burning question in this year's debate over the federal budget is: whose taxes should be raised?  今年联邦预算的辩论中最迫切的问题是：应该提高哪些人的税？
+
+========================================================================
+>>> garage
+------------------------------------------------------------------------
+garage    [美 gəˈrɑ:ʒ; ɡəˈrɑʒ / 英 ˈgærɑ:ʒ, ˈgærɪdʒ;]
+n. 车库；汽车修理厂；飞机库
+vt. 把……送入车库
+n. (Garage)人名；(阿拉伯)贾拉杰
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A garage is a building in which you keep a car. A garage is often built next to or as part of a house. 车库
+   ≫   They have turned the garage into a study.  他们把车库改建成了书房。
+2. (N-COUNT/N-IN-NAMES) A garage is a place where you can get your car repaired. 汽车修理厂
+   ≫   Nancy took her car to a local garage for a check-up.  南希把她的车开到一家当地的汽车修理厂检查。
+
+========================================================================
+>>> reassure
+------------------------------------------------------------------------
+reassure    [美 ,riə'ʃʊr / 英 ˌri:əˈʃɔ:(r)]
+vt. 使…安心，使消除疑虑
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you reassure someone, you say or do things to make them stop worrying about something. 使安心; 使消除疑虑
+   ≫   I tried to reassure her, "Don't worry about it. We won't let it happen again."  我尽力使她安心，“别担心，我们不会允许它再发生的。”
+
+========================================================================
+>>> infiltrated
+------------------------------------------------------------------------
+infiltrated    ['infiltreit; in'fil-]
+adj. 渗透的；浸润的
+v. （使）透过，（使）浸入（infiltrate的过去式）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If people infiltrate a place or organization, or infiltrate into it, they enter it secretly in order to spy on it or influence it. 渗入; 潜入 (某地方或组织)
+   ≫   Activists had infiltrated the student movement.  激进分子已经渗入学生运动。
+2. (N-VAR) infiltration 渗透
+   ≫   ...an inquiry into alleged infiltration by the far left group.  …一项对被指称的极左团体渗入的调查。
+3. (V-T) To infiltrate people into a place or organization means to get them into it secretly in order to spy on it or influence it. 使…渗入
+   ≫   He claimed that some countries have been trying to infiltrate their agents into the republic.  他声称有些国家一直试图使他们的特工渗入该共和国。
+
+========================================================================
+>>> drastic
+------------------------------------------------------------------------
+drastic    [美 'dræstɪk / 英 'dræstɪk; 'drɑː-]
+adj. 激烈的；猛烈的
+n. 烈性泻药
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you have to take drastic action in order to solve a problem, you have to do something extreme to solve it. 极端的
+   ≫   Drastic measures are needed to clean up the profession.  需要采取极端的措施来整顿这个行业。
+2. (ADJ) A drastic change is a very great change. 剧烈的
+   ≫   Foreign food aid has led to a drastic reduction in the numbers of people dying of starvation.  外国的食品援助使得因饥饿而死亡的人数大幅下降。
+3. [ADV with v] drastically 剧烈地
+   ≫   As a result, services have been drastically reduced.  结果，服务被大大减少了。
+
+========================================================================
+>>> hat
+------------------------------------------------------------------------
+hat    [美 hæt / 英 hæt]
+n. 帽子
+vt. 给……戴上帽子
+vi. 供应帽子；制造帽子
+n. (Hat)人名；(中)核(广东话·威妥玛)
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hat is a head covering, often with a brim around it, which is usually worn outdoors to give protection from the weather. (常指有檐的) 帽子
+   ≫   ...a plump woman in a red hat.  …一个戴红帽子的丰满女人。
+2. (N-COUNT) If you say that someone is wearing a particular hat, you mean that they are performing a particular role at that time. If you say that they wear several hats, you mean that they have several roles or jobs. 角色; 职位
+   ≫   Now I'll take off my "friend hat" and put on my "therapist hat."  现在我将从朋友的角色转为治疗专家的角色。
+3. (PHRASE) If you say that you are ready to do something at the drop of a hat, you mean that you are willing to do it immediately, without hesitating. 立刻
+   ≫   India is one part of the world I would go to at the drop of a hat.  印度是世界上我即刻就想去的一个地方。
+4. (PHRASE) If you tell someone to keep a piece of information under their hat, you are asking them not to tell anyone else about it. 保守秘密
+   ≫   Look, if I tell you something, will you promise to keep it under your hat?  喂，如果我告诉你什么事情，你能答应保守秘密吗？
+5. [表赞许] If you say that you take your hat off to someone, you mean that you admire them for something that they have done. 赞赏
+   ≫   I take my hat off to Mr. Clarke for taking this action.  我很赞赏克拉克先生采取了这样的行动。
+6. (PHRASE) To pull something out of the hat means to do something unexpected which helps you to succeed, often when you are failing. 出乎意料地获取
+   ≫   There are expectations that he'll pull a cease-fire out of a hat.  人们期望他会意外地消弭战火。
+7. (PHRASE) In competitions, if you say that the winners will be drawn or picked out of the hat, you mean that they will be chosen randomly, so everyone has an equal chance of winning. 任意抽取
+   ≫   The first 10 correct entries drawn out of the hat will win a pair of tickets, worth $30 each.  任意抽取的前10名符合要求的入围者将赢得两张入场券，每张价值$30。
+
+========================================================================
+>>> booze
+------------------------------------------------------------------------
+booze    [英 buːz /  buːz]
+n. 酒；酒宴
+vi. 豪饮；痛饮
+n. (Booze)人名；(英)布兹
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [also 'the' N] Booze is alcoholic drink. 酒
+   ≫   ...booze and cigarettes.  …酒和烟。
+2. [非正式] If people booze, they drink alcohol. 喝酒
+   ≫   ...a load of drunken businessmen who had been boozing all afternoon.  …一群整个下午都在喝酒、醉醺醺的商人。
+
+========================================================================
+>>> junk
+------------------------------------------------------------------------
+junk    [美 dʒʌŋk / 英 dʒʌŋk]
+n. 垃圾，废物；舢板
+n. (Junk)人名；(德、捷)容克
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Junk is old and used things that have little value and that you do not want any more. 废旧物品
+   ≫   Rose finds her furniture in junk shops.  罗丝在旧货店里找到她的家具。
+2. [slang] any narcotic drug, esp heroin 毒品(尤指海洛因)
+3. [非正式] If you junk something, you get rid of it or stop using it. 丢掉
+   ≫   Consumers will not have to junk their old cassettes to use the new format.  消费者们将不必为了使用新制式而丢掉他们的老盒式磁带。
+4. (N) a sailing vessel used in Chinese waters and characterized by a very high poop, flat bottom, and square sails supported by battens 中国式帆船
+
+========================================================================
+>>> tidy up
+------------------------------------------------------------------------
+tidy up    [美 ˈtaɪdi ʌp]
+整理、收拾或清理一个地方，使其变得有序或整洁：指对一个地方进行整理、收拾或清理，使其变得有序或整洁。
+tidying,tidied,tidier,tidies,tidiest
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASAL VERB) When you tidy up or tidy a place up, you put things back in their proper places so that everything is neat. 收拾 [英国英语]
+
+<<=== 2026-08-03 ===>>
