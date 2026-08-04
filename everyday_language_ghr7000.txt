@@ -12082,3 +12082,16 @@ tidying,tidied,tidier,tidies,tidiest
 1. (PHRASAL VERB) When you tidy up or tidy a place up, you put things back in their proper places so that everything is neat. 收拾 [英国英语]
 
 <<=== 2026-08-03 ===>>
+========================================================================
+>>> Empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+<<=== 2026-08-04 ===>>
