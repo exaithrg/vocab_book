@@ -12139,3 +12139,36 @@ n. 月球探测器；对月球发射
 1. (N) the launching of a spacecraft, rocket, etc, to the moon 对月发射(航天器、火箭等)
 
 <<=== 2026-08-07 ===>>
+========================================================================
+>>> errands
+------------------------------------------------------------------------
+errands    ['erənd]
+差使（errand的名词复数）
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An errand is a short trip that you make in order to do a job, for example, when you go to a shop to buy something. (短程) 差使
+   ≫   She went off on some errand.  她出去办事了。
+2. (PHRASE) If you run an errand for someone, you do or get something for them, usually by making a short trip somewhere. 跑腿
+   ≫   Run an errand for me, will you? Go find Roger for me.  替我跑跑腿好吗？帮我去找一下罗杰。
+
+========================================================================
+>>> Miscellaneous
+------------------------------------------------------------------------
+miscellaneous    [美 'mɪsə'lenɪəs / 英 ,mɪsə'leɪnɪəs]
+adj. 混杂的，各种各样的；多方面的，多才多艺的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category. 各式各样的
+   ≫   ...a hoard of miscellaneous junk.  …五花八门的废旧物品的贮藏库。
+
+========================================================================
+>>> aloha
+------------------------------------------------------------------------
+aloha    [美 ə'lohə / 英 ə'ləʊhə]
+int. 再见；欢迎；你好
+n. 爱（等于love）
+adj. 友好的；热情好客的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N/SENTENCE SUBSTITUTE) → a hawaiian word for ,
+
+<<=== 2026-08-10 ===>>
