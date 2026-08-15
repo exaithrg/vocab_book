@@ -12174,3 +12174,231 @@ adj. 友好的；热情好客的
 <<=== 2026-08-10 ===>>
 <<=== 2026-08-12 ===>>
 <<=== 2026-08-13 ===>>
+========================================================================
+>>> extant
+------------------------------------------------------------------------
+extant    [美 ɛk'stænt / 英 ɪk'stænt; ek-; 'ekst(ə)nt]
+adj. 现存的；显著的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If something is extant, it is still in existence, in spite of being very old. 现存的; 存世的
+   ≫   Two fourteenth-century manuscripts of this text are still extant.  该文本的两份十四世纪的抄本仍然存世。
+   ≫   The oldest extant document is dated 1492.  现存最古老的文件追溯到1492年。
+
+========================================================================
+>>> academics
+------------------------------------------------------------------------
+academics    [,ækə'dɛmɪk]
+n. 学术水平；学术知识；专业学者
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Academic is used to describe things that relate to the work done in schools, colleges, and universities, especially work that involves studying and reasoning rather than practical or technical skills. 学术上的
+   ≫   Their academic standards are high.  他们的学术水平很高。
+2. (ADV) academically 学术上地
+   ≫   He is academically gifted.  他在学术方面有天份。
+3. [ADJ n] Academic is used to describe things that relate to schools, colleges, and universities. 学校的
+   ≫   ...the start of the last academic year.  …上一个学年的开始。
+4. (ADJ) Academic is used to describe work, or a school, college, or university, that places emphasis on studying and reasoning rather than on practical or technical skills. 学术的
+   ≫   The author has settled for a more academic approach.  该作者已经确定了一种更学术的方法。
+5. (ADJ) Someone who is academic is good at studying. 学习好的
+   ≫   The system is failing most disastrously among less academic children.  这种制度在学习不太好的学生中最失败。
+6. (ADJ) You can say that a discussion or situation is academic if you think it is not important because it has no real effect or cannot happen. 空谈的
+   ≫   Who wants to hear about contracts and deadlines that are purely academic?  谁想听那些完全不切实际的合同和最后期限呢?
+7. (N-COUNT) An academic is a member of a university or college who teaches or does research. 学者
+   ≫   A group of academics say they can predict house prices through a computer program.  一批学者声称，他们可以通过一种电脑程序预测房价。
+
+========================================================================
+>>> lethal
+------------------------------------------------------------------------
+lethal    [英 'liːθ(ə)l / 美 'liθl]
+adj. 致命的，致死的
+n. 致死因子
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A substance that is lethal can kill people or animals. 致命的
+   ≫   ...a lethal dose of sleeping pills.  …安眠药的致命剂量。
+2. (ADJ) If you describe something as lethal, you mean that it is capable of causing a lot of damage. 危害极大的
+   ≫   Amorality and intelligence is probably the most lethal combination to be found within one personality.  缺乏道德却聪明智慧可能是同一人格中危害最大的组合。
+
+========================================================================
+>>> affiliate
+------------------------------------------------------------------------
+affiliate    [美 ə'fɪlɪet / 英 ə'fɪlɪeɪt]
+n. 联号；隶属的机构等
+vt. 使附属；接纳；使紧密联系
+vi. 参加，加入；发生联系
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] An affiliate is an organization which is officially connected with another, larger organization or is a member of it. 分支机构; 成员组织
+   ≫   The World Chess Federation has affiliates in around 120 countries.  世界象棋联盟在大约一百二十个国家内设有分支机构。
+2. [正式] If an organization affiliates with another larger organization, it forms a close connection with the larger organization or becomes a member of it. 成为隶属机构; 成为会员组织
+   ≫   He wanted to affiliate with a U.S. firm because he needed expert advice in legal affairs.  他想成为一家美国公司的会员，因为他需要法律事务方面的专家意见。
+
+========================================================================
+>>> affiliate marking
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> lyric
+------------------------------------------------------------------------
+lyric    [美 'lɪrɪk / 英 'lɪrɪk]
+adj. 抒情的；吟唱的
+n. 抒情诗；歌词
+n. (Lyric)人名；(英)利里克，利丽克(女名)
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Lyric poetry is written in a simple and direct style, and usually expresses personal emotions such as love. 抒情的 (诗歌)
+   ≫   ...Lawrence's splendid short stories and lyric poetry.  …劳伦斯出色的短篇小说和抒情诗。
+2. (N-COUNT) The lyrics of a song are its words. 歌词
+   ≫   ...Kurt Weill's Broadway opera with lyrics by Langston Hughes.  …由兰斯顿·休斯作词的库尔特·韦尔的百老汇歌剧。
+
+========================================================================
+>>> lyrics
+------------------------------------------------------------------------
+lyrics    [美 'lɪrɪks / 英 'lɪrɪks]
+n. 歌词；抒情诗（lyric的复数）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Lyric poetry is written in a simple and direct style, and usually expresses personal emotions such as love. 抒情的 (诗歌)
+   ≫   ...Lawrence's splendid short stories and lyric poetry.  …劳伦斯出色的短篇小说和抒情诗。
+2. (N-COUNT) The lyrics of a song are its words. 歌词
+   ≫   ...Kurt Weill's Broadway opera with lyrics by Langston Hughes.  …由兰斯顿·休斯作词的库尔特·韦尔的百老汇歌剧。
+
+========================================================================
+>>> manifesto‌
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> manifesto
+------------------------------------------------------------------------
+manifesto    [美 ,mænɪ'fɛsto / 英 mænɪ'festəʊ]
+n. 宣言；声明；告示
+vi. 发表宣言
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A manifesto is a statement published by a person or group of people, especially a political party, or a government, in which they say what their aims and policies are. 宣言
+   ≫   The Republicans are currently drawing up their election manifesto.  共和党人目前正在起草他们的竞选宣言。
+
+========================================================================
+>>> scipture
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> scripture
+------------------------------------------------------------------------
+scripture    [美 'skrɪptʃɚ / 英 'skrɪptʃə]
+n. （大写）圣经；手稿；（大写）圣经的一句
+n. (Scripture)人名；(英)斯克里普丘
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Scripture or the scriptures refers to writings that are regarded as holy in a particular religion, for example, the Bible in Christianity. (宗教) 圣典
+   ≫   ...a quote from scripture.  …出自圣典的引文。
+
+========================================================================
+>>> meditation
+------------------------------------------------------------------------
+meditation    [美 ,mɛdɪ'teʃən / 英 medɪ'teɪʃ(ə)n]
+n. 冥想；沉思，深思
+CET6+
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Meditation is the act of remaining in a silent and calm state for a period of time, as part of a religious training, or so that you are more able to deal with the problems of everyday life. 沉思
+   ≫   Many busy executives have begun to practise yoga and meditation.  许多工作繁忙的主管已开始练习瑜伽和冥想。
+
+========================================================================
+>>> creed
+------------------------------------------------------------------------
+creed    [美 krid / 英 kriːd]
+n. 信条，教义
+n. (Creed)人名；(英)克里德
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A creed is a set of beliefs, principles, or opinions that strongly influence the way people live or work. 信条
+   ≫   ...their devotion to their creed of self-help.  …他们对自助信条的奉献。
+2. [正式] A creed is a religion. 信仰
+   ≫   The centre is open to all, no matter what race or creed.  该中心对所有人开放，不论其种族与信仰。
+
+========================================================================
+>>> prolonged
+------------------------------------------------------------------------
+prolonged    [美 pro'lɔŋd / 英 prə'lɒŋd]
+adj. 延长的；拖延的；持续很久的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A prolonged event or situation continues for a long time, or for longer than expected. 长期的; 延长了的
+   ≫   ...a prolonged period of low interest rates.  …一段很长的低利率期。
+
+========================================================================
+>>> constitutio
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> atheist
+------------------------------------------------------------------------
+atheist    [美 'eθɪɪst / 英 'eɪθɪɪst]
+n. 无神论者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An atheist is a person who believes that there is no God. Compare . 无神论者
+
+========================================================================
+>>> majestic
+------------------------------------------------------------------------
+majestic    [美 mə'dʒɛstɪk / 英 mə'dʒestɪk]
+adj. 庄严的；宏伟的
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something or someone as majestic, you think they are very beautiful, dignified, and impressive. 壮丽的; 雄伟的
+   ≫   ...a majestic country home that once belonged to the Astor family.  …一座曾经属于阿斯特家族的漂亮的乡村住所。
+2. (ADV) majestically 壮丽地; 雄伟地
+   ≫   She rose majestically to her feet.  她端庄地站了起来。
+
+========================================================================
+>>> devotion
+------------------------------------------------------------------------
+devotion    [美 dɪ'voʃən / 英 dɪ'vəʊʃ(ə)n]
+n. 献身，奉献；忠诚；热爱
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Devotion is great love, affection, or admiration for someone. 热爱
+   ≫   At first she was flattered by his devotion.  最初他的挚爱使她感到受宠若惊。
+2. (N-UNCOUNT) Devotion is commitment to a particular activity. 献身
+   ≫   ...devotion to the cause of the people and to socialism.  …对于人民的事业和社会主义的献身。
+
+========================================================================
+>>> stoic
+------------------------------------------------------------------------
+Stoic    [英 'stəʊɪk / 美 'stoɪk]
+n. 斯多葛学派哲学家；禁欲主义者
+adj. 斯多葛派的；禁欲主义的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Stoic means the same as . 同stoical
+   ≫   The kids of Kobe try to be as stoic as their parents in this tragic situation.  神户的孩子们努力学着像他们的父母一样去坦然面对这种悲惨的情形。
+2. [正式] If you say that someone is a stoic, you approve of them because they do not complain or show they are upset in bad situations. 坦然面对困难的人
+
+========================================================================
+>>> conviciton
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> convicition
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> paradox
+------------------------------------------------------------------------
+paradox    [美 'pærədɑks / 英 'pærədɒks]
+n. 悖论，反论；似非而是的论点；自相矛盾的人或事
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) You describe a situation as a paradox when it involves two or more facts or qualities that seem to contradict each other. 自相矛盾
+   ≫   The paradox is that the region's most dynamic economies have the most primitive financial systems.  矛盾的是，该地区最具活力的经济体制有着最原始的金融体系。
+   ≫   The paradox of exercise is that while using a lot of energy it seems to generate more.  锻炼的矛盾之处在于消耗很多能量却似乎又产生更多能量。
+2. (N-VAR) A paradox is a statement in which it seems that if one part of it is true, the other part of it cannot be true. 悖论
+   ≫   The story contains many levels of paradox.  这个故事包含很多层面的悖论。
+
+<<=== 2026-08-15 ===>>
