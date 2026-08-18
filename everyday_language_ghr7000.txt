@@ -12403,3 +12403,27 @@ CET6 TEM4
 
 <<=== 2026-08-15 ===>>
 <<=== 2026-08-17 ===>>
+========================================================================
+>>> Interpretation
+------------------------------------------------------------------------
+interpretation    [美 ɪn'tɝprɪ'teʃən / 英 ɪntɜːprɪ'teɪʃ(ə)n]
+n. 解释；翻译；演出
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An interpretation of something is an opinion about what it means. 解释
+   ≫   Professor Wolfgang gives the data a very different interpretation.  沃尔夫冈教授对数据作出很不一样的解释。
+2. (N-COUNT) A performer's interpretation of something such as a piece of music or a role in a play is the particular way in which they choose to perform it. 演奏; 表演
+   ≫   ...a pianist celebrated for his interpretation of Chopin.  …一位以演奏萧邦作品而闻名的钢琴家。
+
+========================================================================
+>>> Precedent
+------------------------------------------------------------------------
+precedent    [美 'prɛsɪdənt / 英 'presɪd(ə)nt]
+n. 先例；前例
+adj. 在前的；在先的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If there is a precedent for an action or event, it has happened before, and this can be regarded as an argument for doing it again. 先例
+   ≫   The trial could set an important precedent for dealing with similar cases.  这次审判能为处理类似案件开创一个重要先例。
+
+<<=== 2026-08-18 ===>>
