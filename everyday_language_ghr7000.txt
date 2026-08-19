@@ -12427,3 +12427,16 @@ CET6 TEM4
    ≫   The trial could set an important precedent for dealing with similar cases.  这次审判能为处理类似案件开创一个重要先例。
 
 <<=== 2026-08-18 ===>>
+========================================================================
+>>> empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+<<=== 2026-08-19 ===>>
