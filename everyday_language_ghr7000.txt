@@ -12440,3 +12440,97 @@ CET6 TEM4
    ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
 
 <<=== 2026-08-19 ===>>
+========================================================================
+>>> mouse
+------------------------------------------------------------------------
+mouse    [美 maʊs / 英 maʊs]
+n. 鼠标；老鼠；胆小羞怯的人
+vt. 探出
+vi. 捕鼠；窥探
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mouse is a small, furry animal with a long tail. 鼠
+   ≫   ...a mouse running in a wheel in its cage.  …笼子里一只踩着转轮跑的老鼠。
+2. (N-COUNT) A mouse is a device that is connected to a computer. By moving it over a flat surface and pressing its buttons, you can move the cursor around the screen and do things without using the keyboard. 鼠标
+   ≫   Her message had been written; all she had to do was click the mouse.  她的信息已经写好；她要做的只是点击鼠标。
+
+========================================================================
+>>> calendar
+------------------------------------------------------------------------
+calendar    [美 'kæləndɚ / 英 'kælɪndə]
+n. 日历；[天] 历法；日程表
+vt. 将…列入表中；将…排入日程表
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A calendar is a chart or device which displays the date and the day of the week, and often the whole of a particular year divided up into months, weeks, and days. 日历
+   ≫   There was a calendar on the wall above, with large squares around the dates.  墙的上方曾有一本日历，日期框在大方格里。
+2. (N-COUNT) A calendar is a particular system for dividing time into periods such as years, months, and weeks, often starting from a particular point in history. 历法
+   ≫   The Christian calendar was originally based on the Julian calendar of the Romans.  公历最初是基于罗马的儒略历的。
+3. (N-COUNT) You can use calendar to refer to a series or list of events and activities which take place on particular dates, and which are important for a particular organization, community, or person. 日程表
+   ≫   It is one of the hottest tickets on Washington's social calendar.  这是华盛顿社交日程表上最热门的入场券之一。
+
+========================================================================
+>>> invest
+------------------------------------------------------------------------
+invest    [美 ɪn'vɛst / 英 ɪn'vest]
+vt. 投资；覆盖；耗费；授予；包围
+vi. 投资，入股；花钱买
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If you invest in something, or if you invest a sum of money, you use your money in a way that you hope will increase its value, for example, by putting it in a bank, or buying securities or property. 投 (资); 投资
+   ≫   Many people don't like to invest in stocks.  许多人不喜欢投资股票。
+   ≫   I'm tired of watching you invest our money in insane projects.  我看够了你将我们的钱投到一些荒唐的项目上。
+2. (V-T/V-I) If you invest in something useful, you buy it, because it will help you to do something more efficiently or more cheaply. 购买
+   ≫   The company has invested a six-figure sum in an electronic order-control system which is used to keep stores stocked.  这家公司已经耗资6位数购买了电子定单控制系统来为商店进货。
+3. (V-T/V-I) When a government or organization invests in something, it gives or lends money for a purpose that it considers useful or profitable. (政府或机构) 投资
+   ≫   ...the need to invest in new technology.  …这种投资于新技术的需要。
+   ≫   Government agencies must invest more funds in training and development programmes.  政府机构必须将更多的资金投入到培训和开发项目中。
+4. (V-T) If you invest time or energy in something, you spend a lot of time or energy on it because you think it will be useful or successful. 投入 (时间、精力)
+   ≫   I would rather invest time in Rebecca than in the kitchen.  我宁愿把时间花在丽贝卡身上，也不愿花在厨房里。
+5. [正式] To invest someone with rights or responsibilities means to give them those rights or responsibilities legally or officially. 赋予
+   ≫   The constitution invested him with certain powers.  宪法赋予了他一些权力。
+
+========================================================================
+>>> investigate
+------------------------------------------------------------------------
+investigate    [美 ɪn'vɛstɪɡet / 英 ɪn'vestɪgeɪt]
+v. 调查；研究
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If someone, especially an official, investigates an event, situation, or claim, they try to find out what happened or what is the truth. 调查
+   ≫   They're still investigating the accident.  他们还在调查这个事故。
+2. (N-VAR) investigation 调查
+   ≫   He ordered an investigation into the affair.  他下令对此事进行调查。
+
+========================================================================
+>>> Criteria
+------------------------------------------------------------------------
+criteria    [美 kraɪ'tɪrɪə / 英 kraɪ'tɪərɪə]
+n. 标准，条件（criterion的复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A criterion is a factor on which you judge or decide something. (判断的) 标准
+   ≫   The most important criterion for entry is that applicants must design and make their own work.  参加的最重要标准就是申请人必须设计并制作自己的作品。
+
+========================================================================
+>>> CRITERIA
+------------------------------------------------------------------------
+criteria    [美 kraɪ'tɪrɪə / 英 kraɪ'tɪərɪə]
+n. 标准，条件（criterion的复数）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A criterion is a factor on which you judge or decide something. (判断的) 标准
+   ≫   The most important criterion for entry is that applicants must design and make their own work.  参加的最重要标准就是申请人必须设计并制作自己的作品。
+
+========================================================================
+>>> Precedent
+------------------------------------------------------------------------
+precedent    [美 'prɛsɪdənt / 英 'presɪd(ə)nt]
+n. 先例；前例
+adj. 在前的；在先的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If there is a precedent for an action or event, it has happened before, and this can be regarded as an argument for doing it again. 先例
+   ≫   The trial could set an important precedent for dealing with similar cases.  这次审判能为处理类似案件开创一个重要先例。
+
+<<=== 2026-08-21 ===>>
