@@ -12628,3 +12628,102 @@ CET4 TEM4
 
 <<=== 2026-08-25 ===>>
 <<=== 2026-08-26 ===>>
+========================================================================
+>>> ragged
+------------------------------------------------------------------------
+ragged    [美 'ræɡɪd / 英 'rægɪd]
+vt.
+
+rag1的变形
+ rag2的变形
+ rag4的变形
+adj.
+
+褴褛的，破旧的；(衣衫)褴褛的
+ (表面)高低不平的；(边缘)参差不齐的
+ 乱蓬蓬的；未梳理的
+ 粗糙的；不协调的；不完美的
+ (声音)刺耳的；(嗓门)粗的；沙哑的
+ 精疲力竭的
+短语:
+
+
+                                                                        be run ragged
+                                                                因过度使用而破旧
+
+                                                                        run someone ragged
+                                                                使某人精疲力竭
+
+========================================================================
+>>> mount
+------------------------------------------------------------------------
+mount    [美 maʊnt / 英 maʊnt]
+vt. 增加；爬上；使骑上马；安装，架置；镶嵌，嵌入；准备上演；成立（军队等）
+vi. 爬；增加；上升
+n. 山峰；底座；乘骑用马；攀，登；运载工具；底座
+n. （英）芒特（人名）
+v. 登上；骑上
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you mount a campaign or event, you organize it and make it take place. 组织; 发动
+   ≫   The ANC announced it was mounting a major campaign of mass political protests.  非国大宣布正在发动一场大型群众性政治抗议运动。
+2. (V-I) If something mounts, it increases in intensity. 增强
+   ≫   For several hours, tension mounted.  几个小时中，紧张局势加剧了。
+3. (V-I) If something mounts, it increases in quantity. 增加
+   ≫   The uncollected rubbish mounts in city streets.  城市街道中未被收集的垃圾增多。
+4. (PHRASAL VERB) To mount up means the same as to . 增加
+   ≫   Her medical bills mounted up.  她的医疗账单越来越多。
+5. [正式] If you mount the stairs or a platform, you go up the stairs or go up onto the platform. 登上
+   ≫   Larry was mounting the stairs up into the attic.  拉里正在拾级而上到阁楼去。
+6. (V-T) If you mount a horse or motorcycle, you climb on to it so that you can ride it. 骑上
+   ≫   A man in a crash helmet was mounting a motorcycle.  一个戴着防撞头盔的男子正骑上一辆摩托车。
+7. (V-T) If you mount an object on something, you fix it there firmly. 安装
+   ≫   Her husband mounts the work on velour paper and makes the frame.  她丈夫把作品装裱到丝绒纸上，又做了框架。
+8. (COMB in ADJ) -mounted 安装在…上的
+   ≫   She installed a wall-mounted electric fan.  她装了一台墙壁式电扇。
+9. (V-T) If you mount an exhibition or display, you organize and present it. 举办
+   ≫   The gallery has mounted an exhibition of art by Irish women painters.  这家画廊已经举办过一次爱尔兰女画家们的艺术作品展。
+10. (N-IN-NAMES) Mount is used as part of the name of a mountain. (冠于山名之前) 山
+   ≫   ...Mount Everest.  …珠穆朗玛峰。
+11. (N) a backing, setting, or support onto which something is fixed (固定东西的)背板; 底座; 支架
+12. → see also
+
+========================================================================
+>>> 验收
+------------------------------------------------------------------------
+验收
+check and accept ; acceptance check ; acceptance inspection ; examine and receive
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Acceptance tests are motivated by the highest form of the use case. 验收测试则由用例的最高形式触发的。
+≫   This exposure does not interfere with unit or acceptance tester objectives. 这种接触没有干涉单元或者验收测试目标。
+≫   The goods have sampled out. 这些货物已抽样验收过了。
+
+========================================================================
+>>> percedent
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> precedent
+------------------------------------------------------------------------
+precedent    [美 'prɛsɪdənt / 英 'presɪd(ə)nt]
+n. 先例；前例
+adj. 在前的；在先的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If there is a precedent for an action or event, it has happened before, and this can be regarded as an argument for doing it again. 先例
+   ≫   The trial could set an important precedent for dealing with similar cases.  这次审判能为处理类似案件开创一个重要先例。
+
+========================================================================
+>>> interpretation
+------------------------------------------------------------------------
+interpretation    [美 ɪn'tɝprɪ'teʃən / 英 ɪntɜːprɪ'teɪʃ(ə)n]
+n. 解释；翻译；演出
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An interpretation of something is an opinion about what it means. 解释
+   ≫   Professor Wolfgang gives the data a very different interpretation.  沃尔夫冈教授对数据作出很不一样的解释。
+2. (N-COUNT) A performer's interpretation of something such as a piece of music or a role in a play is the particular way in which they choose to perform it. 演奏; 表演
+   ≫   ...a pianist celebrated for his interpretation of Chopin.  …一位以演奏萧邦作品而闻名的钢琴家。
+
+<<=== 2026-08-27 ===>>
