@@ -12727,3 +12727,166 @@ CET4 TEM4
    ≫   ...a pianist celebrated for his interpretation of Chopin.  …一位以演奏萧邦作品而闻名的钢琴家。
 
 <<=== 2026-08-27 ===>>
+========================================================================
+>>> ragged
+------------------------------------------------------------------------
+ragged    [美 'ræɡɪd / 英 'rægɪd]
+vt.
+
+rag1的变形
+ rag2的变形
+ rag4的变形
+adj.
+
+褴褛的，破旧的；(衣衫)褴褛的
+ (表面)高低不平的；(边缘)参差不齐的
+ 乱蓬蓬的；未梳理的
+ 粗糙的；不协调的；不完美的
+ (声音)刺耳的；(嗓门)粗的；沙哑的
+ 精疲力竭的
+短语:
+
+
+                                                                        be run ragged
+                                                                因过度使用而破旧
+
+                                                                        run someone ragged
+                                                                使某人精疲力竭
+
+========================================================================
+>>> metrics
+------------------------------------------------------------------------
+metrics    [美 'mɛtrɪks / 英 'metrɪks]
+n. 度量；作诗法；韵律学
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [prosody] the art of using poetic metre 诗韵
+
+========================================================================
+>>> metrcs
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> sedan
+------------------------------------------------------------------------
+sedan    [美 sɪ'dæn / 英 sɪ'dæn]
+n. 轿车；轿子
+n. (Sedan)人名；(英)塞丹
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [美国英语] A sedan is a car with seats for four or more people, a fixed roof, and a boot that is separate from the part of the car that you sit in. 箱式小货车
+
+========================================================================
+>>> president
+------------------------------------------------------------------------
+president    [英 'prezɪd(ə)nt / 美 'prɛzɪdənt]
+n. 总统；董事长；校长；主席
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft 'the' N; N-VOC] The president of a country that has no king or queen is the person who is the head of state of that country. 总统
+   ≫   ...President Mubarak.  …穆巴拉克总统。
+2. (N-COUNT) The president of an organization is the person who has the highest position in it. (某组织的) 最高权力人
+   ≫   ...Alexandre de Merode, the president of the medical commission.  …亚历山大·德梅罗德，医学委员会主席。
+
+========================================================================
+>>> precedent
+------------------------------------------------------------------------
+precedent    [英 'presɪd(ə)nt / 美 'prɛsɪdənt]
+n. 先例；前例
+adj. 在前的；在先的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If there is a precedent for an action or event, it has happened before, and this can be regarded as an argument for doing it again. 先例
+   ≫   The trial could set an important precedent for dealing with similar cases.  这次审判能为处理类似案件开创一个重要先例。
+
+========================================================================
+>>> calendar
+------------------------------------------------------------------------
+calendar    [美 'kæləndɚ / 英 'kælɪndə]
+n. 日历；[天] 历法；日程表
+vt. 将…列入表中；将…排入日程表
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A calendar is a chart or device which displays the date and the day of the week, and often the whole of a particular year divided up into months, weeks, and days. 日历
+   ≫   There was a calendar on the wall above, with large squares around the dates.  墙的上方曾有一本日历，日期框在大方格里。
+2. (N-COUNT) A calendar is a particular system for dividing time into periods such as years, months, and weeks, often starting from a particular point in history. 历法
+   ≫   The Christian calendar was originally based on the Julian calendar of the Romans.  公历最初是基于罗马的儒略历的。
+3. (N-COUNT) You can use calendar to refer to a series or list of events and activities which take place on particular dates, and which are important for a particular organization, community, or person. 日程表
+   ≫   It is one of the hottest tickets on Washington's social calendar.  这是华盛顿社交日程表上最热门的入场券之一。
+
+========================================================================
+>>> Finance
+------------------------------------------------------------------------
+finance    [英 faɪ'næns; fɪ-; 'faɪnæns / 美 'faɪnæns]
+n. 财政，财政学；金融
+vt. 负担经费，供给…经费
+vi. 筹措资金
+n. (Finance)人名；(法)菲南斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When someone finances something such as a project or a purchase, they provide the money that is needed to pay for them. 资助
+   ≫   The fund has been used largely to finance the construction of federal prisons.  该基金大部分已用于资助联邦监狱的建造。
+2. (N-UNCOUNT) Finance is also a noun. 资助
+   ≫   A United States delegation is in Japan seeking finance for a major scientific project.  1个美国代表团正在日本为一个重大科研项目寻求资助。
+3. [also N in pl] Finance is the commercial or government activity of managing money, debt, credit, and investment. 金融; 财政
+   ≫   ...a major player in the world of high finance.  …高层金融界的大腕。
+   ≫   The report recommends an overhaul of public finances.  这份报告建议对公共财政进行彻底检视。
+4. [also N in pl] You can refer to the amount of money that you have and how well it is organized as your finances. 财务状况
+   ≫   Be prepared for unexpected news concerning your finances.  对关于你财务状况的意外消息要做好准备。
+
+========================================================================
+>>> Finance
+------------------------------------------------------------------------
+finance    [美 'faɪnæns / 英 faɪ'næns; fɪ-; 'faɪnæns]
+n. 财政，财政学；金融
+vt. 负担经费，供给…经费
+vi. 筹措资金
+n. (Finance)人名；(法)菲南斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When someone finances something such as a project or a purchase, they provide the money that is needed to pay for them. 资助
+   ≫   The fund has been used largely to finance the construction of federal prisons.  该基金大部分已用于资助联邦监狱的建造。
+2. (N-UNCOUNT) Finance is also a noun. 资助
+   ≫   A United States delegation is in Japan seeking finance for a major scientific project.  1个美国代表团正在日本为一个重大科研项目寻求资助。
+3. [also N in pl] Finance is the commercial or government activity of managing money, debt, credit, and investment. 金融; 财政
+   ≫   ...a major player in the world of high finance.  …高层金融界的大腕。
+   ≫   The report recommends an overhaul of public finances.  这份报告建议对公共财政进行彻底检视。
+4. [also N in pl] You can refer to the amount of money that you have and how well it is organized as your finances. 财务状况
+   ≫   Be prepared for unexpected news concerning your finances.  对关于你财务状况的意外消息要做好准备。
+
+========================================================================
+>>> prejudice
+------------------------------------------------------------------------
+prejudice    [美 'prɛdʒədɪs / 英 'predʒʊdɪs]
+n. 偏见；侵害
+vt. 损害；使有偏见
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Prejudice is an unreasonable dislike of a particular group of people or things, or a preference for one group of people or things over another. 偏见
+   ≫   There was a deep-rooted racial prejudice long before the two countries went to war.  早在两国交战之前就有了根深蒂固的种族偏见。
+   ≫   There is widespread prejudice against workers over 45.  对年龄超过45岁的工人有普遍的偏见。
+2. (V-T) If you prejudice someone or something, you influence them so that they are unfair in some way. 使…有偏见
+   ≫   I think your upbringing has prejudiced you.  我认为你的教养使你抱有偏见。
+   ≫   The report was held back for fear of prejudicing his trial.  因为担心会使他的审判带有偏见，该报告没有公开。
+3. [正式] If someone prejudices another person's situation, they do something that makes it worse than it should be. 损害
+   ≫   Her study was not in any way intended to prejudice the future development of the college.  她的研究绝对无意损害该学院的未来发展。
+
+========================================================================
+>>> neutrajized
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> neutralized
+------------------------------------------------------------------------
+neutralized    ['nju:trəlaiz]
+adj. 中立化的
+v. 中立化（neutralize的过去式和过去分词）
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To neutralize something means to prevent it from having any effect or from working properly. 使无效; 使不能正常运作
+   ≫   The U.S. is trying to neutralize the resolution in the UN Security Council.  美国试图在联合国安理会阻止该决议的通过。
+2. (V-T) When a chemical substance neutralizes an acid, it makes it less acid. 中和
+   ≫   Antacids are alkaline and they relieve pain by neutralizing acid in the contents of the stomach.  抗酸剂是碱性的，它们通过中和胃容物中的酸来缓解疼痛。
+
+<<=== 2026-08-31 ===>>
