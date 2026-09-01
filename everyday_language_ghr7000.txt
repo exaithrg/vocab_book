@@ -12890,3 +12890,34 @@ CET6
    ≫   Antacids are alkaline and they relieve pain by neutralizing acid in the contents of the stomach.  抗酸剂是碱性的，它们通过中和胃容物中的酸来缓解疼痛。
 
 <<=== 2026-08-31 ===>>
+========================================================================
+>>> calibrated
+------------------------------------------------------------------------
+calibrated    ['kælə,bret]
+v. 校准（calibrate的过去分词）；校准使...标准化
+adj. 标刻度的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately. 校准
+   ≫   ...instructions on how to calibrate a thermometer.  …校准温度计的说明。
+
+========================================================================
+>>> heuristic
+------------------------------------------------------------------------
+heuristic    [美 hjʊ'rɪstɪk / 英 ,hjʊ(ə)'rɪstɪk]
+adj. 启发式的；探索的
+n. 启发式教育法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的
+2. [计算机] A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 → see also
+
+========================================================================
+>>> heuristic
+------------------------------------------------------------------------
+heuristic    [美 hjʊ'rɪstɪk / 英 ,hjʊ(ə)'rɪstɪk]
+adj. 启发式的；探索的
+n. 启发式教育法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] A heuristic method of learning involves discovery and problem solving, using reasoning and past experience. (学习方法)启发式的
+2. [计算机] A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 → see also
+
+<<=== 2026-09-01 ===>>
