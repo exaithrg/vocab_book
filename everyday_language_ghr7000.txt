@@ -12921,3 +12921,27 @@ n. 启发式教育法
 2. [计算机] A heuristic computer program uses rules based on previous experience in order to solve a problem, rather than using a mathematical procedure. (计算机程序凭借以往经验)试探性的 → see also
 
 <<=== 2026-09-01 ===>>
+========================================================================
+>>> drone
+------------------------------------------------------------------------
+drone    [美 dron / 英 drəʊn]
+n. 雄蜂；嗡嗡的声音；懒惰者
+n. 无人机（非正式）
+vi. 嗡嗡作声；混日子
+vt. 低沉地说
+n. n. (Drone)人名；(法)德罗纳
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If something drones, it makes a low, continuous, dull noise. 发出单调连续的低鸣
+   ≫   Above him an invisible plane droned through the night sky.  在他头顶上空一架隐形飞机飞过夜空，不断发出低沉单调的声音。
+2. (N-SING) Drone is also a noun. 连续单调的低鸣
+   ≫   I hear the drone of an aeroplane as it banks across the bay.  飞机倾斜飞过海湾时，我听到它单调的低鸣。
+3. [表不满] If you say that someone drones, you mean that they keep talking about something in a boring way. 唠叨
+   ≫   Chambers' voice droned, maddening as an insect around his head.  钱伯斯唠唠叨叨，那声音像一只飞虫绕着他的头打转般令人发狂。
+4. (N-SING) Drone is also a noun. 唠叨
+   ≫   The minister's voice was a relentless drone.  该大臣的声音是无休止的絮叨。
+5. (PHRASAL VERB) Drone on means the same as . drone on同drone
+   ≫   Aunt Maimie's voice droned on.  麦密婶婶的声音唠叨个不休。
+6. (N) a male bee in a colony of social bees, whose sole function is to mate with the queen 雄蜂
+
+<<=== 2026-09-02 ===>>
