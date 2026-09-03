@@ -12945,3 +12945,45 @@ TEM8
 6. (N) a male bee in a colony of social bees, whose sole function is to mate with the queen 雄蜂
 
 <<=== 2026-09-02 ===>>
+========================================================================
+>>> intuition
+------------------------------------------------------------------------
+intuition    [美 ,ɪntu'ɪʃən / 英 ɪntjʊ'ɪʃ(ə)n]
+n. 直觉；直觉力；直觉的知识
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Your intuition or your intuitions are unexplained feelings that something is true even when you have no evidence or proof of it. 直觉
+   ≫   Her intuition was telling her that something was wrong.  她的直觉在告诉她事情有些不对头。
+
+========================================================================
+>>> deliberation
+------------------------------------------------------------------------
+deliberation    [美 dɪ,lɪbə'reʃən / 英 dɪ,lɪbə'reɪʃ(ə)n]
+n. 审议；考虑；从容；熟思
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Deliberation is the long and careful consideration of a subject. 仔细的考虑
+   ≫   In this house nothing is there by chance: it is always the result of great deliberation.  在这房子里，没有什么东西是偶然的——总是非常仔细考虑后的结果。
+2. (N-PLURAL) Deliberations are formal discussions where an issue is considered carefully. 审议
+   ≫   Their deliberations were rather inconclusive.  他们的审议没有什么结论。
+
+========================================================================
+>>> paradoxically
+------------------------------------------------------------------------
+paradoxically    [,pærə'dɔksikəli / 英 ,pærə'dɔksikəli]
+adv. 自相矛盾地；似非而是地；反常地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Your point about a player driving the narrative of war games is interesting, but paradoxically this makes those games less realistic. 你对一个玩家驾驶的战争游戏很有趣,但是自相矛盾的是,这使得那些游戏不真实。
+≫   The new findings fit into a larger pattern of misuse of defibrillators: paradoxically, previous research has also found that many people who need defibrillators do not get them. 这项新发现展现出一个心脏除颤器被大规模滥用的现状，颇为自相矛盾的是，此前的研究还发现许多需要者却未能获得。
+≫   Paradoxically, they must be fiercely independent, yet able to collaborate well with others. 矛盾的是，他们必须是完全独立的，但又能够与他人合作。
+
+========================================================================
+>>> crucially
+------------------------------------------------------------------------
+crucially    ['kru:ʃiəli / 英 'kru:ʃiəli]
+adv. 关键地；至关重要地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Crucially, though, the demon need pump no energy into the rotor, only information about the position of the rotor, which it uses to switch the field. 至关重要的是妖魔并没有把能量提供给转子，只是用了转子自己位置的信息，它被用来切换电场。
+≫   Objects can be things, but crucially they can also do things. 对象可以是东西，但关键在于它们还可以做事情。
+
+<<=== 2026-09-03 ===>>
