@@ -12987,3 +12987,102 @@ adv. 关键地；至关重要地
 ≫   Objects can be things, but crucially they can also do things. 对象可以是东西，但关键在于它们还可以做事情。
 
 <<=== 2026-09-03 ===>>
+========================================================================
+>>> anthropic
+------------------------------------------------------------------------
+anthropic    [美 æn'θrɑpɪk / 英 æn'θrɒpɪk]
+adj. 有关人类的，人类的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) of or relating to human beings 人类的
+
+========================================================================
+>>> Counterfactual
+------------------------------------------------------------------------
+counterfactual    [美 ,kaʊntɚ'fæktʃuəl / 英 ,kaʊntə'fæktʃʊəl; -tjʊəl]
+adj. 反事实的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) expressing what has not happened but could, would, or might under differing conditions 反事实的; 指在不同条件下有可能发生但违反现存事实的
+2. (N) a conditional statement in which the first clause is a past tense subjunctive statement expressing something contrary to fact, as in 虚拟的(陈述)
+   ≫   if she had hurried she would have caught the bus  
+
+========================================================================
+>>> Diagnosis
+------------------------------------------------------------------------
+diagnosis    [美 ,daɪəɡ'nosɪs / 英 ,daɪəg'nəʊsɪs]
+n. 诊断
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Diagnosis is the discovery and naming of what is wrong with someone who is ill or with something that is not working properly. 诊断
+   ≫   I need to have a second test to confirm the diagnosis.  我需要复查来确诊。
+
+========================================================================
+>>> empirical
+------------------------------------------------------------------------
+empirical    [美 ɪm'pɪrɪkl / 英 em'pɪrɪk(ə)l; ɪm-]
+adj. 经验主义的，完全根据经验的；实证的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Empirical evidence or study relies on practical experience rather than theories. 实证的
+   ≫   There is no empirical evidence to support his thesis.  没有实证根据来支持他的论点。
+2. (ADV) empirically 实证地
+   ≫   They approached this part of their task empirically.  他们实证地处理这部分任务。
+
+========================================================================
+>>> peer
+------------------------------------------------------------------------
+peer    [美 pɪr / 英 pɪə]
+n. 贵族；同等的人；同龄人
+vi. 凝视，盯着看；窥视
+vt. 封为贵族；与…同等
+n. (Peer)人名；(英、巴基)皮尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you peer at something, you look at it very hard, usually because it is difficult to see clearly. 费力地看; 盯着
+   ≫   I had been peering at a computer print-out that made no sense at all.  我一直在费力地看一份不知所云的电脑打印稿。
+2. (N-COUNT) Your peers are the people who are the same age as you or who have the same status as you. 同龄人; 同等地位的人
+   ≫   His engaging personality made him popular with his peers.  他迷人的个性使他很受同龄人欢迎。
+3. (N) a member of a nobility; nobleman 贵族
+
+========================================================================
+>>> astra
+------------------------------------------------------------------------
+ASTRA
+abbr. 高级静态测试记录器（Advanced Static Test Recording Apparatus）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We might not go that far, but we can say that Astra is a solid multi-protocol IM client. 尽管还没有进行深度测试，但我们可以说Astra是一款不错的多协议即时通讯客户端。
+≫   Despite having 40 themes to choose from, I just couldn't get comfortable with Astra's UI. 尽管有40款主题可供选择，可我实在没觉得Astra的用户界面很舒服。
+≫   The company is also funded by government agencies, foundations and corporations including Astra Zeneca and McDonald's, according to its website. 据其网站介绍，该公司同时也受到美国政府机构，基金会和包括阿斯利康(Astra Zeneca)和麦当劳在内的公司资助。
+
+========================================================================
+>>> headroom
+------------------------------------------------------------------------
+headroom    [英 'hedruːm; -rʊm / 美 'hɛdrum]
+n. 净空；净空高度；头上空间
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Headroom is the amount of space below a roof or bridge. (屋顶或桥下的)净空
+   ≫   The forecabin, with 6ft headroom, also has plenty of room to stand and get dressed.  有6英尺净空的前舱也有足够大的空间供人站立和穿衣。
+
+========================================================================
+>>> perturbation
+------------------------------------------------------------------------
+perturbation    [美 ,pɝtɚ'beʃən / 英 ,pɜːtə'beɪʃ(ə)n]
+n. [数][天] 摄动；不安；扰乱
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] A perturbation is a small change in the movement, quality, or behaviour of something, especially an unusual change. (尤指不寻常的)小变化
+   ≫   ...perturbations in Jupiter's gravitational field.  ...木星重力场的微小变化。
+2. [正式] Perturbation is worry caused by some event. 忧虑; 不安
+   ≫   This message caused perturbation in the Middle East Headquarters.  这个消息在中东总部引起了不安。
+
+========================================================================
+>>> Census
+------------------------------------------------------------------------
+census    [美 'sɛnsəs / 英 'sensəs]
+vt. 实施统计调查
+n. 人口普查，人口调查
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A census is an official survey of the population of a country that is carried out in order to find out how many people live there and to obtain details of such things as people's ages and jobs. 人口普查
+   ≫   The detailed assessment of the latest census will be ready in three months.  有关最新人口普查的详细评估工作将在3个月内就绪。
+
+<<=== 2026-09-04 ===>>
