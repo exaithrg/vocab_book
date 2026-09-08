@@ -13087,3 +13087,43 @@ CET6 TEM4
 
 <<=== 2026-09-04 ===>>
 <<=== 2026-09-07 ===>>
+========================================================================
+>>> provenance
+------------------------------------------------------------------------
+provenance    [美 'prɑvənəns / 英 'prɒv(ə)nəns]
+n. 出处，起源
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with poss] The provenance of something is the place that it comes from or that it originally came from. 出处
+   ≫   Kato was fully aware of the provenance of these treasures.  卡托对这些珍宝的出处全都了如指掌。
+
+========================================================================
+>>> provenance
+------------------------------------------------------------------------
+provenance    [英 'prɒv(ə)nəns / 美 'prɑvənəns]
+n. 出处，起源
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with poss] The provenance of something is the place that it comes from or that it originally came from. 出处
+   ≫   Kato was fully aware of the provenance of these treasures.  卡托对这些珍宝的出处全都了如指掌。
+
+========================================================================
+>>> morphism
+------------------------------------------------------------------------
+morphism    [英 ˈmɔːfɪzəm]
+n. [数] 态射；形态主义
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫    
+≫   In Chapter 2, we discussed the applications of homotopy regular morphism. 第二章讨论同伦正则态射的应用。
+≫   The weighted star ordering in morphism set over a category is introduced. 引进范畴上态射集中的加权星序。
+
+========================================================================
+>>> saturation
+------------------------------------------------------------------------
+saturation    [美 'sætʃə'reʃən / 英 sætʃə'reɪʃ(ə)n]
+n. 饱和；色饱和度；浸透；磁化饱和
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Saturation is the process or state that occurs when a place or thing is filled completely with people or things, so that no more can be added. 饱和
+   ≫   Japanese car makers have been equally blind to the saturation of their markets at home and abroad.  日本的汽车制造商对国内外市场的饱和同样视而不见。
+2. [ADJ n] Saturation is used to describe a campaign or other activity that is carried out very thoroughly, so that nothing is missed. (运动、活动) 彻底的
+   ≫   The concept of saturation marketing makes perfect sense.  饱和营销的概念很有道理。
+
+<<=== 2026-09-08 ===>>
