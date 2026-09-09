@@ -13127,3 +13127,52 @@ n. 饱和；色饱和度；浸透；磁化饱和
    ≫   The concept of saturation marketing makes perfect sense.  饱和营销的概念很有道理。
 
 <<=== 2026-09-08 ===>>
+========================================================================
+>>> deprecated
+------------------------------------------------------------------------
+deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+
+========================================================================
+>>> saturation
+------------------------------------------------------------------------
+saturation    [英 sætʃə'reɪʃ(ə)n / 美 'sætʃə'reʃən]
+n. 饱和；色饱和度；浸透；磁化饱和
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Saturation is the process or state that occurs when a place or thing is filled completely with people or things, so that no more can be added. 饱和
+   ≫   Japanese car makers have been equally blind to the saturation of their markets at home and abroad.  日本的汽车制造商对国内外市场的饱和同样视而不见。
+2. [ADJ n] Saturation is used to describe a campaign or other activity that is carried out very thoroughly, so that nothing is missed. (运动、活动) 彻底的
+   ≫   The concept of saturation marketing makes perfect sense.  饱和营销的概念很有道理。
+
+========================================================================
+>>> deluxe
+------------------------------------------------------------------------
+deluxe    [美 dɪˈlʌks; / 英 dəˈlʌks]
+adj. 高级的；豪华的，奢华的
+adv. 豪华地
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n, n ADJ] Deluxe goods or services are better in quality and more expensive than ordinary ones. 高级的; 奢华的
+   ≫   ...a rare, highly prized deluxe wine.  …一瓶罕见的名贵葡萄酒。
+
+========================================================================
+>>> founder
+------------------------------------------------------------------------
+founder    [英 'faʊndə(r) / 美 'faʊndɚ]
+vi. 失败；沉没；倒塌；变跛
+vt. 破坏；使摔倒；垮掉
+n. 创始人；建立者；翻沙工
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The founder of an institution, organization, or building is the person who got it started or caused it to be built, often by providing the necessary money. 创建人
+   ≫   He was one of the founders of the university's medical faculty.  他是该大学医学院的创建人之一。
+2. (N) a person who makes metal castings 浇铸工
+3. (N) (in combination) 制造(某种)金属铸件的人
+   ≫   an iron founder  
+4. (V-I) If something such as a plan or project founders, it fails because of a particular point, difficulty, or problem. 失败
+   ≫   The talks have foundered, largely because of the reluctance of some members of the government to do a deal with criminals.  会谈已经搁浅了，主要是因为一些政府成员不愿意和罪犯们达成协议。
+5. (V) (of a ship) to sink (船只)沉没
+
