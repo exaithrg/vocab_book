@@ -13176,3 +13176,72 @@ n. 创始人；建立者；翻沙工
    ≫   The talks have foundered, largely because of the reluctance of some members of the government to do a deal with criminals.  会谈已经搁浅了，主要是因为一些政府成员不愿意和罪犯们达成协议。
 5. (V) (of a ship) to sink (船只)沉没
 
+========================================================================
+>>> manifest
+------------------------------------------------------------------------
+manifest    [美 'mænɪfɛst / 英 'mænɪfest]
+vt. 证明，表明；显示
+vi. 显示，出现
+n. 载货单，货单；旅客名单
+adj. 显然的，明显的；明白的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you say that something is manifest, you mean that it is clearly true and that nobody would disagree with it if they saw it or considered it. 明显的
+   ≫   ...the manifest failure of the policies.  …这些政策明显的失败。
+2. (ADV) manifestly 明显地
+   ≫   She manifestly failed to last the mile-and-a-half of the race.  她显然没有跑完1.5英里的比赛。
+3. [正式] If you manifest a particular quality, feeling, or illness, or if it manifests itself, it becomes visible or obvious. 显现出
+   ≫   He manifested a pleasing personality on stage.  他在舞台上表现出讨人喜欢的个性。
+   ≫   The virus needs two weeks to manifest itself.  这种病毒需要两周才能发作。
+4. (ADJ) Manifest is also an adjective. 显现出的
+   ≫   The same alarm is manifest everywhere.  同样的恐慌在各地都已出现。
+
+========================================================================
+>>> diagnostic
+------------------------------------------------------------------------
+diagnostic    [美 ,daɪəɡ'nɑstɪk / 英 daɪəg'nɒstɪk]
+adj. 诊断的；特征的
+n. 诊断法；诊断结论
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Diagnostic equipment, methods, or systems are used for discovering what is wrong with people who are ill or with things that do not work properly. 诊断的
+   ≫   ...X-rays and other diagnostic tools.  …X光和其他诊断工具。
+
+========================================================================
+>>> rigorous
+------------------------------------------------------------------------
+rigorous    [美 'rɪɡərəs / 英 'rɪg(ə)rəs]
+adj. 严格的，严厉的；严密的；严酷的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A test, system, or procedure that is rigorous is very thorough and strict. (测试、制度、程序) 严格缜密的
+   ≫   The selection process is based on rigorous tests of competence and experience.  挑选过程是建立在对能力和经验严格缜密的考核的基础之上的。
+2. (ADV) rigorously 严格缜密地
+   ≫   ...rigorously conducted research.  …严格进行的研究。
+3. (ADJ) If someone is rigorous in the way that they do something, they are very careful and thorough. 一丝不苟的; 缜密的
+   ≫   He is rigorous in his control of expenditure.  他在控制开支方面一丝不苟。
+
+========================================================================
+>>> orojenesis
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Snowcat
+------------------------------------------------------------------------
+snowcat    [美 ˈsnoʊkæt / 英 ˈsnəʊkæt]
+n. 雪地履带式车辆
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He had indeed tamed a snowcat once, but that had been many years ago, and they had parted in peace when the wild thing had returned to its nature. 他以前曾经驯服过一只雪豹，但那已经是很多年前的事了，而且最后他们在和平的状态下分手，那头野兽回到了丛林中。
+
+========================================================================
+>>> Unveiling
+------------------------------------------------------------------------
+unveiling    [,ʌn'veɪlɪŋ / 英 ,ʌn'veɪlɪŋ]
+adj. 揭幕的
+n. 除去遮盖物；公开；揭幕式
+v. 揭示；除去面纱（unveil的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a ceremony involving the removal of a veil at the formal presentation of a statue, monument, etc, for the first time 揭幕仪式
+
+<<=== 2026-09-10 ===>>
