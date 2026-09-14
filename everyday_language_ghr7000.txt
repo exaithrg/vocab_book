@@ -13245,3 +13245,89 @@ v. 揭示；除去面纱（unveil的ing形式）
 1. (N) a ceremony involving the removal of a veil at the formal presentation of a statue, monument, etc, for the first time 揭幕仪式
 
 <<=== 2026-09-10 ===>>
+========================================================================
+>>> prince
+------------------------------------------------------------------------
+prince    [美 prɪns / 英 prɪns]
+n. 王子，国君；亲王；贵族
+n. (Prince)人名；(英、葡)普林斯；(法)普兰斯；
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-TITLE/N-COUNT) A prince is a male member of a royal family, especially the son of the king or queen of a country. 王子
+   ≫   ...Prince Edward and other royal guests.  …爱德华王子和其他王室贵宾。
+2. (N-TITLE/N-COUNT) A prince is the male royal ruler of a small country or state. (小国的) 君王
+   ≫   He was speaking without the prince's authority.  他在未经君王许可而发言。
+
+========================================================================
+>>> isomorphism
+------------------------------------------------------------------------
+isomorphism    [美 ˌaɪsoʊˈmɔːrfɪzəm; ˌaɪsəˈmɔːrˌfɪzəm / 英 ˌaɪsəʊˈmɔːfɪzəm]
+n. （数学）同构；类质同象，类质同像，类质同晶；（生物学）同形
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) similarity of form, as in different generations of the same life cycle 同形性; 同态性 [biology]
+
+========================================================================
+>>> lineage
+------------------------------------------------------------------------
+lineage    [美 'lɪnɪɪdʒ / 英 'lɪnɪɪdʒ]
+n. 血统；家系，[遗] 世系
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Someone's lineage is the series of families from which they are directly descended. 家族
+   ≫   They can trace their lineage back to the 18th century.  他们的家族可以直接追溯到18世纪。
+
+========================================================================
+>>> lineage
+------------------------------------------------------------------------
+lineage    [美 'lɪnɪɪdʒ / 英 'lɪnɪɪdʒ]
+n. 血统；家系，[遗] 世系
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Someone's lineage is the series of families from which they are directly descended. 家族
+   ≫   They can trace their lineage back to the 18th century.  他们的家族可以直接追溯到18世纪。
+
+========================================================================
+>>> sophisticated
+------------------------------------------------------------------------
+sophisticated    [美 sə'fɪstɪketɪd / 英 sə'fɪstɪkeɪtɪd]
+adj. 复杂的；精致的；久经世故的；富有经验的
+v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A sophisticated machine, device, or method is more advanced or complex than others. 高级的; 复杂的
+   ≫   Honeybees use one of the most sophisticated communication systems of any insect.  蜜蜂所使用的交流系统是昆虫中最复杂的之一。
+2. (ADJ) Someone who is sophisticated is comfortable in social situations and knows about culture, fashion, and other matters that are considered socially important. 老练的; 久经世故的
+   ≫   Claude was a charming, sophisticated companion.  克劳德是个有魅力、见多识广的伙伴。
+3. (ADJ) A sophisticated person is intelligent and knows a lot, so that they are able to understand complicated situations. 干练的
+   ≫   These people are very sophisticated observers of the foreign policy scene.  这些人是外交政策领域干练的观察家。
+
+========================================================================
+>>> calibrated
+------------------------------------------------------------------------
+calibrated    ['kælə,bret]
+v. 校准（calibrate的过去分词）；校准使...标准化
+adj. 标刻度的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] If you calibrate an instrument or tool, you mark or adjust it so that you can use it to measure something accurately. 校准
+   ≫   ...instructions on how to calibrate a thermometer.  …校准温度计的说明。
+
+========================================================================
+>>> deception
+------------------------------------------------------------------------
+deception    [美 dɪ'sɛpʃən / 英 dɪ'sepʃ(ə)n]
+n. 欺骗，欺诈；骗术
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Deception is the act of deceiving someone or the state of being deceived by someone. 欺骗; 受骗
+   ≫   He admitted conspiring to obtain property by deception.  他承认曾密谋通过欺骗获取财产。
+
+========================================================================
+>>> truncates
+------------------------------------------------------------------------
+truncates    ['trʌŋkeit; trʌŋ'keit; 'trʌŋk-]
+缩短
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to shorten by cutting off a part, end, or top 截短
+2. (ADJ) cut short; truncated 截短的
+
+<<=== 2026-09-14 ===>>
