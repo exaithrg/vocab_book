@@ -13331,3 +13331,113 @@ truncates    ['trʌŋkeit; trʌŋ'keit; 'trʌŋk-]
 2. (ADJ) cut short; truncated 截短的
 
 <<=== 2026-09-14 ===>>
+========================================================================
+>>> composite
+------------------------------------------------------------------------
+composite    [美 kɑm'pɑzɪt / 英 'kɒmpəzɪt]
+n. 复合材料；合成物；菊科
+adj. 复合的；合成的；菊科的
+vt. 使合成；使混合
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A composite object or item is made up of several different things, parts, or substances. 合成的
+   ≫   Galton devised a method of creating composite pictures in which the features of different faces were superimposed over one another.  高尔顿发明了一种将不同脸的部位相互叠加而创作合成图片的方法。
+2. [usu sing, oft N 'of' n] Composite is also a noun. 合成物
+   ≫   Cuba is a composite of diverse traditions and people.  古巴是一个不同传统和民族的融合体。
+
+========================================================================
+>>> database
+------------------------------------------------------------------------
+database    [美 'detəbes / 英 'deɪtəbeɪs]
+n. 数据库，资料库
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A database is a collection of data that is stored in a computer and that can easily be used and added to. 数据库
+   ≫   The state maintains a database of names of people allowed to vote.  该州有一个可以投票的人的姓名数据库。
+
+========================================================================
+>>> dataset
+------------------------------------------------------------------------
+dataset
+n. 资料组
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Please contact us if you have any questions about the dataset and how to use it. 遇到关于数据库或如何使用数据库的问题，请联系我们。
+≫   However, it does not have the ability to determine what the receiving dataset name is or if the dataset even exists. 但是，它不能确定接收装载模块的数据集的名称，也不能确定这个数据集是否已经存在。
+≫   I used a table in this application because the detail band contains a fixed number of elements that should be printed once for each row in the dataset. 我在这个应用程序中使用表是因为细节区域包含固定数目的元素，这些元素应该为数据集中每行打印一次。
+
+========================================================================
+>>> derived
+------------------------------------------------------------------------
+derived    [美 dɪ'raɪvd / 英 dɪ'raɪvd]
+adj. 导出的；衍生的，派生的
+v. 得到；推断（derive的过去分词）；由…而来
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you derive something such as pleasure or benefit from a person or from something, you get it from them. 获得
+   ≫   Mr. Ying is one of those happy people who derive pleasure from helping others.  英先生是那种助人为乐的快活人。
+2. (V-T/V-I) If you say that something such as a word or feeling derives or is derived from something else, you mean that it comes from that thing. 衍生
+   ≫   The name Anastasia is derived from a Greek word meaning "of the resurrection."  阿纳斯塔西娅这个名字是从一个意为“复活”的希腊词语衍生而来的。
+
+========================================================================
+>>> lineage
+------------------------------------------------------------------------
+lineage    [美 'lɪnɪɪdʒ / 英 'lɪnɪɪdʒ]
+n. 血统；家系，[遗] 世系
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Someone's lineage is the series of families from which they are directly descended. 家族
+   ≫   They can trace their lineage back to the 18th century.  他们的家族可以直接追溯到18世纪。
+
+========================================================================
+>>> calibration
+------------------------------------------------------------------------
+calibration    [美 ,kælɪ'breʃən / 英 kælɪ'breɪʃ(ə)n]
+n. 校准；刻度；标度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   He also champions and inspires organizations to create better diagnostic and calibration tools for the software he produces. 他还支持并启发组织为他生产的软件创建更好的诊断和校准工具。
+≫   It manages all of your asset deployment, specifications, monitoring, calibration, costing, and tracking from a single system. 它从一个系统管理所有的资产部署、指标、监视、校准、成本和跟踪。
+≫   “This study shows a method that allows one to read out a large number of different thoughts from brain activity, even with only a few calibration measurements, ” he says. 他说，“这项研究指出了一种通过大脑活动阅读大量不同想法的方法，这种方法甚至只需要少量的测量进行校准”。
+
+========================================================================
+>>> ablation
+------------------------------------------------------------------------
+ablation    [英 ə'bleɪʃ(ə)n / 美 ə'bleʃən]
+n. [水文] 消融；切除
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the surgical removal of an organ, structure, or part 切除手术
+
+========================================================================
+>>> credits
+------------------------------------------------------------------------
+credits    [美 'krɛdɪt / 英 'kredɪts]
+n. 学分（credit的复数）；[金融] 信用；工作人员；演职员名单
+v. 相信；归因于（credit的三单形式）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If you are given credit, you are allowed to pay for goods or services several weeks or months after you have received them. 赊购
+   ≫   The group can't get credit to buy farming machinery.  该集团无法以赊购方式购买农业机械。
+2. (N-UNCOUNT) If you get the credit for something good, people praise you because you are responsible for it, or are thought to be responsible for it. 赞扬
+   ≫   We don't mind who gets the credit so long as we don't get the blame.  只要我们不挨批评，谁受到表扬我们都不在乎。
+   ≫   It would be wrong for us to take all the credit.  我们把所有的功劳都揽到自己身上就不对了。
+3. (V-T) When a sum of money is credited to an account, the bank adds that sum of money to the total in the account. 存入
+   ≫   She noticed that only $80,000 had been credited to her account.  她注意到只有$80000存入了她的账户。
+   ≫   Midland decided to change the way it credited payments to accounts.  米德兰公司决定改变将所付款项存入账户的方式。
+4. (V-T) If people credit someone with an achievement or if it is credited to them, people say or believe that they were responsible for it. 归功于
+   ≫   The staff are crediting him with having saved Hythe's life.  海斯能得救全体人员都归功于他。
+   ≫   The 74-year-old mayor is credited with helping make Los Angeles the financial capital of the West Coast.  74岁的市长被归功为帮助洛杉矶成为西海岸金融中心的人。
+5. (N-COUNT) A credit is a sum of money which is added to an account. 贷方款额
+   ≫   The statement of total debits and credits is known as a balance.  总的借贷报表称作借贷平衡表。
+6. (N-COUNT) A credit is an amount of money that is given to someone. 补助
+   ≫   Senator Bill Bradley outlined his own tax cut, giving families $350 in tax credits per child.  参议员比尔·布拉德利简述了自己的减税计划，给家庭中每一个孩子$350税款补助。
+7. (N-PLURAL) The list of people who helped to make a film, a CD, or a television programme is called the credits. 摄制人员名单
+   ≫   It was fantastic seeing my name in the credits.  在摄制人员名单中看到我的名字真是太好了。
+8. (N-COUNT) A credit is a successfully completed part of a higher education course, representing about one hour of instruction a week. At universities and colleges you need a certain number of credits to be awarded a degree. 学分
+   ≫   Through the AP programme students can earn college credits in high school.  通过大学预修课程计划，学生在中学就可以拿到大学的学分。
+9. (N-SING) If you say that someone is a credit to someone or something, you mean that their qualities or achievements will make people have a good opinion of the person or thing mentioned. 为…增光的人
+   ≫   He is one of the greatest players of recent times and is a credit to his profession.  他是近年来最棒的选手之一，是为他的职业增光的人。
+10. (PHRASE) To give someone credit for a good quality means to believe that they have it. 相信某人有
+   ≫   Bratbakk had more ability than the media gave him credit for.  布拉特巴克有比媒体所宣传的还要强的能力。
+11. (PHRASE) If something is to someone's credit, they deserve praise for it. 值得赞扬
+   ≫   She had managed to pull herself together and, to her credit, continued to look upon life as a positive experience.  她努力使自己振作起来，并且值得称赞的是，她一如既往地积极面对人生。
+
+<<=== 2026-09-15 ===>>
