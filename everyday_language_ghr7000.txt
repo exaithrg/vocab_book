@@ -13679,3 +13679,255 @@ CET4 TEM4
    ≫   He was faced with the dilemma of whether or not to return to his country.  他面临着是否回国的艰难选择。
 
 <<=== 2026-09-17 ===>>
+========================================================================
+>>> artifact
+------------------------------------------------------------------------
+artifact    [美 'ɑrtə,fækt / 英 'ɑ:təˌfækt]
+n. 人工制品；手工艺品
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In this dialog, you can only open an artifact in the editor. 在这个对话框中，您只可以在编辑器中打开一个工件。
+≫   You can easily click through each artifact in the list and mark them to use their contents as templates. 您可以点击列表中的每一个工件，然后标记它们以将它们的内容当做模板使用。
+≫   If you know part of the name of the artifact that you are looking for but not what the name begins with, you can use the asterisk as a wildcard. 如果您知道您想要搜索工件的名字的一部分，但是不知道名字以什么开始，那么您可以使用星号作为一个通配符。
+
+========================================================================
+>>> resident
+------------------------------------------------------------------------
+resident    [美 'rɛzɪdənt / 英 ˈrɛzɪdənt]
+adj. 居住的；定居的
+n. 居民；住院医生
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The residents of a house or area are the people who live there. 居民
+   ≫   The archbishop called on the government to build more low cost homes for local residents.  这位大主教呼吁该政府为当地居民建更多的廉价住宅。
+2. [v-link ADJ] Someone who is resident in a country or a town lives there. 居住的
+   ≫   He moved to the United States in 1990 to live with his son, who had been resident in Baltimore since 1967.  他1990年移居美国去和从1967年就住在巴尔的摩的儿子一起住。
+3. [美国英语] A resident or a resident doctor is a doctor who is receiving a period of specialized training in a hospital after completing his or her internship. 住院医师
+   ≫   Many resident doctors complain that they are assigned too many duties that are usually not performed by physicians.  很多住院医师抱怨他们被指派了太多通常不由内科医生完成的职责。
+
+========================================================================
+>>> confilct
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> conflict
+------------------------------------------------------------------------
+conflict    [美 'kɑnflɪkt / 英 'kɒnflɪkt]
+n. 冲突，矛盾；斗争；争执
+vi. 冲突，抵触；争执；战斗
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft 'in/into' N] Conflict is serious disagreement and argument about something important. If two people or groups are in conflict, they have had a serious disagreement or argument and have not yet reached agreement. 争执; 分歧
+   ≫   Try to keep any conflict between you and your ex-partner to a minimum.  尽量把你和前合伙人之间的争执控制到最少。
+2. (N-UNCOUNT) Conflict is a state of mind in which you find it impossible to make a decision. 矛盾心态
+   ≫   ...the anguish of his own inner conflict.  …他自己内心矛盾的痛苦。
+3. [书面] Conflict is fighting between countries or groups of people. (国家或团体之间的) 冲突
+   ≫   ...talks aimed at ending four decades of conflict.  …旨在结束40年冲突的会谈。
+4. (N-VAR) A conflict is a serious difference between two or more beliefs, ideas, or interests. If two beliefs, ideas, or interests are in conflict, they are very different. (信念、观点、利益之间的) 冲突
+   ≫   There is a conflict between what they are doing and what you want.  他们在做的和你想要的之间存在冲突。
+5. (V-RECIP) If ideas, beliefs, or accounts conflict, they are very different from each other and it seems impossible for them to exist together or to each be true. (观点、信念、陈述等) 相冲突
+   ≫   Personal ethics and professional ethics sometimes conflict.  个人道德与职业道德之间有时会相冲突。
+   ≫   He held firm opinions which usually conflicted with mine.  他持有坚定的、通常跟我的相冲突的观点。
+
+========================================================================
+>>> content
+------------------------------------------------------------------------
+content    [美 'kɑntɛnt / 英 kən'tent]
+n. 内容，目录；满足；容量
+adj. 满意的
+vt. 使满足
+n. (Content)人名；(法)孔唐
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) The contents of a container such as a bottle, box, or room are the things that are inside it. (瓶子、盒子或房间的) 所容之物
+   ≫   Empty the contents of the pan into the sieve.  将平锅里的东西全部倒入漏勺。
+2. (N-PLURAL) The contents of a book are its different chapters and sections, usually shown in a list at the beginning of the book. (书的) 目录
+   ≫   There is no Table of Contents.  没有目录。
+3. [also N in pl, usu N 'of' n] If you refer to the content or contents of something such as a book, television programme, or website, you are referring to the subject that it deals with, the story that it tells, or the ideas that it expresses. (书、电视节目或网站等的) 内容
+   ≫   She is reluctant to discuss the content of the play.  她不愿讨论这部话剧的内容。
+   ≫   Stricter controls were placed on the content of videos.  对录像的内容有了更严格的控制。
+4. (N-UNCOUNT) The content of something such as an educational course or a programme of action is the elements that it consists of. (课程或计划的) 内容
+   ≫   Previous students have had nothing but praise for the course content and staff.  以前的学生们对该课程的内容和教师只有称赞。
+5. (N-SING) You can use content to refer to the amount or proportion of something that a substance contains. 含量
+   ≫   Sunflower margarine has the same fat content as butter.  葵花籽人造黄油跟黄油的脂肪含量一样。
+6. (N-SING) 
+7. [v-link ADJ] If you are content with something, you are willing to accept it, rather than wanting something more or something better. 满足的
+   ≫   I am content to admire the mountains from below.  我满足于从山下观赏群山。
+   ≫   I'm perfectly content with the way the campaign has gone.  我对这次活动开展的情况感到心满意足。
+8. [v-link ADJ] If you are content, you are fairly happy or satisfied. 满意的
+   ≫   He says his daughter is quite content.  他说他的女儿颇为满意。
+9. (V) to make (oneself or another person) content or satisfied 使满足
+   ≫   to content oneself with property  
+10. to your heart's content →see
+
+========================================================================
+>>> Combating
+------------------------------------------------------------------------
+combating    ['kɔmbæt; kəm'bæt]
+战斗
+与…斗争
+反对（combat的现在分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Combat is fighting that takes place in a war. 战斗
+   ≫   Over 16 million men had died in combat.  一千六百多万人在战斗中阵亡。
+   ≫   Yesterday saw hand-to-hand combat in the city.  昨天那座城里发生了肉搏战。
+2. (N-COUNT) A combat is a battle, or a fight between two people. 搏斗
+   ≫   It was the end of a long combat.  那是一场长时间搏斗的结束。
+3. (V-T) If people in authority combat something, they try to stop it from happening. 防止
+   ≫   Congress has criticized new government measures to combat crime.  国会批评了新政府防止犯罪的措施。
+
+========================================================================
+>>> tenancy
+------------------------------------------------------------------------
+tenancy    [美 'tɛnənsi / 英 'tenənsɪ]
+n. 租期；租用
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Tenancy is the use that you have of land or property belonging to someone else, for which you pay rent. (土地、财产等的) 承租; 租用
+   ≫   His father took over the tenancy of the farm 40 years ago.  他父亲40年前承租了这个农场。
+
+========================================================================
+>>> regime
+------------------------------------------------------------------------
+regime    [美 re'ʒim / 英 reɪ'ʒiːm]
+n. 政权，政体；社会制度；管理体制
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] If you refer to a government or system of running a country as a regime, you are critical of it because you think it is not democratic and uses unacceptable methods. 统治
+   ≫   ...the collapse of the Fascist regime at the end of the war.  …战争结束时法西斯统治的崩溃。
+2. (N-COUNT) A regime is the way that something such as an institution, company, or economy is run, especially when it involves tough or severe action. (机构、公司或经济等的) 管理方式
+   ≫   The authorities moved him to the less rigid regime of an open prison.  当局把他移送到管理相对宽松的不设防监狱。
+3. (N-COUNT) A regime is a set of rules about food, exercise, or beauty that some people follow in order to stay healthy or attractive. 养生法
+   ≫   He has a new fitness regime to strengthen his back.  他有一套新的健康养生法来加强他的背部力量。
+
+========================================================================
+>>> dark
+------------------------------------------------------------------------
+dark    [美 dɑrk / 英 dɑːk]
+adj. 黑暗的，深色的；模糊的；无知的；忧郁的
+n. 黑暗；夜；黄昏；模糊
+n. (Dark)人名；(英)达克
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) When it is dark, there is not enough light to see properly, for example, because it is night. 黑暗的
+   ≫   It was too dark inside to see much.  里面太黑，看不见什么东西。
+   ≫   People usually draw the curtains once it gets dark.  天一黑，人们通常就会拉上窗帘。
+2. (N-UNCOUNT) darkness 黑暗
+   ≫   The light went out, and the room was plunged into darkness.  灯灭了，房间陷入了黑暗之中。
+3. (ADJ) If you describe something as dark, you mean that it is black in colour, or a shade that is close to black. 黑色的; 暗色的
+   ≫   He wore a dark suit and carried a black attaché case.  他穿着深色套装，手提黑色公文包。
+4. (ADV) darkly 呈黑色地
+   ≫   The freckles on Joanne's face suddenly stood out darkly against her pale skin.  在苍白的肤色映衬下，乔安脸上的雀斑一下子更明显了。
+5. (ADJ) If someone has dark hair, eyes, or skin, they have brown or black hair, eyes, or skin. (头发、皮肤等) 棕色或黑色的
+   ≫   He had dark, curly hair.  他有一头黑色卷发。
+6. (ADJ) A dark period of time is unpleasant or frightening. 黯淡的
+   ≫   Once again there's talk of very dark days ahead.  人们又一次提到了极其黯淡的前途。
+7. [ADJ n] A dark place or area is mysterious and not fully known about. 神秘的
+   ≫   The spacecraft will enable scientists to study some dark corners of the solar system.  太空船使得科学家可以研究太阳系中一些不为人知的角落。
+8. [文学性] Dark thoughts are sad, and show that you are expecting something unpleasant to happen. 悲观的
+   ≫   Troy's endless happy chatter kept me from thinking dark thoughts.  特洛伊兴高采烈地说个不停，使我忘记了悲观的想法。
+9. [ADV with v] darkly 悲观地
+   ≫   She hinted darkly that she might have to resign.  她悲观地暗示她可能得辞职。
+10. (ADJ) If you describe something as dark, you mean that it is related to things that are serious or unpleasant, rather than lighthearted. 沉重的
+   ≫   There's plenty of dark humour in the film.  这部电影充满了黑色幽默。
+11. [ADV adj] darkly 沉重地
+   ≫   The atmosphere after Wednesday's debut was as darkly comic as the film itself.  周三首映式之后的气氛和电影本身一样像是沉重的喜剧。
+12. (N-SING) The dark is the lack of light in a place. 黑暗
+   ≫   I've always been afraid of the dark.  我一直惧怕黑暗。
+13. (COMB in COLOR) When you use dark to describe a colour, you are referring to a shade of that colour which is close to black, or seems to have some black in it. 深色的
+   ≫   She was wearing a dark blue dress.  她穿着深蓝色的连衣裙。
+14. (PHRASE) If you do something after dark, you do it when the sun has set and night has begun. 黄昏以后
+   ≫   They avoid going out alone after dark.  他们避免黄昏后独自出门。
+15. (PHRASE) If you do something before dark, you do it before the sun sets and night begins. 黄昏以前
+   ≫   They'll be back well before dark.  他们会在天黑以前回来。
+16. (PHRASE) If you are in the dark about something, you do not know anything about it. 一无所知
+   ≫   The investigators admit that they are completely in the dark about the killing.  调查人员承认他们对这起凶杀案一无所知。
+
+========================================================================
+>>> dart
+------------------------------------------------------------------------
+dart    [美 dɑrt / 英 dɑːt]
+vt. 投掷，投射；使迅速突然移动
+vi. 向前冲，飞奔
+n. 飞镖，标枪；急驰，飞奔；（虫的）螯；飞快的移动
+n. (Dart)人名；(英、芬)达特；(法)达尔
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] If a person or animal darts somewhere, they move there suddenly and quickly. 飞奔; 猛冲
+   ≫   Ingrid darted across the deserted street.  英格里德飞奔过空无一人的街道。
+2. [文学性] If you dart a look at someone or something, or if your eyes dart to them, you look at them very quickly. 投射 (目光)
+   ≫   She darted a sly sideways glance at Bramwell.  她狡猾地斜瞟了布莱威尔一眼。
+3. (N-COUNT) A dart is a small, narrow object with a sharp point which can be thrown or shot. 飞镖
+   ≫   Markov died after being struck by a poison dart.  马尔科夫被毒镖击中后身亡。
+4. (N-UNCOUNT) Darts is a game in which you throw darts at a round board which has numbers on it. 掷镖游戏
+   ≫   I started playing darts at 15.  我从15岁开始玩掷镖游戏。
+5. (N) a tapered tuck made in dressmaking (衣服的)褶
+6. (N) any of various tropical and semitropical marine fish 热带和亚热带鱼类
+
+========================================================================
+>>> provenance
+------------------------------------------------------------------------
+provenance    [美 'prɑvənəns / 英 'prɒv(ə)nəns]
+n. 出处，起源
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with poss] The provenance of something is the place that it comes from or that it originally came from. 出处
+   ≫   Kato was fully aware of the provenance of these treasures.  卡托对这些珍宝的出处全都了如指掌。
+
+========================================================================
+>>> sex
+------------------------------------------------------------------------
+sex    [美 sɛks / 英 seks]
+n. 性；性别；性行为；色情
+vt. 引起…的性欲；区别…的性别
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The two sexes are the two groups, male and female, into which people and animals are divided according to the function they have in producing young. (雌、雄、男、女) 性
+   ≫   ...a movie star who appeals to all ages and both sexes.  …一个吸引男女老少的电影明星。
+2. → see also
+3. (N-COUNT) The sex of a person or animal is their characteristic of being either male or female. 性别
+   ≫   She continually failed to gain promotion because of her sex.  由于性别的原因，她频频得不到升职。
+   ≫   The new technique has been used to identify the sex of fetuses.  这项新技术已被用来鉴定胎儿的性别。
+4. (N-UNCOUNT) Sex is the physical activity by which people can produce young. 性行为
+   ≫   He was very open in his attitudes about sex.  他对性的态度很开放。
+   ≫   The entire film revolves around drugs, sex and violence.  整部电影都围绕着毒品、色情和暴力展开。
+5. (PHRASE) If two people have sex, they perform the act of sex. 进行性交
+   ≫   Have you ever thought about having sex with someone other than your husband?  你想过与丈夫之外的人发生性关系吗？
+
+========================================================================
+>>> taxonomy
+------------------------------------------------------------------------
+taxonomy    [美 tæk'sɑnəmi / 英 tæk'sɒnəmɪ]
+n. 分类学；分类法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] Taxonomy is the process of naming and classifying things such as animals and plants into groups within a larger system, according to their similarities and differences. (动植物等的)分类法; 分类学
+
+========================================================================
+>>> mirage
+------------------------------------------------------------------------
+mirage    [美 mə'rɑʒ / 英 'mɪrɑːʒ; mɪ'rɑːʒ]
+n. 海市蜃楼；幻想，妄想
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mirage is something that you see when it is extremely hot, for example in the desert, and which appears to be quite near but is actually a long way away or does not really exist. 海市蜃楼; 幻境
+   ≫   It hovered before his eyes like the mirage of an oasis.  它在他眼前晃动，好像海市蜃楼里的绿洲。
+2. [usu sing] If you describe something as a mirage, you mean that it is not real or true, although it may seem to be. 幻想; 妄想
+   ≫   The girl was a mirage, cast up by his troubled mind.  那个女孩是他的幻觉，是他混乱的头脑中妄想出来的。
+
+========================================================================
+>>> miragation
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> Contradiction
+------------------------------------------------------------------------
+contradiction    [美 ,kɑntrə'dɪkʃən / 英 kɒntrə'dɪkʃ(ə)n]
+n. 矛盾；否认；反驳
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you describe an aspect of a situation as a contradiction, you mean that it is completely different from other aspects, and so makes the situation confused or difficult to understand. 矛盾
+   ≫   The militants see no contradiction in using violence to bring about a religious state.  好战分子认为使用暴力与建立宗教国家不矛盾。
+
+<<=== 2026-09-18 ===>>
