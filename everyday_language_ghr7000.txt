@@ -14075,3 +14075,104 @@ n. 结尾警语；妙语如珠
 1. (N-COUNT) The punchline of a joke or funny story is its last sentence or phrase, which makes it funny. 笑话或警句令人发笑的最后一行
 
 <<=== 2026-09-20 ===>>
+========================================================================
+>>> obliviousness
+------------------------------------------------------------------------
+obliviousness    [ə'bliviəsnis]
+n. 健忘；不注意
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   There’s a reason for Russian obliviousness. Every family had not only victims but perpetrators. 俄国人如此健忘有一个原因：在种族灭绝期间中，所有的家庭既有受害者，又有施暴者。
+≫   Tokyo's obsession with Washington's opinion is generally only equalled by its obliviousness towards Japan's reputation in the rest of Asia. 东京对华盛顿意见的着迷刚好与它对日本在亚洲声誉的健忘相等。
+≫   I'll talk about how incorporating metadata affects the obliviousness principle in AOP systems, as well as how it could impact on the adoption of AOP systems. 我将讨论添加元数据会对 AOP 系统中的 obliviousness 原则产生怎样的影响，以及元数据如何影响 AOP 系统的采用。
+
+========================================================================
+>>> oblivious
+------------------------------------------------------------------------
+oblivious    [美 ə'blɪvɪəs / 英 ə'blɪvɪəs]
+adj. 遗忘的；健忘的；不注意的；不知道的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you are oblivious to something or oblivious of it, you are not aware of it. 没意识到的
+   ≫   She lay motionless where she was, oblivious to pain.  她一动不动地躺在原地，感觉不到疼痛。
+
+========================================================================
+>>> regardless
+------------------------------------------------------------------------
+regardless    [美 rɪ'ɡɑrdləs / 英 rɪ'gɑːdlɪs]
+adj. 不管的；不顾的；不注意的
+adv. 不顾后果地；不管怎样，无论如何；不惜费用地
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) If something happens regardless of something else, it is not affected or influenced at all by that other thing. 不管; 无论
+   ≫   It takes in anybody regardless of religion, colour, or creed.  这个组织接纳任何人，不管其宗教、肤色或信仰。
+2. [ADV after v] If you say that someone did something regardless, you mean that they did it even though there were problems or factors that could have stopped them, or perhaps should have stopped them. 不顾一切地
+   ≫   Despite her recent surgery she has been carrying on regardless.  尽管她最近动了手术，她却一直在不顾一切地继续工作。
+
+========================================================================
+>>> crucially
+------------------------------------------------------------------------
+crucially    ['kru:ʃiəli / 英 'kru:ʃiəli]
+adv. 关键地；至关重要地
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Crucially, though, the demon need pump no energy into the rotor, only information about the position of the rotor, which it uses to switch the field. 至关重要的是妖魔并没有把能量提供给转子，只是用了转子自己位置的信息，它被用来切换电场。
+≫   Objects can be things, but crucially they can also do things. 对象可以是东西，但关键在于它们还可以做事情。
+
+========================================================================
+>>> dryrun
+------------------------------------------------------------------------
+dryrun
+预检
+
+========================================================================
+>>> decomposition
+------------------------------------------------------------------------
+decomposition    [美 ,dikɑmpə'zɪʃən / 英 ,diːkɒmpə'zɪʃn]
+n. 分解，腐烂；变质
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] Decomposition is the process of decay that takes place when a living thing changes chemically after dying. 分解
+
+========================================================================
+>>> aroused
+------------------------------------------------------------------------
+aroused    [ə'rəuz]
+唤醒
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If something arouses a particular reaction or attitude in people, it causes them to have that reaction or attitude. 引起
+   ≫   His revolutionary work in linguistics has aroused intense scholarly interest.  他在语言学方面的革命性著作引起了强烈的学术兴趣。
+2. (V-T) If something arouses a particular feeling or instinct that exists in someone, it causes them to experience that feeling or instinct strongly. 激起
+   ≫   The smell of frying bacon aroused his hunger.  煎咸肉的味道激起了他的饥饿感。
+3. [usu passive] If you are aroused by something, it makes you feel sexually excited. 激起性欲
+   ≫   Some men are aroused when their partner says erotic words to them.  一些男人在性伙伴对他们说色情话时会被撩起性欲。
+
+========================================================================
+>>> ordinary
+------------------------------------------------------------------------
+ordinary    [美 'ɔrdnɛri / 英 'ɔːdɪn(ə)rɪ; -d(ə)n-]
+adj. 普通的；平凡的；平常的
+n. 普通；平常的人（或事）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Ordinary people or things are normal and not special or different in any way. 普通的
+   ≫   I strongly suspect that most ordinary people would agree with me.  我强烈地感到大多数普通老百姓会赞同我。
+   ≫   It has 25 calories less than ordinary ice cream.  它的热量比普通的冰淇淋少25卡路里。
+2. (PHRASE) Something that is out of the ordinary is unusual or different. 不寻常的
+   ≫   The boy's knowledge was out of the ordinary.  这个男孩的知识面非同寻常。
+
+========================================================================
+>>> decisive
+------------------------------------------------------------------------
+decisive    [美 dɪ'saɪsɪv / 英 dɪ'saɪsɪv]
+adj. 决定性的；果断的，坚定的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If a fact, action, or event is decisive, it makes certain a particular result. 决定性的
+   ≫   ...his decisive victory in the presidential elections.  …他在这次总统选举中的决定性胜利。
+2. (ADV) decisively 决定性地
+   ≫   The plan was decisively rejected by Congress three weeks ago.  这个计划三周前被国会关键性地否决了。
+3. (ADJ) If someone is decisive, they have or show an ability to make quick decisions in a difficult or complicated situation. 果断的
+   ≫   He should give way to a younger, more decisive leader.  他应该让位给一位更年轻、更果断的领导者。
+4. (ADV) decisively 果断地
+   ≫   "I'll call for you at ten," she said decisively.  “我10点来接你，”她果断地说。
+
+<<=== 2026-09-21 ===>>
