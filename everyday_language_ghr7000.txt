@@ -14176,3 +14176,23 @@ CET6 TEM4
    ≫   "I'll call for you at ten," she said decisively.  “我10点来接你，”她果断地说。
 
 <<=== 2026-09-21 ===>>
+========================================================================
+>>> fulfillable
+------------------------------------------------------------------------
+fulfillable
+adj.可以满足的，能够实现的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   For, if your wish is even faintly fulfillable, you'll make progress with it. 因为，如果你的渴望哪怕只有微弱的实现的可能，你也会取得进展。
+
+========================================================================
+>>> ingest
+------------------------------------------------------------------------
+ingest    [美 ɪn'dʒɛst / 英 ɪn'dʒest]
+vt. 摄取；咽下；吸收；接待
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] When animals or plants ingest a substance, they take it into themselves, by eating or absorbing it. 摄取; 吸收
+   ≫   ...side effects occurring in fish that ingest this substance.  ...在吃了此物质的鱼身上产生的副作用。
+2. (N-UNCOUNT) ingestion
+   ≫   Every ingestion of food can affect our mood or thinking processes.  每次食物的摄取都可能会影响我们的情绪或思维过程。
+
+<<=== 2026-09-22 ===>>
