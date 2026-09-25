@@ -14363,3 +14363,96 @@ n. 饱和；色饱和度；浸透；磁化饱和
    ≫   The concept of saturation marketing makes perfect sense.  饱和营销的概念很有道理。
 
 <<=== 2026-09-23 ===>>
+========================================================================
+>>> scrape
+------------------------------------------------------------------------
+scrape    [美 skrep / 英 skreɪp]
+n. 刮掉；擦痕；困境；刮擦声
+vt. 刮；擦伤；挖成
+vi. 刮掉；刮出刺耳声
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you scrape something from a surface, you remove it, especially by pulling a sharp object over the surface. 刮掉
+   ≫   She went around the car scraping the frost off the windows.  她绕着车刮掉车窗上的霜。
+2. (V-T/V-I) If something scrapes against something else, it rubs against it, making a noise or causing slight damage. 刮擦
+   ≫   The only sound is that of knives and forks scraping against china.  惟一的声音是刀叉刮擦瓷器的声音。
+   ≫   The car hurtled past us, scraping the wall and screeching to a halt.  那辆汽车从我们身旁疾驰而过，刮擦着墙嘎然停下。
+3. (V-T) If you scrape a part of your body, you accidentally rub it against something hard and rough, and damage it slightly. 擦伤
+   ≫   She stumbled and fell, scraping her palms and knees.  她绊了一跤摔倒了，擦伤了双掌和双膝。
+
+========================================================================
+>>> degradation
+------------------------------------------------------------------------
+degradation    [美 ,dɛɡrə'deʃən / 英 ,degrə'deɪʃ(ə)n]
+n. 退化；降格，降级；堕落
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [表不满] You use degradation to refer to a situation, condition, or experience which you consider shameful and disgusting, especially one which involves poverty or immorality. 堕落
+   ≫   They were sickened by the scenes of misery and degradation they found.  他们对所看到的凄惨和堕落景象感到恶心。
+2. (N-UNCOUNT) Degradation is the process of something becoming worse or weaker, or being made worse or weaker. 恶化; 衰退
+   ≫   ...air pollution, traffic congestion, and the steady degradation of our quality of life.  …空气污染、交通阻塞以及我们生活质量的持续恶化。
+
+========================================================================
+>>> favtors
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> coherent
+------------------------------------------------------------------------
+coherent    [美 ko'hɪrənt / 英 kə(ʊ)'hɪər(ə)nt]
+adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is coherent, it is well planned, so that it is clear and sensible and all its parts go well with each other. 连贯的
+   ≫   He has failed to work out a coherent strategy for modernizing the service.  他无法想出一个连贯的策略来使该服务现代化。
+2. (N-UNCOUNT) coherence 连贯性
+   ≫   The campaign was widely criticized for making tactical mistakes and for a lack of coherence.  该运动遭到广泛批评，因其有策略错误且缺乏连贯性。
+3. [v-link ADJ] If someone is coherent, they express their thoughts in a clear and calm way, so that other people can understand what they are saying. 条理清楚的
+   ≫   He's so calm when he answers questions in interviews. I wish I could be that coherent.  他如此镇定地回答了访谈中的问题。我希望我也能那样有条不紊。
+4. (N-UNCOUNT) coherence 条理性
+   ≫   This was debated eagerly at first, but with diminishing coherence as the champagne took hold.  辩论一开始满热烈的，可是上了香槟后，条理性就降低了。
+
+========================================================================
+>>> anchors
+------------------------------------------------------------------------
+anchors    ['æŋkɚ]
+n. 转折点；下锚；集合（anchor的复数）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [slang] the brakes of a motor vehicle 汽车闸
+   ≫   he rammed on the anchors  
+
+========================================================================
+>>> anchor
+------------------------------------------------------------------------
+anchor    [英 'æŋkə / 美 'æŋkɚ]
+n. 锚；抛锚停泊；靠山；新闻节目主播
+vt. 抛锚；使固定；主持节目
+vi. 抛锚
+adj. 末棒的；最后一棒的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An anchor is a heavy hooked object that is dropped from a boat into the water at the end of a chain in order to make the boat stay in one place. 锚
+2. [美国英语] The anchor on a television or radio programme, especially a news programme, is the person who presents it. 节目主持人
+   ≫   He worked in the news division of ABC – he was the anchor of its 15-minute evening newscast.  他以前在美国广播公司的新闻部工作–他是该公司15分钟晚间新闻节目的主持人。
+3. (V-T/V-I) When a boat anchors or when you anchor it, its anchor is dropped into the water in order to make it stay in one place. 抛锚
+   ≫   We could anchor off the pier.  我们可以在码头抛锚。
+4. (V-T) If an object is anchored somewhere, it is fixed to something to prevent it moving from that place. 使固定
+   ≫   The roots anchor the plant in the earth.  根须把这植物固定在土里。
+5. [美国英语] The person who anchors a television or radio programme, especially a news programme, is the person who presents it and acts as a link between interviews and reports that come from other places or studios. 主持
+   ≫   Viewers saw him anchoring a five-minute summary of regional news.  观众们看到了他主持地区新闻的5分钟综述。
+6. [美国英语] An anchor is the main shop in a mall or shopping centre. 主体商店
+   ≫   A clothing shop is to be a key anchor in a new development planned on the vacant lot.  一个服装店将成为在这块空地上计划新开发项目中的一个关键主体商店。
+7. (PHRASE) If a boat is at anchor, it is floating in a particular place and is prevented from moving by its anchor. 停泊
+   ≫   Sailboats lay at anchor in the narrow waterway.  帆船停泊在狭窄的水道里。
+
+========================================================================
+>>> canonical
+------------------------------------------------------------------------
+canonical    [美 kə'nɑnɪkl / 英 kə'nɒnɪk(ə)l]
+adj. 依教规的；权威的；牧师的
+n. 牧师礼服
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] If something has canonical status, it is accepted as having all the qualities that a thing of its kind should have. 标准的; 典范的
+   ≫   ...Ballard's status as a canonical writer.  ...巴拉德的经典作家地位。
+
+<<=== 2026-09-25 ===>>
