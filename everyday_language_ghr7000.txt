@@ -14553,3 +14553,100 @@ CET6 TEM4
    ≫   The International Convention Centre is the venue for a three-day arts festival.  国际会议中心是为期3天的艺术节的举办场所。
 
 <<=== 2026-09-29 ===>>
+========================================================================
+>>> release
+------------------------------------------------------------------------
+release    [美 rɪ'lis / 英 rɪ'liːs]
+vt. 释放；发射；让与；允许发表
+n. 释放；发布；让与
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If a person or animal is released from somewhere where they have been locked up or cared for, they are set free or allowed to go. 放走
+   ≫   He was released from custody the next day.  他第二天被从拘留中释放。
+2. [with supp] When someone is released, you refer to their release. 释放
+   ≫   He called for the immediate release of all political prisoners.  他要求立即释放所有的政治犯。
+3. [正式] If someone or something releases you from a duty, task, or feeling, they free you from it. 解除
+   ≫   Divorce releases both the husband and wife from all marital obligations to each other.  离婚解除了夫妻相互之间的所有婚姻义务。
+4. [also 'a' N, oft N 'from' N] Release is also a noun. 解除
+   ≫   Our therapeutic style offers release from stored tensions, traumas, and grief.  我们的治疗方式意在解除蓄积的压力、创伤和悲痛。
+5. (V-T) To release feelings or abilities means to allow them to be expressed. 释放
+   ≫   Becoming your own person releases your creativity.  保持你自己的本色可以释放出你的创造力。
+6. (N-UNCOUNT) Release is also a noun. 释放
+   ≫   She felt the sudden sweet release of her own tears.  她感到自己的眼泪突然而甜蜜地流出来。
+7. (V-T) If someone in authority releases something such as a document or information, they make it available. 发放
+   ≫   They're not releasing any more details yet.  他们还不准备发放更多详情。
+8. (N-COUNT) Release is also a noun. 发放
+   ≫   Action had been taken to speed up the release of cheques.  已采取行动来加速支票的发放。
+9. [正式] If you release someone or something, you stop holding them. 放开
+   ≫   He stopped and faced her, releasing her wrist.  他停下来面对着她，放开了她的手腕。
+10. (V-T) If something releases gas, heat, or a substance, it causes it to leave its container or the substance that it was part of and enter the surrounding atmosphere or area. 释放
+   ≫   ...a weapon that releases toxic nerve gas.  …一种释放神经毒气的武器。
+11. (N-COUNT) Release is also a noun. 释放
+   ≫   Under the agreement, releases of cancer-causing chemicals will be cut by about 80 percent.  根据这个协议，致癌化学物的释放将被削减80％左右。
+12. (V-T) When an entertainer or company releases a new CD, DVD, or movie, it becomes available so that people can buy it or see it. 发行
+   ≫   He is releasing an album of love songs.  他将发行一张情歌专辑。
+13. (N-COUNT) A new release is a new CD, DVD, or movie that has just become available for people to buy or see. 发行物
+   ≫   Of the new releases that are out there now, which do you think are really good?  现在外面新的发行物中，你觉得哪些真正好呢？
+14. → see also
+
+========================================================================
+>>> consent
+------------------------------------------------------------------------
+consent    [美 kən'sɛnt / 英 kən'sent]
+vi. 同意；赞成；答应
+n. 同意；（意见等的）一致；赞成
+n. (Consent)人名；(法)孔桑
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you give your consent to something, you give someone permission to do it. 准许
+   ≫   At approximately 11:30 p.m., Pollard finally gave his consent to the search.  大约晚上11:30的时候，波拉德终于对搜查予以同意。
+2. [正式] If you consent to something, you agree to do it or to allow it to be done. 同意
+   ≫   He finally consented to go.  他最终同意去。
+   ≫   He asked Ginny if she would consent to a small celebration after the christening.  他问金尼她是否同意在洗礼仪式后来个小庆祝。
+3. → see also
+
+========================================================================
+>>> ingest
+------------------------------------------------------------------------
+ingest    [美 ɪn'dʒɛst / 英 ɪn'dʒest]
+vt. 摄取；咽下；吸收；接待
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [技术] When animals or plants ingest a substance, they take it into themselves, by eating or absorbing it. 摄取; 吸收
+   ≫   ...side effects occurring in fish that ingest this substance.  ...在吃了此物质的鱼身上产生的副作用。
+2. (N-UNCOUNT) ingestion
+   ≫   Every ingestion of food can affect our mood or thinking processes.  每次食物的摄取都可能会影响我们的情绪或思维过程。
+
+========================================================================
+>>> digest
+------------------------------------------------------------------------
+digest    [美 daɪ'dʒɛst / 英 daɪ'dʒest; dɪ-]
+vt. 消化；吸收；融会贯通
+vi. 消化
+n. 文摘；摘要
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) When food digests or when you digest it, it passes through your body to your stomach. Your stomach removes the substances that your body needs and gets rid of the rest. 消化
+   ≫   Do not undertake strenuous exercise for a few hours after a meal to allow food to digest.  饭后几小时内不要做剧烈运动，以让食物消化。
+   ≫   She couldn't digest food properly.  她无法正常消化食物。
+2. (V-T) If you digest information, you think about it carefully so that you understand it. 领会
+   ≫   They learn well but seem to need time to digest information.  他们学得很好，但似乎需要时间来吃透这些知识。
+3. (V-T) If you digest some unpleasant news, you think about it until you are able to accept it and know how to deal with it. 承受 (坏消息)
+   ≫   All this has upset me. I need time to digest it all.  这一切让我心烦意乱。我需要时间来承受。
+4. (N-COUNT) A digest is a collection of pieces of writing. They are published together in a shorter form than they were originally published. 文摘
+   ≫   ...the Middle East Economic Digest.  …中东经济文摘。
+
+========================================================================
+>>> election
+------------------------------------------------------------------------
+election    [英 ɪ'lekʃ(ə)n / 美 ɪ'lɛkʃən]
+n. 选举；当选；选择权；上帝的选拔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An election is a process in which people vote to choose a person or group of people to hold an official position. 选举
+   ≫   ...Poland's first fully free elections for more than fifty years.  …五十多年来波兰首次完全自由选举。
+   ≫   During his election campaign he promised to put the economy back on its feet.  在竞选活动期间他承诺要重振经济。
+2. [usu with poss] The election of a particular person or group of people is their success in winning an election. 当选
+   ≫   ...the election of the Democrat candidate last year.  …去年民主党候选人的当选。
+   ≫   ...Vaclav Havel's election as president of Czechoslovakia.  …瓦茨拉夫·哈维尔当选捷克斯洛伐克总统。
+
+<<=== 2026-09-30 ===>>
