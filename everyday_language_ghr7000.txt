@@ -17,3 +17,54 @@ v. 说（或大声说）“喂”；打招呼
 4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
    ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
 
+========================================================================
+>>> hello
+------------------------------------------------------------------------
+hello    [美 həˈloʊ / 英 həˈləʊ]
+int. 喂，你好（用于问候或打招呼）；喂，你好（打电话时的招呼语）；喂，你好（引起别人注意的招呼语）；<非正式>喂，嘿 (认为别人说了蠢话或分心)；<英，旧>嘿（表示惊讶）
+n. 招呼，问候；（Hello）（法、印、美、俄）埃洛（人名）
+v. 说（或大声说）“喂”；打招呼
+★★★ CET4 TEM4 alsohullo
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (CONVENTION) You say "Hello" to someone when you meet them. 你好 (打招呼用语) [套语]
+   ≫   Hello, Trish. I won't shake hands, because I'm filthy.  你好，特里斯。我就不握手了，我的手好脏。
+2. (N-COUNT) Hello is also a noun. 招呼
+   ≫   The salesperson greeted me with a warm hello.  那位推销员向我打了个热情的招呼。
+3. (CONVENTION) You say "Hello" to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning. 喂 (打电话时的招呼语) [套语]
+   ≫   A moment later, Cohen picked up the phone. "Hello?"  一会儿之后，科恩拿起电话。“喂？”
+4. (CONVENTION) You can call "hello" to attract someone's attention. 喂 (用于唤起别人注意)
+   ≫   Very softly, she called out: "Hello? Who's there?"  她很轻柔地喊道：“喂？谁在那儿？”
+
+========================================================================
+>>> subtlety
+------------------------------------------------------------------------
+subtlety    [美 'sʌtlti / 英 'sʌt(ə)ltɪ]
+n. 微妙；敏锐；精明
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Subtleties are very small details or differences which are not obvious. 精妙之处; 微妙差异
+   ≫   His fascination with the subtleties of human behaviour makes him a good storyteller.  他对人类行为微妙之处的极大兴趣使他成为一个好的作家。
+2. (N-UNCOUNT) Subtlety is the quality of being not immediately obvious or noticeable, and therefore difficult to describe. 微妙性
+   ≫   African dance is vigorous, but full of subtlety, requiring great strength and control.  非洲舞蹈很有活力，但充满微妙性，需要很大的力量和很强的控制力。
+3. (N-UNCOUNT) Subtlety is the ability to notice and recognize things which are not obvious, especially small differences between things. 敏锐
+   ≫   She analyses herself with great subtlety.  她非常敏锐地分析了自己。
+4. (N-UNCOUNT) Subtlety is the ability to use indirect methods to achieve something, rather than doing something that is obvious. 巧妙
+   ≫   They had obviously been hoping to approach the topic with more subtlety.  他们显然一直在希望更巧妙地切入这个话题。
+
+========================================================================
+>>> dedup
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> sayonara
+------------------------------------------------------------------------
+sayonara    [英 ˌsaɪəˈnɑːrə]
+int. 再见，再会
+n. 道别的话（即“再见，再会”）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   But you said "sayonara" just now! 但你刚才明明有说“撒哟纳拉”的！
+≫   A great way to say "sayonara" to all that expensive gift paper. 这是一种对所有昂贵礼品纸说“撒有娜拉”的伟大方法。
+≫   I bid you farewell, arrivederci, sayonara, and all that sort of jazz. 我叫你告别，再见，再见，和所有那爵士乐。
+
+<<=== 2026-10-01 ===>>
