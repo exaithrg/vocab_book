@@ -277,3 +277,38 @@ n. 标记页数，编页；页码；分页，分页机制（尤指印刷、网�
 Not found :(
 
 <<=== 2026-10-04 ===>>
+========================================================================
+>>> skepticism
+------------------------------------------------------------------------
+skepticism    ['skɛptɪ,sɪzəm]
+n. 怀疑论；怀疑的态度
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I understand that skepticism. 我明白这一怀疑论。
+≫   We should have the scientific skepticism. 我们应该有科学的怀疑态度。
+≫   Therefore, I do not think we should go in for complete skepticism, but for a doctrine of degrees of probability. 因而我绝不认为我们应当赞成彻底的怀疑主义，而是赞成可能性程度的学说。
+
+========================================================================
+>>> Elevation
+------------------------------------------------------------------------
+elevation    [美 ,ɛlɪ'veʃən / 英 ,elɪ'veɪʃ(ə)n]
+n. 高地；海拔；提高；崇高；正面图
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The elevation of a place is its height above sea level. 海拔
+   ≫   We're probably at an elevation of about 13,000 feet above sea level.  我们很可能在海拔13000英尺的高度。
+2. (N-COUNT) An elevation is a piece of ground that is higher than the area around it. 高地
+   ≫   ...the monument was on an elevation, which could be seen from the church.  …这座纪念碑在一块高地上，从教堂能看到。
+
+========================================================================
+>>> conflate
+------------------------------------------------------------------------
+conflate    [英 kən'fleɪt /  kən'fleɪt]
+vt. 合并；异文合并
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If you conflate two or more descriptions or ideas, or if they conflate, you combine them in order to produce a single one. 合并
+   ≫   Her letters conflate past and present.  她的信把过去与现在结合在一起。
+   ≫   Unfortunately the public conflated fiction with reality and made her into a saint.  不幸的是，公众将杜撰与事实合并了起来并把她当做了圣人。
+   ≫   The two meanings conflated.  这两种意思合并在了一起。
+
+<<=== 2026-10-05 ===>>
