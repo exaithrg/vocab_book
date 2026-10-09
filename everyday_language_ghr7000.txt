@@ -383,3 +383,144 @@ derandomization
 解随机处理
 
 <<=== 2026-10-08 ===>>
+========================================================================
+>>> reserve
+------------------------------------------------------------------------
+reserve    [美 rɪ'zɝv / 英 rɪ'zɜːv]
+n. 储备，储存；自然保护区；预备队；缄默；[金融] 储备金
+vt. 储备；保留；预约
+vi. 预订
+n. (Reserve)人名；(法)勒塞尔夫
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is reserved for a particular person or purpose, it is kept specially for that person or purpose. 预留
+   ≫   A double room with a balcony overlooking the sea had been reserved for him.  一个带一座阳台的海景双人间已被预留给他了。
+2. (V-T) If you reserve something such as a table, ticket, or magazine, you arrange for it to be kept specially for you, rather than sold or given to someone else. 预订
+   ≫   I'll reserve a table for five.  我要预订一个5人的餐位。
+3. (N-COUNT) A reserve is a supply of something that is available for use when it is needed. 储备
+   ≫   The Persian Gulf has 65 percent of the world's oil reserves.  波斯湾拥有全世界石油储备的65%。
+4. [英国英语] A nature reserve is an area of land where the animals, birds, and plants are officially protected. 保护区
+5. (N-UNCOUNT) If someone shows reserve, they keep their feelings hidden. 矜持
+   ≫   I hope that you'll overcome your reserve and let me know.  我希望你能克服矜持，让我知道。
+6. (PHRASE) If you have something in reserve, you have it available for use when it is needed. 保留备用
+   ≫   He poked around the top of his cabinet for the bottle of whisky that he kept in reserve.  他在壁橱的上面翻找他留的那瓶威士忌。
+7. to reserve judgment →see
+8. to reserve the right →see
+
+========================================================================
+>>> mirage
+------------------------------------------------------------------------
+mirage    [美 mə'rɑʒ / 英 'mɪrɑːʒ; mɪ'rɑːʒ]
+n. 海市蜃楼；幻想，妄想
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mirage is something that you see when it is extremely hot, for example in the desert, and which appears to be quite near but is actually a long way away or does not really exist. 海市蜃楼; 幻境
+   ≫   It hovered before his eyes like the mirage of an oasis.  它在他眼前晃动，好像海市蜃楼里的绿洲。
+2. [usu sing] If you describe something as a mirage, you mean that it is not real or true, although it may seem to be. 幻想; 妄想
+   ≫   The girl was a mirage, cast up by his troubled mind.  那个女孩是他的幻觉，是他混乱的头脑中妄想出来的。
+
+========================================================================
+>>> 迁徙
+------------------------------------------------------------------------
+迁徙
+vi. migrate
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Migrating birds filled the pale sky. 迁徙的鸟布满了灰白的天空。《柯林斯英汉双解大词典》
+≫   Swallows migrate south in winter. 燕子在冬天迁徙到南方。《牛津词典》
+≫   Most birds have to fly long distances to migrate. 大多数的鸟类不得不飞行很长的距离进行迁徙。《柯林斯英汉双解大词典》
+
+========================================================================
+>>> migrate
+------------------------------------------------------------------------
+migrate    [英 maɪ'greɪt; 'maɪgreɪt / 美 'maɪɡret]
+vi. 移动；随季节而移居；移往
+vt. 使移居；使移植
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If people migrate, they move from one place to another, especially in order to find work or to live somewhere for a short time. 迁移
+   ≫   People migrate to cities like Jakarta in search of work.  人们移居到雅加达这样的城市找工作。
+2. (N-VAR) migration 迁移
+   ≫   ...the migration of Soviet Jews to Israel.  …苏联犹太人向以色列的迁移。
+3. (V-I) When birds, fish, or animals migrate, they move at a particular season from one part of the world or from one part of a country to another, usually in order to breed or to find new feeding grounds. 迁徙
+   ≫   Most birds have to fly long distances to migrate.  大多数的鸟类不得不飞行很长的距离进行迁徙。
+4. (N-VAR) migration 迁徙
+   ≫   ...the migration of animals in the Serengeti.  …塞伦盖蒂的动物迁徙。
+
+========================================================================
+>>> mirage
+------------------------------------------------------------------------
+mirage    [美 mə'rɑʒ / 英 'mɪrɑːʒ; mɪ'rɑːʒ]
+n. 海市蜃楼；幻想，妄想
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mirage is something that you see when it is extremely hot, for example in the desert, and which appears to be quite near but is actually a long way away or does not really exist. 海市蜃楼; 幻境
+   ≫   It hovered before his eyes like the mirage of an oasis.  它在他眼前晃动，好像海市蜃楼里的绿洲。
+2. [usu sing] If you describe something as a mirage, you mean that it is not real or true, although it may seem to be. 幻想; 妄想
+   ≫   The girl was a mirage, cast up by his troubled mind.  那个女孩是他的幻觉，是他混乱的头脑中妄想出来的。
+
+========================================================================
+>>> migrate
+------------------------------------------------------------------------
+migrate    [美 'maɪɡret / 英 maɪ'greɪt; 'maɪgreɪt]
+vi. 移动；随季节而移居；移往
+vt. 使移居；使移植
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If people migrate, they move from one place to another, especially in order to find work or to live somewhere for a short time. 迁移
+   ≫   People migrate to cities like Jakarta in search of work.  人们移居到雅加达这样的城市找工作。
+2. (N-VAR) migration 迁移
+   ≫   ...the migration of Soviet Jews to Israel.  …苏联犹太人向以色列的迁移。
+3. (V-I) When birds, fish, or animals migrate, they move at a particular season from one part of the world or from one part of a country to another, usually in order to breed or to find new feeding grounds. 迁徙
+   ≫   Most birds have to fly long distances to migrate.  大多数的鸟类不得不飞行很长的距离进行迁徙。
+4. (N-VAR) migration 迁徙
+   ≫   ...the migration of animals in the Serengeti.  …塞伦盖蒂的动物迁徙。
+
+========================================================================
+>>> migration
+------------------------------------------------------------------------
+migration    [美 maɪ'ɡreʃən / 英 maɪ'greɪʃ(ə)n]
+n. 迁移；移民；移动
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What does this migration not do? 这种迁移不能做什么？
+≫   Therefore, you must perform this step manually with any of the migration approaches. 因此，您必须采用任意一种迁移方式手工执行这一步骤。
+≫   Because of this and other differences in the two versions, we recommend that you test the maps after migration. 由于这两个版本之间的种种差异，我们建议您在完成迁移后对映射进行测试。
+
+========================================================================
+>>> hypotbetical
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> disgust
+------------------------------------------------------------------------
+disgust    [美 dɪs'ɡʌst / 英 dɪs'gʌst]
+n. 厌恶，嫌恶
+vt. 使厌恶；使作呕
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Disgust is a feeling of very strong dislike or disapproval. 厌恶
+   ≫   He spoke of his disgust at the incident.  他谈到了对此事的厌恶。
+2. (V-T) To disgust someone means to make them feel a strong sense of dislike and disapproval. 使厌恶
+   ≫   He disgusted many with his boorish behaviour.  他以其粗鲁的行为使许多人感到厌恶。
+
+========================================================================
+>>> concurrency
+------------------------------------------------------------------------
+concurrency    [英 kənˈkʌrənsɪ / 美 kənˈkɜːrənsi]
+n. 同时发生，同时存在；（计）并发性，并发
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫    
+≫   Better support for concurrency. 更好地支持并发。
+≫   Who really needs concurrency? 谁真正需要并行？
+
+========================================================================
+>>> miscellaneous
+------------------------------------------------------------------------
+miscellaneous    [美 'mɪsə'lenɪəs / 英 ,mɪsə'leɪnɪəs]
+adj. 混杂的，各种各样的；多方面的，多才多艺的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category. 各式各样的
+   ≫   ...a hoard of miscellaneous junk.  …五花八门的废旧物品的贮藏库。
+
+<<=== 2026-10-09 ===>>
