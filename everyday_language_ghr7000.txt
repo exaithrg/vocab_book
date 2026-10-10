@@ -524,3 +524,89 @@ TEM8
    ≫   ...a hoard of miscellaneous junk.  …五花八门的废旧物品的贮藏库。
 
 <<=== 2026-10-09 ===>>
+========================================================================
+>>> parallel
+------------------------------------------------------------------------
+parallel    [美 'pærəlɛl / 英 'pærəlel]
+adj.
+
+平行的；并行的；同方向的(to， with)
+ 相同的；类似的；对应的
+ 同一方向的；同一目的的
+ 【语法学】对句的；并列的
+ 【电子学、计算机】并联的
+ 【音乐】(调、音阶、音程等)平行的
+ 【滑雪】双板平行的
+n.
+
+平行线(或面)；平行曲线
+ 类似的(或可相比拟的)人(或物)
+ 平行或并联(的状态)
+ 比较；对比
+ 相匹敌的物(或人)；对手
+ 纬线;纬度圈;平行圈[全称 parallel of latitude]
+ 并行；并列； 【电子学】并联； 【计算机】并行
+ [复数]【印刷】平行符号(即‖)
+ 平行堑壕
+vt.
+
+使成平行，与…平行；与…平行发生：
+The stream parallels the road for several miles.
+这条小河和公路平行数英里
+ 比较；对比(with):
+This bird cannot be paralled for beauty.
+这鸟的美丽是无与伦比的。
+ 比得过；配得上；与…相应：
+His experiences parallel mine in many instances.
+他的经历在许多地方与我的差不多。
+ (为找出相似处)将…作比拟：
+ [废语]使一致
+adv.
+
+平行地；并列地
+短语:
+
+
+                                                                        draw a parallel between
+                                                                在…之间作个比较(或对照)，指出(两者)相同之处
+
+                                                                        in parallel
+                                                                
+
+                            平行的(地)，并行的(地)
+                        
+
+                            【电工学】并联的(地)
+                        
+
+
+                                                                        in paralled with
+                                                                
+
+                            与…同时；与…平行
+                        
+
+                            与…并联
+                        
+
+
+                                                                        be parall to (或 with)
+                                                                与…平行
+
+                                                                        without (a) parallel
+                                                                举世无双，无可匹敌，无与伦比
+变形：
+vt.  paralleled或-allelled
+                                                                                                                       . paralleling或-allelling
+
+========================================================================
+>>> constellation
+------------------------------------------------------------------------
+constellation    [英 ,kɒnstə'leɪʃ(ə)n / 美 ,kɑnstə'leʃən]
+n. [天] 星座；星群；荟萃；兴奋丛
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A constellation is a group of stars which form a pattern and have a name. 星座
+   ≫   ...a planet orbiting a star in the constellation of Cepheus.  …绕仙王星座内一颗恒星运转的一颗行星。
+
+<<=== 2026-10-10 ===>>
