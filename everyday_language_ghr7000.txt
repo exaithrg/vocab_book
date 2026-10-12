@@ -900,3 +900,82 @@ CET4 TEM4
 
 <<=== 2026-10-11 ===>>
 <<=== 2026-10-12 ===>>
+========================================================================
+>>> arena
+------------------------------------------------------------------------
+arena    [英 ə'riːnə / 美 ə'rinə]
+n. 舞台；竞技场
+n. (Arena)人名；(英)阿里纳；(意、西、葡、德)阿雷纳
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An arena is a place where sports, entertainments, and other public events take place. It has seats around it where people sit and watch. 竞技场
+   ≫   ...the largest indoor sports arena in the world.  …世界上最大的室内体育竞技场。
+2. (N-COUNT) You can refer to a field of activity, especially one where there is a lot of conflict or action, as an arena of a particular kind. 斗争场所
+   ≫   He made it clear he had no intention of withdrawing from the political arena.  他明确表示他没有退出政治舞台的意图。
+
+========================================================================
+>>> recipe
+------------------------------------------------------------------------
+recipe    [美 'rɛsəpi / 英 'resɪpɪ]
+n. 食谱；[临床] 处方；秘诀；烹饪法
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A recipe is a list of ingredients and a set of instructions that tell you how to cook something. 食谱
+   ≫   ...a traditional recipe for buttermilk biscuits.  …一个酪乳饼干的传统烹饪法。
+2. (N-SING) If you say that something is a recipe for a particular situation, you mean that it is likely to result in that situation. 方法
+   ≫   Large-scale inflation is a recipe for disaster.  大规模的通货膨胀有可能导致灾难。
+
+========================================================================
+>>> commonality
+------------------------------------------------------------------------
+commonality    [美 'kɑmənəlti / 英 kɒmə'nælɪtɪ]
+n. 公共；共性；平民
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft N 'of' n] Commonality is used to refer to a feature or purpose that is shared by two or more people or things. 共同点; 共同之处; 共性
+   ≫   We don't have the same commonality of interest.  我们没有利益共同点。
+   ≫   There are an amazing number of commonalities between the systems.  这些系统有大量共同之处。
+
+========================================================================
+>>> crescent
+------------------------------------------------------------------------
+crescent    [美 'krɛsnt / 英 'kresənt]
+n. 新月；新月状物；伊斯兰教的标记；土耳其的新月形国徽
+adj. 新月形的；逐渐增加的
+vt. 以新月形物装饰；使成新月形
+n. (Crescent)人名；(法)克雷桑
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A crescent is a curved shape that is wider in the middle than at its ends, like the shape of the moon during its first and last quarters. It is the most important symbol of the Islamic faith. 新月 (伊斯兰教最重要的标志)
+   ≫   A glittering Islamic crescent tops the mosque.  一个闪闪发光的伊斯兰新月标志立于该清真寺之顶。
+   ≫   ...a narrow crescent of sand dunes.  …一个狭长的新月形沙丘。
+2. (N-IN-NAMES) Crescent is sometimes used as part of the name of a street or row of houses that is usually built in a curve. 新月街 (用于修成弧形的街道或房屋的地址单位)
+   ≫   The address is 44 Colville Crescent.  地址是科尔维尔新月街44号。
+
+========================================================================
+>>> provenance
+------------------------------------------------------------------------
+provenance    [美 'prɑvənəns / 英 'prɒv(ə)nəns]
+n. 出处，起源
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with poss] The provenance of something is the place that it comes from or that it originally came from. 出处
+   ≫   Kato was fully aware of the provenance of these treasures.  卡托对这些珍宝的出处全都了如指掌。
+
+========================================================================
+>>> reconciled
+------------------------------------------------------------------------
+reconciled    [英 'rekənsaild /  'rekənsaild]
+vt. 和解；调解；熨（reconcile的过去式及过去分词）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful. 使和谐一致; 调和
+   ≫   It's difficult to reconcile the demands of my job and the desire to be a good father.  协调我工作的要求与我当个好父亲的愿望很难。
+2. (V-RECIP-PASSIVE) If you are reconciled with someone, you become friendly with them again after a quarrel or disagreement. 与…和好
+   ≫   He never believed he and Susan would be reconciled.  他不认为他和苏珊会和好。
+3. (V-T) If you reconcile two people, you make them become friends again after a quarrel or disagreement. 使和解
+   ≫   ...my attempt to reconcile him with Toby.  …我使他与托比和解的努力。
+4. (V-T) If you reconcile yourself to an unpleasant situation, you accept it, although it does not make you happy to do so. 妥协; 将就
+   ≫   She had reconciled herself to never seeing him again.  她不情愿地接受了再也不和他见面的事实。
+5. [v-link ADJ 'to' n/-ing] reconciled 妥协的; 将就的
+   ≫   She felt, if not grateful for her own situation, at least a little more reconciled to it.  她觉得，即便对自己的处境不心存感激，至少能将就一些了。
+
+<<=== 2026-10-13 ===>>
