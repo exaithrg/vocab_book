@@ -979,3 +979,181 @@ CET4 TEM4
    ≫   She felt, if not grateful for her own situation, at least a little more reconciled to it.  她觉得，即便对自己的处境不心存感激，至少能将就一些了。
 
 <<=== 2026-10-13 ===>>
+========================================================================
+>>> schema
+------------------------------------------------------------------------
+schema    [美 'skimə / 英 'skiːmə]
+n. [计][心理] 模式；计划；图解；概要
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A schema is an outline of a plan or theory. 概要
+   ≫   ...a definite position in the schema of the economic process.  ...在经济进程概要中的明确位置。
+
+========================================================================
+>>> Thermal
+------------------------------------------------------------------------
+thermal    [美 'θɝml / 英 'θɜːm(ə)l]
+adj. 热的；热量的；保热的
+n. 上升的热气流
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Thermal means relating to or caused by heat or by changes in temperature. 热的; 由热引起的; 由温度变化引起的
+   ≫   ...thermal power stations.  …热电站。
+2. [ADJ n] Thermal streams or baths contain water which is naturally hot or warm. 天然温热的
+   ≫   Volcanic activity has created thermal springs and boiling mud pools.  火山活动产生了温泉和沸腾的泥浆池。
+3. [ADJ n] Thermal clothes are specially designed to keep you warm in cold weather. 保暖的 (衣服)
+   ≫   ...thermal underwear.  …保暖内衣
+   ≫   My feet were like blocks of ice despite the thermal socks.  我的双脚尽管穿着保暖袜，还是像冰块。
+4. (N-PLURAL) Thermals are thermal clothes. 保暖衣
+   ≫   Have you got your thermals on?  你穿上保暖衣了吗？
+5. (N-COUNT) A thermal is a movement of rising warm air. 上升的暖气流
+   ≫   Birds use thermals to lift them through the air.  鸟类利用上升的暖气流升空。
+
+========================================================================
+>>> commit
+------------------------------------------------------------------------
+commit    [美 kə'mɪt / 英 kə'mɪt]
+vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone commits a crime or a sin, they do something illegal or bad. 犯 (罪); 做 (坏事)
+   ≫   I have never committed any crime.  我从没有犯过任何罪。
+   ≫   This is a man who has committed murder.  这是个犯了谋杀罪的男人。
+2. (V-T) If someone commits suicide, they deliberately kill themselves. 进行 (自杀)
+   ≫   There are unconfirmed reports he tried to commit suicide.  有未经证实的报道说他曾企图自杀。
+3. (V-T) If you commit money or resources to something, you decide to use them for a particular purpose. 调拨 (钱、资源)
+   ≫   They called on Western nations to commit more money to the poorest nations.  他们号召西方国家为最贫困国家拨更多的款。
+   ≫   The company had committed thousands of dollars for a plan to reduce mercury emissions.  该公司已经为了一项减少汞排放的计划调拨了数千美元。
+4. (V-T/V-I) If you commit yourself to something, you say that you will definitely do it. If you commit yourself to someone, you decide that you want to have a long-term relationship with them. 使 (自己) 致力于; 使 (自己) 承诺 (与某人的长期关系)
+   ≫   I would advise people to think very carefully about committing themselves to working Sundays.  我会建议人们认真考虑答应周日工作。
+   ≫   I'd like a friendship that might lead to something deeper, but I wouldn't want to commit myself too soon.  我想要可能发展到更深层关系的友谊，但我不想太快做出承诺。
+   ≫   He won't commit.  他不会承诺。
+5. [with brd-neg] If you do not want to commit yourself on something, you do not want to say what you really think about it or what you are going to do. (就某事) 表态
+   ≫   It isn't their diplomatic style to commit themselves on such a delicate issue.  就如此微妙的问题表态不是他们的外交风格。
+6. [usu passive] If someone is committed to a mental hospital, prison, or other institution, they are officially sent there for a period of time. 送交 (到精神病院、监狱等)
+   ≫   Arthur's drinking caused him to be committed to a psychiatric hospital.  阿瑟酗酒导致他被关进了一家精神病院。
+7. (V-T) If you commit something to paper or to writing, you record it by writing it down. If you commit something to memory, you learn it so that you will remember it. 记 (在纸上、记忆中)
+   ≫   She had not committed anything to paper about it.  她还没有把关于它的任何东西记在纸上。
+
+========================================================================
+>>> conclusive
+------------------------------------------------------------------------
+conclusive    [美 kən'klusɪv / 英 kən'kluːsɪv]
+adj. 决定性的；最后的；确实的；确定性的
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Conclusive evidence shows that something is certainly true. 确凿的
+   ≫   Her attorneys claim there is no conclusive evidence that any murders took place.  她的律师们声称没有任何发生过谋杀的确凿证据。
+
+========================================================================
+>>> untrack
+------------------------------------------------------------------------
+untrack
+vt. 使偏离轨道
+
+========================================================================
+>>> summarise
+------------------------------------------------------------------------
+summarise    ['sʌməraɪz / 英 'sʌməraɪz]
+vt. 概括（等于summarize）；相加
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   If you did try to summarise it, what would you say you’re trying to get at with these book choices? 记者: 您曾经真想概括它，您说您正在通过这些推荐书目来试图弄懂它，这话是什么意思？
+≫   One said (forgive me if I summarise) that the Left had been right all along, and that the country was plainly run by a money-grubbing cabal. 一个（原谅我概括原文）称左翼一直都是对的，这个国家显然是由一个敛财的阴谋团队领导。
+≫   The decline and fall of the American car industry is relatively easy to summarise, and the Hummer is its reductio. 美国汽车业的衰亡相对比较容易概括总结，悍马正是美国汽车业的缩影。
+
+========================================================================
+>>> bracket
+------------------------------------------------------------------------
+bracket    [美 'brækɪt / 英 'brækɪt]
+n. 支架；括号；墙上凸出的托架
+vt. 括在一起；把…归入同一类；排除
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) If you say that someone or something is in a particular bracket, you mean that they come within a particular range, for example, a range of incomes, ages, or prices. (收入、年龄、价格等的) 范围
+   ≫   ...a 33% top tax rate on everyone in these high-income brackets.  …这些高收入范围内每个人的33%的最高税率。
+2. (N-COUNT) Brackets are pieces of metal, wood, or plastic that are fastened to a wall in order to support something such as a shelf. (固定在墙上的) 支架
+   ≫   Fix the beam with the brackets and screws.  用支架和螺丝固定横梁。
+3. (V-T) If two or more people or things are bracketed together, they are considered to be similar or related in some way. 归为一类
+   ≫   The Magi, Brahmins, and Druids were bracketed together as men of wisdom.  三贤人、婆罗门、德鲁伊特教僧侣一起被归为智者。
+4. (N-COUNT) Brackets are pair of marks ( ) that are placed around a series of symbols in a mathematical expression to indicate that those symbols function as one item within the expression. (数学中用以表示整体的) 括号
+5. [英国英语] Brackets are a pair of written marks ( ) that you place around a word, expression, or sentence in order to indicate that you are giving extra information. (用以给出额外信息的) 括号
+
+========================================================================
+>>> Retriever
+------------------------------------------------------------------------
+retriever    [美 rɪ'trivɚ / 英 rɪ'triːvə]
+n. （训练成能寻回猎物的）猎犬；取回的人
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A retriever is a kind of dog. Retrievers are traditionally used to bring back birds and animals that their owners have shot. 寻回犬
+
+========================================================================
+>>> Retrieve
+------------------------------------------------------------------------
+retrieve    [美 rɪ'triv / 英 rɪ'triːv]
+vt. [计] 检索；恢复；重新得到
+vi. 找回猎物
+n. [计] 检索；恢复，取回
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you retrieve something, you get it back from the place where you left it. 找回; 取回
+   ≫   The men were trying to retrieve weapons left when the army abandoned the island.  那些人正试图找回该军队撤离这个岛时留下的武器。
+2. (V-T) If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+   ≫   He, the one man who could retrieve that situation, might receive the call.  他这个惟一能挽回那个局面的人可能会接到这个电话。
+3. (V-T) To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+   ≫   Computers can instantly retrieve millions of information bits.  计算机能立刻读取数百万条信息。
+
+========================================================================
+>>> 维护、
+------------------------------------------------------------------------
+维护
+n. safeguard
+vt. maintain ; preserve ; vindicate
+misc. stick up for
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Small gardens can be high maintenance. 小花园也会有很高的维护费。《柯林斯英汉双解大词典》
+≫   He maintained order by sheer force of personality. 他纯凭人格力量维护秩序。《牛津词典》
+≫   He was anxious to preserve his reputation. 他急于维护自己的名声。《牛津词典》
+
+========================================================================
+>>> 保密
+------------------------------------------------------------------------
+保密
+n. confidentiality ; secrecy
+misc. keep secret ; privary
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These files are locked to protect confidentiality. 为了保密，这些文件都加了锁。《牛津词典》
+≫   The government has thrown a blanket of secrecy over the details. 政府已对这些细节严加保密。《柯林斯英汉双解大词典》
+≫   Confidentiality is important because of the sensitivity of the information. 这情报很敏感，务必保密。《牛津词典》
+
+========================================================================
+>>> confidentiality
+------------------------------------------------------------------------
+confidentiality    [英 ,kɒnfɪ,denʃɪ'ælɪtɪ / 美 ,kɑnfɪ,dɛnʃɪ'æləti]
+n. 机密，[计] 机密性
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This advertising happens both in public and private groups depending upon the confidentiality of the network. 根据网络的机密性，这种宣传可以同时在公共的和私有的组中进行。
+≫   It is imperative that this connection is secure to protect the integrity and confidentiality of messages being exchanged between these components. 这种连接的安全性是强制性的，以保证在这些组件之间交换的消息的完整性和机密性。
+≫   Create a secure connection to the service that encrypts and authenticates, so you at least have a way to get confidentiality and integrity for the connection to the service. 创建一个到服务的安全连接，它会进行加密和验证，这样您至少有一种方法为到该服务的连接保证机密性和完整性。
+
+========================================================================
+>>> 商业机密
+------------------------------------------------------------------------
+商业机密
+n. trade secret
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   She was dismissed for revealing trade secrets. 她因泄露商业机密被解雇。《牛津词典》
+≫   We still have the question of how they have discovered the trade secret. 我们仍对他们如何发现这商业机密怀有疑问。
+≫   The biggest day-to-day threats faced by companies and government agencies come from crooks and spooks hoping to steal financial data and trade secrets. 企业和政府机构日常面临的最大威胁来自于希望窃取金融数据和商业机密的骗子和间谍。
+
+========================================================================
+>>> revealing
+------------------------------------------------------------------------
+revealing    [美 rɪ'vilɪŋ / 英 rɪ'viːlɪŋ]
+adj. 透露真情的；有启迪作用的；袒胸露肩的
+v. 揭示；展现（reveal的ing形式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A revealing statement, account, or action tells you something that you did not know, especially about the person doing it or making it. 透露内情的
+   ≫   ...a revealing interview.  …一次透露内幕的采访。
+
+<<=== 2026-10-14 ===>>
