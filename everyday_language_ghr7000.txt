@@ -1304,3 +1304,85 @@ vt. 编辑，校订，修订；删改，隐去，涂黑（发布前删除或遮�
 1. (V) to compose or draft (an edict, proclamation, etc) 撰写
 
 <<=== 2026-10-15 ===>>
+========================================================================
+>>> 
+------------------------------------------------------------------------
+kd <text>	查单词、词组
+kd -t <text>	查长句
+kd -h    	查看详细帮助
+
+========================================================================
+>>> 汇报
+------------------------------------------------------------------------
+汇报
+n. report
+misc. give an account of
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Companies report to their shareholders annually. 各公司每年向其股东们汇报一次。《柯林斯英汉双解大词典》
+≫   Much of what was reported to them was hearsay. 他们听到的汇报大多都是道听途说。《柯林斯英汉双解大词典》
+≫   Find out as much as you can about him and report back to me. 尽量查找有关他的资料，向我汇报。《牛津词典》
+
+========================================================================
+>>> audit
+------------------------------------------------------------------------
+audit    [美 'ɔdɪt / 英 'ɔːdɪt]
+vi. 审计；[审计] 查账
+n. 审计；[审计] 查账
+vt. （美）旁听
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly. 审计
+   ≫   Each year they audit our accounts and certify them as being true and fair.  每年他们都会审核我们的账目，以证明其准确合理。
+2. (N-COUNT) Audit is also a noun. 审计
+   ≫   The bank first learned of the problem when it carried out an internal audit.  银行是在进行内部审计时最先得知这个问题的。
+
+========================================================================
+>>> assessment
+------------------------------------------------------------------------
+assessment    [美 ə'sɛsmənt / 英 ə'sesmənt]
+n. 评定；估价
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An assessment is a consideration of someone or something and a judgment about them. 评估
+   ≫   There is little assessment of the damage to the natural environment.  几乎没有有关自然环境破坏的评估。
+2. (N-VAR) An assessment of the amount of money that something is worth or that should be paid is a calculation or estimate of the amount. 估算
+   ≫   Tax assessment is all about comparing values of similar properties.  税金估算就是比较类似房产的价值。
+
+========================================================================
+>>> bulk
+------------------------------------------------------------------------
+bulk    [美 bʌlk / 英 bʌlk]
+n. 体积，容量；大多数，大部分；大块
+vt. 使扩大，使形成大量；使显得重要
+n. (Bulk)人名；(土)布尔克
+CET4 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] You can refer to something's bulk when you want to emphasize that it is very large. 大块
+   ≫   The truck pulled out of the lot, its bulk unnerving against the dawn.  拂晓时分，卡车驶出了停车场，庞大的车身看起来有点儿可怕。
+2. (N-SING) You can refer to a large person's body or to their weight or size as their bulk. 庞大肥硕的身躯
+   ≫   Bannol lowered his bulk carefully into the chair.  班诺尔那肥硕的身躯小心地坐落到了椅子上。
+3. [QUANT 'of' def-n] The bulk of something is most of it. 大部分
+   ≫   The bulk of the text is essentially a review of these original documents.  正文的大部分基本上是对这些原始文献的回顾。
+4. (PRON) Bulk is also a pronoun. 大部分
+   ≫   They come from all over the world, though the bulk is from the Indian subcontinent.  他们来自世界各地，但其中大部分人还是来自印度次大陆。
+5. (PHRASE) If you buy or sell something in bulk, you buy or sell it in large quantities. 大批地 (买卖)
+   ≫   Buying in bulk is more economical than shopping for small quantities.  大批采购比少量购买更经济实惠。
+
+========================================================================
+>>> hedge
+------------------------------------------------------------------------
+hedge    [英 hedʒ / 美 hɛdʒ]
+v. 用树篱笆围住；避免作正面答复
+n. 对冲，套期保值；树篱；障碍
+n. (Hedge)人名；(英)赫奇
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hedge is a row of bushes or small trees, usually along the edge of a lawn, garden, field, or road. 树篱
+2. (V-I) If you hedge against something unpleasant or unwanted that might affect you, especially losing money, you do something which will protect you from it. 防备 (尤指金钱损失)
+   ≫   You can hedge against illness with insurance.  你可以买保险以备治疗患病之需。
+3. (N-COUNT) Something that is a hedge against something unpleasant will protect you from its effects. 防备手段
+   ≫   Gold is traditionally a hedge against inflation.  黄金传统上是一种防范通货膨胀的手段。
+4. (PHRASE) If you hedge your bets, you reduce the risk of losing a lot by supporting more than one person or thing in a situation where they are opposed to each other. 几面下注
+   ≫   The company tried to hedge its bets by diversifying into other fields.  该公司试图通过兼营其他领域几面下注。
+
+<<=== 2026-10-17 ===>>
