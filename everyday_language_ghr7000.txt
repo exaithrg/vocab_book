@@ -1386,3 +1386,56 @@ CET4 TEM4
    ≫   The company tried to hedge its bets by diversifying into other fields.  该公司试图通过兼营其他领域几面下注。
 
 <<=== 2026-10-17 ===>>
+========================================================================
+>>> mirage
+------------------------------------------------------------------------
+mirage    [美 mə'rɑʒ / 英 'mɪrɑːʒ; mɪ'rɑːʒ]
+n. 海市蜃楼；幻想，妄想
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A mirage is something that you see when it is extremely hot, for example in the desert, and which appears to be quite near but is actually a long way away or does not really exist. 海市蜃楼; 幻境
+   ≫   It hovered before his eyes like the mirage of an oasis.  它在他眼前晃动，好像海市蜃楼里的绿洲。
+2. [usu sing] If you describe something as a mirage, you mean that it is not real or true, although it may seem to be. 幻想; 妄想
+   ≫   The girl was a mirage, cast up by his troubled mind.  那个女孩是他的幻觉，是他混乱的头脑中妄想出来的。
+
+========================================================================
+>>> mireage
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> 迁移
+------------------------------------------------------------------------
+迁移
+n. migration ; removal ; transfer ; transference
+vi. migrate
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   They wanted to move to a warmer climate. 他们想迁移到气候较温暖的地区。《牛津词典》
+≫   They actually monitor the movement of the fish going up river. 他们实际上在观测鱼向上游的迁移活动。《柯林斯英汉双解大词典》
+≫   What does this migration not do? 这种迁移不能做什么？
+
+========================================================================
+>>> migration
+------------------------------------------------------------------------
+migration    [美 maɪ'ɡreʃən / 英 maɪ'greɪʃ(ə)n]
+n. 迁移；移民；移动
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   What does this migration not do? 这种迁移不能做什么？
+≫   Therefore, you must perform this step manually with any of the migration approaches. 因此，您必须采用任意一种迁移方式手工执行这一步骤。
+≫   Because of this and other differences in the two versions, we recommend that you test the maps after migration. 由于这两个版本之间的种种差异，我们建议您在完成迁移后对映射进行测试。
+
+========================================================================
+>>> expand
+------------------------------------------------------------------------
+expand    [美 ɪk'spænd / 英 ɪk'spænd; ek-]
+vt. 扩张；使膨胀；详述
+vi. 发展；张开，展开
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T/V-I) If something expands or is expanded, it becomes larger. 扩大; 膨胀
+   ≫   Engineers noticed that the pipes were not expanding as expected.  工程师们注意到管子并未像预期的那样膨胀。
+   ≫   We have to expand the size of the image.  我们不得不扩大图像的尺寸。
+2. [商业] If something such as a business, organization, or service expands, or if you expand it, it becomes bigger and includes more people, goods, or activities. 使…发展; 发展
+   ≫   The popular ceramics industry expanded toward the middle of the 19th century.  大众陶瓷业在19世纪中叶得到了发展。
+
+<<=== 2026-10-18 ===>>
