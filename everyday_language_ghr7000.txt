@@ -1512,3 +1512,122 @@ CET4 TEM4
    ≫   He never expected to return home wearing combat fatigues.  他从未想到会穿着作战服回家。
 
 <<=== 2026-10-19 ===>>
+========================================================================
+>>> schema
+------------------------------------------------------------------------
+schema    [美 'skimə / 英 'skiːmə]
+n. [计][心理] 模式；计划；图解；概要
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] A schema is an outline of a plan or theory. 概要
+   ≫   ...a definite position in the schema of the economic process.  ...在经济进程概要中的明确位置。
+
+========================================================================
+>>> aggregation
+------------------------------------------------------------------------
+aggregation    [英 ,æɡrɪ'ɡeɪʃən / 美 ,ægrɪ'geʃən]
+n. [地质][数] 聚合，聚集；聚集体，集合体
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or process of aggregating 聚集
+
+========================================================================
+>>> 插值
+------------------------------------------------------------------------
+插值
+n. interpolation
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The chroma interpolation along edges produces noticeable haloing artifacts. 沿边缘的色度插值会产生明显的光晕伪像。
+≫   And then an interpolation scheme. 然后要做个插值方案。
+≫   And this is where interpolation and a prediction function can provide a solution. 而这就是插值和预报函数能提供的解决方案。
+
+========================================================================
+>>> consice
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> consise
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> concise
+------------------------------------------------------------------------
+concise    [美 kən'saɪs / 英 kən'saɪs]
+adj. 简明的，简洁的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is concise says everything that is necessary without using any unnecessary words. 简洁的
+   ≫   Burton's text is concise and informative.  伯顿的文章文字简洁、内容丰富。
+2. [ADV with v] concisely 简洁地
+   ≫   He'd delivered his report clearly and concisely.  他简洁明了地陈述了他的报告。
+3. [ADJ n] A concise edition of a book, especially a dictionary, is shorter than the original edition. 简明的 (版本)
+   ≫   ...Sotheby's Concise Encyclopedia of Porcelain.  …索思比的《简明瓷器百科全书》。
+
+========================================================================
+>>> boundary
+------------------------------------------------------------------------
+boundary    [美 'baʊndri / 英 'baʊnd(ə)rɪ]
+n. 边界；范围；分界线
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The boundary of an area of land is an imaginary line that separates it from other areas. 边界
+   ≫   The Bow Brook forms the western boundary of the wood.  鲍溪成了树林的西边界。
+2. (N-COUNT) The boundaries of something such as a subject or activity are the limits that people think that it has. 界限
+   ≫   The boundaries between history and storytelling are always being blurred and muddled.  历史与故事的界限一直模糊不清。
+
+========================================================================
+>>> manifesto
+------------------------------------------------------------------------
+manifesto    [美 ,mænɪ'fɛsto / 英 mænɪ'festəʊ]
+n. 宣言；声明；告示
+vi. 发表宣言
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A manifesto is a statement published by a person or group of people, especially a political party, or a government, in which they say what their aims and policies are. 宣言
+   ≫   The Republicans are currently drawing up their election manifesto.  共和党人目前正在起草他们的竞选宣言。
+
+========================================================================
+>>> manifold
+------------------------------------------------------------------------
+manifold    [美 'mænɪfold / 英 'mænɪfəʊld]
+vt. 复写，复印；增多；使……多样化
+adj. 多方面的，有许多部分的；各式各样的
+n. 多种；复印本
+n. (Manifold)人名；(英)马尼福尔德
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] Things that are manifold are of many different kinds. 各种各样的; 多样的
+   ≫   Gaelic can be heard here in manifold forms.  这里可以听到各式各样的盖尔语。
+
+========================================================================
+>>> manifold
+------------------------------------------------------------------------
+manifold    [美 'mænɪfold / 英 'mænɪfəʊld]
+vt. 复写，复印；增多；使……多样化
+adj. 多方面的，有许多部分的；各式各样的
+n. 多种；复印本
+n. (Manifold)人名；(英)马尼福尔德
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [文学性] Things that are manifold are of many different kinds. 各种各样的; 多样的
+   ≫   Gaelic can be heard here in manifold forms.  这里可以听到各式各样的盖尔语。
+
+========================================================================
+>>> determinism
+------------------------------------------------------------------------
+determinism    [美 dɪ'tɝmɪnɪzəm / 英 dɪ'tɜːmɪnɪz(ə)m]
+n. [力] 决定论
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [oft adj N] Determinism is the belief that all actions and events result from other actions, events, or situations, so people cannot in fact choose what to do. 决定论
+   ≫   I don't believe in historical determinism.  我不相信历史决定论。
+
+========================================================================
+>>> hippocampus
+------------------------------------------------------------------------
+hippocampus    [美 ,hɪpə'kæmpəs / 英 ,hɪpə(ʊ)'kæmpəs]
+n. [解剖][脊椎] 海马；马头鱼尾怪兽（神话中的一个形象）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a mythological sea creature with the forelegs of a horse and the tail of a fish 神话中的马头鱼尾海怪
+
+<<=== 2026-10-20 ===>>
