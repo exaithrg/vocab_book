@@ -1439,3 +1439,76 @@ CET4 TEM4
    ≫   The popular ceramics industry expanded toward the middle of the 19th century.  大众陶瓷业在19世纪中叶得到了发展。
 
 <<=== 2026-10-18 ===>>
+========================================================================
+>>> citypop
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> purge
+------------------------------------------------------------------------
+purge    [美 pɝdʒ / 英 pɜːdʒ]
+vi. 净化；通便
+vt. 净化；清洗；通便
+n. 净化；泻药
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) To purge an organization of its unacceptable members means to remove them from it. You can also talk about purging people from an organization. (从组织中) 清除 (异己成员)
+   ≫   The leadership voted to purge the party of "hostile and antiparty elements."  领导层投票来清除党内“有敌意的反党分子”。
+   ≫   He recently purged the armed forces, sending hundreds of officers into retirement.  他最近肃清了武装部队，打发数百名军官退了役。
+2. (N-COUNT) Purge is also a noun. 清除
+   ≫   The army have called for a more thorough purge of people associated with the late president.  军队已要求对已故总统的关联人物来一次更彻底地清除。
+3. (V-T) If you purge something of undesirable things, you get rid of them. 清除 (不合意的事物)
+   ≫   He closed his eyes and lay still, trying to purge his mind of anxiety.  他闭上眼睛躺着不动，试图清除心里的焦虑。
+
+========================================================================
+>>> prune
+------------------------------------------------------------------------
+prune    [美 prun / 英 pruːn]
+vi. 删除；减少
+vt. 修剪；删除；剪去
+n. 深紫红色；傻瓜；李子干
+n. (Prune)人名；(罗)普鲁内
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prune is a dried plum. 李子干
+2. (V-T/V-I) When you prune, or prune a tree or bush, you cut off some of the branches so that it will grow better the next year. 修剪 (树木)
+   ≫   You have to prune a bush if you want fruit.  如果你想要果树结果，你就得给它剪枝。
+3. (PHRASAL VERB) Prune back means the same as . 修剪 (树木)
+   ≫   Apples, pears, and cherries can be pruned back when they've lost their leaves.  苹果树、梨树和樱桃树在落叶之后就可以被修剪。
+4. (V-T) If you prune something, you cut out all the parts that you do not need. 删减
+   ≫   Companies are cutting investment and pruning their product ranges.  公司都在削减投资并减少产品种类。
+5. (PHRASAL VERB) Prune back means the same as . 删减
+   ≫   The company has pruned back its workforce by 20,000 since 2003.  公司自2003年以来已经裁减了2万名员工。
+6. (V) → an archaic word for
+
+========================================================================
+>>> shim
+------------------------------------------------------------------------
+shim    [美 ʃɪm / 英 ʃɪm]
+n. 楔子，垫片，填隙片；（计算机）兼容层，接口适配程序；Shim（人名姓氏，沈、希姆）
+v. 用填隙片（垫片）填入；用垫片调整（间隙、位置等）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a thin packing strip or washer often used with a number of similar washers or strips to adjust a clearance for gears, etc 薄垫片(通常和其他相似的垫片一起使用来调整齿轮等的间隙)
+2. (V) to modify a load, clearance, or magnetic field by the use of shims 用垫片改变(担子、间隙或磁场等)
+
+========================================================================
+>>> fatigue
+------------------------------------------------------------------------
+fatigue    [美 fə'tig / 英 fə'tiːg]
+n. 疲劳，疲乏；杂役
+vt. 使疲劳；使心智衰弱
+vi. 疲劳
+adj. 疲劳的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Fatigue is a feeling of extreme physical or mental tiredness. 疲惫
+   ≫   She continued to have severe stomach cramps, aches, fatigue, and depression.  她仍有严重的胃痉挛、疼痛、疲惫和抑郁症状。
+2. (N-UNCOUNT) You can say that people are suffering from a particular kind of fatigue when they have been doing something for a long time and feel they can no longer continue to do it. 疲乏
+   ≫   ...compassion fatigue caused by endless TV and celebrity appeals.  …电视和名人无休止的呼吁所引起的怜悯疲劳。
+3. (N-UNCOUNT) Fatigue in metal or wood is a weakness in it that is caused by repeated stress. Fatigue can cause the metal or wood to break. (金属、木材的) 疲劳
+   ≫   The problem turned out to be metal fatigue in the fuselage.  问题原来出在机身的金属疲劳。
+4. (N-PLURAL) Fatigues are clothes that soldiers wear when they are fighting or when they are doing routine jobs. 军服
+   ≫   He never expected to return home wearing combat fatigues.  他从未想到会穿着作战服回家。
+
+<<=== 2026-10-19 ===>>
