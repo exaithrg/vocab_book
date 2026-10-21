@@ -1631,3 +1631,22 @@ n. [解剖][脊椎] 海马；马头鱼尾怪兽（神话中的一个形象）
 1. (N) a mythological sea creature with the forelegs of a horse and the tail of a fish 神话中的马头鱼尾海怪
 
 <<=== 2026-10-20 ===>>
+========================================================================
+>>> glossary
+------------------------------------------------------------------------
+glossary    [美 'ɡlɑsəri / 英 'glɒs(ə)rɪ]
+n. 术语（特殊用语）表；词汇表；专业词典
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A glossary of special, unusual, or technical words or expressions is an alphabetical list of them giving their meanings, for example at the end of a book on a particular subject. 词汇表
+   ≫   A glossary of terms is included for the reader's convenience.  为了方便读者，还收录了术语汇编。
+
+========================================================================
+>>> deferral
+------------------------------------------------------------------------
+deferral    [美 dɪ'fɝəl]
+n. 延期；迟延；缓役
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Deferral means the same as . 同deferment
+
+<<=== 2026-10-21 ===>>
