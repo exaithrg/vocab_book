@@ -1650,3 +1650,137 @@ n. 延期；迟延；缓役
 1. (N-VAR) Deferral means the same as . 同deferment
 
 <<=== 2026-10-21 ===>>
+========================================================================
+>>> compaction
+------------------------------------------------------------------------
+compaction    [美 kəm'pækʃən / 英 kəm'pækʃən]
+n. 压紧；精简；密封；凝结
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Thus, because of compaction, it will not encounter fragmentation issues that CMS might. 这样，由于压缩的原因，它不会遇到CMS可能会遇到的碎片问题。
+≫   If your MongoDB server crashes, you should repair the database to check for any corruption and perform some data compaction. 如果 MongoDB 服务器崩溃，应修复数据库以检查错误并执行一些数据精简。
+≫   Each of these systems has its trade-offs, but generally the compaction phase is an expensive one in terms of time and effort. 每个这样的系统都有自己的平衡方法，但一般说来压缩阶段在时间和工作上都耗费颇多。
+
+========================================================================
+>>> migrate
+------------------------------------------------------------------------
+migrate    [美 'maɪɡret / 英 maɪ'greɪt; 'maɪgreɪt]
+vi. 移动；随季节而移居；移往
+vt. 使移居；使移植
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If people migrate, they move from one place to another, especially in order to find work or to live somewhere for a short time. 迁移
+   ≫   People migrate to cities like Jakarta in search of work.  人们移居到雅加达这样的城市找工作。
+2. (N-VAR) migration 迁移
+   ≫   ...the migration of Soviet Jews to Israel.  …苏联犹太人向以色列的迁移。
+3. (V-I) When birds, fish, or animals migrate, they move at a particular season from one part of the world or from one part of a country to another, usually in order to breed or to find new feeding grounds. 迁徙
+   ≫   Most birds have to fly long distances to migrate.  大多数的鸟类不得不飞行很长的距离进行迁徙。
+4. (N-VAR) migration 迁徙
+   ≫   ...the migration of animals in the Serengeti.  …塞伦盖蒂的动物迁徙。
+
+========================================================================
+>>> razor
+------------------------------------------------------------------------
+razor    [美 'rezɚ / 英 'reɪzə]
+vt. 剃，用剃刀刮
+n. 剃刀
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A razor is a tool that people use for shaving. 剃刀
+   ≫   ...a plastic disposable razor.  …一把一次性的塑料剃刀。
+
+========================================================================
+>>> solitary
+------------------------------------------------------------------------
+solitary    [美 'sɑlətɛri / 英 'sɒlɪt(ə)rɪ]
+adj. 孤独的；独居的
+n. 独居者；隐士
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A person or animal that is solitary spends a lot of time alone. 独处的
+   ≫   Paul was a shy, pleasant, solitary man.  保罗是个腼腆的、讨人喜欢的、惯于独处的人。
+2. [ADJ n] A solitary activity is one that you do alone. 独自的
+   ≫   His evenings were spent in solitary drinking.  他的每个夜晚都在独自饮酒中度过。
+3. [ADJ n] A solitary person or object is alone, with no others near them. 孤独的
+   ≫   You could see the occasional solitary figure making a study of wildflowers or grasses.  你偶尔可以看见那个研究野生花草的孤独身影。
+
+========================================================================
+>>> anchor
+------------------------------------------------------------------------
+anchor    [美 'æŋkɚ / 英 'æŋkə]
+n. 锚；抛锚停泊；靠山；新闻节目主播
+vt. 抛锚；使固定；主持节目
+vi. 抛锚
+adj. 末棒的；最后一棒的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An anchor is a heavy hooked object that is dropped from a boat into the water at the end of a chain in order to make the boat stay in one place. 锚
+2. [美国英语] The anchor on a television or radio programme, especially a news programme, is the person who presents it. 节目主持人
+   ≫   He worked in the news division of ABC – he was the anchor of its 15-minute evening newscast.  他以前在美国广播公司的新闻部工作–他是该公司15分钟晚间新闻节目的主持人。
+3. (V-T/V-I) When a boat anchors or when you anchor it, its anchor is dropped into the water in order to make it stay in one place. 抛锚
+   ≫   We could anchor off the pier.  我们可以在码头抛锚。
+4. (V-T) If an object is anchored somewhere, it is fixed to something to prevent it moving from that place. 使固定
+   ≫   The roots anchor the plant in the earth.  根须把这植物固定在土里。
+5. [美国英语] The person who anchors a television or radio programme, especially a news programme, is the person who presents it and acts as a link between interviews and reports that come from other places or studios. 主持
+   ≫   Viewers saw him anchoring a five-minute summary of regional news.  观众们看到了他主持地区新闻的5分钟综述。
+6. [美国英语] An anchor is the main shop in a mall or shopping centre. 主体商店
+   ≫   A clothing shop is to be a key anchor in a new development planned on the vacant lot.  一个服装店将成为在这块空地上计划新开发项目中的一个关键主体商店。
+7. (PHRASE) If a boat is at anchor, it is floating in a particular place and is prevented from moving by its anchor. 停泊
+   ≫   Sailboats lay at anchor in the narrow waterway.  帆船停泊在狭窄的水道里。
+
+========================================================================
+>>> chore
+------------------------------------------------------------------------
+chore    [美 tʃɔr / 英 tʃɔː]
+n. 家庭杂务；日常的零星事务；讨厌的或累人的工作
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A chore is a task that you must do but that you find unpleasant or boring. 琐事
+   ≫   She sees exercise primarily as an unavoidable chore.  她把锻炼主要看作是不得不做的琐事。
+
+========================================================================
+>>> committer
+------------------------------------------------------------------------
+committer
+n. 罪犯，犯下罪行或过错的人；（计算机）提交者，有权更改源代码并向代码仓库提交更改的人；<旧>私通者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   We'll continue to invest in these projects, certainly. Both projects have an active committer base already. 我们当然将继续投入这两个项目， 每个项目都已有一个活跃的提交者基础。
+≫   When starting the CSX task in a command window, the parallel CSX worker and committer threads are listed as depicted in Figure 8. 当在一个命令窗口中开始CSX任务时，并行csx worker线程和committer线程将被列出来，如图8所示。
+≫   The Windows port is approaching completion thanks to a dedicated group of contributors (one of whom became our first non-Google committer to the project). 由于一个专门小组（其中的一人成为项目第一个非Google的提交者）的努力，向Windows的移植已接近完成。
+
+========================================================================
+>>> committee
+------------------------------------------------------------------------
+committee    [美 kə'mɪti / 英 kə'mɪtɪ]
+n. 委员会
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) A committee is a group of people who meet to make decisions or plans for a larger group or organization that they represent. 委员会
+   ≫   ...the school yearbook committee.  …学校年鉴编委会。
+
+========================================================================
+>>> commit
+------------------------------------------------------------------------
+commit    [美 kə'mɪt / 英 kə'mɪt]
+vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone commits a crime or a sin, they do something illegal or bad. 犯 (罪); 做 (坏事)
+   ≫   I have never committed any crime.  我从没有犯过任何罪。
+   ≫   This is a man who has committed murder.  这是个犯了谋杀罪的男人。
+2. (V-T) If someone commits suicide, they deliberately kill themselves. 进行 (自杀)
+   ≫   There are unconfirmed reports he tried to commit suicide.  有未经证实的报道说他曾企图自杀。
+3. (V-T) If you commit money or resources to something, you decide to use them for a particular purpose. 调拨 (钱、资源)
+   ≫   They called on Western nations to commit more money to the poorest nations.  他们号召西方国家为最贫困国家拨更多的款。
+   ≫   The company had committed thousands of dollars for a plan to reduce mercury emissions.  该公司已经为了一项减少汞排放的计划调拨了数千美元。
+4. (V-T/V-I) If you commit yourself to something, you say that you will definitely do it. If you commit yourself to someone, you decide that you want to have a long-term relationship with them. 使 (自己) 致力于; 使 (自己) 承诺 (与某人的长期关系)
+   ≫   I would advise people to think very carefully about committing themselves to working Sundays.  我会建议人们认真考虑答应周日工作。
+   ≫   I'd like a friendship that might lead to something deeper, but I wouldn't want to commit myself too soon.  我想要可能发展到更深层关系的友谊，但我不想太快做出承诺。
+   ≫   He won't commit.  他不会承诺。
+5. [with brd-neg] If you do not want to commit yourself on something, you do not want to say what you really think about it or what you are going to do. (就某事) 表态
+   ≫   It isn't their diplomatic style to commit themselves on such a delicate issue.  就如此微妙的问题表态不是他们的外交风格。
+6. [usu passive] If someone is committed to a mental hospital, prison, or other institution, they are officially sent there for a period of time. 送交 (到精神病院、监狱等)
+   ≫   Arthur's drinking caused him to be committed to a psychiatric hospital.  阿瑟酗酒导致他被关进了一家精神病院。
+7. (V-T) If you commit something to paper or to writing, you record it by writing it down. If you commit something to memory, you learn it so that you will remember it. 记 (在纸上、记忆中)
+   ≫   She had not committed anything to paper about it.  她还没有把关于它的任何东西记在纸上。
+
+<<=== 2026-10-22 ===>>
