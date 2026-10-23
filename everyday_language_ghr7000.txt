@@ -1784,3 +1784,190 @@ CET4 TEM4
    ≫   She had not committed anything to paper about it.  她还没有把关于它的任何东西记在纸上。
 
 <<=== 2026-10-22 ===>>
+========================================================================
+>>> 屏蔽
+------------------------------------------------------------------------
+屏蔽
+n. shield
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   The apparatus must be sufficiently shielded from the interfering effects of other particles. 仪器必须能充分屏蔽其他粒子的干扰效应。
+≫    
+≫    
+
+========================================================================
+>>> redacted
+------------------------------------------------------------------------
+redacted
+adj. 经过编辑的；有修改的
+v. 编辑，修改（文本）；审查（redact 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to compose or draft (an edict, proclamation, etc) 撰写
+
+========================================================================
+>>> redact
+------------------------------------------------------------------------
+redact    [美 rɪˈdækt / 英 rɪˈdækt]
+vt. 编辑，校订，修订；删改，隐去，涂黑（发布前删除或遮盖文档中的敏感信息）；（正式、较旧用法）草拟，编写（法令、公告、声明等）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to compose or draft (an edict, proclamation, etc) 撰写
+
+========================================================================
+>>> accessment
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> assessment
+------------------------------------------------------------------------
+assessment    [美 ə'sɛsmənt / 英 ə'sesmənt]
+n. 评定；估价
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) An assessment is a consideration of someone or something and a judgment about them. 评估
+   ≫   There is little assessment of the damage to the natural environment.  几乎没有有关自然环境破坏的评估。
+2. (N-VAR) An assessment of the amount of money that something is worth or that should be paid is a calculation or estimate of the amount. 估算
+   ≫   Tax assessment is all about comparing values of similar properties.  税金估算就是比较类似房产的价值。
+
+========================================================================
+>>> Precedence
+------------------------------------------------------------------------
+precedence    [美 'presidəns / 英 'presɪd(ə)ns; prɪ'siːd(ə)ns]
+n. 优先；居先
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) If one thing takes precedence over another, it is regarded as more important than the other thing. 优先性
+   ≫   Have as much fun as possible at college, but don't let it take precedence over work.  在大学里尽情地玩，但别让玩乐优先于学习。
+
+========================================================================
+>>> leftover
+------------------------------------------------------------------------
+leftover    [美 'lɛftovɚ / 英 'leftəʊvə]
+n. 残留物；吃剩的饭菜；剩余物
+adj. 残余的；吃剩的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-PLURAL) You can refer to food that has not been eaten after a meal as leftovers. 剩余食物
+   ≫   Refrigerate any leftovers.  把剩饭冷藏起来。
+2. [ADJ n] You use leftover to describe an amount of something that remains after the rest of it has been used or eaten. 剩余的
+   ≫   ...leftover pieces of wallpaper.  …剩余的壁纸。
+
+========================================================================
+>>> deprecated
+------------------------------------------------------------------------
+deprecated    [美 ˈdeprəkeɪtɪd / 英 ˈdeprəkeɪtɪd]
+vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+TEM8 deprecating,deprecated,deprecates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you deprecate something, you criticize it. 抨击 [正式]
+   ≫   He deprecated the low quality of entrants to the profession.  他抨击了行业中的滥竽充数。
+
+========================================================================
+>>> deliberate
+------------------------------------------------------------------------
+deliberate    [美 dɪ'lɪbərət / 英 dɪ'lɪb(ə)rət]
+adj. 故意的；深思熟虑的；从容的
+vt. 仔细考虑；商议
+CET4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you do something that is deliberate, you planned or decided to do it beforehand, and so it happens on purpose rather than by chance. 故意的
+   ≫   Witnesses say the firing was deliberate and sustained.  目击者说这次射击是蓄意的，而且还持续了一段时间。
+2. (ADV) deliberately 故意地
+   ≫   It looks as if the blaze was started deliberately.  看来那场火是有人故意放的。
+3. (ADJ) If a movement or action is deliberate, it is done slowly and carefully. 从容谨慎的
+   ≫   ...stepping with deliberate slowness up the steep paths.  …小心翼翼地缓步走上陡峭的小径。
+4. [ADV after v] deliberately 从容谨慎地
+   ≫   The Japanese have acted calmly and deliberately.  那些日本人表现得镇定且从容。
+5. (V-T/V-I) If you deliberate, you think about something carefully, especially before making a very important decision. 仔细考虑
+   ≫   She deliberated over the decision for a good few years before she finally made up her mind.  在她最终下定决心之前，她仔细考虑了这个决定多年。
+
+========================================================================
+>>> consolidation
+------------------------------------------------------------------------
+consolidation    [美 kən,sɑlə'deʃən / 英 kən,sɒlɪ'deɪʃən]
+n. 巩固；合并；团结
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act of consolidating or state of being consolidated 巩固; 变坚固
+
+========================================================================
+>>> destructive
+------------------------------------------------------------------------
+destructive    [美 dɪ'strʌktɪv / 英 dɪ'strʌktɪv]
+adj. 破坏的；毁灭性的；有害的，消极的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is destructive causes or is capable of causing great damage, harm, or injury. 毁坏性的
+   ≫   ...the awesome destructive power of nuclear weapons.  …核武器可怕的毁怀性力量。
+
+========================================================================
+>>> telemetry
+------------------------------------------------------------------------
+telemetry    [美 təˈlemətri / 英 təˈlemətri]
+n. [自] 遥测技术；遥感勘测；自动测量记录传导
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Telemetry is the science of using automatic equipment to make scientific measurements and transmit them by radio to a receiving station. 遥感勘测 [技术]
+
+========================================================================
+>>> surrogate
+------------------------------------------------------------------------
+surrogate    [美 ˈsərəgɪt; ˈsərəˌget; (for v.,) ˈsərəˌget / 英 'sʌrəgət]
+n. 代理；代用品；遗嘱检验法官
+vt. 代理；指定某人为自己的代理人
+adj. 代理的；替代的
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] You use surrogate to describe a person or thing that is given a particular role because the person or thing that should have the role is not available. 替代的
+   ≫   Martin had become Howard Cosell's surrogate son.  马丁已成为霍华德马考塞尔的代子了。
+2. (N-COUNT) Surrogate is also a noun. 替代者; 替代物
+   ≫   Arms control should not be made into a surrogate for peace.  军备控制不应变成和平的替代物。
+
+========================================================================
+>>> hook
+------------------------------------------------------------------------
+hook    [美 hʊk / 英 hʊk]
+n. 挂钩，吊钩
+vt. 钩住；引上钩
+vi. 钩住；弯成钩状
+n. (Hook)人名；(德、荷)霍克；(英)胡克
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A hook is a bent piece of metal or plastic that is used for catching or holding things, or for hanging things up. 钩子
+   ≫   One of his jackets hung from a hook.  他的一件夹克衫挂在挂钩上。
+2. (V-T/V-I) If you hook one thing to another, you attach it there using a hook. If something hooks somewhere, it can be hooked there. 挂; 钩
+   ≫   Paul hooked his tractor to the car and pulled it to safety.  保罗把他的拖拉机挂在那辆小汽车上，然后把它拖到安全的地方。
+3. (V-T) If you hook your arm, leg, or foot round an object, you place it like a hook round the object in order to move it or hold it. 使 (臂、腿、脚等) 成钩状
+   ≫   She latched on to his arm, hooking her other arm around a tree.  她一只手抓住他的胳膊，另一只胳膊抱住一棵树。
+4. (V-T) If you hook a fish, you catch it with a hook on the end of a line. 用鱼钩钓住
+   ≫   At the first cast I hooked a huge fish, probably a tench.  第一次抛竿我就钓到了一条大鱼，可能是条丁鲷。
+5. (N-COUNT) A hook is a short sharp blow with your fist that you make with your elbow bent, usually in a boxing match. (拳击中的) 钩拳
+   ≫   Lewis desperately needs to keep clear of Ruddock's big left hook.  刘易斯务必要拼命躲开拉多克强有力的左钩拳。
+6. [美国英语] If you are hooked into something, or hook into something, you get involved with it. 卷入; 涉足
+   ≫   I'm guessing again now because I'm not hooked into the political circles.  现在我又在猜测了，因为我没有涉足政界。
+7. [非正式] If someone gets off the hook or is let off the hook, they manage to get out of the awkward or unpleasant situation that they are in. 脱身
+   ≫   Officials accused of bribery and corruption get off the hook with monotonous regularity.  被指控受贿和贪污的官员无一例外总能脱身。
+8. (PHRASE) If you take a phone off the hook, you take the receiver off the part that it normally rests on, so that the phone will not ring. (电话听筒) 未挂上
+   ≫   I'd taken my phone off the hook in order to get some sleep.  我把电话听筒拿了下来，以便可以睡会儿觉。
+9. (PHRASE) If your phone is ringing off the hook, so many people are trying to telephone you that it is ringing constantly. (电话) 响个不停
+   ≫   Since war broke out, the phones at donation centres have been ringing off the hook.  自从战争爆发以来，捐款中心的电话一直响个不停。
+
+========================================================================
+>>> authorized
+------------------------------------------------------------------------
+authorized    [美 ˈɔːθəraɪzd / 英 'ɔːθəraɪzd]
+adj. 经授权的；经认可的
+v. 授权；批准；辩护（authorize的过去分词）
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If someone in a position of authority authorizes something, they give their official permission for it to happen. 批准
+   ≫   It would certainly be within his power to authorize a police raid like that.  他肯定有权批准那种警方突袭行动。
+2. (N-VAR) authorization 批准
+   ≫   The United Nations will approve his request for authorization to use military force to deliver aid.  联合国将同意他的请求，批准他动用军队来运送救援物资。
+
+========================================================================
+>>> client
+------------------------------------------------------------------------
+client    [美 'klaɪənt / 英 'klaɪənt]
+n. [经] 客户；顾客；委托人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [商业] A client of a professional person or organization is a person or company that receives a service from them in return for payment. 客户
+   ≫   ...a lawyer and his client.  …一位律师和他的委托人。
+
+<<=== 2026-10-23 ===>>
