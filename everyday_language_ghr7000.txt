@@ -1971,3 +1971,225 @@ CET4 TEM4
    ≫   ...a lawyer and his client.  …一位律师和他的委托人。
 
 <<=== 2026-10-23 ===>>
+========================================================================
+>>> retrospective
+------------------------------------------------------------------------
+retrospective    [美 ,rɛtrə'spɛktɪv / 英 retrə(ʊ)'spektɪv]
+adj. 回顾的；怀旧的；可追溯的
+n. 回顾展
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A retrospective is an exhibition or showing of work done by an artist over many years, rather than his or her most recent work. (艺术家作品的) 回顾展
+   ≫   ...a retrospective of the films of Judy Garland.  …朱迪•嘉兰影片回顾展。
+2. (ADJ) Retrospective feelings or opinions concern things that happened in the past. 回顾的
+   ≫   Afterwards, retrospective fear of the responsibility would make her feel almost faint.  后来，对要负的责任的后怕常使她几乎晕倒。
+3. (ADV) retrospectively 回顾地
+   ≫   Retrospectively, it seems as if they probably were negligent.  回想起来，似乎他们可能是疏忽了。
+4. [英国英语] Retrospective laws or legal actions take effect from a date before the date when they are officially approved. 有追溯力的 (法律)
+   ≫   There are few precedents for this sort of retrospective legislation.  此类有追溯效力的立法还鲜有先例。
+
+========================================================================
+>>> scattered
+------------------------------------------------------------------------
+scattered    [美 'skætɚd / 英 'skætəd]
+adj. 分散的；散乱的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [ADJ n] Scattered things are spread over an area in an untidy or irregular way. 分散的
+   ≫   He picked up the scattered toys.  他把散落的玩具捡了起来。
+   ≫   Tomorrow there will be a few scattered showers.  明天局部地区将会有阵雨。
+2. [v-link ADJ 'with' n] If something is scattered with a lot of small things, they are spread all over it. 布满…的
+   ≫   Every surface is scattered with photographs.  每面都贴满了照片。
+
+========================================================================
+>>> audit
+------------------------------------------------------------------------
+audit    [美 'ɔdɪt / 英 'ɔːdɪt]
+vi. 审计；[审计] 查账
+n. 审计；[审计] 查账
+vt. （美）旁听
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly. 审计
+   ≫   Each year they audit our accounts and certify them as being true and fair.  每年他们都会审核我们的账目，以证明其准确合理。
+2. (N-COUNT) Audit is also a noun. 审计
+   ≫   The bank first learned of the problem when it carried out an internal audit.  银行是在进行内部审计时最先得知这个问题的。
+
+========================================================================
+>>> status
+------------------------------------------------------------------------
+status    [美 ˈstetəs / 英 'steɪtəs]
+n. 地位；状态；情形；重要身份
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Your status is your social or professional position. 社会地位; 职业地位
+   ≫   People of higher status tend more to use certain drugs.  社会地位较高的人更倾向于使用某些药物。
+   ≫   ...women and men of wealth and status.  …有钱有势的男男女女。
+2. (N-UNCOUNT) Status is the importance and respect that someone has among the public or a particular group. (在公众中或某一团体中的) 威望; 地位
+   ≫   Nurses are undervalued, and they never enjoy the same status as doctors.  护士们没有得到足够重视，她们从未享受和医生一样的地位。
+3. (N-UNCOUNT) The status of something is the importance that people give it. 重要性
+   ≫   Those things that can be assessed by external tests are being given unduly high status.  那些能通过外部测试进行评估的东西受到过高重视。
+4. (N-UNCOUNT) A particular status is an official description that says what category a person, organization, or place belongs to, and gives them particular rights or advantages. 身份
+   ≫   The Snoqualmie tribe regained its status as a federally recognized tribe.  斯诺夸尔米部落重新获得了联邦政府所承认的部落的身份。
+5. (N-UNCOUNT) The status of something is its state of affairs at a particular time. 状况
+   ≫   The council unanimously directed city staff to prepare a status report on the project.  该委员会成员一致要求市政人员准备一份关于这项工程的进展状况报告。
+
+========================================================================
+>>> tessellation
+------------------------------------------------------------------------
+tessellation    [美 ˌtesɪˈleɪʃn / 英 ˌtesɪˈleɪʃən]
+n. 棋盘形布置、棋盘花纹、平面镶嵌，即用无重叠、无间隙的几何形状铺满平面而形成的图案；棋盘花纹镶嵌、镶嵌式铺装、镶嵌细工，即用小石块、瓷砖等拼成棋盘格状或花纹图案的工艺或装饰效果；（计算机图形学）曲面细分，即将三维模型的多边形网格细分为更小单元以增加细节的过程。
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act of tessellating 镶嵌
+
+========================================================================
+>>> stealth
+------------------------------------------------------------------------
+stealth    [美 stɛlθ / 英 stelθ]
+n. 秘密；秘密行动；鬼祟
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the act or characteristic of moving with extreme care and quietness, esp so as to avoid detection 秘密行动; 暗中活动
+   ≫   the stealth of a cat  
+
+========================================================================
+>>> swarm
+------------------------------------------------------------------------
+swarm    [美 swɔrm / 英 swɔːm]
+vi. 挤满；成群浮游；云集
+n. 蜂群；一大群
+vt. 挤满；爬
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT-COLL) A swarm of bees or other insects is a large group of them flying together. 大群 (蜜蜂等昆虫)
+   ≫   ...a swarm of locusts.  …一大群蝗虫。
+2. (V-I) When bees or other insects swarm, they move or fly in a large group. (蜜蜂或其他昆虫) 大群移动
+   ≫   A dark cloud of bees comes swarming out of the hive.  黑压压的一大群蜜蜂从那座蜂巢涌过来。
+3. (V) to climb (a ladder, etc) by gripping with the hands and feet 爬(梯子等); 攀
+   ≫   the boys swarmed up the rigging  
+4. (V-I) When people swarm somewhere, they move there quickly in a large group. (人群) 涌往
+   ≫   People swarmed to the stores, buying up everything in sight.  人们成群地涌到商场，看到什么就买什么。
+5. (N-COUNT-COLL) A swarm of people is a large group of them moving about quickly. (快速移动的) 一大群
+   ≫   A swarm of people encircled the hotel.  一大群人包围了这家酒店。
+6. [usu cont] If a place is swarming with people, it is full of people moving about in a busy way. 挤满
+   ≫   Within minutes the area was swarming with officers who began searching a nearby wood.  几分钟之内这个地方挤满了警官，他们开始搜查附近的一片树林。
+
+========================================================================
+>>> approved
+------------------------------------------------------------------------
+approved    [美 ə'prʊvd / 英 ə'pruːvd]
+adj. 被认可的；经过检验的
+v. 核准；认可（approve的过去式）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An approved method or course of action is officially accepted as appropriate in a particular situation. 得到正式认可的
+   ≫   The approved method of cleaning is industrial sand-blasting.  得到正式认可的清洁方法是工业喷砂处理。
+   ≫   Approved methods might include destruction of nests and eggs, and the trapping and destruction of geese.  得到正式认可的方法可能包括对巢和蛋的捣毁以及对鹅的捕杀。
+
+========================================================================
+>>> flakes
+------------------------------------------------------------------------
+flakes    [美 fleks / 英 fleɪks]
+n. 麦片；鳞片；白点；发裂
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A flake is a small thin piece of something, especially one that has broken off a larger piece. 小薄片 (尤指碎片)
+   ≫   ...flakes of paint.  …颜料碎片。
+   ≫   Large flakes of snow began swiftly to fall.  大片大片的雪花开始飞快地落下。
+2. (V-I) If something such as paint flakes, small thin pieces of it come off. (油漆等) 剥落
+   ≫   They can see how its colours have faded and where paint has flaked.  他们可以看到其颜色褪去的情况和油漆剥落的地方。
+3. (PHRASAL VERB) Flake off means the same as . 剥落
+   ≫   The surface corrosion was worst where the paint had flaked off.  油漆已经剥落的地方，表面的腐蚀最严重。
+4. [非正式] If you refer to someone as a flake, you mean that you think they are very unreliable. 不可靠的人
+   ≫   Sophie turned out to be such a flake. She said she'd meet me here and instead I'm just lying around this hotel room and I'm totally bored.  索菲原来是这么不可靠。她说过要在这里见我，可现在我只能躺在这间旅馆的房间里，感到百无聊赖。
+5. (N) a rack or platform for drying fish or other produce (鱼等的)晾干架
+
+========================================================================
+>>> poll
+------------------------------------------------------------------------
+poll    [美 pol / 英 pəʊl]
+n. 投票；民意测验；投票数；投票所
+vt. 投票；剪短；对…进行民意测验；获得选票
+vi. 投票
+adj. 无角的；剪过毛的；修过枝的
+n. (Poll)人名；(德、匈、罗、英)波尔
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A poll is a survey in which people are asked their opinions about something, usually in order to find out how popular something is or what people intend to do in the future. 民意测验
+   ≫   Polls show that the European treaty has gained support in Denmark.  民意测验显示，欧洲条约已经在丹麦获得支持。
+   ≫   We are doing a weekly poll on the president, and clearly his popularity has declined.  我们正在对总统进行每周一次的民意测验，很显然他的受欢迎度已经下降了。
+2. → see also
+3. [usu passive] If you are polled on something, you are asked what you think about it as part of a survey. 对…进行民意测验
+   ≫   More than 18,000 people were polled.  18000多人接受了民意测验。
+   ≫   Audiences were going to be polled on which of three pieces of contemporary music they liked best.  听众将就3首现代乐曲中最喜欢哪一首接受民意调查。
+4. (N-PLURAL) The polls means an election for a country's government, or the place where people go to vote in an election. 政治大选; 投票地点
+   ≫   Incumbent officeholders are difficult to defeat at the polls.  现任官员很难在选举中被击败。
+   ≫   Voters are due to go to the polls on Sunday to elect a new president.  选民们按计划将于周日前往投票站选举新总统。
+5. (V-T) If a political party or a candidate polls a particular number or percentage of votes, they get that number or percentage of votes in an election. 获得…选票
+   ≫   The result showed he had polled enough votes to force a second ballot.  结果显示他获得了足够的选票来促使第二轮选举。
+6. → see also
+
+========================================================================
+>>> criterion
+------------------------------------------------------------------------
+criterion    [美 kraɪˈtɪriən / 英 kraɪ'tɪərɪən]
+n. （批评判断的）标准；准则；规范；准据
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A criterion is a factor on which you judge or decide something. (判断的) 标准
+   ≫   The most important criterion for entry is that applicants must design and make their own work.  参加的最重要标准就是申请人必须设计并制作自己的作品。
+
+========================================================================
+>>> rigorous
+------------------------------------------------------------------------
+rigorous    [美 'rɪɡərəs / 英 'rɪg(ə)rəs]
+adj. 严格的，严厉的；严密的；严酷的
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A test, system, or procedure that is rigorous is very thorough and strict. (测试、制度、程序) 严格缜密的
+   ≫   The selection process is based on rigorous tests of competence and experience.  挑选过程是建立在对能力和经验严格缜密的考核的基础之上的。
+2. (ADV) rigorously 严格缜密地
+   ≫   ...rigorously conducted research.  …严格进行的研究。
+3. (ADJ) If someone is rigorous in the way that they do something, they are very careful and thorough. 一丝不苟的; 缜密的
+   ≫   He is rigorous in his control of expenditure.  他在控制开支方面一丝不苟。
+
+========================================================================
+>>> distillation
+------------------------------------------------------------------------
+distillation    [美 ,dɪstl'eʃən / 英 ,dɪstɪ'leɪʃn]
+n. 蒸馏，净化；蒸馏法；精华，蒸馏物
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   As alchemy evolved into the science of chemistry, vessels called retorts became used for distillations . 随着炼金术发展成为化学，叫作曲颈瓶的容器开始用于蒸馏。
+≫   World heritage, national famous scenic areas are distillations of our country' s landscape, are the testimony of our history and civilization. 世界遗产、国家风景区是祖国壮丽河山的缩影是国土景观的精华，是祖国文明历史的见证。
+≫   And I regularly interact with students, hearing their distillations of the Course, each composed of a hand full of inherited ideas. 我花毕生之力研究《课程》错综复杂的论述，然后我经常和学员互动，倾听他们对《课程》的见解，几乎每个人都有他自己的一套诠释。
+
+========================================================================
+>>> foundation
+------------------------------------------------------------------------
+foundation    [美 faʊn'deʃən / 英 faʊn'deɪʃ(ə)n]
+n. 基础；地基；基金会；根据；创立
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Thefoundationof something such as a belief or way of life is the things on which it is based. 基础
+   ≫   Best friends are the foundation of my life.  良友们是我生活的基础。
+   ≫   The issue strikes at the very foundation of our community.  这个问题严重影响到我们社会的基础。
+2. (N-COUNT) A foundation is an organization which provides money for a special purpose such as research or charity. 基金会
+   ≫   ...the National Foundation for Educational Research.  …全国教育研究基金会。
+3. (N-PLURAL) The foundations of a building or other structure are the layer of bricks or concrete below the ground that it is built on. 地基
+4. (N-UNCOUNT) If a story, idea, or argument has no foundation, there are no facts to prove that it is true. 根据
+   ≫   The allegations were without foundation.  这些指控没有根据。
+5. (N-MASS) Foundation is a skin-coloured cream that you put on your face before putting on the rest of your makeup. 粉底霜
+   ≫   Use foundation and/or face powder afterwards for an even skin tone.  随后使用粉底霜和（或）粉饼以使皮肤色调均匀。
+6. → see also
+
+========================================================================
+>>> collocates
+------------------------------------------------------------------------
+collocate    [美 ˈkɑːləkət / 英 ˈkɒləkət]
+v. （语言学）（词与词）习惯性搭配，与……连用；把……并置，并列放置（技术语境可译作“配置”）
+n. （语言学）搭配词，连用词
+collocating,collocated,collocates
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) In linguistics, a collocate of a particular word is another word which often occurs with that word. 搭配 [技术]
+2. (V-RECIP) In linguistics, if one word collocates with another, they often occur together. 并列 [技术]
+   ≫   "Fast" collocates with "food."  “快”与“餐”搭配。
+
+<<=== 2026-10-25 ===>>
