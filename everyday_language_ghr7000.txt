@@ -2193,3 +2193,34 @@ collocating,collocated,collocates
    ≫   "Fast" collocates with "food."  “快”与“餐”搭配。
 
 <<=== 2026-10-25 ===>>
+========================================================================
+>>> uncensored
+------------------------------------------------------------------------
+uncensored    [ʌn'sɛnsɚd]
+adj. 未经审查的；无保留的；无约束的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) (of a publication, film, letter, etc) not having been banned or edited (出版物、电影、信件)未被禁止的; 未被剪辑的
+
+========================================================================
+>>> hilarious
+------------------------------------------------------------------------
+hilarious    [美 hɪˈleriəs / 英 hɪˈleəriəs]
+adj. 很可笑的，很滑稽的；<古>欢闹的，兴高采烈的
+★ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If something is hilarious, it is extremely funny and makes you laugh a lot. 令人捧腹大笑的
+   ≫   We thought it was hilarious when we first heard about it.  我们第一次听说这件事的时候觉得它很可笑。
+2. (ADV) hilariously ADV 令人大笑地
+   ≫   She found it hilariously funny.  她觉得这事儿滑稽极了。
+
+========================================================================
+>>> garbled
+------------------------------------------------------------------------
+garbled    [美 'ɡɑrbld]
+adj. 篡改的；混乱的；引起误解的
+v. 断章取义（garble的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) A garbled message or report contains confused or wrong details, often because it is spoken by someone who is nervous or in a hurry. (信息或报告) 混乱不清的
+   ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
+
+<<=== 2026-10-26 ===>>
