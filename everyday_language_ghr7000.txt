@@ -2224,3 +2224,25 @@ v. 断章取义（garble的过去式和过去分词）
    ≫   The Coast Guard needs to decipher garbled messages in a few minutes.  海岸警卫队需要在几分钟内破译含混不清的讯息。
 
 <<=== 2026-10-26 ===>>
+========================================================================
+>>> pitfall
+------------------------------------------------------------------------
+pitfall    [美 'pɪt'fɔl / 英 'pɪtfɔːl]
+n. 陷阱，圈套；缺陷；诱惑
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) The pitfalls involved in a particular activity or situation are the things that may go wrong or may cause problems. 隐患
+   ≫   The pitfalls of working abroad are numerous.  在国外工作有很多隐患。
+
+========================================================================
+>>> optical
+------------------------------------------------------------------------
+optical    [美 'ɑptɪkl / 英 'ɒptɪk(ə)l]
+adj. 光学的；眼睛的，视觉的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Optical devices, processes, and effects involve or relate to vision, light, or images. 视力的; 光学的
+   ≫   ...optical telescopes.  …光学望远镜。
+   ≫   ...an optical scanner.  …一台光学扫描仪。
+
+<<=== 2026-10-27 ===>>
