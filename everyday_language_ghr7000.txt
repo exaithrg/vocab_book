@@ -2246,3 +2246,88 @@ CET4 TEM4
    ≫   ...an optical scanner.  …一台光学扫描仪。
 
 <<=== 2026-10-27 ===>>
+========================================================================
+>>> dictator
+------------------------------------------------------------------------
+dictator    [英 dɪk'teɪtə / 美 'dɪktetɚ]
+n. 独裁者；命令者
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A dictator is a ruler who has complete power in a country, especially power which was obtained by force and is used unfairly or cruelly. 独裁者
+   ≫   ...foreign dictators who contravene humanitarian conventions.  …违反人道主义公约的外国独裁者们。
+
+========================================================================
+>>> recirculated
+------------------------------------------------------------------------
+recirculated
+adj. 再循环的
+v. 再循环（recirculate 的过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Office buildings with recirculated air can get stuffy and stale. 有再循环通风系统的写字楼可能会空气不好。
+≫   Fluid entering the by-pass line is recirculated through the pump. 进入旁通管线的液体通过泵循环。
+≫   Air that is recirculated throughout the cabin is most often blamed. 最常遭到诟病的是空气在机舱内的循环流动。
+
+========================================================================
+>>> superseded
+------------------------------------------------------------------------
+superseded    [,sju:pə'si:d]
+adj. 作废的；被取代的
+v. 取代；克制；废弃（supersede的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> superse
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> supersed
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> supersede
+------------------------------------------------------------------------
+supersede    [美 ,supɚ'sid / 英 ,suːpə'siːd; ,sjuː-]
+vt. 取代，代替；紧接着……而到来
+vi. 推迟行动
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> status
+------------------------------------------------------------------------
+status    [美 ˈstetəs / 英 'steɪtəs]
+n. 地位；状态；情形；重要身份
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Your status is your social or professional position. 社会地位; 职业地位
+   ≫   People of higher status tend more to use certain drugs.  社会地位较高的人更倾向于使用某些药物。
+   ≫   ...women and men of wealth and status.  …有钱有势的男男女女。
+2. (N-UNCOUNT) Status is the importance and respect that someone has among the public or a particular group. (在公众中或某一团体中的) 威望; 地位
+   ≫   Nurses are undervalued, and they never enjoy the same status as doctors.  护士们没有得到足够重视，她们从未享受和医生一样的地位。
+3. (N-UNCOUNT) The status of something is the importance that people give it. 重要性
+   ≫   Those things that can be assessed by external tests are being given unduly high status.  那些能通过外部测试进行评估的东西受到过高重视。
+4. (N-UNCOUNT) A particular status is an official description that says what category a person, organization, or place belongs to, and gives them particular rights or advantages. 身份
+   ≫   The Snoqualmie tribe regained its status as a federally recognized tribe.  斯诺夸尔米部落重新获得了联邦政府所承认的部落的身份。
+5. (N-UNCOUNT) The status of something is its state of affairs at a particular time. 状况
+   ≫   The council unanimously directed city staff to prepare a status report on the project.  该委员会成员一致要求市政人员准备一份关于这项工程的进展状况报告。
+
+========================================================================
+>>> subscription
+------------------------------------------------------------------------
+subscription    [美 səb'skrɪpʃən / 英 səb'skrɪpʃ(ə)n]
+n. 捐献；订阅；订金；签署
+CET6
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A subscription is an amount of money that you pay regularly in order to belong to an organization, to help a charity or campaign, or to receive copies of a magazine or newspaper. 会员费; 捐赠款; 征订费
+   ≫   You can become a member by paying the yearly subscription.  你通过支付年度会员费可以成为一名会员。
+2. [ADJ n] Subscription television is television that you can watch only if you pay a subscription. A subscription channel is a channel that you can watch only if you pay a subscription. (电视或频道) 付费的
+   ≫   Premiere, a subscription channel which began in 1991, shows live football covering the top two divisions.  始于1991年的一个付费频道实况转播两大顶级足球赛。
+
+<<=== 2026-10-28 ===>>
