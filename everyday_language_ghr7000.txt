@@ -2331,3 +2331,166 @@ CET6
    ≫   Premiere, a subscription channel which began in 1991, shows live football covering the top two divisions.  始于1991年的一个付费频道实况转播两大顶级足球赛。
 
 <<=== 2026-10-28 ===>>
+========================================================================
+>>> 调用
+------------------------------------------------------------------------
+调用
+v. invoking
+vi. call
+misc. transfer (officer) temporarily for a specific task
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫    
+≫    
+≫   You can also call any command or function at the prompt. 您还可以在提示符下调用任何命令或函数。
+
+========================================================================
+>>> anchor
+------------------------------------------------------------------------
+anchor    [英 'æŋkə / 美 'æŋkɚ]
+n. 锚；抛锚停泊；靠山；新闻节目主播
+vt. 抛锚；使固定；主持节目
+vi. 抛锚
+adj. 末棒的；最后一棒的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An anchor is a heavy hooked object that is dropped from a boat into the water at the end of a chain in order to make the boat stay in one place. 锚
+2. [美国英语] The anchor on a television or radio programme, especially a news programme, is the person who presents it. 节目主持人
+   ≫   He worked in the news division of ABC – he was the anchor of its 15-minute evening newscast.  他以前在美国广播公司的新闻部工作–他是该公司15分钟晚间新闻节目的主持人。
+3. (V-T/V-I) When a boat anchors or when you anchor it, its anchor is dropped into the water in order to make it stay in one place. 抛锚
+   ≫   We could anchor off the pier.  我们可以在码头抛锚。
+4. (V-T) If an object is anchored somewhere, it is fixed to something to prevent it moving from that place. 使固定
+   ≫   The roots anchor the plant in the earth.  根须把这植物固定在土里。
+5. [美国英语] The person who anchors a television or radio programme, especially a news programme, is the person who presents it and acts as a link between interviews and reports that come from other places or studios. 主持
+   ≫   Viewers saw him anchoring a five-minute summary of regional news.  观众们看到了他主持地区新闻的5分钟综述。
+6. [美国英语] An anchor is the main shop in a mall or shopping centre. 主体商店
+   ≫   A clothing shop is to be a key anchor in a new development planned on the vacant lot.  一个服装店将成为在这块空地上计划新开发项目中的一个关键主体商店。
+7. (PHRASE) If a boat is at anchor, it is floating in a particular place and is prevented from moving by its anchor. 停泊
+   ≫   Sailboats lay at anchor in the narrow waterway.  帆船停泊在狭窄的水道里。
+
+========================================================================
+>>> superseded
+------------------------------------------------------------------------
+superseded    [,sju:pə'si:d]
+adj. 作废的；被取代的
+v. 取代；克制；废弃（supersede的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> anchor
+------------------------------------------------------------------------
+anchor    [美 'æŋkɚ / 英 'æŋkə]
+n. 锚；抛锚停泊；靠山；新闻节目主播
+vt. 抛锚；使固定；主持节目
+vi. 抛锚
+adj. 末棒的；最后一棒的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) An anchor is a heavy hooked object that is dropped from a boat into the water at the end of a chain in order to make the boat stay in one place. 锚
+2. [美国英语] The anchor on a television or radio programme, especially a news programme, is the person who presents it. 节目主持人
+   ≫   He worked in the news division of ABC – he was the anchor of its 15-minute evening newscast.  他以前在美国广播公司的新闻部工作–他是该公司15分钟晚间新闻节目的主持人。
+3. (V-T/V-I) When a boat anchors or when you anchor it, its anchor is dropped into the water in order to make it stay in one place. 抛锚
+   ≫   We could anchor off the pier.  我们可以在码头抛锚。
+4. (V-T) If an object is anchored somewhere, it is fixed to something to prevent it moving from that place. 使固定
+   ≫   The roots anchor the plant in the earth.  根须把这植物固定在土里。
+5. [美国英语] The person who anchors a television or radio programme, especially a news programme, is the person who presents it and acts as a link between interviews and reports that come from other places or studios. 主持
+   ≫   Viewers saw him anchoring a five-minute summary of regional news.  观众们看到了他主持地区新闻的5分钟综述。
+6. [美国英语] An anchor is the main shop in a mall or shopping centre. 主体商店
+   ≫   A clothing shop is to be a key anchor in a new development planned on the vacant lot.  一个服装店将成为在这块空地上计划新开发项目中的一个关键主体商店。
+7. (PHRASE) If a boat is at anchor, it is floating in a particular place and is prevented from moving by its anchor. 停泊
+   ≫   Sailboats lay at anchor in the narrow waterway.  帆船停泊在狭窄的水道里。
+
+========================================================================
+>>> intact
+------------------------------------------------------------------------
+intact    [美 ɪn'tækt / 英 ɪn'tækt]
+adj. 完整的；原封不动的；未受损伤的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is intact is complete and has not been damaged or changed. 完整无缺的
+   ≫   Customs men put dynamite in the water to destroy the cargo, but most of it was left intact.  海关人员把炸药放入水中以摧毁货物，但大部分货物却完好无损。
+
+========================================================================
+>>> fragile
+------------------------------------------------------------------------
+fragile    [美 'frædʒəl / 英 'frædʒaɪl]
+adj. 脆的；易碎的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [journalism] If you describe a situation as fragile, you mean that it is weak or uncertain, and unlikely to be able to resist strong pressure or attack. 脆弱的
+   ≫   The fragile economies of several southern African nations could be irreparably damaged.  几个南部非洲国家脆弱的经济可能会无可挽救地被摧垮。
+2. (N-UNCOUNT) fragility 脆弱
+   ≫   By mid-1988 there were clear indications of the extreme fragility of the Right-wing coalition.  到1988年年中有明显的迹象表明右翼联盟极度脆弱。
+3. (ADJ) Something that is fragile is easily broken or damaged. 易碎的
+   ≫   He leaned back in his fragile chair.  他向后靠在他那把不结实的椅子上。
+4. (N-UNCOUNT) fragility 易碎性
+   ≫   Older drivers are more likely to be seriously injured because of the fragility of their bones.  年纪较大的司机因骨骼易碎而更可能会受重伤。
+
+========================================================================
+>>> 依赖
+------------------------------------------------------------------------
+依赖
+rely on ; depend on
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   I know that I rely too much on convenience food. 我知道我过于依赖方便食品。《柯林斯英汉双解大词典》
+≫   I depended on his companionship and on his judgment. 我依赖他的陪伴和他的判断。《柯林斯英汉双解大词典》
+≫   The area is heavily dependent on tourism. 这个地区非常依赖旅游业。《牛津词典》
+
+========================================================================
+>>> provenance
+------------------------------------------------------------------------
+provenance    [美 'prɑvənəns / 英 'prɒv(ə)nəns]
+n. 出处，起源
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu with poss] The provenance of something is the place that it comes from or that it originally came from. 出处
+   ≫   Kato was fully aware of the provenance of these treasures.  卡托对这些珍宝的出处全都了如指掌。
+
+========================================================================
+>>> configrator
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> ambiguous
+------------------------------------------------------------------------
+ambiguous    [美 æm'bɪɡjuəs / 英 æm'bɪgjʊəs]
+adj. 模糊不清的；引起歧义的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in more than one way. 模棱两可的
+   ≫   This agreement is very ambiguous and open to various interpretations.  这个协议非常模棱两可，可以有多种解释。
+2. (ADV) ambiguously 模棱两可地
+   ≫   The national conference on democracy ended ambiguously.  这次全国民主大会含糊其词地结束了。
+
+========================================================================
+>>> 
+------------------------------------------------------------------------
+kd <text>	查单词、词组
+kd -t <text>	查长句
+kd -h    	查看详细帮助
+
+========================================================================
+>>> Tessera
+------------------------------------------------------------------------
+tessera    [英 ˈtesərə / 美 ˈtesərə]
+n. 马赛克中的小方形嵌块（常用石、玻璃、陶瓷等制成），镶嵌物；（古罗马）凭证，签牌，入场券；Tessera（半导体封装技术公司）；Tessera（意大利人名/姓氏）泰塞拉
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) a small square tile of stone, glass, etc, used in mosaics (镶嵌图案用的)一小块石瓦; 玻璃瓦
+
+========================================================================
+>>> plausible
+------------------------------------------------------------------------
+plausible    [美 'plɔzəbl / 英 'plɔːzɪb(ə)l]
+adj. 貌似可信的，花言巧语的；貌似真实的，貌似有理的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An explanation or statement that is plausible seems likely to be true or valid. (解释或叙述) 看似合理的
+   ≫   A more plausible explanation would seem to be that people are fed up with the administration.  一个更合理的解释似乎是人们对行政机关感到厌倦。
+2. [ADV with v] plausibly 看似合理地
+   ≫   Having bluffed his way in without paying, he could not plausibly demand his money back.  没付钱混了进去，他不大可能理直气壮地要回自己的钱。
+3. (ADJ) If you say that someone is plausible, you mean that they seem to be telling the truth and to be sincere and honest. (人) 看似可信的
+   ≫   All I can say is that he was so plausible it wasn't just me that he conned.  我只能说，他看上去好像那么可信，他骗的可不只我一个。
+
+<<=== 2026-10-29 ===>>
