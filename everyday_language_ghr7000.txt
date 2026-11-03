@@ -2889,3 +2889,45 @@ CET4 TEM4
    ≫   If you fit the bill, send a CV to Rebecca Rees.  如果你符合这些要求，送一份履历给丽贝卡·里斯。
 
 <<=== 2026-11-02 ===>>
+========================================================================
+>>> catch-up
+------------------------------------------------------------------------
+catch-up    ['kætʃəp]
+n. 空白部分起脏；版面污染；急起直追
+adj. 有助于赶上的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (PHRASE) If someone is playing catch-up, they are trying to equal or better someone else's performance. 奋起直追
+   ≫   We were playing catch-up for most of the game.  大部分游戏中，我们都在相互追赶。
+   ≫   Yesterday London was playing catch-up after Wall Street's tremendous 500-point gain on Wednesday night.  星期三晚上华尔街获得500点巨长之后，昨天伦敦也开始了奋起直追。
+
+========================================================================
+>>> heuristics
+------------------------------------------------------------------------
+heuristics    [hju'rɪstɪks]
+n. 启发法；启发式教学法
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [maths] a method or set of rules for solving problems other than by algorithm 探试的 → see also ,
+
+========================================================================
+>>> superseded
+------------------------------------------------------------------------
+superseded    [,sju:pə'si:d]
+adj. 作废的；被取代的
+v. 取代；克制；废弃（supersede的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> Adjacent
+------------------------------------------------------------------------
+adjacent    [美 ə'dʒesnt / 英 ə'dʒeɪs(ə)nt]
+adj. 邻近的，毗连的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If one thing is adjacent to another, the two things are next to each other. 相邻的
+   ≫   He sat in an adjacent room and waited.  他坐在一间相邻的房间里等。
+   ≫   The schools were adjacent but there were separate doors.  这些学校相邻，但是有各自的门。
+
+<<=== 2026-11-03 ===>>
