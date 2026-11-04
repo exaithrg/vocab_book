@@ -2931,3 +2931,129 @@ CET6 TEM4
    ≫   The schools were adjacent but there were separate doors.  这些学校相邻，但是有各自的门。
 
 <<=== 2026-11-03 ===>>
+========================================================================
+>>> append
+------------------------------------------------------------------------
+append    [美 ə'pɛnd / 英 ə'pend]
+vt. 附加；贴上；盖章
+n. 设置数据文件的搜索路径
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] When you append something to something else, especially a piece of writing, you attach it or add it to the end of it. 附加; 添加附件
+   ≫   She appended a note at the end of the letter.  她在信件尾部附加了一个说明。
+   ≫   It was a relief that his real name hadn't been appended to the manuscript.  他的真实姓名没有附加在手稿后面，让人松了口气。
+
+========================================================================
+>>> mandatory
+------------------------------------------------------------------------
+mandatory    [美 'mændətɔri / 英 'mændət(ə)rɪ]
+adj. 强制的；托管的；命令的
+n. 受托者（等于mandatary）
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [正式] If an action or procedure is mandatory, people have to do it, because it is a rule or a law. 法定的
+   ≫   ...the mandatory retirement age of 65.  …65岁的法定退休年龄。
+2. [正式] If a crime carries a mandatory punishment, that punishment is fixed by law for all cases, in contrast to crimes for which the judge or magistrate has to decide the punishment for each particular case. (刑罚) 强制性的
+   ≫   ...the mandatory life sentence for murder.  …谋杀罪的强制性终身监禁。
+
+========================================================================
+>>> subtle
+------------------------------------------------------------------------
+subtle    [美 'sʌtl / 英 'sʌt(ə)l]
+adj. 微妙的；精细的；敏感的；狡猾的；稀薄的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is subtle is not immediately obvious or noticeable. 不易察觉的
+   ≫   ...the slow and subtle changes that take place in all living things.  …所有生物中发生的缓慢而不易察觉的变化。
+2. (ADV) subtly 不易察觉地
+   ≫   The truth is subtly different.  事实略有不同。
+3. (ADJ) A subtle person cleverly uses indirect methods to achieve something. 不露声色的
+   ≫   I even began to exploit him in subtle ways.  我甚至开始不露声色地利用他。
+4. [ADV with v] subtly 不露声色地
+   ≫   Nathan is subtly trying to turn her against Barry.  内森在尽力不露声色地使她转而反对巴里。
+5. (ADJ) Subtle smells, tastes, sounds, or colours are pleasantly complex and delicate. 淡的; 精妙的
+   ≫   ...subtle shades of brown.  …各种淡棕色。
+6. (ADV) subtly 淡地; 精妙地
+   ≫   ...a white sofa teamed with subtly coloured rugs.  …一张铺着色彩淡雅的小垫的白色沙发。
+
+========================================================================
+>>> subtlely
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> subtlety
+------------------------------------------------------------------------
+subtlety    [英 'sʌt(ə)ltɪ / 美 'sʌtlti]
+n. 微妙；敏锐；精明
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) Subtleties are very small details or differences which are not obvious. 精妙之处; 微妙差异
+   ≫   His fascination with the subtleties of human behaviour makes him a good storyteller.  他对人类行为微妙之处的极大兴趣使他成为一个好的作家。
+2. (N-UNCOUNT) Subtlety is the quality of being not immediately obvious or noticeable, and therefore difficult to describe. 微妙性
+   ≫   African dance is vigorous, but full of subtlety, requiring great strength and control.  非洲舞蹈很有活力，但充满微妙性，需要很大的力量和很强的控制力。
+3. (N-UNCOUNT) Subtlety is the ability to notice and recognize things which are not obvious, especially small differences between things. 敏锐
+   ≫   She analyses herself with great subtlety.  她非常敏锐地分析了自己。
+4. (N-UNCOUNT) Subtlety is the ability to use indirect methods to achieve something, rather than doing something that is obvious. 巧妙
+   ≫   They had obviously been hoping to approach the topic with more subtlety.  他们显然一直在希望更巧妙地切入这个话题。
+
+========================================================================
+>>> fascination
+------------------------------------------------------------------------
+fascination    [美 ,fæsɪ'neʃən / 英 ,fæsɪ'neɪʃ(ə)n]
+n. 魅力；魔力；入迷
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-UNCOUNT) Fascination is the state of being greatly interested in or delighted by something. 着迷
+   ≫   I've had a lifelong fascination with the sea and with small boats.  我毕生都对海和小船有一份沉迷。
+
+========================================================================
+>>> vigorous
+------------------------------------------------------------------------
+vigorous    [英 'vɪg(ə)rəs / 美 'vɪɡərəs]
+adj. 有力的；精力充沛的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Vigorous physical activities involve using a lot of energy, usually to do short and repeated actions. 用力的
+   ≫   Very vigorous exercise can increase the risk of heart attacks.  耗费大量体力的运动会增加心脏病发作的风险。
+2. [ADV after v] vigorously 用力地
+   ≫   He shook his head vigorously.  他用力地摇了摇头。
+3. (ADJ) A vigorous person does things with great energy and enthusiasm. A vigorous campaign or activity is done with great energy and enthusiasm. 精力充沛的 (人); 强有力的 (运动、活动)
+   ≫   Theodore Roosevelt was a strong and vigorous politician.  西奥多·罗斯福是一位身体强壮、精力充沛的政治家。
+4. [ADV with v] vigorously 强烈地
+   ≫   The police vigorously denied that excessive force had been used.  警方坚决否认曾过度使用武力。
+
+========================================================================
+>>> from scratch
+------------------------------------------------------------------------
+from scratch
+白手起家；从头做起
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   In dealing with this situation, we do not have the luxury of starting from scratch. 在处理这类情况时，我们没有可以从头开始的有利条件。
+≫   So all the custom rules you write need to be written from scratch even if a built in one almost does what you want. 因此你所编写的所有自定义规则都需要从头做起，即便其中的一个已经几乎达到了你的目的。
+≫   Should you start from scratch? 你是否应该从零开始？
+
+========================================================================
+>>> superseded
+------------------------------------------------------------------------
+superseded    [,sju:pə'si:d]
+adj. 作废的；被取代的
+v. 取代；克制；废弃（supersede的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> catastrophic
+------------------------------------------------------------------------
+catastrophic    [英 kætə'strɒfɪk / 美 ,kætə'strɑfɪk]
+adj. 灾难的；悲惨的；灾难性的，毁灭性的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) Something that is catastrophic involves or causes a sudden terrible disaster. 灾难性的
+   ≫   A tidal wave caused by the earthquake hit the coast causing catastrophic damage.  地震引发的海啸袭击了海岸，造成了灾难性的损失。
+   ≫   The water shortage in this country is potentially catastrophic.  该国水资源的匮乏很可能是灾难性的。
+2. (ADJ) If you describe something as catastrophic, you mean that it is very bad or unsuccessful. 极糟的; 失败的
+   ≫   ...another catastrophic attempt to arrest control from a rival Christian militia.  …和敌对基督徒民兵组织争夺控制权的再次惨败。
+
+<<=== 2026-11-04 ===>>
