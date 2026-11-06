@@ -3470,3 +3470,97 @@ CET6+
 1. (N-COUNT) A tsunami is a very large wave, often caused by an earthquake, that flows onto the land and can cause widespread deaths and destruction. 海啸
 
 <<=== 2026-11-06 ===>>
+========================================================================
+>>> upgrade
+------------------------------------------------------------------------
+upgrade    [美 ,ʌp'ɡred / 英 ʌp'greɪd]
+vt. 使升级；提升；改良品种
+n. 升级；上升；上坡
+adv. 往上
+adj. 向上的
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If equipment or services are upgraded, they are improved or made more efficient. 使升级
+   ≫   Helicopters have been upgraded and modernized.  直升机已经升级并且装上现代化设备。
+   ≫   Medical facilities are being reorganized and upgraded.  医疗设施正在进行重组和升级。
+2. (N-COUNT) Upgrade is also a noun. 升级
+   ≫   ...equipment which needs expensive upgrades.  …需要进行昂贵升级的设备。
+3. [usu passive] If someone is upgraded, their job or status is changed so that they become more important or receive more money. 提升
+   ≫   He was upgraded to security guard.  他被提升为保安。
+4. (V-T/V-I) If you upgrade or are upgraded, you change something such as your plane ticket or your hotel room to one that is more expensive. 使升舱; 使 (旅馆房间等) 升级; 升舱; 升级
+   ≫   His family was upgraded from economy to business class.  他的家人从经济舱升到了商务舱。
+
+========================================================================
+>>> 考察
+------------------------------------------------------------------------
+考察
+v. investigate
+vt. inspect
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫    
+≫    
+≫    
+
+========================================================================
+>>> investigation
+------------------------------------------------------------------------
+investigation    [美 ɪn,vɛstɪ'ɡeʃən / 英 ɪn,vestɪ'geɪʃ(ə)n]
+n. 调查；调查研究
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   This matter bears investigation. 这件事情需要调查。
+≫   No investigation, no right to speak. 没有调查就没有发言权。
+≫   He had made a thorough investigation. No wonder he knew so much about it. 他对此事做了彻底的调查，怪不得他了解得那么多。
+
+========================================================================
+>>> relay
+------------------------------------------------------------------------
+relay    [美 rɪ'le / 英 'riːleɪ]
+vi. 转播；接替
+n. [电] 继电器；接替，接替人员；驿马
+vt. 转播；使接替；分程传递
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A relay or a relay race is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race. 接力赛
+   ≫   Britain's prospects of beating the United States in the relay looked poor.  英国队在接力赛中战胜美国队的希望看上去不大。
+2. (V-T) To relay television or radio signals means to send them or broadcast them. 转播
+   ≫   The satellite will be used mainly to relay television programmes.  这颗卫星将主要用来转播电视节目。
+3. [正式] If you relay something that has been said to you, you repeat it to another person. 转告
+   ≫   She relayed the message, then frowned.  她转告了那个消息，然后皱了皱眉。
+
+========================================================================
+>>> banner
+------------------------------------------------------------------------
+banner    [美 'bænɚ / 英 'bænə]
+n. 横幅图片的广告模式
+n. 旗帜，横幅,标语
+n. 人名(英、德、罗)班纳
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A banner is a long strip of cloth with something written on it. Banners are usually attached to two poles and carried during a protest or rally. (游行或集合用的) 横幅
+   ≫   A large crowd of students followed the coffin, carrying banners and shouting slogans denouncing the government.  一大群学生跟在灵柩的后面，举着横幅，高喊口号谴责政府。
+2. (PHRASE) If someone does something under the banner of a particular cause, idea, or belief, they do it saying that they support that cause, idea, or belief. 在…旗帜下; 在…名义下
+   ≫   Russia was the first country to forge a new economic system under the banner of Marxism.  苏联是第一个在马克思主义的旗帜下建立新的经济体制的国家。
+
+========================================================================
+>>> ancestor
+------------------------------------------------------------------------
+ancestor    [美 'ænsɛstɚ / 英 'ænsestə]
+n. 始祖，祖先；被继承人
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu pl, with poss] Your ancestors are the people from whom you are descended. 祖先
+   ≫   ...our daily lives, so different from those of our ancestors.  …我们的日常生活，与我们祖先的生活如此不同。
+2. (N-COUNT) An ancestor of something modern is an earlier thing from which it developed. 物种原型
+   ≫   The direct ancestor of the modern cat was the Kaffir cat of ancient Egypt.  现代猫的直系物种原型是古代埃及的卡菲尔猫。
+
+========================================================================
+>>> credential
+------------------------------------------------------------------------
+credential    [美 krə'dɛnʃl / 英 krɪ'denʃ(ə)l]
+n. 证书；凭据；国书
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   You must find a secure way to store and retrieve the sensitive credential information. 您必须找到一种安全的方法来存储和检索这些敏感的凭据信息。
+≫   You must find a secure way to store and retrieve this sensitive credential information. 您必须找到一种安全的方法来存储和检索这些敏感的凭据信息。
+≫   Listing 11 shows the credential store we used in the sample applications in this article. 清单 11 显示了我们在本文的示例应用程序中使用的凭据库。
+
+<<=== 2026-11-07 ===>>
