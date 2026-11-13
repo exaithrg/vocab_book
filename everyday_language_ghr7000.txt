@@ -3859,3 +3859,14 @@ TEM8
    ≫   I had a feeling that the challenge appealed to him. All he needed was a nudge.  我有一种感觉这个挑战吸引了他。他所需要的只是一点说服。
 
 <<=== 2026-11-12 ===>>
+========================================================================
+>>> prism
+------------------------------------------------------------------------
+prism    [美 'prɪzəm / 英 'prɪz(ə)m]
+n. 棱镜；[晶体][数] 棱柱
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A prism is a block of clear glass or plastic that separates the light passing through it into different colours. 棱镜
+2. [maths] a polyhedron having parallel, polygonal, and congruent bases and sides that are parallelograms 棱柱体
+
+<<=== 2026-11-13 ===>>
