@@ -3870,3 +3870,74 @@ TEM8
 2. [maths] a polyhedron having parallel, polygonal, and congruent bases and sides that are parallelograms 棱柱体
 
 <<=== 2026-11-13 ===>>
+========================================================================
+>>> 假设
+------------------------------------------------------------------------
+假设
+n. hypothesis ; assumption
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   His views are grounded on the assumption that all people are equal. 他的观点建立在人人平等的假设之上。《牛津词典》
+≫   We need to challenge some of the basic assumptions of Western philosophy. 我们有必要向西方哲学的某些基本假设提出质疑。《牛津词典》
+≫   These assumptions beg the question that children learn languages more easily than adults. 这些假设想当然地认为儿童比成年人学习语言容易。《牛津词典》
+
+========================================================================
+>>> 已编辑
+------------------------------------------------------------------------
+已编辑
+编辑已命名被选物 Edit Named Selections
+编辑已命名的选择集 Named Selection Sets
+编辑已存在记录 Editing Existing Records
+编辑已自创的选手 EDIT
+编辑已自创的必杀技 EDIT
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   Listing 8 shows an edited version of the client-side WSDL with Metro security run-time parameters shown in bold. 清单8显示的是已编辑过的客户端WSDL，其中Metro安全运行时参数以粗体显示。
+≫   Opening Git controlled solutions with this plugin, the files are clearly marked differently as they are new, tracked, modified and staged. 使用这个插件打开Git所控制的解决方案，根据文件所处的是新建、已签入、已编辑和待登台的状态，而被清楚地进行不同标记。
+≫   To get feedback on the edited file, send it out to one or more reviewers. 如果要得到关于已编辑文件的反馈意见，请将它寄给一或多位审阅者。
+
+========================================================================
+>>> 已修改
+------------------------------------------------------------------------
+已修改
+adj. modified
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   These methods obtain a list of modified documents. 这些方法获得已修改文档的列表。
+≫   Save the modified SQL script. 保存已修改的 SQL 脚本。
+≫   The order has been modified and the issue recorded as resolved. 订单已修改，问题记录为已解决。
+
+========================================================================
+>>> redacted
+------------------------------------------------------------------------
+redacted
+adj. 经过编辑的；有修改的
+v. 编辑，修改（文本）；审查（redact 的过去式和过去分词）
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to compose or draft (an edict, proclamation, etc) 撰写
+
+========================================================================
+>>> retacted
+------------------------------------------------------------------------
+Not found :(
+
+========================================================================
+>>> conversion
+------------------------------------------------------------------------
+conversion    [美 kən'vɝʒn / 英 kən'vɜːʃ(ə)n]
+n. 转换；变换；[金融] 兑换；改变信仰
+CET6 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-VAR) Conversion is the act or process of changing something into a different state or form. (状态或形式的) 改变
+   ≫   ...the conversion of disused rail lines into cycle routes.  …把废弃的铁路改变成自行车道。
+2. (N-VAR) If someone changes their religion or beliefs, you can refer to their conversion to their new religion or beliefs. 皈依
+   ≫   ...his conversion to Christianity.  …他对基督教的皈依。
+
+========================================================================
+>>> perish
+------------------------------------------------------------------------
+perish    [美 'pɛrɪʃ / 英 'perɪʃ]
+vt. 使麻木；毁坏
+vi. 死亡；毁灭；腐烂；枯萎
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [书面] If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡
+   ≫   Most of the butterflies perish in the first frosts of autumn.  大多数蝴蝶在秋季初霜来临时死亡。
+
