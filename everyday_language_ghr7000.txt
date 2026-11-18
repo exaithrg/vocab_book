@@ -3975,3 +3975,115 @@ CET6+ TEM4
    ≫   Everyone knows Teddy Roosevelt's immortal words, "Speak softly and carry a big stick."  大家都知道特迪·罗斯福的名言：“说话温和，手持大棒。”
 
 <<=== 2026-11-16 ===>>
+========================================================================
+>>> hypo
+------------------------------------------------------------------------
+hypo    [英 'haɪpəʊ]
+n. 定影剂；海波；吸毒成瘾者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) another name for sodium thiosulphate, esp when used as a fixer in photographic developing 海波; 定影剂
+2. (N) 
+3. (N) hypodermic syringe的缩写 → short for
+
+========================================================================
+>>> superseded
+------------------------------------------------------------------------
+superseded    [,sju:pə'si:d]
+adj. 作废的；被取代的
+v. 取代；克制；废弃（supersede的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> ablate
+------------------------------------------------------------------------
+ablate    [英 æb'leɪt / 美 æb'let]
+vt. 烧蚀；切除；使脱落
+vi. 脱落
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V) to remove by ablation 切除
+
+========================================================================
+>>> accidental
+------------------------------------------------------------------------
+accidental    [美 ,æksɪ'dɛntl / 英 æksɪ'dent(ə)l]
+adj. 意外的；偶然的；附属的；临时记号的
+n. 次要方面；非主要的特性；临时记号
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) An accidental event happens by chance or as the result of an accident, and is not intended. 意外的
+   ≫   ...the tragic accidental shooting of his younger brother.  …对他弟弟的悲剧性意外枪击。
+2. [ADV with v] accidentally 意外地
+   ≫   A policeman accidentally killed his two best friends with a single bullet.  一位警察意外地用一颗子弹杀死了他的两个最好的朋友。
+
+========================================================================
+>>> ablation
+------------------------------------------------------------------------
+ablation    [美 ə'bleʃən / 英 ə'bleɪʃ(ə)n]
+n. [水文] 消融；切除
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N) the surgical removal of an organ, structure, or part 切除手术
+
+========================================================================
+>>> estimated
+------------------------------------------------------------------------
+estimated    [ɛstəˌmetɪd]
+adj. 估计的；预计的；估算的
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you estimate a quantity or value, you make an approximate judgment or calculation of it. 估计
+   ≫   Try to estimate how many steps it will take to get to a close object.  估计一下需要多少步才能到达一个近距目标。
+   ≫   I estimate that total cost for treatment will go from $9,000 to $12,500.  我估计治疗费总额将在9千美元到1.25万美元之间。
+2. (ADJ) estimated 估计的
+   ≫   There are an estimated 90,000 gangsters in the country.  这个国家估计有9万名歹徒。
+3. (N-COUNT) An estimate is an approximate calculation of a quantity or value. 估计
+   ≫   ...the official estimate of the election result.  …选举结果的官方估计。
+4. (N-COUNT) An estimate is a judgment about a person or situation that you make based on the available evidence. 判断
+   ≫   I hadn't been far wrong in my estimate of his grandson's capabilities.  我对他孙子能力的判断没有太离谱。
+5. (N-COUNT) An estimate from someone who you employ to do a job for you, such as a builder or a plumber, is a written statement of how much the job is likely to cost. 估价
+   ≫   Quotes and estimates can be prepared by computer on the spot.  报价和估价可以当场用电脑做出来。
+
+========================================================================
+>>> glance
+------------------------------------------------------------------------
+glance    [美 ɡlæns / 英 glɑːns]
+n. 一瞥；一滑；闪光
+vi. 扫视，匆匆一看；反光；瞥闪，瞥见
+vt. 扫视；瞥见；擦过
+n. (Glance)人名；(英)格兰斯
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-I) If you glance at something or someone, you look at them very quickly and then look away again immediately. 瞥
+   ≫   He glanced at his watch.  他看了一下手表。
+2. (V-I) If you glance through or at a newspaper, report, or book, you spend a short time looking at it without reading it very carefully. 浏览
+   ≫   I picked up the phone book and glanced through it.  我拿起电话簿，浏览了一下。
+3. (N-COUNT) A glance is a quick look at someone or something. 一瞥
+   ≫   Trevor and I exchanged a glance.  特雷弗和我相互瞥了一眼。
+4. (PHRASE) If you see something at a glance, you see or recognize it immediately, and without having to think or look carefully. 看(一眼就...)
+   ≫   One could tell at a glance that she was a compassionate person.  一眼就能看出她是一个富有同情心的人。
+5. (PHRASE) If you say that something is true or seems to be true at first glance, you mean that it seems to be true when you first see it or think about it, but that your first impression may be wrong. 乍一看
+   ≫   At first glance, organic farming looks much more expensive for the farmer.  乍一看，有机耕作对农民来说似乎昂贵得多。
+6. (N-MASS) any mineral having a metallic lustre, esp a simple sulphide 辉金属
+   ≫   copper glance  
+
+========================================================================
+>>> reconciling
+------------------------------------------------------------------------
+reconciling    [美 'rɛkənsaɪlɪŋ / 英 'rekənsaɪlɪŋ]
+调解
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful. 使和谐一致; 调和
+   ≫   It's difficult to reconcile the demands of my job and the desire to be a good father.  协调我工作的要求与我当个好父亲的愿望很难。
+2. (V-RECIP-PASSIVE) If you are reconciled with someone, you become friendly with them again after a quarrel or disagreement. 与…和好
+   ≫   He never believed he and Susan would be reconciled.  他不认为他和苏珊会和好。
+3. (V-T) If you reconcile two people, you make them become friends again after a quarrel or disagreement. 使和解
+   ≫   ...my attempt to reconcile him with Toby.  …我使他与托比和解的努力。
+4. (V-T) If you reconcile yourself to an unpleasant situation, you accept it, although it does not make you happy to do so. 妥协; 将就
+   ≫   She had reconciled herself to never seeing him again.  她不情愿地接受了再也不和他见面的事实。
+5. [v-link ADJ 'to' n/-ing] reconciled 妥协的; 将就的
+   ≫   She felt, if not grateful for her own situation, at least a little more reconciled to it.  她觉得，即便对自己的处境不心存感激，至少能将就一些了。
+
+<<=== 2026-11-18 ===>>
