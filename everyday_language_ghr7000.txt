@@ -4087,3 +4087,69 @@ CET4 TEM4
    ≫   She felt, if not grateful for her own situation, at least a little more reconciled to it.  她觉得，即便对自己的处境不心存感激，至少能将就一些了。
 
 <<=== 2026-11-18 ===>>
+========================================================================
+>>> 实例
+------------------------------------------------------------------------
+实例
+living example
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   It is important to cite examples to support your argument. 用实例来证明你的论点是重要的。《牛津词典》
+≫   The writer doesn't back up his opinions with examples. 作者不用实例印证他的看法。《牛津词典》
+≫   Can you give me an example of what you mean? 你能给我举个实例来解释你的意思吗？《牛津词典》
+
+========================================================================
+>>> node
+------------------------------------------------------------------------
+node    [英 nəʊd / 美 nod]
+n. 节点；瘤；[数] 叉点
+n. (Node)人名；(法)诺德
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A node is a point, especially in the form of lump or swelling, where one thing joins another. 节点; 结; 瘤
+   ≫   Cut them off cleanly through the stem just below the node.  从茎节下面，沿茎干把它们全剪掉。
+   ≫   ...nerve nodes.  ...神经结。
+
+========================================================================
+>>> module
+------------------------------------------------------------------------
+module    [美 'mɑdʒul / 英 'mɒdjuːl]
+n. [计] 模块；组件；模数
+CET6 TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A module is a part of a machine, especially a computer, which performs a particular function. (尤指计算机的) 组件
+2. (N-COUNT) A module is a part of a spacecraft which can operate by itself, often away from the rest of the spacecraft. (航天器的) 舱
+   ≫   A rescue plan could be achieved by sending an unmanned module to the space station.  营救计划可以通过向空间站发送一个无人舱来完成。
+
+========================================================================
+>>> mojo
+------------------------------------------------------------------------
+mojo    [美 'modʒo / 英 'məʊdʒəʊ]
+n. 巫术；符咒；运气
+adj. 巫术的
+vt. 对…念咒语
+n. (Mojo)人名；(津、刚(金))莫乔；(意、塞)莫约
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [非正式] People use mojo to mean magic, or a magic spell or magic charm. 魔术; 魔咒; 护身符
+   ≫   I don't know what mojo is working with this team, but it's not a good one right now.  我不知道这个团队用的是什么魔咒，但目前肯定不是个良咒。
+   ≫   ...the best sign that Congress got its mojo working.  ...国会魔力乍现的最好迹象。
+
+========================================================================
+>>> exactly
+------------------------------------------------------------------------
+exactly    [美 ɪɡ'zæktli / 英 ɪg'zæk(t)lɪ]
+adv. 恰好地；正是；精确地；正确地
+TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [强调] You use exactly before an amount, number, or position to emphasize that it is no more, no less, or no different from what you are stating. 恰好
+   ≫   Each corner had a guard tower, each of which was exactly ten metres in height.  每个角都有1个警戒塔，每个塔刚好10米高。
+2. [ADV as reply] If you say "Exactly," you are agreeing with someone or emphasizing the truth of what they say. If you say "Not exactly," you are telling them politely that they are wrong in part of what they are saying. 正是如此
+   ≫   Eve nodded, almost approvingly. "Exactly."  伊夫几近赞许地点点头。“正是如此。”
+3. [含糊] You use not exactly to indicate that a meaning or situation is slightly different from what people think or expect. 不完全是
+   ≫   He's not exactly homeless, he just hangs out in this park.  他不完全是无家可归，他只是常住在这个公园里。
+4. [强调] You can use not exactly to show that you mean the opposite of what you are saying. 根本不; 并非
+   ≫   This was not exactly what I wanted to hear.  这根本不是我想听的。
+5. [表不满] You use exactly with a question to show that you disapprove of what the person you are talking to is doing or saying. 到底 (用于质问)
+   ≫   What exactly do you mean?  你到底什么意思？
+6. → see also
+
+<<=== 2026-11-19 ===>>
