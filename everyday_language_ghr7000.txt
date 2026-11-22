@@ -4223,3 +4223,112 @@ CET4 TEM4
    ≫   ...his effort to avoid the draft.  …他逃避兵役的努力。
 
 <<=== 2026-11-20 ===>>
+========================================================================
+>>> roster
+------------------------------------------------------------------------
+roster    [美 'rɑstɚ / 英 'rɒstə]
+n. 花名册；执勤人员表；逐项登记表
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (N-COUNT) A roster is a list which gives details of the order in which different people have to do a particular job. 值勤表
+   ≫   The next day he put himself first on the new roster for domestic chores.  次日，他在新的内务值勤表上把自己排在第一个。
+2. [美国英语] A roster is a list, especially of the people who work for a particular organization or are available to do a particular job. It can also be a list of the athletes who are available for a particular team. 花名册; 名单
+   ≫   The Amateur Softball Association's roster of umpires has declined to 57,000.  业余垒球协会的裁判员名单上的人数减少到了5.7万人。
+3. (V) to place on a roster 将···放进名单中
+4. [DIALECT] a rascal 流氓; 无赖
+
+========================================================================
+>>> gargantuan
+------------------------------------------------------------------------
+gargantuan    [美 ɡɑr'ɡæntʃuən / 英 gɑː'gæntjʊən]
+adj. 庞大的，巨大的
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu ADJ n] If you say that something is gargantuan, you are emphasizing that it is very large. 巨大的
+   ≫   ...a marketing event of gargantuan proportions.  …一次大型的营销活动。
+   ≫   ...a gargantuan corruption scandal.  …一个巨大的腐败丑闻。
+
+========================================================================
+>>> superseded
+------------------------------------------------------------------------
+superseded    [,sju:pə'si:d]
+adj. 作废的；被取代的
+v. 取代；克制；废弃（supersede的过去分词）
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu passive] If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+   ≫   Hand tools are relics of the past that have now been superseded by the machine.  手工工具是过去的遗物，现在已被机器取代。
+
+========================================================================
+>>> suspended
+------------------------------------------------------------------------
+suspended    [英 sə'spendid /  sə'spendid]
+adj. 悬浮的；暂停的，缓期的（宣判）
+CET4 TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) If you suspend something, you delay it or stop it from happening for a while or until a decision is made about it. 暂停
+   ≫   The union suspended strike action this week.  工会本周暂停了罢工行动。
+2. (V-T) If someone is suspended, they are prevented from holding a particular job or position for a fixed length of time or until a decision is made about them. 使停职
+   ≫   Julie was suspended from her job shortly after the incident.  该事件发生后不久，朱莉被停职了。
+3. [usu passive] If something is suspended from a high place, it is hanging from that place. 悬挂
+   ≫   ...instruments that are suspended on cables.  …悬挂在电缆上的仪器。
+
+========================================================================
+>>> opaque
+------------------------------------------------------------------------
+opaque    [美 o'pek / 英 ə(ʊ)'peɪk]
+adj. 不透明的；不传热的；迟钝的
+n. 不透明物
+vt. 使不透明；使不反光
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If an object or substance is opaque, you cannot see through it. 不透明的
+   ≫   You can always use opaque glass if you need to block a street view.  如果你需要挡住外面的街景，你随时可以使用不透明玻璃。
+2. (ADJ) If you say that something is opaque, you mean that it is difficult to understand. 难理解的
+   ≫   ...the opaque language of the inspector's reports.  …检查员报告中晦涩难懂的语言。
+
+========================================================================
+>>> audi
+------------------------------------------------------------------------
+Audi    ['ɔdi]
+n. 奥迪公司；奥迪汽车
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+≫   While up until now, Audi has not yet addressed these problems or issued a recall. 而到目前为止，奥迪仍未对这些问题进行处理或者通知车辆召回。
+≫   He bought an Audi with four strangers in a group deal last October and managed to save over $1500. 他去年十月份和其他四个陌生人团购了一辆奥迪车，并节省了1500美元。
+≫   Perhaps Audi and BMW should join hands in the future. 或许奥迪和宝马将来真的可以强强联手！
+
+========================================================================
+>>> audit
+------------------------------------------------------------------------
+audit    [美 'ɔdɪt / 英 'ɔːdɪt]
+vi. 审计；[审计] 查账
+n. 审计；[审计] 查账
+vt. （美）旁听
+CET6+ TEM4
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (V-T) When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly. 审计
+   ≫   Each year they audit our accounts and certify them as being true and fair.  每年他们都会审核我们的账目，以证明其准确合理。
+2. (N-COUNT) Audit is also a noun. 审计
+   ≫   The bank first learned of the problem when it carried out an internal audit.  银行是在进行内部审计时最先得知这个问题的。
+
+========================================================================
+>>> opaque
+------------------------------------------------------------------------
+opaque    [美 o'pek / 英 ə(ʊ)'peɪk]
+adj. 不透明的；不传热的；迟钝的
+n. 不透明物
+vt. 使不透明；使不反光
+CET6+ TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. (ADJ) If an object or substance is opaque, you cannot see through it. 不透明的
+   ≫   You can always use opaque glass if you need to block a street view.  如果你需要挡住外面的街景，你随时可以使用不透明玻璃。
+2. (ADJ) If you say that something is opaque, you mean that it is difficult to understand. 难理解的
+   ≫   ...the opaque language of the inspector's reports.  …检查员报告中晦涩难懂的语言。
+
+========================================================================
+>>> roadster
+------------------------------------------------------------------------
+roadster    [美 'rodstɚ / 英 'rəʊdstə]
+n. 跑车，双人座敞篷汽车；流浪者
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [老式] A roadster is a car with no roof and only two seats. 敞篷车
+
+<<=== 2026-11-22 ===>>
