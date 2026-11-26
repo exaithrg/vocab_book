@@ -4446,3 +4446,13 @@ n. (Macro)人名；(意)马克罗
 2. [计算机] A macro is a shortened version of a computer command which makes the computer carry out a set of actions. 宏指令
 
 <<=== 2026-11-25 ===>>
+========================================================================
+>>> epilogue
+------------------------------------------------------------------------
+epilogue    [美 'ɛpɪlɔɡ / 英 'epɪlɒg]
+n. 结语，收场白；尾声，后记
+TEM8
+⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺⸺
+1. [usu 'the' N in sing] An epilogue is a passage or speech that is added to the end of a book or play as a conclusion. (书的)后记; (戏剧的)收场白
+
+<<=== 2026-11-26 ===>>
